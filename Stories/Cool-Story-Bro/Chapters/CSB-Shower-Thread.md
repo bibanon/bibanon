@@ -195,24 +195,24 @@ Interest lost.
 
 ### 1252811 (OP)
 
-\>\>1252789
+\>\>1252789  
 well I only had about 5 more posts until the end, but if people are starting to loose interest I guess I could rush the ending.
 
 ### 1252820
 
-\>\>1252811
+\>\>1252811  
 I'm still interested!
 
 ### 1252824
 
-\>\>1252811
+\>\>1252811  
 Yo man, I've been following this thread since the very first post and I have to say I'm still completely enthralled. Your writing may not be the most articulate but you're an excellent story teller. Fuck the haters and the impatient cunts. Take as long as you need, it's not like the majority of the losers on this board have anything else to do.
 
 Serious props man.
 
 ### 1252828
 
-\>\>1252811
+\>\>1252811  
 no no no no no keep the quality up, I'll gladly wait, I can have \<spoiler\>showers\</spoiler\> in the mean time.
 
 ### 1240735 (OP)
