@@ -1,0 +1,71 @@
+{{Standard/Codebox
+| code = 
+fel0ny-Cyanide
+
+Name: Cory Lynch
+Email: spunky.devil@hotmail.com
+Docs: http://www.root-the.net/showthread.php?t=138
+Picture: http://img23.imageshack.us/img23/3250/zerocide.jpg
+Website: http://www.globalfrag.com/
+Date of birth: August 31st 1988
+Born: Santa Rosa, California, USA
+Age: 20
+Address: 129 Rancho Verde Cir
+	 Rohnert Park, CA 94928-2073, USA
+Telephone: 707.585.6841
+Company: DJs @ Talkshow
+
+	---Partner---
+	AznBoy4Life
+	
+	Name: Wang Ai
+	Website: http://www.globalfrag.com/
+	Address: 3940 Valley Blvd.
+		 Walnut, CA, 91789, USA
+	Telephone: 866.436.5573
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+fel0ny-Beaver
+
+Name: Tyler Dupre
+Email: b3av3r@live.com
+Docs: webpage link from profile at http://raidgaming.com/index.php?showuser=3
+Picture: http://img22.imageshack.us/img22/2985/05082009004206.png
+Myspace: http://www.myspace.com/tylerdupre
+Twitter: http://twitter.com/tddupre
+Steam: http://steamcommunity.com/id/tddupre
+Youtube page: http://www.youtube.com/user/TDDUPRE
+Bio: Went to Sullivan University in/around Lexington/Louisville, Kentucky.
+     Runs the business Kentucky Computer Repairs <http://www.kyrepairs.com/>
+Telephone: 859.749.731
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+fel0ny-Shone Info:
+
+Birthday: January 20th 1988 - age: 21, Minneapolis, MN
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+fel0ny-Fubar
+
+Email: fubar.loves.cake@live.com
+ICQ: 356137313
+Skype: fubar.99
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+fel0ny-Rodent Info
+
+Name: Alexander Haibl
+Docs: http://groovestats.com/index.php?page=profile&id=4487&typeid=1
+Company: Rodent Machine Dance
+Address: Anton Baumgartner Str. 44/C3/2502
+	 1230, Wien, Austria
+Telephone: +4369.9126.19977
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+fel0ny-ZeroCide
+Name: Eric Blumenfeld
+Email: bluenfee@gmail.com
+Age: 21-23 
+Address: 405 Serrano Dr, Apt. MK
+	 San Francisco CA, 94132, USA
+Telephone: 510.367.2378
+Specialty: Wi-Fi hacking
+Resume: http://userwww.sfsu.edu/~bluenfee/documents/Eric%20Blumenfeld%20Resume.pdf
+| codetitle = Dox
+}}

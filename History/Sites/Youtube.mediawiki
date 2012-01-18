@@ -1,0 +1,23 @@
+=Introduction=
+Youtube <s>is</s> used to be an awesome video site used by the insurgency for epic propaganda when backup is needed. The general quality of Youtube has gone downhill fastly, and it is now a place where any butthurt faggot can take any video down with a false DMCA claim, and get away with it completly unpunished pretty much all of the time. But besides that, Youtube still remains very useful because of its ability to spread a message quickly.
+
+=Youtube Fraud=
+Want your videos to be bumped up search lists and possibly receive honors for most viewed video?
+Look no further than ''Youtube Fraud'':
+[[Image:Tube.png|right]]
+*1. Download [http://www.tubeincreaser.com/software.html Tube Increaser] and install it.
+
+*2. Run the program. Paste video link in "Visit" field. In the "Instructions" window (hey, there's the instructions!), scroll down till you find a link named "Proxy List". right click it, and save it as .txt file.
+
+*3. Check the "proxy" box, click the 'load list' button and, select the proxylist you have just saved. Alternatively, you could also use the proxylist you gathered if you followed the instructions in IP-hopping section. After that click the "Start" button.
+
+*4. ????
+
+*5. '''PROFIT!'''
+
+
+PROTIP: Before the timer runs out, exit the program via windows task manager, preferably at the last minute. It's timer will come back to 40 minutes. You can also run multiple instance of the program, as long as your computer and internet connection can handle. Of course you can always go over 9000.
+
+Of course, there's many other programs which do it, some better than others. There's so MANY to choose from so just [http://www.google.com/search?q=increase+youtube+views Google it].
+
+[[Category:Sites]]

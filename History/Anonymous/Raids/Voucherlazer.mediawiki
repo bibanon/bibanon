@@ -1,0 +1,41 @@
+'''OPERATION VOUCHERLAZER (aka) fuck the fuck off!!!'''
+Started thanks to '''602'''_ !!ThZylMRCB/6
+
+
+== I'm 12 years old and what is this? ==
+
+This raid is being led by the valiant anonymous legion in defence of motherland /b/ and it's womb 4chan from the various voucher spammers, who are proliferating the boards with nonsense.
+
+== How to help: ==
+
+* If in Windows download Windows LOIC here:[http://sourceforge.net/projects/loic/files/loic/loic-1.0.3/loic-1.0.3-binary.zip/download http://sourceforge.net/projects/loic/files/loic/loic-1.0.3/loic-1.0.3-binary.zip/download]
+
+* Other platforms download LOIC multi-platform Java version here:[http://sourceforge.net/projects/javaloic/files/JavaLoic_0.1.zip/download http://sourceforge.net/projects/javaloic/files/JavaLoic_0.1.zip/download]
+
+* Unzip and run the program. For the Java version, you may need to "Open With" Java.
+
+* Set IP to a site IP. Enter the IP in your browser to see if it's up. If it's up, LAZER IT.
+
+'''CURRENT TARGET:''' 217.23.7.7 (  [http://voucherbounty.com/ voucherbounty.com]) SLOW GOGOGOGO<br>
+74.208.232.92 (  [http://fearmoney.com/ fearmoney.com]) STILL UP<br>
+217.23.3.127 (  [http://squarestyle.net/ squarestyle.net]) STILL UP
+
+* Set protocol to TCP, you might get more successful requests with UDP but TCP is harder for the server to handle. Less requests is actually better. 
+
+* '''F I R E '''
+
+== Communicate: ==
+
+* IRC: irc.freenode.net #voucherlazer 
+* Tinychat:[http://tinychat.com/lazervoucher http://tinychat.com/lazervoucher]
+* Current thread(s)(none)
+
+== Protips: ==
+
+* Set threads to 500, if that works well set it higher. At some point you will DDoS yourself and not be able to access the internet.
+* Want to test if it's up? Command prompt/Terminal "ping www.voucherbounty.com" 
+
+== Archives: ==
+
+* Original Google Docs: http://docs.google.com/View?id=dvbdc9b_14fn67wmdk
+* Original call to action: http://i48.tinypic.com/kcxf0x.gif

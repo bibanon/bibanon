@@ -1,0 +1,200 @@
+[[Image:Op-eof.png|400px|right]]
+
+AnonTalk was a pedophile hangout created and maintained by Kimmo Alm. He is also responsible for spamming /b/ and generally spreading his pedofaggotry all over the place. Apparently Kimmo Alm has quit the internet forever. Nothing of value was lost.
+
+Where to report:
+
+*[http://anonym.to/http://www.iwf.org.uk/reporting.htm Internet Watch Foundation]
+*[http://anonym.to/http://dyzurnet.pl/ Dyżurnet] - Polish users can send CP complaints here
+*[http://anonym.to/http://www.asacp.org/page.php?content=report ASACP]
+*[mailto:itbrott@rkp.police.se itbrott@rkp.police.se] - Swedish police
+*[mailto:childabuse@rkp.police.se childabuse@rkp.police.se] - Swedish police
+*[mailto:polismyndigheten.stockholm@polisen.se polismyndigheten.stockholm@polisen.se] - Swedish police
+*[https://tips.kripos.no/cmssite.asp?c=1&s=6&menu=2 For Norwegian users]
+
+{{Quote|Your customer Anontalk.com is full of pedophilic pictures and SPAMS friendly imageboards with adverts, dumb pictures and threats.|Anonymous}}
+{{Quote|Anontalk.com is full of pedophilic pictures and SPAMS friendly imageboards with adverts, dumb pictures and threats.|Anonymous}}
+
+==WTF ANONTALK==
+[[Image:Anontalk2.jpg|400px|right]]
+{{Quote|people started talking about it less than two weeks ago when everyone got really fed up with the ads of AT so someone suggested we ddos it like old times and some people didn't agree, but some people did, so it continued, the sysop of AT said he wanted some people to raid the chans back, there are rumors of him wanting to take down the server etc|Anonymous}}
+The myriad *chan sites has a history of being free and open, not being full of moralfags and all that. A person was fed up with some of the parts of the culture that he disagreed with (*chan memes, etc.) That person, who calls himself 'Sysop' (also known as Anonymous 47ae211000a6a8.34833955) was fed up with some of the bans committed by some of the *chan sites, which he disagreed with and considered 'wrong'. He wanted to make his own anonymous textboard, that would be relatively free of chan memes and references and discuss things in more 'formal' ways. He originally was relatively slow on blocking words, and was lax in his administration. Unfortunately, due to various reasons he went fucking NAZI (over time) and banned anyone using a chan meme or reference, nimped random innocents, and began spamming several chan sites with bots advertising anontalk. Many people wondered, "Was this guy sodomized by moot as a child or something?" There have been several incidents and skirmishes between AT and *chan due to those issues, spamming on both sides. During the Chanapocalypse, anontalk was hit decently hard by 4chan's /b/ but they also inflicted losses on the /b/ raiders. The bots continued to spam *chan, though a recent addition of a Captcha has defeated most of the spam. Sysop continues to rule like a tyrant and does not relinquish control (or lessen it). Therefore, we must attack his site to prevent this threat from growing further. A raid will be commenced, lead by 4chan's /b/, as well as any /i/nsurgents who also participate in this battle.
+
+Regarding anontalk. AnonTalk and kimmoa.se are hosted on the same computer on a high speed home connection (as opposed to professional hosting or leased servers). KimmoA is in fact a known Swedish e-mail spammer and his real name is Kimmo Alm. He resides in Stockholm. 
+
+*Update* On Dec. 13, 2008, Epic win was achieved by the collapse of anontalk.com. Have some Cake.
+
+The site was down for approximately one week, resulting in plenty of L-O-L corruption.
+
+They are currently up again. Perhaps it's time for an 'aftershock'?
+
+Looks like they're down again...
+
+Nope they're up again.
+
+Anontalk goes up and down more than a Chinese hooker.
+
+Around March 2010, Kimmo lost his domain. He has a .se address now. Anontalk.com in itself is down, and inTrust domains is not available to comment at the moment.
+
+==Reporting AT==
+
+In your report, explain to them that CP=child porn. Otherwise, they will not understand, and thus see only innocuous content. It has also come to my attention that AT has IP-based filters that filter out government IP addresses, along with IPs that are associated with AntiCP agencies and ISPs. That will either prevent access to AT from those addresses, or present a different site (with no CP) to those agencies. Attach a screenshot, or state that such measures are being taken, along with your report.
+
+===Details===
+
+   * Norway: https://tips.kripos.no/cmssite.asp?c=1&s=6&menu=2
+   * Sweden: http://www.ecpathotline.se/ also childabuse@rkp.police.se
+   * Denmark: https://www.politi.dk/da/hjaelppolitiet/itkriminalitet/
+   * UK: http://www.iwf.org.uk/ also https://secure.crimestoppers-uk.org/ams.form.anonymous.asp also https://www.ceop.gov.uk/ceop_report_form.aspx
+   * Poland: http://dyzurnet.pl/
+   * Slovenia: https://www.spletno-oko.si/prijava/
+   * Latvia: http://netsafe.lv/pub/report.php?lang=lat
+   * Greece: http://www.safeline.gr/
+   * Australia: http://www.acma.gov.au/WEB/STANDARD..PC/pc=PC_90103
+   * Italy: http://www.stop-it.org/ and also http://www.hot114.it/
+   * Canada: https://www.cybertip.ca/app/en/report
+   * France: http://www.pointdecontact.net/
+   * Belgium: http://www.stopchildporno.be/index.php?step=1&pid=4
+   * Luxemburg: http://www.lisa-stopline.lu/
+   * Spain: http://www.protegeles.com/
+   * Czech republic: http://www.internethotline.cz/
+   * Lithuania: http://www.draugiskasinternetas.lt/en/main/reports
+   * Hungary: http://www.internethotline.hu/
+   * Austria: http://www.stopline.at/index.php?id=231&L=9
+   * Portugal: http://linhaalerta.internetsegura.pt/
+   * Germany: http://www.jugendschutz.net/hotline/index.html also http://www.internet-beschwerdestelle.de/
+   * Ireland: http://www.hotline.ie/
+   * Netherlands: http://www.meldpunt-kinderporno.nl/melding/?lid=1
+
+==DDoS tools==
+Some of the many [[DDoS]] tools you can to to fight this cancer is the [[Longcat Flooder]].
+Longcat Flooder is a multi-protocol flooding tool written during the Subeta raids, by the same creator as the newer bandwidth raeping tool, [[BWRaeper.NET]] (Could someone please provide a list of images? Thank you). It quickly became popular amongst Anonymous due to its simplicity in use and powerful features. The protocols supported are TCP (SYN flooding), UDP and HTTP.
+
+Research has shown that SYN and UDP provide the best results. However, using the HTTP flooder can be useful in several situations:
+*Web server with limited bandwidth
+*Web server with limited CPU power
+*Website with search URLs
+
+Constantly flooding a URL where a search or other heavy SQL command gets executed has proven to be destructive during the Subeta raid. Only several Longcat Flooders were needed to take down the MySQL database when executing search commands.
+
+There are two different types of Longcat Flooder out there. One is a standalone version and one is a distributed version relying on a central server to provide raep information. The current version of the standalone version of the Longcat Flooder is v2.3 Final. The current version of the distributed version of the Longcat Flooder Client is 3.0 Beta. The Longcat Flooder Server has version 1.0.
+
+==CopyPasta to spread==
+<code><nowiki>To make it a little harder to trace yourself, change your MAC address, find somebody else's unprotected Wi-Fi, and attack. MAC changer in the Dangerous Kitten Pack <http://anonym.to/http://i33.tinypic.com/2diiz5s.jpg>. Details at <http://anonym.to/http://i37.tinypic.com/63ytub.jpg>. W/i/ki at <http://anonym.to/http://insurgen.info/index.php?title=Operation_AntFuck>. Make sure to keep the www, or it is useless. Newfags, read <http://anonym.to/http://insurgen.info/index.php> and <http://anonym.to/http://www.mediafire.com/?353ge2yzm2e> to learn more. AND REMEMBER RULES 1 AND 2 OF THE INTERNET, NO MATTER WHAT. kthxbye.</nowiki></code>
+
+==Using Longcat Flooder==
+Anontalk runs on PostgreSQL (confirmed), and they have a deep search function. Just flood the URL for a deep search for many letters (such as "AkXjccHSddJ") in order to waste CPU time. Search results might be cached, making subsequent queries much less effective. Use a random string each time for best results. (bash script plz)
+
+Anontalk's ban system works something like this:
+1. Check for banned IP address
+2. Check for banned host-name
+(If those checks returned false, it will continue)
+3. Check to see if user is using an open proxy (see if ports serving HTTP are open, such as 80, 8080, 3128)
+
+However open proxy detection is negated if the user's first post was made longer than a few hours ago.
+Making the server perform these resourceful tasks is easy, just make a post.
+
+== Sending a message to sysop ==
+Use this links to send a personal message to kimmo through anontalk. For maximum lulz make a script that floods this so he can't ban actual trolls. :)
+
+anontalk.com/new_private_message_for_Sysop
+
+
+Copy and paste because anonym.to redirects autoban you.
+
+==DOX==
+Here is the personal information for Kimmo Alm, who created AnonTalk.
+
+'''Picture:'''<br>
+[[File:Kimmoa.jpg]]<br>
+These images are very old. It is likely that Kimmo is fatter/uglier by now.
+Looks like a severe case of autism...
+
+'''ID:'''<br>
+Name: Kimmo Alm<br>
+Gender: Male<br>
+DOB: 01/08/1985<br>
+Social security number: 850801-0371 <br>
+Age: 25<br>
+Employment status: Unemployed<br>
+
+admin-phone: 0737778461
+
+'''Address:'''<br>
+Kimmo Alm<br>
+Lina Sandells plan 18 (Bottenvåningen)<br>
+12953 Hägersten<br>
+Sweden<br>
+
+(It only costs [http://anonym.to/http://www.usps.com/prices/first-class-mail-international-prices.htm 94 cents] to send a letter from America to Sweden, btw.)
+
+[[File:Linasandell.jpg]]<br>
+[[File:Linasandell01.jpg]]
+
+
+'''Phone number'''<br>
++46 (0)8-972934<br>''His mother may answer and claim that he doesn't live with her. This is a lie.''
+A different phone number has been found via whois: 0737778461 <br>
+
+'''Email addresses'''<br>
+[mailto:kimmoa@gmail.com kimmoa@gmail.com]<br>
+[mailto:kimmoalm@hotmail.com kimmoalm@hotmail.com]<br>
+[mailto:kimmo.alm@bredband.net kimmo.alm@bredband.net]<br>
+[mailto:sysop@anontalk.com sysop.anontalk@gmail.com]<br>
+[mailto:KJA1000@gmail.com KJA1000@gmail.com] -- Kimmo's personal email<br>
+
+'''Miscellaneous'''<br>
+ICQ#: 34099478<br>
+MSN: [mailto:kimmoalm@hotmail.com kimmoalm@hotmail.com]<br>
+http://anonym.to/http://www.kimmoa.se/ - His Web site, often hosted on the same server as AnonTalk. The games there are malware.<br>
+http://anonym.to/http://www.pervseek.com/ - His Web site, no idea what it is.<br>
+http://anonym.to/http://www.iwantapal.com/ - His lame copy of facebook, FAIL.<br>
+http://anonym.to/http://www.frisnack.se/ - Don't know what it is, but it's his web site.<br>
+http://anonym.to/http://www.payoma.com/ - Apparently a copy of Paypal, but it's not up yet.<br>
+http://anonym.to/http://www.anontalk.se/ - His main site.<br>
+
+'''Bank account:'''<br>
+BIC/SWIFT: NDEASESS<br>
+IBAN: SE5530000000032473805199
+
+'''Home Computer ISP and IPs'''<br>
+Host: tn.glocalnet.net<br>
+ISP's web site: http://anonym.to/?http://www.glocalnet.se<br>
+E-mail for reporting abuse: abuse@bredband.com<br>
+Past IPs: 92.32.116.182, 92.32.116.185, (92.32.116.143 - DATE: Sunday 06 September 15:20:16 UTC) (92.32.116.159 - DATE: Friday 18 September 23:25:30 UTC), 92.32.116.170 (part of a /14 subnet [http://anonym.to/?http://www.db.ripe.net/whois?form_type=simple&full_query_string=&searchtext=92.32.116.182&do_search=Search (sauce)], but that subnet covers all of Scandinavia. Given the IPs that we have, it's possible he's only on a /26 subnet.)<br>
+When adding IPs, add the date and time when they were active.<br>
+
+== Consider the following: quotes from sysop. ==
+
+To see the butthurt faggot complaining go to [http://bulletins.iwantabro.com/ the site bulletins.]
+
+=== July 2009 ===
+{{Quote|I recommend all AnTs to abuse report Retardchan (and any crappy AT clones) to its server and DNS hosts to get it shut down. Since it keeps organizing attacks against us, and it does host child porn, we have a real case. In fact, feel free to lie and make stuff up as much as you want in your letters, since they do it frequently to our hosts. That shithole of the Internet doesn't have the right to exist anyway.|Kimmo Alm}}
+
+{{Quote|Even more fake donations received today by you worthless, lying pieces of shit. I'm hereby removing the post box which has only cost tons of money and time and not even nearly paid for itself.|Kimmo gets butthurt.}}
+
+{{Quote|Actually, it looks like you tried to post, but couldn't because of another massive attack carried out by Retardchan and the scum known as "moot". If you want to help me out greatly, e-mail the abuse department of whatever ISP hosts Retardchan this week from as many different e-mail addresses as possible and tell them about this. Also, be sure to bring up the copyrighted material and child porn hosted there while you're at it.|Kimmo shit talking an admin who does nothing. Retard.}}
+
+{{Quote|Why are you not spreading the word? Do you like worthless polls and virtually no activity?!|Kimmo Alm actively encouraging cancer and spamming.}}
+
+{{Quote|Still virtually no traffic or donations after one and a half year. Fucking unbelievable.|[[ED:Unrealistic Expectations|Fucking unbelievable.]]}}
+
+=== June 2009 ===
+{{Quote|How can it be so fucking dead here? Why are you not posting?|[[ED:You don't have any friends|Kimmo doesn't realize the sad truth.]]}}
+
+=== May 2009 ===
+
+{{Quote|Great. The traffic has died completely again. Thanks a lot.|No problem Kimmo!}}
+
+{{Quote|Are you fucking kidding me?! How can it be so fucking DEAD here so long after the launch (476 days)? Is this a nightmare? How is this even technically possible?|According to the internet failure is possible, congratulations Kimmo!}}
+
+{{Quote|STOP RUINING EVERY FUCKING TOPIC WITH YOUR OFF-TOPIC BULLSHIT, YOU DUMB PIECES OF SHIT! I'm so fucking sick of cleaning up after you retards.|Kimmo has [[ED:Aspergers|serious anger issues]]}}
+
+=== April 2009 ===
+
+{{Quote|Where did everyone go?! Why are only fucking retards and trolls posting here anymore?!|[[ED:Retard|Gee Kimmo, don't you still post to your website?]]}}
+
+[[Category:Raids]]
+[[Category:Sites]]
+[[Category:Enemies]]{{enemies}}
+'''Bold text'''
