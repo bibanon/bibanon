@@ -1,6 +1,4 @@
-## Welcome to the Bibliotheca Anonoma 
-
-The [[bibanon|Bibliotheca Anonoma]] is designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens.
+The [[Bibliotheca Anonoma]] is designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens.
 
 Recent events have sparked discussion on the dark future of the internet. We know very well that the internet is highly resilient to censorship and takedown, and much discussion has been made on creating another one if needed. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
 
@@ -12,32 +10,27 @@ Like the Carolingian monasteries in the Dark Ages of Europe, this library will s
 
 In order to make this project a success, we need lots of help. See [[help]] to see what needs to be done.
 
-## What we have
-
-### [[Bibliotheca Anonoma|bibanon]]
+## [[Bibliotheca Anonoma]]
 
 *Articles pretaining to how the Bibliotheca Anonoma works, the tools and scripts used, and possible modifications that can be made.*
 
-* [[bibanon/Hosting]] - Want to host a mirror of the Bibliotheca Anonoma? Follow this guide and you'l have one up easily.
-* [[Torrents|torrents]] - Local copies with magnet links to torrents that could be useful as sources for some of our books.
+* [[Hosting]] - Want to host a mirror of the Bibliotheca Anonoma? Follow this guide and you'l have one up easily.
+* [[Torrents]] - Local copies with magnet links to torrents that could be useful as sources for some of our books.
 
 ### Tools
-
 *Stuff that we use to maintain the wiki. They need lots of work and attention.*
 
-* [[Retext: Ikiwiki Mod|bibanon/tools/retext-ikiwiki]] - If you're running Windows, but still want to edit the wiki with a comfy GUI while offline, use this Markdown reader in conjuction with a git clone of the whole wiki.
-* [[Mediawiki2Markdown|bibanon/tools/]] - Our crappy little Mediawiki converting scripts. It's not perfect, and it causes a few problems with links, but it's the only thing we got.
+* [[Retext]] - If you're running Windows, but still want to edit the wiki with a comfy GUI while offline, use this Markdown reader in conjuction with a git clone of the whole wiki.
+* [[Mediawiki2Markdown]] - Our crappy little Mediawiki converting scripts. It's not perfect, and it causes a few problems with links, but it's the only thing we got.
 
-### [[Stories|story]]
+### [[Stories]]
+* [[Damaged_Goods]] - What happens when Anonymous decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to 4chan about his newest patient, a triple amputee orphan. Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. But rather than tell him to rape the loli, Anonymous began to show empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and possibly even adopt her.
+* [[Blindmute_Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daugther will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
+* [[The_Great_Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
 
-* [[story/Damaged_Goods]] - What happens when Anonymous decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to 4chan about his newest patient, a triple amputee orphan. Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. But rather than tell him to rape the loli, Anonymous began to show empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and possibly even adopt her.
-* [[story/Blindmute_Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daugther will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
-* [[story/The_Great_Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
-
-### [[Collections|coll]]
-
-* [[coll/Lulz_A_Corruption_of_LOL]] - A full soundtrack made by anons, for anons on the Insurgency_Wiki.
-* [[coll/Copypasta]] - An archive of text that was so memetic, they were posted to 4chan multiple times. Sometimes it's awesome, other times shocking, but in the end it's something that just has to be saved. This archive was lost and rebuilt multiple times by various wikis, and as such needs a permanent home here.
+### [[Collections]]
+* [[Lulz_A_Corruption_of_LOL]] - A full soundtrack made by anons, for anons on the Insurgency_Wiki.
+* [[Copypasta]] - An archive of text that was so memetic, they were posted to 4chan multiple times. Sometimes it's awesome, other times shocking, but in the end it's something that just has to be saved. This archive was lost and rebuilt multiple times by various wikis, and as such needs a permanent home here.
 
 ### [[History|history]]
 
