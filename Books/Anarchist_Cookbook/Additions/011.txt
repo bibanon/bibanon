@@ -1,0 +1,152 @@
+A Beginner's Selection Method 
+     Although  called  a  "beginner's system",  this  method  can 
+be  used  by  anyone  wanting  a  relatively  quick,   mechanical 
+selection process.  It will usually point toward the best  horses 
+in  the race, with the winner to be found somewhere in the  final 
+three  picks  most of the time.  On May 10th,  1989  Golden  Gate 
+Fields, it picked 6 of 9 winners! 
+
+     So  you've  never  been to  the  racetrack,  know  virtually 
+nothing  about  horseracing, but would still like to  amaze  your 
+friends  with you handicapping prowess?  Do we have a method  for 
+you! 
+
+     The  first step, of course, is to purchase the Daily  Racing 
+Form.    Next  turn  to  the  section  that  contains  the   past 
+performances of the horses running today at the track you plan to 
+attend.  That's the hard part! 
+
+     Frankly,  I'd like to reprint a couple of past  performances 
+here,  but  alas I do not have the permission  of  the  copyright 
+holder!  Even so, it should be simple to figure out exactly  what 
+I'm talking about. 
+
+     This  method is very simple and mechanical.  You won't  have 
+to worry about whether or not you've selected the "right" horse - 
+everything is automatic. 
+
+The Horse Cents Quick Method 
+
+     For each horse in the race, total the speed rating and track 
+variant for it's last two races.  These figures are found in  the 
+main  body of the past performances.  There's a speed rating  and 
+track  variant for just about every race line on each horse.   It 
+looks  something like this 77-14.  The first number is the  speed 
+rating  for the race (how fast a horse ran compared to the  track 
+record  for  that distance) and the second number  is  the  track 
+variant  (an  indication of how fast or slow the track  was  that 
+day).   Sometimes  a race did not get a rating at all.   In  that 
+case,  ignore  it and simply take the  first  two  rating-variant 
+combinations you find.  Start at the top of the past performances 
+as these are the most recent races. 
+
+     If  you're  having  trouble finding the  speed  ratings  and 
+variants,  ask someone who looks like he knows what  he's  doing. 
+Ask  a different person the same question just in case the  first 
+person was jiving you! 
+
+     Go  through  each  horse totaling those  speed  ratings  and 
+variants.  Write the total number somewhere near the horse's past 
+performances  and  circle it so you can't miss it.  This  is  the 
+SPEED  FIGURE  for  that horse.  After  you've  totaled  all  the 
+horses,  put  a big black "bullet" (solid black  circle  or  some 
+other distinguishing mark) next to the  horse  with  the  highest 
+figure. If more than  one horse has  the same  high speed figure, 
+give them each a bullet. 
+
+     Now it's time for step 2!  Find the lifetime earnings  line. 
+This  is found just above the latest running line for the  latest 
+race.  It looks something like this: 
+
+     Lifetime  42 9 8 6 $157,150 
+
+     What all of that means is that the horse ran 42 times in his 
+life, won 9 times, ran second 8 times, ran third 6 times and made 
+a grand total of over a hundred and fifty thousand dollars!   All 
+you really care about is how many times he ran (42) and how  much 
+money  he  made ($157,150).  Divide the money by  the  number  of 
+starts  into  the  amount of money and round it  to  the  nearest 
+dollar  (157150  / 42 = 3742).  Write the result  down  near  the 
+horse's  name and circle it.  This is the CLASS FIGURE  for  that 
+horse.   Find the horse with the highest class figure and  put  a 
+bullet  by  his name.  If more than one horse has the  same  high 
+class, give them each a bullet. 
+
+     The third step is even easier than the first two.   However, 
+it's  a  little confusing to do at first.  Looking for  a  winner 
+really involves looking for losers and eliminating them.   You're 
+going  to start eliminating horses that don't figure to  win  the 
+race. 
+
+     You're going to eliminate the lowest CLASS FIGURES and SPEED 
+FIGURES alternately, starting with class.  Find the lowest  class 
+figure and eliminate that horse from contention - draw a squiggly 
+line  through his past performances and forget about  him.   Next 
+find the lowest remaining speed figure and eliminate that  horse. 
+Continue eliminating horses alternating from class to speed until 
+you  have  only three (3) horses remaining.   Remember  to  start 
+eliminating with CLASS (because C comes before S, you see!). 
+
+     Once  you have only THREE horses remaining, look to  see  if 
+any  of  those three horses had a "bullet work-out" at  the  same 
+track  they're running on today AFTER his last race.  This  is  a 
+bit  confusing,  but a bullet work-out is really  easy  to  spot. 
+Look  at the bottom of the horse's past performances  and  you'll 
+see up to four workouts that look something like this: 
+
+     Apr 20 GG 4f ft :49 H 
+
+     That's  a  work-out, but it's not a bullet work.   A  bullet 
+work-out would have a black circle in front of it like this: 
+
+     @ May 3 GG 3f ft :34 H    (pretend the @ is a bullet!) 
+
+     A  bullet  work is the fastest recorded  work-out  for  that 
+distance  of all horses working that day.  It's a good  indicator 
+that  a  horse is ready to run today, especially if  it  occurred 
+after  the horse's last race.  (The date of the last race is  the 
+first information on the first past performance line, 17Apr89-5GG 
+for example.) 
+
+     If  any  of your three horses have a bullet  work-out  after 
+their  last race, give them one of your "bullets" next  to  their 
+name. 
+
+     At  this  point,  your  three horses may  or  may  not  have 
+bullets.   If only one of them has one or more of  your  bullets, 
+that's  your pick.  If two or all three have the same  amount  of 
+bullets, you're going to have to do a little more work.  Most  of 
+the time, one horse will have the only bullet or (even better) it 
+will  have two or three.  The more bullets the better the  chance 
+of it winning. 
+
+     If you still have a tie, pick the horse who came closest  to 
+winning  his last race.  Find the final "beaten lengths"  in  his 
+last  race - this is the small, superscripted number that  occurs 
+just  before the jockey's name in the last past performance  line 
+(in the Western Edition, anyway.).  You'll see four numbers  with 
+superscripted  numbers  right about in the middle of the  line  - 
+it's  the  last  superscript.  The big numbers  are  the  running 
+positions  at various points in the race.  The  superscripts  are 
+the  number  of  lengths behind the leader.   The  last  pair  of 
+numbers  is the final placing and the number of  beaten  lengths. 
+Pick  the horse with the smallest subscripted number if  the  big 
+number  is  2 or more, if the big number is a 1, he did  win  his 
+last race. 
+
+     In the highly unlikely event you still haven't come up  with 
+a pick, pick the horse with the highest class figure. 
+
+     With a little practice and a calculator, you should have  no 
+problem  doing a race in five minutes or less.  The hardest  part 
+is  dividing  for the class figure - just takes a  bit  of  time. 
+You'll  be  able  to do the entire day's races in  less  than  an 
+hour's time and you'll find your picks are as good or better than 
+anyone else's! 
+
+    *** Late (1992) Update *** 
+    Since the Daily Racing Form(c) now publishes the Andrew Beyer 
+speed figures for _most_ races, you may substitute these for 
+the Speed Rating - Variant pairs. 
+  
+  

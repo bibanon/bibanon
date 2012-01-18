@@ -1,0 +1,448 @@
+
+                                ==Phrack Inc.==
+ 
+                     Volume Three, Issue 30, File #5 of 12
+ 
+                    ()()()()()()()()()()()()()()()()()()()
+                    ()                                  ()
+                    ()      The DECWRL Mail Gateway     ()
+                    ()                                  ()
+                    ()         by Dedicated Link        ()
+                    ()                                  ()
+                    ()        September 20, 1989        ()
+                    ()                                  ()
+                    ()()()()()()()()()()()()()()()()()()()
+ 
+ 
+INTRODUCTION
+ 
+DECWRL is a mail gateway computer operated by Digital's Western Research
+Laboratory in Palo Alto, California.  Its purpose is to support the interchange
+of electronic mail between Digital and the "outside world."
+ 
+DECWRL is connected to Digital's Easynet, and also to a number of different
+outside electronic mail networks.  Digital users can send outside mail by
+sending to DECWRL::"outside-address", and digital users can also receive mail
+by having your correspondents route it through DECWRL.  The details of incoming
+mail are more complex, and are discussed below.
+ 
+It is vitally important that Digital employees be good citizens of the networks
+to which we are connected.  They depend on the integrity of our user community
+to ensure that tighter controls over the use of the gateway are not required.
+The most important rule is "no chain letters," but there are other rules
+depending on whether the connected network that you are using is commercial or
+non-commercial.
+ 
+The current traffic volume (September 1989) is about 10,000 mail messages per
+day and about 3,000 USENET messages per day.  Gatewayed mail traffic has
+doubled every year since 1983.  DECWRL is currently a Vax 8530 computer with 48
+megabytes of main memory, 2500 megabytes of disk space, 8 9600-baud (Telebit)
+modem ports, and various network connections.  They will shortly be upgrading
+to a Vax 8650 system.  They run Ultrix 3.0 as the base operating system.
+ 
+ 
+ADMINISTRATION
+ 
+The gateway has engineering staff, but no administrative or clerical staff.
+They work hard to keep it running, but they do not have the resources to answer
+telephone queries or provide tutorials in its use.
+ 
+They post periodic status reports to the USENET newsgroup dec.general.  Various
+helpful people usually copy these reports to the VAXNOTES "gateways" conference
+within a day or two.
+ 
+ 
+HOW TO SEND MAIL
+ 
+DECWRL is connected to quite a number of different mail networks.  If you were
+logged on directly to it, you could type addresses directly, e.g.
+ 
+    To: strange!foreign!address.
+ 
+But since you are not logged on directly to the gateway, you must send mail so
+that when it arrives at the gateway, it will be sent as if that address had
+been typed locally.
+ 
+ 
+* Sending from VMS
+ 
+If you are a VMS user, you should use NMAIL, because VMS mail does not know how
+to requeue and retry mail when the network is congested or disconnected.  From
+VMS, address your mail like this:
+ 
+    To: nm%DECWRL::"strange!foreign!address"
+ 
+The quote characters (") are important, to make sure that VMS doesn't try to
+interpret strange!foreign!address itself.  If you are typing such an address
+inside a mail program, it will work as advertised.  If you are using DCL and
+typing directly to the command line, you should beware that DCL likes to remove
+quotes, so you will have to enclose the entire address in quotes, and then put
+two quotes in every place that one quote should appear in the address:
+ 
+    $ mail test.msg "nm%DECWRL::""foreign!addr""" /subj="hello"
+ 
+Note the three quotes in a row after foreign!addr.  The first two of them are
+doubled to produce a single quote in the address, and the third ends the
+address itself (balancing the quote in front of the nm%).
+ 
+Here are some typical outgoing mail addresses as used from a VMS system:
+ 
+    To: nm%DECWRL::"lll-winkin!netsys!phrack"
+    To: nm%DECWRL::"postmaster@msp.pnet.sc.edu"
+    To: nm%DECWRL::"netsys!phrack@uunet.uu.net"
+    To: nm%DECWRL::"phrackserv@CUNYVM.bitnet"
+    To: nm%DECWRL::"Chris.Jones@f654.n987.z1.fidonet.org"
+ 
+ 
+* Sending from Ultrix
+ 
+If your Ultrix system has been configured for it, then you can, from your
+Ultrix system, just send directly to the foreign address, and the mail software
+will take care of all of the gateway routing for you.  Most Ultrix systems in
+Corporate Research and in the Palo Alto cluster are configured this way.
+ 
+To find out whether your Ultrix system has been so configured, just try it and
+see what happens.  If it doesn't work, you will receive notification almost
+instantly.
+ 
+    NOTE:  The Ultrix mail system is extremely flexible; it is almost
+    completely configurable by the customer.  While this is valuable to
+    customers, it makes it very difficult to write global instructions for
+    the use of Ultrix mailers, because it is possible that the local changes
+    have produced something quite unlike the vendor-delivered mailer.  One of
+    the popular changes is to tinker with the meaning of quote characters (")
+    in Ultrix addresses.  Some systems consider that these two addresses are
+    the same:
+ 
+        site1!site2!user@host.dec.com
+ 
+    and
+ 
+        "site1!site2!user"@host.dec.com
+ 
+    while others are configured so that one form will work and the other
+    will not.  All of these examples use the quotes.  If you have trouble
+    getting the examples to work, please try them again without the quotes.
+    Perhaps your Ultrix system is interpreting the quotes differently.
+ 
+If your Ultrix system has an IP link to Palo Alto (type "/etc/ping
+decwrl.dec.com" to find out if it does), then you can route your mail to the
+gateway via IP.  This has the advantage that your Ultrix mail headers will
+reach the gateway directly, instead of being translated into DECNET mail
+headers and then back into Ultrix at the other end.  Do this as follows:
+ 
+    To: "alien!address"@decwrl.dec.com
+ 
+The quotes are necessary only if the alien address contains a ! character, but
+they don't hurt if you use them unnecessarily.  If the alien address contains
+an "@" character, you will need to change it into a "%" character.  For
+example, to send via IP to joe@widget.org, you should address the mail
+ 
+    To: "joe%widget.org"@decwrl.dec.com
+ 
+If your Ultrix system has only a DECNET link to Palo Alto, then you should
+address mail in much the same way that VMS users do, save that you should not
+put the nm% in front of the address:
+ 
+    To: DECWRL::"strange!foreign!address"
+ 
+Here are some typical outgoing mail addresses as used from an Ultrix system
+that has IP access.  Ultrix systems without IP access should use the same
+syntax as VMS users, except that the nm% at the front of the address should not
+be used.
+ 
+    To: "lll-winken!netsys!phrack"@decwrl.dec.com
+    To: "postmaster%msp.pnet.sc.edu"@decwrl.dec.com
+    To: "phrackserv%CUNYVM.bitnet"@decwrl.dec.com
+    To: "netsys!phrack%uunet.uu.net"@decwrl.dec.com
+    To: "Chris.Jones@f654.n987.z1.fidonet.org"@decwrl.dec.com
+ 
+ 
+DETAILS OF USING OTHER NETWORKS
+ 
+All of the world's computer networks are connected together, more or less, so
+it is hard to draw exact boundaries between them.  Precisely where the Internet
+ends and UUCP begins is a matter of interpretation.
+ 
+For purposes of sending mail, though, it is convenient to divide the network
+universe into these categories:
+ 
+Easynet         Digital's internal DECNET network.  Characterized by addresses
+                of the form NODE::USER.  Easynet can be used for commercial
+                purposes.
+ 
+Internet        A collection of networks including the old ARPAnet, the NSFnet,
+                the CSnet, and others.  Most international research,
+                development, and educational organizations are connected in
+                some fashion to the Internet.  Characterized by addresses of
+                the form user@site.subdomain.domain.  The Internet itself
+                cannot be used for commercial purposes.
+ 
+UUCP            A very primitive network with no management, built with
+                auto-dialers phoning one computer from another.  Characterized
+                by addresses of the form place1!place2!user.  The UUCP network
+                can be used for commercial purposes provided that none of the
+                sites through which the message is routed objects to that.
+ 
+USENET          Not a network at all, but a layer of software built on top of
+                UUCP and Internet.
+ 
+BITNET          An IBM-based network linking primarily educational sites.
+                Digital users can send to BITNET as if it were part of
+                Internet, but BITNET users need special instructions for
+                reversing the process.  BITNET cannot be used for commercial
+                purposes.
+ 
+Fidonet         A network of personal computers.  I am unsure of the status of
+                using Fidonet for commercial purposes, nor am I sure of its
+                efficacy.
+ 
+ 
+DOMAINS AND DOMAIN ADDRESSING
+ 
+There is a particular network called "the Internet;" it is somewhat related to
+what used to be "the ARPAnet."  The Internet style of addressing is flexible
+enough that people use it for addressing other networks as well, with the
+result that it is quite difficult to look at an address and tell just what
+network it is likely to traverse.  But the phrase "Internet address" does not
+mean "mail address of some computer on the Internet" but rather "mail address
+in the style used by the Internet."  Terminology is even further confused
+because the word "address" means one thing to people who build networks and
+something entirely different to people who use them.  In this file an "address"
+is something like "mike@decwrl.dec.com" and not "192.1.24.177" (which is what
+network engineers would call an "internet address").
+ 
+The Internet naming scheme uses hierarchical domains, which despite their title
+are just a bookkeeping trick.  It doesn't really matter whether you say
+NODE::USER or USER@NODE, but what happens when you connect two companies'
+networks together and they both have a node ANCHOR??  You must, somehow,
+specify which ANCHOR you mean.  You could say ANCHOR.DEC::USER or
+DEC.ANCHOR::USER or USER@ANCHOR.DEC or USER@DEC.ANCHOR.  The Internet
+convention is to say USER@ANCHOR.DEC, with the owner (DEC) after the name
+(ANCHOR).
+ 
+But there could be several different organizations named DEC.  You could have
+Digital Equipment Corporation or Down East College or Disabled Education
+Committee.  The technique that the Internet scheme uses to resolve conflicts
+like this is to have hierarchical domains.  A normal domain isn't DEC or
+STANFORD, but DEC.COM (commercial) and STANFORD.EDU (educational).  These
+domains can be further divided into ZK3.DEC.COM or CS.STANFORD.EDU.  This
+doesn't resolve conflicts completely, though:  both Central Michigan University
+and Carnegie-Mellon University could claim to be CMU.EDU.  The rule is that the
+owner of the EDU domain gets to decide, just as the owner of the CMU.EDU gets
+to decide whether the Electrical Engineering department or the Elementary
+Education department gets subdomain EE.CMU.EDU.
+ 
+The domain scheme, while not perfect, is completely extensible.  If you have
+two addresses that can potentially conflict, you can suffix some domain to the
+end of them, thereby making, say, decwrl.UUCP be somehow different from
+DECWRL.ENET.
+ 
+DECWRL's entire mail system is organized according to Internet domains, and in
+fact we handle all mail internally as if it were Internet mail.  Incoming mail
+is converted into Internet mail, and then routed to the appropriate domain; if
+that domain requires some conversion, then the mail is converted to the
+requirements of the outbound domain as it passes through the gateway.  For
+example, they put Easynet mail into the domain ENE           STATE           DENSITY  ACCESS NUMBER  NTWK
+  -----   -------------------   --------------  ------   ------------   ----
+  03306   BERKELEY              CALIFORNIA      300/1200 415-548-2121   @PPS
+  06272   EL SEGUNDO            CALIFORNIA      300/1200 213-640-8548   @PPS
+  06272   FULLERTON             CALIFORNIA      300/1200 714-441-2777   @PPS
+  06272   INGLEWOOD             CALIFORNIA      300/1200 213-216-7667   @PPS
+  06272   LOS ANGELES(DOWNTOWN) CALIFORNIA      300/1200 213-687-3727   @PPS
+  06272   LOS ANGELES           CALIFORNIA      300/1200 213-480-1677   @PPS
+  03306   MOUNTAIN VIEW         CALIFORNIA      300/1200 415-960-3363   @PPS
+  03306   OAKLAND               CALIFORNIA      300/1200 415-893-9889   @PPS
+  03306   PALO ALTO             CALIFORNIA      300/1200 415-325-4666   @PPS
+  06272   PASADENA              CALIFORNIA      300/1200 818-356-0780   @PPS
+  03306   SAN FRANCISCO         CALIFORNIA      300/1200 415-543-8275   @PPS
+  03306   SAN FRANCISCO         CALIFORNIA      300/1200 415-626-5380   @PPS
+  03306   SAN FRANCISCO         CALIFORNIA      300/1200 415-362-2280   @PPS
+  03306   SAN JOSE              CALIFORNIA      300/1200 408-920-0888   @PPS
+  06272   SANTA ANNA            CALIFORNIA      300/1200 714-972-9844   @PPS
+  06272   VAN NUYS              CALIFORNIA      300/1200 818-780-1066   @PPS
+ 
+ 
+    @PPS   PACIFIC BELL - NETWORK NAME IS PUBLIC PACKET SWITCHING (PPS)
+ 
+             (CONNECT MESSAGE)
+ 
+             . _. _. _< _C _R _             (SYNCHRONIZES DATA SPEEDS)>
+                                (DOES NOT ECHO TO THE TERMINAL)
+ 
+             ONLINE 1200
+             WELCOME TO PPS:  415-XXX-XXXX
+             1 _3 _1 _0 _6 _9 _             (TYMNET ADDRESS)
+                                (DOES NOT ECHO UNTIL TYMNET RESPONDS)
+ 
+         -GWY 0XXXX- TYMNET: PLEASE LOG IN:  (HOST # WITHIN DASHES)
+ 
+                               SOUTHWESTERN BELL
+ 
+  NODE    CITY                  STATE           DENSITY  ACCESS NUMBERS NWRK
+  -----   --------------------  --------------  -------  ------------   -----
+  05443   KANSAS CITY           KANSAS          300/1200 316/225-9951   @MRLK
+  05443   HAYS                  KANSAS          300/1200 913/625-8100   @MRLK
+  05443   HUTCHINSON            KANSAS          300/1200 316/669-1052   @MRLK
+  05443   LAWRENCE              KANSAS          300/1200 913/841-5580   @MRLK
+  05443   MANHATTAN             KANSAS          300/1200 913/539-9291   @MRLK
+  05443   PARSONS               KANSAS          300/1200 316/421-0620   @MRLK
+  05443   SALINA                KANSAS          300/1200 913/825-4547   @MRLK
+  05443   TOPEKA                KANSAS          300/1200 913/235-1909   @MRLK
+  05443   WICHITA               KANSAS          300/1200 316/269-1996   @MRLK
+ 
+ 
+  04766   BRIDGETON/ST. LOUIS   MISSOURI        300/1200 314/622-0900   @MRLK
+  04766   ST. LOUIS             MISSOURI        300/1200 314/622-0900   @MRLK
+ 
+ 
+  06510   ADA                   OKLAHOMA        300/1200 405/436-0252   @MRLK
+  06510   ALTUS                 OKLAHOMA        300/1200 405/477-0321   @MRLK
+  06510   ALVA                  OKLAHOMA        300/1200 405/327-1441   @MRLK
+  06510   ARDMORE               OKLAHOMA        300/1200 405/223-8086   @MRLK
+  03167   BARTLESVILLE          OKLAHOMA        300/1200 918/336-6901   @MRLK
+  06510   CLINTON               OKLAHOMA        300/1200 405/323-8102   @MRLK
+  06510   DURANT                OKLAHOMA        300/1200 405/924-2680   @MRLK
+  06510   ENID                  OKLAHOMA        300/1200 405/242-8221   @MRLK
+  06510   LAWTON                OKLAHOMA        300/1200 405/248-8772   @MRLK
+  03167   MCALESTER             OKLAHOMA        300/1200 918/426-0900   @MRLK
+  03167   MIAMI                 OKLAHOMA        300/1200 918/540-1551   @MRLK
+  03167   MUSKOGEE              OKLAHOMA        300/1200 918/683-1114   @MRLK
+  06510   OKLAHOMA CITY         OKLAHOMA        300/1200 405/236-0660   @MRLK
+  06510   PONCA CITY            OKLAHOMA        300/1200 405/762-9926   @MRLK
+  03167   SALLISAW              OKLAHOMA        300/1200 918/775-7713   @MRLK
+  06510   SHAWNEE               OKLAHOMA        300/1200 405/273-0053   @MRLK
+  06510   STILLWATER            OKLAHOMA        300/1200 405/377-5500   @MRLK
+  03167   TULSA                 OKLAHOMA        300/1200 918/583-6606   @MRLK
+  06510   WOODWARD              OKLAHOMA        300/1200 405/256-9947   @MRLK
+ 
+ 
+ 
+ 
+   @MRLK - SOUTHWESTERN BELL TELEPHONE- NETWORK NAME IS MICROLINK II(R)
+ 
+             (CONNECT MESSAGE)
+             (PLEASE TYPE YOUR TERMINAL IDENTIFIER)
+ 
+             A _                  (YOUR TERMINAL IDENTIFIER)
+ 
+             WELCOME TO MICROLINK II
+             -XXXX:01-030-
+             PLEASE LOG IN:
+             .T < _C _R _> _            (USERNAME TO ACCESS TYMNET)
+ 
+ 
+             HOST: CALL CONNECTED
+ 
+             -GWY 0XXXX- TYMNET: PLEASE LOG IN:
+ 
+ 
+                             SOUTHERN NEW ENGLAND
+ 
+NODE    CITY                  STATE           DENSITY  ACCESS NUMBERS NWRK
+-----   -------------------   -----------     -------  -------------- -----
+02727   BRIDGEPORT            CONNECTICUT     300/2400 203/366-6972   @CONNNET
+02727   BRISTOL               CONNECTICUT     300/2400 203/589-5100   @CONNNET
+02727   CANAAN                CONNECTICUT     300/2400 203/824-5103   @CONNNET
+02727   CLINTON               CONNECTICUT     300/2400 203/669-4243   @CONNNET
+02727   DANBURY               CONNECTICUT     300/2400 203/743-2906   @CONNNET
+02727   DANIELSON             CONNECTICUT     300/2400 203/779-1880   @CONNNET
+02727   HARTFORD/MIDDLETOWN   CONNECTICUT     300/2400 203/724-6219   @CONNNET
+02727   MERIDEN               CONNECTICUT     300/2400 203/237-3460   @CONNNET
+02727   NEW HAVEN             CONNECTICUT     300/2400 203/776-1142   @CONNNET
+02727   NEW LONDON            CONNECTICUT     300/2400 203/443-0884   @CONNNET
+02727   NEW MILFORD           CONNECTICUT     300/2400 203/355-0764   @CONNNET
+02727   NORWALK               CONNECTICUT     300/2400 203/866-5305   @CONNNET
+02727   OLD GREDDWICH         CONNNETICUT     300/2400 203/637-8872   @CONNNET
+02727   OLD SAYBROOK          CONNECTICUT     300/2400 203/388-0778   @CONNNET
+02727   SEYMOUR               CONNECTICUT     300/2400 203/881-1455   @CONNNET
+02727   STAMFORD              CONNECTICUT     300/2400 203/324-9701   @CONNNET
+02727   STORRS                CONNECTICUT     300/2400 203/429-4243   @CONNNET
+02727   TORRINGTON            CONNECTICUT     300/2400 203/482-9849   @CONNNET
+02727   WATERBURY             CONNECTICUT     300/2400 203/597-0064   @CONNNET
+02727   WILLIMANTIC           CONNECTICUT     300/2400 203/456-4552   @CONNNET
+02727   WINDSOR               CONNECTICUT     300/2400 203/688-9330   @CONNNET
+02727   WINDSOR LCKS/ENFIELD  CONNECTICUT     300/2400 203/623-9804   @CONNNET
+ 
+ 
+ 
+    @CONNNET - SOUTHERN NEW ENGLAND TELEPHONE - NETWORK NAME IN CONNNET
+ 
+     (CONNECT MESSAGE)
+ 
+      H_ H_ <_ C_ R_>        (SYNCHRONIZES DATA SPEEDS)
+                        (DOES NOT ECHO TO THE TERMINAL)
+      CONNNET
+ 
+     ._ T_ <_ C_ R_>_         (MUST BE CAPITAL LETTERS)
+ 
+      26-SEP-88   18:33          (DATA)
+      031069                     (ADDRESS CONFIRMATION)
+      COM                        (CONFIRMATION OF CALL SET-UP)
+ 
+      -GWY OXXXX-TYMNET: PLEASE LOG IN:
+ 
+On a side note, the recent book The Cuckoo's Egg provides some interesting
+information (in the form of a story, however) on a Tymnet hacker.  Remember
+that he was into BIG things, and hence he was cracked down upon.  If you keep a
+low profile, networks should provide a good access method.
+ 
+If you can find a system that is connected to the Internet that you can get on
+from Tymnet, you are doing well.
+_______________________________________________________________________________
+ 
+Username@f<node #>.n<net #>.z<zone #>.ifna.org
+ 
+In other words, if I wanted to mail to Silicon Swindler at 1:135/5, the address
+would be Silicon_Swindler@f5.n135.z1.ifna.org and, provided that your mailer
+knows the .ifna.org domain, it should get through alright.  Apparently, as of
+the writing of this article, they have implemented a new gateway name called
+fidonet.org which should work in place of ifna.org in all routings.  If your
+mailer does not know either of these domains, use the above routing but replace
+the first "@" with a "%" and then afterwards, use either of the following
+mailers after the "@":  CS.ORST.EDU or K9.CS.ORST.EDU (i.e. username%f<node
+#>.n<net #>.z<zone #>.fidonet.org@CS.ORST.EDU [or replace CS.ORST.EDU with
+K9.CS.ORST.EDU]).
+ 
+The following is a list compiled by Bill Fenner (WCF@PSUECL.BITNET) that was
+posted on INFONETS DIGEST which lists a number of FIDONET gateways:
+ 
+Net      Node    Node Name
+~~~      ~~~~    ~~~~~~~~~
+104      56      milehi.ifna.org
+105      55      casper.ifna.org
+107      320     rubbs.ifna.org
+109      661     blkcat.ifna.org
+125      406     fidogate.ifna.org
+128      19      hipshk.ifna.org
+129      65      insight.ifna.org
+143      N/A     fidogate.ifna.org
+152      200     castle.ifna.org
+161      N/A     fidogate.ifna.org
+369      17      megasys.ifna.org
+ 
+NOTE:  The UUCP equivalent node name is the first part of the node name.  In
+       other words, the UUCP node milehi is listed as milehi.ifna.org but can
+       be mailed directly over the UUCP network.
+ 
+Another way to mail to FIDONET, specifically for Internet people, is in this
+format:
+ 
+ihnp4!necntc!ncoast!ohiont!<net #>!<node #>!user_name@husc6.harvard.edu
+ 
+And for those UUCP mailing people out there, just use the path described and
+ignore the @husc5.harvard.edu portion. There is a FIDONET NODELIST available on
+most any FIDONET bulletin board, but it is quite large.
+ 
+ONTYME
+~~~~~~
+Previously known as Tymnet, OnTyme is the McDonnell Douglas revision.  After
+they bought out Tymnet, they renamed the company and opened an experimental
+Internet gateway at ONTYME.TYMNET.COM but this is supposedly only good for
+certain corporate addresses within McDonnell Douglas and Tymnet, not their
+customers.  The userid format is xx.yyy or xx.y/yy where xx is a net name and
+yyy (or y/yy) is a true username.  If you cannot directly nail this, try:
+ 
+xx.yyy%ONTYME.TYM
+
+Exodus

@@ -1,0 +1,40 @@
+Recognizing credit cards                        by the Jolly Roger
+
+  [Sample: American Express]
+      XXXX XXXXXX XXXXX
+      MM/Y1 THRU MM/Y2       Y1
+      John Doe               AX
+
+Explanation:
+The first date is the date the person got the card, the second
+date is the expriation date, after the expiration date is the same
+digits in the first year.The American Express Gold has many more
+numbers (I think 6 8 then 8). If you do find a Gold card keep it
+for it has a $5000.00 backup even when the guy has no money!
+
+[Sample: Master Card]
+   5XXX XXXX XXXX XXXX
+   XXXX AAA DD-MM-YY MM/YY
+   John Doe.
+
+Explanation:
+The format varies, I have never seen a card that did not start with
+a 5XXX there is another 4 digits on the next line that is sometimes
+asked for when ordering stuff, (and rarely a 3 digit letter combo
+(e. ANB). The first date is the date the person got the card
+and the second date is the expiration date.
+Master Card is almost always accepted at stores.
+[Sample: VISA]
+   XXXX XXX(X) XXX(X) XXX(X)
+   MM/YY    MM/YY*VISA
+   John Doe
+
+Explanation:
+Visa is the most straight forward
+of the cards,for it has the name right on the card itself, again the
+first date is the date he got the card and the second is the
+expiration date. (Sometimes the first date is left out). The
+numbers can eather be 4 3 3 3 or 4 4 4 4. Visa is also almost always
+accepted at stores, therefore, the best of cards to use.
+
+

@@ -1,0 +1,270 @@
+ROCKETS AND CANNONS
+
+     Rockets and cannon are generally thought of as heavy artillery.
+Perpetrators of violence do not usually employ such devices, because they are
+difficult or impossible to acquire.  They are not, however, impossible to
+make. Any individual who can make or buy black powder or pyrodex can make such
+things. A terrorist with a cannon or large rocket is, indeed, something to
+fear.
+
+
+ROCKETS
+
+     Rockets were first developed by the Chinese several hundred years before
+the myth of christ began.  They were used for entertainment, in the form of
+fireworks. They were not usually used for military purposes because they were
+inaccurate, expensive, and unpredictable.  In modern times, however, rockets
+are used constantly by the military, since they are cheap, reliable, and have
+no recoil. Perpetrators of violence, fortunately, cannot obtain military
+rockets, but they can make or buy rocket engines.  Model rocketry is a popular
+hobby of the space age, and to launch a rocket, an engine is required.  Estes,
+a subsidiary of Damon, is the leading manufacturer of model rockets and rocket
+engines.  Their most powerful engine, the "D" engine, can develop almost 12
+lbs. of thrust; enough to send a relatively large explosive charge a
+significant distance. Other companies, such as Centuri, produce even larger
+rocket engines, which develop up to 30 lbs. of thrust.  These model rocket
+engines are quite reliable, and are designed to be fired electrically.  Most
+model rocket engines have three basic sections.  The diagram below will help
+explain them.
+
+
+     _________________________________________________________
+    |_________________________________________________________| -- cardboard
+     \ clay   | - - - - - - - - - - | * * * | . . . .|c|            casing
+      \_______|  - - - - - - - - -  | * * * |  . . . |l|
+        _______ - - - thrust - - -  | smoke | eject  |a|
+      / clay  |  - - - - - - - - -  | * * * | . . . .|y|
+     /________|_____________________|_______|________|_|_______
+    |_________________________________________________________| -- cardboard
+                                     casing
+
+
+     The clay nozzle is where the igniter is inserted.  When the area labeled
+"thrust" is ignited, the "thrust" material, usually a large single grain of a
+propellant such as black powder or pyrodex, burns, forcing large volumes of
+hot, rapidly expanding gasses out the narrow nozzle, pushing the rocket
+forward.
+
+     After the material has been consumed, the smoke section of the engine is
+ignited.  It is usually a slow-burning material, similar to black powder that
+has had various compounds added to it to produce visible smoke, usually black,
+white, or yellow in color.  This section exists so that the rocket will be
+seen when it reaches its maximum altitude, or apogee.
+
+     When it is burned up, it ignites the ejection charge, labeled "eject".
+The ejection charge is finely powdered black powder.  It burns very rapidly,
+exploding, in effect.  The explosion of the ejection charge pushes out the
+parachute of the model rocket. It could also be used to ignite the fuse of a
+bomb...
+
+     Rocket engines have their own peculiar labeling system.  Typical engine
+labels are: 1/4A-2T, 1/2A-3T, A8-3, B6-4, C6-7, and D12-5.  The letter is an
+indicator of the power of an engine.  "B" engines are twice as powerful as "A"
+engines, and "C" engines are twice as powerful as "B" engines, and so on.  The
+number following the letter is the approximate thrust of the engine, in
+pounds. the final number and letter is the time delay, from the time that the
+thrust period of engine burn ends until the ejection charge fires; "3T"
+indicates a 3 second delay.
+
+NOTE: an extremely effective rocket propellant can be made by mixing aluminum
+      dust with ammonium perchlorate and a very small amount of iron oxide.
+      The mixture is bound together by an epoxy.
+
+
+BASIC ROCKET BOMB
+
+     A rocket bomb is simply what the name implies: a bomb that is delivered
+to its target by means of a rocket.  Most people who would make such a device
+would use a model rocket engine to power the device.  By cutting fins from
+balsa wood and gluing them to a large rocket engine, such as the Estes "C"
+engine, a basic rocket could be constructed.  Then, by attaching a "crater
+maker", or CO2 cartridge bomb to the rocket, a bomb would be added.  To insure
+that the fuse of the "crater maker" (see sect. 4.42) ignited, the clay over
+the ejection charge of the engine should be scraped off with a plastic tool.
+The fuse of the bomb should be touching the ejection charge, as shown below.
+
+
+
+          ____________ rocket engine
+          |                         _________ crater maker
+          |                         |
+          |                         |
+          V                         |
+     _______________________________V_
+     |_______________________________|  ______________________
+      \   | - - - - - -|***|::::|      /# # # # # # # # # # # \
+       \__| - - - - - -|***|::::|  ___/  # # # # # # # # # # # \
+        __  - - - - - -|***|::::|---fuse--- # #  explosive  # # )
+       /  | - - - - - -|***|::::|  ___   # # # # # # # # # # # /
+      /___|____________|___|____|____ \_______________________/
+      |_______________________________|
+
+     thrust> - - - - - -
+     smoke>  ***
+     ejection charge> ::::
+
+
+     Duct tape is the best way to attach the crater maker to the rocket
+engine. Note in the diagram the absence of the clay over the ejection charge
+Many different types of explosive payloads can be attached to the rocket, such
+as a high explosive, an incendiary device, or a chemical fire bottle.
+
+   Either four or three fins must be glued to the rocket engine to insure that
+the rocket flies straight. The fins should look like the following diagram:
+
+
+
+          |\
+          | \
+          |  \
+          |   \  <--------- glue this to rocket engine
+          |    \
+          |     \
+          |      \
+          |       |
+          |       |
+          |       |
+  leading edge    |
+   ------->       |
+          |       |
+          |       |  trailing edge
+          |       |    <--------
+          |       |
+          |       |
+          |       |
+          |       |
+           \_____/
+
+
+     The leading edge and trailing edge should be sanded with sandpaper so
+that they are rounded.  This will help make the rocket fly straight.  A two
+inch long section of a plastic straw can be attached to the rocket to launch
+it from.  A clothes hanger can be cut and made into a launch rod.  The segment
+of a plastic straw should be glued to the rocket engine adjacent to one of the
+fins of the rocket.  A front view of a completed rocket bomb is shown below.
+
+
+                              |
+           fin                | <------ fin
+            |                 |           |
+            |                 |           |
+            |               __|__         |
+            V              /     \        V
+           ---------------|       |---------------
+                           \_____/
+                              |o <----------- segment of plastic straw           
+                   |
+                              |
+                              | <------ fin
+                              |
+                              |
+
+     By cutting a coat hanger at the indicated arrows, and bending it, a
+launch rod can be made.  After a fuse is inserted in the engine, the rocket is
+simply slid down the launch rod, which is put through the segment of plastic
+straw. The rocket should slide easily along a coathanger, such as the one
+illustated on the following page:
+
+
+                        ____
+                       /    \
+                      |      |
+          cut here _____     |
+                       |     |
+                       |     |
+                       |    / \
+                       V   /   \
+         _________________/     \________________
+        /                                        \
+       /                                          \
+      /____________________________________________\
+                                   ^
+                                   |
+                                   |
+                    and here ______|
+
+
+     Bend wire to this shape:
+
+
+                         _______ insert into straw
+                         |
+                         |
+                         |
+                         V
+          ____________________________________________
+          \
+           \
+            \
+             \
+              \  <--------- bend here to adjust flight angle
+               |
+               |
+               |
+               |
+               |
+               | <---------- put this end in ground
+               |
+
+
+LONG RANGE ROCKET BOMB
+
+     Long range rockets can be made by using multi-stage rockets.  Model
+rocket engines with an "0" for a time delay are designed for use in
+multi-stage rockets.  An engine such as the D12-0 is an excellent example of
+such an engine. Immediately after the thrust period is over, the ejection
+charge explodes.  If another engine is placed directly against the back of an
+"0" engine, the explosion of the ejection charge will send hot gasses and
+burning particles into the nozzle of the engine above it, and ignite the
+thrust section.  This will push the used "0" engine off of the rocket, causing
+an overall loss of weight.
+
+ The main advantage of a multi-stage rocket is that it loses weight as
+travels, and it gains velocity.  A multi-stage rocket must be designed
+somewhat differently than a single stage rocket, since, in order for a rocket
+to fly straight, its center of gravity must be ahead of its center of drag.
+This is accomplished by adding weight to the front of the rocket, or by moving
+the center of drag back by putting fins on the rocket that are well behind the
+rocket.  A diagram of a multi-stage rocket appears on the following page:
+
+                    ___
+                   /   \
+                   |   |
+                   | C |
+                   | M | ------ CM: Crater Maker
+                   |   |
+                   |   |
+                   |___|
+                   |   |
+                   |   |
+                   |   |
+                   | C | ------ C6-5 rocket engine
+                  /| 6 |\
+                 / | | | \
+                /  | 5 |  \
+               /   |___|   \ ---- fin
+              /   /|   |\   \
+             /   / |   | \   \
+            /   /  |   |  \   \
+           /   /   | C |   \   \
+          |   /    | 6 |    \   |
+          |  /     | | |     \  |
+          | /      | 0 |      \ |
+          |/       |___|       \|
+          |       /     \       |
+          \______/   ^   \______/ ------- fin
+                     |
+                     |
+                     |
+                     |
+                     C6-0 rocket engine
+
+     The fuse is put in the bottom engine.
+
+     Two, three, or even four stages can be added to a rocket bomb to give it
+a longer range.  It is important, however, that for each additional stage, the
+fin area gets larger.
+
+
+                                        -= Exodus =-
+                                             '94

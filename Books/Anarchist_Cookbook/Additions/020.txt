@@ -1,0 +1,414 @@
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Internet Email, How it Works: Check Your Privacy and Security at the Door
+By:
+David Hesprich
+CS230.10
+April 30, 1996
+
+--------------------------------------------------------------------------------
+
+Abstract
+
+
+
+Most e-mail isn't truly private. It can be intercepted en route; read by any person with root privileges or your account privileges; read from the mailqueue on outgoing, intermediate, or in going systems; redistributed by the recipient; or simply accidently sent to the wrong person by a malformed address. Consequently, e-mail should never be considered a secure medium. Users should make themselves aware of the mail system. System administrators should be aware that most security problems with sendmail are related to the complexity and flexibility of the configuration file. Although it can be possible to use electronic mail as a secure means of communication. Digital signatures and strong encryption can help authenticate the source of messages and protect content. However, the Internet mail system has no provisions for tight integration with such enhancements and they are often awkward and difficult to use. Point to point IP encryption can protect system passwords and communications between hosts. But this type of encryption only works between the encryption gateways. Until security packages become more reliable, cheaper, and accessible to the end user, it is doubtful they will see widespread use.
+
+
+--------------------------------------------------------------------------------
+
+Index:
+SMTP 
+Mail headers 
+sendmail 
+Security 
+Probes 
+The sendmail Configuration File 
+File Permissions 
+Packet Sniffing 
+Forged Mail 
+Mailbombing 
+Intellectual Property 
+Appendix: Information Resources 
+CERT Advisories 
+Request for Comments 
+Other Information Resources 
+Other Security References 
+Bibliography 
+
+--------------------------------------------------------------------------------
+
+The Simple Mail Transport Protocol (SMTP)
+(Adapted from RFC 821)
+There are three steps to SMTP mail transactions. The transaction is started with a MAIL command which gives the sender identification. A series of one or more RCPT commands follows giving the receiver information. Then a DATA command gives the mail data. And finally, the end of mail data indicator confirms the transaction.
+
+The first step in the procedure is the MAIL command. The <reverse-path> contains the source mailbox.
+
+MAIL FROM:<reverse-path><CRLF>
+This command tells the SMTP-receiver that a new mail transaction is starting and to reset all its state tables and buffers, including any recipients or mail data. It gives the reverse-path which can be used to report errors. If accepted, the receiver-SMTP returns a 250 OK reply.
+
+The <reverse-path> can contain more than just a mailbox. The <reverse-path> is a reverse source routing list of hosts and source mailbox. The first host in the <reverse-path> should be the host sending this command.
+
+The second step in the procedure is the RCPT command.
+
+RCPT TO:<forward-path><CRLF>
+This command gives a forward-path identifying one recipient. If accepted, the receiver-SMTP returns a 250 OK reply, and stores the forward-path. If the recipient is unknown the receiver-SMTP returns a 550 Failure reply. This second step of the procedure can be repeated any number of times.
+
+The <forward-path> can contain more than just a mailbox. The <forward-path> is a source routing list of hosts and the destination mailbox. The first host in the <forward-path> should be the host receiving this command.
+
+The third step in the procedure is the DATA command.
+
+DATA<CRLF>
+If accepted, the receiver-SMTP returns a 354 Intermediate reply and considers all succeeding lines to be the message text. When the end of text is received and stored the SMTP-receiver sends a 250 OK reply. Since the mail data is sent on the transmission channel the end of the mail data must be indicated so that the command and reply dialog can be resumed. SMTP indicates the end of the mail data by sending a line containing only a period. A transparency procedure is used to prevent this from interfering with the user's text.
+
+Please note that the mail data includes the memo header items such as Date:, Subject:, To:, Cc:, and From:.
+
+The end of mail data indicator also confirms the mail transaction and tells the receiver-SMTP to now process the stored recipients and mail data. If accepted, the receiver-SMTP returns a 250 OK reply. The DATA command should fail only if the mail transaction was incomplete (for example, no recipients), or if resources are not available.
+
+Example of the SMTP Procedure
+This SMTP example shows mail sent by John.Doe at host Alpha.ARPA, to Jones, Smith, Lee, Green, and Brown at host Beta.ARPA. Here we assume that host Alpha contacts host Beta directly.
+
+
+
+
+220 Alpha.ARPA Simple Mail Transfer Service Ready
+HELO Beta.ARPA
+250 Alpha.ARPA
+MAIL FROM:<John.Doe@Alpha.ARPA>
+250 OK
+RCPT TO:<Jones@Beta.ARPA>
+250 OK
+RCPT TO:<Smith@Gamma.ARPA>
+251 User not local; will forward to <Smith@Gamma.ARPA>
+RCPT TO:<Lee@Beta.ARPA>
+551 User not local; please try <Robert.E.Lee@Delta.ARPA>
+RCPT TO:<Green@Beta.ARPA>
+550 No such user here
+RCPT TO:<Brown@Beta.ARPA>
+250 OK
+DATA
+354 Start mail input; end with <CRLF>.<CRLF>
+Message headers and body...
+<CRLF>.<CRLF>
+250 OK
+QUIT
+221 Beta.ARPA Service closing transmission channel 
+
+
+
+
+The mail has now been accepted for Jones and Brown.
+
+In the case of Smith, the 251 User not local reply indicates that the receiver-SMTP knows the user's mailbox is on another host and indicates the correct forward-path to use in the future. Note that either the host or user or both may be different. The receiver (in this case Beta) takes responsibility for delivering the message.
+
+For Lee, the 551 User not local indicates that the receiver-SMTP knows the user's mailbox is on another host and indicates the correct forward-path to use. Again, note that either the host or user or both may be different. The receiver (Beta) refuses to accept mail for this user, and the sender (Alpha) must either redirect the mail according to the information provided or return an error response to the originating user.
+
+Green did not have a mailbox at host Beta.
+
+RFC 821 has more information on the Simple Mail Transfer Protocol, as well as the SMTP commands.
+
+
+
+
+
+Mail Headers
+Every mail message is composed of two parts: a header and a body. The header is composed of all lines from the first until a blank line. The body consists of all lines after the first blank line. The first blank line acts as a separator and belongs to neither the header nor the footer. Although there are many header lines that can appear in a mail message, some are required, some are optional, and some lines may appear more than once.
+
+From: not required for some programs (like mh), it is only required by some programs (like /bin/mail), it is added by the program that performed the actual delivery. 
+Delivery-Date: is the date and time the message was delivered into the recipient's system mailbox. This line is usually added by the program that performs final delivery (usually /bin/mail). 
+Return-Path: contains the address the recipient can use to reply to the sender. It should only be added by the system that performs final delivery (sendmail). 
+Received: this line is added for every machine that handled the message moving it from the sender to the recipient. Each line represents a hop. If a message goes through too many hops, the message will bounce (fail) and be returned to the sender as a failed message. Note that this actually two lines, the indented line following it is a continuation of the preceding Received: line. 
+Date: the date and time the message was originally sent. 
+From: the email address and full name of the sender. The order of the two may be reversed and still be syntactically correct. 
+Message-Id: a unique identification string constructed from the date, time, a unique filename, and the originating machine. 
+To: a list of one or more recipients, separated by commas. 
+The header used by sendmail is defined by RFC822, with some additional explanation found in RFC1123. Several other RFCs define additional headers.
+
+
+
+
+
+sendmail
+Sendmail is a mail transport agent (MTA). Like other MTA's such as MMDF, Smail, and Zmailer, sendmail is a program which handles the delivery of mail for many users and the forwarding of email between machines or networks. Consequently, sendmail needs to be able to route mail between various types of networks (local, UUCP, Internet, BITNET), which sendmail does through the use of a very flexible (and complicated) configuration file and supporting programs, files, tables, and services.
+
+
+
+
+
+Security
+The sendmail program can be a potential doorway to system abuse since sendmail is typically configured to run as an setuid root process. This means that sendmail has all the powers and privileges of the root user. Incorrect file permissions can be used to trick sendmail into giving root privilege away. For instance, forcing sendmail to run the following shell script will create a setuid shell:
+
+#!/bin/sh
+
+
+
+
+
+
+
+cp /bin/sh /tmp/.shell
+
+
+
+
+
+
+
+chmod u+s /tmp/.shell
+Since sendmail runs most of the time as root, any user which runs /tmp/.shell will then have root access privileges. The Morris Worm used a flaw in old versions of sendmail to gain access to thousands of machines.
+
+
+
+
+Probes 
+One method of attack upon a system is to probe it in order to either force it to give up information about itself which may make it more susceptible to attack, or to look for security loopholes or system software bugs.
+
+SMTP debug and showq
+A probe attempting to exploit an unfixed bug can use the SMTP debug and showq commands. The debug command allows the local sendmail to be placed in debugging mode (as the -d command-line switch) from any other machine attached to the network. The showq allows other machines to request a list of the contents of the mail queue (like the command mailq on the local machine).
+
+If during compilation of sendmail the SMTPDEBUG macro is defined, the SMTP commands debug and showq are enabled. SMTPDEBUG should never be defined in a official release of sendmail. This can be checked in the following manner:
+
+
+
+
+# telnet somehost.domain.com 25
+Trying 198.76.10.2 ...
+Connected to somehost.domain.com.
+Escape character is '^]'.
+220 somehost.domain.com ESMTP Sendmail 8.7.4/8.6.12 ready at Wed, 20 Mar 1996 13:42:43 -0500 (EST)
+debug
+500 Command unrecognized
+quit
+221 somehost.domain.com closing connection
+Connection closed by foreign host. 
+
+
+
+
+While connected to port 25 of the host, enter the command debug; if you are answered with 500 Command unrecognized, SMTPDEBUG is not defined. If the answer is 200 Debug set, SMTPDEBUG is set. When SMTPDEBUG is undefined, and a nonlocal user attempts the debug or showq commands, the IDA and V8 versions of Sendmail may issue a syslog(3) message:
+
+Mar 20 13:42:52 localhost sendmail[28650]: "debug" command from user@farhost [xxx.xxx.xxx.xxx] (yyy.yyy.yyy.yyy)
+SMTP vrfy and expn
+The SMTP vrfy and expn cause sendmail to verify that a given address is valid. If a login name is given, then the full and login name are reported back. This is a security risk where users choose passwords which are a copy of their login names, or some variation of their name. With well-defined passwords (which can oftentimes be enforced by the system), full and login names can be safely given to the world at large.
+
+Some versions of sendmail monitor the SMTP vrfy command: V8 and IDA may individually log requests, while the SunOS version sends mail to postmaster indicated failed attempts. Pre-V8 versions of sendmail do not report vrfy attempts at all. V8 sendmail allows vrfy and expn services to selectively accepted or rejected.
+
+
+
+
+The sendmail Configuration File
+When sendmail reads its configuration file, it usually does so as root, and can consequently read or write to any file.
+
+F - Define Classes, File Form (Fc/path pattern)
+Using the F command to read a file which is not world-readable can allow otherwise protected information to be released. Even if the scanf(3) option is correct, a core dump or frozen configuration file can still allow sensitive information to be examined.
+
+F - Define Classes, Program Form (Fc| /path)
+The program form of the F (file) configuration command runs a program, specified by path, to fill the class c with new values and can be modified to run a program which gives away root access privileges.
+
+The sendmail configuration file should never be writable by anyone other than root, in a directory owned and writable only by root. Every path component of the directory should also be owned and writable by root as well.
+
+M - Define Delivery Agent
+The pathname of a mailer (P= equate) for a delivery agent can be modified to run a program which gives away root access privileges. The S flag (do not reset the userid before calling the mailer) in the F= equate causes sendmail to retain its root privilege when executing the P= equate, and is especially dangerous.
+
+P= equates must be protected by protecting the configuration file. Relative pathnames should never be used in the P= equate.
+
+Delivery Agent Statistics (OSfile)
+Sendmail checks for the existence and writability of the file specified in the S configuration file. If the file specified is in a world-writable directory, sendmail will overwrite that file, or any file pointed to by a link of that name. This can cause critical system files to be destroyed.
+
+Any file sendmail writes to must be writable only by root, and exist in a directory, every path component of which is owned, and writable, only by root.
+
+
+
+
+File Permissions
+All directories in the path of a root-owned file must be owned by root and writable only by root. This is true for all files, not just those pertaining to sendmail. Group writability should be avoided.
+
+:include: Permissions
+When delivering to a :include: mailing list sendmail changes its UID to that of a non-privileged user. Access to the UID owning the list can be gained if recipients list can be modified by any other user than the list owner.
+
+Mailing lists (:include:) must be writable only by root, and exist in a directory, every path component of which is owned, and writable, only by root. The lists themselves must be writable only by the owner. If the owner is an ordinary user, group writability may be enables, providing the user is notified of the risks.
+
+Mailing lists (:include:) may be safely owned by root. Sendmail processes a root-owned mailing list by changing itself to run as the user and group specified by the u and g options (which should be set to nobody and nogroup, rather than the daemon defaults.
+
+
+
+
+~/.forward Permissions
+User ~/.forward files must be writable only by the owning user. User home directories should live in a directory , and owned and writable only by the user.
+
+
+
+
+Aliases File
+The aliases file can be used to gain privileged access if improperly administered. Aliases that execute a program (like the decode alias most systems ship with), can be used to create SUID files or programs.
+
+
+
+
+Packet Sniffing
+Network monitoring attacks are becoming quite common. An intruder compromises a system and attains root-level access. While running a network monitoring tool, the intruder captures the first few keystrokes of all newly opened FTP, telnet, and rlogin sessions visible within the compromised system's domain. Typically the first group of keystrokes contain host, account, and password information for user accounts on other systems - all sent in the clear (unencrypted). Intruders usually install Trojan horse programs to support subsequent access to the compromised system and to conceal their network monitoring process(es).
+
+The CERT Coordination Center publishes information on known Sendmail vulnerabilities and workarounds, as well as warnings about ongoing attacks.
+
+
+
+
+
+Forged Mail
+Like paper mail, electronic mail can be forged.
+
+Mail Queue
+All versions of sendmail implicitly trust the mail queue, as it is assumed that only sendmail has created the contents. Using the queue directory, it is possible to created forged messages that appear completely authentic.
+
+The queue directory must be owned and writable only by root. CERT recommends that the mail queue directory be set mode 700. Queue files should be protected, a file mode of 0600 is recommended.
+
+SMTP Forgeries
+Sendmail, of necessity must allow connections at port 25, and with the exception of the hostname sent in the HELO message, will believe everything it is told. In the case of the sending host, sendmail looks up the real hostname based on the connection (V8 sendmail will also attempt to use identd), if they differ, the real hostname is used as the sending hostname in the construction of the Received: and Message-Id: headers.
+
+
+
+
+
+Mailbombing
+Well there's egg and bacon; egg, sausage and bacon; egg and spam; bacon and spam; egg, bacon, sausage and spam; spam, bacon, sausage and spam; spam, egg, spam, spam, bacon and spam; spam, spam, spam, egg and spam; spam, spam, spam, spam, spam, spam, baked beans, spam, spam, spam and spam; or lobster thermidor aux crevettes with a mornay sauce garnished with truffle pate', brandy and a fried egg on top of spam. -- Monty Python's Flying Circus
+
+Mailbombing is the deliberate, unsolicited sending of large volume and/or length email to another user. It is typically a form of revenge for some real or imagined injury (deserved or otherwise) done by the victim.
+
+There are also indirect forms of mailbombing, where the mailbomber hijacks the identity or e-mail address of the victim (or claims to be a friend, relative, or coworker, etc.), and says something in a public forum that is guaranteed to draw a flood of responses, or subscribes to multiple high-traffic mailing lists, or performs some other action with the intent of generating large volumes of e-mail directed at the victim.
+
+All forms of mailbombing result in the great inconvenience of the user(s) involved. Mailboxes can fill up, preventing mail from being delivered; mail spools can overflow on the affected system, causing all mail delivery on that system to halt, and may result in the system finally crashing.
+
+There is unfortunately, little or no way to prevent mailbombing. It takes no talent or special knowledge, and raw materials for mailbombs are always at hand (a favorite method of mailbomber to fill mailboxes is to send multiple copies of core dumps). The mail sever can be offered some protection by giving the mail queue a separate filesystem space. This protects the rest of the system in that it keeps the mail queue from filling critical disk space needed by other running system processes.
+
+
+
+
+
+Intellectual Property
+As computer networks become more common in day-to-day life, lawyers will try to adapt existing laws to fit the digital world. Currently, some nations are attempting to change the law to adapt to the new technology. This is of interest to the Internet user in that new legislation may restrict current freedoms. The user must understand the law in order to develop new technologies that protect the current environment for change.
+
+The truth of the matter is that there is no perfect answer to the questions of ownership or liability. When digital information crosses states lines, is it interstate commerce? Chances are it may very well be. Which "community standards" apply on the Internet, which topologically reduces geography to a single point? What control do you have over your e-mail after it has been sent, is it truly private?
+
+E-mail may exist only as digital information held in a computer's temporary storage, which calls into question the "fixed in any tangible medium of expression" requirement of copyright. On the other hand, e-mail is very much like a written letter, which is protected by copyright. Like written letters, people often use e-mail to communicate, and have an interest in having their ideas protected. Unfortunately, e-mail's status under copyright remains uncertain.
+
+Under the Electronic Communications Privacy Act of 1986, the owner of the system, rather than the author or recipient of the e-mail, is the owner of the the message. This holds regardless of the nature of the message. An extension of that logic has been held forth in some company's policies which maintain that e-mail sent using accounts paid for by the company, but not on systems owned by the company, are similarly owned by the company.
+
+
+
+
+
+Conclusion
+Most e-mail isn't truly private. It can be intercepted en route; read by any person with root privileges or your account privileges; read from the mailqueue on outgoing, intermediate, or in going systems; redistributed by the recipient; or simply accidently sent to the wrong person by a malformed address. Consequently, e-mail should never be considered a secure medium. Many times the mail queues and user directories are backed up as part of system maintenance, so mail that a user has deleted may actually exist on backup storage that may be retained for years.
+
+Users should take the following precautions when using e-mail:
+
+Make certain to use care when composing mail, especially the recipient and carbon copy header lines. 
+Write your message as if it was to be distributed as a widely-read newspaper. 
+Remember that your password give both access to your e-mail and your identity, as well as your account's files. 
+Do not undermine the secrecy of your password by using your name, birthday, address, telephone number or extension, Social Security Number, or anything else that exists in public or official records. 
+Do not place your password in a publicly accessible area, on or around the computer, under the mouse pad, etc. 
+Be aware of your system's privacy and security policies. 
+System administrators should be aware that most security problems with sendmail are related to the complexity and flexibility of the configuration file.
+
+Use extreme care when configuring sendmail. Do not use a configuration file that you have not examined. 
+Avoid allowing aliases to run external programs. 
+Develop a policy for handling new security holes, user abuses, and external attacks. 
+Develop a contingency plan should mail services fail. 
+In conclusion, it should be noted that it can be possible to use electronic mail as a secure means of communication. Digital signatures and strong encryption (like those provided by the popular Pretty Good Privacy software) can help authenticate the source of messages and protect content. However, the Internet mail system has no provisions for tight integration with such enhancements and they are often awkward and difficult to use. Point to point IP encryption can protect system passwords and communications between hosts. But this type of encryption only works between the encryption gateways. Until security packages become more reliable, cheaper, and accessible to the end user, it is doubtful they will see widespread use.
+
+
+--------------------------------------------------------------------------------
+
+Appendix: Information Resources
+CERT Advisories
+(Adapted from the CERT FAQ)
+The CERT Coordination Center is the organization that grew from the computer emergency response team formed by the Defense Advanced Research Projects Agency (DARPA) in November 1988 in response to the needs identified during the Internet worm incident. The CERT charter is to work with the Internet community to facilitate its response to computer security events involving Internet hosts, to take proactive steps to raise the community's awareness of computer security issues, and to conduct research targeted at improving the security of existing systems.
+
+CERT products and services include 24-hour technical assistance for responding to computer security incidents, product vulnerability assistance, technical documents, and seminars. In addition, the team maintains a number of mailing lists (including one for CERT advisories) and provides a web site, www.cert.org, and an anonymous FTP server, info.cert.org, where security-related documents, CERT advisories, and tools are available.
+
+A CERT advisory is a document that provides information on how to obtain a patch or details of a workaround for a known computer security problem. The CERT Coordination Center works with vendors to produce a workaround or a patch for a problem, and does not publish vulnerability information until a workaround or a patch is available. A CERT advisory may also be a warning about ongoing attacks.
+
+Network Monitoring
+ftp://info.cert.org/pub/cert_advisories/CA-95:01.network.monitoring.attacks
+ftp://info.cert.org/pub/cert_advisories/CA-95:01.README
+
+Sendmail
+ftp://info.cert.org/pub/cert_advisories/CA-93:16.sendmail.vulnerability
+ftp://info.cert.org/pub/cert_advisories/CA-93:16a.sendmail.vulnerability.supplement ftp://info.cert.org/pub/cert_advisories/CA-93:16a.README
+ftp://info.cert.org/pub/cert_advisories/CA-95:05.sendmail.vulnerabilities
+ftp://info.cert.org/pub/cert_advisories/CA-95:05.README
+ftp://info.cert.org/pub/cert_advisories/CA-95:08.sendmail.v.5.vulnerabilities
+ftp://info.cert.org/pub/cert_advisories/CA-95:08.README
+ftp://info.cert.org/pub/cert_advisories/CA-95:11.sun.sendmail-oR.vul
+ftp://info.cert.org/pub/cert_advisories/CA-95:11.README
+ftp://info.cert.org/pub/cert_advisories/CA-95:13.syslog.vul
+ftp://info.cert.org/pub/cert_advisories/CA-95:13.README
+
+
+
+
+Request For Comments (RFC)
+SMTP
+821 J. Postel, "Simple Mail Transfer Protocol", 08/01/1982. (Pages=58) (Format=.txt) (Obsoletes RFC0788) (STD 10)
+
+Message Headers
+0822 D. Crocker, "Standard for the format of ARPA Internet text messages", 08/13/1982. (Pages=47) (Format=.txt) (Obsoletes RFC0733) (STD 11) (Updated by RFC1327, RFC0987)
+
+0987 S. Kille, "Mapping between X.400 and RFC 822", 06/01/1986. (Pages=69) (Format=.txt) (Updates RFC0822) (Obsoleted by RFC1148) (Updated by RFC1026)
+
+1026 S. Kille, "Addendum to RFC 987: Mapping between X.400 and RFC-822", 09/01/1987. (Pages=4) (Format=.txt) (Updates RFC0987) (Updated by RFC1138)
+
+1123 R. Braden, "Requirements for Internet hosts - application and support", 10/01/1989. (Pages=98) (Format=.txt) (STD 3)
+
+1138 S. Kille, "Mapping between X.400(1988) / ISO 10021 and RFC 822", 12/01/1989. (Pages=92) (Format=.txt) (Updates RFC1026)
+
+1148 B. Kantor, S. Kille, P. Lapsley, "Mapping between X.400 (1988) / ISO 10021 and RFC 822", 03/01/1990. (Pages=94) (Format=.txt) (Obsoletes RFC0987) (Obsoleted by RFC1327)
+
+1327 S. Hardcastle-Kille, "Mapping between X.400(1988) / ISO 10021 and RFC822", 05/18/1992. (Pages=113) (Format=.txt) (Updates RFC0822) (Obsoletes RFC1148) (Updated by RFC1495)
+
+1495 H. Alvestrand, S. Kille, R. Miles, M. Rose, S. Thompson, "Mapping between X.400 and RFC-822 Message Bodies", 08/26/1993. (Pages=15) (Format=.txt) (Updates RFC1327)
+
+
+
+
+Other Information Resources
+The CancelMoose™ Home Page. <http://www.cm.org/>.
+
+The SPAM FAQ. <http://ddi.digital.net/~gandalf/spamfaq.html>.
+
+Reagoso, Christopher D. "Internet Abuse Series: Surviving Abusive Repetitive Email Messages on the Internet (a.k.a. Spam Mail and Mail Bombs)." <http://www.apci.net/~reagosoc/IAB_MailBombs.htm>.
+
+
+
+
+Other Security Resources
+The SATAN (Security Analysis Tool for Auditing Networks) Homepage. <http://stud1.tuwien.ac.at/~e9125110/satan.html>.
+
+The CERT Coordination Center. <http://www.cert.org/>.
+
+MIT PGP Distribution Site. <http://web.mit.edu/network/pgp.html>.
+
+
+--------------------------------------------------------------------------------
+
+Bibliography
+
+
+
+Allman, Eric. sendmail Installation and Operation Guide, Version 8.36. Berkeley, CA: University of California, 1995.
+
+Costales, Bryan. sendmail. Sebastopol, CA: O'Reilly & Associates, Inc., 1994.
+
+Miller, Steven E. Civilizing Cyberspace: Policy, Power, and the Information Superhighway. New York, NY: ACM Press, 1996.
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+ 

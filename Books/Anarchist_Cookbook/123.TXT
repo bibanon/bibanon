@@ -1,0 +1,180 @@
+
+                                ==Phrack Inc.==
+
+                     Volume Three, Issue 27, File 7 of 12
+
+               <:><:><:><:><:><:><:><:><:><:><:><:><:><:><:><:>
+               <:>                                          <:>
+               <:>          The Making Of A Hacker          <:>
+               <:>                                          <:>
+               <:>        by Framstag of West Germany       <:>
+               <:>                                          <:>
+               <:>                June 2, 1989              <:>
+               <:>                                          <:>
+               <:><:><:><:><:><:><:><:><:><:><:><:><:><:><:><:>
+
+
+Prologue For None VMS Users
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     DECnet is the network for DEC machines, in most cases you can say VAXes.
+DECnet allows you to do:   - e-mail
+                           - file transfer
+                           - remote login
+                           - remote command
+                           - remote job entry
+                           - PHONE
+     PHONE is an interactive communication between users and is equal to TALK
+on UNIX or a "deluxe"-CHAT on VM/CMS.
+
+     BELWUE, the university network of the state Baden-Wuerttemberg in
+West Germany contains (besides other networks) a DECnet with about 400 VAXes.
+On every VAX there is standard-account called DECNET with pw:= DECNET, which is
+not reachable via remote login.  This account is provided for several
+DECnet-Utilities and as a pseudo-guest-account.  The DECNET-account has very
+restricted privileges:  You cannot edit a file or make another remote login.
+
+    The HELP-menu is equipped by the system and is similar to the MAN command
+on UNIX.
+
+    More information on DECnet can be found in "Looking Around In DECnet" by
+Deep Thought in this very issue of Phrack Inc.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+     Here, at the University of Ulm, we have an *incredibly* ignorant computer
+center staff, with an even bigger lack of system-literature (besides the 80 kg
+of VAX/VMS-manuals).  The active may search for information by himself, which
+is over the level of "run," "FORTRAN," or "logout."  My good luck that I have
+other accounts in the BELWUE-DECnet, where more information is offered for the
+users.  I am a regular student in Ulm and all my accounts are completely legal
+and corresponding to the German laws.  I don't call myself a "hacker," I feel
+more like a "user" (...it's more a defining-problem).
+
+     In the HELP-menu in a host in Tuebingen I found the file netdcl.com and
+the corresponding explanation, which sends commands to the DECNET-Account of
+other VAXes and executes them there (remote command).  The explanation in the
+HELP-menu was idiot-proof -- therefore for me, too :-)
+
+     With the command "$ mcr ncp show known nodes" you can obtain a list of all
+netwide active VAXes, as is generally known, and so I pinged all these VAXes to
+look for more information for a knowledge-thirsty user.  With "help", "dir" and
+other similar commands I look around on those DECnet accounts, always watching
+for topics related to the BELWUE-network.  It's a pity, that 2/3 of all VAXes
+have locked the DECNET-Account for NETDCL.COM.  Their system managers are
+probably afraid of unauthorized access, but I cannot imagine how there could be
+such an unauthorized access, because you cannot log on this account -- no
+chance for trojan horses, etc.
+
+     Some system managers called me back after I visited their VAX to chat with
+me about the network and asked me if they could help me in any way. One sysop
+from Stuttgart even sent me a version of NETDCL.COM for the ULTRIX operation
+system.
+
+     Then, after a month, the  H O R R O R  came over me in shape of a the
+following mail:
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+From:   TUEBINGEN::SYSTEM       31-MAY-1989 15:31:11.38
+To:     FRAMSTAG
+CC:
+Subj:   don't make any crap, or you'll be kicked out!
+
+From:   ITTGPX::SYSTEM       29-MAY-1989 16:46
+To:     TUEBINGEN::SYSTEM
+Subj:   System-breaking-in 01-May-1989
+
+To the system manager of the Computer TUEBINGEN,
+
+On May 1st 1989 we had a System-breaking-in in our DECNET-account, which
+started from your machine.  By help of our accounting we ascertained your user
+FRAMSTAG to have emulated an interactive log-on on our backbone-node and on
+every machine of our VAX-cluster with the "trojan horse" NETDCL.COM.  Give us
+this user's name and address and dear up the occurrence completely.  We point
+out that the user is punishable.  In case of repetition we would be forced to
+take corresponding measures.  We will check whether our system got injured.  If
+not, this time we will disregard any measure.  Inform us via DECnet about your
+investigation results -- we are attainable by the nodenumber 1084::system
+
+Dipl.-Ing. Michael Hager
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+     My system manager threatened me with the deleting of my account, if I
+would not immediately enlighten the affair.  *Gulp*!
+     I was conscious about my innocence, but how to tell it to the others?  I
+explained, step by step, everything to my system manager.  He then understood
+after a while, but the criminal procedure still hovered over me... so, I took
+quickly to my keyboard, to compose file of explanations and to send it to that
+angry system manager in Stuttgart (node 1084 is an institute there).  But no
+way out:  He had run out of disk quota and my explanation-mail sailed into the
+nirwana:
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+$ mail explanation
+  To:   1084::system
+%MAIL-E, error sending to user SYSTEM at 1084
+%MAIL-E-OPENOUT, error opening SYS$SYSROOT:[SYSMGR]MAIL$00040092594FD194.MAI;
+as output
+-RMS-E-CRE, ACP file create failed
+-SYSTEM-F-EXDISKQUOTA, disk quota exceeded
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+     Also the attempt of a connection with the PHONE-facilty failed:  In his
+borderless hacker-paranoia, he cut off his PHONE... and nowhere is a list with
+the REAL-addresses of the virtual DECnet-addresses available (to prevent
+hacking).  Now I stood there with the brand "DANGEROUS HACKER!" and I had no
+chance to vindicate myself.  I poured out my troubles to an acquaintance of
+mine, who is a sysop in the computer-center in Freiburg.  He asked other sysops
+and managers thru the whole BELWUE-network until someone gave him a telephone
+number after a few days -- and that was the right one!
+
+     I phoned to this Hager and told him what I had done with his
+DECnet-account and also what NOT.  I wanted to know which crime I had
+committed.  He promptly cancelled all of his reproaches, but he did not excuse
+his defamous incriminations.  I entreated him to inform my system manager in
+Tuebingen that I have done nothing illegal and to stop him from erasing my
+account.  This happens already to a fellow student of mine (in this case, Hager
+was also guilty).  He promised me that he would officially cancel his
+reproaches.
+
+     After over a week this doesn't happen (I'm allowed to use my account
+further on).  In return for it, I received a new mail from Hager on another
+account of mine:
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+From:   1084::HAGER         1-JUN-1989 12:51
+To:     50180::STUD_11
+Subj:   System-breaking-in
+
+On June 1st 1989 you have committed a system-breaking-in on at least one of our
+VAXes.  We were able to register this occurrence.  We would be forced to take
+further measure if you did not dear up the occurrence completely until June
+6th.
+
+Of course the expenses involved would be imposed on you.  Hence enlightenment
+must be in your own interest.
+
+We are attainable via DECnet-mail with the address 1084::HAGER or via following
+address:
+
+Institut fuer Technische Thermodynamik und Thermische Verfahrenstechnik
+Dipl.-Ing. M. Hager    Tel.: 0711/685-6109
+Dipl.-Ing. M. Mrzyglod Tel.: 0711/685-3398
+Pfaffenwaldring 9/10-1
+7000 Stuttgart-80
+
+ M. Hager
+ M. Mrzyglod
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+This was the reaction of my attempt: "$ PHONE 1084::SYSTEM".  I have not
+answered to this mail.  I AM SICK OF IT!
+
+
+                                   Framstag
+                          (FRAMSTAG@DTUPEV5A.BITNET)
+
+         With Special Thanks For Translation Assistance To Schrulli B.
+_______________________________________________________________________________
+
+ÿÿ
+
+

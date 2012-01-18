@@ -1,0 +1,53 @@
+The Arts of Lockpicking II             courtesy of The Jolly Roger
+
+So you want to be a criminal.  Well, if you want to be like James 
+Bond and open a lock in fifteen seconds, then go to Hollywood, 
+because that is the only place you are ever going to do it.  Even 
+experienced locksmiths can spend five to ten minutes on a lock if
+they are unlucky.  If you are wanting extremely quick access, look
+elsewhere.  The following instructions will pertain mostly to the
+"lock in knob" type lock, since it is the easiest to pick.
+
+First of all, you need a pick set.  If you know a locksmith, get 
+him to make you a set.  This will be the best possible set for you
+to use.  If you find a locksmith unwilling to supply a set, don't 
+give up hope.  It is possible to make your own, if you have access
+to a grinder (you can use a file, but it takes forever).
+
+The thing you need is an allen wrench set (very small).  These 
+should be small enough to fit into the keyhole slot.  Now, bend 
+the long end of the allen wrench at a slight angle (not 90  
+degrees).  Now, take your pick to a grinder or a file, and smooth 
+the end until it is rounded so it won't hang inside the lock.  
+Test your tool out on doorknobs at your house to see if it will 
+slide in and out smoothly.  Now, this is where the screwdriver 
+comes in.  It must be small enough for it and your pick to be used
+in the same lock at the same time, one above the other.  In the 
+coming instructions, please refer to this chart of the interior of
+a lock:
+______________________________
+                              \ K
+        |  |  |  |   |   |    / E
+           |     |   |   |    \ Y           [|]  Upper tumbler pin
+        ^     ^               / H           [^]  Lower tumbler pin
+        ^  ^  ^  ^   ^   ^    \ O           [-]  Cylinder wall
+                              / L   (This is a greatly simplified
+                              \ E    drawing)
+______________________________/
+
+The object is to press the pin up so that the space between the 
+upper pin and the lower pin is level with the cylinder wall.  Now,
+if you push a pin up, it's tendency is to fall back down, right?
+That is where the screwdriver comes in.  Insert the screwdriver 
+into the slot and turn.  This tension will keep the "solved" pins
+from falling back down.  Now, work from the back of the lock to 
+the front, and when you are through, there will be a click, the
+screwdriver will turn freely, and the door will open.
+
+Do not get discouraged on your first try!  It will probably take 
+you about twenty to thirty minutes your first time.  After that,
+you will quickly improve with practice.
+
+Add to TACIV, '94.
+
+                                  -= Exodus =-

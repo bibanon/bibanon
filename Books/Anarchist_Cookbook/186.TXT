@@ -1,0 +1,179 @@
+
+                              LOCKPICKING 3
+
+     If it becomes necessary to pick a lock to enter a lab, the world's most
+effective lockpick is dynamite, followed by a sledgehammer.  There are
+unfortunately, problems with noise and excess structural damage with these
+methods. The next best thing, however, is a set of professional lockpicks.
+
+These, unfortunately, are difficult to acquire. If the door to a lab is locked,
+but the deadbolt is not engaged, then there are other possibilities. The rule
+here is: if one can see the latch, one can open the door. There are several
+devices which facilitate freeing the latch from its hole in the wall. Dental
+tools, stiff wire ( 20 gauge ), specially bent aluminum from cans, thin
+pocket knives, and credit cards are the tools of the trade. The way that all
+these tools and devices are uses is similar: pull, push, or otherwise move the
+latch out of its recess in the wall, thus allowing the door to open. This is
+done by sliding whatever tool that you are using behind the latch, and forcing
+the latch back into the door.
+
+Most modern doorknob locks have two fingers. The larger finger holds the door
+closed while the second (smaller) finger only prevents the first finger from
+being pressed in when it (the second finger) is pressed in by the catchplate
+of the door.  If you can separate the catch plate and the lock sufficiently
+far, the second finger will slip out enough to permit the first finger to be
+slipped.
+
+(Ill. 2.11)       ___
+                 |   }   <
+   Small   ->   (|   }   <--- The large (first) finger
+   second        |___}   <
+   finger
+
+Some methods for getting through locked doors are:
+
+  1) Another method of forced entry is to use an automobile jack to force the
+     frame around the door out of shape, freeing the latch or exposing it to
+     the above methods. This is possible because most door frames are designed
+     with a slight amount of "give". Simply put the jack into position
+     horizontally across the frame in the vicinity of the latch, and jack it
+     out. If the frame is wood it may be possible to remove the jack after
+     shutting the door, which will relock the door and leave few signs of
+     forced entry. This technique will not work in concrete block buildings,
+     and it's difficult to justify an auto jack to the security guards.
+  2) use a screwdriver or two to pry the lock and door apart.  While holding
+     them apart, try to slip the lock.  Screwdrivers, while not entirely
+     innocent, are much more subtle than auto jacks, and much faster if they
+     work.  If you're into unsubtle, I suppose a crowbar would work too, but
+     then why bother to slip the lock at all?
+  3) Find a set of double doors.  They are particularly easy to pry apart far
+     enough to slip.
+  4) If the lock is occasionally accessible to you while open, "adjust" or
+     replace the catchplate to make it operate more suitably (i.e., work so
+     that it lets *both* fingers out, so that it can always be slipped).  If
+     you want, disassembling the lock and removing some of the pins can make
+     it much easier to pick.
+  5) If, for some odd reason, the hinges are on your side (i.e., the door
+     opens outward), remove the hinge pins (provided they aren't stopped with
+     welded tabs).  Unfortunately, this too lacks subtlety, in spite of its
+     effectiveness.
+  6) If the door cannot be slipped and you will want to get through regularly,
+     break the mechanism.  Use of sufficient force to make the first finger
+     retreat while the second finger is retreated will break some locks (e.g.,
+     Best locks) in such a way that they may thereafter be slipped trivially,
+     yet otherwise work in all normal ways.  Use of a hammer and/or
+     screwdriver is recommended. Some care should be used not to damage the
+     door jamb when attempting this on closed and locked doors, so as not to
+     attract the attention of the users/owners/locksmith/police/....
+  7) Look around in desks.  People very often leave keys to sensitive things
+     in them or other obvious places.  Especially keys to shared critical
+     resources, like supply rooms, that are typically key-limited but that
+     everyone needs access to.  Take measurements with a micrometer, or make a
+     tracing (lay key under paper and scribble on top), or be dull and make a
+     wax impression.  Get blanks for the key type (can be very difficult for
+     better locks; I won't go into methods, other than to say that if you can
+     get other keys made from the same blank, you can often work wonders with
+     a little ingenuity) and use a file to reproduce the key.  Using a
+     micrometer works best:  keys made from mic measurements are more likely
+     to work consistently than keys made by any other method.  If you us
+     tracings, it is likely to take many tries before you obtain a key that
+     works reliably.  Also, if you can 'borrow' the cylinder and disassemble
+     it, pin levels can be obtained and keys constructed.
+  8) Simple locks, like desks, can be picked fairly easily.  Many desks have
+     simple three or four pin locks of only a few levels, and can be
+     consistently picked by a patient person in a few minutes.  A small
+     screwdriver and a paper clip will work wonders in practiced hands.  Apply
+     a slight torque to the lock in the direction of opening with the
+     screwdriver.  Then 'rake' the pins with the unfolded paper clip.  With
+     practice, you'll apply enough pressure with the screwdriver that the pins
+     will align properly (they'll catch on the cylinder somewhere between the
+     top and bottom of their normal travel), and once they're all lined up,
+     additional pressure on the screwdriver will then open the lock.  This, in
+     conjunction with (7) can be very effective.  This works better with older
+     or sloppily machined locks that have a fair amount of play in the
+     cylinder.  Even older quality locks can be picked in this manner, if
+     their cylinders have been worn enough to give enough play to allow pins
+     to catch reliably. Even with a well worn quality lock, though, it
+     generally takes a *lot* of patience.
+  9) Custodial services often open up everything in sight and then take
+     breaks.  Make the most of your opportunities.
+ 10) No matter what you're doing, look like you belong there.  Nothing makes
+     anyone more suspicious than someone skulking about, obviously trying to
+     look inconspicuous.  If there are several of you, have some innocuous and
+     normal seeming warning method ("Hey, dummy!  What time is it?") so that
+     they can get anything suspicious put away.  Don't travel in large groups
+     at 3 AM.  Remember, more than one car thief has managed to enlist a cop's
+     aid in breaking into a car.  Remember this.  Security people usually
+     *like* to help people.  Don't make them suspicious or annoy them.  If you
+     do run into security people, try to make sure that there won't be any
+     theft or break-ins reported there the next day...
+ 11) Consider the possibilities of master keys.  Often, every lock in a
+     building or department will have a common master (building entrance keys
+     are a common exception).  Take apart some locks from different places
+     that should have common masters, measure the different pin lengths in
+     each, and find lengths in common.  Experiment.  Then get into those
+     places you're *really* curious about.
+ 12) Control keys are fun, too.  These keys allow the user to remove the
+     lock's core, and are generally masters.  (A pair of needle nose pliers or
+     similar tool can then be used to open the lock, if desired.)
+
+
+                           SLIPPING A LOCK
+
+     The best material we've found for slips so far is soft sheet copper.  It
+is quite flexible, so it can be worked into jambs easily, and can be pre-bent
+as needed.  In the plane of the sheet, however, it is fairly strong, and pulls
+nicely.  Of course, if they're flexible enough, credit cards, student IDs,
+etc., work just fine on locks that have been made slippable if the door jamb
+is wide enough.  Wonderfully subtle, quick, and delightfully effective.  Don't
+leave home without one.
+
+ (Ill. #1)
+
+The sheet should then be folded to produce an L,J,or U shaped device that
+looks like this:
+                 ________________________________________
+                /________________________________________|                       
+               | |
+               | |          L-shaped
+               | |
+               | |
+               |_|
+
+(Ill.  #2)
+                       _____________________________
+                      / ___________________________|
+                     | |
+                     | |     J-shaped
+                     | |
+                     | |________
+                      \________|
+
+(Ill.  #3)
+                       _____________________
+                      / ___________________|
+                     | |
+                     | |
+                     | |     U-shaped
+                     | |
+                     | |____________________
+                      \____________________|
+
+
+We hasten to add here that many or most colleges and universities
+have very strict policies about unauthorized possession of keys.  At
+most, it is at least grounds for expulsion, even without filing criminal
+charges.  Don't get caught with keys!!!  The homemade ones are
+particularly obvious, as they don't have the usual stamps and marks
+that the locksmiths put on to name and number the keys.]
+
+we should also point out that if you make a nuisance of yourself, there are
+various nasty things that can be done to catch you and/or slow you down.  For
+instance, by putting special pin mechanisms in, locks can be made to trap any
+key used to open them.  If you lose one this way, what can I say?  At least
+don't leave fingerprints on it.  Or make sure they're someone else's.  Too
+much mischief can also tempt the powers that be to rekey.
+
+
+
+                                                 -= Exodus =-

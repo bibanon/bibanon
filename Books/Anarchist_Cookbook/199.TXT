@@ -1,0 +1,89 @@
+    R.D.X. 2
+
+     R.D.X., also called cyclonite, or composition C-1 (when mixed with
+plasticisers) is one of the most valuable of all military explosives.  This is
+because it has more than 150% of the power of T.N.T., and is much easier to
+detonate.  It should not be used alone, since it can be set off by a not-too
+severe shock.  It is less sensitive than mercury fulminate, or nitroglycerine,
+but it is still too sensitive to be used alone.
+
+                         NO
+                           2
+                          |
+                          N
+                         / \             RDX MOLECULE
+                        /   \
+                       H C   H C
+                      / 2     2
+                     /        |
+                   O N        N--NO
+                    2 \      /     2
+                       \    /
+                        \  /
+                         CH
+                           2
+
+ R.D.X. can be made by the surprisingly simple method outlined hereafter.  It
+is much easier to make in the home than all other high explosives, with the
+possible exception of ammonium nitrate.
+
+     MATERIALS                    EQUIPMENT
+     ÄÄÄÄÄÄÄÄÄ                    ÄÄÄÄÄÄÄÄÄ
+     hexamine                     500 ml beaker
+       or
+     methenamine                  glass stirring rod
+     fuel tablets (50 g)
+                                  funnel and filter paper
+     concentrated
+     nitric acid (550 ml)         ice bath container  (plastic bucket)
+
+     distilled water              centigrade thermometer
+
+     table salt                   blue litmus paper
+
+     ice                          ammonium nitrate
+
+
+1) Place the beaker in the ice bath, (see section 3.13, steps 3-4) and carefully 
+   pour 550 ml of concentrated nitric acid into the beaker.
+
+2) When the acid has cooled to below 20 degrees centigrade, add small amounts
+   of the crushed fuel tablets to the beaker.  The temperature will rise, and
+   it must be kept below 30 degrees centigrade, or dire consequences could
+   result. Stir the mixture.
+
+3) Drop the temperature below zero degrees centigrade, either by adding more
+   ice and salt to the old ice bath, or by creating a new ice bath.  Or,
+   ammonium nitrate could be added to the old ice bath, since it becomes cold
+   when it is put in water. Continue stirring the mixture, keeping the
+   temperature below zero degrees centigrade for at least twenty minutes
+
+4) Pour the mixture into a litre of crushed ice.  Shake and stir the mixture,
+   and allow it to melt.  Once it has melted, filter out the crystals, and
+   dispose of the corrosive liquid.
+
+5) Place the crystals into one half a litre of boiling distilled water. Filter
+   the crystals, and test them with the blue litmus paper.  Repeat steps 4 and
+   5 until the litmus paper remains blue.  This will make the crystals more
+   stable and safe.
+
+6) Store the crystals wet until ready for use. Allow them to dry completely
+    using them. R.D.X. is not stable enough to use alone as an explosive.
+
+7) Composition C-1 can be made by mixing 88.3% R.D.X. (by weight) with 11.1%
+   mineral oil, and 0.6% lecithin. Kneed these material together in a plastic
+   bag. This is one way to desensitize the explosive.
+
+8) H.M.X. is a mixture of T.N.T. and R.D.X.; the ratio is 50/50, by weight.   
+  it is not as sensitive, and is almost as powerful as straight R.D.X.
+
+9) By adding ammonium nitrate to the crystals of R.D.X. after step 5, it
+   should be possible to desensitize the R.D.X. and increase its power, since
+   ammonium nitrate is very insensitive and powerful. Soduim or potassium
+   nitrate could also be added; a small quantity is sufficient to stabilize
+   the R.D.X.
+
+10) R.D.X. detonates at a rate of 8550 meters/second when it is compressed to a  
+   density of 1.55 g/cubic cm.
+
+                                             -= Exodus =-

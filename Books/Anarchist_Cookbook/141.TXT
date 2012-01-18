@@ -1,0 +1,105 @@
+Low Signature Systems (Silencers)                  by the Jolly Roger
+
+     Low signature systems (silencers) for improvised small arms weapons 
+can be made from steel gas or water pipe and fittings.
+
+Material Required:
+-----------------
+Grenade Container
+Steel pipe nipple, 6 in. (15 cm) long - (see table 1 for diameter)
+2 steel pipe couplings - (see table 2 for dimensions)
+Cotton cloth - (see table 2)
+Drill
+Absorbent cotton
+
+Procedure:
+---------
+1) Drill hole in grenade container at both ends to fit outside diameter 
+of pipe nipple. (see table 1)
+
+                 ->    /----------------------\
+                /     |                        |
+        2.75 in |      )                      ( <-holes
+         dia.   \     |                        |
+                 ->   \-----------------------/
+                      
+                      |-----------------------|
+                               5 in.
+
+2) Drill four rows of holes in pipe nipple. Use table 1 for diameter and 
+location of holes.
+
+                      (Note: I suck at ASCII art!)
+                             
+                                6 in.
+                |-----------------------------------|
+                _____________________________________ ___
+                | O O O O O O O O O O O O O O O O O |  | C (nom. dia.)
+                -------------------------------------
+         (size of hole)   |                   \ / (space between)
+                          B (dia.)             A
+
+
+3) Thread one of the pipe couplings on the drilled pipe nipple.
+4) Cut coupling length to allow barrel of weapon to thread fully into low 
+signature system. Barrel should butt against end of the drilled pipe 
+nipple.
+5) Seperate the top half of the grenade container from the bottom half.
+6) Insert the pipe nipple in the drilled hole at the base of the bottom 
+half of the container. Pack theabsorbent cotton inside the container and 
+around the pipe nipple.
+7) Pack the absorbent cotton in top half of grenade container leaving 
+hole in center. Assemble container to the bottom half.
+8) Thread the other coupling onto the pipe nipple.
+
+Note: A longer container and pipe nipple, with same "A" and "B" 
+dimensions as those given, will furthur reduce the signature of the 
+system.
+
+How to use:
+----------
+
+1) Thread the low signature system on the selected weapon securely.
+2) Place the proper cotton wad size into the muzzle end of the system 
+(see table 2)
+3) Load weapon
+4) Weapon is now ready for use
+
+TABLE 1 -- Low Signature System Dimensions
+------------------------------------------
+
+                                        (Coupling)  Holes per   (4 rows)
+               A         B         C         D         Row        Total
+------------------------------------------------------------------------
+.45 cal        3/8       1/4       3/8       3/8       12           48
+
+.38 cal        3/8       1/4       1/4       1/4       12           48
+
+  9 mm         3/8       1/4       1/4       1/4       12           48
+
+7.62 mm        3/8       1/4       1/4       1/4       12           48
+
+.22 cal        1/4       5/32      1/8*      1/8       14           50
+------------------------------------------------------------------------
+           *Extra Heavy Pipe
+       (All dimensions in inches)
+
+
+TABLE 2 -- Cotton Wadding - Sizes
+---------------------------------
+
+-------------------------------------------------
+Weapon                        Cotton Wadding Size
+-------------------------------------------------
+.45 cal                       1-1/2 x 6 inches
+
+.38 cal                       1 x 4 inches
+     
+  9 mm                        1 x 4 inches
+
+7.62 mm                       1 x 4 inches
+
+.22 cal                       Not needed
+-------------------------------------------------
+
+                                         -=Exodus=-

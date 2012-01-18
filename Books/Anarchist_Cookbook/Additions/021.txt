@@ -1,0 +1,58 @@
+PNEUMATIC SPUD SHOOTER
+
+--------------------------------------------------------------------------------
+
+PURPOSE
+Ever seen those silly little hairspray powered spud guns that are all the rage? How'd you like to show up those guys with a cannon capable of launching spuds nearly 5 times farther? Read on... 
+Testing of hairspray spud guns revealed they can develop no more than 10-20 PSI chamber pressure. Most are built from schedule 40 PVC pipe. 3" PVC pipe has a burst pressure of 260 PSI. People have suggested using other fuels to boost pressures higher, however this is much to dangerous. More volatile fuels can be very unpredictable and create pressures that would shatter the PVC pipe. Compressed air can be regulated to exact safe pressures making it an excellent propellant. The trick is releasing a large volume of air at once to launch the projectile. Here's how it's done...
+
+DRAWINGS
+You may need a drawing to fully understand the concepts of operation and assembly. 
+PARTS
+All pipe and fittings are schedule 40 PVC 1 1/2" pipe 72" long 3" pipe 36" long 1 1/2" to 3" bell reducer 3" female adapter 3" cleanout plug diaphragm (see below) a couple old trouser legs source of compressed air blow gun with tapered nozzle 
+ASSEMBLY
+Cut the pipes to length. The barrel pipe must have a perfectly square and smooth surface on the breach end. You may have to flat file and sand it to make sure a good seal with the diaphragm is achieved. 
+
+Cut a 3 3/16 diameter disk of 3/32 thick polypropylene or polyethylene. A cheap dishpan from Kmart may be a good source of diaphragm material. 
+
+The front bell reducer has a small ridge that would prevent barrel from being pushed through it during assembly. Use a half round file to remove the ridge. Make sure you can push the barrel though the reducer. Remove the barrel and set it aside. 
+
+Drill a hole through the center of the cleanout plug. Size this hole to achieve a tight fit with the tapered nozzle of the blow gun. 
+
+Assemble the outer chamber first. Glue the bell reducer and the female adapter to each end of the 3" pipe. allow the glue to dry before proceeding to install the barrel. 
+
+Place the diaphragm in the female adapter and screw the cleanout plug in firmly. Push the barrel through the reducer until it sets firmly against the diaphragm. Pull it back out 3 inches to allow glue to be applied. Apply glue to the barrel in front of the reducer and push it quickly back into position against the diaphragm. Hold the barrel in place until the glue dries. 
+
+After the gun is assembled, remove the cleanout plug and check to see if the barrel is properly centered in the female adapter at the breach. If it is not, cut 3 or 4 pieces of 5/8" heater hose about 1" long and force them between the barrel and the outer chamber. 
+
+Slip the old trouser legs over the chamber area of the cannon and tape them in place. This simple precaution will contain any pieces of exploding pipe from becoming shrapnel if something should go wrong. 
+
+
+FIRING
+To fire the cannon, unscrew the cleanout plug and remove the diaphragm. Push a pre-cut spud into the breach of the barrel, making sure it is an inch or two below flush. Replace the diaphragm and screw the cleanout plug in firmly. Point the cannon down range. Place the blowgun in the charging hole drilled centered in the cleanout plug. Start squirting air into the cannon with the blowgun. When the sound of hissing air quiets down or stops, the cannon is charged and ready to fire. Keep the blowgun valve pressed down. Aim carefully and pull the blowgun from the charging hole. 
+TIPS
+A tapered nozzle on the blowgun is a must. Size the hole in the cleanout plug to fit the nozzle snugly. Sharpen a short piece of 1 1/2 pipe on the outside to precut your potato. Portability can be had with a 5 or 10 Lb. bottle of CO2 and a regulator. feel free to experiment with different barrel and chamber lengths. This plan was only a starting point. Get a couple of friends to help spot your shots. The spud leaves the barrel *REAL* fast and can be hard to see. I've got one shot to go 755 yards! 
+
+
+THEORY
+Because the diaphragm is somewhat flexible it will bend it's outer edges forward from the pressure and allow the air to fill the outer chamber. At the same time this forward pressure is sealing off the end of the barrel preventing air from escaping up the barrel. Pulling the blowgun out of the charging hole allows the air behind the diaphragm to escape to the atmosphere. At this point all the pressure stored in the outer chamber bends the diaphragm in the opposite direction sealing off on the outer edge of the cleanout plug. The diaphragm continues to bend under the pressure and unseals the barrel end allowing the stored air to escape up the barrel behind the spud. This in turn, propels the potato distances before unknown to mortal spud marksmen. 
+
+In the pneumatics industry, this device is called a quick exhaust valve. It's commonly used on truck air brakes. In an emergency, the quick exhaust valve dumps air from the spring brake chambers to apply the brakes fast. 
+
+
+SAFETY
+DO NOT FIRE THE CANNON AT ANYONE OR ANYTHING. At nearly 500 feet per second muzzle velocity, a potato would be lethal if it were to hit someone. 
+
+The pipe should be clearly marked SCH-40 260 PSI. ACCEPT NO SUBSTITUTIONS or you will be reinventing the pneumatic hand grenade. 
+
+When assembling the gun BE SURE TO USE THE PROPER TYPE OF PIPE CEMENT! Do not use cement made for ABS pipe. If you have any doubts about your gluing technique, GET PLUMBER TO HELP YOU! 
+
+USE ONLY 100 PSI MAX! This gives the plastic pipe a safety factor of more than 2. 
+
+KEEP THE CANNON AT ROOM TEMPERATURE! Exposure to cold temperatures can cause the pipe to become dangerously brittle. 
+
+As pipe ages it may be a good idea to build a new cannon and discard your old one. All plastics have a limited life span and it would be very difficult to estimate the safe life of the cannon. ALWAYS KEEP THE TROUSER LEGS IN PLACE ON THE CHAMBER WHEN FIRING! 
+
+BE CAREFUL and have fun! 
+
+--------------------------------------------------------------------------------

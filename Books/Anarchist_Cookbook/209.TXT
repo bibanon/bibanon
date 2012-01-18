@@ -1,0 +1,206 @@
+SPECIAL AMMUNITION FOR BLOWGUNS
+
+     The blowgun is an interesting weapon which has several advantages. A
+blowgun can be extremely accurate, concealable, and deliver an explosive or
+poisoned projectile.  The manufacture of an explosive dart or projectile is
+not difficult. To acquire a blowgun, please contact the editor at one of the
+addresses given in the introduction.
+
+  Perhaps the most simple design for such involves the use of a pill capsule,
+such as the kind that are taken for headaches or allergies. Empty gelatin pill
+capsules can be purchased from most health-food stores.  Next, the capsule
+would be filled with an impact-sensitive explosive, such as mercury fulminate.
+An additional high explosive charge could be placed behind the impact
+sensitive explosive, if one of the larger capsules were used.
+
+   Finally, the explosive capsule would be reglued back together, and a tassel
+or cotton would be glued to the end containing the high explosive, to insure
+that the impact-detonating explosive struck the target first.
+
+ Such a device would probably be about 3/4 of an inch long, not including the
+tassel or cotton, and look something like this:
+
+
+                 ____________________
+                /mercury |           \-----------------------              
+               (fulminate|   R.D.X.   )---------------------- } tassels
+                \________|___________/-----------------------
+
+
+    Care must be taken- if a powerful dart went off in the blowgun, you could
+easily blow the back of your head off.
+
+
+ SPECIAL AMMUNITION FOR WRISTROCKETS AND SLINGSHOTS
+
+     A modern wristrocket is a formidable weapon.  It can throw a shooter marble
+about 500 ft. with reasonable accuracy.  Inside of 200 ft., it could well be
+lethal to a man or animal, if it struck in a vital area.  Because of the
+relatively large sized projectile that can be used in a wristrocket, the
+wristrocket can be adapted to throw relatively powerful explosive projectiles.
+
+   A small segment of aluminum pipe could be made into an impact-detonating
+device by filling it with an impact-sensitive explosive material.
+
+   Also, such a pipe could be filled with a low-order explosive, and fitted
+with a fuse, which would be lit before the device was shot.  One would have to
+make sure that the fuse was of sufficient length to insure that the device did
+not explode before it reached its intended target.
+
+   Finally, .22 caliber caps, such as the kind that are used in .22 caliber
+blank guns, make excellent exploding ammunition for wristrockets, but they
+must be used at a relatively close range, because of their light weight.
+
+
+SPECIAL AMMUNITION FOR FIREARMS
+
+     When special ammunition is used in combination with the power and
+rapidity of modern firearms, it becomes very easy to take on a small army with
+a single weapon. It is possible to buy explosive ammunition, but that can be
+difficult to do. Such ammunition can also be manufactured in the home.  There
+is, however, a risk involved with modifying any ammunition.  If the ammunition
+is modified incorrectly, in such a way that it makes the bullet even the
+slightest bit wider, an explosion in the barrel of the weapon will occur.  For
+this reason, NOBODY SHOULD EVER ATTEMPT TO MANUFACTURE SUCH AMMUNITION.
+
+
+SPECIAL AMMUNITION FOR HANDGUNS
+
+     If an individual wished to produce explosive ammunition for his/her
+handgun, he/she could do it, provided that the person had an impact-sensitive
+explosive and a few simple tools.  One would first purchase all lead bullets,
+and then make or acquire an impact-detonating explosive.  By drilling a hole
+in a lead bullet with a drill, a space could be created for the placement of
+an explosive.  After filling the hole with an explosive, it would be sealed in
+the bullet with a drop of hot wax from a candle.  A diagram of a completed
+exploding bullet is shown below.
+
+
+                      _o_ ------------ drop of wax
+                     /|*|\
+                    | |*|-|----------- impact-sensitive explosive                
+                    | |_| |
+                    |_____|
+
+     This hollow space design also works for putting poison in bullets.
+
+      In many spy thrillers, an assassin is depicted as manufacturing
+"exploding bullets" by placing a drop of mercury in the nose of a bullet.
+Through experimentation it has been found that this will not work. Mercury
+reacts with lead to form a inert silvery compound.
+
+
+SPECIAL AMMUNITION FOR SHOTGUNS
+
+     Because of their large bore and high power, it is possible to create some
+extremely powerful special ammunition for use in shotguns. If a shotgun shell
+is opened at the top, and the shot removed, the shell can be re-closed. Then,
+if one can find a very smooth, lightweight wooden dowel that is close to the
+bore width of the shotgun, a person can make several types of shotgun-launched
+weapons.
+
+   Insert the dowel in the barrel of the shotgun with the shell without the
+shot in the firing chamber. Mark the dowel about six inches away from the end
+of the barrel, and remove it from the barrel.
+
+   Next, decide what type of explosive or incendiary device is to be used.
+This device can be a chemical fire bottle (sect. 3.43), a pipe bomb (sect
+4.42), or a thermite bomb (sect 3.41 and 4.42). After the device is made, it
+must be securely attached to the dowel. When this is done, place the dowel
+back in the shotgun. The bomb or incendiary device should be on the end of the
+dowel.
+
+   Make sure that the device has a long enough fuse, light the fuse, and fire
+the shotgun. If the projectile is not too heavy, ranges of up to 300 ft are
+possible. A diagram of a shotgun projectile is shown below:
+
+               ____
+               ||  |
+               ||  |
+               ||  | ----- bomb, securely taped to dowel
+               ||  |
+               ||__|
+               || |
+               || | ------- fuse
+               || |
+               ||
+               ||
+               ||
+               || --------- dowel
+               ||
+               ||
+               ||
+               || --------- insert this end into shotgun
+               ||
+               ||
+
+      Special "grenade-launcher blanks" should be used- use of regular blank
+ammunition may cause the device to land perilously close to the user.
+
+
+SPECIAL AMMUNITION FOR COMPRESSED AIR/GAS WEAPONS
+
+     This section deals with the manufacture of special ammunition for
+compressed air or compressed gas weapons, such as pump B.B guns, CO2 B.B guns,
+and .22 cal pellet guns.  These weapons, although usually thought of as kids
+toys, can be made into rather dangerous weapons.
+
+
+SPECIAL AMMUNITION FOR B.B GUNS
+
+     A B.B gun, for this manuscript, will be considered any type of rifle or
+pistol that uses compressed air or CO2 gas to fire a projectile with a caliber
+of .177, either B.B, or lead pellet. Such guns can have almost as high a
+muzzle velocity as a bullet-firing rifle. Because of the speed at which a .177
+caliber projectile flies, an impact detonating projectile can easily be made
+that has a caliber of .177.
+
+     Most ammunition for guns of greater than .22 caliber use primers to
+ignite the powder in the bullet. These primers can be bought at gun stores,
+since many people like to reload their own bullets. Such primers detonate when
+struck by the firing pin of a gun. They will also detonate if they are thrown
+at a hard surface at a great speed.
+
+ Usually, they will also fit in the barrel of a .177 caliber gun. If they are
+inserted flat end first, they will detonate when the gun is fired at a hard
+surface. If such a primer is attached to a piece of thin metal tubing, such as
+that used in an antenna, the tube can be filled with an explosive, be sealed,
+and fired from a B.B gun. A diagram of such a projectile appears below:
+
+
+             _____ primers _______
+            |                    |
+            |                    |
+            |                    |
+            V                    V
+          ______                ______
+          | ________________________ |-------------------
+          | ****** explosive ******* |------------------- } tassel or          
+          | ________________________ |-------------------   cotton
+          |_____                _____|-------------------
+                    ^
+                    |
+                    |
+                    |_______ antenna tubing
+
+     The front primer is attached to the tubing with a drop of super glue. The
+tubing is then filled with an explosive, and the rear primer is glued on.
+Finally, a tassel, or a small piece of cotton is glued to the rear primer, to
+insure that the projectile strikes on the front primer.  The entire projectile
+should be about 3/4 of an inch long.
+
+
+
+SPECIAL AMMUNITION FOR .22 CALIBER PELLET GUNS
+
+     A .22 caliber pellet gun usually is equivalent to a .22 cal rifle, at
+close ranges.  Because of this, relatively large explosive projectiles can be
+adapted for use with .22 caliber air rifles.  A design similar to that used in
+section 5.12 is suitable, since some capsules are about .22 caliber or
+smaller. Or, a design similar to that in section 5.31 could be used, only one
+would have to purchase black powder percussion caps, instead of ammunition
+primers, since there are percussion caps that are about .22 caliber.  A #11
+cap is too small, but anything larger will do nicely.
+
+
+                                        -= Exodus =-

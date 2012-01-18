@@ -1,0 +1,44 @@
+Highway radar jamming                       by The Jolly Roger
+
+Most drivers wanting to make better time on the open road will 
+invest in one of those expensive radar detectors. However, this 
+device will not work against a gun type radar unit in which the 
+radar signal is not present until the cop has your car in his 
+sights and pulls the trigger. Then it is TOO LATE for you to slow 
+down. A better method is to continuously jam any signal with a 
+radar signal of your own. I have tested this idea with the 
+cooperation of a local cop and found that his unit reads random 
+numbers when my car approached him. It is suprisingly easy to make 
+a low power radar transmitter. A nifty little semiconductor called 
+a Gunn Diode will generate microwaves when supplied with the 5 to 
+10 volt DC and enclosed in the correct size cavity (resonater). An 
+8 to 3 terminal regulator can be used to get this voltage from a 
+car's 12v system. However, the correct construction and tuning of 
+the cavity is difficult without good microwave measurement 
+equipment. Police radars commonly operate on the K band at 22 ghz. 
+Or more often on the X band at 10.525 ghz. most microwave intruder 
+alarms and motion detectors (mounted over automatic doors in 
+supermarkets & banks, etc.) contain a Gunn type 
+transmitter/receiver combination that transmits about 10 kilowatts 
+at 10.525 ghz. These units work perfectly as jammers. If you 
+cannot get one locally, write to Microwave Associates in 
+Burlington, Massachusettes and ask them for info on 'Gunnplexers' 
+for ham radio use. When you get the unit it may be mounted in a 
+plastic box on the dash or in a weather-proff enclosure behind the 
+PLASTIC grille. Switch on the power when on an open highway. The 
+unit will not jam radar to the side or behind the car so don't go 
+speeding past the radar trap. An interesting phenomena you will 
+notice is that the drivers who are in front of you who are using 
+detectors will hit their brakes as you approach large metal signs 
+and bridges. Your signal is bouncing off of these objects and 
+triggering their radar detectors!       HAVE FUN!
+                                       -Jolly Roger-
+
+P.S. If you are interested in this sort of thing, get a copy of 
+POPULAR COMMUNICATIONS. The ads in there tell you where you can 
+get all kinds of info on all kinds of neat equipment for all kinds 
+of neat things!
+
+                                              -= Exodus =- '94
+
+

@@ -1,0 +1,89 @@
+Electronic Terrorism                            by The Jolly Roger
+
+It starts when a big, dumb lummox rudely insults you.  Being of a
+rational, intelligent disposition, you wisely choose to avoid a
+(direct) confrontation.  But as he laughs in your face, you smile
+inwardly---your revenge is already planned.
+Step 1:  follow your victim to his locker, car, or house.  Once you
+have chosen your target site, lay low for a week or more,
+letting your anger boil.
+Step 2:  in the mean time, assemble your versatile terrorist
+kit(details below.)
+Step 3:  plant your kit at the designated target site on a monday
+morning between the hours of 4:00 am and 6:00 am.  Include a
+calm, suggestive note that quietly hints at the possibility
+of another attack.  Do not write it by hand!  An example of
+an effective note:
+  "don't be such a jerk, or the next one will take off your
+   hand.  Have a nice day."
+Notice how the calm tone instills fear.  As if written by a
+homicidal psychopath.
+Step 5:  choose a strategic location overlooking the target site.  Try
+to position yourself in such a way that you can see his facial contortions.
+Step 6:  sit back and enjoy the fireworks! Assembly of the versatile,
+economic, and effective terrorist kit #1: the parts you'll need are:
+1) 4 aa batteries
+2) 1 9-volt battery
+3) 1 spdt mini relay (radio shack)
+4) 1 rocket engine(smoke bomb or m-80)
+5) 1 solar ignitor (any hobby store)
+6) 1 9-volt battery connector
+
+
+Step 1:  take the 9-volt battery and wire it through the relay's coil.
+This circuit should also include a pair of contacts that when
+separated cut off this circuit.  These contacts should be held together
+by trapping them between the locker,mailbox, or car door.
+Once the door is opened, the contacts fall apart and the 9-volt circuit
+is broken, allowing the relay to fall to the closed postion
+thus closing the ignition circuit. (If all this is confusing take a
+look at the schematic below.)
+
+Step 2:  take the 4 aa batteries and wire them in succession.
+Wire the positive terminal of one to the negative terminal of another,
+until all four are connected except one positive terminal and one negative
+terminal.  Even though the four aa batteries only combine to create 6
+volts, the increase in amperage is necessary to activate the solar
+ignitor quickly and effectively.
+
+Step 3:  take the battery pack (made in step 2) and wire one end of it
+to the relay's single pole and the other end to one prong of the solar
+ignitor.  Then wire the other prong of the solar ignitor back to the open
+position on the relay.
+
+Step 4:  using double sided carpet tape mount the kit in his locker,
+mailbox, or car door. And last, insert the solar ignitor into the
+rocket engine (smoke bomb or m-80).
+
+
+
+Your kit is now complete!
+       
+        ---------><---------
+        I    (CONTACTS)    I
+        I                  I
+        I                  -  (BATTERY)
+        I                 ---
+        I                  I
+        I      (COIL)      I
+        ------///////-------
+          /-----------
+         /           I
+        /            I
+       /             I
+   (SWITCH) I        I
+            I        I
+            I       --- (BATTERY)
+            I        -  ( PACK  )
+            I       ---
+            I        I
+            I        I
+            ---- -----
+               I I
+                *
+         (SOLAR IGNITOR)
+
+                               ---------Exodus---------
+
+
+

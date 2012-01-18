@@ -1,0 +1,666 @@
+
+
+
+                                ==Phrack Inc.==
+
+                     Volume Three, Issue 27, File 3 of 12
+
+       <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+       <>                                                            <>
+       <>                   Introduction to MIDNET                   <>
+       <>                   ~~~~~~~~~~~~~~~~~~~~~~                   <>
+       <>        Chapter Seven Of The Future Transcendent Saga       <>
+       <>                                                            <>
+       <>               A More Indepth Look Into NSFnet              <>
+       <>             National Science Foundation Network            <>
+       <>                                                            <>
+       <>                Presented by Knight Lightning               <>
+       <>                        June 16, 1989                       <>
+       <>                                                            <>
+       <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+
+Prologue
+~~~~~~~~
+If you are not already familiar with NSFnet, I would suggest that you read:
+
+"Frontiers" (Phrack Inc., Volume Two, Issue 24, File 4 of 13), and definitely;
+"NSFnet:  National Science Foundation Network" (Phrack Inc., Volume Three,
+                                                Issue 26, File 4 of 11).
+
+
+Table Of Contents
+~~~~~~~~~~~~~~~~~
+*  Introduction
+*  The DOD Protocol Suite
+*  Names and Addresses In A Network
+*  Telnet (*NOT* Telenet)
+*  File Transfer
+*  Mail
+
+
+Introduction
+~~~~~~~~~~~~
+MIDNET is a regional computer network that is part of the NSFnet, the National
+Science Foundation Network.  Currently, eleven mid-United States universities
+are connected to each other and to the NSFnet via MIDnet:
+
+UA  - University of Arkansas at Fayetteville
+ISU - Iowa State University at Ames
+UI  - University of Iowa at Iowa City
+KSU - Kansas State University at Manhattan
+KU  - University of Kansas at Lawrence
+UMC - University of Missouri at Columbia
+WU  - Washington University at St. Louis, Missouri
+UNL - University of Nebraska at Lincoln
+OSU - Oklahoma State University at Stillwater
+UT  - University of Tulsa (Oklahoma)
+OU  - University of Oklahoma at Norman
+
+Researchers at any of these universities that have funded grants can access the
+six supercomputer centers funded by the NSF:
+
+John Von Neuman Supercomputer Center
+National Center for Atmospheric Research
+Cornell National Supercomputer Facility
+National Center for Supercomputing Applications
+Pittsburgh Supercomputing Center
+San Diego Supercomputing Center
+
+In addition, researchers and scientists can communicate with each other over a
+vast world-wide computer network that includes the NSFnet, ARPAnet, CSnet,
+BITnet, and others that you have read about in The Future Transcendent Saga.
+Please refer to "Frontiers" (Phrack Inc., Volume Two, Issue 24, File 4 of 13)
+for more details.
+
+MIDnet is just one of several regional computer networks that comprise the
+NSFnet system.  Although all of these regional computer networks work the same,
+MIDnet is the only one that I have direct access to and so this file is written
+from a MIDnet point of view.  For people who have access to the other regional
+networks of NSFnet, the only real differences depicted in this file that would
+not apply to the other regional networks are the universities that are served
+by MIDnet as opposed to:
+
+NYSERnet  in New York State
+SURAnet   in the southeastern United States
+SEQSUInet in Texas
+BARRnet   in the San Francisco area
+MERIT     in Michigan
+
+           (There are others that are currently being constructed.)
+
+These regional networks all hook into the NSFnet backbone, which is a network
+that connects the six supercomputer centers.  For example, a person at Kansas
+State University can connect with a supercomputer via MIDnet and the NSFnet
+backbone.  That researcher can also send mail to colleagues at the University
+of Delaware by using MIDnet, NSFnet and SURAnet.  Each university has its own
+local computer network which connects on-campus computers as well as providing
+a means to connecting to a regional network.
+
+Some universities are already connected to older networks such as CSnet, the
+ARPAnet and BITnet.  In principal, any campus connected to any of these
+networks can access anyone else in any other network since there are gateways
+between the networks.
+
+Gateways are specialized computers that forward network traffic, thereby
+connecting networks.  In practice, these wide-area networks use different
+networking technology which make it impossible to provide full functionality
+across the gateways.  However, mail is almost universally supported across all
+gateways, so that a person at a BITnet site can send mail messages to a
+colleague at an ARPAnet site (or anywhere else for that matter).  You should
+already be somewhat familiar with this, but if not refer to;
+
+"Limbo To Infinity" (Phrack Inc., Volume Two, Issue 24, File 3 of 13) and
+"Internet Domains" (Phrack Inc., Volume Three, Issue 26, File 8 of 11)
+
+Computer networks rely on hardware and software that allow computers to
+communicate.  The language that enables network communication is called a
+protocol.  There are many different protocols in use today.  MIDnet uses the
+TCP/IP protocols, also known as the DOD (Department of Defense) Protocol Suite.
+
+Other networks that use TCP/IP include ARPAnet, CSnet and the NSFnet.  In fact,
+all the regional networks that are linked to the NSFnet backbone are required
+to use TCP/IP.  At the local campus level, TCP/IP is often used, although other
+protocols such as IBM's SNA and DEC's DECnet are common.  In order to
+communicate with a computer via  MIDnet and the NSFnet, a computer at a campus
+must use TCP/IP directly or use a gateway that will translate its protocols
+into TCP/IP.
+
+The Internet is a world-wide computer network that is the conglomeration of
+most of the large wide area networks, including ARPAnet, CSnet, NSFnet, and the
+regionals, such as MIDnet.  To a lesser degree, other networks such as BITnet
+that can send mail to hosts on these networks are included as part of the
+Internet.  This huge network of networks, the Internet, as you have by now read
+all about in the pages of Phrack Inc., is a rapidly growing and very complex
+entity that allows sophisticated communication between scientists, students,
+government officials and others.  Being a part of this community is both
+exciting and challenging.
+
+This chapter of the Future Transcendent Saga gives a general description of the
+protocols and software used in MIDnet and the NSFNet.  A discussion of several
+of the more commonly used networking tools is also included to enable you to
+make practical use of the network as soon as possible.
+
+
+The DOD Protocol Suite
+~~~~~~~~~~~~~~~~~~~~~~
+The DOD Protocol Suite includes many different protocols.  Each protocol is a
+specification of how communication is to occur between computers.  Computer
+hardware and software vendors use the protocol to create programs and sometimes
+specialized hardware in order to implement the network function intended by the
+protocol.  Different implementations of the same protocol exist for the varied
+hardware and operating systems found in a network.
+
+The three most commonly used network functions are:
+
+Mail          -- Sending and receiving messages
+File Transfer -- Sending and receiving files
+Remote Login  -- Logging into a distant computer
+
+Of these, mail is probably the most commonly used.
+
+In the TCP/IP world, there are three different protocols that realize these
+functions:
+
+SMTP   -- (Simple Mail Transfer Protocol) Mail
+FTP    -- (File Transfer Protocol) sending and receiving files
+Telnet -- Remote login
+
+How to use these protocols is discussed in the next section.  At first glance,
+it is not obvious why these three functions are the most common.  After all,
+mail and file transfer seem to be the same thing.  However, mail messages are
+not identical to files, since they are usually comprised of only ASCII
+characters and are sequential in structure.  Files may contain binary data and
+have complicated, non-sequential structures.  Also, mail messages can usually
+tolerate some errors in transmission whereas files should not contain any
+errors.  Finally, file transfers usually occur in a secure setting (i.e. The
+users who are transferring files know each other's names and passwords and are
+permitted to transfer the file, whereas mail can be sent to anybody as long as
+their name is known).
+
+While mail and transfer accomplish the transfer of raw information from one
+computer to another, Telnet allows a distant user to process that information,
+either by logging in to a remote computer or by linking to another terminal.
+Telnet is most often used to remotely log in to a distant computer, but it is
+actually a general-purpose communications protocol.  I have found it incredibly
+useful over the last year.  In some ways, it could be used for a great deal of
+access because you can directly connect to another computer anywhere that has
+TCP/IP capabilities, however please note that Telnet is *NOT* Telenet.
+
+There are other functions that some networks provide, including the following:
+
+- Name to address translation for networks, computers and people
+- The current time
+- Quote of the day or fortune
+- Printing on a remote printer, or use of any other remote peripheral
+- Submission of batch jobs for non-interactive execution
+- Dialogues and conferencing between multiple users
+- Remote procedure call (i.e. Distributing program execution over several
+                              remote computers)
+- Transmission of voice or video information
+
+Some of these functions are still in the experimental stages and require faster
+computer networks than currently exist.  In the future, new functions will
+undoubtedly be invented and existing ones improved.
+
+The DOD Protocol Suite is a layered network architecture, which means that
+network functions are performed by different programs that work independently
+and in harmony with each other.  Not only are there different programs but
+there are different protocols.  The protocols SMTP, FTP and Telnet are
+described above.  Protocols have been defined for getting the current time, the
+quote of the day, and for translating names.  These protocols are called
+applications protocols because users directly interact with the programs that
+implement these protocols.
+
+The Transmission Control Protocol, TCP, is used by many of the application
+protocols.  Users almost never interact with TCP directly.  TCP establishes a
+reliable end-to-end connection between two processes on remote computers.  Data
+is sent through a network in small chunks called packets to improve reliability
+and performance.  TCP ensures that packets arrive in order and without errors.
+If a packet does have errors, TCP requests that the packet be retransmitted.
+
+In turn, TCP calls upon IP, Internet Protocol, to move the data from one
+network to another.  IP is still not the lowest layer of the architecture,
+since there is usually a "data link layer protocol" below it.  This can be any
+of a number of different protocols, two very common ones being X.25 and
+Ethernet.
+
+FTP, Telnet and SMTP are called "application protocols", since they are
+directly used by applications programs that enable users to make use of the
+network.  Network applications are the actual programs that implement these
+protocols and provide an interface between the user and the computer.  An
+implementation of a network protocol is a program or package of programs that
+provides the desired network function such as file transfer.  Since computers
+differ from vendor to vendor (e.g. IBM, DEC, CDC), each computer must have its
+own implementation of these protocols.  However, the protocols are standardized
+so that computers can interoperate over the network (i.e. Can understand and
+process each other's data).  For example, a TCP packet generated by an IBM
+computer can be read and processed by a DEC computer.
+
+In many instances, network applications programs use the name of the protocol.
+For example, the program that transfers files may be called "FTP" and the
+program that allows remote logins may be called "Telnet."  Sometimes these
+protocols are incorporated into larger packages, as is common with SMTP.  Many
+computers have mail programs that allow users on the same computer to send mail
+to each other.  SMTP functions are often added to these mail programs so that
+users can also send and receive mail through a network.  In such cases, there
+is no separate program called SMTP that the user can access, since the mail
+program provides the user interface to this network function.
+
+Specific implementation of network protocols, such as FTP, are tailored to the
+computer hardware and operating system on which they are used.  Therefore, the
+exact user interface varies from one implementation to another.  For example,
+the FTP protocol specifies a set of FTP commands which each FTP implementation
+must understand and process.  However, these are usually placed at a low level,
+often invisible to the user, who is given a higher set of commands to use.
+
+These higher-level commands are not standardized so they may vary from one
+implementation of FTP to another.  For some operating systems, not all of these
+commands make equal sense, such as "Change Directory," or may have different
+meanings.  Therefore the specific user interface that the user sees will
+probably differ.
+
+This file describes a generic implementation of the standard TCP/IP application
+protocols.  Users must consult local documentation for specifics at their
+sites.
+
+
+Names and Addresses In A Network
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In DOD Protocol Suite, each network is given a unique identifying number.  This
+number is assigned by a central authority, namely the Network Information
+Center run by SRI, abbreviated as SRI-NIC, in order to prevent more than one
+network from having the same network number.  For example, the ARPAnet has
+network number 10 while MIDnet has a longer number, namely 128.242.
+
+Each host in a network has a unique identification so other hosts can specify
+them unambiguously.  Host numbers are usually assigned by the organization that
+manages the network, rather than one central authority.  Host numbers do not
+need to be unique throughout the whole Internet but two hosts on the same
+network need to have unique host numbers.
+
+The combination of the network number and the host number is called the IP
+address of the host and is specified as a 32-bit binary number.  All IP
+addresses in the Internet are expressible as 32-bit numbers, although they are
+often written in dotted decimal notation.  Dotted decimal notation breaks the
+32-bit number into four eight-bit parts or octets and each octet is specified
+as a decimal number.  For example, 00000001 is the binary octet that specifies
+the decimal number 1, while 11000000 specifies 192.  Dotted decimal notation
+makes IP addresses much easier to read and remember.
+
+Computers in the Internet are also identified by hostnames, which are strings
+of characters, such as "phrackvax."  However, IP packets must specify the
+32-bit IP address instead of the hostname so  some way to translating hostnames
+to IP addresses must exist.
+
+One way is to have a table of hostnames and their corresponding IP addresses,
+called a hosttable.  Nearly every TCP/IP implementation has such a hosttable,
+although the weaknesses of this method are forcing a shift to a new scheme
+called the domain name system.  In UNIX systems, the hosttable is often called
+"/etc/hosts."  You can usually read this file and find out what the IP
+addresses of various hosts are.  Other systems may call this file by a
+different name and make it unavailable for public viewing.
+
+Users of computers are generally given accounts to which all charges for
+computer use are billed.  Even if computer time is free at an installation,
+accounts are used to distinguish between the users and enforce file
+protections.  The generic term "username" will be used in this file to refer to
+the name by which the computer account is accessed.
+
+In the early days of the ARPAnet which was the first network to use the TCP/IP
+protocols, computer users were identified by their username, followed by a
+commercial "at" sign (@), followed by the hostname on which the account
+existed.  Networks were not given names, per se, although the IP address
+specified a network number.
+
+For example, "knight@phrackvax" referred to user "knight" on host "phrackvax."
+This did not specify which network "phrackvax" was on, although that
+information could be obtained by examining the hosttable and the IP address for
+"phrackvax."  (However, "phrackvax" is a ficticious hostname used for this
+presentation.)
+
+As time went on, every computer on the network had to have an entry in its
+hosttable for every other computer on the network.  When several networks
+linked together to form the Internet, the problem of maintaining this central
+hosttable got out of hand.  Therefore, the domain name scheme was introduced to
+split up the hosttable and make it smaller and easier to maintain.
+
+In the new domain name scheme, users are still identified by their usernames,
+but hosts are now identified by their hostname and any and all domains of which
+they are a part.  For example, the following address,
+"KNIGHT@UMCVMB.MISSOURI.EDU" specifies username "KNIGHT" on host "UMCVMB".
+However, host "UMCVMB" is a part of the domain "MISSOURI" " which is in turn
+part of the domain "EDU".  There are other domains in "EDU", although only one
+is named "MISSOURI".  In the domain "MISSOURI", there is only one host named
+"UMCVMB".
+
+However, other domains in "EDU" could theoretically have hosts named "UMCVMB"
+(although I would say that this is rather unlikely in this example).  Thus the
+combination of hostname and all its domains makes it unique.  The method of
+translating such names into IP addresses is no longer as straightforward as
+looking up the hostname in a table.  Several protocols and specialized network
+software called nameservers and resolvers implement the domain name scheme.
+
+Not all TCP/IP implementations support domain names because it is rather new.
+In those cases, the local hosttable provides the only way to translate
+hostnames to IP addresses.  The system manager of that computer will have to
+put an entry into the hosttable for every host that users may want to connect
+to.  In some cases, users may consult the nameserver themselves to find out the
+IP address for a given hostname and then use that IP address directly instead
+of a hostname.
+
+I have selected a few network hosts to demonstrate how a host system can be
+specified by both the hostname and host numerical address.  Some of the nodes I
+have selected are also nodes on BITnet, perhaps even some of the others that I
+do not make a note of due a lack of omniscent awareness about each and every
+single host system in the world :-)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Numerical      Hostname                   Location                       BITnet
+---------      --------                   --------                       ------
+18.72.0.39     ATHENA.MIT.EDU             (Mass. Institute of Technology)     ?
+26.0.0.73      SRI-NIC.ARPA               (DDN Network Information Center)    -
+36.21.0.13     MACBETH.STANFORD.EDU       (Stanford University)               ?
+36.21.0.60     PORTIA.STANFORD.EDU        (Stanford University)               ?
+128.2.11.131   ANDREW.CMU.EDU             (Carnegie Mellon University)   ANDREW
+128.3.254.13   LBL.GOV                    (Lawrence Berkeley Labrotories)   LBL
+128.6.4.7      RUTGERS.RUTGERS.EDU        (Rutgers University)                ?
+128.59.99.1    CUCARD.MED.COLUMBIA.EDU    (Columbia University)               ?
+128.102.18.3   AMES.ARC.NASA.GOV          (Ames Research Center [NASA])       -
+128.103.1.1    HARVARD.EDU                (Harvard University)          HARVARD
+128.111.24.40  HUB.UCSB.EDU               (Univ. Of Calif-Santa Barbara)      ?
+128.115.14.1   LLL-WINKEN.LLNL.GOV        (Lawrence Livermore Labratories)    -
+128.143.2.7    UVAARPA.VIRGINIA.EDU       (University of Virginia)            ?
+128.148.128.40 BROWNVM.BROWN.EDU          (Brown University)              BROWN
+128.163.1.5    UKCC.UKY.EDU               (University of Kentucky)         UKCC
+128.183.10.4   NSSDCA.GSFC.NASA.GOV       (Goddard Space Flight Center [NASA])-
+128.186.4.18   RAI.CC.FSU.EDU             (Florida State University)        FSU
+128.206.1.1    UMCVMB.MISSOURI.EDU        (Univ. of Missouri-Columbia)   UMCVMB
+128.208.1.15   MAX.ACS.WASHINGTON.EDU     (University of Washington)        MAX
+128.228.1.2    CUNYVM.CUNY.EDU            (City University of New York)  CUNYVM
+129.10.1.6     NUHUB.ACS.NORTHEASTERN.EDU (Northeastern University)       NUHUB
+131.151.1.4    UMRVMA.UMR.EDU             (University of Missouri-Rolla) UMRVMA
+192.9.9.1      SUN.COM                    (Sun Microsystems, Inc.)            -
+192.33.18.30   VM1.NODAK.EDU              (North Dakota State Univ.)    NDSUVM1
+192.33.18.50   PLAINS.NODAK.EDU           (North Dakota State Univ.)    NDSUVAX
+
+Please Note:  Not every system on BITnet has an IP address.  Likewise, not
+              every system that has an IP address is on BITnet.  Also, while
+              some locations like Stanford University may have nodes on BITnet
+              and have hosts on the IP as well, this does not neccessarily
+              imply that the systems on BITnet and on IP (the EDU domain in
+              this case) are the same systems.
+
+              Attempts to gain unauthorized access to systems on the Internet
+              are not tolerated and is legally a federal offense.  At some
+              hosts, they take this very seriously, especially the government
+              hosts such as NASA's Goddard Space Flight Center, where they do
+              not mind telling you so at the main prompt when you connect to
+              their system.
+
+              However, some nodes are public access to an extent.  The DDN
+              Network Information Center can be used by anyone.  The server and
+              database there have proven to be an invaluable source of
+              information when locating people, systems, and other information
+              that is related to the Internet.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Telnet
+
+~~~~~~
+Remote login refers to logging in to a remote computer from a terminal
+connected to a local computer.  Telnet is the standard protocol in the DOD
+Protocol Suite for accomplishing this.  The "rlogin" program, provided with
+Berkeley UNIX systems and some other systems, also enables remote login.
+
+For purposes of discussion, the "local computer" is the computer to which your
+terminal is directly connected while the "remote computer" is the computer on
+the network to which you are communicating and to which your terminal is *NOT*
+directly connected.
+
+Since some computers use a different method of attaching terminals to
+computers, a better definition would be the following:  The "local computer" is
+the computer that you are currently using and the "remote computer" is the
+computer on the network with which you are or will be communicating.  Note that
+the terms "host" and "computer" are synonymous in the following discussion.
+
+To use Telnet, simply enter the command: TELNET
+
+The prompt that Telnet gives is:  Telnet>
+
+(However, you can specify where you want to Telnet to immediately and bypass
+the the prompts and other delays by issuing the command:  TELNET [location].)
+
+There is help available by typing in ?.  This prints a list of all the valid
+subcommands that Telnet provides with a one-line explanation.
+
+Telnet> ?
+
+To connect to to another computer, use the open subcommand to open a connection
+to that computer.  For example, to connect to the host "UMCVMB.MISSOURI.EDU",
+do "open umcvmb.missouri.edu"
+
+Telnet will resolve (i.e. Translate, the hostname "umcvmb.missouri.edu" into an
+IP address and will send a packet to that host requesting login.  If the remote
+host decides to let you attempt a login, it prompts you for your username and
+password.  If the host does not respond, Telnet will "time out" (i.e. Wait for
+a reasonable amount of time such as 20 seconds) and then terminate with a
+message such as "Host not responding."
+
+If your computer does not have an entry for a remote host in its hosttable and
+it cannot resolve the name, you can use the IP address explicitly in the telnet
+command.  For example,
+
+TELNET 26.0.0.73 (Note:  This is the IP address for the DDN Network Information
+                 Center [SRI-NIC.ARPA])
+
+If you are successful in logging in, your terminal is connected to the remote
+host.  For all intents and purposes, your terminal is directly hard-wired to
+that host and you should be able to do anything on your remote terminal that
+you can do at any local terminal.  There are a few exceptions to this rule,
+however.
+
+Telnet provides a network escape character, such as CONTROL-T. You can find out
+what the escape character is by entering the "status" subcommand:
+
+Telnet> status
+
+You can change the escape character by entering the "escape" subcommand:
+
+Telnet> escape
+
+When you type in the escape character, the Telnet prompt returns to your screen
+and you can enter subcommands.  For example, to break the connection, which
+usually logs you off the remote host, enter the subcommand "quit":
+
+Telnet> quit
+
+Your Telnet connection usually breaks when you log off the remote host, so the
+"quit" subcommand is not usually used to log off.
+
+When you are logged in to a remote computer via Telnet, remember that there is
+a time delay between your local computer and the remote one.  This often
+becomes apparent to users when scrolling a long file across the terminal screen
+nd they wish to cancel the scrolling by typing CONTROL-C or something similar.
+After typing the special control character, the scrolling continues.  The
+special control character takes a certain amount of time to reach the remote
+computer which is still scrolling information.  Thus response from the remote
+computer will not likely be as quick as response from a local computer.
+
+Once you are remotely logged on, the computer you are logged on to effectively
+becomes your "local computer," even though your original "local computer" still
+considers you logged on.  You can log on to a third computer which would then
+become your "local computer" and so on.  As you log out of each session, your
+previous session becomes active again.
+
+
+File Transfer
+~~~~~~~~~~~~~
+
+FTP is the program that allows files to be sent from one computer to another.
+"FTP" stands for "File Transfer Protocol".
+
+When you start using FTP, a communications channel with another computer on the
+network is opened.  For example, to start using FTP and initiate a file
+transfer session with a computer on the network called "UMCVMB", you would
+issue the following subcommand:
+
+FTP UMCVMB.MISSOURI.EDU
+
+Host "UMCVMB" will prompt you for an account name and password.  If your login
+is correct, FTP will tell you so, otherwise it will say "login incorrect."  Try
+again or abort the FTP program.  (This is usually done by typing a special
+control character such as CONTROL-C.  The "program abort" character varies from
+system to system.)
+
+Next you will see the FTP prompt, which is:
+
+Ftp>
+
+There are a number of subcommands of FTP.  The subcommand "?" will list these
+commands and a brief description of each one.
+
+You can initiate a file transfer in either direction with FTP, either from the
+remote host or to the remote host.  The "get" subcommand initiates a file
+transfer from the remote host (i.e. Tells the remote computer to send the file
+to the local computer [the one on which you issued the "ftp" command]).  Simply
+enter "get" and  FTP will prompt you for the remote host's file name and the
+(new) local host's file name.  Example:
+
+Ftp> get
+Remote file name?
+theirfile
+local file name?
+myfile
+
+ou can abbreviate this by typing both file names on the same line as the "get"
+subcommand.  If you do not specify a local file name, the new local file will
+be called the same thing as the remote file.  Valid FTP subcommands to get a
+file include the following:
+
+get theirfile myfile
+get doc.x25
+
+The "put" subcommand works in a similar fashion and is used to send a file from
+the local computer to the remote computer.  Enter the command "put" and FTP
+will prompt you for the local file name and then the remote file name.  If the
+transfer cannot be done because the file doesn't exist or for some other
+reason, FTP will print an error message.
+
+There are a number of other subcommands in FTP that allow you to do many more
+things.  Not all of these are standard so consult your local documentation or
+type a question mark at the FTP prompt.  Some functions often built into FTP
+include the ability to look at files before getting or putting them, the
+ability to change directories, the ability to delete files on the remote
+computer, and the ability to list the directory on the remote host.
+
+An intriguing capability of many FTP implementations is "third party
+transfers."  For example, if you are logged on computer A and you want to cause
+computer B to send a file to computer C, you can use FTP to connect to computer
+B and use the "rmtsend" command.  Of course, you have to know usernames and
+passwords on all three computers, since FTP never allows you to peek into
+someone's directory and files unless you know their username and password.
+
+The "cd" subcommand changes your working directory on the remote host.  The
+"lcd" subcommand changes the directory on the local host.  For UNIX systems,
+the meaning of these subcommands is obvious.  Other systems, especially those
+that do not have directory-structured file system, may not implement these
+commands or may implement them in a different manner.
+
+The "dir" and "ls" subcommands do the same thing, namely list the files in the
+working directory of of the remote host.
+
+The "list" subcommand shows the contents of a file without actually putting it
+into a file on the local computer.  This would be helpful if you just wanted to
+inspect a file.  You could interrupt it before it reached the end of the file
+by typing CONTROL-C or some other special character.  This is dependent on your
+FTP implementation.
+
+The "delete" command can delete files on the remote host.  You can also make
+and remove directories on the remote host with "mkdir" and "rmdir".  The
+"status" subcommand will tell you if you are connected and with whom and what
+the state of all your options are.
+
+If you are transferring binary files or files with any non-printable
+characters, turn binary mode on by entering the "binary" subcommand:
+
+binary
+
+To resume non-binary transfers, enter the "ascii" subcommand.
+
+Transferring a number of files can be done easily by using "mput" (multiple
+put) and "mget" (multiple get).  For example, to get every file in a particular
+directory, first issue a "cd" command to  change to that directory and then an
+"mget" command with an asterisk to indicate every file:
+
+cd somedirectory
+mget *
+
+When you are done, use the "close" subcommand to break the communications link.
+You will still be in FTP, so you must use the "bye" subcommand to exit FTP and
+return to the command level.  The "quit" subcommand will close the connection
+and exit from FTP at the same time.
+
+
+Mail
+~~~~
+Mail is the simplest network facility to use in many ways.  All you have to do
+is to create your message, which can be done with a file editor or on the spur
+of the moment, and then send it.  Unlike FTP and Telnet, you do not need to
+know the password of the username on the remote computer.  This is so because
+you cannot change or access the files of the remote user nor can you use their
+account to run programs.  All you can do is to send a message.
+
+There is probably a program on your local computer which does mail between
+users on that computer.  Such a program is called a mailer.  This may or may
+not be the way to send or receive mail from other computers on the network,
+although integrated mailers are more and more common.  UNIX mailers will be
+used as an example in this discussion.
+
+Note that the protocol which is used to send and receive mail over a TCP/IP
+network is called SMTP, the "Simple Mail Transfer Protocol."  Typically, you
+will not use any program called SMTP, but rather your local mail program.
+
+UNIX mailers are usually used by invoking a program named "mail".  To receive
+new mail, simply type "mail".
+
+There are several varieties of UNIX mailers in existence.  Consult your local
+documentation for details.  For example, the command "man mail" prints out the
+manual pages for the mail program on your computer.
+
+To send mail, you usually specify the address of the recipient on the mail
+command.  For example: "mail knight@umcvmb.missouri.edu" will send the
+following message to username "knight" on host "umcvmb".
+
+You can usually type in your message one line at a time, pressing RETURN after
+each line and typing CONTROL-D to end the message. Other facilities to include
+already-existing files sometimes exist.  For example, Berkeley UNIXes allow you
+to enter commands similar to the following to include a file in your current
+mail message:
+
+r myfile
+
+In this example, the contents of "myfile" are inserted into the message at this
+point.
+
+Most UNIX systems allow you to send a file through the mail by using input
+redirection.  For example:
+
+mail knight@umcvmb.missouri.edu < myfile
+
+In this example, the contents of "myfile" are sent as a message to "knight" on
+"umcvmb."
+
+Note that in many UNIX systems the only distinction between mail bound for
+another user on the same computer and another user on a remote computer is
+simply the address specified.  That is, there is no hostname for local
+recipients.  Otherwise, mail functions in exactly the same way.  This is common
+for integrated mail packages.  The system knows whether to send the mail
+locally or through the network based on the address and the user is shielded
+from any other details.
+
+
+                  "The Quest For Knowledge Is Without End..."
+_______________________________________________________________________________
+
+
+

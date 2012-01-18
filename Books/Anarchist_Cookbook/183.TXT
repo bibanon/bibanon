@@ -1,0 +1,118 @@
+                             ANARCHY 'N' EXPLOSIVES
+                               VOLUME 5 -- 4/3/89
+
+     Well, hasn't it been long since Volume 4 of Anarchy 'n' Explosives?
+Well, I finally got around to typing up another volume. This one will be
+dedicated to the extremely simple and more accessible explosives and
+incendiaries to be prepared at home, or laboratory; depending upon the
+environment you have access to or are accustomed to.
+
+     Anyway, getting back down to business, I must (again), put up this sign:
+
+         WARNING: THESE EXPLOSIVES/INCENDIARIES ARE REAL, NOT TOYS. USE
+          EXTREME CAUTION WHEN PREPARING AND APPLYING WHEN APPLICABLE.
+                 FAILURE TO DO SO MAY RESULT IN INJURY OR DEATH.
+                              USE AT YOUR OWN RISK!
+
+          Enough  of the warnings and notes; for further information and/or
+     comments  on  this  series  of  ever popular explosives, contact me (I
+     don't  sign  these  "publications") on the Knavery BBS at xxx-xxx-xxxx
+     on  the  public message base, I should be reading some requests if you
+     leave  them.  And,  volume  number 6 should be coming out sooner than
+     the time between 4 and 5, but don't count on it.
+
+BULK POWDERS:
+=============
+
+      Bulk  powders are types of gunpowders consisting of nitrocellulose and a
+mixture  of  other chemically explosive solutions. These nitrocellulose fibers
+are  stuck together, but are not completely collided. Some contain little else
+but  nitrocellulose;  others  contain,  in  addition  to  potassium and barium
+nitrates,  camphor, vaseline, paraffin, lampblack, starch, dextrine, potassium
+dichromate  or  other  oxidizing  or  deterrent  salts,  and diphenylamine for
+stabilization, and are colored in a variety of brilliant hues by means of col-
+tar  dyes. Three typical bulk powders are made up according to the approximate
+formulas tabulated below:
+
+         Nitrocellulose........................ 84.0   87.0   89.0
+           % N in nitrocellulose............... 13.2   12.9   12.9
+         Potassium nitrate.....................  7.5    6.0    6.0
+         Barium nitrate........................  7.5    2.0    3.0
+         Starch................................  -.-    -.-    1.0
+         Paraffin oil..........................  -.-    4.0    -.-
+         Diphenylamine.........................  1.0    1.0    1.0
+
+      The  mixture  is  mixed  in warm water and dried thoroughly. Then either
+granulated  or  made  into powder by crushing with a wooden block and screened
+through  a  12-mesh sieve. The material is then stored in a moisture-resistant
+container for future or immediate use.
+
+MERCURY FULMINATE:
+==================
+      Mercury  fulminate  is  an  initiating  explosive, commonly appearing as
+white  or  gray  crystals.  It  is  extremely sensitive to initiation by heat,
+friction,  spark  or  flame, and impact. It detonates when initiated by any of
+these  means.  It  is pressed into containers, usually at 3000 psi, for use in
+detonators  and blasting caps. However, when compressed at greater and greater
+pressure  (up to 30,000 psi), it becomes "dead pressed." In this condition, it
+can  only  be detonated by another initial detonating agent. Mercury fulminate
+gradually  becomes inert when stored continuously above 100 degrees F. A dark-
+colored  product  of  deterioration  gives  evidence  of  this effect. Mercury exfulminate  is  stored underwater except when there is danger of freezing. Then
+it is stored under a mixture of water and alcohol.
+
+     Preparation  of  Mercury  Fulminate. Five grams of mercury is addedExt55 
+cc.  of nitric acid (specific gravity 1.42) in a 100-cc. Erlenmeyer flask, and
+the  mixture  is  allowed  to stand without shaking until the mercury has gone
+into  solution. The acid liquid is then poured into 50 cc. of 90% alcohol in a
+500-cc.  beaker  in the hood. The temperature of the mixture rises, a vigorous
+reaction  commences,  white  fumes  come  off,  and cdata  bstals of fulminate soon
+begin  to precipitate. Red fumes appear and the precipitation of the fulminate
+becomes  more  rapid,  then white fumes again as the reaction moderates. After
+about  20  minutes, the reaction is over; water is added, and the cdata  bstals are
+washed  with  water repeatedly by decantation until the washings are no longer
+acid   to  litmus.  The  product  consists  of  grayish-yellow  cdata  bstals,  and
+corresponds  to a good grade of commercial fulminate. It may be obtained white
+and  entirely  pure  by  dissolving  in  strong  ammonia water, filtering, and
+reprecipitating  by  the  addition  of  30% acetic acid. The pure fulminate is
+filtered  off,  washed  several times with cold water, and stored under water,
+or,  if  a very small amount is desired for experimental purposes, it is dried
+in a desiccator.
+
+AMATOL:
+=======
+
+      Description:  amatol is a high explosive, whit to buff in color. It is a
+mixture  of  ammonium  nitrate and TNT, with a relative effectiveness slightly
+higher  than  that  of  TNT  alone. Common compositions vary from 80% ammonium
+nitrate  and  20%  TNT  to 40% ammonium nitrate and 60% TNT. Amatol is used as
+the  main  bursting  charge  in  artillery  shells  and  bombs. Amatol absorbs
+moisture  and  can  form dangerous compounds with copper and brass. Therefore,
+it should not be housed in containers of such metals.
+
+BLACK POWDERS:
+==============
+
+      Black  powders  burn  either  quickly  or  very  slowly depending on the
+composition  of  such  a  mixture; however, these powders produce smoke, often
+great  amounts,  and  is most useful in applications where smoke is no object.
+It  is  the  best for communicating fire and for producing a quick, hot flame.
+Black  powder  is  used  in  both  propellant  charges for shrapnel shells, in
+saluting  and  blank  fire  charges, as the bursting charge of practice shells
+and  bombs,  as a propelling charge in certain pyrotechnic pieces, and, either
+with  or  without  the  admixture of other substances which modify the rate of
+burning,  in the time-train rings and in other parts of fuses. Below is a list
+of black powders and their compositions.
+                                                   (Brown)
+         Name                           Saltpeter  Charcoal  Sulfur
+       England........................    79        (18)        3
+       England........................    77.4      (17.6)      5
+       Germany........................    78        (19)        3
+       Germany........................    80        (20)        -
+       France.........................    78        (19)        3
+       Forte...........e...........e  72         15        13 |  Blasting
+       Lente..........................    40         30        30 |- Black
+       Ordinaire...........e..........    62         18        20 |  Powders
+
+
+
+

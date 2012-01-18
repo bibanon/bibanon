@@ -1,0 +1,90 @@
+Counterfeiting Money                            by JRoger
+
+Before reading this article, it would be a very good idea to get a 
+book on photo offset printing, for this is the method used in
+counterfeiting US currency.  If you are familiar with this method 
+of printing, counterfeiting should be a simple task for you.
+
+Genuine currency is made by a process called "gravure", which 
+involves etching a metal block.  Since etching a metal block is
+impossible to do by hand, photo offset printing comes into the 
+process.
+
+Photo offset printing starts by making negatives of the currency
+with a camera, and putting the negatives on a piece of masking 
+material (usually orange in color).  The stripped negatives, 
+commonly called "flats", are then exposed to a lithographic plate
+with an arc light plate maker.  The burned plates are then 
+developed with the proper developing chemical.  One at a time, 
+these plates are wrapped around the plate cylinder of the press.   
+
+The press to use should be an 11 by 14 offset, such as the AB Dick 
+360.  Make 2 negatives of the portrait side of the bill, and 1 of 
+the back side.  After developing them and letting them dry, take 
+them to a light table.  Using opaque on one of the portrait sides, 
+touch out all the green, which is the seal and the serial numbers.  
+The back side does not require any retouching, because it is all 
+one color.  Now, make sure all of the negatives are registered 
+(lined up correctly) on the flats.  By the way, every time you 
+need another serial number, shoot 1 negative of the portrait side,
+cut out the serial number, and remove the old serial number from 
+the flat replacing it with the new one.
+
+Now you have all 3 flats, and each represents a different color:  
+black, and 2 shades of green (the two shades of green are created 
+by mixing inks).  Now you are ready to burn the plates.  Take a 
+lithographic plate and etch three marks on it.  These marks must 
+be 2 and 9/16 inches apart, starting on one of the short edges.  
+Do the same thing to 2 more plates.  Then, take 1 of the flats and 
+place it on the plate, exactly lining the short edge up with the 
+edge of the plate.  Burn it, move it up to the next mark, and 
+cover up the exposed area you have already burned.  Burn that, and 
+do the same thing 2 more times, moving the flat up one more mark.  
+Do the same process with the other 2 flats (each on a separate 
+plate).  Develop all three plates.  You should now have 4 images 
+on each plate with an equal space between each bill. 
+
+The paper you will need will not match exactly, but it will do for 
+most situations.  The paper to use should have a 25% rag content.
+By the way, Disaperf computer paper (invisible perforation) does 
+the job well.  Take the paper and load it into the press.  Be sure 
+to set the air, buckle, and paper thickness right.  Start with the 
+black plate (the plate without the serial numbers).  Wrap it 
+around the cylinder and load black ink in.  Make sure you run more 
+than you need because there will be a lot of rejects.  Then, while 
+that is printing, mix the inks for the serial numbers and the back 
+side.  You will need to add some white and maybe yellow to the 
+serial number ink.  You also need to add black to the back side.  
+Experiment until you get it right.  Now, clean the press and print 
+the other side.  You will now have a bill with no green seal or 
+serial numbers.  Print a few with one serial number, make another 
+and repeat.  Keep doing this until you have as many different 
+numbers as you want.  Then cut the bills to the exact size with a 
+paper cutter.  You should have printed a large amount of money by 
+now, but there is still one problem;  the paper is pure white.  To 
+dye it, mix the following in a pan:  2 cups of hot water, 4 tea 
+bags, and about 16 to 20 drops of green food coloring (experiment 
+with this).  Dip one of the bills in and compare it to a genuine 
+US bill.  Make the necessary adjustments, and dye all the bills.  
+Also, it is a good idea to make them look used.  For example, 
+wrinkle them, rub coffee grinds on them, etc.
+
+As before mentioned, unless you are familiar with photo offset 
+printing, most of the information in this article will be fairly 
+hard to understand.  Along with getting a book on photo offset 
+printing, try to see the movie "To Live and Die in LA".  It is 
+about a counterfeiter, and the producer does a pretty good job of 
+showing how to counterfeit.  A good book on the subject is "The 
+Poor Man's James Bond".
+
+If all of this seems too complicated to you, there is one other 
+method available for counterfeiting:  The Canon color laser 
+copier.  The Canon can replicate ANYTHING in vibrant color, 
+including US currency.  But, once again, the main problem in 
+counterfeiting is the paper used.  So, experiment, and good luck!
+
+                                             -= Exodus =-
+
+
+
+

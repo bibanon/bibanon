@@ -1,0 +1,283 @@
+##########################################################################
+#                                                                        #
+#                           The Remote Informer                          #
+#                                                                        #
+#------------------------------------------------------------------------#
+#             Reader supported newsletter for the underworld             #
+#------------------------------------------------------------------------#
+#                                                                        #
+#                    Editors: Tracker and Norman Bates                   #
+#                                                                        #
+#========================================================================#
+# September 1987                                               Issue: 01 #
+#========================================================================#
+#                              The Headlines                             #
+#------------------------------------------------------------------------#
+#                     1) Introduction                                    #
+#                     2) Hacking Sprint: The Easy Way                    #
+#                     3) Rumors: Why spread them?                        #
+#                     4) The New Sprint FON Calling Cards                #
+#                     5) Automatic Number Identifier (ANI)               #
+##########################################################################
+           
+                   Introduction
+--------------------------------------------------------------------------
+Welcome to the first issue of 'The Remote Informer'!  This newsletter
+is reader supported.  If the readers of this newsletter do not help
+support it, then it will end.  We are putting this out to help out the
+ones that would like to read it.  If you are one of those who thinks they
+know everything, then don't bother reading it.  This newsletter is not
+anything like the future issues.  The future issues will contain several
+sections, as long as reader input is obtained.  Below is an outline
+overview of the sections in the future issues.
+
+I/O Board (Input/Output Board)
+
+The I/O Board is for questions you have, that we might be able to
+answer or atleast refer you to someone or something.  We will be honest if
+we cannot help you.  We will not make up something, or to the effect, just
+to make it look like we answered you.  There will be a section in the I/O
+Board for questions we cannot answer, and then the readers will have the
+opportunity to answer it.  We will print anything that is reasonable in
+the newsletter, even complaints if you feel like you are better than
+everyone.
+
+NewsCenter
+
+This section will be for news around the underworld.  It will talk of
+busts of people in the underworld and anything else that would be
+considered news.  If you find articles in the paper, or something happens
+in your local area, type it up, and upload it to one of the boards listed
+at the end of the newsletter.  Your handle will be placed in the article.
+If you do enter a news article, please state the date and from where you
+got it.
+
+Feature Section
+
+The Feature Section will be the largest of the sections as it will be
+on the topic that is featured in that issue.  This will be largely reader
+input which will be sent in between issues.  At the end of the issue at
+hand, it will tell the topic of the next issue, therefore, if you have
+something to contribute, then you will have ample time to prepare your
+article.
+
+Hardware/Software Review
+In this section, we will review the good and bad points of hardware
+and software related to the underworld.  It will be an extensive review,
+rather than just a small paragraph.
+
+The Tops
+
+This section will be the area where the top underworld BBS's, hacking
+programs, modem scanners, etc. will be shown.  This will be reader
+selected and will not be altered in anyway.  The topics are listed below.
+Underworld BBS's (Hack, Phreak, Card, Anarchy, etc.)
+Hacking programs for Hayes compatables
+Hacking programs for 1030/Xm301 modems
+Modem scanners for Hayes compatables
+Modem scanners for 1030/Xm301 modems
+Other type illegal programs
+You may add topics to the list if enough will support it.
+
+Tid Bits
+
+This will contain tips and helpful information sent in by the users.
+If you have any information you wish to contribute, then put it in a text
+file and upload it to one of the BBS's listed at the end of the
+newsletter.
+Please, no long distance codes, mainframe passwords, etc.
+We may add other sections as time goes by.  This newsletter will not
+be put out on a regular basis.  It will be put out when we have enough
+articles and information to put in it.  There may be up to 5 a month, but
+there will always be at least one a month.  We would like you, the readers,
+to send us anything you feel would be of interest to others, like hacking
+hints, methods of hacking long distance companies, companies to card from,
+etc.  We will maintain the newsletter as long as the readers support it.
+That is the end of the introduction, but take a look at this newsletter,
+as it does contain information that may be of value to you.
+==========================================================================
+                      Hacking Sprint: The Easy Way
+-------------------------------------------------------------------------
+                             By: Tracker
+
+If you hack US Sprint, 950-0777 (by the way it is no longer GTE
+Sprint), and you are fustrated at hacking several hours only to find one
+or two codes, then follow these tips, and it will increase your results
+tremendously.  First, one thing that Mr. Mojo proved is that Sprint will
+not store more than one code in every hundred numbers.  (ex: 98765400 to
+98765499 may contain only one code).   There may NOT be a code in that
+hundred, but there will never be more than one.
+Sprint's 9 digit codes are stored from 500000000 through 999999999.
+In the beginning of Sprint's 950 port, they only had 8 digit codes.  Then
+they started converting to 9 digit codes, storing all 8 digit codes
+between 10000000 and 49999999 and all 9 digit codes between 500000000 and
+999999999.  Sprint has since cancelled most 8 digit codes, although there
+are a few left that have been denoted as test codes.  Occaisionally, I
+hear of phreaks saying they have 8 digit codes, but when verifying them,
+the codes were invalid.
+Now, where do you start?  You have already narrowed the low and high
+numbers in half, therefore already increasing your chances of good results
+by 50 percent.  The next step is to find a good prefix to hack.  By the
+way, a prefix, in hacking terms, is the first digits in a code that can be
+any length except the same number of digits the code is.  (ex: 123456789
+is a code.  That means 1, 12, 123, 1234, 12345, 123456, 1234567, and
+12345678 are prefixes)  The way you find a good prefix to hack is to
+manually enter a code prefix.  If when you enter the code prefix and a
+valid destination number and you do not hear the ringing of the recording
+telling you that the code is invalid until near the end of the number,
+then you know the prefix is valid.  Here is a chart to follow when doing
+this:
+Code      - Destination    Range good codes exist
+-------------------------------------------------
+123456789 - 6192R           123400000 - 123499999
+123456789 - 619267R         123450000 - 123459999
+123456789 - 61926702R       123456000 - 123456999
+123456789 - 6192670293R     123456700 - 123456799
+-------------------------------------------------
+( R - Denotes when ring for recording starts)
+To prove 
+this true, I ran a test using OmniHack 1.3p, written by
+Jolly Joe.  In this test I found a prefix where the last 3 digits were all
+I had to hack.  I tested each hundred of the 6 digit prefix finding that
+all but 4 had the ring start after the fourth digit was dialed in the
+destination number.  The other four did not ring until I had finished the
+entire code.  I set OmniHack to hack the prefix + 00 until prefix + 99.
+(ex: xxxxxxy00 to xxxxxxy99: where y is one of the four numbers that the
+ring did not start until the dialing was completed.)  Using this method, I
+found four codes in a total of 241 attempts using ascending hacking (AKA:
+Sequential).  Below you will see a record of my hack:
+Range of hack            Codes found     Tries
+----------------------------------------------
+xxxxxx300 - xxxxxx399     xxxxxx350        50
+xxxxxx500 - xxxxxx599     xxxxxx568        68
+xxxxxx600 - xxxxxx699     xxxxxx646        46
+xxxxxx800 - xxxxxx899     xxxxxx877        77
+----------------------------------------------
+Totals                     4 codes        241
+As you see, these methods work.  Follow these guidlines and tips and
+you should have an increase in production of codes in the future hacking
+Sprint.  Also, if you have any hints/tips you think others could benefit
+from, then type them up and upload them to one of the boards at the end of
+the newsletter.
+==========================================================================
+                         Rumors: Why Spread Them?
+--------------------------------------------------------------------------
+                              By: Tracker
+Do you ever get tired of hearing rumors?  You know, someone gets an
+urge to impress others, so they create a rumor that some long distance
+company is now using tracing equipment.  Why start rumors?  It only scares
+others out of phreaking, and then makes you, the person who started the
+rumor, look like Mr. Big.  This article is short, but it should make you
+aware of the rumors that people spread for personal gain.  The best thing
+to do is to denote them as a rumor starter and then leave it at that.  You
+should not rag on them constantly, since if the other users cannot
+determine if it is fact or rumor, then they should suffer the
+consequences.
+==========================================================================
+                     The New Sprint FON Calling Cards
+--------------------------------------------------------------------------
+                               By: Tracker
+US Sprint has opened up a new long distance network called the Fiber
+Optic Network (FON), in which subscribers are given calling cards.  These
+calling cards are 14 digits, and though, seem randomly generated, they are
+actually encrypted.  The rumors floating around about people getting
+caught using the Sprint FON calling cards are fact, not rumors.  The
+reason people are getting caught is that they confuse the FON calling
+cards with the local 950 port authorization codes.  If you will remember,
+you never use AT&T calling cards from you home phone.  It has ANI
+capability, which is not tracing, but rather the originating phone number
+is placed on the bill as soon as the call is completed.  They know your
+phone number when you call the 800 access port, but they do not record it
+until your call is completed.  Also, through several of my hacks, I came
+up with some interesting information surrounding the new Sprint network.
+They are listed below.
+800-877-0000
+This number is for information on US Sprint's 800 calling card
+service.  I have not played around with it, but I believe it is for
+trouble or help with the FON calling cards.  I am not sure if it is for
+subscribing to the FON network.
+800-877-0002 - You hear a short tone, then nothing.
+800-877-0003 - US Sprint Alpha Test Channel #1
+800-877-(0004-0999)
+When you call these numbers, you get a recording saying: "Welcome to
+US Sprint's 1 plus service."  When the recording stops, if you hit the
+pound key (#) you will get the calling card dial tone.
+Other related Sprint numbers
+800-521-4949   This is the number that you subscribe to US Sprint with.
+You may also subscribe to the FON network on this number.  It will take 4
+to 5 weeks for your calling card to arrive.
+10777
+This is US Sprint's equal access number.  When you dial this number,
+you then dial the number you are calling, and it will be billed through US
+Sprint, and you will receive their long distance line for that call.  Note
+that you will be billed for calls made through equal access.  Do not
+mistake it to be a method of phreaking, unless used from a remote
+location.
+If you are in US Sprint's 1+ service then call 1+700-555-1414, which
+will tell you which long distance company you are using.  When you hear:
+"Thank you for choosing US Sprint's 1 plus service," hit the pound key
+(#), and then you will get the US Sprint dial tone.  This however is just
+the same as if you are calling from your home phone if you dial direct, so
+you would be billed for calls made through that, but there are ways to use
+this to your advantage as in using equal access through a PBX.
+==========================================================================
+                   Automatic Number Identification (ANI)
+--------------------------------------------------------------------------
+                             By: Tracker
+
+The true definition for Automatic Number Identification has not been
+widely known to many.  Automatic Number Identification, (AKA: ANI), is the
+process of the destination number knowing the originating number, which is
+where you are calling from.  The method of achieving this is to send the
+phone number that you are calling from in coded form ahead of the
+destination number. Below is an example of this.
+ANI Method
+Dial: 267-0293
+Sent: ********2670293
+* - Denotes the originating number which is coded and sent before the
+    number
+As you noticed there are 8 digits in the coded number.  This is
+because, at least I believe, it is stored in a binary-like form. 
+Automatic Number Identification means a limited future in phreaking. ANI
+does not threaten phreaking very much yet, but it will in the near future.
+A new switching system will soon be installed in most cities that are
+covered by ESS, Electronic Switching System, now. 
+The system will have ANI capabilities which will be supplied to the
+owners of phone lines as an›added extra.  The owner's phone will have
+an LED read-out that will show the phone number of the people that
+call you.  You will be able to block some numbers, so that people
+cannot call you.  This system is in the testing stages currently, but will
+soon be installed across most of the country.  As you see, this will
+end a large part of phreaking, until we, the phreakers, can come up with
+an alternative.  As I have been told by several, usually reliable,
+people, this system is called ISS, which I am not sure of the meaning of
+this, and is being tested currently in Rhode Island.
+800 in-watts lines set up by AT&T support ANI.  The equipment to
+decode an ANI coded origination number does not costs as much as you would
+expect.  950 ports do not offer ANI capability, no matter what you have
+been told.  The 950 ports will only give the city in which they are based,
+this usually being the largest in the state, sometimes the capitol.
+One last thing that I should tell you is that ANI is not related to
+tracing.  Tracing can be done on any number whether local, 950, etc.  One
+way around this, especially when dialing Alliance TeleConferencing, is to
+dial through several extenders or ports.  ANI will only cover the number
+that is calling it, and if you call through a number that does not support
+ANI, then your number will never be known.
+==========================================================================
+                              The Disclaimer!
+--------------------------------------------------------------------------
+
+We, the editors, take no responsibility for your actions and use of
+the information in this newsletter.  This newsletter is for informational
+purposes only.  There will never be any long distance codes, passwords,
+etc. in this newsletter.  If you are easily offended by telecommunication
+discussions, then we suggest that you not read this newsletter.  But for
+those who are truely interested in the information in this newsletter,
+enjoy it.
+
+Brought to you in Cookbook III, courtesy of the Jolly Roger!!!!!!!!!!
+
+-Exodus-  Revised.
+
+
+

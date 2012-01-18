@@ -1,0 +1,93 @@
+                            ANARCHY 'N' EXPLOSIVES
+                            =====> VOLUME 2 <=====
+
+    This volume defines a few varieties of misc explosives, charges, and
+       whatever I had in mind at that time. Anyway, these formulas are not
+       as precise in measurements for they were given in brief summary.
+       However, they will work, and if used correctly can be safe and "fun".
+
+    FRENCH AMMONAL:
+-------------------
+            Type: Low Explosive
+     Ingredients: 86% Ammonium Nitrate
+                   6% Stearic Acid
+                   8% Aluminum Powder
+     Description: French ammonal is an easily improvised low explosive
+                  mixture. It is generally less effective than an equal
+                  weight of TNT. The material is loaded by pressing it into
+                  a suitable container. Initiation by an Engineer's special
+                  blasting cap is recommended.
+        Comments: This material was tested. It is effective.
+      References: TM 31-201-1, Unconventional Warfare Devices and Techniques,
+                  para 1401.
+
+    TETRYTOL:
+-------------
+            Type: High Explosive
+     Ingredients: 75% Tetryl
+                  25% TNT
+     Description: Tetryol is a high explosive bursting charge. It is used as
+                  a demolition explosive, a bursting charge for mines, and
+                  in artillery shells. The explosive force of tetrytol is
+                  approximately the same as that of TNT. It may be initiated
+                  by a blasting cap. Tetrytol is usually loaded by casting.
+        Comments: This material was tested. It is effective.
+      References: TM 9-1900, Ammunition, General, page 55.
+                  TM 9-1910, Military Explosives, page 188.
+
+    IMPROVISED PLASTIC EXPLOSIVE FILLER:
+----------------------------------------
+            Type: High Explosive
+     Ingredients: Finely Powdered Potassium Chlorate Cdata  bstals
+                  Petroleum Jelly        **MIX THOUROUGHLY**
+     Description: This plastic explosive filler can be detonated with a
+                  No. 8 commercial blasting cap or with any military
+                  blasting cap. The explosive must be stored in a waterproof
+                  container until ready to use.
+        Comments: This material was tested. It is effective.
+      References: TM 31-210, Improvised Munitions, sec I, No. 1.
+
+    FLAMABILITY OF GASES:
+-------------------------
+            Type: Gas Explosive
+     Ingredients: Explosive Gas
+     Description: Under some conditions, common gases act as fuel. When mixed
+                  with air, they will burn rapidly or even explode. For some
+                  fuel-air mixtures, the range over which the explosion can
+                  occur is quite wide while for others the limits are narrow.
+                  The upper and lower amounts of common fuels that will cause
+                  an ignitable mixture are shown in the table below. The
+                  quantity shown is the percentage by volume of air. If the
+                  fuel-air mixture is too lean or too rich, it will not
+                  ignite. The amounts shown are therefore called limits of
+                  inflamability.
+                                                   Gases (% by volume of air)
+                  Fuel (Gas)                       Lower Limit    Upper Limit
+                  -------------------------------  -----------    -----------
+                  Water Gas Or Blue Gas                7.0             72
+                  Natural Gas                          4.7             15
+                  Hydrogen                             4.0             75
+                  Acetylene                            2.5             81
+                  Propane                              2.2             10
+                  Butane                               1.9              9
+
+        Comments: These fuels have been tested under labratory conditions.
+                  They are effective. Ignition depends on method of
+                  initiation, uniformity of mixture, and physical conditions.
+      References: Bulletin 29, Limits of Inflammability of Gases and Vapors
+                  H.F. Coward and G.W. Jones, Bureau of Mines, U.S.
+                  Government Printing Offece, 1939.
+
+                                 !!!WARNING!!!
+ ! USE THESE FORMULAS AND OTHER FORMS OF ANARCHY/EXPLOSIVES AT YOUR OWN RISK !
+
+More volumes of ANARCHY soon to come.......
+
+
+
+===> DOCTOR DISSECTOR
+
+
+
+---------------------------------------
+

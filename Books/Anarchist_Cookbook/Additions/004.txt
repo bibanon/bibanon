@@ -1,0 +1,179 @@
+                             
+                              Diary of a Hacker 
+                                  Part: II
+
+
+        My Handle is The Cuisinart Blade.
+        I am a Hacker.
+
+        This is part 2 in a three part series about my adventures as
+        a Hacker.  The events in these Text files are very real.  They
+        are written as they occured.  All people in this have had their
+        Handles changed, (unless otherwise specified).
+
+        -To continue where I left off...
+
+        I sent Dr.Antristo home after our "encounter" with IBM. I loved
+        the fact I had entered one of the biggest Corps in the World!
+        It was about 3:34 in the morning, I logged onto the Lunacy in
+        the Abyss BBS, and went into the chat with my peers. After talking
+        to them at length about my "Discoveries", I found them all asking
+        me for the Passwords, and how I managed to get that far.  I told
+        them that only an EXPERIENCED Hacker could do such things...I will
+        admit, I was up on myself.  (shame)  These others, all 13 of them,
+        were in Awe.  For once I was in the lead, I was able to scoff at
+        some of the higher ups who had told me I would never achieve what
+        they had.  I may not have been as good as they were, but I was
+        up with them in the big leagues!
+        Potempkin, Renw“ar, šbermahn, The Drifter, Sewer Rat, and Thycho,
+        a few names of those who were online at the time.  They were all
+        very intrested in accquiring info+ on what I had gotten into.  I
+        wanted to tell them, but I thought it best not to.  Not yet.....
+        After chatting for half the evening, I finally went to sleep,
+        wondering what my next move should be.  
+
+        October 30th, 1988
+
+        Dr.Antristo and I went Bin shopping again.  We dug up a record
+        of Ex-employees scheduled to have their Passwords cleared from the
+        system.  Someone loved us, to give us this trash.  We returned home
+        to find Passwords, Doodling, more Loop Numbers, and an old records
+        collection of New In-Service Numbers.  We wanted to know how AT&T
+        worked, so we were going to check it out.  I first needed to talk to
+        my friend/contact in Ohio.  I dialed up his number in the 216 Area
+        and waited to chat with him.  He wasn't online.  Bummer.  I checked
+        a few of the other BBS's in the general area looking for people who
+        could tell me how one was able to crack into AT&T.  No one seemed to
+        know.
+        On the following evening we finally got our big break.  Another 
+        Hacker, told us in exchange for Loop Numbers he would give us a 
+        Password in the AT&T System.  We agreed.  He gave us the Password
+        to a smaller area of AT&T and told us that it was pretty unguarded
+        so we should have no problem finding what we wanted to look at.  I
+        was and very much still am an Astronomy Buff.  I wanted to find out
+        how many AT&T Satellites were up there.  So Dr.Antristo & I were
+        going to find out the following night.
+
+        Happy Holloween.....<Evil Grin>
+
+        On November 1st, 1988 we Called AT&T.  We were buzzed off of the
+        24pack of Jolt we had imbibed.  After connection to the Loop number
+        we dialed into the Corperate office of AT&T and were actually given
+        a command prompt, (after a COLORFUL Ascii Screen...Yeah...Right.)
+        The AT&T Logo was proudly displayed onto our moniter, but we thought,
+        with their appearant lack of security, that Pride was False.
+        We typed in the Password and it told us that it required a name for
+        "Security" reasons.  We dug up a name and fed it into the Computer.
+        After verification of that employee, (NEVER put your full name on
+        stationairy!) it gave us access into the System.  I thumbed through
+        some small records and such.  Nothing much to get in the way of 
+        records, or options.  I decided to look into the system a bit
+        further.  After nosing through some Menus, I found a "Doorway" to
+        the larger system.  The way AT&T was, it was a bunch of smaller 
+        computers all hooked into one another by a bigger system.  I was
+        merely in one of the smaller appendages.  I wanted the big guy!
+        I opened the door and was system transferred to a larger net, where
+        it showed scheduled Payrolls, Pink Slip notices, Active Staff Members
+        , and a monstrofic listing of people who were behind on their 
+        payments.  Jackpot!  Or so I thought.  No where could I find anything
+        on AT&T Satellites, or the such.  I couldn't fix any of the payrolls
+        or even reprieve people from getting the ever-more-noticable Pink 
+        Slip.  (I still think American Companies are penny pinchers for 
+        looking elsewhere for their SLAVE LABOUR)
+        I sat there looking through the People lists, looking for a higher
+        up so I could "Borrow" his name...heh heh.
+        I couldn't locate the main file area for any of the larger ups', 
+        so I logged off for the evening. I would find out later.  The Doc
+        had an idea that would require skilful planning and cunning. I
+        counted myself in.  So there we were at 3:35 the next day, standing
+        on a corner, on a pay phone, talking to the operater.  We told the
+        nice lady we were late for an appointment with Director of Operations
+        and that we needed to reschedule our time, and after several minutes
+        of chatting with the nice lady, I told her I was putting his name
+        down in my appointment book, and I needed it spelled correctly, so
+        She and I went through the spelling of the Director of Ops.  :) 
+        I laughed as we wrote it down, little would this girl know what
+        were up to!
+        After chatting for a few minutes, I disconnected and Dr.Antristo
+        and I went home.  We began to talk about how we were going to get
+        in, as well as what we would do when we had access.  He didn't know
+        and neither did I.  I guessed we'd have'ta figure it out when we
+        got there.  School homework was completed on time, (I STILL think
+        that its a waste) and we both had dinner with our respective in-
+        mates.  (What would you call a family that no longer cared?)
+        Evening rolled around, we were both a bit tired, so we were going
+        to make this quick...We dialed into the Loop Number and then into 
+        the little number our Hacker buddy gave us.  After we were in, I
+        opened the Doorway and entered the main area.  After scanning the
+        place for new info, I used the fellows name and opened myself to
+        a world of new possibilites.  I found myself able to rearrange small
+        lists of people, reverse pink slips, etc...  I was in!
+        I checked out some of those pink slips and read up.  I was horrified
+        to find that some of these people were being canned because they 
+        were in their 40's?!?  I looked for who was responsible for signing
+        these Slips, and to my utter amazement it was the guy who I was
+        impersonating!  Well, I, being the better part of this guys 
+        conscience, decided to fix what I broke!  I reversed several of the
+        pink slips and gave one to this bastard!  (Someone out there owes me
+        there job! :) )
+        After dawdling with the Pink Slips, I went to check out other
+        areas of the company.  I managed to worm my way into the Special
+        sections, like who could order what.  Private lines for other
+        companies, Tracing Codes, and Satellites.  I couldn't access the
+        Satellites, but I managed to print Screen the Private Phone Lines
+        of other companies, (and I STILL have them) and I found a real cute
+        doorway...it was to emergency areas.  Example, A master program for
+        the termination of the Chicagoland area.  I liked that.  I could
+        axe Communtication on 3.2 million people in a mircosecond.  hahaha!
+        I didn't, of course.  I went ahead and logged out.  I felt very 
+        good about the things I had done.  If there is a God, he must have
+        been thinking about that moment.  I know that most people out there
+        who are Hackers or want to Hack, I know it is hard to believe, but
+        should you ever be in the position I am, you'd understand why I 
+        did what I did.  I never asked for forgiveness, as a matter of fact,
+        I don't want it.  I was aware of what I was doing, and I enjoyed it.
+        Anyways...Dr.Antristo had told me that the Department of Defence was
+        offering contracts to Fermi Labs, and to Argonne on the Star Wars
+        Space Project, and that we should look into it.  I liked that idea,
+        but the government?  Geez...
+        I thought about it for all of a month.  In that time I hacked a 
+        large number of places, Mircosoft, IBM (again), Sears, Texaco,
+        Illinois Bell, Wisconsin Bell, Prudental, My High School, (Everyone
+        has done it, admit it), Martin Marrettia, and Jet Propultion Lab-
+        rotories, (if you don't know what the last 2 are, STOP READING!)
+        I had enough stuff that if I sold half of it, I could retire at the
+        ripe age of 16!  But even thought our government holds out on us,
+        and lies, steals, and keeps secrets, I still love it.  This is the
+        land of the free.....NOT!!!
+
+        December 3rd, 1988
+
+        I was at home watching some christmas shopping commercials and 
+        drinking a Jolt, when I recieved a phone call from my buddy
+        Dr.Antristo.  He told me that Argonne had gotten the project and 
+        that someone I knew was the project manager.  The Password was
+        Anti-RX...?!?  I sighed and said what the hell, why not.  Lets
+        see what our wonderful government is up to now.
+        After a little bit of looking into it, I found out that yes indeed
+        someone I knew was into the project.  I also found out that as of
+        1988-89 Star Wars was not...35% complete, but a whopping 87%.  The
+        only thing left to "Shunt" into orbit was a weapon called the 
+        Wiggler beam.  A laser which concentrated high speed X-rays into 
+        a focused stream, resulting in a laser so powerful it would 
+        litterly slice incoming missiles in half.  I didn't care what the
+        thing could do, this was good information.  I liked it, so I got
+        onto Argonne National Labrotories Crey computer using a stolen
+        password and copied the plans to an undisclosed location for later
+        retrival.
+        Dr.Antristo told me to goto the Department of Energy, you know, the
+        bigwigs with no dicks, who push everyone whom they consider beneith
+        them around to make their things for them.  (Wussies)  I went from
+        the Crey to the main computer terminal of the D.O.E. and looked 
+        around for a bit.  I found something I know all you will just love, 
+        a small article of information indicating after shipping out 265
+        "Pink Slips" that Article 130a, said that they (all the brass at the
+        D.O.E. were going to give themselves some raises) oh my, how cute.
+        Well, after looking around in the D.O.E. area, I quickly shut off
+        the computer and terminated the connection when I heard my all-
+        powerful Father come down the stairs to talk to me.  Whew!
+

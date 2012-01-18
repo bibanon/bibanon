@@ -1,0 +1,289 @@
+                                           
+                       .... Composite Rocket Fuels ....
+                         
+
+
+
+DISCLAIMER: The following file contains information of harmful or illegal
+            nature. Neither the BBS or author providing this information
+            can be considered responsible for the use of this file.
+            The person using this knowledge is solely responsible for 
+            it's use or misuse. This file is intended to educate only.
+
+
+             
+                             1.) Introduction
+                              
+Composite propellants are solid rocket fuels that are composed of separate
+fuels and oxidizers mixed together in one homogenous mass. This propellant
+is then either molded into a grain to be inserted in an engine or cast in an
+engine casing and left to harden. The fuels and oxidizers taken separately
+are generally unreactive. Composite propellants are used in a number of
+engines. There are engines that use water for fuel and an oxidizer, air for
+an oxidizer like a ramjet, and a liquid/solid engine that can be throttled. 
+The rocket motors discussed here a best built by the amateur with propellant
+weights below 2 lbs. and preferably under 1 lb. This is still powerful enough
+to shoot a sizable rocket to well over 4 miles altitude.
+Before I get into propellant mixtures a few terms to learn are:
+  Specific Impulse - Defined as the impulse (force * time) delivered by
+                     burning a unit weight of propellant in a rocket engine.
+                     
+  Volume Specific Impulse - The product of specific impulse and density. This
+                            is expressed in pound-seconds per cubic inch.
+                            If the propellant's weight is kept constant, a
+                            propellant with a lower Isp but a higher density
+                            may outperform one with a greater Isp but a
+                            lower density.
+
+  Specific Force - This is a measurement of the ability for a gas to perform
+                 work. Specific force (F) is expressed in foot-pound per
+                 pound.
+                 
+
+                            3.) OXIDIZERS
+
+Composite propellants contain both an oxidizer and a fuel. The oxidizer may
+be a monopropellant and as such contributes power to the propellant mix.
+The ideal oxidizer should decompose into totally gaseous exhaust.
+
+Oxidizers used in composite propellants : Potassium perchlorate (KClO4).
+Potassium pechlorate was one of the first used oxidizers. One of it's draw-
+backs is the product of decomposition ( potasium chloride ) is not a gas at
+regular temperatures and does not contribute as a working gas. The KCl 
+appears as a dense smoke in the rockets exhaust. Burning rates of propellants
+made with KClO4 are usually high at 0.8 - 0.9 in/sec at 1000 PSI. Densities
+of fuels made with KClO4 also tend to high at 1.8 - 2.0 gm/cc. Specific
+impulses are usually below 200 lb-sec/lb. Potassium perchlorate is hardly
+ever used im modern propellants.
+Ammonium Perchlorate NH4ClO4. This is the oxidizer of choice when possible.
+The products of diassociation of NH4ClO4 are 100% gas. The specific impulse
+of propellants using this oxidizer reaches 250 lb-sec/lb. Depending on the 
+percentage of NH4ClO4 the burning rate may reach or exceed 0.5 in/sec. The
+products of exhaust are N2, CO, CO2, H2, H2O, and HCl. The HCl may pose some
+problem if the engine is used in high humidity as the HCl vapor may form
+visible hydrochloric acid fumes.
+Ammonium Nitrate NH4NO3. This oxidizer is useful as it is usually available
+in bulk weight. The products of disassociation of NH4NO3 are 100% gas. How-
+ever the temperatures produced by the propellant are low. For this reason,the
+specific impulse of NH4NO3 propellants are usually no greater than 180 lb-sec
+/lb and low percentage propellants have an Isp of 75 lb-sec/lb. The products
+of exhaust of NH4NO3 propellants are N2, CO, CO2, H2, H2O. These gases cause
+no special problems. The burning rate of NH4NO3 Propellants are low, ranging
+from 0.05 in/sec to 0.27 in/sec. The higher burning rates are possible if
+catalysts are used in the propellant. Prussian blue, chromium compounds
+(ammonium dichromate), or cobalt compounds are catalysts that are used. 
+Ammonium nitrate is hygroscopic and undergoes a phase change if the temper-
+ature goes above 90 deg./F. Because of this phase change, some grains may
+crack if the temperature cycles about this temperature. The burning temper-
+ature of NH4NO3 propellants are lower than any other propellants especially
+at low percentages of oxidizer.
+Lithium Perchorate LiClO4. Some work has been done using lithium perchlorate
+as an oxidizer. The lithium chloride formed in the exhaust is a gas at high
+temperatures. Lithium salts are hygroscopic and must be protected from high
+humidity. Burning rates of LiClO4 propellants are similar to KClO4 mixtures.
+
+                                 4.) FUELS
+                                 
+Fuels Used in Composite Propellants : Since most rubbers and polymers are not
+available to the general public, some adjustments have to be made. A good
+source of plastics is an auto supply store. There you can find epoxy resin
+which can be used as a fuel. You will also find fiberglass resin. This is a
+liquid made from polystyrene and polyester resin. It is catalyzed with a few
+drops of hardener. PVC plastic can be dissolved in tetrahydofuran to make 
+a thick paste. This can be mixed with an oxidizer and allowed to dry for an 
+extended time to form a propellant grain. Asphalt was used in some JATO units
+about 30 years ago but it was found lacking when used at high temperatures.
+Some fuels used in commercial engines are polyurethane rubber, polysulfide
+rubber, and butadiene-acrylic acid. Non ferrous metals are added to propell-
+ants to increase the temperature of combustion and consequently the Isp. The
+metals most used are aluminum, magnesium, and copper. The metals are usually
+added in amounts of 5% - 25%. In engines designed to breath water as an oxid-
+izer, metal amounts to about 50% to 80% of the weight of the propellant. The
+other components are usually ammonium perchlorate and a polymer.
+
+Propellant Grain Geometry : If the grain is ignited from end on, like a
+candle burns, the thrust will be steady or neutral. If the grain has a hole
+in it extending end to end and the combustion takes place from the inside out
+then the thrust will rise to a peak or be progressive. This is because the
+surface area of the grain becomes greater as it burns whereas in a neutral
+grain the surface area remains the same. A cruciform shaped grain produces a
+large amount of thrust first then tapers off because the surface area becomes
+smaller. If the grain is tubular and the combustion takes place from both the
+inside out and the outside in, then the thrust will be neutral but fast
+burning.
+Wherever you wish the grain not to burn, it must be coated with a retardent.
+Epoxy works well as a retardent as does Elmers white glue. At least two coats
+of retardent should be used. An epoxy retardent can be used to retain a grain
+in a rocket engine. When tubular grains are used, the igniter is usually put
+towards the nose of the rocket and fires backwards towards the nozzle. This
+insures the grain is ignited completely.
+Inspect the propellant grain for any cracks or imperfections. A crack can 
+cause the surface area of the propellant to increase astronomically. This can
+cause an explosion because of the increased pressure.
+
+
+                            5.) PROPELLANT MIXTURES
+
+The ratios of oxidizers and fuels depends on the type of engine desired. The
+amount of oxidizer can be as high as 90% as in some ammonium nitrate mixes to
+as little as 20% ammonium perchlorate as in some water breathing engines.
+
+A fast burning mixture: Potassium Perchlorate 20%
+       Isp=200          Ammonium Perchlorate  55%
+                        Epoxy Resin/Hardener  17%
+                        Powdered Aluminum      8%
+ This is very fast burning but the exhaust makes a fairly heavy smoke.
+ 
+A slow burning propellant. Great for sustainer engines.
+       Isp=165          Ammonium Nitrate     70%
+                        Ammonium Perchlorate 10%
+                        Polyester Resin      18%                        
+                        Powdered Charcoal     2%
+Not very powerful but useful. The charcoal helps keep the combustion steady.
+
+A very powerful mixture: Ammonium Perchlorate 75%
+      Isp=250            Powdered Aluminum    10%
+                         PVC in THF           15%                        
+All the ingredients should be dampened with THF (tetrahydrofuran) before
+mixing. Do this in an area with very good ventilation and wear rubber gloves
+to keep from contacting the THF with bare skin. This mixture is best used in
+a perforated grain to help the solvent evaporate.
+
+An ammonium nitrate based propellant: Ammonium Nitrate   70%
+             Isp=160                  Powdered Aluminum   5% 
+                                      Polyester Resin    18%
+                                      Ammonium Bichromate 5%
+                                      Powdered Charcoal   2%
+A good mix when perchlorates are not available.
+
+Do not under any circumstances use chlorates for rocket propellants. You will
+not make a rocket, just a pipe bomb with fins.
+
+
+                      6.) COMPOUNDING PROPELLANTS
+
+One thing to keep in mind when making a propellant, the volume of fuel/binder
+to volume of oxidizer and additives must not be too low. If it is then the
+mixture will be too dry to mix well. It will also hurt the strength of the 
+grain. You may have to cut down on the amount of oxidizer depending on the
+fuel you are using.
+For rockets weighing 1 pound and less the easiest way to make the propellant
+is to obtain a suitable container for mixing and put in the bottom of it the
+correct amount of fuel/binder. The other ingredients are added one at a time 
+to the fuel and mixed in. One thing that really determines the success of a
+propellant is the particle size of the oxidizer. It should be as finely
+powdered as possible. Continue mixing the propellant until it is a homo-
+geneous mixture. Now pour it or stuff it into the engine casing taking care
+to eliminate all air bubbles. Any mandrels needed to form the grain to shape
+shpould already be lubricated for release and in place. After waiting a suit-
+able time for the binder to harden, remove the mandrels and place the engine
+in a warm place to finish curing. Inspect the grain for any cracks or imper-
+fections.
+Some large propellant grains are constructed by cementing smaller grains to-
+gether. Disks of propellant can be glued and stacked to form a long grain.
+The disks can be drilled with a number of holes to make a progressive or
+regressive burning grain. The holes are lined up when the disks are stacked.
+If you construct a press with a number of guide rods to match the drilled
+holes, so much the better. The cement can be a very thin layer of the polymer
+used to make the grain. If you are using a PVC based grain, then dampen both
+mating surfaces with THF and press them together for a minute before adding
+the next disk.
+You can also load a cardboard casing with the propellant. After the prope-
+llant is cured, this cartridge is loaded into the engine.
+When drilling these propellants or using any power tool for shaping them, use
+the lowest speed while checking to make sure no heat is building up on the
+cutting surface. If care is used, machining propellants is safe.
+
+                            7.) ENGINE CONSTRUCTION
+
+The typical engine is designed to operate at 1000 psi. The casing of the
+engine should be able to withstand at least 3000 psi as a safety factor. A
+low carbon seamless steel tube with 1/16" walls can withstand that sort of
+pressure. If the tubing has a welded seam, test fire a few engines to see if
+the tubes can take the pressure. One drawback to using steel as an engine
+casing is if the engine explodes you have some very lethal shrapnel flying
+around. If you use a high strength/high heat plastic you can eliminate some
+of this danger. Epoxy can be used to wet down a mat of fiberglass then the
+fiberglass is rolled around a large dowel to form a casing. The dowel has to
+be coated with a lubricant to keep the epoxy from gluing the casing and 
+dowel together. Or you can obtain a heavy cardboard tube with the correct ID
+and coat it with epoxy then wrap epoxy/fiberglass around it. If the tubes are
+constructed properly they can take quite a bit of pressure before splitting
+apart.
+An rocket engine is equipped with a nozzle to accelerate the exhaust out of
+the rocket at a high velocity. A nozzle has a convergent section that does 
+this. A divergent section of nozzle is used to lower the exhaust pressure
+so the exhaust gases accelerate out of the engine at high speeds.
+The nozzle of the engine can be machined out of metal or made of a fireproof
+ceramic. If the nozzle and the casing are metal, they can be brazed together
+before the engine is loaded. The nozzle can also be screwed into place by
+using 4 - 6 screws going through the side of the casing into the nozzle. Care
+must be used to see that the screws don't break through the inside of the
+nozzle. On smaller rockets, you may be able to get away with plaster of paris
+nozzles or for more powerful motors try pressing a mixture of 90% kaolin and
+10% aluminum oxide into a nozzle shape in the casing. Dampen the mix with a
+little water before pressing. You can make a nozzle die by turning 2 pieces
+of hardwood into divergent/convergent sections. This die should be fitted 
+with a dowel guide pin at the mating points to help keep the die straight.
+A nozzle can be made from just a divervent section. This can be easily made
+by drilling the required hole in a section of nozzle. Then by drilling out
+the first hole with larger drills without completely breaking through, a
+diverging nozzle is formed. Smooth out the ID of the nozzle after drilling 
+the holes. This type of nozzle is pretty good on smaller engines with a 1" ID
+or less. By using some ingenuity, you should have no problem in making a 
+servicable nozzle. A rule of thumb to use for the ID of the nozzle is to use
+a hole that has an area (repeat-area,not diameter) 1/3 the area of the ID of
+the rocket engine casing.
+Most propellants burn unsteadily at low pressures. Solid rocket engines are
+equipped with a blast plug that allows the pressure to build up in the engine
+before being blown out like a cork in a bottle. Sometimes the ignitor is
+combined with the blast plug in a single unit. A stiff plastic disk makes for
+a good plug. It should have a thickness of about 1/16".
+The engine is sealed with a plug in the fore section. Depending on the con-
+struction of the engine this plug may be made of wood, plastic, or metal. It
+is held in place with either screws or epoxy. This plug must make the casing
+gas tight. Remember most rockets develop 1000 PSI.
+The ignitor is simply an electric match. It can be made with nichrome wire
+or a small light bulb. The match is used to ignite a small charge of black
+powder that in turn ignites the propellant. The ignitors leads should be 
+shunted together to eliminate premature ignition. A fuse can be used instead
+of electric ignition. If you go this route, be sure of the burning time of
+the fuse and allow yourself enough time to retreat to safety after igniting
+the fuse. I cannot recommend using a fuse because you cannot stop a fuse
+from burning if someone walks into your launch area. With electric ignition,
+everything is under your control until the time of launching.
+ 
+                             8.) Engine Design
+
+   It would be nice to be able to give you the complete info on designing
+rocket engines. However, the required math would be a file about 300K in
+length. Also this file is mainly about propellants. The other info is gravy.
+ The best I can offer is to check out your local library for design
+and engineering books. If you want to build a rocket to simply shoot off to
+stroke your pyro perversions, build a small engine containing no more than
+4 oz. of fuel. Use a paper casing to keep the danger down and chances are
+very good that if your construction is sound you'll get the thrill of seeing
+your rocket go out of sight. If you plan to hoist a payload into suborbital
+projectory however, learn about thermodynamics, interior ballistics, and
+propellant chemistry.
+ I recommend trying to get the book Amateur Rocketry Handbook. This
+book is out of print but it was put together by the Fort Sill Artillery 
+School and contains a lot of valuable info.
+
+                       9.) Testing and Firing
+
+    You should construct a few engines exactly the same and test fire a 
+number of them to find out what to expect when you finally do launch a rocket
+. The engines can be buried nozzle end up in the ground and fired. Time the
+burning of the engine to figure out the rate of combustion of the propellant.
+Inspect the casing to see how it stood up. If everything seems okay you can
+construct a static testing fixture to measure the thrust. Keep in mind that
+even a small engine can put out a few hundred pounds thrust for a split 
+second. When you do launch a rocket, keep people away from the launch site
+and under cover. Check out the skies for airplanes or other traffic. Don't
+launch rockets under conditions of low visibility or heavy winds.
+
+
+
+                         *** Kilroy was here ***
+

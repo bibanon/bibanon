@@ -1,0 +1,54 @@
+Hacking Tutorial                       Courtesy of the Jolly Roger
+
+What is hacking?
+----------------
+According to popular belief the term hacker and hacking was founded at mit
+it comes from the root of a hack writer,someone who keeps "hacking" at
+the typewriter until he finishes the story.a computer hacker would be
+hacking at the keyboard or password works.
+
+What you need:
+--------------
+To hack you need a computer equipped with a modem (a device that lets you
+transmit data over phone lines) which should cost you from $100 to $1200.
+
+How do you hack?
+----------------
+Hacking recuires two things:
+1. The phone number
+2. Answer to identity elements
+
+How do you find the phone #?
+----------------------------
+There are three basic ways to find a computers phone number.
+1. Scanning,
+2. Directory
+3. Inside info.
+
+What is scanning?
+-----------------
+Scanning is the process of having a computer search for a carrier tone.
+For example,the computer would start at (800) 111-1111 and wait for carrier
+if there is none it will go on to 111-1112 etc.if there is a carrier it
+will record it for future use and continue looking for more.
+
+What is directory assictance?
+-----------------------------
+This way can only be used if you know where your target computer is. For this
+example say it is in menlo park, CA and the company name is sri.
+
+1. Dial 411 (or 415-555-1212)
+2. Say "Menlo park"
+3. Say "Sri"
+4. Write down number
+5. Ask if there are any more numbers
+6. If so write them down.
+7. Hang up on operator
+8. Dial all numbers you were given
+9. Listen fir carrier tone
+10. If you hear carrier tone write down number, call it on your modem and your
+    set to hack!
+                            ---------------EXODUS
+
+
+

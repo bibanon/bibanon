@@ -1,0 +1,596 @@
+
+                                ==Phrack Inc.==
+ 
+                     Volume Three, Issue 28, File #4 of 12
+ 
+                              Network Miscellany
+                              ~~~~~~~~~~~~~~~~~~
+                                 by Taran King
+ 
+                                 June 1, 1989
+ 
+ 
+ACSNET
+~~~~~~
+Australian Computer Science Network (ACSNET), also known as Oz, has its gateway
+through the CSNET node munnari.oz.au and if you cannot directly mail to the
+oz.au domain, try either username%munnari.oz.au@UUNET.UU.NET or
+munnari!username@UUNET.UU.NET.
+ 
+AT&T MAIL
+~~~~~~~~~
+AT&T Mail is a mailing service of AT&T, probably what you might call it's
+MCI-Mail equivalent.  It is available on the UUCP network as node name attmail
+but I've had problems having mail get through.  Apparently, it does cost money
+to mail to this service and the surrounding nodes are not willing to pick up
+the tab for the ingoing mail, or at least, this has seemingly been the case
+thus far.  I believe, though, that perhaps routing to att!attmail!user would
+work.
+ 
+AT&T recently announced six new X.400 interconnections between AT&T Mail and
+electronic mail services in the U.S., Korea, Sweden, Australia, and Finland.
+In the U.S., AT&T Mail is now interconnected with Telenet Communications
+Corporation's service, Telemail, allowing users of both services to exchange
+messages easily.  With the addition of these interconnections, the AT&T Mail
+Gateway 400 Service allows AT&T Mail subscribers to exchange messages with
+users of the following electronic messaging systems:
+ 
+Company                    E-Mail Name*            Country
+-------                    ------------            -------
+TeleDelta                  TeDe 400                Sweden
+OTC                        MPS400                  Australia
+Telecom-Canada             Envoy100                Canada
+DACOM                      DACOM MHS               Korea
+P&T-Tele                   MailNet 400             Finland
+Helsinki Telephone Co.     ELISA                   Finland
+Dialcom                    Dialcom                 USA
+Telenet                    Telemail                USA
+KDD                        Messavia                Japan
+Transpac                   ATLAS400                France
+ 
+The interconnections are based on the X.400 standard, a set of guidelines for
+the format, delivery and receipt of electronic messages recommended by an
+international standards committee the CCITT.  International X.400 messages
+incur a surcharge.  They are:
+ 
+                 To Canada:
+                    Per note:            $.05
+                    Per message unit:    $.10
+ 
+                 To other international locations:
+                    Per note:            $.20
+                    Per message unit:    $.50
+ 
+There is no surcharge for X.400 messages within the U.S.  The following are
+contacts to speak with about mailing through these mentioned networks.  Other
+questions can be directed through AT&T Mail's toll-free number, 1-800-624-5672.
+ 
+MHS Gateway:  mhs!atlas                     MHS Gateway:  mhs!dacom
+Administrator:  Bernard Tardieu             Administrator:  Bob Nicholson
+Transpac                                    AT&T
+Phone:  3399283203                          Morristown, NJ  07960
+Phone:  +1 201 644 1838
+ 
+MHS Gateway:  mhs!dialcom                   MHS Gateway:  mhs!elisa
+Administrator:  Mr. Laraman                 Administrator:  Ulla Karajalainen
+Dialcom                                     Nokia Data
+South Plainfield, NJ  07080                 Phone:  01135804371
+Phone:  +1 441 493 3843
+ 
+MHS Gateway:  mhs!envoy                     MHS Gateway:  mhs!kdd
+Administrator:  Kin C. Ma                   Administrator:  Shigeo Lwase
+Telecom Canada                              Kokusai Denshin Denwa CO.
+Phone:  +1 613 567 7584                     Phone:  8133477419
+ 
+MHS Gateway:  mhs!mailnet                   MHS Gateway:  mhs!otc
+Administrator:  Kari Aakala                 Administrator:  Gary W. Krumbine
+Gen Directorate Of Post &                   AT&T Information Systems
+Phone:  35806921730                         Lincroft, NJ  07738
+                                            Phone:  +1 201 576 2658
+ 
+MHS Gateway:  mhs!telemail                  MHS Gateway:  mhs
+Administrator:  Jim Kelsay                  Administrator:  AT&T Mail MHS
+GTE Telenet Comm Corp                                       Gateway
+Reston, VA  22096                           AT&T
+Phone:  +1 703 689 6034                     Lincroft, NJ  08838
+                                            Phone:  +1 800 624 5672
+ 
+CMR
+~~~
+Previously known as Intermail, the Commercial Mail Relay (CMR) Service is a
+mail relay service between the Internet and three commercial electronic mail
+systems:  US Sprint/Telenet, MCI-Mail, and DIALCOM systems (i.e. Compmail,
+NSFMAIL, and USDA-MAIL).
+ 
+An important note:  The only requirement for using this mail gateway is that
+the work conducted must be DARPA sponsored research and other approved
+government business.  Basically, this means that unless you've got some
+government-related business, you're not supposed to be using this gateway.
+Regardless, it would be very difficult for them to screen everything that goes
+through their gateway.  Before I understood the requirements of this gateway, I
+was sending to a user of MCI-Mail and was not contacted about any problems with
+that communication.  Unfortunately, I mistyped the MCI-Mail address on one of
+the letters and that letter ended up getting read by system administrators who
+then informed me that I was not to be using that system, as well as the fact
+that they would like to bill me for using it.  That was an interesting thought
+on their part anyway, but do note that using this service does incur charges.
+ 
+The CMR mailbox address in each system corresponds to the label:
+ 
+          Telemail:  [Intermail/USCISI]TELEMAIL/USA
+          MCI-Mail:  Intermail      or      107-8239
+          CompMail:  Intermail      or      CMP0817
+          NSF-Mail:  Intermail      or      NSF153
+         USDA-Mail:  Intermail      or      AGS9999
+ 
+Addressing examples for each e-mail system are as follows:
+ 
+MCIMAIL:
+   123-4567             seven digit address
+   Everett T. Bowens    person's name (must be unique!)
+ 
+COMPMAIL:
+   CMP0123              three letters followed by three or four digits
+   S.Cooper             initial, then "." and then last name
+   134:CMP0123          domain, then ":" and then combination system and
+                        account number
+ 
+NSFMAIL:
+   NSF0123              three letters followed by three or four digits
+   A.Phillips           initial, then "." and then last name
+   157:NSF0123          domain, then ":" and then combination system and
+                         account number
+ 
+USDAMAIL:
+   AGS0123              three letters followed by three or four digits
+   P.Shifter            initial, then "." and then last name
+   157:AGS0123          domain, then ":" and then combination system and
+                         account number
+ 
+TELEMAIL:
+   BARNOC               user (directly on Telemail)
+   BARNOC/LODH          user/organization (directly on Telemail)
+   [BARNOC/LODH]TELEMAIL/USA
+                         [user/organization]system branch/country
+ 
+The following are other Telenet system branches/countries that can be mailed
+to:
+ 
+TELEMAIL/USA     NASAMAIL/USA     MAIL/USA            TELEMEMO/AUSTRALIA
+TELECOM/CANADA   TOMMAIL/CHILE    TMAILUK/GB          ITALMAIL/ITALY
+ATI/JAPAN        PIPMAIL/ROC      DGC/USA             FAAMAIL/USA
+GSFC/USA         GTEMAIL/USA      TM11/USA            TNET.TELEMAIL/USA
+USDA/USA
+ 
+     Note:  OMNET's ScienceNet is on the Telenet system MAIL/USA and to mail to
+it, the format would be [A.MAILBOX/OMNET]MAIL/USA.  The following are available
+subdivisions of OMNET:
+ 
+         AIR     Atmospheric Sciences
+         EARTH   Solid Earth Sciences
+         LIFE    Life Sciences
+         OCEAN   Ocean Sciences
+         POLAR   Interdisciplinary Polar Studies
+         SPACE   Space Science and Remote Sensing
+ 
+The following is a list of DIALCOM systems available in the listed countries
+with their domain and system numbers:
+ 
+Service Name            Country             Domain Number    System Number
+~~~~~~~~~~~~            ~~~~~~~             ~~~~~~~~~~~~~    ~~~~~~~~~~~~~
+Keylink-Dialcom         Australia           60               07, 08, 09
+Dialcom                 Canada              20               20, 21, 22, 23, 24
+DPT Databoks            Denmark             124              71
+Telebox                 Finland             127              62
+Telebox                 West Germany        30               15, 16
+Dialcom                 Hong Kong           80               88, 89
+Eirmail                 Ireland             100              74
+Goldnet                 Israel              50               05, 06
+Mastermail              Italy               130              65, 67
+Mastermail              Italy               1                66, 68
+Dialcom                 Japan               70               13, 14
+Dialcom                 Korea               1                52
+Telecom Gold            Malta               100              75
+Dialcom                 Mexico              1                52
+Memocom                 Netherlands         124              27, 28, 29
+Memocom                 Netherlands         1                55
+Starnet                 New Zealand         64               01, 02
+Dialcom                 Puerto Rico         58               25
+Telebox                 Singapore           88               10, 11, 12
+Dialcom                 Taiwan              1                52
+Telecom Gold            United Kingdom      100              01, 04, 17,
+80-89
+DIALCOM                 USA                 1                29, 30, 31, 32,
+                                                             33, 34, 37, 38,
+                                                             41-59, 61, 62, 63,
+                                                             90-99
+ 
+ NOTE:  You can also mail to username@NASAMAIL.NASA.GOV or
+        username@GSFCMAIL.NASA.GOV instead of going through the CMR gateway to
+        mail to NASAMAIL or GSFCMAIL.
+ 
+For more information and instructions on how to use CMR, send a message to the
+user support group at intermail-request@intermail.isi.edu (you'll get basically
+what I've listed plus maybe a bit more).  Please read Chapter 3 of The Future
+Transcendent Saga (Limbo to Infinity) for specifics on mailing to these
+destination mailing systems.
+ 
+COMPUSERVE
+~~~~~~~~~~
+CompuServe is well known for its games and conferences.  It does, though, have
+mailing capability.  Now, they have developed their own Internet domain, called
+COMPUSERVE.COM.  It is relatively new and mail can be routed through either
+TUT.CIS.OHIO-STATE.EDU or NORTHWESTERN.ARPA.
+ 
+Example: user%COMPUSERVE.COM@TUT.CIS.OHIO-STATE.EDU or replace
+         TUT.CIS.OHIO-STATE.EDU with NORTHWESTERN.ARPA).
+ 
+The CompuServe link appears to be a polled UUCP connection at the gateway
+machine.  It is actually managed via a set of shell scripts and a comm utility
+called xcomm, which operates via command scripts built on the fly by the shell
+scripts during analysis of what jobs exist to go into and out of CompuServe.
+ 
+CompuServe subscriber accounts of the form 7xxxx,yyyy can be addressed as
+7xxxx.yyyy@compuserve.com.  CompuServe employees can be addressed by their
+usernames in the csi.compuserve.com subdomain.  CIS subscribers write mail to
+">inet:user@host.domain" to mail to users on the Wide-Area Networks, where
+">gateway:" is CompuServe's internal gateway access syntax.  The gateway
+generates fully-RFC-compliant headers.
+ 
+To fully extrapolate -- from the CompuServe side, you would use their EasyPlex
+mail system to send mail to someone in BITNET or the Internet.   For example,
+to send me mail at my Bitnet id, you would address it to:
+ 
+            INET:C488869%UMCVMB.BITNET@CUNYVM.CUNY.EDU
+ 
+Or to my Internet id:
+ 
+            INET:C488869@UMCVMB.MISSOURI.EDU
+ 
+Now, if you have a BITNET to Internet userid, this is a silly thing to do,
+since your connect time to CompuServe costs you money.  However, you can use
+this information to let people on CompuServe contact YOU.  CompuServe Customer
+Service says that there is no charge to either receive or send a message to the
+Internet or BITNET.
+ 
+DASNET
+~~~~~~
+DASnet is a smaller network that connects to the Wide-Area Networks but charges
+for their service.  DASnet subscribers get charged for both mail to users on
+other networks AND mail for them from users of other networks.  The following
+is a brief description of DASnet, some of which was taken from their
+promotional text letter.
+ 
+DASnet allows you to exchange electronic mail with people on more than 20
+systems and networks that are interconnected with DASnet.  One of the
+drawbacks, though, is that, after being subscribed to these services, you must
+then subscribe to DASnet, which is a separate cost.  Members of Wide-Area
+networks can subscribe to DASnet too.  Some of the networks and systems
+reachable through DASnet include the following:
+ 
+     ABA/net, ATT Mail, BIX (Byte Information eXchange), DASnet Network,
+     Dialcom, EIES, EasyLink, Envoy 100, FAX, GeoMail, INET, MCI Mail, NWI,
+     PeaceNet/EcoNet, Portal Communications, The Meta Network, The Source,
+     Telemail, ATI's Telemail (Japan), Telex, TWICS (Japan), UNISON, UUCP, The
+     WELL, and Domains (i.e. ".COM" and ".EDU" etc.).  New systems are added
+     all of the time.  As of the writing of this file, Connect, GoverNET,
+     MacNET, and The American Institute of Physics PI-MAIL are soon to be
+     connected.
+ 
+You can get various accounts on DASnet including:
+ 
+  o  Corporate Accounts -- If your organization wants more than one individual
+                           subscription.
+  o  Site Subscriptions -- If you want DASnet to link directly to your
+                           organization's electronic mail system.
+ 
+To send e-mail through DASnet, you send the message to the DASnet account on
+your home system.  You receive e-mail at your mailbox, as you do now.  On the
+Wide-Area Networks, you send mail to XB.DAS@STANFORD.BITNET.  On the Subject:
+line, you type the DASnet address in brackets and then the username just
+outside of them.  The real subject can be expressed after the username
+separated by a "!"  (Example:  Subject:  [0756TK]randy!How's Phrack?).
+ 
+The only disadvantage of using DASnet as opposed to Wide-Area networks is the
+cost.  Subscription costs as of 3/3/89 cost $4.75 per month or $5.75 per month
+for hosts that are outside of the U.S.A.
+ 
+You are also charged for each message that you send.  If you are corresponding
+with someone who is not a DASnet subscriber, THEIR MAIL TO YOU is billed to
+your account.
+ 
+The following is an abbreviated cost list for mailing to the different services
+of DASnet:
+ 
+     PARTIAL List                DASnet Cost    DASnet Cost
+     of Services                  1st 1000    Each Add'l 1000
+     Linked by DASnet (e-mail)   Characters     Characters:
+ 
+     INET, MacNET, PeaceNet,                             NOTE:  20 lines
+     Unison, UUCP*, Domains,        .21            .11   of text is app.
+     e.g. .COM, .EDU*                                    1000 characters.
+ 
+     Dialcom--Any "host" in U.S.    .36            .25
+ 
+     Dialcom--Hosts outside U.S.    .93            .83
+ 
+     EasyLink (From EasyLink)       .21            .11
+              (To EasyLink)         .55            .23
+ 
+     U.S. FAX (internat'l avail.)   .79            .37
+ 
+     GeoMail--Any "host" in U.S.    .21            .11
+     GeoMail--Hosts outside U.S.    .74            .63
+ 
+     MCI  (from MCI)                .21            .11
+          (to MCI)                  .78            .25
+          (Paper mail - USA)       2.31            .21
+ 
+     Telemail                       .36            .25
+ 
+     W.U. Telex--United States     1.79           1.63
+     (You can also send Telexes outside the U.S.)
+ 
+     TWICS--Japan                   .89            .47
+ 
+  *  The charges given here are to the gateway to the network.  The DASnet
+     user is not charged for transmission on the network itself.
+ 
+Subscribers to DASnet get a free DASnet Network Directory as well as a listing
+in the directory, and the ability to order optional DASnet services like
+auto-porting or DASnet Telex Service which gives you your own Telex number and
+answerback for $8.40 a month at this time.
+ 
+DASnet is a registered trademark of DA Systems, Inc.
+ 
+                               DA Systems, Inc.
+                             1503 E. Campbell Ave.
+                              Campbell, CA  95008
+                                 408-559-7434
+                             TELEX:  910 380-3530
+ 
+The following two sections on PeaceNet and AppleLink are in association with
+DASnet as this network is what is used to connect00             Finland
+Helsinki Telephone Co.     ELISA                   Finland
+Dialcom                    Dialcom                 USA
+Telenet                    Telemail                USA
+KDD                        Messavia                Japan
+Transpac                   ATLAS400                France
+ 
+The interconnections are based on the X.400 standard, a set of guidelines for
+the format, delivery and receipt of electronic messages recommended by an
+international standards committee the CCITT.  International X.400 messages
+incur a surcharge.  They are:
+ 
+                 To Canada:
+                    Per note:            $.05
+                    Per message unit:    $.10
+ 
+                 To other international locations:
+                    Per note:            $.20
+                    Per message unit:    $.50
+ 
+There is no surcharge for X.400 messages within the U.S.  The following are
+contacts to speak with about mailing through these mentioned networks.  Other
+questions can be directed through AT&T Mail's toll-free number, 1-800-624-5672.
+ 
+MHS Gateway:  mhs!atlas                     MHS Gateway:  mhs!dacom
+Administrator:  Bernard Tardieu             Administrator:  Bob Nicholson
+Transpac                                    AT&T
+Phone:  3399283203                          Morristown, NJ  07960
+Phone:  +1 201 644 1838
+ 
+MHS Gateway:  mhs!dialcom                   MHS Gateway:  mhs!elisa
+Administrator:  Mr. Laraman                 Administrator:  Ulla Karajalainen
+Dialcom                                     Nokia Data
+South Plainfield, NJ  07080                 Phone:  01135804371
+Phone:  +1 441 493 3843
+ 
+MHS Gateway:  mhs!envoy                     MHS Gateway:  mhs!kdd
+Administrator:  Kin C. Ma                   Administrator:  Shigeo Lwase
+Telecom Canada                              Kokusai Denshin Denwa CO.
+Phone:  +1 613 567 7584                     Phone:  8133477419
+ 
+MHS Gateway:  mhs!mailnet                   MHS Gateway:  mhs!otc
+Administrator:  Kari Aakala                 Administrator:  Gary W. Krumbine
+Gen Directorate Of Post &                   AT&T Information Systems
+Phone:  35806921730                         Lincroft, NJ  07738
+                                            Phone:  +1 201 576 2658
+ 
+MHS Gateway:  mhs!telemail                  MHS Gateway:  mhs
+Administrator:  Jim Kelsay                  Administrator:  AT&T Mail MHS
+GTE Telenet Comm Corp                                       Gateway
+Reston, VA  22096                           AT&T
+Phone:  +1 703 689 6034                     Lincroft, NJ  08838
+                                            Phone:  +1 800 624 5672
+ 
+CMR
+~~~
+Previously known as Intermail, the Commercial Mail Relay (CMR) Service is a
+mail relay service between the Internet and three commercial electronic mail
+systems:  US Sprint/Telenet, MCI-Mail, and DIALCOM systems (i.e. Compmail,
+NSFMAIL, and USDA-MAIL).
+ 
+An important note:  The only requirement for using this mail gateway is that
+the work conducted must be DARPA sponsored research and other approved
+government business.  Basically, this means that unless you've got some
+government-related business, you're not supposed to be using this gateway.
+Regardless, it would be very difficult for them to screen everything that goes
+through their gateway.  Before I understood the requirements of this gateway, I
+was sending to a user of MCI-Mail and was not contacted about any problems with
+that communication.  Unfortunately, I mistyped the MCI-Mail address on one of
+the letters and that letter ended up getting read by system administrators who
+then informed me that I was not to be using that system, as well as the fact
+that they would like to bill me for using it.  That was an interesting thought
+on their part anyway, but do note that using this service does incur charges.
+ 
+The CMR mailbox address in each system corresponds to the label:
+ 
+          Telemail:  [Intermail/USCISI]TELEMAIL/USA
+          MCI-Mail:  Intermail      or      107-8239
+          CompMail:  Intermail      or      CMP0817
+          NSF-Mail:  Intermail      or      NSF153
+         USDA-Mail:  Intermail      or      AGS9999
+ 
+Addressing examples for each e-mail system are as follows:
+ 
+MCIMAIL:
+   123-4567             seven digit address
+   Everett T. Bowens    person's name (must be unique!)
+ 
+COMPMAIL:
+   CMP0123              three letters followed by three or four digits
+   S.Cooper             initial, then "." and then last name
+   134:CMP0123          domain, then ":" and then combination system and
+                        account number
+ 
+NSFMAIL:
+   NSF0123              three letters followed by three or four digits
+   A.Phillips           initial, then "." and then last name
+   157:NSF0123          domain, then ":" and then combination system and
+                         account number
+ 
+USDAMAIL:
+   AGS0123              three letters followed by three or four digits
+   P.Shifter            initial, then "." and then last name
+   157:AGS0123          domain, then ":" and then combination system and
+                         account number
+ 
+TELEMAIL:
+   BARNOC               user (directly on Telemail)
+   BARNOC/LODH          user/organization (directly on Telemail)
+   [BARNOC/LODH]TELEMAIL/USA
+                         [user/organization]system branch/country
+ 
+The following are other Telenet system branches/countries that can be mailed
+to:
+ 
+TELEMAIL/USA     NASAMAIL/USA     MAIL/USA            TELEMEMO/AUSTRALIA
+TELECOM/CANADA   TOMMAIL/CHILE    TMAILUK/GB          ITALMAIL/ITALY
+ATI/JAPAN        PIPMAIL/ROC      DGC/USA             FAAMAIL/USA
+GSFC/USA         GTEMAIL/USA      TM11/USA            TNET.TELEMAIL/USA
+USDA/USA
+ 
+     Note:  OMNET's ScienceNet is on the Telenet system MAIL/USA and to mail to
+it, the format would be [A.MAILBOX/OMNET]MAIL/USA.  The following are available
+subdivisions of OMNET:
+ 
+         AIR     Atmospheric Sciences
+         EARTH   Solid Earth Sciences
+         LIFE    Life Sciences
+         OCEAN   Ocean Sciences
+         POLAR   Interdisciplinary Polar Studies
+         SPACE   Space Science and Remote Sensing
+ 
+The following is a list of DIALCOM systems available in the listed countries
+with their domain and system numbers:
+ 
+Service Name            Country             Domain Number    System Number
+~~~~~~~~~~~~            ~~~~~~~             ~~~~~~~~~~~~~    ~~~~~~~~~~~~~
+Keylink-Dialcom         Australia           60               07, 08, 09
+Dialcom                 Canada              20               20, 21, 22, 23, 24
+DPT Databoks            Denmark             124              71
+Telebox                 Finland             127              62
+Telebox                 West Germany        30               15, 16
+Dialcom                 Hong Kong           80               88, 89
+Eirmail                 Ireland             100              74
+Goldnet                 Israel              50               05, 06
+Mastermail              Italy               130              65, 67
+Mastermail              Italy               1                66, 68
+Dialcom                 Japan               70               13, 14
+Dialcom                 Korea               1                52
+Telecom Gold            Malta               100              75
+Dialcom                 Mexico              1                52
+Memocom                 Netherlands         124              27, 28, 29
+Memocom                 Netherlands         1                55
+Starnet                 New Zealand         64               01, 02
+Dialcom                 Puerto Rico         58               25
+Telebox                 Singapore           88               10, 11, 12
+Dialcom                 Taiwan              1                52
+Telecom Gold            United Kingdom      100              01, 04, 17,
+80-89
+DIALCOM                 USA                 1                29, 30, 31, 32,
+                                                             33, 34, 37, 38,
+                                                             41-59, 61, 62, 63,
+                                                             90-99
+ 
+ NOTE:  You can also mail to username@NASAMAIL.NASA.GOV or
+        username@GSFCMAIL.NASA.GOV instead of going through the CMR gateway to
+        mail to NASAMAIL or GSFCMAIL.
+ 
+For more information and instructions on how to use CMR, send a message to the
+user support group at intermail-request@intermail.isi.edu (you'll get basically
+what I've listed plus maybe a bit more).  Please read Chapter 3 of The Future
+Transcendent Saga (Limbo to Infinity) for specifics on mailing to these
+destination mailing systems.
+ 
+COMPUSERVE
+~~~~~~~~~~
+CompuServe is well known for its games and conferences.  It does, though, have
+mailing capability.  Now, they have developed their own Internet domain, called
+COMPUSERVE.COM.  It is relatively new and mail can be routed through either
+TUT.CIS.OHIO-STATE.EDU or NORTHWESTERN.ARPA.
+ 
+Example: user%COMPUSERVE.COM@TUT.CIS.OHIO-STATE.EDU or replace
+         TUT.CIS.OHIO-STATE.EDU with NORTHWESTERN.ARPA).
+ 
+The CompuServe link appears to be a polled UUCP connection at the gateway
+machine.  It is actually managed via a set of shell scripts and a comm utility
+called xcomm, which operates via command scripts built on the fly by the shell
+scripts during analysis of what jobs exist to go into and out of CompuServe.
+ 
+CompuServe subscriber accounts of the form 7xxxx,yyyy can be addressed as
+7xxxx.yyyy@compuserve.com.  CompuServe employees can be addressed by their
+usernames in the csi.compuserve.com subdomain.  CIS subscribers write mail to
+">inet:user@host.domain" to mail to users on the Wide-Area Networks, where
+">gateway:" is CompuServe's internal gateway access syntax.  The gateway
+generates fully-RFC-compliant headers.
+ 
+To fully extrapolate -- from the CompuServe side, you would use their EasyPlex
+mail system to send mail to someone in BITNET or the Internet.   For example,
+to send me mail at my Bitnet id, you would address it to:
+ 
+            INET:C488869%UMCVMB.BITNET@CUNYVM.CUNY.EDU
+ 
+Or to my Internet id:
+ 
+            INET:C488869@UMCVMB.MISSOURI.EDU
+ 
+Now, if you have a BITNET to Internet userid, this is a silly thing to do,
+since your connect time to CompuServe costs you money.  However, you can use
+this information to let people on CompuServe contact YOU.  CompuServe Customer
+Service says that there is no charge to either receive or send a message to the
+Internet or BITNET.
+ 
+DASNET
+~~~~~~
+DASnet is a smaller network that connects to the Wide-Area Networks but charges
+for their service.  DASnet subscribers get charged for both mail to users on
+other networks AND mail for them from users of other networks.  The following
+is a brief description of DASnet, some of which was taken from their
+promotional text letter.
+ 
+DASnet allows you to exchange electronic mail with people on more than 20
+systems and networks that are interconnected with DASnet.  One of the
+drawbacks, though, is that, after being subscribed to these services, you must
+then subscribe to DASnet, which is a separate cost.  Members of Wide-Area
+networks can subscribe to DASnet too.  Some of the networks and systems
+reachable through DASnet include the following:
+ 
+     ABA/net, ATT Mail, BIX (Byte Information eXchange), DASnet Network,
+     Dialcom, EIES, EasyLink, Envoy 100, FAX, GeoMail, INET, MCI Mail, NWI,
+     PeaceNet/EcoNet, Portal Communications, The Meta Network, The Source,
+     Telemail, ATI's Telemail (Japan), Telex, TWICS (Japan), UNISON, UUCP, The
+     WELL, and Domains (i.e. ".COM" and ".EDU" etc.).  New systems are added
+     all of the time.  As of the writing of this file, Connect, GoverNET,
+     MacNET, and The American Institute of Physics PI-MAIL are soon to be
+     connected.
+ 
+You can get various accounts on DASnet including:
+ 
+  o  Corporate Accounts -- If your organization wants more than one individual
+                           subscription.
+  o  Site Subscriptions -- If you want DASnet to link directly to your
+             SAGE **
+<EOF>  There was an error in the transcieving.  Part was erased.  This is all
+That was Salvageble...  Sorry..              -= Exodus =-

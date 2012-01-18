@@ -1,0 +1,235 @@
+
+[Index to the Anarchist Cookbook IV, ver. 4.14]
+
+
+
+COOKBOOK.IV:  Intro by Exodus
+
+001:  Counterfeiting Money
+002:  Credit Card Fraud
+003:  Making Plastic Explosives from Bleach
+004:  Picking Master Locks
+005:  The Arts of Lockpicking I
+006:  The Arts of Lockpicking II
+007:  Solidox Bombs
+008:  High Tech Revenge:  The Beigebox (NEW Revision 4.14)
+009:  CO2 Bombs
+010:  Thermite Bombs  (NEW Rivision, 4.14)
+011:  Touch Explosives
+012:  Letter Bombs
+013:  Paint Bombs
+014:  Ways to send a car to HELL
+015:  Do ya hate school?  (NEW Revision, 4.14)
+016:  Phone related vandalism
+017:  Highway police radar jamming
+018:  Smoke Bombs
+019:  Mail Box Bombs
+020:  Hotwiring cars
+021:  Napalm
+022:  Fertilizer Bomb
+023:  Tennis Ball Bomb
+024:  Diskette Bombs
+025:  Unlisted Phone Numbers  (NEW Revision, 4.14)
+026:  Fuses
+027:  How to make Potassium Nitrate
+028:  Exploding Lightbulbs
+029:  Under water igniters
+030:  Home-brew blast cannon
+031:  Chemical Equivalency List
+032:  Phone Taps
+033:  Landmines
+034:  A different kind of Molitov Cocktail
+035:  Phone Systems Tutorial I
+036:  Phone Systems Tutorial II
+037:  Basic Alliance Teleconferencing
+038:  Aqua Box Plans
+039:  Hindenberg Bomb
+040:  How to Kill Someone with your Bare Hands
+041:  Phone Systems Tutorial III
+042:  Black Box Plans
+043:  The Blotto Box
+044:  Blowgun
+045:  Brown Box Plans
+046:  Calcium Carbide Bomb
+047:  More Ways to Send a Car to Hell
+048:  Ripping off Change Machines  (NEW Revision, 4.14)
+049:  Clear Box Plans
+050:  CNA Number Listing
+051:  Electronic Terrorism
+052:  How to Start a Conference w/o 2600hz or M-F
+053:  Dynamite
+054:  Auto Exhaust Flame Thower
+055:  How to Break into BBS Express
+056:  Firebomb
+057:  Fuse Bomb
+058:  Generic Bomb
+059:  Green Box Plans
+060:  Portable Grenade Launcher
+061:  Basic Hacking Tutorial I
+062:  Basic Hacking Tutorial II
+063:  Hacking DEC's
+064:  Harmless Bombs
+065:  Breaking into Houses  (NEW Revision, 4.14)
+066:  Hypnotism
+067:  Remote Informer Issue #1
+068:  Jackpotting ATM Machines
+069:  Jug Bomb
+070:  Fun at K-Mart
+071:  Mace Substitute
+072:  How to Grow Marijuana
+073:  Match Head Bomb
+074:  Terrorizing McDonalds
+075:  "Mentor's" Last Words
+076:  The Myth of the 2600hz Detector
+077:  Blue Box Plans  (Ye' olde Favorite)
+078:  Napalm II
+079:  Nitroglycerin Recipe
+080:  Operation: Fuckup
+081:  Stealing Calls from Payphones
+082:  Pool Fun  (NEW Revision, 4.14)
+083:  Free Postage
+084:  Unstable Explosives
+085:  Weird Drugs
+086:  The Art of Carding
+087:  Recognizing Credit Cards
+088:  How to Get a New Identity
+089:  Remote Informer Issue #2
+090:  Remote Informer Issue #3
+091:  Remote Informer Issue #4
+092:  Remote Informer Issue #5
+093:  Phreaker's Guide to Loop Lines
+094:  Ma-Bell Tutorial
+095:  Getting Money out of Pay Phones
+096:  Computer-based PBX
+097:  PC-Pursuit Port Statistics
+098:  Pearl Box Plans
+099:  The Phreak File
+100:  Red Box Plans
+101:  RemObs
+102:  Scarlet Box Plans
+103:  Silver Box Plans
+104:  Bell Trashing
+105:  Canadian WATS Phonebook
+106:  Hacking TRW
+107:  Hacking VAX & UNIX
+108:  Verification Circuits
+109:  White Box Plans
+110:  The BLAST Box
+111:  Dealing with the Rate & Route Operator
+112:  Cellular Phone Phreaking
+113:  Cheesebox Plans
+114:  How to Start Your Own Conferences
+115:  Gold Box Plans
+116:  The History of ESS
+117:  The Lunch Box
+118:  Olive Box Plans
+119:  The Tron Box
+120:  More TRW Info
+121:  "Phreaker's Phunhouse"
+122:  Phrack Magazine - Vol. 3, Issue 27 (Intro to MIDNET)
+123:  Phrack Magazine - Vol. 3, Issue 27 (The Making of a Hacker)
+124:  Phrack Magazine - Vol. 3, Issue 28 (Network Miscellany)
+125:  Phrack Magazine - Vol. 3, Issue 28 (Pearl Box Schematic)
+126:  Phrack Magazine - Vol. 3, Issue 28 (Snarfing Remote Files)
+127:  Phrack Magazine - Vol. 3, Issue 30 (Western Union, Telex, 
+                                         TWX & Time Service)
+128:  Phrack Magazine - Vol. 3, Issue 30 (Hacking & Tymnet)
+129:  Phrack Magazine - Vol. 3, Issue 30 (The DECWRL Mail Gateway) 
+130:  Sodium Chlorate
+131:  Mercury Fulminate
+132:  Improvised Black Powder
+133:  Nitric Acid
+134:  Dust Bomb Instructions
+135:  Carbon-Tet Explosive
+136:  Making Picric Acid from Aspirin
+137:  Reclamation of RDX from C-4 Explosives
+138:  Egg-based Gelled Flame Fuels
+139:  Clothespin Switch
+140:  Flexible Plate Switch
+141:  Low Signature Systems (Silencers)
+142:  Delay Igniter From Cigarette
+143:  Nicotine
+144:  Dried Seed Timer
+145:  Nail Grenade
+146:  Bell Glossary
+147:  Phone Dial Locks -- How to Beat'em
+148:  Exchange Scanning
+149:  A Short History of Phreaking
+150:  "Secrets of the Little Blue Box" (story)
+151:  The History of British Phreaking
+152:  "Bad as Shit" (story)
+153:  Telenet
+154:  Fucking with the Operator
+155:  Phrack Magazine - Vol. 1, Issue 1 (The Phone Preak's Fry-Um Guide)
+156:  International Country Code Listing
+157:  Infinity Transmitter Schematic and Plans
+158:  LSD
+159:  Bananas
+160:  Yummy Marihuana Recipes
+161:  Peanuts
+162:  Chemical Fire Bottle
+163:  Igniter from Book Matches
+164:  "Red or White Powder" Propellant
+165:  Pipe Hand Grenade
+166:  European Credit Card Fraud (Written by Creditman! A 
+                                         Cookbook IV Recap!!)    
+167:  Potassium Bomb
+168:  Your Legal Rights (For adults, or some of us think we are)
+169:  Juvenile Offenders' Rights
+170:  Down The Road Missle
+171:  Fun With ShotGunn Shells
+172:  Surveillance Equipment
+173:  Drip Timer
+174:  Stealing
+175:  Miscellaneous 
+176:  Shaving cream bomb
+177:  Ripping off change machines 2
+178:  Lockpicking the EASY way
+179:  Anarchy 'N' Explosives Prelude
+180:  Anarchy 'N' Explosives Vol. 1
+181:  Anarchy 'N' Explosives Vol. 2
+182:  Anarchy 'N' Explosives Vol. 3
+183:  Anarchy 'N' Explosives Vol. 4
+184:  Anarchy 'N' Explosives Vol. 5
+185:  Explosives and Propellants
+186:  Lockpicking 3
+187:  Chemical Equivalent List 2
+188:  Nitroglycerin 2
+189:  Cellulose Nitrate
+190:  Starter Explosives
+191:  Flash Powder
+192:  Exploding Pens
+193:  Revised Pipe Bombs 4.14
+194:  * SAFETY *  A MUST READ!
+195:  Ammonium TriIodide
+196:  Sulfuric Acid / Ammonium Nitrate III
+197:  Black Powder 3
+198:  Nitrocellulose
+199:  R.D.X. (Revised 4.14)
+200:  The Black Gate BBS
+201:  ANFOS
+202:  Picric Acid 2
+203:  Bottled Explosives
+204:  Dry Ice
+205:  Fuses / Ignitors / Delays
+206:  Film Canister Bombs
+207:  Book Bombs
+208:  Phone Bombs
+209:  Special Ammunition
+210:  Rocketry
+211:  Pipe Cannon 2
+212:  Smoke Bombs 4.14
+213:  Firecrackers
+214:  Suppliers II
+215:  Lab-Raid Checklist
+216:  Misc. Anarchy
+217:  LockPicking 4
+218:  Misc. Anarchy II
+219:  -* THERMITE 4 *- <-- The BEST rev. to 4.14
+220:  Conclusion
+<EOF>
+
+
+     Look for the NEXT Edition of The Anarchist CookBook!!
+
+                                                     -=> Exodus <=-

@@ -1,0 +1,206 @@
+
+                                ==Phrack Inc==
+ 
+                    Volume Three, Issue 30, File #10 of 12
+ 
+                   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                   ===                                   ===
+                   ===           Western Union           ===
+                   ===   Telex, TWX, and Time Service    ===
+                   ===                                   ===
+                   ===         by Phone Phanatic         ===
+                   ===                                   ===
+                   ===        September 17, 1989         ===
+                   ===                                   ===
+                   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+         "Until a few years ago -- maybe ten -- it was very common to
+          see TWX and Telex machines in almost every business place."
+ 
+There were only minor differences between Telex and TWX.  The biggest
+difference was that the former was always run by Western Union, while the
+latter was run by the Bell System for a number of years.  TWX literally meant
+"(T)ype(W)riter e(x)change," and it was Bell's answer to competition from
+Western Union.  There were "three row" and "four row" machines, meaning the
+number of keys on the keyboard and how they were laid out.  The "three row"
+machines were simply part of the regular phone network; that is, they could
+dial out and talk to another TWX also connected on regular phone lines.
+ 
+Eventually these were phased out in favor of "newer and more improved" machines
+with additional keys, as well as a paper tape reader attachment which allowed
+sending the same message repeatedly to many different machines.  These "four
+row" machines were not on the regular phone network, but were assigned their
+own area codes (410-510-610-710-810-910) where they still remain today.  The
+only way a four row machine could call a three row machine or vice-versa was
+through a gateway of sorts which translated some of the character set unique to
+each machine.
+ 
+Western Union's network was called Telex and in addition to being able to
+contact (by dial up) other similar machines, Telex could connect with TWX (and
+vice-versa) as well as all the Western Union public offices around the country.
+Until the late 1950's or early 1960's, every small town in America had a
+Western Union office.  Big cities like Chicago had perhaps a dozen of them, and
+they used messengers to hand deliver telegrams around town.  Telegrams could be
+placed in person at any public office, or could be called in to the nearest
+public office.
+ 
+By arrangement with most telcos, the Western Union office in town nearly always
+had the phone number 4321, later supplemented in automated exchanges with some
+prefix XXX-4321.  Telegrams could be charged to your home phone bill (this is
+still the case in some communities) and from a coin phone, one did not ask for
+4321, but rather, called the operator and asked for Western Union.  This was
+necessary since once the telegram had been given verbally to the wire clerk,
+s/he in turn had to flash the hook and get your operator back on the line to
+tell them "collect five dollars and twenty cents" or whatever the cost was.
+Telegrams, like phone calls, could be sent collect or billed third party.  If
+you had an account with Western Union, i.e. a Telex machine in your office, you
+could charge the calls there, but most likely you would simply send the
+telegram from there in the first place.
+ 
+Sometime in the early 1960's, Western Union filed suit against AT&T asking that
+they turn over their TWX business to them.  They cited an earlier court ruling,
+circa 1950's, which said AT&T was prohibited from acquiring any more telephone
+operating companies except under certain conditions.  The Supreme Court agreed
+with Western Union that "spoken messages" were the domain of Ma Bell, but
+"written messages" were the domain of Western Union.  So Bell was required to
+divest itself of the TWX network, and Western Union has operated it since,
+although a few years ago they began phasing out the phrase "TWX" in favor of
+"Telex II"; their original device being "Telex I" of course.  TWX still uses
+ten digit dialing with 610 (Canada) or 710/910 (USA) being the leading three
+digits.  Apparently 410-510 have been abandoned; or at least they are used very
+little, and Bellcore has assigned 510 to the San Francisco area starting in a
+year or so.  410 still has some funny things on it, like the Western Union
+"Infomaster," which is a computer that functions like a gateway between Telex,
+TWX, EasyLink and some other stuff.
+ 
+Today, the Western Union network is but a skeleton of its former self.  Now
+most of their messages are handled on dial up terminals connected to the public
+phone network.  It has been estimated the TWX/Telex business is about fifty
+percent of what it was a decade ago, if that much.
+ 
+Then there was the Time Service, a neat thing which Western Union offered for
+over seventy years, until it was discontinued in the middle 1960's.  The Time
+Service provided an important function in the days before alternating current
+was commonly available.  For example, Chicago didn't have AC electricity until
+about 1945.  Prior to that we used DC, or direct current.
+ 
+Well, to run an electric clock, you need 60 cycles AC current for obvious
+reasons, so prior to the conversion from DC power to AC power, electric wall
+clocks such as you see in every office were unheard of.  How were people to
+tell the time of day accurately?  Enter the Western Union clock.
+ 
+The Western Union, or "telegraph clock" was a spring driven wind up clock, but
+with a difference.  The clocks were "perpetually self-winding," manufactured by
+the Self-Winding Clock Company of New York City.  They had large batteries
+inside them, known as "telephone cells" which had a life of about ten years
+each.  A mechanical contrivance in the clock would rotate as the clock spring
+unwound, and once each hour would cause two metal clips to contact for about
+ten seconds, which would pass juice to the little motor in the clock which in
+turn re-wound the main spring.  The principle was the same as the battery
+operated clocks we see today.  The battery does not actually run the clock --
+direct current can't do that -- but it does power the tiny motor which re-winds
+the spring which actually drives the clock.
+ 
+The Western Union clocks came in various sizes and shapes, ranging from the
+smallest dials which were nine inches in diameter to the largest which were
+about eighteen inches in diameter.  Some had sweep second hands; others did
+not.  Some had a little red light bulb on the front which would flash.  The
+typical model was about sixteen inches, and was found in offices, schools,
+transportation depots, radio station offices, and of course in the telegraph
+office itself.
+ 
+The one thing all the clocks had in common was their brown metal case and
+cream-colored face, with the insignia "Western Union" and their corporate logo
+in those days which was a bolt of electricity, sort of like a letter "Z" laying
+on its side.  And in somewhat smaller print below, the words "Naval Observatory
+Time."
+ 
+The local clocks in an office or school or wherever were calibrated by a
+"master clock" (actually a sub-master) on the premises.  Once an hour on the
+hour, the (sub) master clock would drop a metal contact for just a half second,
+and send about nine volts DC up the line to all the local clocks.  They in turn
+had a "tolerance" of about two minutes on both sides of the hour so that the
+current coming to them would yank the minute hand exactly upright onto the
+twelve from either direction if the clock was fast or slow.
+ 
+The sub-master clocks in each building were in turn serviced by the master
+clock in town; usually this was the one in the telegraph office.  Every hour on
+the half hour, the master clock in the telegraph office would throw current to
+the sub-masters, yanking them into synch as required.  And as for the telegraph
+offices themselves, they were serviced twice a day by -- you guessed it -- the
+Naval Observatory Master clock in Our Nation's Capitol, by the same routine.
+Someone there would press half a dozen buttons at the same time, using all
+available fingers; current would flow to every telegraph office and synch all
+the master clocks in every community.  Western Union charged fifty cents per
+month for the service, and tossed the clock in for free!  Oh yes, there was an
+installation charge of about two dollars when you first had service (i.e. a
+clock) installed.
+ 
+The clocks were installed and maintained by the "clockman," a technician from
+Western Union who spent his day going around hanging new clocks, taking them
+out of service, changing batteries every few years for each clock, etc.
+ 
+What a panic it was for them when "war time" (what we now call Daylight Savings
+Time) came around each year!  Wally, the guy who serviced all the clocks in
+downtown Chicago had to start on *Thursday* before the Sunday official
+changeover just to finish them all by *Tuesday* following.  He would literally
+rush in an office, use his screwdriver to open the case, twirl the hour hand
+around one hour forward in the spring, (or eleven hours *forward* in the fall
+since the hands could not be moved backward beyond the twelve going
+counterclockwise), slam the case back on, screw it in, and move down the hall
+to the next clock and repeat the process.  He could finish several dozen clocks
+per day, and usually the office assigned him a helper twice a year for these
+events.
+ 
+He said they never bothered to line the minute hand up just right, because it
+would have taken too long, and ".....anyway, as long as we got it within a
+minute or so, it would synch itself the next time the master clock sent a
+signal..."  Working fast, it took a minute to a minute and a half to open the
+case, twirl the minute hand, put the case back on, "stop and b.s. with the
+receptionist for a couple seconds" and move along.
+ 
+The master clock sent its signal over regular telco phone lines.  Usually it
+would terminate in the main office of whatever place it was, and the (sub)
+master there would take over at that point.
+ 
+Wally said it was very important to do a professional job of hanging the clock
+to begin with.  It had to be level, and the pendulum had to be just right,
+otherwise the clock would gain or lose more time than could be accommodated in
+the hourly synching process.  He said it was a very rare clock that actually
+was out by even a minute once an hour, let alone the two minutes of tolerance
+built into the gear works.
+ 
+     "...Sometimes I would come to work on Monday morning, and find out
+     in the office that the clock line had gone open Friday evening.  So
+     nobody all weekend got a signal.  Usually I would go down a manhole
+     and find it open someplace where one of the Bell guys messed it up,
+     or took it off and never put it back on.  To find out where it was
+     open, someone in the office would 'ring out' the line; I'd go around
+     downtown following the loop as we had it laid out, and keep listening
+     on my headset for it.  When I found the break or the open, I would
+     tie it down again and the office would release the line; but then I
+     had to go to all the clocks *before* that point and restart them,
+     since the constant current from the office during the search had
+     usually caused them to stop."
+ 
+But he said, time and again, the clocks were usually so well mounted and hung
+that "...it was rare we would find one so far out of synch that we had to
+adjust it manually.  Usually the first signal to make it through once I
+repaired the circuit would yank everyone in town to make up for whatever they
+lost or gained over the weekend..."
+ 
+In 1965, Western Union decided to discontinue the Time Service.  In a nostalgic
+letter to subscribers, they announced their decision to suspend operations at
+the end of the current month, but said "for old time's sake" anyone who had a
+clock was welcome to keep it and continue using it; there just would not be any
+setting signals from the master clocks any longer.
+ 
+Within a day or two of the official announcement, every Western Union clock in
+the Chicago area headquarters building was gone.  The executives snatched them
+off the wall, and took them home for the day when they would have historical
+value.  All the clocks in the telegraph offices disappeared about the same
+time, to be replaced with standard office-style electric wall clocks.
+_______________________________________________________________________________
+
+
+                 -= Exodus =-  '94

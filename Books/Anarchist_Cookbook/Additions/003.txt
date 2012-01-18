@@ -1,0 +1,342 @@
+        
+                             Diary of a Hacker
+                                  Part 1
+
+        
+        What I am about to write about happened in October of 1988, 
+        right after I had turned 16. 
+       
+        Yes, I had a Computer.
+        Yes, I was a hacker.
+        Yes, this is my story.
+
+        This story is all true.  The events in the story are as real
+        as the noses on your faces.  Any attempt to change this story
+        would be boring, and unnescessary.
+
+        Hello.  My Handle is The Cuisinart Blade, (I have since changed it)
+        most people called me C.B., just as another nickname.  I
+        got into computers because I always had a knack for Games, 
+        Programs, Etc...  I loved the feel of the keyboard as I typed,
+        espically around Midnight, when School was only 7 hours away.
+        That Dickhead in your 1st hour waiting to pick on you at the
+        stroke of the clock.  What little that he knew.
+        I Loved the feeling of flying through the 'Net, talking to the 
+        other Hackers like me, always trying to impress one another.
+        They came in all fashions of Handles: The Ax Murderer, Psycho,
+        The Hacker Kid, Phobia, Etc...the list is nearly endless.  And
+        each with an utterly unique personality, so far advanced from
+        the Morons we all remember at high school.  I loved talking to
+        these "Wanderers of the Wunderland" so much, I would call all
+        over the united states just to do that.
+        I remember back in 1988, 9600 was almost as uncommon as the
+        newest modems of today.  I loved to suck down that Jolt, turn
+        on the overhead light in the basement, and hack until morning.
+        Then goto school to have that enormus football jock try to
+        scare me into submission. I will admit that, yes, he did
+        scare me.  But what a fool he was, thinking that pure brawn
+        was power.  Knowledge IS power.  I never did good in High 
+        School.  Knowledge is not there, it was in the 'Net!  THAT
+        was where I was a King.  That was where I was a God.  ANYONE
+        who has truely roamed the 'Net or been in that type of world
+        could tell you that, (Right, King Blotto?) hands down.
+        I loved running home, or taking the bus, right into my
+        basement!  Homework?  Bah!  What a waste of time it was,
+        compared to the thrill of Hacking?  Homework was little more
+        than review.  I sat down and got onto my Computer and began to
+        type. I called a rather large BBS in which, Hackers frequented.
+        Nowadays they are considered "Wandering" Boards.  They appear to
+        wander because they change phone numbers all the time.
+        Anyway, I called up my favorite Pirate BBS and went onto Multi-
+        nodal chat to talk to the others about their exploits.  Some of 
+        them had told me of their abilities to smash entire phone
+        networks, others had told me of their A-Typical grade changes,
+        (Yawn)  But most of all I loved to brag.  The unwritten rule
+        in being a hacker, you're nothing unless you have something to
+        brag about.  At the time, I didn't, so I decided to get a name
+        in the computer Hacking Club and do just that: Hack.
+        At first I wondered where I should go, what I should do.
+        I had no idea where to begin.  I had been all over the world
+        in the 'Net, and nothing to show for it, other than just knowing
+        of everyone, or everything.  I needed more.  That is the answer
+        to everything in the mind of a Hacker, the NEED to know.
+        I decided to try something small.
+        That night, my friend, (who I will call Dr.Antristo) and I,
+        called up another Pirate BBS and Downloaded the number of a 
+        rather prominent business, (at the time) and decided to call.
+        Our biggest fear was being traced, so we got togther and built
+        what is nowadays almost routine, (from what I hear) a BOX.
+        I made the call and found myself looking into a Menu System, 
+        that asked for a NAME, and Security ID.  I had no idea about
+        any security ID, or anyone who worked there, so I decided to
+        Hang up and try in a day or 2, AFTER I did some "Checking Up"
+        on their Company.
+        Wedensday came and went, I checked into the Directory, and 
+        looked for a name, someone in the Company.  Personal Passwords
+        were not being used at this company, (and they STILL arn't)
+        so figuring that out was not important, but finding out the
+        MAIN USER SYSTEM PASSWORD was.  No prob.  After finding out
+        about a fellow who worked their, (Name Withheld), I called
+        again.  This time the Menu popped up again, and I typed his name
+        again it asked me for a System Password.  I knew the Voice
+        Number to the Company, so I dialed it on my regular phone line
+        and got some reception lady, you know the type, not too 
+        bright, and just a tad naieve.  I told her I was in the
+        Data Processing Department and was new, and had forgotten
+        the System Password.  It took her all of about 10 seconds  
+        to tell it to me.  She didn't even bother for proof.  So
+        with that in my head I went ahead and typed it: X77-SYS1a.
+        I was in.
+        My Buddy watched, as I began to move through the menus, I got
+        to check out the General Bulletin Listing, several up-and-
+        coming projects, (heh heh 486?)  and even got to see who was
+        late to work this morning.  I wanted to get some specs on the
+        new things they had instore for the Commercial Market, but 
+        I was unsure where to Download them to.  I was fearful of doing
+        that to my own house, so I figured I would find another place.
+        After rummaging throught the place for about 15 minutes, I 
+        left.  Personally, I was estatic.  I had done it.  I had
+        gone into a rather large business and gotten to look through 
+        their system.  But I needed proof, or so I thought.  I wanted
+        to show the Hackers of America, I was as good as them.  I 
+        wanted what we all wanted.  To be noticed and respected by 
+        the people who I would call my peers.
+        Now I will admit that there were MANY who were far better than
+        me.  There were guys who didn't pay a penny for any phone
+        calls that they made.  Ma Bell was sure pissed!  There were
+        others who were what I and others referred to as Professional
+        Pirates.  These were the guys who not only wrote their own
+        software, but Cracked anything they came across, knew were
+        to get anything, and Just seemed to be great at anything they
+        wanted to be.  These were the guys everyone tried to be like,
+        they were the Football stars, Homecoming Kings, and all-american
+        heroes of the 'Net.
+        To us they were as close to god as the pope.
+        Turns out that they were no older than most, but they were
+        smarter, or had a head start.  These guys were, and many of them
+        still are, unstoppable.
+        I got talking to another Pirate later that evening, after I had 
+        gone into the Company Mainframe, and told him of what I had
+        done.  I thought at first he'd laugh at me, but instead, he
+        practically begged me for that Password. He said everyone in
+        this system at that moment would give me any Wares, (Warez for
+        you newer Hackers & Pirates) I wanted.  Within 2 minutes of
+        telling this guy, (Handle: Omega Man) the Multi-Node Chat
+        was filled with over 20 different Hackers, Pirates, and 
+        onlookers asking for the Password, offering me Wares, and
+        other Numbers in exchange.  One guy, I will call Harlock, 
+        offered me something none of the others could.  The ability
+        to USE At&t all I wanted for free.  He said he would teach me
+        how to use their LOOP Numbers and not get caught, also teach me
+        to call other places, drop to their dos shells, and make hidden
+        directories where I could put my "borrowed" Wares.  All for a
+        Password.
+        I accepted.
+        Without hesitation, he gave me a number to his "Wandering" BBS.
+        I disconnected with this one, and logged onto his.  It was a
+        long distance call in the 216 area code.  I didn't want to stay
+        too long, otherwise my parents would get REAL mad.
+        I arrived at the Logon screen to be greeted with an enormus
+        ANSI of a Kings Crown.  Followed by a System Password.
+        The SysOp of the Board typed it in for me, and took me directly
+        into Chat.  He told me that AT&T has what are called LOOP 
+        numbers, numbers that are out of circulation, but can still
+        be used.  Billing is not used, because the company writes it
+        off as an expense on their annual tax bracket as for Public
+        Relations, or Advertising.  They don't check up on them, 
+        because with over 500 Million Nodes, and lines in this country
+        they don't bother with the "Lost" ones.  (Currently there are
+        around 75,000 LOOP Numbers in the 312/708 Area)
+        He told me that in order to use one, you must find one, by
+        what he called Garbage Screening.  He told me that around 
+        where he lived they just chucked all the paper in the garbage
+        bin and left it for the trash men on friday.  (he thanked god
+        that Recycling hadn't REALLY started yet)  He advised me to do
+        the same.  Once I had the numbers, keep a blacklist of them,
+        (of which only 1/4th still work to this day.)
+        Then he explained how to do it.  He said I was to dial the 
+        number, wait for 2 "Chimes" then hit the Shift and Ctrl buttons.
+        With Modem, (I still don't know how, but it worked so I am 
+        telling you) it would give me a Dial Tone, and Wala!  I could
+        then proceed to call anywhere in the world, under AT&T's Tab.
+        Then he asked me for the Password which I happily gave him, (I
+        may be a white-collar crook, but I am an Honorable one.)
+        After writing it down, (I guess) he told me I was welcome to
+        look around his system.  I thanked him for the Info, then 
+        Logged offline.  I was Info Hungery!
+        I had written the Directions for the LOOP numbers down and
+        wanted to see what I could do.  I told Dr.Antristo to power
+        up the MouseMobile (His Jalopy) 'cause we were gonna go
+        shopping this evening.  'Round midnight, Dr.Antristo and I
+        got to Oakbrook, a rather large Communications Hub for the
+        Greater Chicagoland Area.  AT&T had just thrown its garbage 
+        away and there was no one around.  I walked over to the bin,
+        with Doc' in the Getaway Mouse, and looked for any kind of
+        security measure.  It had a padlock, that was no where to be
+        found.  I pushed the door open and took a look.  Bags of
+        paper and more bags.  From what Harloack had told me, I 
+        had hit the jackpot.  I climbed in, (You must understand, that
+        this was the cleanest garbage I had ever seen) and began to 
+        look for anything that had to do with numbers.  I also grabbed
+        a pair of hefty bags full of paper with what looked like numbers
+        then got to the car and we returned home.
+        I dumped all the stuff onto the floor and began to rummage 
+        through it.  I found a lot of office memos to call some
+        Steve guy, and letters of recommendation, as well as a few
+        Resumes'.  Then Luck.  A list of numbers that were said to 
+        be disconnected or transferred to station (52?) for standard
+        procedure.  Another list detailing numbers offline or as it 
+        put it, "Out Of Circulation".  At last, O.O.C.'s!
+        I wanted to know, I had to know.  I put one of them into my
+        Telix Directory and ran it through.  After a few seconds of 
+        prayer, I heard a high pitched noise, almost like a Modem, 
+        but it was off a few bars.  Then I heard what I can only
+        describe as a "Chime", then another...I hit the Shift and Ctrl
+        Keys, and what almost sounded like Line shifting, I got a dial
+        tone!
+        Success!
+        Dr.Antristo and I ran about the room hollering and yelling our
+        thanks to the great Jolt god and we sat down at the computer and
+        typed in the name of a Long Distance BBS, we could never call.
+        Again, Success.  It didn't connect because it was busy, but
+        it went back to Dial Tone again, and we tried another.
+        The BBS was called Crystal Palace, and it was somewhere in 
+        Canada.  We logged into it, ran through the usual newuser crap
+        and spent an hour talking to the SysOp, who was watching us at
+        the time.  We decided not to try again, until the phone bill
+        came for the month.
+        1 Week later it arrived.  I tore it apart to find all long
+        distance calls done.  Only one to my Aunt Kathy in Michigian!
+        The rest were Local!  I was so happy I didn't care if my father
+        was yelling at me about opening his mail.  I called Dr.Antristo
+        and told him the great news.  With this, we could do some real
+        neat things, like call all those other Hacker Boards we could
+        never reach.
+        We decieded to call the most intresting on your list, one
+        called ToC: The Obsidian Crackhouse.  It was in Germany, 
+        a place where there seemed to be a ton of Elite Pirates.
+        We dialed into the LOOP Number and then made the overseas call
+        Connect 9600Bps!
+        We tied into the BBS to find that we couldn't access, it was
+        a Private BBS.  So we settled for something in our country,
+        a place in the 404 Area Code.  A BBS called The Nutcracker
+        Elite.  We got in and "Registered" No, we wern't Cops, No,
+        Not Federal Agents, Etc.. then we looked around to see what
+        this guy had.  Files I had never seen before, stuff from
+        England, California, Germany, Holland, Ireland, Etc... Lists
+        so long I couldn't believe what I was looking at.  I wanted
+        to Download everything I saw, but I was still afraid of what
+        might happen, trying to do that.  So I figured I would give
+        ol' Harlock a Call.
+        I finally got ahold of him on a Friday night, around 1 in the
+        morning, and asked him what to do.  He told me what he did.
+        He would use the LOOP Number, then call another Company, drop
+        into their DOS, create a hidden Dir, then call out again, under
+        THAT Companies Number.  It boggled my mind, so I had him
+        explain it again.  The LOOP Number worked for you in several
+        ways.  If you use a LOOP Number to call out, if you call from
+        another HUB, it would look like you were calling from that area.
+        So anyone Tracing would track it to that location, and if they 
+        were good, they would only get as far as the LOOP Number 
+        origin, in which case you use another number.  He warned me
+        that the BOX was the only thing keeping AT&T from running a 
+        trace from their "Hidden" Line to my house.  So I continued to
+        use it.
+        That night I called some bank in the 804 Area Code.  Found their
+        General Logon Password, (from a Hacker in Vermont, thanks HAL!)
+        and proceeded to drop to DOS.  I looked at their inferior setup, 
+        all memory and nothing to show for it.  I created a Hidden DIR,
+        then exited and called out from that location using one of their
+        company lines to another BBS in the 213 Area Code, a BBS named
+        Psychotic Interlude.  I got online and D/L'ed as much as I 
+        could. (A whopping 3 Files)
+        After Disconnection, I did another D/L to my house through the
+        LOOP Number.  It worked.  The entire evening I was online at
+        one place or another.  I had gotten about 15 Meg worth of Wares
+        from around the country.  This Bank had so much memory it never
+        would have missed it. (BTW, I never Deleted any of it so if you
+        want it, you gotta go get it. ;) )
+        I was really beginning to enjoy this.  The following evening, 
+        I went online at my usual Hacker hangout and chatted with a
+        few guys, the topic of the day was someone in Georgia was saying
+        that he could take down the entire Phone Grid in that state.  
+        And after doing what I did, I belived him.
+
+        October 24th, 1988
+
+        I went to Dr.Antristos house to pick up the software of what
+        we hoped to be our new BBS.  I wanted to be a SysOp.  Too
+        bad that he didn't have it.
+        After discussing what we could do with our abilities, we
+        wanted to see if we could get into a Large Corperation.
+        Watch out world, we were arriving!
+        That night, after slurping down a 24 pack of Jolt, we
+        listened to some Black Sabbath, and Led Zepplin, (my favorite
+        song by them is Cashmir on Physical Grafitti Album) we
+        entered the world of the Hacker.
+        We went to our usual LOOP Number and then dialed into a
+        Corperation in Chicago.  (The name of which is withheld, 
+        but I'll give you a clue, its a Computer Company Named IBM)
+        Well, we got to their commercial menu, where they tell you
+        all about their products, (Yawn) and how they're the best.
+        If they were smart they wouldn't have agreed to giving 
+        royalties to the creator of their Logon Program for all
+        IBM Compatibles, and Regulars.  (Incidently, the guy who
+        wrote that is now worth 8+ Bil)
+        Anyways, we managed to snoop into General Information, but
+        Dr.Antristo and I wanted more.  We wanted much more.
+        So I decided to try that Newbie Crap with the Reception
+        lady again.  I figured that if it worked once, it would work
+        again.
+        The lady, who turned out to be a male night security guard, 
+        scolded me for calling so late, and muttered something about
+        yuppies and their late hour workings.  He looked around on the
+        desk of wherever he was and gave me a Password to enter the
+        IBM Mainframe, (I still laugh at this chucklehead they had hired)
+        and in less than 20 Seconds I was looking at Commands for the
+        Office.  Turns out he gave me a Password that is not for General
+        use.  I got an Office PW.
+        I was looking at a menu that asked me if I wanted to shut off the
+        lights!  I gave out a manical laugh!  I was god, I was immortal,
+        I was....Hacking.  I decieded not to turn off the lights, but
+        I wanted to look at future projects slated for the next year.
+        After browsing around, I got bored and looked into the security
+        matrix, and found a universal password and name collection.  I
+        was feeling a bit evil that evening so, I switched, added, removed,
+        and changed some passwords...heh heh.  Cruel to the people who
+        think they're tough shit!
+        I left IBM with a big grin, and a lot of experience.  Dr.Antristo
+        told me that we ought to go after other things.  I wanted
+        to know so much about everything, so I had it in my head I
+        was going to do just that.
+
+        Only thing was, how to do it!
+
+
+
+        Look for Hacker2.zip for the continuation!
+
+        Another fine Text of the -=M*A*S*Q*U*E*R*A*D*E=-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

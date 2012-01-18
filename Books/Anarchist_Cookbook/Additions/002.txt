@@ -1,0 +1,299 @@
+  -=*> Invisible stalker
+       hell's  hackers<*=-
+             proudly presents...
+
+     ********************************
+     *                              *
+     *     The ring master gun I    *
+     *------------------------------*
+           how to build a .22
+     *------------------------------*
+     *                              *
+     ********************************
+
+  Revised: march 7, 1986
+  -------
+  date: january 22, 1984
+  ----
+
+  preface:
+  -------
+
+    the gun which I am about to explain how to build is an original style zip-
+ gun. Other zip-guns have been made, but most have been of inferior quality
+ and are very dangerous to operate. The gun I have constructed is easy to use
+ and safe to operate.
+
+  History:
+  -------
+    zip-guns where used during the gang war era because of their easiness to
+ build and their small size. Many prisoners of have been known to construct
+ zip-guns while in jail (but I have not heard of any prisoner escaping using
+ a zip-gun).
+
+  ===========
+  -Materials-
+  ===========
+
+    you will need:
+    -------------
+
+  (1) ball point pen - approximately 5.3 Inches long (metal).
+
+  (1) Strong spring - approximately 1.59 Inches long (able to fit inside
+      2nd half and a little bit of the first).
+
+  (1) Strong metal bar - approximately 2.5 Inches long (able to fit
+      inside pen).
+
+  (1) Strong small metal bar (a little bigger then the circumference of
+      the spring and able to slide easily thru the 2nd half of the pen).
+
+   A few .22 Caliber bullets.
+
+    Optional:
+    --------
+
+  (1) soldering iron.
+
+  ==============
+  -Construction-
+  ==============
+
+   -please note: diagrams not to scale.
+
+    First untwist the ball point pen and take out all the insides (you may
+ break them to get them out because they are not needed and should be
+ discarded (see diag. A).
+
+ -The pen (diag. A)-
+
+       --------------------------
+     -<             +           :*]
+       --------------------------
+             ^             ^
+          1St half      2nd half
+
+      < denotes pen tip (where the ink comes out).
+      + Denotes middle (separation point of pen).
+     *] denotes push button.
+
+    Now take the metal bar (larger one) and attach it to the push button (see
+  Diag. B).
+
+ -Firing pin (diag.B)-
+
+      --------------------*
+               ^          ^
+          metal bar   push button
+
+    you can attach it by either shoving the metal bar into the bottom
+ or by soldering it in place (please note: I recommend soldering the metal
+ bar in place). Important - the metal bar must be attached in the exact
+ middle of the push button (the metal bar will act as a striking pin and
+ must be in the exact center so it will strike the middle of the bullet
+ causing the bullet to go off).
+    With the metal bar now firmly attached to the push button, put the
+ push button inside the pen like it should be (see diag. C).
+
+ -Firing pin placement (diag. C)
+
+          --------------------
+     -B-B-:-B-B-B-B-B-B-B-B-B-*]
+          --------------------
+                   ^
+                2nd half
+
+    -B- denotes metal bar.
+      : Denotes middle (separation point of pen).
+     *] denotes push button.
+
+    Now take the spring and slide it over the metal bar (see diag.D).
+
+ -Placement of spring (diag. D)
+
+          ---------------------
+     -B-B-:BXXXXXXXXXXXXXXXXXXB*]
+          ---------------------
+                    ^
+                 2nd half
+
+    -B- denotes metal bar.
+      : Denotes middle (separation point of pen).
+     *] denotes push button.
+      X denotes spring around metal bar.
+
+    Now with the spring around the metal bar and the push button where it
+ Should be, attach (by soldering or twisting, soldering preferred) the
+ small metal bar to the metal bar (see diag.E).
+
+ -Attachment of small metal bar
+    (diag. E)
+
+       .  -------------------
+   -B-B^B-:BXXXXXXXXXXXXXXXXB*]
+       '  -------------------
+
+    -B- denotes metal bar.
+      : Denotes middle (separation point of pen).
+     *] denotes push button.
+      X denotes spring around metal.
+      ^ denotes small metal bar attached to metal bar.
+
+    Note: it might also be helpful to solder the small metal bar to the
+  Spring along with soldering it to the metal bar.
+
+  ==========================
+  -Test of firing mechanism-
+  ==========================
+
+    pull back push button as far as it will go while holding onto the second
+ half of the pen. Now let go and the metal bar (longer one) should snap
+ forward and then return to its approximate starting position.
+
+  ==============
+  -Finishing up-
+  ==============
+
+    placement of bullet:
+    -------------------
+
+    a .22 Caliber bullet should now be placed in the 1st half of the "pen"
+ approximately 1 1/2 millimeters in front of where the metal bar would
+ be if the "pen" was put back together. Be sure to tape (or whatever you think
+ will work) the bullet inside the casing or else the bullet, if moved,
+ might go off accidentally (see diag.F).
+
+ -Bullet placement (diag. F)-
+
+      ---------------------------
+     <      <* -B^B:BXXXXXXXXXXXB*]
+      ---------------------------
+            ^            ^
+         1St half     2nd half
+
+    -B- denotes metal bar.
+      : Denotes middle (sepearation point of pen).
+     *] denotes push button.
+      X denotes spring around metal bar.
+      ^ denotes small metal bar attached to metal bar.
+
+  How to operate:
+  --------------
+
+    Pull back on push button as far as it will go, then let go - the bullet
+ has just been fired (easy, right?).
+    If you wish to shoot another bullet, untwist the "pen", take out the
+ shell and reload (see placement of bullet).
+
+  Notes:
+  -----
+
+    the bullet will tumble when shot instead of the spiraling because the
+ inside of the 1st half (the barrel) has no lands or grooves. Tumbling
+ is good because the bullet will rip thru a target, but it does cause the
+ bullet to be off target approximately 3-4 inches. Having no lands or grooves
+ makes the bullet hard to be traced back to its source (no striations).
+ If you wish to make lands and grooves, you can by taking a screw and
+ twisting it inside the 1st half of the "pen" (adds striations to bullet).
+    I would also advise you to cut off the tip of the "pen". If the tip is
+ left on, the bullet will still shoot, but it will blow thru the tip and send
+ pieces of the pen flying in different directions (also causing the bullet to
+ be off target.)
+
+ -Optional: diagram-removal of tip-
+
+        /
+        /----------------
+      --/               :
+    <   /               :
+      --/               :
+        /----------------
+        /
+
+      < denotes tip (where ink used to come out).
+      : Denotes middle (separation point of pen).
+      / Denotes where tip should be removed (just enough to let the
+        bullet shoot out).
+
+ How it should look when it is complete
+
+ -complete diagaram (with tip removed)-
+
+       -----------:-------------
+      /-----------:-------------
+         <*+= B-^-:BXXXXXXXXXXXB*]
+      /-----------:-------------
+       -----------:-------------
+
+      / Denotes where the pen "caves in" after tip is removed.
+   <*+= Denotes .22 Bullet taped to bottom.
+    -B- denotes metal bar.
+      ^ denotes small metal bar.
+      : Denotes middle (the separating point of the pen).
+      X denotes spring around metal bar.
+     *] denotes push button.
+
+  ============================
+  -Advantages & disadvantages-
+  ============================
+
+  disadvantages:
+  -------------
+
+    (1) one shot capacity-only one bullet can be shot at a time (you must
+        reload the gun everytime you want to shoot).
+
+    (2) Not as accurate as a regular .22 Caliber gun (but the gun was not
+        intended for target shooting).
+
+    (3) Looking like a pen may cause dangerous situations.
+
+  Advantages:
+  ----------
+
+    (1) easy to build.
+
+    (2) Easy to use.
+
+  (3&4) Easy to conceal and discard.
+
+    (5) Low cost (almost nothing).
+
+----------------------------------------
+
+    Later, dazed and confused ones...
+
+  -=*>Invisible stalker
+      hell's  hackers<*=-
+
+  look for:
+  --------
+  military numbers and how to access them
+  portable black box
+  portable white box
+  ring master gun volume i-iii
+  telenet hacking volume I & ii
+  trace detection
+  trashing techniques volume i-iii
+  voice memo hacking volume I & ii
+
+
+  disclaimer:
+  ----------
+
+   all information contained in this file is for information purposes only.
+ The author takes no responsibility for the action(s) of his readers. The
+ reader in question accepts total responsibility for any consequences
+ resulting due to the presence of this file.
+  Acknowledgements:
+  ----------------
+
+  I would like to thank dr. Nikon and the sumpman (mr. Forensic) for
+  helping me put together this file.
+
+  -=*>Invisible stalker
+      hell's  hackers<*=-
+
+
+

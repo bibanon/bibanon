@@ -1,0 +1,190 @@
+Credit Card Fraud:                
+-----------------
+
+For most of you out there, money is hard to come by.  Until now:
+
+With the recent advent of plastic money (credit cards), it is 
+easy to use someone else's credit card to order the items you have 
+always desired in life.  The stakes are high, but the payoff is 
+worth it.
+
+Step One:  Getting the credit card information
+
+First off, you must obtain the crucial item:  someone's credit 
+card number.  The best way to get credit card numbers is to take 
+the blue carbons used in a credit card transaction at your local 
+department store.  These can usually be found in the garbage can 
+next to the register, or for the more daring, in the garbage 
+dumpster behind the store.  But, due to the large amount of credit 
+card fraud, many stores have opted to use a carbonless transaction 
+sheet, making things much more difficult.  This is where your 
+phone comes in handy.
+
+First, look up someone in the phone book, and obtain as much 
+information as possible about them.  Then, during business hours, 
+call in a very convincing voice - "Hello, this is John Doe from 
+the Visa Credit Card Fraud Investigations Department.  We have 
+been informed that your credit card may have been used for 
+fraudulent purposes, so will you please read off the numbers 
+appearing on your Visa card for verification."  Of course, use 
+your imagination!  Believe it or not, many people will fall for 
+this ploy and give out their credit information.
+
+Now, assuming that you have your victim's credit card number, you 
+should be able to decipher the information given.
+
+Step Two:  Recognizing information from carbon copies
+
+Card examples:
+
+[American Express]
+XXXX XXXXXX XXXXX
+MM/Y1 THRU MM/Y2
+JOE SHMOE
+
+[American Express]
+XXXX XXXXXX XXXXX
+MM/Y1 THRU MM/Y2
+JOE SHMOE
+
+Explanation:
+   MM/Y1 is the date the card was issued, and MM/Y2 is the
+   expiration date.  The American Express Gold Card has numbers
+   XXXXXX XXXXXXXX XXXXXXXX, and is covered for up to $5000.00, 
+   even if the card holder is broke. 
+   
+[Mastercard]
+5XXX XXXX XXXX XXXX
+XXXX AAA DD-MM-YY MM/YY
+JOE SHMOE
+
+Explanation:
+   XXXX in the second row may be asked for during the ordering
+   process.  The first date is when the card was new, and the 
+   second is when the card expires.  The most frequent number 
+   combination used is 5424 1800 XXXX XXXX.  There are many of 
+   these cards in circulation, but many of these are on wanted
+   lists, so check these first.
+
+[Visa]
+4XXX XXX(X) XXX(X) XXX(X)
+MM/YY    MM/YY*VISA
+JOE SHMOE
+
+Explanation:
+   Visa is the most abundant card, and is accepted almost 
+   everywhere.  The "*VISA" is sometimes replaced with "BWG", or
+   followed with a special code.  These codes are as follows:
+
+   [1]  MM/YY*VISA V - Preferred Card
+   [2]  MM/YY*VISA CV - Classic Card
+   [3]  MM/YY*VISA PV - Premier Card
+   
+   Preferred Cards are backed with money, and are much safer to 
+   use.  Classic Cards are newer, harder to reproduce cards with
+   decent backing.  Premier Cards are Classic Cards with Preferred
+   coverage.  Common numbers are 4448 020 XXX XXX, 4254 5123 6000
+   XXXX, and 4254 5123 8500 XXXX.  Any 4712 1250 XXXX XXXX cards
+   are IBM Credit Union cards, and are risky to use, although 
+   they are usually covered for large purchases.
+
+Step Three:  Testing credit
+
+You should now have a Visa, Mastercard, or American Express 
+credit card number, with the victim's address, zip code, and phone 
+number.  By the way, if you have problems getting the address, 
+most phone companies offer the Address Tracking Service, which is 
+a special number you call that will give you an address from a 
+phone number, at a nominal charge.  Now you need to check the 
+balance of credit on the credit card (to make sure you don't run 
+out of money), and you must also make sure that the card isn't 
+stolen.  To do this you must obtain a phone number that 
+businesses use to check out credit cards during purchases.  If you 
+go to a department store, watch the cashier when someone makes a 
+credit card purchase.  He/she will usually call a phone number, 
+give the credit information, and then give what is called a 
+"Merchant Number".  These numbers are usually written down on or 
+around the register.  It is easy to either find these numbers and 
+copy them, or to wait until they call one in.  Watch what they 
+dial and wait for the 8 digit (usually) merchant number.  Once you 
+call the number, in a calm voice, read off the account number, 
+merchant number, amount, and expiration date.  The credit bureau 
+will tell you if it is ok, and will give you an authorization 
+number.  Pretend you are writing this number down, and repeat it 
+back to them to check it.  Ignore this number completely, for it 
+serves no real purpose.  However, once you do this, the bank 
+removes dollars equal to what you told them, because the card was 
+supposedly used to make a purchase.  Sometimes you can trick the
+operator by telling her the customer changed his mind and decided 
+not to charge it.  Of course, some will not allow this.  Remember
+at all times that you are supposed to be a store clerk calling to 
+check out the card for a purchase.  Act like you are talking with 
+a customer when he/she "cancels".
+
+Step Four:  The drop
+
+Once the cards are cleared, you must find a place to have the 
+package sent.  NEVER use a drop more than once.  The following are 
+typical drop sites:
+
+   [1]  An empty house
+        
+An empty house makes an excellent place to send things.  Send the 
+package UPS, and leave a note on the door saying, "UPS.  I work 
+days, 8 to 6.  Could you please leave the package on the back door 
+step?"  You can find dozens of houses from a real estate agent by 
+telling them you want to look around for a house.  Ask for a list 
+of twenty houses for sale, and tell them you will check out the 
+area.  Do so, until you find one that suits your needs.
+
+   [2]  Rent A Spot
+
+U-Haul sometimes rents spaces where you can have packages sent and 
+signed for.  End your space when the package arrives.
+
+   [3]  People's houses
+
+Find someone you do not know, and have the package sent there.  
+Call ahead saying that "I called the store and they sent the 
+package to the wrong address.  It was already sent, but can you 
+keep it there for me?"  This is a very reliable way if you keep
+calm when talking to the people.
+
+Do NOT try post office boxes.  Most of the time, UPS will not 
+deliver to a post office box, and many people have been caught in 
+the past attempting to use a post office box.  Also, when you have 
+determined a drop site, keep an eye on it for suspicious 
+characters and cars that have not been there before.
+
+Step Five:  Making the transaction
+
+You should now have a reliable credit card number with all the 
+necessary billing information, and a good drop site.
+
+The best place to order from is catalogues, and mail order houses.  
+It is in your best interest to place the phone call from a pay 
+phone, especially if it is a 1-800 number.  Now, when you call, 
+don't try to disguise your voice, thinking you will trick the 
+salesperson into believing you are an adult.  These folks are 
+trained to detect this, so your best bet is to order in your own 
+voice.  They will ask for the following:  name, name as it appears 
+on card, phone number, billing address, expiration date, method of 
+shipping, and product.  Ask if they offer UPS Red shipping (next 
+day arrival), because it gives them less time to research an 
+order.  If you are using American Express, you might have a bit of 
+a problem shipping to an address other than the billing address.  
+Also, if the salesperson starts to ask questions, do NOT hang up.  
+Simply talk your way out of the situation, so you won't encourage
+investigation on the order.
+
+If everything goes right, you should have the product, free of 
+charge.  Insurance picks up the tab, and no one is any wiser.  Be 
+careful, and try not to order anything over $500.  In some states, 
+UPS requires a signature for anything over $200, not to mention 
+that anything over $200 is defined as grand theft, as well as 
+credit fraud.  Get caught doing this, and you will bite it for a 
+couple of years.  Good luck!
+
+First compiled in JRII..
+
+                                                  -= Exodus =-

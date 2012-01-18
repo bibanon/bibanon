@@ -1,0 +1,14 @@
+## Ingredients ##
+
+The dish it comprised of (at a minimum), a cooking liquid, butter, aromatics, parmesan, and rice. The cooking liquid can be anything with relatively low alcohol content, so most white wines, broth or stocks, dairy, or just water will work. Obviously this is a chance to get flavor into the dish, so feel free to use anything that tastes good. Butter is butter, salt free is better so you have more control of how much of the rock is in your dish, but it not required. The aromatics are usually onions or a _mirepoix_ (the traditional french combination of 2 parts onion, 1 part celery, and 1 part carrot), but can yet again include anything that can be chopped nice and fine. Parmesan is the traditional risotto cheese; you could use something else, but it's tradition for a reason.
+The rice is the most important part of the process. There are basically two main starches in rice, _amylose_ and _amylopectin_. Amylose is just a bunch of glucose in a long line, while amylopectin is a bunch of glucose all tangled up. The longer the rice grain, the higher ratio of amylose to amylopectin, and the reverse holds true for shorter grains. The more amylopectin, the more starch seeps out of the rice and into the cooking liquid. Therefore if we are looking to attain a creamy and rich texture without any cream or added fat, the shorter rice grains must be implemented. The traditional risotto rice is arborio, but any short grain rice will do just fine.
+
+## Cooking Process ##
+
+[[!img Risotto_01.jpg size=200x200]]
+To cook the risotto, sweat the aromatics in the butter over medium heat. **A SWEAT IS A LOW HEAT METHOD, IF THERE IS ANY BROWNING, YOU ARE DOING IT WRONG.** Then add in the rice and cook for 3-5 minutes until the rice turns a bit translucent around the edges. Then add the cooking liquid to just _barely_ cover the rice and cook at a simmer. (For those who haven't done much cooking, this means you have bubbles breaking the surface in a non violent manner, if it looks like a boil, turn it down.) At this point you should keep an eye on it until it reaches the point where you can stir across the pot and there is no liquid covering the bottom. Once you get to this stage add a little more liquid.         Keep this up until the rice is almost fully done (tender, not dry in the middle, and not too chewy).
+At this point go ahead and add the parmesan (the amount it really up to you, but if you need a number go with about 2 oz of cheese [by weight] per cup of dry rice), and anything else that is chopped into good sized pieces, bite-sized, but not miniscule. **Already cooked:** Mushrooms, meats, tomatoes (a sundried is fine too), what ever sounds tasty. You can also add any fresh herbage like chives or parsley...et cetera.
+
+## Storage ##
+
+It should last for at least half an hour but after that, think about reheating in a pot with a bit more water and cook until you have reached desired consistency. Or you could use a thermos.

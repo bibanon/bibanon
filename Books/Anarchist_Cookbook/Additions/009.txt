@@ -1,0 +1,296 @@
+THE COMPLETE SOCIAL ENGINEERING FAQ!
+"There's a sucker born every minute." PT Barnum
+
+"Don't touch me, sucka." Mr. T
+
+By bernz (official sponsor of the 1996 Croatian Olympic Men's Synchronized Swimming Team)
+with shoutouts to: The Genocide2600, Silicon Toad and your big fat mama.
+
+DISCLAIMER!!!!! THIS INFORMATION IS HERE FOR THE SOLE PURPOSE OF
+ENLIGHTENMENT! IF YOU USE IT AND GET CAUGHT, NO ONE IS TO BLAME BUT
+YOUR OWN IDIOTIC ASS!!!
+
+SECTION I: INTRO
+1.1 What is social engineering?
+1.2 Why is there a FAQ about it?
+1.3 Who cares?
+1.4 Basic intro and other shit.
+
+SECTION II: PHONE SOCIAL ENGINEERING
+2.1 Basics
+2.2 Equipment
+2.3 Phreak stuff
+2.4 Technique
+
+SECTION III: SNAIL MAIL
+3.1 Is Snail Mail acutally usefull for something?
+3.2 Equipment
+3.3 Technique
+
+SECTION IV: INTERNET
+4.1 Isn't this just hacking?
+
+SECTION V: LIVE, FROM NEW YORK...
+5.1 In person?
+5.2 Equipment
+5.3 I'm wearing a suit, now what?
+
+SECTION VI: PUTTING IT TOGETHER
+A sample problem
+
+1.1 What is social engineering?
+
+     The hacker's jargon dictionary says this:
+
+Social Engineering: n.  Term used among crackers and  samurai for cracking
+techniques that rely on weaknesses in  wetware rather than software; the aim
+is to trick people into revealing passwords or other information that
+compromises a target  system's security.  Classic scams include phoning up a
+mark who has  the required information and posing as a field service tech or a 
+fellow employee with an urgent access problem. 
+
+     This is true. Social engineering, from a narrow point of view, is
+basically phone scams which pit your knowledge and wits against another human.
+This technique is used for a lot of things, such as gaining passwords,
+keycards and basic information on a system or organization.
+
+1.2 Why is there a FAQ about it?
+
+     Good question. I'm glad I asked. I made this for a few reasons. The
+first being that Social Engineering is rarely discussed. People discuss
+cracking and phreaking a lot, but the forum for social engineering ideas is
+stagnant at best. Hopefully this will help generate more discussion. I also
+find that social engineering specialists get little respect, this will show
+ignorant hackers what we go through to get passwords. The last reason is
+honestly for a bit of Neophyte training. Just another DOC for them to read so
+I don't get bogged with email.
+
+1.3 Who Cares?
+
+     To Neophytes: You should, you little fuck. If you think the world of
+computers and security opens up to you through a keyboard and your redbox then
+you are so fucking dead wrong. Good. Go to your school, change your grades and
+be a "badass" hacker. Hacking, like real life, exists in more than just your
+system. You can't use proggies to solve everything. I don't mean to sound
+upset, but jesus, have a bit of innovation and a sense of adventure.
+
+     To Experienced Hackers: Just thought it would help a bit.
+
+1.4 Basic intro and shit for this document.
+
+     This FAQ will address phone techniques, mail techniques, internet
+techniques and live techniques. I will discuss Equipment and will put some
+scripts of actual conversations from social engineering. There are times I
+might discuss things that cross the line into phreaking or traditional
+hacking. Don't send me email and say that my terms aren't correct and
+blahblahblah isn't social engineering. I use them for convenience and lack of
+better methods of explanation (eg I might say "dumpster diving is a form of
+social engineering") Don't get technical.
+
+SECTION II: PHONES
+
+2.1 Basics
+
+     This is probably the most common social engineering technique. It's
+quick, painless and the lazy person can do it. No movement, other than fingers
+is necessary. Just call the person and there you go. Of course it gets more
+complicated than that.
+
+2.2 What Equipment is necessary for this?
+
+     The most important peice of hardware is your wetware. You have to have a
+damn quick mind. As far as physical Equipment goes, a phone is necessary. Do
+not have call waiting as this will make you sound less believeable. There is
+no real reason why this does but getting beeped in the middle of a scam just
+throws off the rhythym. The phone should be good quality and try to avoid
+cordless, unless you never get static on them. Some phones have these great
+buttons that make office noise in the background. 
+     Caller ID units are helpful if you pull off a scam using callback. You
+don't want to be expecting your girlfriend and pick up the phone and say, "I
+wanna fuck you" only to find out it was an IBM operator confirming your
+identity. Operators don't want to have sex with you and so your scam is
+fucked. Besides, call ID units are just cool because you can say, "Hello,
+<blank>" when someone calls. The Radio Slut carries these pretty cheap.
+     Something I use is a voice changer. It makes my voice sound deeper than
+James Earl Jones or as high as a woman. This is great if you can't change your
+pitch very well and you don't want to sound like a kid (rarely helpful). Being
+able to change gender can also be very helpful (see technique below). I got
+one for a gift from Sharper Image. This means that brand will cost quite a bit
+of cash, but it's very good quality. If anyone knows of other brand of voice changers, please inform me.
+
+
+2.3 Phreaking and Social engineering? 
+
+     Social Engineering and phreaking cross lines quite a lot. The most
+obvious reasons are because phreaks need to access Ma Bell in other ways but
+computers. They use con games to draw info out of operators.
+     Redboxing, greenboxing and other phreaking techniques can be used to
+avoid the phone bills that come with spending WAAAAYYY too much time on the
+phone trying to scam a password. Through the internet, telnetting to
+california is free. Through ma bell, it's pricey. I say making phone calls
+from payphones is fine, but beware of background noise. Sounding like you're
+at a payphone can make you sound pretty unprofessional. Find a secluded phone
+booth to use.
+
+2.4 How do I pull off a social engineering with a phone?
+
+     First thing is find your mark. Let's say you want to hit your school.
+Call the acedemic computer center (or its equivelent). Assuming you already
+have an account, tell them you can't access your account. At this point they
+might do one of two things. If they are stupid, which you hope they are, they
+will give you a new password. Under that precept, they'll do that for most
+people. Simply finger someone's account, specifically a faculty member. At
+this point, use your voice changer when you call and imitate that teacher the
+best you can. People sound different over the phone, so you'll have a bit of
+help. 
+     Try to make the person you're imitating a female (unless you are a female). Most of the
+guys running these things will give anything to a good sounding woman because the majority of
+the guys running minicomputers are social messes. Act like a woman (using voice changer) and
+you'll have anything you want from them. 
+     Most of the time the people working an area will ask for some sort of
+verification for your identity, often a social security number. You should
+find out as much information about a mark as you can (see mail and live
+techniques) before you even think about getting on the phone. If you say you
+are someone you aren't and then they ask you for verification you don't have,
+they will be suspicious and it will be infinitely more difficult to take that
+system.
+     Once again for idiots: DO NOT TRY TO SOCIAL ENGINEER WITHOUT SUFFICIENT
+INFORMATION ON YOUR MARK!
+     Once people believe you are someone, get as much as you can about the
+system. Ask for your password, ask for telnet numbers, etc. Do not ask for too
+much as it will draw suspicion. 
+     You must sound like a legitimate person. Watch your mark. Learn to speak
+like him/her. Does that person use contractions? Does that person say "like" a
+lot? Accent? Lisp? 
+     The best way for observation of speech is to call the person as a
+telemarketer or telephone sweepstakes person. Even if they just tell you they
+can't talk to you, you can learn a quite a bit from the way they speak. If
+they actually want to speak to you, you can use that oppurtunity to glean
+information on them. Tell them they won something and you need their address
+and social security number and other basic info. 
+
+WARNING: ABUSING SOMEONE'S SOCIAL SECURITY NUMBER IS ILLEAGAL!!!
+DON'T SAY YOU WEREN'T WARNED!!!
+
+SECTION III: SNAIL MAIL
+
+3.1 Is snail mail really useful?
+
+     Yes. It actually is. Snail mail is not tapped. Snail mail is cheap. Snail mail is readily available.
+But how can you use it in social engineering. As I said above, it's difficult to find systems that just
+let you call with no verification. They do exist but they are rare. So therefore you need info on
+your mark and the mark's system. You can try the telemarketing scam, but that isn't always
+succesful, as people do not trust telemarketers. For some reason, though, people trust the written
+word. Morons. People will respond to sweepstakes forms with enthusiasm and will give you
+whatever info you want on it. That's why snail mail is so great.
+
+3.2 What do I need?
+
+     Obviously you need mail "equpiment" which includes stamps and envelopes. But subtle
+things are required as well. You're going to want to have return address stickers that include
+"your company's" logo and name. This can be procured at places like Staples, Office Max and
+other stores for a realitively cheap price.
+     The most important part to mail social engineering is a layout program. WordPerfect is
+okay, but I prefer QuarkXpress or PageMaker. These programs are not cheap, but can be used for
+plenty of other applications and are well worth their price. IF YOU GET IT PIRATED, I DON'T
+ADVOCATE THAT ACTION. With these DTP programs, you can emmulate a tottaly
+professional document. More about this below.
+     A private mailbox is good. If you want to be very professional, get a PO box. I'm in a
+band, so I use that PO box. They can be rented at a variety of places, including Post Offices and
+MailBoxes, etc. for low fees. Share the cost with others for great cost effectiveness.
+
+3.3 I've got the stuff, now what?
+
+     What is your mark? Generally, for a mail social engineer, your mark is going to be a large
+group of people. Thus, your mail should look like a mass mail sweepstakes. Use computer labels
+and the like to keep this illusion. You need a list of employees from that company and their
+addresses. 
+     Look at the junk mail in your mail. Sweepstakes forms, mail-in orders, etc. Try tofake 
+that look. Something with very few lines to fill in (but with your vital info on them). A watermark
+is always a good touch for these documents. Use the fonts a business would use and word your
+letters in a similar fashion. Illusion is everything. The information on these should include social
+security numbers. Another good idea is to say that you'll need a password to verify the prize with
+a voice call. Hopefully it'll be the same as their net account password. It usually is. Yes, people
+actually fall for this stuff. 
+     To make someone fill these out, they must be concise and visually appealling. A person
+filling these out cannot be hasseled with difficult choices. Check Boxes are also a nice effect.
+These must look believeable. Credibility is everything with social engineering. I cannot stress that
+enough. I will soon realease examples, although you should be original and make some on your
+own.
+     Now, after stamping and addressing your letters, send them out and wait. Soon you
+should receive some answers. At this point, use a standard phone social engineering. Social
+Security numbers are the most common verification. If you find that you need some other form,
+send out letters with that information. For example, sometimes mother's maiden name is used.
+
+SECTION IV: INTERNET
+
+4.1 Isn't this just a form of hacking?
+     
+     I guess it is to a point. Hacking takes more advantage of holes in security while the social
+engineering takes advantage of holes in people's common sense. Finding your marks through a
+hole in the fingering system is a great way to start an engineer. Many fingers give full names last
+logins, login locations and all sorts of info. Find someone who hasn't been on in quite sometime. 
+     There are also the classic schemes. Pretending to be a sysop in an IRC or online chat room
+can make people give up passwords with ease.
+     Yes, generally actions taken in the Internet or online are considered traditional hacking,
+but your knowledge of the average human's wetware comes into play.
+
+SECTION V: LIVE, FROM NEW YORK...
+
+5.1 In person?
+
+     Yup. This is pretty damn important. You can do quite a bit over a phone or through mail,
+but sometimes you just have to get off your ass and do things yourself. Getting a password
+digging through a desk is good, so is touring an office and just looking around. Even conning
+your way into a terminal works. 
+
+5.2 Equipment
+
+     This is the only time in hacker culture where looks matter a great deal. Don't expect to
+walk into VIACOM's offices wearing your Misfits T-shirt with lotsa zits and your walkman
+makes you look suspicious. Look dignified. Wear a suit. Comb your hair. Don't get out of hand.
+Be polite. If you want to look like you belong in that office, you should act that way, too. So you
+need a suit. If you weigh more than 200 lbs (and are under 6' 2") or look like you're 20 or
+younger, don't try this. You'll look dumb, be laughed at and possibly have security called on you.
+You can look like an office worker's kid if you're that young. If you can do this, go ahead. Most
+of us can't.
+     Fake ID security cards (the kind that aligator clip to a belt or something) can be made with
+a photo, a layout program and a lamination sheet. This just makes you look more official.
+Sometimes one of this stick on visitor patches can be helpful. They make you look like your
+unnatural observation is warrented by your visiting status.
+
+5.3 I'm sweating in this suit..now what?
+
+     Walk into an office building with confidence. Flash your badge or just have your visitor
+tag. Pretend you really belong there. That's how you look. An office with cubicles is great. Just
+walk around and peer at people's belongings. Find the company's UNIX minicomputer. They
+tend to keep them behind a big plate glass window, so you can check out how its connected. This
+is good scouting without having to sift through dumpsters or watching through binoculars. DO
+NOT TRY TO HACK WHILE IN THE BUILDING!  IT'S PRETTY SUSPICIOUS LOOKING!
+
+SECTION VI: PUTTING IT TOGETHER
+     
+     You want to see what your school's minutes are or you want to hack a local chemical
+company to see their new toxins, but even if you had access it would be problematic to access the
+passwords because they are running a VAX. Now what?
+     First you get a list of employees. For schools, just use the catalog. For companies, use a
+live engineering technique. Look for payroll sheets, or posted employee lists. If you look right,
+you can just ask a low level employee for a list. Remember, be calm in front of people. You have
+to maintain your credibility.
+     Finger each employee's account. Find out who has or hasn't used their account in the past
+few months. Those who haven't are your marks. Write those names down cause your gonna play
+them for all they are worth, goddammit.
+     Now we go to the phone book and get the employees addresses. Then we create a
+document in our DTP program that emmulates a short sweepstakes form or another short
+document commonly encountered in the field. It must look professional but subtle enough not to
+look false. Credibility once again. Remember to include the social security number space as well
+as other information. Send these out and wait or masturbate or whatever you do for a few days.
+Yes, you're going to have to spend $10 on stamps unless you are on good terms with who you
+engineered in person. If they trust you, go back and use the stamping machine..might as well.
+     Now get your phone and call their sysadm. Use women voices first because the guys that
+run these machines have rarely seen daylight, let alone women. They are EASILY manipulated
+with a woman's voice. Sound helpless, they love it. If they don't give you your password, you'll
+have plenty of info for them for verification. If you pretend to be a woman, they'll give youplenty
+of leway. Go as far as saying you've seen them at work and think they are cute. Watch the
+passwords fly. 
+     
