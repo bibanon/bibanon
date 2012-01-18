@@ -4,7 +4,7 @@ Recent events have sparked discussion on the dark future of the internet. We kno
 
 So, when we wondered, "what would we want to save from the internet if we had to start over from scratch, and how would we do it?", we designed this wiki to do just that. Currently, we've archived a small but interesting number of books and stories that we've found interesting.
 
-Additionally, this wiki is based on [ikiwiki](http://ikiwiki.info), a DVCS-based wiki which allows users to check out a copy to read, edit, put on their server, or even make a fork. This way, if the main site goes down, anyone with a clone could just put it on their own server.
+Additionally, this wiki is based on Gollum, a DVCS-based wiki which allows users to check out a copy to read, edit, put on their server, or even make a fork. This way, if the main site goes down, anyone with a clone could just put it on their own server.
 
 Like the Carolingian monasteries in the Dark Ages of Europe, this library will safeguard the works of our Golden Age through the dark years for a future that can truly accept it's importance.
 
