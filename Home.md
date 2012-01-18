@@ -34,65 +34,65 @@ Here is a [[Sandbox]] to mess with.
 * [[Lulz A Corruption of LOL]] - A full soundtrack made by anons, for anons on the Insurgency Wiki.
 * [[Copypasta]] - An archive of text that was so memetic, they were posted to 4chan multiple times. Sometimes it's awesome, other times shocking, but in the end it's something that just has to be saved. This archive was lost and rebuilt multiple times by various wikis, and as such needs a permanent home here.
 
-### [[History|history]]
+### [[History]]
 
-* [[history/4chan History Timeline]] - A nice, though somewhat incomplete timeline of how 4chan developed. Once posted on the first Wikichan, and rewritten by a random redditor, it was narrowly saved from being lost again with the second [[Wikichan|Wiki#Wikichan]] by AnonOps, and now resides here.
+* [[4chan History Timeline]] - A nice, though somewhat incomplete timeline of how 4chan developed. Once posted on the first Wikichan, and rewritten by a random redditor, it was narrowly saved from being lost again with the second [[Wikichan|Wiki#Wikichan]] by AnonOps, and now resides here.
 
-### [[Ideas|idea]]
+### [[Ideas]]
 
-* [[idea/Sandman]] Package Manager - A plan to implement the best features of Arch Linux's Pacman and AUR in all Linux operating systems, to make it easier to install and manage unpackaged source code.
-* [[idea/Gittorrent]] - Put the DVCS of Git and the P2P download system of Bittorrent together, and we can make Git repositories truly distributed and independent from central servers. The possibilities of Gittorrent could forever change the way we develop projects and use software. This would be especially vital to this project.
+* [[Sandman]] Package Manager - A plan to implement the best features of Arch Linux's Pacman and AUR in all Linux operating systems, to make it easier to install and manage unpackaged source code.
+* [[Gittorrent]] - Put the DVCS of Git and the P2P download system of Bittorrent together, and we can make Git repositories truly distributed and independent from central servers. The possibilities of Gittorrent could forever change the way we develop projects and use software. This would be especially vital to this project.
 
-## [[Websites|site]]
+## [[Websites]]
 
-* [[site/Insurgency Wiki]] - A wealth of information and guides to raiding built by Anonymous during the Golden Age and Chanology eras of [[site/4chan]]. Will be implemented into [[Encyclopedia Anonoma|encanon]] and the Newfag's Guide to Anonymous.
-* [[site/NC]] - Neglected Mario Characters, a popular webcomic in the ancient internet. It's a perfect example of what people in the past enjoyed, as well as the sad, crushing failure when the authors have to adapt to a new culture when they no longer have time to.
+* [[Insurgency Wiki]] - A wealth of information and guides to raiding built by Anonymous during the Golden Age and Chanology eras of [[4chan]]. Will be implemented into [[Encyclopedia Anonoma|encanon]] and the Newfag's Guide to Anonymous.
+* [[NC]] - Neglected Mario Characters, a popular webcomic in the ancient internet. It's a perfect example of what people in the past enjoyed, as well as the sad, crushing failure when the authors have to adapt to a new culture when they no longer have time to.
 
-## [[Flash|flash]]
+## [[Flash]]
 
-* [[Shoo, Fly!|flash/Shoo Fly.swf]] - Slick comedy gold and a wonder of animation.
-* [[RAGE|4chan/flash/V rage.swf]] - A depiction of the events of 4chan's Civil War era: also known as /b/day. 
-* [[4chan City|flash/4chan/4chan City.swf]] - Showcased by moot at Otakon 2006. It's pretty cool.
-* [[ScientoLOLjyuuichi|flash/4chan/scientolulz.swf]] - Actually, this was from Newgrounds, but it details pretty well what Scientology is about.
+* [[Shoo, Fly!]] - Slick comedy gold and a wonder of animation.
+* [[RAGE]] - A depiction of the events of 4chan's Civil War era: also known as /b/day. 
+* [[4chan City]] - Showcased by moot at Otakon 2006. It's pretty cool.
+* [[ScientoLOLjyuuichi]] - Actually, this was from Newgrounds, but it details pretty well what Scientology is about.
 
 ## What needs work (Under Construction)
 
-### [[Books|book]]
+### [[Books]]
 
-* [[The Newfag's Guide to Anonymous|book/The Newfags Guide to Anonymous]] - Thinking about becoming a part of the legions of Anonymous? This guide will get you oriented fast.
-* [[book/The Big Book of Anonymous Recipes]] - A huge collection of tasty recipes, all well organized into a nice wikibook.
+* [[The Newfag's Guide to Anonymous]] - Thinking about becoming a part of the legions of Anonymous? This guide will get you oriented fast.
+* [[The Big Book of Anonymous Recipes]] - A huge collection of tasty recipes, all well organized into a nice wikibook.
 * [[Glossary]] - Words on the internet go out of fashion faster than US Presidents, so this little dictionary will keep this guide readable long after we've forgotten about Warren G. Harding.
 
-### [[History|history]]
+### [[History]]
 
-* [[history/4chan]] - The first, the largest, and the most influential English-language imageboard. It's the site that bore Anonymous. 4chan's unique culture has strongly infused itself into modern internet culture like Greece to Western Civilization.
+* [[4chan]] - The first, the largest, and the most influential English-language imageboard. It's the site that bore Anonymous. 4chan's unique culture has strongly infused itself into modern internet culture like Greece to Western Civilization.
 
 ## What we want (Under Construction)
 
-### [[Books|book]]
+### [[Books]]
 
-* [[book/The Return of the Well Cultured Anonymous]] - A surprisingly good book on living life well. Was the life's work of the anons of [[Wikichan|Wiki#Wikichan]]. The whole book needs to be imported.
+* [[The Return of the Well Cultured Anonymous]] - A surprisingly good book on living life well. Was the life's work of the anons of [[Wiki#Wikichan|Wikichan]]. The whole book needs to be imported.
 
-### [[Collections|coll]]
+### [[Collections]]
 
-* [[coll/Information Library]] - InformantB900's highly informative collection of images from 4chan. This collection attempts to turn the textual components into easily editable wiki pages.
-* [[book/1000 Tutorials]] - 1000 Tutorials, spread by anons during Operation Payback. Contains a whole lot of useful info.
-* [[coll/Flash]] - Various flash movies that are exemplar art pieces or historically important in some way. I'm telling you, they're pretty good.
-* [[coll/Baww Threads]] - An archive of text and pictures that are posted in 4chan's /B/aww Threads, where people come together to share the saddest things they know. Unsurprisingly, these stories end up being real tear-jerkers, and understandably, they're not archived very well.
-* * [[coll/LP Archive]] - The Let's Play archive. It's a collection of stories about Something Awful users revisiting games from their childhood and posting humorous commentary. The state of the website has not always been stable, we should save it here just in case.
+* [[Information Library]] - InformantB900's highly informative collection of images from 4chan. This collection attempts to turn the textual components into easily editable wiki pages.
+* [[1000 Tutorials]] - 1000 Tutorials, spread by anons during Operation Payback. Contains a whole lot of useful info.
+* [[Flash]] - Various flash movies that are exemplar art pieces or historically important in some way. I'm telling you, they're pretty good.
+* [[Baww Threads]] - An archive of text and pictures that are posted in 4chan's /B/aww Threads, where people come together to share the saddest things they know. Unsurprisingly, these stories end up being real tear-jerkers, and understandably, they're not archived very well.
+* [[LP Archive]] - The Let's Play archive. It's a collection of stories about Something Awful users revisiting games from their childhood and posting humorous commentary. The state of the website has not always been stable, we should save it here just in case.
 
-### [[Stories|story]]
+### [[Stories]]
 
-* [[story/Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
+* [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 
-### [[History|history]]
+### [[History]]
 
-* [[history/Something Awful]] - The forum that gave 4chan it's culture and first colonists should not itself be forgotten.
-* [[history/USENET]] - A special university-based BBS that had the option to be pseudo-anonymous.
-* [[history/Digg]] - Before Reddit was big, there was Digg.
+* [[Something Awful]] - The forum that gave 4chan it's culture and first colonists should not itself be forgotten.
+* [[USENET]] - A special university-based BBS that had the option to be pseudo-anonymous.
+* [[Digg]] - Before Reddit was big, there was Digg.
 * [[Reddit]] - If 4chan is Greece, than Reddit is the Roman Empire. This powerful community is well-deserving of the title "Front Page of the Internet".
 * [[The Rise of Anonymous]] - Exactly how did Anonymous come about, and what can we learn about successful raids in the past? 
-* [[Significant Memes]] - A simple collection of articles describing all the memes that we held dear years ago and have forgotten today. It takes the descriptions of [[ED|encanon/Wiki#Encyclopedia Dramatica]], [[LURKMOAR Wiki]], and condenses the basics into something that will explain old memes to users easily.
+* [[Significant Memes]] - A simple collection of articles describing all the memes that we held dear years ago and have forgotten today. It takes the descriptions of [[ED|Wiki#Encyclopedia Dramatica]], [[LURKMOAR Wiki]], and condenses the basics into something that will explain old memes to users easily.
 
 ---
 
