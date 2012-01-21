@@ -1,0 +1,3 @@
+Rape is a crime in most countries. In some muslim ones though, you can get away with raping your wife or even a complete stranger, as long as you say "she showed some tits" or something, since then she'll be jailed for prostitution.
+
+The goal of rape is to have sex with someone who does not want it, that means, in your case, pretty much everyone, huh, you filthy geek. Since rape is the only option for you not to die a virgin, you better get started on planning, because it's a real pain in the ass (as in yours) not to get caught, since now there's DNA, testimonials, fingerprints and all. 

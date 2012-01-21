@@ -1,0 +1,37 @@
+Tor (The Onion Router) is a free software implementation of second-generation onion routing — a system enabling its users to communicate anonymously on the Internet. Originally sponsored by the US Naval Research Laboratory, Tor became an Electronic Frontier Foundation (EFF) project in late 2004. The EFF supported Tor financially until November 2005, and continues to provide web hosting for the project.
+
+Like all current low latency anonymity networks, Tor is vulnerable to correlation attacks from attackers who can watch both ends of a user's connection.
+
+:''For moar info, see'': http://anonym.to/http://en.wikipedia.org/wiki/Tor_(anonymity_network) 
+==Tutorial==
+
+First, you will download the Tor package. This includes Vidalia, Tor, and Privoxy. Tor is the program allowing you to connect to the onion network, Vidalia is the GUI for that program, and Privoxy helps you apply it plus blocks cookies and other detection things.
+
+Run Vidalia, and it will start Tor in the background. There will be a little onion icon in your taskbar. Right click and press start; Tor is running if the onion is green. Privoxy should be running as well. Leave all this running basically all the time. This has you as a part of the Tor network.
+
+Now then, to actually make it do something: Download the Torbutton extension for Firefox, or otherwise just point at the proxy 127.0.0.1:8118; that's localhost, port 8118. This will run your browser through Privoxy, which will block lots of stuff, and utilize Tor (PROTIP: Tor is slow). In m/i/rc, type /tor before connecting to the server, and that will do basically the same thing automatically. You can whois yourself in [[IRC]], you can go to whatismyip.com in the internets, and you will see you are anonymously connected.
+
+TL.DR
+Video Tutorial can be found here
+*[http://www.youtube.com/watch?v=B38zx7TPDC4/ Freedom House: Tor Tutorial]
+===Downloads===
+*[http://www.torproject.org/dist/vidalia-bundles/vidalia-bundle-0.2.0.34-0.1.10.exe Vidalia]< can't access
+*[http://xerobank.com/download/ xB Browser] - comes with Tor plus many more [[anonymity]] tools
+
+==Onion sites==
+The Tor network allows you to create anonymous website that can only be accessed from Tor itself. .onion links aren't always obvious to come by, but have delicious treasures when you do find them, from CP to confidential company documents to black markets and so on and so forth. It can take a few tries to get to these sites, since the network's not that reliable.
+
+===list===
+A list of onion sites. Apparently none of them work. 
+* http://zw3crggtadila2sg.onion/imageboard/ TorChan
+* http://rjgcfnw4sd2jaqfu.onion Panta Rhei anonymous remailer
+* http://anegvjpd77xuxo45.onion/services/ a list of anonymous services and their uptime stats
+* http://oldd6th4cr5spio4.onion/index.php?title=Main_Page Hidden wiki
+'Moar to come...'
+
+
+NEW onion wiki page. It should work.
+* http://kpvz7ki2v5agwt35.onion/wiki/index.php/Main_Page
+ 
+==External Links==
+[[Category:Tools]]

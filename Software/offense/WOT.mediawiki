@@ -1,0 +1,190 @@
+<div style='width: 300px; position: relative; float: right;'>[[File:WOT_logo.png]]</div>
+[http://anonym.to/http://www.mywot.com/ WOT] is a corruption of W.O.T., which stands for Web Of Trust.<br>
+With WOT you can damage the trustworthiness of EVERY website on the internet.<br>
+If the rating is damaged, people can't visit the site properly because of annoying warnings on every page.
+=About=
+WOT allows users to add their input on the safety of a website ranging from very dangerous to very safe, based on how safe they believe a website to be. WOT estimates the overall reputation of a website through a combination of user ratings and the incorporation of gaining and earning trust, which is calculated through an activity score. The activity score is a number given based on the number of websites rated, comments left, and forum posts made. This equates to a ranking, based on how high the number, and gives the titles of rookie-, bronze-, silver-, gold-, or platinum-level rater. The higher the score, the more your individual rating makes a difference in the overall reputation, combined with others' ratings, blacklists, and trusted sources, and is displayed to users upon entering a website or viewing it in search results.
+==tl;dr Version==
+*Ratings:
+**Rate enemy websites giving them a 0 in each of the 4 categories.
+**Give many other sites ratings to increase your influence, as your votes become stronger as you contribute.
+*Comments
+**Give enemy websites red comments, which give them 1 red point in the category.
+**Vote red comments up for 1 extra point in that category.
+**Vote green comments down to delete 1 point and make them invalid if they have a negative score.
+''Side note: You get your activity points after a few hours to a few days, so don't cry around.''
+==Known exploits==
+===Unlimited possibilities===
+#Go to [http://anonym.to/http://www.mywot.com/ MyWOT].
+#Click on your username in the top right corner. (If you don't have one, register one.)
+#Go to the "Edit" tab next to your username on the left.
+#Scroll down and click "Delete".
+#Confirm deletion.
+#Make a new username.
+#Repeat ratings, comments, and ratings of comments on target website.
+===Comments===
+#Make a red comment.
+#Reload page.
+#Make another comment in another red category.
+==Exploits that should be made==
+A macro for mywot.com that rates a huge list of sites, so you can gain massive amounts of activity points.
+
+=Showcase=
+==Sites==
+'''partyvan faggots be voting us down'''
+<div style='width: 100px; position: relative; float: right;'>
+{| border="0" style="text-align: center;"
+|-
+|[[File:Trusted.png]]
+|-
+|Trusted
+|-
+|[[File:Alright.png]]
+|-
+|Alright
+|-
+|[[File:Caution.png]]
+|-
+|Caution
+|-
+|[[File:Not_safe.png]]
+|-
+|Not safe
+|-
+|[[File:Danger.png]]
+|-
+|Danger
+|-
+|}
+</div>
+{| border="1"
+|-
+|<font color="white">'''SITE NAME'''
+|[http://anonym.to/http://www.mywot.com/scorecard/scientology.org Scientology.org]<br><font color="red"><center>GUESS WHAT</center>
+|[http://anonym.to/http://www.mywot.com/scorecard/partyvan.info Partyvan.info]<br><font color="red"><center>MEH</center>
+|[http://anonym.to/http://www.mywot.com/scorecard/insurgen.cc Insurgen.cc]<br><font color="green"><center>FRIEND</center>
+|-
+|Trustworthiness
+|<font color="red">14%
+|<font color="green">83%
+|<font color="green">87%%
+|-
+|Vendor reliability
+|<font color="red">12%
+|<font color="greenyellow">76%
+|<font color="green">88%
+|-
+|Privacy
+|<font color="red">12%
+|<font color="greenyellow">79%
+|<font color="green">89%
+|-
+|Child Safety
+|<font color="red">11%
+|<font color="red">23%
+|<font color="greenyellow">75%
+|-
+|<font color="white">'''COMMENTS BY CATEGORY'''
+|-
+|Good site
+| 
+|<font color="green">2
+|<font color="green">11 
+|-
+|Useful, informative
+| 
+|<font color="green">2
+|<font color="green">35 
+|-
+|Entertaining
+| 
+| 
+| 
+|-
+|Good customer experience
+| 
+| 
+|<font color="green">7 
+|-
+|Child friendly
+| 
+| 
+|<font color="green">1 
+|-
+|Spam
+|<font color="red">85
+| 
+| 
+|-
+|Annoying ads or popups
+| 
+| 
+| 
+|-
+|Bad customer experience
+|<font color="red">134
+| 
+|
+|-
+|Fraud, scam, phishing
+|<font color="red">510
+| 
+| 
+|-
+|Malicious content, viruses
+|<font color="red">69
+| 
+|
+|-
+|Browser exploit
+| 
+| 
+|
+|-
+|Spyware or adware
+| 
+| 
+| 
+|-
+|Adult content
+|<font color="red">19
+| 
+| 
+|-
+|Hateful, violent or illegal content
+|<font color="red">163
+| 
+|
+|-
+|Useless
+|38
+| 
+| 
+|-
+|Other
+|22
+| 
+| 
+|-
+|<font color="white">'''RESULT OF OUR WORK'''
+|<font color="red">Warning!<br>This site has a<br>poor reputation.
+|<font color="green">Everything is fine,<br>if the child safety<br>is not activated.
+|<font color="green">AWESOME POSSUM
+|-
+|<font color="white">'''COMBINED RATING'''
+|<center>[[File:Danger.png]]</center>
+|<center>[[File:Trusted.png]]</center>
+|<center>[[File:Trusted.png]]</center>
+|}
+'''Do NOT mess with the chart, if you have no experience with WikiTables.'''<br>
+If you ask politely, any [[Special:ListUsers/sysop|sysop]] will make you such a chart for your raid too.
+
+=Download=
+*For [http://anonym.to/http://www.mywot.com/download/ff Mozilla Firefox] 1.5 or newer (3.0 recommended).
+*For [http://anonym.to/http://www.mywot.com/download/ie AIDS Explorer] 6.0 or newer. ''Don't use this, use Firefox.''
+
+'''Don't forget to advertise a little bit for WOT to make sure every user of the target site has it!'''
+[[Category:Tools]]{{tools}}
+[[Category:Tutorials]]{{tutorials}}
+[[Category:Methods]]
+[[Category:Sites]]

