@@ -1,9 +1,9 @@
 > *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.* 
 > - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)
 
-The **[[Bibliotheca Anonoma]]** is designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens.
+The **[[Bibliotheca Anonoma]]** is a [[Git]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens [[even while offline|BibAnon_SDK]].
 
-[[SOPA|Recent events]] have sparked discussion on the need to make a new internet. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
+[[Recent events|SOPA]] have sparked discussion on the need to make a new internet, to defend from the evils of [[Copywrong]]. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
 
 So, when we wondered, "what would we want to save from the internet if we had to start over from scratch, and how would we do it?", we designed this wiki to do just that. Currently, we've archived a small but wondrous number of books and stories that we've found interesting. This library will safeguard the works of our Golden Age through the dark years for a future that can truly accept it's importance.
 
@@ -11,7 +11,6 @@ Additionally, this wiki is based on [[Gollum]], a DVCS-based wiki which allows u
 
 In order to make this project a success, we need lots of help. See [[Help]] to see what needs to be done.
 
-(Note: we need a better way to organize this messy front page)
 
 ## Tour
 
