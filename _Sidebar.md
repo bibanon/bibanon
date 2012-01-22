@@ -3,9 +3,9 @@
 ### Wiki
 
 * [[Home]]
-* [[Bibliotheca Anonoma|About this Wiki]]
+* [[About this Wiki|Bibliotheca Anonoma]]
 * [[Editing]]
-* [[https://github.com/treeofsephiroth/bibanon/|Browse The Source]]
+* [[Browse The Source|https://github.com/treeofsephiroth/bibanon/]]
 
 ### Content
 
