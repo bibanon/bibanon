@@ -1,18 +1,3 @@
-> *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.* 
-> - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)
-
-The **[[Bibliotheca Anonoma]]** is designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens.
-
-Recent events have sparked discussion on the need to make a new internet. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
-
-So, when we wondered, "what would we want to save from the internet if we had to start over from scratch, and how would we do it?", we designed this wiki to do just that. Currently, we've archived a small but wondrous number of books and stories that we've found interesting. This library will safeguard the works of our Golden Age through the dark years for a future that can truly accept it's importance.
-
-Additionally, this wiki is based on [[Gollum]], a DVCS-based wiki which allows users to check out a copy to read, edit, put on their server, or even make a fork. This way, if the main site goes down, anyone with a clone could just put it on their own server.
-
-In order to make this project a success, we need lots of help. See [[Help]] to see what needs to be done.
-
-(Note: we need a better way to organize this messy front page)
-
 ### [[Stories]]
 * [[Damaged Goods]] - What happens when Anonymous decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to 4chan about his newest patient, a triple amputee orphan. Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. But rather than tell him to rape the loli, Anonymous began to show empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and possibly even adopt her.
 * [[Blindmute Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daugther will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
@@ -85,8 +70,3 @@ In order to make this project a success, we need lots of help. See [[Help]] to s
 
 * [[Retext]] - If you're running Windows, but still want to edit the wiki with a comfy GUI while offline, use this Markdown reader in conjuction with a git clone of the whole wiki.
 * [[Mediawiki2Markdown]] - Our crappy little Mediawiki converting scripts. It's not perfect, and it causes a few problems with links, but it's the only thing we got.
-
-
----
-
-This wiki is a production of the [[Cherimoya Project]].
