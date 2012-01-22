@@ -1,49 +1,144 @@
-## PAGE LINKS
+This page details the usage of the Markdown markup language.
 
-To link to another Gollum wiki page, use the Gollum Page Link Tag.
+Markdown is a commonly used markup language across the internet, used in blogs, Reddit, and some README files.
 
-    [[Frodo Baggins]]
+If it's too much to remember, note that there are buttons in the web interface that automatically place markup tags in the page.
 
-The above tag will create a link to the corresponding page file named
-`Frodo-Baggins.ext` where `ext` may be any of the allowed extension types. The
-conversion is as follows:
+## Markdown Basics
 
-  1. Replace any spaces (U+0020) with dashes (U+002D)
-  2. Replace any slashes (U+002F) with dashes (U+002D)
+### Paragraphs
 
-If you'd like the link text to be something that doesn't map directly to the
-page name, you can specify the actual page name after a pipe:
+Paragraphs are blocks of text seperated by one or two lines. 
 
-    [[Frodo|Frodo Baggins]]
+    This is a paragraph. It has two lines.
 
-The above tag will link to `Frodo-Baggins.ext` using "Frodo" as the link text.
+    Here is another paragraph.
 
-The page file may exist anywhere in the directory structure of the repository.
-Gollum does a breadth first search and uses the first match that it finds.
+Blocks of text without seperating lines will be combined into one paragraph.
 
-Here are a few more examples:
+    This is a paragraph. It has three lines.
+    This line will be part of the same paragraph.
 
-    [[J. R. R. Tolkien]] -> J.-R.-R.-Tolkien.ext
-    [[Movies / The Hobbit]] -> Movies---The-Hobbit.ext
-    [[モルドール]] -> モルドール.ext
+    Here is another paragraph.
 
-## OTHER TAGS
+### Italics
 
-A variety of Gollum tags use a double bracket syntax. For example:
+    *Italic*
+    _Italic_
 
-    [[Link]]
+Either of these will produce _Italic_ *text*.
 
-Some tags will accept attributes which are separated by pipe symbols. For
-example:
+### Bold
 
-    [[Link|Page Title]]
+    **Bold**
+    __Bold__
 
-In all cases, the first thing in the link is what is displayed on the page.
-So, if the tag is an internal wiki link, the first thing in the tag will be
-the link text displayed on the page. If the tag is an embedded image, the
-first thing in the tag will be a path to an image file. Use this trick to
-easily remember which order things should appear in tags.
+Either of these will produce __Bold__ **text**
 
-Some formats, such as MediaWiki, support the opposite syntax:
+### Code
 
-    [[Page Title|Link]] 
+To insert code, indent lines by 4 spaces. Without this, the wiki might screw up the text.
+
+    line 1 of code
+    line 2 of code
+    line 3 of code
+
+### Lists
+
+    * An item in a bulleted (unordered) list
+	* A subitem, indented with 4 spaces
+    * Another item in a bulleted list
+
+    1. An item in a numbered (ordered) list
+    2. Another item in an numbered list
+
+### Headings
+
+To make an HTML heading (titles for sections), put some hashes in front of the title. Hashes can also be placed after the text if wanted.
+
+    ## Second-level heading
+
+    #### Fourth-level heading
+
+    ## Heading with extra hashes ##
+
+Alternatively, this syntax can also be used for more readable headings.
+
+    First-level Headings
+    ====================
+
+    Second-level Headings
+    ---------------------
+
+### Blockquotes
+
+    > "This entire paragraph of text will be enclosed in an HTML blockquote element.
+    Blockquote elements are reflowable. You may arbitrarily
+    wrap the text (place line breaks) to your liking, and 
+    it will all be parsed into a single blockquote element."
+
+    > Blockquotes are like quoted text in email replies
+    >> And, they can be nested
+
+### Horizonal lines
+
+Horizontal rules are created by placing three or more hyphens, asterisks, or underscores on a line by themselves. You may use spaces between the hyphens or asterisks.
+
+    * * *
+    ***
+    *****
+    - - -
+    ---------------------------------------
+
+### External links
+
+To make a http address clickable, just add <> tags.
+
+    <http://example-page.com/page>
+
+To use alternate text, use this syntax.
+
+    [Alternate hyperlink text](http://example-page.com/page)
+
+### Wikilinks, Embedded images and File links
+
+These functions are specific to Gollum and usable in all markup languages, so read [[Gollum Markup]] for more info on them.
+
+## Extended Markdown
+
+Gollum uses RDiscount for Markdown, which gives extended syntax.
+
+### Centering
+
+You can center text by surrounding it with arrows (-> and <-).
+
+  ->this will be centered<-
+
+### Tables
+
+Simple tables can be made with dashes and pipes.
+
+    aaa  | bbbb
+    -----|------
+    hello|sailor
+    next | line
+
+It's also possible to control horizonal alignment. A colon on the left will force left alignment (the default). A colon on the right will force right alignment. A colon on both sides will center the column.
+
+      aaa  | bbbb | cccc
+      :----|:----:|-----:
+      hello|sailor|pirate
+      next | line | third
+
+If you want to get fancy, pipes can also be placed on the sides of the tables for a cleaner look.
+
+    | aaa  | bbbb | cccc |
+    |:---- |:----:|-----:|
+    | hello|sailor|pirate|
+    | next | line | third|
+
+## Sources
+
+* [[Wikipedia Article on Markdown|https://en.wikipedia.org/wiki/Markdown]]
+* [[Markdown Cheat Sheet|http://warpedvisions.org/projects/markdown-cheat-sheet/]]
+* [[Tedwise blog post on Markdown|http://tedwise.com/markdown/]]
