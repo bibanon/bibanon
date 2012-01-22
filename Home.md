@@ -32,7 +32,3 @@ Can't decide on what to read first? Take a quick look at the content of our wiki
 The below page also lists what we are missing.
 
 [[Start your tour here|Pages]]
-
----
-
-This wiki is a production of the [[Cherimoya Project]].
