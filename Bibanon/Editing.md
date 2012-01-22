@@ -2,7 +2,9 @@ This wiki is based on Gollum, an open-source wiki built by Github, and uses a gi
 
 ## Using the web interface
 
-To use the web interface, check the [[Mirrorlist]]
+The web interface works just like any other wiki. Just click links to jump around, and click edit page to edit. Notice that some wikis may need accounts to be editable.
+
+To find websites with this feature, simply check the [[Mirrorlist]].
 
 ## Downloading a local copy
 
@@ -10,9 +12,15 @@ To use the web interface, check the [[Mirrorlist]]
 
 The [[BibAnon SDK]] contains everything you need to get the entire wiki on a USB drive for Windows, with Ruby on Rails, Git, portable Firefox, and a portable Markdown editor. Just install and go.
 
-### [[Manual Install]]
+### Manual Install
 
+To manually download the whole wiki, just install [[Git]]. After that, run this command:
 
+  git clone git://git@github.com/treeofsephiroth/bibanon-wiki.git bibanon
+
+You will have a copy of the entire wiki in the "bibanon" folder.
+
+If you want to edit through a web interface, you'll also need to set up [[Gollum]], and run it in the folder.
 
 ## Wiki markup
 

@@ -2,9 +2,7 @@ The **[[Bibliotheca Anonoma]]** is a [[Git]]-based wiki designed to collect and 
 
 ## Intro
 
-> *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.*
->  
-> - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)
+> *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.* - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)
 
 [[Recent events|SOPA]] have sparked discussion on the need to make a new internet, to defend from the evils of [[Copywrong]]. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
 
