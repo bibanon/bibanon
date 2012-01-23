@@ -1,6 +1,8 @@
 Gollum has it's own function syntax, which can be used along with any other markup language.
 
-## Page Links
+## Linking
+
+### Page Links
 
 To link to another Gollum wiki page, use the Gollum Page Link Tag.
 
@@ -28,7 +30,7 @@ Here are a few more examples:
     [[Movies / The Hobbit]] -> Movies---The-Hobbit.ext
     [[モルドール]] -> モルドール.ext
 
-## External Links
+### External Links
 
 As a convenience, simple external links can be placed within brackets and they will be linked to the given URL with the URL as the link text. For example:
 
@@ -95,7 +97,9 @@ either `px` or `em`.
 Any of these options may be composed together by simply separating them with
 pipes.
 
-## ESCAPING GOLLUM TAGS
+## Extended Syntax
+
+### Escaping Gollum tags
 
 If you need the literal text of a wiki or static link to show up in your final
 wiki page, simply preface the link with a single quote (like in LISP):
@@ -106,13 +110,7 @@ wiki page, simply preface the link with a single quote (like in LISP):
 
 This is useful for writing about the link syntax in your wiki pages.
 
-## HTML
-
-Sometimes, markup languages are not enough, so a few HTML tags can be used inside wiki pages.
-
-For security and compatibility reasons Gollum wikis may not contain custom CSS or JavaScript. These tags will be stripped from the converted HTML. See [[Sanitization]] for more details on what tags and attributes are allowed.
-
-## SYNTAX HIGHLIGHTING
+### Syntax Highlighting
 
 In page files you can get automatic syntax highlighting for a wide range of
 languages (courtesy of [Pygments](http://pygments.org/) - must install
@@ -136,7 +134,7 @@ will be ignored (this makes the blocks easier to read in plaintext).
 The block must end with three backticks as the first characters on a
 line.
 
-## MATHEMATICAL EQUATIONS
+### Mathematical Equations
 
 Page files may contain mathematic equations in TeX syntax that will be nicely
 typeset into the expected output. A block-style equation is delimited by `\[`
@@ -148,3 +146,9 @@ Inline equations are delimited by `\(` and `\)`. These equations will appear
 inline with regular text. For example:
 
     The Pythagorean theorem is \( a^2 + b^2 = c^2 \).
+
+### HTML
+
+Sometimes, markup languages are not enough, so a few HTML tags can be used inside wiki pages.
+
+For security and compatibility reasons Gollum wikis may not contain custom CSS or JavaScript. These tags will be stripped from the converted HTML. See [[Sanitization]] for more details on what tags and attributes are allowed.
