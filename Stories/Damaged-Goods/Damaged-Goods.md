@@ -2,7 +2,7 @@
 > 
 > *Nurse-Kun*
 
-[[Amputee-chan.png|width=200x]]
+[[Amputee-chan.png]]
 
 **Nurse-kun** !!hPl7vWPKR+W is a registered male nurse who posted to 4chan when his boring everyday life in a nursing home was interrupted by the arrival of a 7-year-old girl. At first he merely thought this an interesting thing to tell Anonymous about, but they pressed him to help her out... The story starts out pretty rough, but it does become something beautiful.
 
