@@ -2,7 +2,7 @@
 > 
 > *Nurse-Kun*
 
-[[Amputee-chan.png]]
+[[Amputee-chan.png|float|width=200px]]
 
 **Nurse-kun** !!hPl7vWPKR+W is a registered male nurse who posted to 4chan when his boring everyday life in a nursing home was interrupted by the arrival of a 7-year-old girl. At first he merely thought this an interesting thing to tell Anonymous about, but they pressed him to help her out... The story starts out pretty rough, but it does become something beautiful.
 
@@ -11,9 +11,9 @@ During the course of this story, the magic of the story somehow enchanted the /b
 His first post on 4chan's [/b/](//b/) appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
 This story, along with [[Blindmute Loli]], were considered one of 4chan's greatest, perhaps equal to that of [[Densha Otoko]] of [[2channel]], a story which became part of popular culture in Japan.
 
-The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii|Damaged Goods#Shii]] managed to save the entire thing beforehand.
+The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entire thing beforehand.
 
-A remastering project has begun to add the replies and drama from Anonymous into the story, so it would read more like [[Densha Otoko|Damaged Goods#Densha Otoko]].
+A remastering project has begun to add the replies and drama from Anonymous into the story, so it would read more like [[Densha Otoko]].
 
 ## Chapters ##
 
@@ -23,7 +23,7 @@ There are 23 chapters/threads in this story. Click the link below to start readi
 
 ## Reactions ##
 
-[[lolied.jpg|float|width=200x]]
+[[lolied.jpg|float|width=200px]]
 
 His /b/ threads have become 4chan legend.  The two or three hundred replies his posts receive fall into roughly one of seven categories:
 
@@ -45,10 +45,6 @@ Gravely worried that he could have died or been V&, Anonymous attempted to find 
 
 [[Shii|Damaged Goods#Shii]] thinks he was most likely afraid of being stalked by /b/. It probably wouldn't look good on the adoption papers for him to be associated with weirdos from the Internet and pooper jokes. In terms of how notoriously creepy 4chan got later on in 2008, it was probably a good move...
 
-> **[[!toggle id="dox" text="Show Dox"]]**
-
-[[!toggleable id="dox" text="""
-
 ### A Challenge to Nurse-kun
 
 On December 14, 2007, Shii received an anonymous tip from a professional statistician who was convinced Nurse-kun's story was fake. In the United States, car accidents are tabulated in a national database called the [[Fatality Analysis Reporting System|http://www-fars.nhtsa.dot.gov/Main/index.aspx]] (FARS). You can go to the FARS database yourself and query their results for 2006 and 2005. Very few children were extracted from cars. The guy claimed he couldn't find anyone matching Nurse-kun's description at all. Use the database yourself and see if you can determine Nurse-kun's home state. 
@@ -65,9 +61,6 @@ And indeed, it was.
 Comment by J. Stone: *I believe I have found out the location of nurse-kun and ampu-tan I am 90% sure that they are located somewhere around Washington DC.*
 
 > For the first outing in chapter 16 they went to the Kennedy Center for Performing arts (Which in 1992 was renovated to be more handicapped accessible) The Smithsonian National Air and Space Museum I am not that sure about the library though. Next in chapter 19 for the hockey game they went to the Version center which hosts the Washington Capitols. And finally in chapter 21 when they went on their walk it was at the Tidal Basin and or West Potomac Park which as Nurse-kun stated is usually packed with people watching the cherry blossoms bloom. 
-
-> **[[!toggle id="dox" text="Hide Dox"]]**
-"""]]
 
 ## (Finally) The Ending ##
 
@@ -103,10 +96,10 @@ All pictures have now been discovered in their original resolution from Sarafan'
 
 ## Thread Archives ##
 
-These are direct html files of the original threads as they looked like on 4chan, as posted to [[Wikichan]]. All of these would have been lost due to Rapidshare's deletion policy, if not for a previously undiscovered upload that [[Sarafan|Damaged Goods#Sarafan]] made. We used these to add Anonymous's replies to Nurse-kun threads, as the ones on Wikichan and Shii's site only contained the story.
+These are direct html files of the original threads as they looked like on 4chan, as posted to [[Wikichan]]. All of these would have been lost due to Rapidshare's deletion policy, if not for a previously undiscovered upload that [[Sarafan|Damaged Goods Characters#Sarafan]] made. We used these to add Anonymous's replies to Nurse-kun threads, as the ones on Wikichan and Shii's site only contained the story.
 
 * [Everything, including fanart threads](http://web.archive.org/web/20071117085619/http://www.megaupload.com/?d=14WN2BDI)
 
 ## Sources
 
-* [Nurse-kun](http://shii.org/knows/Nurse-kun) on [Shii](/Shii)'s wiki
+* [Nurse-kun](http://shii.org/knows/Nurse-kun) on [[Shii]]'s wiki

@@ -32,6 +32,18 @@ On this wiki, we allow only two markup languages: [[Markdown]] and [[Mediawiki]]
 
 (TODO: There is no way to upload files through Gollum's web interface, so we will need to [[make a mod|Upload Files]] to do so. I'm guessing extension and size restrictions like with ikiwiki...)
 
+### File Linking
+
+Files can be easily linked to 
+
+See [[File Links|Gollum Markup#File Links]] for more information about linking to files.
+
+### Git
+
 You'll need to clone the whole wiki with [[Git]] first. Then, put your files in any directory. Finally, link to it the pages where it's needed, and if it's an image, it will be displayed.
 
-See [[File Links|Gollum Markdup#File Links]] for more information about linking to files.
+### File policy
+
+For some reason, Gollum does not use a single namespace when dealing with files. (why pages and not files?) 
+
+Therefore, all files must be in the same directory as the file it links to, or otherwise it won't be linked.
