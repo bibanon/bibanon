@@ -1,0 +1,9 @@
+Squid is a [[proxy]] server and web cache daemon. It has a wide variety of uses, from speeding up a web server by caching repeated requests, to caching web, DNS and other computer network lookups for a group of people sharing network resources, to aiding security by filtering traffic. Although primarily used for HTTP and FTP, Squid includes limited support for several other protocols including Transport Layer Security, Secure Sockets Layer, Internet Gopher and HTTPS. The development version of Squid (3.0) includes preliminary IPv6 support. 
+
+Squid has been developed for many years. Early work on the program was completed at the University of California, San Diego and funded via two grants from the National Science Foundation. 
+
+Squid is primarily designed to run on Unix-like systems but runs perfectly on Windows-based systems with Cygwin. Released under the GNU General Public License, Squid is free software.
+
+Download: http://www.squid-cache.org/Download/
+
+[[Category:Tools]]

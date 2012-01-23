@@ -1,0 +1,5 @@
+Someone penetrates a website and dumps it's user list/passwords. In the past this has been seemingly trivial targets, like a sheriff or the UN bookstore, or a FBI/Civic collaborative institution like Infraguard.
+
+This information doesn't seem valuable at first(the site in question will change passwords) but what ends up happening is people re-use that password elsewhere. So an army of anons picks up those passwords and tries them on other, related sites. If they get it, great! Another penetration is on the way. If not? They start logging into work or personal e-mail addresses that re-use the password to see what else the person is signed up for, then take it from there. At worst they get dox on the person who owns the e-mail, at best they get the other penetration targets.
+
+It's like a spider's web. Each penetration creates multiple strands of web. Occasionally one of those strands leads to another penetration. From that come more strands of web. It just keeps going and going until they get bored or run out of targets.

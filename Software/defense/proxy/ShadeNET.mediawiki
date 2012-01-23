@@ -1,0 +1,29 @@
+'''ShadeNET''' is a semi-decentralized, asshole-to-asshole, friend-to-friend, peer-to-peer, whatever the fuck you want VPN. The goal of ShadeNET is to regroup /i/nsurgents and to become more productive as a whole. ShadeNET was thought up and brought to life by mepholic, Saber, and Julius_Ceaser (Jewlius). ShadeNET is meant to be an extremly flexible VPN, allowing users to be able to do anything they could do on a normal LAN.
+
+ShadeNET has been under continuous development since late 2008. Currently, ShadeNET is in beta, and is open to only certain users. 
+
+==Services==
+ShadeNET relies heavily on users providing home, dedicated, or virtual servers towards the development of new features and services available to people on the VPN.
+
+===Current Features===
+* Gateway (to the internet)
+* DNS Servers (two)
+* Web Servers
+ * 711chan
+ * asschan
+ * zerochan
+ * patriotic nigras
+ * much more...
+* VPN Only IRC Server (oh fuck it's broken)
+
+===Upcoming Features===
+* Fully functional LDAP server
+* Windows file sharing servers with LDAP support
+* Advanced routing (decreases latency between hosts)
+* Game Servers
+* In-VPN Shell Server
+
+Does anybody have any more ideas?
+
+==Technical bullshit==
+ShadeNET uses OpenVPN as the VPN software between clients and servers. At the moment ShadeNET only has one VPN server in Chicago. This isn't ideal for, lets say, a person in England connecting to a person in France over the VPN. Since the packets first have to travel cross-sea to Chicago, Illinois, USA, then have to go back across the ocean again to go back to France/England, the latency will be extremly high. The solution to this problem is to have multiple vpn servers that are connected togeather in a mesh, so clients can connect to the server that is closest to them. From there, routing on the VPN will determine how to get to another location fastest.

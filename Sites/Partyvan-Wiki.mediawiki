@@ -1,0 +1,42 @@
+__NOTITLE__
+__NOTOC__
+
+<div style="font-size:162%; border:none; margin:0; padding:.1em; margin-left: auto; margin-right: auto; text-align: center; width: 500px;">Welcome to '''the''' [[/i/nsurgency W/i/ki]]</div>
+<div style="top:+0.2em; font-size:95%;margin-left: auto; margin-right: auto; width: 400px; text-align: center;">'''irc.tsukihi.me #partyvan'''</div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:85%;margin-left: auto; margin-right: auto;text-align: center;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in English language</div>
+{{Template:NewRaids}}
+{{Template:Main Page/Header}}
+<tr>
+<td colspan="3">
+<div class='toparticlecontainer' style='width: 100%; clear: both;'>
+{{Main Page/RaidStream}}
+</div>
+<table>
+<tr>
+<td valign='top'>
+{{Template:Main Page/Ministry of Education}}
+</td>
+<td valign='top'>
+{{Template:Main Page/Ministry of State Planning}}
+</td>
+</tr>
+<tr>
+<td valign='top'>
+{{Template:Main Page/Ministry of Armament}}
+</td>
+<td valign='top'>
+{{Template:Main Page/Ministry of Armed Forces}}
+</td>
+</tr>
+<tr>
+<td valign='top'>
+{{Template:Main Page/Ministry of Military Affairs}}
+</td>
+<td valign='top'>
+{{Template:Main Page/Ministry of Urban Construction}}
+</td>
+</tr>
+</table>
+</td>
+</tr>
+{{Template:Main_Page/Sidebar}}

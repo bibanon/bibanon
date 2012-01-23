@@ -1,0 +1,114 @@
+<pre>#!/bin/bash
+# WordPress comment page enhancer
+# Usage: ./wpcomment.sh comment_file.txt author email website target/maximum post_ID user-agent http://anonym.to/http://full.path.to/wp-comments-post.php
+
+#Some user-agents:
+# Chrome: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.2.153.1 Safari/525.19
+# Firefox: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4
+# Internet Explorer: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+# Opera: Opera/9.25 (Windows NT 6.0; U; en)
+
+#WORDPRESS COMMENT BLACKLISTING METHODS:
+# 'Hold a comment in the queue if it contains # or more links. (A common characteristic of comment spam is a large number of hyperlinks.)'
+# 'When a comment contains any of these [admin defined] words in its content, name, URL, e-mail, or IP, it will be (marked as spam/held in the moderation queue).
+# One word or IP per line. It will match inside words, so "press" will match "WordPress".'
+
+if [ -z "$1" ]
+then
+	echo "Usage: comment_file.txt author email website target/maximum post_ID user-agent http://anonym.to/http://full.path.to/wp-comments-post.php"
+	exit
+fi
+
+function postdelay {
+	let "rsleep = (($RANDOM+1)%10)+20"
+	back=""
+	space=""
+	
+	for ((i=0; i < $rsleep; i++))
+	do
+		sleep 1
+		echo -n "."
+		back+="\b"
+		space+=" "
+	done
+	
+	echo -n -e "$back$space$back"
+}
+
+function randspace {
+	rndspace=""
+	for ((i = 0; i < 4; i++))
+	do
+		let "num = $RANDOM % 256"
+		rndspace+=$((echo "obase=2; $num"|bc)|sed 's/0/\%26nbsp%3B/g; s/1/ /g')
+	done
+}
+
+#Read text file for comment, put %0d%0a for newlines
+while read line
+do
+	#A & will screw with post data
+	#Add more escaping if necessary
+	comment+=$(echo "$line%0d%0a"|sed 's/\&/%26/g; s/\;/%3B/g')
+done < $1
+
+#Target post ID
+if [ $5 == "target" ]
+then
+	#One target
+	post_id=$6
+	echo "Using post $6 as target"
+elif [ $5 == "maximum" ]
+then
+	#Random target
+	echo "Using random post IDs as targets"
+else
+	echo "Set target or maximum for the fifth argument! (case sensitive) You set $5"
+	exit
+fi
+
+#echo "Author: $2"
+#echo "Email: $3"
+#echo "Website: $4"
+#echo "Comment from: $1"
+#echo "Posting to $8"
+
+#Loop for posting
+while ((1))
+do
+
+	if [ $5 == "maximum" ]
+	then
+		let "post_id = ($RANDOM+1)%(($6))"
+	fi		
+
+	#Generate new random content
+	randspace
+
+	#Post comment
+	result=$(wget -q --ignore-length --wait=1 --random-wait --user-agent "$7" -O - --post-data "author=$2&email=$3&url=$4&comment=$comment%0d%0a$rndspace&submit=Submit+Comment&comment_post_ID=$post_id" "$8")
+
+	#grep for error page (You are posting too quickly/Duplicate comment deleted)
+	echeck=$(echo $result|grep '<body id="error-page">')
+
+	if [ -z "$result" ]
+	then
+		#No response
+		postdelay
+	elif [ -z "$echeck" ]
+	then
+		#Response with no errors
+		let "posts += 1"
+		echo -n -e "\rPost #$posts"
+	else
+		#Response with error
+		postdelay
+	fi
+
+#End post loop
+done
+</pre>
+
+----
+{{Tools}}
+[[Category:Programming]]

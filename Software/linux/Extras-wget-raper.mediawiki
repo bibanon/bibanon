@@ -1,0 +1,5 @@
+BWraep script for you linuxfags out there.
+
+It simply uses wget, but threads it a bunch of times and redirects the output to /dev/null (so it doesn't eat your disk space).
+
+<del>Latest Update: http://anonym.to/http://anonymous.pastebay.com/12185</del>
