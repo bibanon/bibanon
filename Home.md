@@ -25,8 +25,4 @@ Also, even with the ability to keep an independent local copy, Git is still heav
 
 ## Tour
 
-Can't decide on what to read first? Take a quick look at the content of our wiki here. Or just use the sidebar.
-
-The below page also lists what we are missing.
-
-[[Start your tour here|Pages]]
+Can't decide on what to read first? Use the sidebar to see a category that interests you, along with a list of articles within it.
