@@ -6,6 +6,13 @@
 
 The articles linked on this page is a fraction of the pages we actually have. Please check the [[Git]] repository and link to some of these articles if possible.
 
+## Sections
+
+* [[Sites]] - A set of articles with some history about a few important sites on the internet.
+* [[Groups]] - A list of historically important groups on the internet.
+* [[People]] - A list of historically important people on the internet.
+* [[Bills]] - A list of Proposed or implemented laws that affect the internet in any significant manner.
+
 ## The Beginning
 
 * [[The WELL]] - The ideas we hold true in our forums and social networks started here in this groundbreaking BBS.
@@ -17,7 +24,11 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 
 ### Forerunners
 
-* [[Nanashi World]] - 4chan and Anonymous draw strong parallels to this community, and is actually descended from to a similar culture in Japan, the "Nameless World". Built of many colorful websites and BBSes like Ayashii World,
+* [[Ayashii World]] - *needs translation* The first anonymous textboard ever made on the internet, which bore a large community known as Nanashi World. [[4chan]] and [[Anonymous]] draw strong parallels to it's community, and it is actually a direct descendant, at least when it comes to the code.
+* [[2channel|2ch]] - The largest textboard ever built on the internet, larger than [[2chan]] and 4chan combined. It is nearly equal to the media in cultural importance.
+* [[2ch History Timeline]] - *needs translation* A complete timeline of 2channel history. It's from the Japanese Wikipedia, and needs to be translated to English.
+* [[world2ch]] - An attempt to bring the concept of anonymous textboard beyond Japan. It was a world where Japanese and English-speakers alike mingled together for the first, and last time. 
+* [[2chan]] - An anonymous imageboard designed as the successor to 2channel. 4chan's codebase was directly descended from this site.
 * [[Something Awful]] - The site that gave 4chan it's community and culture should not itself be forgotten. These articles will unlock the paywall and allow us to understand what happened and what resided here, and how it fell into irrelevance later on. 
 
 ### 4chan
@@ -39,9 +50,9 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 
 ### Books
 
-* [[Rise_of_Anonymous]] - A plan to create a book about Anonymous's history, made by anons, for anons. For a while, [[Anonymous]]'s history parallels that of the site that bore it, 4chan. But as time went on, they went their seperate ways into a new future after [[Project Chanology]]. Exactly how did Anonymous come about, and what can we learn about successful raids in the past? 
+* [[Rise of Anonymous]] - A plan to create a book about Anonymous's history, made by anons, for anons. For a while, [[Anonymous]]'s history parallels that of the site that bore it, 4chan. But as time went on, they went their seperate ways into a new future after [[Project Chanology]]. Exactly how did Anonymous come about, and what can we learn about successful raids in the past? 
 
 ## General Internet Culture
 
-* [[Significant_Memes]] - A simple collection of articles describing all the memes that we held dear years ago and have forgotten today. It takes the descriptions of [[ED|Wiki#Encyclopedia_Dramatica]], [[LURKMOAR_Wiki]], and condenses the basics into something that will explain old memes to users easily. 
-* [[Significant_Raids]] - A sprawling description of raids that have been done by various groups on the internet, with in-depth coverage on how it was done.
+* [[Significant Memes]] - A simple collection of articles describing all the memes that we held dear years ago and have forgotten today. It takes the descriptions of [[ED|Encyclopedia Dramatica]], [[LURKMOAR Wiki]], and condenses the basics into something that will explain old memes to users easily. 
+* [[Significant Raids]] - A sprawling description of raids that have been done by various groups on the internet, with in-depth coverage on how it was done.
