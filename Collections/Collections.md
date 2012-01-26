@@ -10,6 +10,7 @@
 * [[Lulz A Corruption of LOL]] - A full music soundtrack made by anons, for anons. Was originally built on the Insurgency Wiki.
 * [[Information Library]] - InformantB900's highly informative collection of images from 4chan. This collection attempts to turn the textual components into easily editable wiki pages.
 * [[1000 Tutorials]] - 1000 Tutorials, spread by anons during Operation Payback. Contains a whole lot of useful info.
+* [[Videos]] - A list of awesome videos from around the internet to look for, just in case.
 
 ## 4chan
 
