@@ -1,6 +1,6 @@
 ### Nurse-kun
 
-[[!img nurse-kun.jpg size="300x" align=right]]
+[[nurse-kun.jpg|float|width=300px]]
 
 > “...I did kind of... want to help her.
 > I thought about the alternative: I could, of course, do nothing.
@@ -46,6 +46,8 @@ A sysop of [[Wikichan]] who tirelessly archived each thread of Nurse-kun's story
 *Also, one of his secret archives held the original html dumps of exactly what the threads looked like, along with all the fanart. We owe a lot to this /b/tard.*
 
 ### Shii ###
+
+Full Article: [[Shii]]
 
 > I wrote the suck-ass anonymous message board software that they (4chan) still use today, despite never having taken a programming class ever.
 > *- Shii*

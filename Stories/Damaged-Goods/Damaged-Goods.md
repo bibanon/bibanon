@@ -8,7 +8,8 @@
 
 During the course of this story, the magic of the story somehow enchanted the /b/tards who called themselves [[Anonymous]]. The people famous for laughing at the holocaust pressed Nurse-kun to adopt, directly made the little girl laugh (no kidding), and worked tirelessly to search for Nurse-kun when he disappeared.
 
-His first post on 4chan's [/b/](//b/) appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
+His first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
+
 This story, along with [[Blindmute Loli]], were considered one of 4chan's greatest, perhaps equal to that of [[Densha Otoko]] of [[2channel]], a story which became part of popular culture in Japan.
 
 The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entire thing beforehand.
@@ -31,7 +32,7 @@ His /b/ threads have become 4chan legend.  The two or three hundred replies his 
 2. You are a sick, [[sick fuck]].
 3. Your story warms my heart because I didn't notice that you are a pedophile.
 4. Your story warms my heart because I am a [[Pedophile]].
-5. SAGE AND SPAM DESU AGAIN
+5. NOT YOUR BLOG OP
 6. ???
 7. PROFIT!
 
@@ -43,7 +44,7 @@ Why didn't Nurse-kun update anymore? Some say that something happened during the
 
 Gravely worried that he could have died or been V&, Anonymous attempted to find him anyway, and on the last [text thread](http://dis.4chan.org/read/games/1180821777/601-640) he made, they discussed to find out the truth. The results are saved in the sections below. Since 4chan text threads are never deleted, that thread spans 4 years of replies, so check it out if you're interested.
 
-[[Shii|Damaged Goods#Shii]] thinks he was most likely afraid of being stalked by /b/. It probably wouldn't look good on the adoption papers for him to be associated with weirdos from the Internet and pooper jokes. In terms of how notoriously creepy 4chan got later on in 2008, it was probably a good move...
+[[Shii]] thinks he was most likely afraid of being stalked by /b/. It probably wouldn't look good on the adoption papers for him to be associated with weirdos from the Internet and pooper jokes. In terms of how notoriously creepy 4chan got later on in 2008, it was probably a good move...
 
 ### A Challenge to Nurse-kun
 
@@ -96,9 +97,9 @@ All pictures have now been discovered in their original resolution from Sarafan'
 
 ## Thread Archives ##
 
-These are direct html files of the original threads as they looked like on 4chan, as posted to [[Wikichan]]. All of these would have been lost due to Rapidshare's deletion policy, if not for a previously undiscovered upload that [[Sarafan|Damaged Goods Characters#Sarafan]] made. We used these to add Anonymous's replies to Nurse-kun threads, as the ones on Wikichan and Shii's site only contained the story.
+These are direct html files of the original threads as they looked like on 4chan, as posted to [[Wikichan]]. All of these would have been lost due to Rapidshare's deletion policy, if not for a previously undiscovered upload that [[Sarafan]] made. We used these to add Anonymous's replies to Nurse-kun threads, as the ones on Wikichan and Shii's site only contained the story.
 
-* [Everything, including fanart threads](http://web.archive.org/web/20071117085619/http://www.megaupload.com/?d=14WN2BDI)
+* <s>[Everything, including fanart threads](http://www.megaupload.com/?d=14WN2BDI)</s> Baleeted again due to [[Megaupload]] raid. Why?
 
 ## Sources
 

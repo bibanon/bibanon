@@ -17,3 +17,6 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 ## [[Reddit]]
 
 * (nothing here for now, but I know that there have been really good stories posted to Reddit.)
+
+* [[Rome Sweet Rome]] - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
+* [[1984 Sweet 1984]] - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.

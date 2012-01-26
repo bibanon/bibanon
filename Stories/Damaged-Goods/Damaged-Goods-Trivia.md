@@ -1,7 +1,3 @@
-> **[[!toggle id="trivia" text="Show Trivia"]]**
-
-[[!toggleable id="trivia" text="""
-
 ### Misc.
 
 * Nurse-kun probably gave the girl a [Terry's Chocolate Orange](https://en.wikipedia.org/wiki/Terry%27s_Chocolate_Orange). These are pretty god damn tasty, but as in the story, they are a rather difficult candy to open, thus why he "broke" it beforehand.
