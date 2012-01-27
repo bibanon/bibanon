@@ -1,18 +1,18 @@
-
-
 ## Introduction
 
 In 1931, the Empire of Japan launched a full-scale invasion of China in reaction to the Mukden Incident, a train bombing by their own agents in Manchuria. While the action was condemned by the League of Nations, no country was willing to intervene.
 
-Without a single drop of hope, Chiang Kai-Shek and his band of merry Nationalists could only run away as their country slipped right out of their hands. Even worse, Manchuria was the site of the former imperial capital, Beijing. In this city was the Emperor's gigantic treasure trove of items, coming from every single part of Chinese history. The legacies that had been accumlated over millenia by this ancient culture might just join the ranks of the Library of Alexandria.
+With no hope in winning a single battle, Chiang Kai-Shek and his band of merry Nationalists could only run away as their country slipped right out of their hands. Even worse, Beijing was within miles of occupied land. In this city was the Emperor's gigantic treasure trove of items, coming from every single part of Chinese history. And with imperialist invaders pillaging, the legacies that had been accumlated over millenia by this ancient culture might just join the ranks of the Library of Alexandria.
 
-To prevent disaster, Chiang Kai-Shek ordered the most valuable pieces to be moved out in an impressive feat of human will. More than 13,000 boxes were carted off by train, horse, and foot as the Japanese advanced further inland.
+To prevent disaster, Chiang Kai-Shek ordered the most valuable pieces to be moved out in an impressive feat of human will. More than 13,000 boxes were carted off by train, horse, and foot as the Japanese advanced further inland. The threat of the  Japanese was soon replaced by the rebellion of the Chinese Communists, tired of his arbitrary dictatorship.
 
-Even as the Japanese were forced to surrender in 1945, the better trained partisans of Mao Zedong rose up with the support of the people, and the Chinese Civil War began. By 1948, when defeat was clear, Chiang Kai-Shek and his forces simply moved to the former Japanese colony of Taiwan. Along with them came the last 3,000 crates that had yet to fall to the ravages of war. At the very least, some of the greatest legacies of human civilization were safe, if only for a little while more.
+By 1948, when defeat was clear, Chiang Kai-Shek and his forces simply moved to the former Japanese colony of Taiwan. Along with them came the last 3,000 crates that had yet to fall to the ravages of war. At the very least, some of the greatest legacies of human civilization were safe, if only for a little while more.
 
-Why do I tell this story about something seemingly unrelated? Because when it comes to the treasures of the internet, few have bothered to look for the best treasures and archive them. All communities will die someday, and even the most popular webpages will be forgotten. It's too naive to believe that we will always be able to see such data whenever we want.
+Why do I tell this story? Because when it comes to the treasures of the internet, there happen to be strong parallels. Hostilities have long been exchanged between the internet and old corporate empires, but now our Mukden Incident has begun. 
 
-If that wasn't enough, our Mukden Incident has begun. [[SOPA, PIPA|SOPA]], [[ACTA]], the raid on [[Megaupload]], all of these hint to a future where people are no longer given the freedom to enjoy these treasures. There could be multiple excuses;  supposed copyright infringement, a witch-hunt against child pornography, and ever more stringent restrictions in the interest of "national security".
+[[SOPA, PIPA|SOPA]], [[ACTA]], the raid on [[Megaupload]], all of these hint to a future where people are no longer given the freedom to enjoy these treasures. There could be multiple excuses;  supposed copyright infringement, a witch-hunt against child pornography, and ever more stringent restrictions in the interest of "national security".
+
+Neither do we have a clear collection of treasures to carry off  All communities will die someday, and even the most popular webpages will be forgotten. Websites are born and deleted every day, without detailed knowledge of what that data contained. It's too naive to believe that we will always be able to see such data whenever we want.
 
 Each of the stories collected
 

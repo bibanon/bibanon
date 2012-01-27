@@ -1,8 +1,6 @@
-## File Formats
-
 Because we will be archiving a variety of formatted materials which MUST stay readable and easily convertible in the near future, we'll make a preliminary list of what formats need to be used on the wiki.
 
-### Documents
+## Documents
 
 * Wiki Markup Language: **[[Markdown]]**
   * Markdown is an easily readable markup language that helps makes text files not only readable, but parsable. Since it's the most common non-html markup, all articles should be converted to this format.
@@ -15,7 +13,7 @@ Because we will be archiving a variety of formatted materials which MUST stay re
 * Ebook: **EPUB**
   * A container format using web formats, optimized for e-books to be read on e-readers, rather than computers. It's quite portable and can be easily be generated from markdown with [[Pandoc]]. All books formatted for distribution MUST be in this format.
 
-### Image formats
+## Image formats
 
 * Lossy compression: **JPEG**
   * Lossy compression is used for real-life pictures that do not need as much info for the eye. This includes anything that came out of a camera.
@@ -27,7 +25,7 @@ Because we will be archiving a variety of formatted materials which MUST stay re
     * An addon to the PNG format that gives animation abilities in addition the the existing abilities of GIF. It's supported well in Firefox, but not at all in other browsers or image viewers.
     * If we implement this [APNG compatibility library](https://github.com/davidmz/apng-canvas) in [[Gollum]], the images will animate fine in IE9, Chrome, and Safari. 
 
-### Audio
+## Audio
 
 * Lossy compression: **OGG**
   * A common [[Copyleft]] MP3 alternative that has built-in support in all browsers (with the exception of IE, which needs VLC installed). Should be used with music  or other recordings. 
@@ -35,3 +33,14 @@ Because we will be archiving a variety of formatted materials which MUST stay re
   * To convert from mp3/wma to OGG, you can use [[http://media.io/|Media.io]], or use [Audacity](http://audacity.sourceforge.net/) to take in mp3 and export as OGG. To convert it back, import the OGG and export as MP3. Since both formats are lossy, there will be a marginal difference in sound quality going back and forth.
 * Lossless compression: **FLAC**
   * A common [[Copyleft]] WAV alternative that reduces file size without compromising audio quality.
+
+## Video
+
+*Note that we don't allow the archival of video as of yet, but we are pondering a solution...*
+
+### Subtitling
+
+* Simple Subtitles: **SRT**
+  * The SRT format is as simple as you can get: Just time markers and subtitles. This is preferred if at all possible, as it is easier to read, is widely supported, and has a smaller size compared to the alternatives.
+* Advanced Subtitles: **SSA/ASS**
+  * If there is a real big need to get fancy for any random reason, the SSA file format must be used.

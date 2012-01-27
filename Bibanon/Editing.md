@@ -1,5 +1,9 @@
 This wiki is based on Gollum, an open-source wiki built by Github, and uses a git repository with .md files to store wiki pages.
 
+## [[Content Policy]]
+
+We would prefer going without restrictions on what can be posted (it would be difficult to enforce anyway), but in the spirit of common decency, please follow the [[Content Policy]] while adding data to the wiki.
+
 ## Using the web interface
 
 The web interface works just like any other wiki. Just click links to jump around, and click edit page to edit. Notice that some wikis may need accounts to be editable.
