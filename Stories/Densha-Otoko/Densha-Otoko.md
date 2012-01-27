@@ -28,6 +28,12 @@ What do we do now? We need the translation. I guess we're going to have to be re
 
 And if shit hits the fan and we haven't prepared, [we'll be these guys](https://www.youtube.com/watch?v=Tvfwxa1Nwi0&feature=related).
 
+## TV drama Subtitles
+
+[[Subtitles]] are a different story. We have every single one archived.
+
+See [[Densha Otoko Subtitles]] for more info.
+
 ## Characters
 
 * **Train Man** - The main character. A self-professed anime/game nerd who frequents Akihabara, the technology/anime/idol Mecca of the Tokyo area.
