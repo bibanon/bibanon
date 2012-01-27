@@ -1,3 +1,5 @@
+This story is one of the [[Culturally Important Treasures]] from the Internet.
+
 "[Densha Otoko, or 'Train Man'](https://en.wikipedia.org/wiki/Densha_Otoko) is the name of a very popular book published in Japan in early 2005, which tells the true story of a nerdy guy who falls in love with a girl who he saved from a drunk on a train. This entire story takes place on a Japanese bulletin board system called [[2ch]], or 'ni-channel', particularly in a thread called 'Men Being Shot from Behind', where single men get together and gripe about being single.
 
 In typical Japanese fashion, after the tremendous success of the book, both a movie version and a TV drama series were released. 'Densha Otoko' is really the "it" book of 2005 for Japan. It's a really great story and I hope that this translation helps you enjoy it, too." 
@@ -10,13 +12,15 @@ Now if only someone did the same thing for the [[Damaged Goods]] or [[Blindmute 
 
 The original archived posts are public domain and are saved here without worry.
 
-* [[Mission.1 - dinnerwhere help|dsotk1]]
-* [[Mission.2 - I've got you|dsotk2]]
-* [[Mission.3 - She gently takes my hand|dsotk3]]
-* [[Mission.4 - The time to use the cups has arrived|dsotk4]]
-* [[Mission.5 - Please don't put me in that kind of mood|dsotk5]]
-* [[Mission.6 - The miraculous final chapter|dsotk6]]
-* [[Congratulations!|dsotk7]]
+### Pages
+
+* [[Mission.1 - dinnerwhere help|dsotk-jp1]]
+* [[Mission.2 - I've got you|dsotk-jp2]]
+* [[Mission.3 - She gently takes my hand|dsotk-jp3]]
+* [[Mission.4 - The time to use the cups has arrived|dsotk-jp4]]
+* [[Mission.5 - Please don't put me in that kind of mood|dsotk-jp5]]
+* [[Mission.6 - The miraculous final chapter|dsotk-jp6]]
+* [[Congratulations!|dsotk-jp7]]
 
 ## English Translation
 
@@ -28,11 +32,21 @@ What do we do now? We need the translation. I guess we're going to have to be re
 
 And if shit hits the fan and we haven't prepared, [we'll be these guys](https://www.youtube.com/watch?v=Tvfwxa1Nwi0&feature=related).
 
-## TV drama Subtitles
+### Pages
 
-[[Subtitles]] are a different story. We have every single one archived.
+* [[Mission.1 - dinnerwhere help|dsotk1]]
+* [[Mission.2 - I've got you|dsotk2]]
+* [[Mission.3 - She gently takes my hand|dsotk3]]
+* [[Mission.4 - The time to use the cups has arrived|dsotk4]]
+* [[Mission.5 - Please don't put me in that kind of mood|dsotk5]]
+* [[Mission.6 - The miraculous final chapter|dsotk6]]
+* [[Congratulations!|dsotk7]]
 
-See [[Densha Otoko Subtitles]] for more info.
+## [[TV drama]]
+
+The Densha Otoko TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of jokes and touching moments. Along with that comes a easily understandable look into the world of [[2channel]], otakus, and the  right from the beginning. This drama is well-worthy of the title
+
+See [[Densha Otoko TV Drama]] for more info and subtitles, and also to help translate.
 
 ## Characters
 
@@ -40,6 +54,12 @@ See [[Densha Otoko Subtitles]] for more info.
 * **Hermes** - A young lady of proper upbringing, with whom Train Man falls in love.
 * **[[The 2-channelers|2ch]]** - The anonymous residents of the 2ch BBS system. They are witness to Train Man's romantic coming-of-age, and also offer wisdom, advice and support.
 * **Nakano Hitori** (Naka no Hito) - The 'Densha Otoko' archivist. "nakano hitori" means "one of them"; it's the penname of the anonymous 2-channeler who compiled all the original posts into a website, which started the 'Densha Otoko' phenomenon.
+
+## Critical Analysis
+
+A great writer has made an awesome critical analysis into the story, how people reacted, and how it affected Japan.
+
+[[Densha Otoko Analysis]]
 
 ## Sources
 
