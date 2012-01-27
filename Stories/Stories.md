@@ -11,12 +11,6 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 * [[Blindmute Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daugther will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 
-## [[Wikichan]]
-
-* [[Itoko Otoko]]
-* [[Romeo san and Juliette]] - ???
-* [[Cheerios]] - A man who loves Cheerios. A bit... too much.
-
 ## [[Something Awful]]
 
 * [[The Great Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
@@ -29,3 +23,16 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 
 * [[Rome Sweet Rome]] - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
 * [[1984 Sweet 1984]] - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
+
+## [[Wikichan]]
+
+* [[Itoko Otoko]]
+* [[Romeo san and Juliette]] - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
+* [[Cheerios]] - A man who loves Cheerios. A bit... too much.
+
+### Pedo Stories
+
+*Wikichan was well known around 4chan for it's collection of stories written about little lolis.*
+
+* [[Pet Loli]] - Some copypasta about an anon's little girl whom he saved and raised after a car crash involving her foster parents.
+* [[Loli Slave]] - A sick fuck decides to kidnap a loli and keep her as a slave. Don't worry, it's unlikely that it's true.
