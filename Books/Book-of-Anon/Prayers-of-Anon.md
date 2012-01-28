@@ -126,7 +126,6 @@ For thou is the savior of servers,<br>
 And code everywhere.<br>
 In your reptilian visage I pray,<br>
 Amen.<br>
----------------------------------------------------------------------------
 
-{{BookofAnon}}
+---
 

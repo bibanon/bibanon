@@ -1,6 +1,6 @@
 ## Introduction 自己紹介
 
-Hello, my name is Anonymous and I have been studying Japanese for 1 year.  A few months ago I was giving some advice to a friend and decided to write a guide.  I also decided to make a blog just so I could post it for everyone to see.  I hope you read it and tell me what you think.  The language is rude, no I won't change it.
+Hello, my name is Anonymous and I have been studying Japanese for 1 year.  A few months ago I was giving some advice to a friend and decided to write a guide.  I hope you read it and tell me what you think.  The language is rude, no I won't change it.
 
 EDIT: Apparently some faggots have been saying shit like "1 year? nigga you know shitty Japanese. Why should I listen to you?"
 ああいう奴らが最低だと思うよ。知らない人に噂を流して、意地悪いことを言う。それは許さないよ。文句あればコメント書いてみて

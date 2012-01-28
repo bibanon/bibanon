@@ -14,7 +14,7 @@ We've saved here some torrent/magnet files that could be useful as sources for s
   * [[3.0 FINAL Torrent File|antinewfag3.0.torrent]]
 * [[Insta Oldfag kit]]
   * [Magnet Link](magnet:?xt=urn:btih:F910489FB4CC465E040F57FE33614F2227F2D71E)
-  * [[Torrent File|instaoldfagkit]]
+  * [[Torrent File|instaoldfagkit.torrent]]
   * [Website](http://info.stylee32.net/index.php?dir=instaoldfagkit)
 
 ## Books

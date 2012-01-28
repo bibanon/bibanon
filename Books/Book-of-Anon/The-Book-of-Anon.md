@@ -1,45 +1,41 @@
-The basic idea of the project is to take the Bible as a template and change it so that it reflects the belief and culture of Anon.
-**Still under heavy construction.**
-Only 3 more books to go and a fuck-ton of adding onto a far few of the books. After all the books have been done. I will edit and format them and paste the link of a cleaned up PDF har.
+The basic idea of this project is to take the Bible as a template and change it so that it reflects the belief and culture of Anon.
 
-## Pages
-
-[[!map pages="*/The_Book_of_Anon/*"]]
+This was planned to be the holy book of [[The Church of Anon]]. Because of it's useful historical content, much of the Books have been incorporated into other parts of this library.
 
 ## Book list ##
 
-* Prayers and Ceremonies
+### Prayers and Ceremonies
 
-  1. [Prayers of Anon](Prayers_of_Anon) (Book of Common Prayers to strengthen anons without blackup.)
+  1. [[Prayers of Anon]] (Book of Common Prayers to strengthen anons without blackup.)
 
-* Old Excrement 
+### Old Excrement 
 
-  1. [The Book of Genesis](The_Book_of_Genesis) - The creation of the internet and the coming of Anon and Femanon in the Garden of Random. Completed. Should be renamed. Book of First Post, Book of Memesis, Book of 1 GET
-  1. [The Book of bday](The_Book_of_bday) (Exodus, how Capn freed the btards and took them to 7chan)(In Progress)
-  1. [The Book of Tubes](The_Book_of_Tubes) (Leviticus I, will be inspiredcopypastad from The Rules of the Internet)(In Progress)
-  1. [The Book of Insurgency](The_Book_of_Insurgency) (Leviticus II, will be inspiredcopypastad from The Rules of i). If a rulesuggestion doesn't fit in either book, it can be a beatitude to be put in another book.
-  1. [The Book of Numbers](The_Book_of_Numbers) (Numbers, arrival at 7chan)(In Progress)
-  1. [The Book of Copypasta](The_Book_of_Copypasta)(Completed, but needs organizing into Chapters and Verses)
-  1. [The Book of Memes](The_Book_of_Memes) (Proverbs, all the memes out there) (In Progress)
-  1. [The Book of Gaia](The_Book_of_Gaia) (completed but could use more lulz)
+  1. [[The Book of Genesis]] - The creation of the internet and the coming of Anon and Femanon in the Garden of Random. Completed. Should be renamed. Book of First Post, Book of Memesis, Book of 1 GET
+  1. [[The Book of bday]] (Exodus, how Capn freed the btards and took them to 7chan)(In Progress)
+  1. [[The Book of Tubes]] (Leviticus I, will be inspiredcopypastad from The Rules of the Internet)(In Progress)
+  1. [[The Book of Insurgency]] (Leviticus II, will be inspiredcopypastad from The Rules of i). If a rulesuggestion doesn't fit in either book, it can be a beatitude to be put in another book.
+  1. [[The Book of Numbers]] (Numbers, arrival at 7chan)(In Progress)
+  1. [[The Book of Copypasta|Copypasta]] (Needs moar)
+  1. [[The Book of Memes]] (Proverbs, all the memes out there) (In Progress)
+  1. [[The Book of Gaia]] (completed but could use more lulz)
   1. The Book of Jailbait (Song of Solomon, erotic copypasta)
-  1. [The Book of Intentionally Left Blank](The_Book_of_Intentionally_Left_Blank) (Completed) 
+  1. [[The Book of Intentionally Left Blank]] (Completed) 
 
-* New Excrement 
+### New Excrement 
 
   1. The Book of 4chan (Gospel about Raptor Jesus)
-  1. [The Book of 7chan](The_Book_of_7chan) (also Gospel)
-  1. [The Book of 420chan](The_Book_of_420chan) (also Gospel)
+  1. [[The Book of 7chan]] (also Gospel)
+  1. [[The Book of 420chan]] (also Gospel)
   1. The Book of 12chan (also Gospel)
-  1. The Book of Raids (Alex Wuori, Hal Turner, Habbo, and all the other major achievements in Anon history)
-  1. [The Book of Loli](The_Book_of_Loli) (Blind Mute Loli story)(Re-Completed, still needs organizing into Chapters and Verses. Organized into days though.)
-  1. [The Book of Desu](The_Book_of_Desu) (Desu Desu Desu Desu Desu Desu)(In Progress)
-  1. [The Book of Catnarok](The_Book_of_Catnarok) (Revelation, about the end of the world) (In Progress)
+  1. [[The Book of Raids|Rise of Anonymous]] (Alex Wuori, Hal Turner, Habbo, and all the other major achievements in Anon history)
+  1. [[The Book of Loli|Blindmute Loli]] (Blind Mute Loli story)(Re-Completed)
+  1. [[The Book of Desu]] (Desu Desu Desu Desu Desu Desu)(In Progress)
+  1. [[The Book of Catnarok]] (Revelation, about the end of the world) (In Progress)
 
 ### Christfag bible books (in order) ###
 
 
-* **Old Testament:** 
+**Old Testament:** 
 
 1. Genesis 
 1. Exodus 
@@ -73,7 +69,7 @@ Only 3 more books to go and a fuck-ton of adding onto a far few of the books. Af
 1. Ezekiel
 1. Daniel
 
-* **New Testament:**
+**New Testament:**
 
 1. Matthew
 1. Mark
@@ -117,5 +113,5 @@ I'm no fucking writer but is anyone actually working on the missing books? Serio
 
 ## See Also ##
 
-* [Anonymous](Anonymous)
-* [Encyclopedia Dramatica](Encyclopedia_Dramatica)
+* [[Anonymous]]
+* [[Encyclopedia Dramatica]]

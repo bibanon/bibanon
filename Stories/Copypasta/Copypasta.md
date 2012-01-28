@@ -1,8 +1,8 @@
-== SAMBIA ==
+## SAMBIA ##
 In their tribal villages the Sambia segregate the sexes as much as possible. Men and women each have their own paths and meeting places. The boys have no contact whatever with the girls. The initiation process for them begins somewhere between ages 7 and 10. During the first phase, which lasts until they are about 15, they are expected to suck the PENIS of a mature boy every night and swallow the sperm. Without regular ingestion of male seed, the Sambia believe, boys will never grow up into strong, mature men.
 At first some of the boys dislike having to do this, but gradually all come to enjoy it and often strong ties of friendship are formed between the sucker and the sucked. After puberty the boys enter the second phase of initiation: it is now their turn to provide seed for the benefit of the younger ones. They do this until, at around age 22, they marry. Marriage terminates the young man's homosexual life, since once his PENIS has penetrated a woman's vagina it is no longer considered clean and it would be dangerous for any other male to touch it.
---------------------------------------------------------------------------------------------------
-== LISA ==
+
+## LISA ##
 I was 20 years old and working as a plumber when I noticed a beautiful girl
 at a pub I frequently visited with my friends. Soon I tried to chat her up
 and actually had success.
@@ -140,13 +140,13 @@ white trousers were splattered with my blood. I could see it dropping on her
 clogs. She arced the knife around the base of my PENIS. She had only cut deep
 enough to cut a few the blood vessels. The band clamped onto my PENIS kept it
 rigid the whole time. Little by little the knife cut deeper and deeper.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== 5.3 GIGS OF CP ==
+
+## 5.3 GIGS OF CP ##
 I just finished "Erasing" over 5.3 gigs of child porn from my computer.
 
     I assume that there are two reactions at this point: "lol retard why waste all that porn" and "omfg you goddamn sicko you should burn". Well, I guess I can see where either side is coming from, so allow me to explain.
 
-    I think it's a combination of several things that made me do it: paranoia, guilt, and loss of interest in my current material. First the paranoia. I have always taken what I consider to be extremely careful precautions to not view any websites without a proxy or without having plausible deniability (such as viewing archived LS websites on Google cache and Archive.org, the latter of which is still around to this day). I hid my porn in encrypted TrueCrypt archives protected by a 20+ pseudorandom character password which I never wrote down, and hid those archives in a quite clever manner which would be nigh-impossible to track down without repeated physical access to my computer--and even then, to open them would require a software or hardware keylogger, both of which I checked for regularly. I only used newsgroups, Winny, and Share to get my material, all of which are essentially immune from police monitoring. Despite all this, I couldn't help but feel a specter of fear every time I stepped foot out of my home, as I imagined returning only to be met with police with their guns drawn. Recently, I downloaded a short video clip from Share, and upon opening it, it automatically attempted to retrieve a .wmv license file from some remote server. This freaked me out immensely, as I imagined this being a "honeypot" file that was meant to lure people in and circumvent their other security measures by making a direct connection with some FBI server and log our IP addresses. It probably was one of the top specific instances that led to this decision. (continued)
+    I think it's a combination of several things that made me do it: paranoia, guilt, and loss of interest in my current material. First the paranoia. I have always taken what I consider to be extremely careful precautions to not view any websites without a proxy or without having plausible deniability (such as viewing archived LS websites on Google cache and Archive.org, the latter of which is still around to this day). I hid my porn in encrypted TrueCrypt archives protected by a 20+ pseudorandom character password which I never wrote down, and hid those archives in a quite clever manner which would be nigh-impossible to track down without repeated physical access to my computerand even then, to open them would require a software or hardware keylogger, both of which I checked for regularly. I only used newsgroups, Winny, and Share to get my material, all of which are essentially immune from police monitoring. Despite all this, I couldn't help but feel a specter of fear every time I stepped foot out of my home, as I imagined returning only to be met with police with their guns drawn. Recently, I downloaded a short video clip from Share, and upon opening it, it automatically attempted to retrieve a .wmv license file from some remote server. This freaked me out immensely, as I imagined this being a "honeypot" file that was meant to lure people in and circumvent their other security measures by making a direct connection with some FBI server and log our IP addresses. It probably was one of the top specific instances that led to this decision. (continued)
     Next, guilt. While I have struggled mightily with accepting my pedophilia, and debated for countless hours with myself over whether or not I should do anything to aid or abet it (such as downloading CP), I eventually came to the conclusion that it hurt no one as long as I followed certain guidelines:
     Rule 1, I could not spend any money whatsoever on it, as this would fuel more porn being produced. I don't pretend to believe that the vast, vast majority of CP is exploitation and rape by any definition of the word, and that the children involved suffer greatly. I love kids (well, babies are highly annoying, but the rest I enjoy), and I don't enjoy the idea of promoting their suffering so that I can jerk off in my bedroom.
     Rule 2, I could not trade CP with anyone, because this is simply one step removed from paying in my mind. I don't know if any of the people I would be trading with would have my same standards, so it could be that I would be indirectly encouraging the breaking of Rule 1.
@@ -155,9 +155,9 @@ I just finished "Erasing" over 5.3 gigs of child porn from my computer.
 
     It's ironic that I made this decision right as I learned how to access HUNDREDS of gigs of CP, for free, at high speeds, essentially anonymously. For those of you wondering how, the devices are listed above, though you'll have to do your own searching on how to use them to get the material. I think the fact that I decided to get rid of it all on the eve of finding the jackpot of all CP caches means it's that much more final. I highly doubt I'll ever download another CP file again, or even attempt to view them on 4chan or other random imageboards that I go to. That being said, I don't want to preach to those who still have/continue to gain more CP to do what I've done and delete it all. I understand how you feel, and if I knew 6 months ago about finding CP what I know now, I'd probably never leave the house. Still, I think it's good to hear a story from someone who's been on both sides of the fence.
 
-    Also the pictures I have posted are of a girl whose name I don't know, but is so incredibly adorable that I had to share them. Every time I found a new LS set of her, it was like winning the lottery. I kept these two legal pictures (which I will hide regardless, due to my essentially ever-present paranoia--kind of like why I'm posting through an anonymous proxy) as both a reminder of where I've been, and of my reasoning to abandon my obsession. I can hardly look at this girl's face without feeling both gushy at how beautiful she is, and horrible at the thought of my past actions.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== FUCKING STUPIDE IMMATURE /B/TARDS ==
+    Also the pictures I have posted are of a girl whose name I don't know, but is so incredibly adorable that I had to share them. Every time I found a new LS set of her, it was like winning the lottery. I kept these two legal pictures (which I will hide regardless, due to my essentially ever-present paranoiakind of like why I'm posting through an anonymous proxy) as both a reminder of where I've been, and of my reasoning to abandon my obsession. I can hardly look at this girl's face without feeling both gushy at how beautiful she is, and horrible at the thought of my past actions.
+
+## FUCKING STUPIDE IMMATURE /B/TARDS ##
 You know, this is why I can't stand you fucking STUPID immature /b/tards. A man has died here, he had a wife and now she's a widow and lost her bread winner. Yet you think it's funny, and you think it's cool, because you don't like his art, or because he hurt the pride of the forum.
 
 Newsflash asshole, the world does not revolve around you, he was a good man, and the fact that you derive pleasure from his death is completely fucking disgusting. Anyone who would laugh at another man's death is not really a man, but an immature little snot. I hope you die soon, i'll laughmy FUCKING ASS off, you fuckign piece of nigger shit.
@@ -167,8 +167,9 @@ Newsflash asshole, the world does not revolve around you, he was a good man, and
 You know, this is why I can't stand you fucking STUPID immature /b/tards. A man has died here, he had a wife and now she's a widow and lost her bread winner. Yet you think it's funny, and you think it's cool, because you don't like his art, or because he hurt the pride of the forum.
 
 Newsflash asshole, the world does not revolve around you, he was a good man, and the fact that you derive pleasure from his death is completely fucking disgusting. Anyone who would laugh at another man's death is not really a man, but an immature little snot. I hope you die soon, i'll laughmy FUCKING ASS off, you fuckign piece of nigger shit
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== I LOVE FURRIES ==
+
+## I LOVE FURRIES ##
+
 We all are looked down upon. Not because of our skin, race, or ethnicity, but because of our belief. Truly, what is wrong at looking at animals. I have the same love for furries as a man has for his dog (a cute dog, anyway). Sure, we may fantasize about being animals and have intercourse, but we cannot stop our animal instincts. We have evolved, yet we all share the same tenacity towards animals.
 
 Instead of conforming, let us reform! Reform the barriers of society and reform the injustice caused by bigots, racists, and predjudists.
@@ -182,22 +183,24 @@ Should we be discriminated because we find chickens, foxes, antelope, dear, bear
 We will convince ourfamilies, our friends, our neighbors, our teachers, our mentors, and our lovers that we are no different. No, difference, is not the word, but advocators of peace. We advocate harmony, unity, peace, and perfection. A world of balance.
 
 This, my friends is what furries are. This is our mission. This is our objective; this is what we can and will achieve!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== HOSPITAL PHOTO ==
+
+## HOSPITAL PHOTO ##
+
 This photo was taken in a hospital after the patient was in an accident where he was responsible for a young woman's death.
 
 It is said that when you receive this image and do not repost this, the woman will look for you during the night to collect your soul.
 
 People in Laredo, Texas received this image and did not send it and were killed outside a bar; it looked as if this woman killed them. Repost it or the woman will look for you.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== NEW KID ==
+
+## NEW KID ##
+
 Ummm I'm new to this place. ^_^ And I would like a help with the introduction. So how do I get a post count and could you tell me who are the mods so I can shower them with glomps? ^^;
 
 I like anime too. I LOVE KAWAII BISHIES...anddddd i'm a hyper catgirl!! i dunno whatelse to say ;______; I'll be a sugoi poster!! (japanese for good), and won't do anything warui (japanese for bad). =^_^=
 
 arigato! (thanks you)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== SHATTERED SHIELD ==
+
+## SHATTERED SHIELD ##
 
 'I Had A Funny Feeling in My Gut'
 
@@ -248,8 +251,9 @@ It is not known what happened at the highest levels of the Kremlin on the night 
 One reason for Soviet jitters at the time was that the West had unleashed a series of psychological warfare exercises aimed at Moscow, including naval maneuvers into forward areas near Soviet strategic bastions, such as the submarine bases in the Barents Sea.
 
 The 1983 alarm also came just weeks after Soviet pilots had shot down Korean Air Lines Flight 007 and just before the start of a NATO military exercise, known as Able Archer, that involved raising alert levels of U.S. nuclear forces in Europe to simulate preparations for an attack. Pry has described this exercise as "probably the single most dangerous incident of the early 1980s." 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== INTELLIGENT LIFE ==
+
+## INTELLIGENT LIFE ##
+
 It is the year 2006 and we about to enter a new era (Though it will take a few years, if the funding is not diverted into another idiotic military invasion, of course) : NASA scientists have earmarks a few planets most likely to hold alien life and they will do what they can to find it. Possibly, we may even find intelligent life. -This is a difficult task since it is often difficult to find that in our own planet but they are hopeful that life will be detected.
 Amongst the stars is Epsilon Eridani (Yup, Spock's home star, AKA Epsilon Indi A ) at a mere 10.5 light years away , Beta CVn ( a near twin of our own Sun) and 51 Pegasus (made famous by our finding of the first extra-solar planet in 1995).
 
@@ -259,39 +263,39 @@ For this, we have spent a large part of our history trying to convert each other
 
 I am also hopeful that we will find life. No, I have faith that eventually we will. The question is: If we do find intelligent life, would this shit continue? Would we claim that our Gods are bigger than theirs? Would they? Would our grotesque Jesus appeal to them or will we alienize him for better converting?
 We can't even agree on this on this rock yet I have no doubt that we would, just as we did when we found the new world. We, as a species, are THAT dumb.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== CREATIVE ENERGY ==
+
+## CREATIVE ENERGY ##
 thanks /b/! for months i have been so low on creative energy, but today i felt so full of hate and anger after reading the links here that i sat down with a huge erection and listened to my old favourite death metal bands, and i stuck my acupunkture needles into my scrotum while i alternated between jerking off and reading the posts here and on stormfront until i ca me violently in a gheyser of blood and sperm and then /b/, then i painted my fucking once in a life masterpiece...
 i'll post it tomorrow after i've slept the damn drugs off, good night.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== STOP IT ==
+
+## STOP IT ##
 If you don't stop copy pastaing my post, I'll hunt you down like a wild animal. Some day, not too long from now, I'll find you in a mostly empty parking lot. You'll see me acroos the lot, standing there, looking at you. You'll know something is wrong, but you'll shrug it off as paranoia. You'll turn your back on me to unlock your car's door, that will be your last mistake. As soon as your back is turned, I'll smash in the back of your skull with my hammer. I'll push your twitching body into the passenger seat and drive off with your body. I'll take you out to an abandoned house nearby. I'll spend the next 72 hours violating your corpse and consuming your soul with voodoo. You will regret belittling me in an internet chatroom, I swear you will.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== YOU MAKE ME SICK ==
+
+## YOU MAKE ME SICK ##
 Oh you fucking retard. I've come to expect a certain level of stupidity from /b/tards, but you've gone beyond what I can tolerate. You fucking make me SICK! If I could find you, I slit your throat for saying something that stupid. I really, really, can't believe you said that. Just what the fuck were you thinking? What is wrong with you? Don't you have a brain? Did someone steal it? What's the problem? Don't you get it? Fucking retarded nine year old Japanese girls understand the title. It a sequel (part 2 for the retards among us) of Final Fantasy X. Hence its title Final Fantasy X-2. Did you get it that time? Or should I just kick you in the temple until you die? Because that might be better for humanity. Honest to fucking God. You make me SICK.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== JUST CURIOUS ==
+
+## JUST CURIOUS ##
 im just curious...ive been...for hentai...for a few year now...on and off during the years but it seems hentai will always be apart of me.
 
 i was just curious...i have never been able to openly admit i love hentai...infact i deny it...saying its wrong...but...i dont understand it...how can people hate hentai? im just wondering...does deep down everyone love hentai just some openly accept it, even if never admitting it? its still human beings...just 2d or at times 3d drawn...i dont understand it...i hope i can build the courage to tell people i love it...i recently told a girl (shes distant from me) and she accepted it......so maybe im learning...i dunno...
 
 no one has to post to this...please dont flame me...i just dont understand...why people would insult hentai fans....
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== 3 BURRITOS ==
+
+## 3 BURRITOS ##
 So I was just taking a shit, right, when I realize I'm massively constipated from the three Taco Bell burritos I had last night. There was no way that massive log was going to ease its way out of my o-ring without shredding it to bits. It felt like the shit was coming out sideways. I was petrified, scared to move as the shit eased its way half out of my stressed sphincter. Then, the unimaginable happened: it got stuck.
 
 I slowly moved off the toilet to the cabinent to get a tube of KY-Jelly out of it; a rather strange sight with a giant brown pickle hanging out of my ass. I quicly applied some lube to my fingers and circled the hard turd with a blob of it, hoping that the lubrication may loosen the strain. Slowly, the turd began to give way, and I used my already lubed hand to slightly tug the shit out of my ass. My fingers slowly dug into the concrete-like turd, and with a loud pop and a sharp pain, the 'thing' was finally defecated. I plopped it into the toilet and unfortunately realized there was more on the way. I stuck my lubed finger up my anus to probe, and I felt yet another hard peice of shit. Not thinking about the pain, I stuck another two fingers up my sphincter and grabbed hold of the feces. I pulled it out much like the last one. Yet another turd formed in line in my anus, and I inserted my entire fist into my anus and pulled out the stringy piece of half-digested Taco Bell "food." The gray cheese looked perversely delicious among the rest of the brown mud. I slowly plucked a piece of the cheese off the turd and guided it into my mouth; the taste was amazing. I licked the shit off all my digits rapidly, and began plunging my hand into my anus for more.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-== MODERN MAN ==
+
+## MODERN MAN ##
 "The modern man has lost his connection to the soil of his forefathers. The modern man's connection to his forefathers and the gods of his blood is lost too. He travels all across the Earth as a creature with no roots anywhere. He no longer grows his own food, he no longer catches his own fish or meat, he no longer milks the cows or collects eggs, berries, nuts, fruit and sea shells from nature. He no longer builds his own home or buries his own kin. He has lost his respect for nature, for his fatherland and for his kin, but he has gained nothing. The soul of the modern man is dead. He has lost almost everything." - Varg Vikernes
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Yeah you fucking rejected looser. Fly your ass to Japan. I'll whoop your ass Bukkake style and then throw your lame ass carcass off my god damn balcony. It's not MY fault you can't read the rest of the god damn forums to get your answer. Do you honestly think you were the first penile idiot to post a whiney fucking question about why you have to post to play? Jesus fucking christ, get the hell over yourself and stop sucking your own disease infested dick. maybe you'll actually learn something if you weren't so fucking lazy. Perhaps if you even bothered reading in the first place, you wouldn't have made half the fucking remarks that you did for then you would know that I'm not your "pal" nor would I want to be. Secondly, I'm not fucking scared of you. You couldn't even scare fucking Xenon.
 
 
 And one more thing "pal", what makes you fucking think that I am not willing to back my mouth up. I fucking dare you to come here. I'll fucking hack you apart and make a fucking stew.
 
 Shut the fuck up and go play with your toddler toys moron.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Listen up you disgusting pigs,
 
 I recently logged onto my 16 year old son's computer because I'm having trouble with my office machine. Right on his desktop he has a folder marked 4chan. I figured that it must be where he keeps his animay movies, but I opened it up and was HORRIFIED by what I saw. It was laden with child pornography, dismembered limbs, and all around deviant, sickening images. You people let my son onto your website without ANY age verification, he was looking at things that I never imagined could exist.
@@ -300,11 +304,11 @@ I will be filing legal papers soon unless you take down this offensive site or c
 
 Sincereley,
 Arthur D. Sellers
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I am a 28 year old white male with 3 children and good wife. I wasn't truely racialy aware until after I got out of the army. I have always thought that being white was good. But the first time I admitted to being a racist was when I was 25. I once was brainwashed to believe that we are all equal. I no longer believe this and it seems to me that people I have knew all my life share what I believe now but never really told me this. I think that most self-respecting whites are racialy-aware (that being 90% of the white population) I've never met anyone who does anything. And I feel thats a problem. I want to do more and to meet more people who are active in helping. I believe much can be accomplished in area but don't realy know where to start. Coming here and reading for hours upon hours is no longer good enough for me. I'm living near Hickory,North Carolina and any active members of any pro-white org that want another member e-mail me and lets talk. I'm willing to help about any program with time-consumming tasks. I have only a technical background in factories with some military training (US army airborne infantry). Some may wonder why I'm posting this here. All the time I see stories here about some dude or some girl who believes were all equal some sad cases where they couldn't find a mate and became the problem. And for some unexplainable reason come here to share there traitorious actions. We don't really care about you. For some people it's to late. Your family will never be white again but don't come here expecting to acceptance or trying to turn our views just cause you don't feel like we do. I guess, What I am really trying to say is I am opposed to the opposing view part of the forum. We should cut cost of the site by lessoning the members in the opposing view. My email is jamesdmanxxxxxxx@yahoo.com true_white_power@yahoo.com
 drxjamesx@hotmail.com
 Later, James
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear ___,
 
 You make me ___.
@@ -325,14 +329,14 @@ ___
 
 
 REPOST THIS WITH DEAR ______ (YOUR NAME) AND HAVE PEOPLE MESSAGE YOU FILLING IN THE BLANK 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 this is hilarious. stop. for just a few moments imagine the FULL detail of everyone on /b/ actualy getting riled up and going on a crusade. i am seeing 1000 nerds running out of their houses, we are spread out at a density of 50 per 500 square miles. running down the street screaming "ALL YOUR BASE ARE BELONG TO US" ripping open a jewish family's house and attempting to attack them.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Leader, my Leader, given to me by God, protect me and sustain my life for a long time
 you have rescued Germany out of deepest misery, to you I owe my daily bread
 Leader, my Leader, my belief, my light
 Leader my Leader, do not abandon me 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 "I often go on bitter nights
 To Woden's oak in the quiet glade
 With dark powers to weave a union -
@@ -347,12 +351,12 @@ Thus the wrong ones separate from the genuine ones -
 I reach into a nest of words
 then give to the good and fair
 With my formula blessings and prosperity" 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 11:15, restate my assumptions:
 1. Memes are the language of /b/.
 2. Everything around us can be represented and understood through memes.
 3. If you graph these memes, reposts emerge. Therefore: There are reposts everywhere in /b/.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sometimes I wish to go out on Saturday night.
 
 Looking back through life, I don't think I ever went out with friends on a friday/saturday evening. At all.
@@ -362,13 +366,13 @@ Sure, most people are annoying wastes of breath, but sometimes I'd like to know 
 Instead of getting drunk and stuff with stangers I study my hobbies like a science and better myself at games. It's fun, but at some point I'm going to lack games to perfect my skills.
 
 Now at least I have Dead or Alive 4 and an HDTV, but the DOA chicks can't replace real women, I guess... :/
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I don't understand how these people can insolate themselves away in their cocoons, where they cannot express their most carnal desires. The innate base desire of the human is more beautiful than all this chaff these people have built up around themselves. Tear it all down, it makes no difference. There is nothing more natural and thus true in this world than a human eating, fucking, deficating, hunting, killing, destroying. This is man, this is his nature. To hide this nature is to delude yourself.
 
 In order to avoid being enslaved in this society, you need but one thing: a self-manufactured fake credit card. Most people are not industrious enough to make one. You need to be able to interface with their devices in order to survive. Think of it this way: would you like to spend a few months of work for a lifetime of earnings or a lifetime of work for a few months of earnings?
 
 Secondarily, you cannot have permanent residency, this will just lead to entrapment. You do not need anything but yourself to produce your own content to satisfy yourself. Nothing is 'permanent' in this ephermal world anyway. If you need to use the Internet you merely enter a public library. If one of 'them' accosts you about what type of materials you're looking at, what is the point of talking to him? What is the point of talking to a robot? Who says its wrong to look at racist materials? Who says its wrong to look at 4chan in a library? Your 'society?' What are they going to do to you? You are strong, they are weak. If one of the authoritative ones comes up to you, simply ignore them, walk off like they are nothing. They can do nothing to you, they will never see you again, so why do you care what they think?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Before you read any more, let me state one thing. I am a diehard Star Wars fan, and somewhat of an obsessor. I get together with my friends and, yes, we use plastic lightsabers to fight each other. Some people may think this is weird but hey, if you're like me, you want to experiance lightsaber combat first hand. I have mastered Form II (Count Dooku's Fighting Style) using this lightsaber. This lightsaber happens to be one of my favorites, the reasons being...
 1. Cool grip. It is a little akward at first, but when you get used to it, you can fight in great comfort.
 
@@ -377,7 +381,7 @@ Before you read any more, let me state one thing. I am a diehard Star Wars fan, 
 3.Durability. This saber is exceedingly durable. Maybe not as strong as the basic lightsabers, but compared to other electronic lightsabers, this is one of the most durable.
 
 Overall, this is a great lightsaber. It is beat (in my opinion) only by Darth Maul's saber (A very rare lightsaber with dual-blades) and the Darth Vader Force FX Lightsaber (Really nice in all aspects, but very expensive).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-
 I've got a problem.
 
 I live in total fantasy. I never leave my apartment except for essentials. I stay here and torrent anime. While I'm waiting for new episodes to torrent, my life is dead. I have nothing to do and nothing to live for. At all.
@@ -385,11 +389,11 @@ I live in total fantasy. I never leave my apartment except for essentials. I sta
 I just finished watching NGE, and now I'm genuinely concerend that I have blurred fantasy and reality. All day today, even at work, I daydreamed about Asuka. I wanted to be there for her. What happened to her was the most unfair thing. The scene with the Eva series made me cry harder than anything ever has. She needed someone, not someone like Shinji who fucks everything up and whines.
 
 I can't stop thinking about her. When I think about being there for her, holding her, telling her that it's not her fault, telling her that everything will be okay, not holding her for any gains for myself... I feel so strange. My chest burns. I know I must be sick but... could these feelings to want to comfort and bring her happiness be love? Am I in love with a fictional character?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 On Thursday, April ye 5, 1750, I went to see a most deplorable object of a child, born the night before of one Mary Evans in 'Chas'town. It was surprising to all who beheld it, and I scarcely know how to describe it. The skin was dry and hard and seemed to be cracked in many places, somewhat resembling the scales of a fish. The mouth was large and round and open. It had no external nose, but two holes where the nose should have been. The eyes appeared to be lumps of coagulated blood, turned out, about the bigness of a plum, ghastly to behold. It had no external ears, but holes where the ears should be. The hands and feet appeared to be swollen, were cramped up and felt quite hard. The back part of the head was much open. It made a strange kind of noise, very low, which I cannot describe. It lived about forty-eight hours and was alive when I saw it.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I WAS BORN INTO A WORLD YOU MAY NOT UNDERSTAND
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  I learned this from experience so that you won't have to!
 
 Just a heads up for all you scientists out there:
@@ -399,12 +403,12 @@ Masturbating with toothpaste hurts really good, at first. Sure, it stung a bit, 
 I was in the shower washing that shit off as fast as I could, the pain getting more intense every second; it felt like there were a few ice cubes ducktaped to my balls. Then again, my balls weren't the worst; my taint, or whatever that place between your balls and your ass is called, felt like it was on fire.
 
 Albeit, I think I would do it again, just not for awhile, not for a long while...
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     Reason of Existence can only be accepted if you can prove the idea that you have your own individual identity. Without an identity, we are merely subjects given life; subjects to serve other subjects. However if we can come to a realization that we each create our own identity, we take control of our existence and we even become God’s of ourselves. Through isolation, we are able to choose our own interpretation of events, create our own realities, and shape our own existence. We gain the ability to control our actions, thoughts, and free will to a full extent. This is one of the main focus ideas in the television show Neon Genesis Evangelion, which places a young 14 year old boy in the situation to decide whether or not he will follow along with the plan by NERV headquarters to control all human life and start a new world of people in control of their existence.
     The problem with this idea is that there is one sauce standing in the way, and that is the Angels. It is often linked that the Angels are indeed Angels sent from God in order to stop the Human Instrumentality Project from occurring. NERV however have developed a way to battle the angels and that is by bringing to life Giant Mechanical Machines called Evangelions(Eva’s) piloted by children born after the Second Impact, an event which destroyed half of the earth’s population and caused the Earth to tilt out of place. Shinji Ikari, along with two other pilots; DONATE TO 4CHAN Ayanami and Asuka Langley Soryu are also chosen to pilot the Eva’s in the event to battle the Angels so there is no harm done to NERV headquarters. However this task brings about despair and much questioning of existence in each child. Despair at not being conscious of having a self; Despair at not willing to be oneself; and even Despair at willing to be oneself.
     The pilot of Eva 01; DONATE TO 4CHAN Ayanami possesses this sense of despair where she does not feel conscious of having a self. One reason as to why she feels this way is due to the fact that she has no soul and is merely a vessel to carry out orders from others. She feels no reason to control her actions and the outcome of her life because it is out of her hands. Since she is out of reach of understanding why she must fight the Angels, she just goes along with it assuming that it is unthinkable to do otherwise. DONATE TO 4CHAN Ayanami often separates herself from the rest of her classmates as school because she feels as if social interaction is unnecessary for her own development. She feels as if the only person or friend she needs to interact with is Gendo Ikari, Shinji’s father as well as her creator. Although DONATE TO 4CHAN is not the child of Gendo Ikari, she is a creation of his, being that she was created in a lab and cloned. DONATE TO 4CHAN feels as if she has no soul and no conscious because she was not a creation of God like everyone else, but was instead a human creation much like the Eva robots. To show her dedication to Gendo, she saves the pair of glasses Gendo wore when he saved her from an Eva test gone wrong. Although DONATE TO 4CHAN is a very unemotional character, as the show progresses she begins to grow emotions for her fellow pilots as well as those who consider themselves her friend.
     hey i did ur paper 4 u just paste this in word and print it out x6I know, I know I've let you downI've been a fool to myselfI thought I couldlive for no one elseBut not through all the hurt and painIts time for me to respectthe ones you lovemean more than anythingSo with sadness in my heartI feel the best thing I could dois end it alland leave foreverwhats done is done, it feels so badwhat once was happy now is sadI'll never love againmy world is endingI wish that I could turn back timecos now the guilt is all minecant live without the trust from the ones you love.I know we can't forget the pastyou cant forget love and pridebecause of that its killing me insideIt all returns to nothing, it all comestumbling down, tumbling down,tumbling down,it all returns to nothing, I just keepletting me down, letting me down,letting me down,in my heart of hearts, I know that I called never love againI've lost everythingeverythingthat matters to me,matter in this worldI wish that I could turn back timecos now all the guilt is minecant live withoutthe trust from those you loveI know we can't forget the pastyou can't forget love and pridebecause of that, its killing me inside It all returns to nothing, it all comestumbling down, tumbling down,tumbling downit all returns to nothing, I just keepletting me down, letting me down,letting me downIt all returns to nothing, it all comestumbling down, tumbling down,tumbling downit all returns to nothing, I just keepletting me down, letting me down,letting me down
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I have a large tumor on my brain and severe lung cancer. The doctors say I will die soon if this isn't fixed, and my family can't pay the bills. "The Make A Wish Foundation" has agreed to donate 7 cents for every time this message is re posted. For those of you who repost, I thank you so much. But for those who don't re post it, I will still pray for you. Please, if you are a kind person, have a heart. Please, please, PLEASE REPOST THIS MESSAGE!
 
 
@@ -416,17 +420,17 @@ Eleanor (Ellie) Andrade
 *if you can look at you self and say you are a good person than there is no doubt that you will repost this, and if you don't than you ain't real
 
 anyone with a heart would repost this without thinking twice
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Seriously. The moment we decode the way the brain works, the first application of the technology besides military use will be for sexual purposes. You'll be able to get up in the morning, plug in, have sex with your anime wife who will remain permanently faithful to you and always love you forever, then you will go to work, and you'll come home to your ever-beautiful anime wife. By this time we should have housekeeping robots which are able to cook with specific directions augmented by your personal tastes in spices (it's all formulas, once you decide on a "menu" then it can look in its internet database and come up with a recipe that closely matches what you're looking for, then store it internally), then after a hearty meal you can go into your bedroom and make love with your anime wife, and perhaps spend some time cuddling with her on the couch while watching even more anime.
 
 Then you will retire for the night, hooking yourself up to the machine which can record your dreams so you can replay them to yourself whenever you get bored.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 another thing about fascism is waddling about in homosexual-looking uniforms while trying not to be seen sneaking surreptitious glances at your comrades' cocks
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Nothing exists.
 2. Even if you exist, you have no way of telling if you exist.
 3. Even if you can tell that you exist, you have no way of communicating this to others, who probably don't exist.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I'm fucking horny, and need a girl to love. Only for some intimacy, not a relationship. I'm actually a virgin, but I don't want to do this to just lose my virginity.
 I fail at being socialable, I'm afraid to be rejected, since I've had some encounters with mean girls. I'm not sure how to cope with this. Yes I masturbate to porn, but I just feel sometimes that I want some intimacy, and thus I need some advice what I should do.
 I belive that being out alot helps you to develop your social sides, but I only have the option to go out by myself, which isn't fun, and makes me a bit unsecure about meeting girls and people. Because I can be a bit paranoid about it, that I belive that people are looking at me in contempt.
@@ -435,7 +439,7 @@ I just wanna feel some intimacy.
 And I have no idea how to get in touch with girls on the internet, even though I know some sites that offer it. I'm reluctant since it probably is full of high school girls.
 So I don't know what to do.
 Please help me with how to get in touch with girls as horny as me, or at least who feels an urge for intimacy.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 /b/ I am so pissed right now.
 
 I was hungry for Chinese food after I went to work today to get some manuals for Winsock implementation. I got the manuals, and on the way back to my apartment, I decided to stop in the restaurant and get some food. This particular restaurant is in the middle of the ghetto, and thus, has some of the most unsavory people eating there. I didn't really think anything would happen though.
@@ -443,17 +447,17 @@ I was hungry for Chinese food after I went to work today to get some manuals for
 After I walked in, immediately, I realized eyes were on me. I heard a table of people talking about me and snickering. "Is that a man?" The one guy said. "It's got boobs." The woman replied. "It's wearing makeup." I wanted to take them out of their, shitty ghetto trash that they are. Instead I just sat there, eating my meal and smiling at the one who kept stairing at me. After they left, I put a tip on the table, finished half of my chinese buffet, and left.
 
 GAAAH.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 To any and all girls who may or may not be browsing the board, I have a question:
 
 How soft are you? Like, your belly. I've always wanted to feel how soft and warm a girl is but I've never gotten so much as a hug. I would sometimes say, "Tell me when you want me to let go" and hug a female friend for about a minute.
 
 Do girls think that's creepy? I can never tell because I'm completely socially ignorant, and although not unattractive I have absolutely no self-confidence and no social life which precludes me from being able to have a girlfriend to cuddle with.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear /b/,
 
 I have come to the belief that I have seen everything that the internet has to offer. I don't need new porn of some cartoon show, as they have become too common now. I have seen the shitting dicknipples and zippocat, torturecat, and plenty of other things. I need something to make me cringe in fear as I realize I have yet to fully see all of the internet that there is before me. Beyond tubgirl and goaste and even having a man with a dildo down his PENIS. I need to see the single most repulsing thing that will renew my faith in 4chan.../b/...and all of the internet.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 i was just doing little fapping, and i decided to pump some water into my ass. normally when i pump water in my ass, i don't pump it that much and i always make it sure that the water is of around the body temperature.
 
 normally when i use water of the temperature of body temp, the warn water seens to make my asshole loose, so the water soon escapes, even if i try to keep it in.
@@ -465,7 +469,7 @@ after cumming, the mood was gone, and i started to feel the pain. the pain of my
 goddamn it hurt! for a moment i though i was going to fucking die! when i started to try to shit the water out, it didn't come out that easily (no, i'm not saying it froze :P). i was shitting the water out like 30 mins and the pain was getting worse all the time. it hurt so much that i even fell from the exhaustion and hit my head on the wall of the shower (i was shitting on the shower floor, lol).
 
 nothing bad happened after all. after a warm shower it got a little better and i'm alive and all but it sure as hell scared me and taught me that i won't pump any cold water in my ass any more.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I can't believe I'm posting this on /b/, but here goes.
 
 I've been seeing this girl for about a month and a half. She's cute and smart and blah blah blah, all that good stuff. She's also VERY into me if the physical aspect of our relationship is any indication.
@@ -477,8 +481,8 @@ I want to get married and the clock is ticking. I don't want to just rush headfi
 Any of you married folks out there have some advice? Did you fall in love with your spouse instantly, or did it take a long time, or what?
 
 tl;dr - HOW DO I FALLED IN LOVE
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    Really--consider my thought process: I was going to fuck her in the butt and film it without her consent, yet I was truly concerned about her personal comfort. Sometimes the contradictions in my personality even amuse me.
+
+    Reallyconsider my thought process: I was going to fuck her in the butt and film it without her consent, yet I was truly concerned about her personal comfort. Sometimes the contradictions in my personality even amuse me.
 
     Predictably, I slid in with ease. She was a little tense at first, but with an Exxon Valdez size load spilled into her poop chute, she quickly loosened up and got into it. I liked it also; it had a different feel to it. Not as good as vaginal sex, a little grainy, kinda tight, but still very nice.
 
@@ -512,14 +516,14 @@ tl;dr - HOW DO I FALLED IN LOVE
 
     I think the crowning moment was when my eyes locked with Jaime’s, I saw her moment of realization and then her quick shift from shock and surprise to complete and irreparable anger. Between bouts of hurling she flipped out:
 
-    “OH MY GOD--BBBLLLLAAAAHHHH--YOU FILMED THIS, YOU ASSHOLE-- BBBLLLLAAAAHHHH-- HOW COULD YOU-- BBBLLLLAAAAHHHH--I THOUGHT YOU LOVED ME--BBBLLLLAAAAHHHH--OH MY GOD-- BBBLLLLAAAAHHHH--I LET YOU FUCK ME IN THE ASS--BBBLLLLAAAAHHHH.”
+    “OH MY GODBBBLLLLAAAAHHHHYOU FILMED THIS, YOU ASSHOLE BBBLLLLAAAAHHHH HOW COULD YOU BBBLLLLAAAAHHHHI THOUGHT YOU LOVED MEBBBLLLLAAAAHHHHOH MY GOD BBBLLLLAAAAHHHHI LET YOU FUCK ME IN THE ASSBBBLLLLAAAAHHHH.”
 
     She tried to stand up, slipped on the huge puddle of backflow AstroGlide on the bed, and fell into both my pile and her pile of vomit, covering her body and hair in vomit, shit and anal lubricant. She flailed on the bed for a second, grabbed the top sheet, wrapped it around her, and started running out of my place. Still naked and retching, my dick covered in shit and oil, I followed her as far as my front door.
 
     The last contact I ever had with her is the image I witnessed of her in a dead sprint, a
 
     shit, vomit and grease stained sheet stuck to her body, running from my apartment.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear 4chan,
 
 My name is Oliver Eisler. I am a loser that has no life and no credibility after getting my ass handed to me on many occasions. I like to call myself Rockman X, because I think that I am the number one Rockman X fan in the world, and that I know everything there is to know about Rockman X, even though I'm a stupid teenager and Capcom probably knows more than I do. I'm a fucking weeaboo and everybody hates me. I decided after a while to stop calling myself Rockman X, and changed my name to X Guru, to go with the fact that I know everything there is to know about Rockman X. Eventually, I stopped calling myself X Guru because I was getting teased so much about it, and it really hurt my feelings, and started calling myself Bukino, though I have no idea what that is.
@@ -530,10 +534,10 @@ Regards,
 Oliver Eisler
 Rockman X/X Guru/Bukino
 Son of Paul Peter Eisler, Executive Vice President of Gafdi International
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Thursday, February 9th, 2006 Posted: 10:07 AM EST (1507 GMT)
 
-San Diego, California (AP) -- Jonathan, the Snowy Owl made famous as the "O RLY" owl, has died in captivity in the San Diego Zoo.
+San Diego, California (AP)  Jonathan, the Snowy Owl made famous as the "O RLY" owl, has died in captivity in the San Diego Zoo.
 
 The owl, which was 17 years old, died Tuesday afternoon after the sudden onset of pneumonia. He was young for an owl in captivity, however wild owls only live an average of 15 years.
 
@@ -551,13 +555,13 @@ Jonathon the “O RLY” Owl had recently started to turn this underground fame 
 Nick Braden, a spokesman of the Humane Society of the United States, said veterinarians gave Jonathan antibiotics after he showed signs of lethargy Thursday, but it wasn't apparent how sick he was.
 
 "They really do die quickly and there was nothing we could do," he said. Braden said "it's a really sad moment for us."
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Yes, I am a _____. So? I dont see any problem. I embraced my _____ soul long ago and I am happy together with my boyfriend (who is a cute _____!). We have a fucking lot of friends in and outside of the _____ and I am pretty slim and good looking.
 
 But thanks anyway asshole. Go and watch your stupid anime shit while I have SEX with my boyfriend.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Okay guys, this isn't funny anymore. The cops fucking knocked at my door today and asked me about websites I've been visiting. I NEVER go to any sick pedo places or anything like that so it must be this place they're talking about. For god's sake stop screwing around with the pedo shit, you're going to get yourselves arrested. Trust me the authorities are watching and they're taking it VERY seriously. Don't believe me, fine, wait a while and you will. I just hope you have a good lawyer. Goodbye forever you sick fucks, I'm going to wipe my hard drive.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear /b/, I wrote a poem to express my feelings.
 
 Sea of Suicide
@@ -579,18 +583,18 @@ the color's there no matter what I do
 it's too late now
 I suppose this was my fate
 my last word to you is goodbye
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I'm feeling really lonely right now. Usually it doesn't bother me but sometimes I get these depression attacks that last from 1 day to 1 week and I lose all will to do anything.
 
 What do you do to cope in similar situations Anonymous?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     |￣￣￣￣￣￣￣￣￣|
 　| KAWAII DESU NE |
 　|＿＿＿＿＿＿＿＿＿|
 　　    　 ∧∧ ||
 　　　 ( ﾟдﾟ)||　
 　　　 /　づΦ　
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 My lover's lips were as the sine curve
 The sparkle in her eyes, at the right angle
 Is truely divine, it makes me go nuts, like
@@ -599,17 +603,17 @@ Alas, we will never be right, as
 I am cosine
 She is sine
 But we can still intersect
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 If you want to be more authentic, this class will definitely help you to listen to your inner voice. You know, the little angel that sits on your shoulder and says, “You shouldn’t say/do that!” Would you like to be absolutely confident when speaking to others and making decisions and to do so without fears and regrets? Wouldn’t it be nice to be respectful, yet rock solid, in interactions without distancing yourself from others? Then this is the program for you. Learn how you can immunize yourself against negativity, distrust and other types of difficulty. Just imagine what it would be like to live a life of self-trust where you feel confident in speaking authentically from the heart. Learn how to be confident and daring, honoring your own path without needing to seek the approval of others with an undaunted attitude of self-trust. Imagine living a life free from doubts and fears. Our learning environment will stretch you and enable you to empower your own best expert—you—because you know best when it comes to making a decision. Come and join us and find the place within you that contains all the inner wisdom of your life experiences. Enjoy being comfortable with knowing whatever you choose is perfect. Dare to let go and be yourself with optimal self-trust.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sorry, we aren't doing this anymore. I tried to make this a nice, safe, friendlyplace for people to share and discover new art, not to post photographs of kids.Blame the fucking too-disgusting-for-words paedophiles that can't seem to resisttrying to get us in trouble by posting disgusting shit like that on the board.While you're blaming them, you might as well as blame yourselves for notTELLING ME ABOUT IT PROMPTLY. It's not that hard to send an email or an instantmessage to keep things safe and clean, but apparently it is too much for me toask for a little HELP from the COMMUNITY.Shota is one thing. It isn't real. It doesn't harm people.Posting real pictures of children is totally unacceptible.Child abuse is not something fun, and it's not something that's AT ALL okay.IF YOU CAN'T STOP YOURSELF FROM DOING LEWD THINGS WITH REAL KIDS,or IF YOU DON'T SEE HOW IT'S WRONG, PLEASE SEEK PSYCHOLOGICAL ASSISTANCEIMMEDIATELY.This is the second time it's happened, and the LAST TIME it will happen. Atleast the last time someone was decent enough to approach me in a TIMELY MANNERabout it.Perhaps if there is a better way to roll in an abuse system in the future,the BBS will be re-opened. But don't think it's very bloody likely. I don'tlike giving services away for free out of the kindness of my heart and thenget shat on by the fucktards that use it in a way which it was not intended.Much love to those who used this system responsible and who have hopefullydiscovered new art and artists.A big fuck you to those that have taken resauce this away from them.OH LAWD BRING BACK MY NOT4CHAN :(
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 hey /b/,
 
 i fucked up today and missed my bus. now im going to be missing school because of it. the thing is that i skipped two days of school recently and this is not good. i hate myself for this. what should i do on my unwilling day off?
 
 -forced anonymous
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 hey /b/... the freakiest shit just happened to me right now
 
 so i was in bed, and all of a sudden my whole body went numb
@@ -638,13 +642,13 @@ thank you,
 a very scared forced anon
 
 pic fully related
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is my girlfriend. How did I get her, you ask? IT's true, she is mine. I have been watching the Oxygen Channel, and I think it made me more in tune with female emotions and feeling, making me more sensitive to my girlfriends thoughts and dreams. I love her with all my heart, and I am dreaming of the day soon, when I ask for her hand. Wish me luck.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Everyday I live I mark myself once more to remind myself it's nearing time I seperate my wretched existance from this world.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Discover a religion that indoctrinates reincarnation. Then kill yourself and hope that you'll come back japanese. Nips are not made, they are born.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 THE ROMAN LEGIONS ARE SO COOL. THEY HAVE THESE SUPER SHARP SWORDS CALLED "GLADII" (GLADII IS HOW A ROMAN WOULD PLURALIZE IT LOL) THAT COULD STAB THROUGH ANYTHING. ONE TIME I SAW A GLADII MASTER STAB THROUGH A STEEL BEAM.
 
 ROMAN FOOD IS SO DELICIOUS IT'S BETTER THAN CRAPPY AMERICAN FOOD.
@@ -652,9 +656,9 @@ ROMAN FOOD IS SO DELICIOUS IT'S BETTER THAN CRAPPY AMERICAN FOOD.
 A ROMAN LEGIONAIRE WAS THE COOLEST WARRIOR IN HISTORY HE WAS VERY SKILLED WITH HIS SWORD AND COULD DISPATCH ANY OPPONENT.
 
 I WANT TO GO TO THE ITALIAN PENISULA SOMETIME AND MARRY A HOT CHICK IN ROME. ITALIAN WOMEN ARE SO MUCH HOTTER THAN AMERICAN WOMEN.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 So I was just looking for a bento box, right, it couldn't be pinku (thats japanese for pink) or any girl color. It had to be of 2 or more kotoba (thats japanese for 2 compartments) and had be be chibi (small) sized. And had to be really kawaii (cute). Also It had to be about 10-20 bux. And the seller had to post pics of it first (i wanted to make shure it was kawaii [cute]). And it would have been nice if it came with matching chopstick holder (WITH chopsticks). OH! and it CANNOT have had any cartoon pictures, or been made out of plastic. It has to be made of ceramic, or something like that. Also it would have been nice if it was made in japan. and not in china or corea (korea) or whatever. I had found a bento box similar to the one im describing in e-bay, but it was 1 kotoba, and i didnt want my gohan (rice) to touch my other things (it can get wet and i would not like that, plus 2 compartments looks more kawaii).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     A cool morning breeze sneaked past the flimsy curtains of the room and the rays of the sun danced on a quilt that shifted gently in circular motions. Fingers gently stroked the instrument of pleasure, hips lifted, thighs trembled and a moan left the plum, red lips.
     She had always worshipped him, initially as a superhero but when her body awakened to needs of a dirty nature she couldn’t help but get all hot and bothered when she would fantasize how his manly hands would rove over her lean body, fondle her pink tipped breasts, his hard dick would plunge into her and bone her till she moaned and screamed her satisfaction.
     She had always been randy for him. Whenever he was nearby her panties would get wet but he had never seen her the sexual way. She had practically grown up before his eyes.
@@ -665,7 +669,7 @@ So I was just looking for a bento box, right, it couldn't be pinku (thats japane
     Watching the shadows dance and play on the ceiling of her bedroom, she grinned – well, today she turned eighteen and could legally be fucked out of her brains.
     Throwing the quilt aside, Stephanie jumped out the bed and headed towards her bathroom. As she went through her toiletries a devious plan began to formulate in her mind and added an extra spark and spring in her step.
     By the end of the day she would ensure that she would no longer be a virgin and suitor would be no other than Sportacus.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 /!\ATTENTION MUTANTS/!\
 
 This is a post to let all you young and developing mutants know that what your going through is completely normal. To get an idea on how many are out there we at X-Men Manor would like you to give us your Names and power/s. Please provide in this format.(example of myself)
@@ -677,16 +681,16 @@ Powers: Superhuman speeds up to the speed of light, and I emit a light blue glow
 Please enclose picture if possible.
 Thank you
 -North Star
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Early, one beautiful Sunday morning, the first ray of sunlight shined onto the face of Dong, your normal every day fish. But, despite the beautiful sunrise, Dong was sad. As a child he was taken from the ocean, never to know the life of the normal fish, and all he could do now was sit infront of his master's computer and look at pictures of fish tornadoes.
-    Dong's master, richjkl, was often very aroused by Dong's depression. In fact, the mere thought of Dong feeling lonely--all left out of the fish tornadoes--made richjkl's flesh tremble and fill with blood. Though it was not much compared to George Zimmer's throbbing man meat, richjkl still refered to his insignificant member as his big buddy and could often be found stroking his big buddy whenever he saw Dong swimming slowly into the corner of his tank.
+    Dong's master, richjkl, was often very aroused by Dong's depression. In fact, the mere thought of Dong feeling lonelyall left out of the fish tornadoesmade richjkl's flesh tremble and fill with blood. Though it was not much compared to George Zimmer's throbbing man meat, richjkl still refered to his insignificant member as his big buddy and could often be found stroking his big buddy whenever he saw Dong swimming slowly into the corner of his tank.
 However, Dong did not have to worry about his master; as he was away, preparing for war with Bosnia. The Bosnians had long been annoying the People's Republic of Internet and Internet did not want to take any more of it. The Capital of Bosnia, MySpace, had long been seen as the key target for those in Internet, and only through a combined effort of the provinces of 4chan, YTMND, SA, and others, could the walls of Bosnia be breached. Though, even a colaborative effort would not be enough for now, as a country which bordered between Bosnia and Internet, eBaum's World, was stealing resources from Internet, something which the People's Republic of Internet would not be able to handle for much longer.
     eBaum's World made the first strike, capturing one of YTMND's bases. Remembering the skirmishes which had lead up to this brutal capture, the YTMND generals made haste. The troops were rallied, messengers were sent out to all of the neighboring provinces within Internet and the forces were quickly mobalized.
 The first town to be hit in eBaum's World was Forums; a small town on the outskirts of the nation. Lacking much protection, the troops stormed in, setting fire to the houses and raping men and children as there were no women. richjkl laughed as he stuck his insignificant man noodle into the eye of a 10 year old boy, and at the same instant, thousands of miles away, Dong came for no reason, completely unaware of his master's doings. The fish looked up, into the sky, and asked Raptor Jesus why he had cum; while waiting for an answer, lightning struck Dong, he died.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 so yeah, last week it was decided we were going to put our dog to sleep, and I dong think i've ever felt so awful. This morning I brought her into my bed to lie down with me and pet her, I couldn't help but cry and could tell she knew something was wrong and was trying to make me feel better.. she kept licking the tears away as they fell, which made me feel ten times worse.. So I go to sleep, and wake up after it's already been done.. the first hing I notice is she isn't at the top of the stairs to greet me as she usually is.. all I could do was sit in the recliner that was hers bed for the past 3 eyars and bawl like a child.. and it's funny because usually I was annoyed by her mere presence, I guess you really don't know what you've got until it's gone.
 sorry about the lame thread, I just had to write this down somewhere and get it off of my mind
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sermon 23
 Verse 5
 And then a murmur went through the crowd: "But what of those who call themselves Anonymous? Surely the Unnamed ones are an abomination to our Lord?"
@@ -705,7 +709,7 @@ Anonymous within anonymous.
 The gateway to all understanding.
 And then a young one among them spake: "But surely, Raptor Jesus is a Name unto itself?"
 And Raptor Jesus remained silent.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 One day, a Magistrate did approach our Lord: "What say you of the cavernous Loli Pit thou art rumored to keep in thy lair? Guarded by thy most terrible disciple, the one known as Pedobear, who sits ready to rend the Flesh and slake his thirst with the Blood of those foolish enough to covet his harem? Surely, your teachings lead only to Madness and Ruin?
 And Raptor Jesus spake:
 Wmen are born soft and supple;
@@ -718,7 +722,7 @@ Whoever is soft and yielding is a disciple of life.
 The hard and stiff will be broken.
 The soft and supple will prevail.
 The Magistrate, thus rebuked, returned to his court, weeping bitterly for his wasted life. That same night, he did Fap most furiously to reruns of Full House.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 (1) Now a man named Bridget was sick. He was from /b/, the village of Quacky-chan and her sister Waha.
 (2) This quacky-chan, whose brother now lay sick was the same who poured perfume on the lord and wiped his feet with her hair.
 (3) So the sisters sent word to Raptor Jesus, "Lord, the one you love is sick."
@@ -736,7 +740,7 @@ The Magistrate, thus rebuked, returned to his court, weeping bitterly for his wa
 (23) Raptor Jesus said to her, "Your brother will rise again."
 (24) blacky-chan answered, "I know he will rise again in the resurrection at the last day."
 (25) Raptor Jesus said to her, "I am the resurrection and the life. He who believes me will live, even though he dies;"
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Raptor Jesus appeared before me, and he said:
 "Take heed my son, for there shall be many who doubt me, but whosoever believeth in me shall have everlasting life."
 I wept with joy at the gift bestowed,
@@ -744,7 +748,7 @@ I wept with joy at the gift bestowed,
 He answered:
 "Their entrails shall be rent from their stomachs, their limbs ripped from their torso, to feast our hungry bodies, and restore our souls. Whensoever you feast upon the heart of thine enemy, think of me."
 For that is the beauty of Raptor Jesus.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 And MOOT knew 2chan, and he concieved of 4chan.
 He worked long in his labor and soon there came to be users, and free porn, and it was good.
 But as his disciples grew in number MOOT found it harder to find time to manage 4chan and still visit his mexican prostitutes, and so he sired WT Snacks on a mexican loli.
@@ -759,7 +763,7 @@ I know not. Am I thy forum's keeper?
 And MOOT spake unto him in a voice
 not unlike the wheeze of an asmatic: Yes
 /G/enesis - Chapter 4 verses 1 - 9
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 And so WT Snacks was cursed to wander the lands of /b/ from which he had banned Soviet Russia.
 And Snacks said unto MOOT, My punishment is greater than I can bear.
 Behold, thou hast driven me into /b/ that I would moderate it and all the /b/tards will annoy the hell out of me
@@ -769,7 +773,7 @@ vengence shall be taken on him sevenfold.
 And MOOT set a mark upon Snacks, lest any finding him should annoy him.
 And Snacks went from the presence of MOOT to dwell in the land of /b/
 /G/enesis - Chapter 4 verses 10 - 16
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Praise be Raptor Jesus!
 
 Common Raptian Salutation
@@ -777,21 +781,21 @@ Chapter 2
 Verse 8
 There came a day when Raptor Jesus walked with his disciples in a city. They passed many people, and Raptor Jesus would state "They are Anonymous, they are the masses. They are many, and yet they are one. They are quick to judge, and their wrath is terrible." Then Raptor Jesus and his disciples came across a man painting a mural. Raptor Jesus studied the man's work for a time, and then turned to his disciples.
 "Animated," he said.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The day came when faggotry was afoot, it threatened the fabric of existance. Thus the Giant Salamander appeared; and lo, it spoke unto the fags. "FUCK YOU, THIS SHIT SUX, YOU FAG." and with a puff of semon, it was gone. A loud yelp went into the air as many were impregnated and immediately shot forth from their birthing canals, several baby toads. Thus that date became known as The Great Salamander-Frog Faggoteer Extravaganza. Exactly one year later, RaptorJesus came to the very spot that the salamander had stood and said, "HARK! ALL YE FAITHFUL, LISTEN! THE TIME HAS COME FOR THE GREAT SECOND COMING!" As soon as he spoke, thousands of toads began to flock towards the Saurian Messia. After every single one of them had arrived, RaptorJesus promptly let out a loud screeching roar, the ground began to shake. Seconds later, the Huge Salamander had returned, bathing all around in a warming glow. Again, the same thing happened; the salamander spoke, puffed, and many were impregnated. Thousands more had flocked to the location than before. Millions of frogs began shooting into the air, onto the ground, and into open mouths as the women moaned in pleasure, shooying amphibians from their vaginas.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Early, one beautiful Sunday morning, the first ray of sunlight shined onto the face of Dong, your normal every day fish. But, despite the beautiful sunrise, Dong was sad. As a child he was taken from the ocean, never to know the life of the normal fish, and all he could do now was sit infront of his master's computer and look at pictures of fish tornadoes.
-	Dong's master, richjkl, was often very aroused by Dong's depression. In fact, the mere thought of Dong feeling lonely--all left out of the fish tornadoes--made richjkl's flesh tremble and fill with blood. Though it was not much compared to George Zimmer's throbbing man meat, richjkl still refered to his insignificant member as his big buddy and could often be found stroking his big buddy whenever he saw Dong swimming slowly into the corner of his tank.
+	Dong's master, richjkl, was often very aroused by Dong's depression. In fact, the mere thought of Dong feeling lonelyall left out of the fish tornadoesmade richjkl's flesh tremble and fill with blood. Though it was not much compared to George Zimmer's throbbing man meat, richjkl still refered to his insignificant member as his big buddy and could often be found stroking his big buddy whenever he saw Dong swimming slowly into the corner of his tank.
 However, Dong did not have to worry about his master; as he was away, preparing for war with Bosnia. The Bosnians had long been annoying the People's Republic of Internet and Internet did not want to take any more of it. The Capital of Bosnia, MySpace, had long been seen as the key target for those in Internet, and only through a combined effort of the provinces of 4chan, YTMND, SA, and others, could the walls of Bosnia be breached. Though, even a colaborative effort would not be enough for now, as a country which bordered between Bosnia and Internet, eBaum's World, was stealing resources from Internet, something which the People's Republic of Internet would not be able to handle for much longer.
 	eBaum's World made the first strike, capturing one of YTMND's bases. Remembering the skirmishes which had lead up to this brutal capture, the YTMND generals made haste. The troops were rallied, messengers were sent out to all of the neighboring provinces within Internet and the forces were quickly mobalized.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Either God can create a stone that he cannot lift, or God cannot create a stone that he cannot lift.
 2. If God can create a stone that he cannot lift, then necessarily, there is at least one task that God cannot perform (namely lift the stone in question).
 3. If God cannot create a stone that he cannot lift, then, necessarily, there is at least one task that he cannot perform (namely create the stone in question).
 4. Hence there is at least one task that God cannot perform.
 5. If God is an omnipotent being, then he can perform any task.
 6. Therefore, God is not omnipotent.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The Prayer of RaptorJesus
 
 "This prayer the holy saurian didst impart upon his loyal followers, the seventh hour of the fourth day of the eleventh month, during the festival of loli-worship."
@@ -809,19 +813,19 @@ and lead us not into faggotry,
 but deliver us from /fur/ry.
 In the name of the Moot, the Raptor, and the Holy Server,
 Amen.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Mongler's Soliloquy
 
-To /b/, or not to /b/-- That is the question:
+To /b/, or not to /b/ That is the question:
 Whether 'tis nobler in the mind to mongle
 The traps and phalli of outrageous postings
 Or to take arms against a sea of furries
-And by opposing end them. To FYAD, to GTFO--
-No more-- and by GTFO to say we end
+And by opposing end them. To FYAD, to GTFO
+No more and by GTFO to say we end
 The heartache, and the thousand unnatural shocks
 That flesh is heir to. 'Tis a cock
-Devoutly to be mongled. To FYAD, to GTFO--
-To GTFO--Perchance to show tits: ay, there's the rub,
+Devoutly to be mongled. To FYAD, to GTFO
+To GTFOPerchance to show tits: ay, there's the rub,
 For in that TITS or GTFO of Camwhores what tits may come
 When we have shuffled off this mortal coil,
 Must give us pause to fap. There's the respect
@@ -844,15 +848,15 @@ And thus the native hue of resolution
 Is stickied o'er with pale cast of thought,
 And enterprise of great pitch and moment
 With this regard their currents turn awryyyyyyyyyyy
-And lose the name of DONATE TO 4CHAN. -- Soft you now,
-The fair Cockmongler! --Nymph, in thy orifices
+And lose the name of DONATE TO 4CHAN.  Soft you now,
+The fair Cockmongler! Nymph, in thy orifices
 Be all my posts remembered.
 -then the thread died, and there was much rejoicing.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 If Google is the brain of the internet, then /b/ is certainly the large intestine. Information, having been digested of useful content into the rest of the body, is waste left to congeal in /b/. It clumps together, sticky and festering and green, ready to explode in a heaving diuretic shit into the mouths of whoever wants it. WE want it, of course. We are the limbless corprophagics eeling about on the filthy floor, burying our faces into the holy defecation of our blind idiot god, letting it suffocate us in its putrification. It turns us on so much, our cocks stiffen as we revel in the shit, and we scrape them against that decrepid floor, but we can't get off, can we? We keep trying to fuck the floor, and slurp the sliming turds into our throats, but it doesn't work, and we just crawl around looking for the next big kick - the next thing that's supposed to let us fill that feces stained floor with our semen and our blood and our sweat and our vomit. I like kittens.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 EARTH'S LAST CITY, OLYMPUS, ROSE FROM THE ASHES OF A GLOBAL WAR ON THE BACKS OF BIOROIDS, ARTIFICIAL CLONES WHO MAKE UP HALF THE CITY'S POPULATION. UNDER THE STRICT GUIDANCE OF A SUPERCOMPUTER, HUMANITY'S LAST SURVIVORS ENJOY AN IDYLLIC PEACE, BUT ONLY ON THE SURFACE... HUMAN TERRORISTS WITHIN THE MILITARY SEEK A RETURN TO POWER AND CLASH WITH THE GOVERNMENT'S ES.W.A.T. FORCES LED BY THE LEGENDARY SOLDIER, DEUNAN KNUTE AND HER BOYFRIEND WHO IS 75% MACHINE.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Ever get the feeling you are going nowhere in life, and really dont want to bother? The last 4 years I have been in a constant state of depression. I dont know if i can call it that, it is more of a state of constant thinking. I cant really be happy with anything because it is so temporary.
 
 I really want to die, but cant figure out why I havent killed myself yet. Nothing is entertaining. Video games for a large part have become pointless distractions, my work is boring and pathetic as myself. I am 5'5" and 100 pounds, very skinny. I am too self concious to wear anything besides drab colored clothes, because I really dislike looking in a way that could draw any attention to myself. Conversations with people in person are horrible for me. I am a fine conversationalist and can keep people occupied indefinately with shitty idle arguements and ideas leading nowhere.
@@ -860,13 +864,13 @@ I really want to die, but cant figure out why I havent killed myself yet. Nothin
 I just dont see the point in any of this, why exist?
 
 Is our only point in life to reproduce then die? I feel it is, and I cant shake this feeling during every instant of every day. We are cursed with this state of non-existence and it is a tragedy that everything that we are ceases with our death. I personally dont want to adapt to cicumstances and become a different person. I like who I am, A broody depressed 17 year old. Every single day I dont want to wake up, I sleep 14 hours and I would sleep the entire day if I wasnt forced to go to school. Does anyone else feel like this? I am absurdly bored with everything, and would like another distraction...I spend most of the day online. I need to live a little. I do not know what to do. I know that in a few years this will pass and I will not give a shit but I feel bad.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 While browsing through the manga and sci-fi books at Barnes & Noble came upon a hot chick reading and anime magazine. Naturally, this was relevant to my interests, so I kept my eye on her from the end of the aisle. Then the craziest thing happened... While reading her magazine I heard her mutter, "Heh heh, don't cry bosnian kid."
 
 Of course I was shocked... I wanted to say something but I didn't know what to say. I could have misunderstood her, plus I wasn't sure if I wanted her to know I come to /b/ since I like to remain Anonymous. Well, I had an idea, so I got a little closer to her and picked up the same mag she was looking at (Animerica), and said loud enough so that she could hear, "I see what you did there." She immediately looked at me with a puzzled look on her face. I was SO embarrassed I was about to leave, when she said, "O RLY?" I looked at her and said, "YA RLY. In soviet Russia, we do our shopping on Caturday." She says, "Really? Hope you got 10 BUX." I laughed and said, "How do you know about this? There's no girls on the interbutt!" She said, "Don't cry bosnian kid, chicks dig /b/-tards too!" Then we both laughed.
 
 We talked about other things for a bit, I asked her what was her other favorite part of 4-chan besides /b/ and she told me she was into /e/ and u/, with a little /h/ now and then! I was thinking how this was too good to be true! I asked if she wanted to sit and get some coffee at the StarBUX in the store and she said, "As long as it's not bubble coffee. It is made of ass and poo." I LOL'd which made a few heads turn. She asked if I was an elitist tripcode faggot, and I said, "NO U?" Hehehe. We talked about other things too, I said "Sauce please" and we exchanged e-mail and our #'s and stuff. I asked her what she was doing this weekend, and she told me that after Raptor Jesus church tomorrow we could get together for lunch. I was shocked and said, "You just made me one happy weeaboo!" We laughed. On the way out she looked back at me, winked and said, "Call me! You gonna get raped!" To which I replied, "FOR THE HORDE!"
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     I came home from a rather different day at work. I'm a guidance counselor at a highschool, and I usually spend the day doing lame college applications work and acting as a bloody gopher for all the older counselers, but today the Vice principal asked me to talk to two girls who were having issues.
 
     Of course, that's the school psychiatrist's job, so I asked why I had to talk to them.
@@ -890,21 +894,21 @@ We talked about other things for a bit, I asked her what was her other favorite 
     ...was what I would have liked to have said. But I calmly explained that America was different from South Africa, and that they would have to learn to be more tolerant and less violent. I then scheduled them to see me next week for another chat, since I felt that there were some issues to be resolved.
 
     Oh, /B/, what should I do?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 So I'm super depressed right now. Last week, some girl at my school filed me & two of my friends for sexual harassment. We'd been making jokes at her expense for about a month, but she always accepted the jokes, reacted in a positive manner, and often made similar jokes herself (including squeezing her tits & offering lapdances). At the urging of a friend, she file harassment last Friday. Subsequently, my friends and I have been called down to the office about 5 times between Friday & today to talk to the principal, and lastly, the police officer at our school. Nothing "official" happened because of all this - while the chargest weren't dropped, the police officer said he thought we learned our lesson and let us go.
 
 But I just can't shake this depressing funk I've been in. When we talked to the officer, the girl was also in the room and had a chance to speak to us. She was really freaked out about it, which I really don't understand; like I said, she always reacted positively to the jokes. She said she couldn't stop thinking that we were in her house at night, ready to rape her. She'd try to do her homework, and couldn't do anything but think about what we said. She said she couldn't find anything to wear to school without thinking she's some harlot.
 
 Maybe I'm just reading too much into this. Maybe I'm just being an bosnian kid. Either way, I feel like shit. Anyways, I just wanted to get this out, and /b/ is obviously the most appropriate place to do it. Have at me, boys.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hey /b/, I am lonely.
 
 Will I ever find true love?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The air hostess, as she passed along the aisle of the plane on the transatlantic flight from Amsterdam to New York noticed that the baby, nestled between the couple who were asleep, didn't look very well -- in fact it looked extremely ill. Not wanting to disturb anyone she gently lifted up the baby and took it back to her station.
+
+The air hostess, as she passed along the aisle of the plane on the transatlantic flight from Amsterdam to New York noticed that the baby, nestled between the couple who were asleep, didn't look very well  in fact it looked extremely ill. Not wanting to disturb anyone she gently lifted up the baby and took it back to her station.
 Feeling the baby's forehead, she found it was cold and with a sudden panic she realized that the infant was dead.
 Calling upon a doctor she knew to be on board, he examined the baby and confirmed that, not only was it dead, but it was embalmed. The child's body had been hollowed out and it was full of the drugs that the couple were trying to smuggle into the States.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 WE ARE ANONYMOUS.
 OUR HATRED KNOWS NO LIMITS.
 WE HATE EVERYONE EQUALLY.
@@ -912,7 +916,7 @@ THE THINGS YOU LIKE SUCK.
 YOUR SEXUAL FETISHES ARE STUPID.
 ENJOY YOUR AIDS.
 RESISTANCE IS FUTILE.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I give up. I throw in the towel. Wave the fucking little white flag and every other stupid cliche way of surrendering. Life, you win.
 
 It wasn't supposed to be like this. I was "the smart one." I had potential. I was going somewhere... my life had a purpose. I unlike everyone else my age actually gave a shit. I was passionate. I had goals. I had dreams. I had a motherfucking plan... And now what has happened to me? What have I become? I am a shell of what I once was. I wake up everyday, monday to friday at 7:30 to go to my job that slowly kills me. Everyday a piece of my soul is ripped out in exchange for rent money, gas money, electric, water, money to piss away on things I won't remember I even purchased until one day I decide to clean up and come across it.
@@ -924,16 +928,16 @@ I quit writing. I hadn't written anything in over a year. Then I picked the damn
 I have fucked things up beyond repair. No one can save me anymore. I will just wait for my cubicle to close around me and I will die in the middle of all of my files that I haven't touched because I refuse to actually "work" at work.
 
 Cause of death? Black heart, no soul.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Let me give you a little inside information about life.
 As people get older, they forget about whats important in life. They reach and understanding with reality and convince themselves that they enjoy what theyre doing. That’s how the world works.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     I kept licking her asshole and rubing my mom's cunt until she came a second time. It was time. I saddled up behind my mother and she held her ass cheeks wide open for me. I stuck a finger in her cunt and gently scooped several fingers of her juices into her asshole for lubrication. Then I pressed my 7.5 inch peckerhead against my mom's anus and pushed. It wasn't easy, in fact I am almost sure that I could not have gotten in without her help. I took it nice and slow. Finally after several starts and stops I was deep in my mother's ass. I tried to remain calm. Susan was so hot and tight that I was afraid to fuck for fear I would come and it would be over. Eventually I relaxed and began a tentative in/out thrust. Mom softly rocked back to meet me. She was great at letting me go at my own pace and then matching me. I intended to make this last for a long time. So I brutally pounded my mom's ass for 5 or six strokes, and then Stopped to regain my control. 5 or 6 soft strokes and then bang 5 or 6 power fucks. Mom met me stroke for stroke. She kept clenching and unclenching her butt muscles. When I went in she relaxed, when I tried to come out she would clinch tightly, If you have never fucked a woman who knows how to ass fuck, by all means make it your New Year's Resolution.
     All good things must come to an end though, and the twitch in my balls told me this was no exception. I did not know how many strokes I had left but I decided to go out with a bang. I let mom have it for all I was worth. She was unable to keep up. Her hair was flying everywhere, her tits were jiggling, and she was letting out these pathetic little whimpers and sobbing moans punctuated by animal grunts as the breath left her body. At some point I lost it. "Take it slut, take my dick, take it all. I own you, I own this ass. Oh fuck, oh fuck mommy I am cumming. Stickin it in, stickin it all the way in!" I screamed as I came deep, down in the bottom of my mother's ass. I collapsed on her back and laid there for a moment to catch my breath. I noticed that my mom had not quite been able to come a third time. That just wouldn't do. "Spread your legs for me mom" I said quietly. "John no you promised..." "Do it mom, do it now.," I demanded. Mom laid ther on her back and did not move. Then slowly, hesitantly she spread her legs apart. I climbed on top of her and began to kiss her passionately.
     I slowly moved to each of her breasts and fondled and sucked them lovingly. By now my dick was hard again and it playfully rubbed against my mother's pussy lips. I continued planting little angel kisses all over her flat tummy. I stuck my tounge in her belly button, and swirled it around and around. My mom was panting helplessly by the time I reached her cunt. I started lapping at her like a thirsty dog determined to lick her clean. The more I licked the wetter she got. Susan started thrashing around wildly at this point, speaking gibberish, and for a minute thought I was my dead father.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 (NOT copy+pasta I just wrote it)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 It's at times like this that I wish I could suicide bomb all of /b/
 
 Listen you pathetic, damaged excuses for human beings. Making ignorant insensitive comments on your own message board is one thing, but infecting the lives of this pitiable family with your stupidity and apathy is beyond forgiveness.
@@ -943,34 +947,34 @@ If you posted some smartass comment in this guestbook, please, just go commit su
 You are obviously devoid of even the most basic sense of compassion. You know you will die miserable anyway, so just do us all a favor and speed up the process. The world will be a better place without you in it.
 
 You're not cool, you're not disaffected or desensitized or any other bullshit term you use to justify your lack of basic human feeling. You're bringing misery into the lives of innocent, unsuspecting people who already know more pain than you ever will.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hey /b/
 
 My gf is three year younger than me, and just turned 19. She's got that skinny-ass "glasses smart kid" look, and it cute as hell. I'm like the luckiest guy ever, and that isn't even all.
 
-She's still a virgin and is kinda scared about taking the plunge. But she is a vixen otherwise--a week ago, she went down on me for the first time without me even asking. It was fucking incredible.
+She's still a virgin and is kinda scared about taking the plunge. But she is a vixen otherwisea week ago, she went down on me for the first time without me even asking. It was fucking incredible.
 
-Last night we were cuddling and watching a movie, and she started coming on to me again, kissing and and pulling. She grabbed my crotch, and fuck, /b/--there is nothing hotter than a horny woman.
+Last night we were cuddling and watching a movie, and she started coming on to me again, kissing and and pulling. She grabbed my crotch, and fuck, /b/there is nothing hotter than a horny woman.
 
 I started pawing at her breasts and she totally went itno passive mode, and then she pulled me down to her mouth and whispered "...I want you to tie me up."
 
 I almost fucking came right then. I had no idea this chick was into bondage. I am THE fucking luckiest guy in the entire fucking world
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 So, I've been thinking about a remedy to the rich "problem." You look at these people, buying their 35 million dollar mansions, and what do you see? Waste. Why must one human enjoy all this unnecessary luxury? So, the solutions? Progressive taxes on the rich are a possible one, but too ineffective; it won't stop them from buying these million dollar mansions of waste. So I was thinking we could simply take the money of anyone who has over a certain amount, take any money they earn over that amount and leave them with enough money to be relatively wealthy but not too wasteful.
 
 A certain moral question crops up here in that we must consider "what if this person actually worked hard and earned much of their fortune?" Sadly, there is no answer to this question, for the good of the country, their wealth must, too, be expunged. We must believe that because no human being is that much more valuable than others to justify such an amount of wealth, that no one person should ever be allowed to out-earn others by such lengths.
 
 One of the major issues with this plan is that some of the rich, particularly the super-rich, will attempt to leave the country and seek refuge in a country that has a more lenient stance on wealth before the change takes place. They must be prevented from doing so by whatever means necessary, for all time, lest their inflated wages not be drawn for long enough to enrich the middle and lower classes.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear /b/,
 Ever since high school, there was this girl I liked. I followed her wherever she went (in secret, of course) and dreamed of someday being together with her every day. But, being much too shy, I could never admit this to her. So, our relationship continued on like this for years, with her completely oblivious to my obsession over her. Eventually, I followed her to college (sacrificing my dream to become an architect) hoping that one day, she'd notice me, and we'd be together.
 Then today I found out she was actually a lesbian.
 What am I supposed toI do now, /b/?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The obliteration of the World Trade Centre is multi-faceted and highly symbolic. It was a strike at the rotting foundation of the financial dementia that drives the materialist world and the people who obey its golden rules.
 
 It was a profoundly symbolic attack on what the WTC represents, and how its false hierarchy of wealth assists millions of ordinary citizens into slavery, subjugating them to a brutal, meaningless life in a world of relentless over-Industrialisation and vacuous specialisation.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 On the first day of World War III, the United States lost two-thirds of its military and nearly half its population, yielding superiority to communist China. U.S. orders of the day were of high alert, and there is simply no evading the fact that we were not ready.
 
 The Chinese rain of missiles on U.S. installations and homeland cities was a military masterpiece. The People's Liberation Army Second Artillery Corp achieved complete surprise, armed only with a small force of more than 300 tactical and 10 strategic missiles.
@@ -984,24 +988,24 @@ China sank five U.S. carriers, seven Ohio class submarines, vaporized more than 
 There is no question that the U.S. strategic missiles could devastate the Chinese homeland. However, killing hundreds of millions of innocent Chinese citizens would do little to deter the warlords in Beijing from launching the second wave of 10 missiles while remaining hidden inside bomb-proof tunnels.
 
 China's sudden and brutal attack forced America to surrender on Beijing's terms. In little more than 48 hours, China won World War III.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 JESUS CRISTO!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 All my friends are gay but i insist that i'm straight. Sometimes they will they will mock my heterosexualness by pretending to molest me. I know they are not serious but the truth is...
 
 I kinda lke it.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Loathe not the man who reposts thousand images once.
 Loathe the man who reposts one image, thousand times.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Here's the situation. My girfriend is smoking hot with huge tits and just enough of belly and butt to be cute as all hell. We've been going out for alittle over a year and a half now but she still won't do anything other than jerk me off and occasionally give me head and she won't let me do anything sexual to her. Why? She had a messed up childhood. I found this out the first we kissed after she flipped out crying like crazy and gave me a black eye. Turns out her older cousin molested her, used her as a human toilet (her exact words), and raped her from as far back as she can remember up until she was 10. He then decided to kill himself by having a run in with a train, which he made her watch. I think there's more that happened because anytime she's around dogs she starts to have a panic attack. I don't know if I can put up with this much longer but at the same time I'm honestly afraid to break up with her. A friend of mine at work knows whats going on and she says it'd be ok to cheat with her because of the streme circumstances.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Like others, I've arrived at the conclusion that there are only so many days for each of us on this Earth, and how we spend those days defines us. After witnessing the gleeful personal attacks on people in this forum today (and for the past 5 years), I've decided to "retire" from the forum.
 
 To those who take such joy in personally assailing people, I have nothing to say to you - you're not worthy of the effort. To the friends that I've made on this forum over the years, and you know who you are - I've got nothin' but love for ya
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I swear to God if you motherfuckers copy pasta this, I’m going to fucking cut you.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Do you really like someone??
 TELL THE TRUTH.
 If you REALLY like someone right now,
@@ -1017,7 +1021,7 @@ Will surprise you tomorrow.
 IF YOU BREAK THIS
 YOU WILL HAVE
 THE WORST LIFE STARTING NOW
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dear /b/,
 
 I am ESPECIALLY happy today. You know what this means..
@@ -1029,18 +1033,18 @@ Russian Roulette: /b/ Edition!!!
 Rules for newcomers: Open up the browse button, and mash your arrow and page up/down keys, stop whenever you feel like it, and post the picture you land on. If you post CP, you're eliminated! The last person standing wins!
 
 Good luck, and have fun!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 So about 2 or 3 months ago, I started to fall for one of my more attractive female friends at my school. I was weird because I’ve known this chick since 7th or 8th grade and she never really struck me as outstandingly attractive, but my junior year of highschool rolls around and suddenly she’s the cutest girl I’ve ever seen in my life. I thought she would go out with me since I’m hilariously witty and breathtakingly attractive, but she turned me down because she has a boyfriend about 90 miles away in some other town. However, she did say that if she wasn't going out with this douche, she'd definitely want to jump my bone (I'm... paraphrasing of course...). Now, I’ve tired to cover up and destroy whatever romantic urges I have towards her, but they just won’t go away.
 
 I guess what I’m trying to ask you, /b/, is…
 
 How do I steal girlfriend?
 I swear to God if you motherfuckers copy pasta this, I’m going to fucking cut you.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 /b/ I would like to annouce that I am, as of today, no longer a virgin. I had sex with someone today, she was 17, I am 17, she is actually somewhat hot, but not enough to brag about. We had sex at her house in her basement on a futon. I will remember it for all time.
 
 Post your first time sex story, or if you are a virgin, first time fapping story.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I love her.
 
 More than anything or anyone else.
@@ -1048,12 +1052,12 @@ More than anything or anyone else.
 And while not to sound emo, my admission is I'm my happiest and saddest when thinking about her. Happiest because it's just her, and saddest because everytime, eventually, the crushing realization I can never have her, stroke her hair, spend *real* time with her hits me before it's over with.
 
 I dreamt about her last night.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 It must be a conspiracy.
 Agents everywhere.
 The hills have eyes.
 They are watching you.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. If you ask Chuck Norris what time it is, he always says, "Two seconds till." After you ask, "Two seconds to what?" he roundhouse kicks you in the face.
 2. Macgyver can build an airplane out of gum and paper clips, but Chuck Norris can kill him and take it.
 3. Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
@@ -1085,7 +1089,7 @@ They are watching you.
 29. Chuck Norris is not lactose intolerant, he just refuses to put up with lactose's shit.
 30. Chuck Norris can divide by zero.
 31. When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Whoever ruins this
 
 will be single
@@ -1099,17 +1103,17 @@ weekend is this Friday-Tuesday
 If you repost this in the next 7 minutes of reading,
 you will be kissed
 by someone who really likes you
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hello, I am writing this book because I was recently contacted by God. Because of my meeting with God, everything I have said and may say in the future will be completely true. With that, I assure you, everything in this book is completely true.
 
 God told me that 2+2=5.
 
 If you do not believe me, you are inferior as your mind must not be able to comprehend the pure good and truth which is the word of God. If you do believe me, tell everyone you can, kill everyone who does not listen, and avoid the progression of the human race as much as possible.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 There is a plague consuming humanity. It claims men and women, children and seniors, people of all sizes and colors. It grows with each new victim, often claiming its targets the moment they can communicate. It extends its influence through golden-paged books and simple, inviting icons. It hides behind lists of supposed morals and values that, in the end, support nothing but egotism and lunacy. It consumes neighborhoods, states, and governments. The lives lost in the wars crated by it are both numerous and continuous. A large majority of the human race is already infected. It is religion, and it has the ability to end the human race.
 
 Fortunately, there is a cure. It lies in the hearts of mankind, but is often restrained or even destroyed by the oppression and bigotry of religion. Within the minds and hearts of humanity, there is a want, a need, to learn. To explore, to understand, to know, it is the core of the true nature of our existence. This continuous quest for knowledge, for understanding, and ultimately wisdom, is the one last vestige of hope for our race. We must embrace this need to learn, must let it grow and prosper, for it will better us in ways we have yet to even imagine.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 bloodninja: Ok baby, we got to hurry, I don't know how long I can keep it ready for you.
 j_gurli3: thats ok. ok i'm a japanese schoolgirl, what r u.
 bloodninja: A Rhinocerus. Well, hung like one, thats for sure.
@@ -1159,7 +1163,7 @@ eminemBNJA: Oh shit
 BritneySpears14: I swear if you do it one more time I'm gonna report your ISP and say you were sending me kiddie porn you fuck up.
 eminemBNJA: Oh shit
 eminemBNJA: damn I gotta write down your names or something
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 bloodninja: Wanna cyber?
 Katie_007: Sure, you into vegetables?
 bloodninja: What like gardening an shit?
@@ -1182,7 +1186,7 @@ bloodninja: My turnips listen for the soft cry of your love. My insides turn to 
 Katie_007: What the fuck is this madlibs? I'm outta here.
 bloodninja: Yeah, well I already unleashed my cauliflower, all over your olives, and up in your eyes. Now you can't see. Bitch.
 Katie_007: whatever.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 bloodninja: I lick your earlobe, and undo your watch.
 Sarah19fca: mmmm, okay.
 bloodninja: I take yo pants off, grunting like a troll.
@@ -1206,7 +1210,7 @@ bloodninja: Yeeaahhhh.
 Sarah19fca: /ignore
 bloodninja: Its cool stone cold she was a bitch anyway.
 bloodninja: We get on harleys and ride into the sunset.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 bloodninja: Wanna cyber?
 DirtyKate: OK, but don't tell anybody ;-)
 DirtyKate: Who are you?
@@ -1238,7 +1242,7 @@ bloodninja: I can no longer resist the pizza. I open the box and unzip my pants 
 DirtyKate: What the fuck?
 DirtyKate: You perverted piece of shit
 DirtyKate: Fuck
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Wellhung: Hello, Sweetheart. What do you look like?
 Sweetheart: I am wearing a red silk blouse, a miniskirt and high heels. I work out every day, I'm toned and perfect. My measurements are 36-24-36. What do you look like?
 Wellhung: I'm 6'3" and about 250 pounds.I wear glasses and I have on a pair of blue sweat pants I just bought from Walmart.I'm also wearing a T-shirt with a few spots of barbecue sauce on it from dinner...it smells funny.
@@ -1315,7 +1319,7 @@ Wellhung: I've found my glasses. I'm putting them on. My God! One of our candles
 Sweetheart: Go to hell. I'm logging off, you loser!
 Wellhung: Now the carpet is on fire! Oh noooo!
 Sweetheart: <logged off>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 sweet17: Hi
 bloodninja: hello
 bloodninja: who is this?
@@ -1515,7 +1519,7 @@ bloodninja: ...going limp again.
 bloodninja: Hello?
 bloodninja: Say it!
 bloodninja: HAARRRRRR!!!!!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Partner6: So you're really a 18 yr old girl right?
 J-Dogg: Yeah, J for Julie.
 Partner6: So whats with the "Dogg"
@@ -1781,7 +1785,7 @@ cheesedog: HE RIPS YOUR WHITE TITS OFF!
 VictimX_27: FUCK YOU!!!!!!!!
 cheesedog: **Plays volleyball with them**
 VictimX_27: <USER HAS LOGGED OUT>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 tekubus2002: hello
 tekubus2002: are you nice girl
 a_m_b_e_r_4_e_v_e_r: Yes! A/S/L?
@@ -1952,14 +1956,14 @@ tekubus2002: it cannot be a devining rod
 tekubus2002: i have not had much success with finding water while it is elongate
 tekubus2002: only if while i urinate in the direction of my face
 a_m_b_e_r_4_e_v_e_r: Do you do that often?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 hammer and sickle on my flag
 a new hope dawned on us
 the bourgeois in the gulag
 stop capitalism and all that fuss
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 throw away your tripcodes, for today you are men1
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Yesterday I found a topic about stealing/retreiving a password
 
 To obtain someone else ID & p@ssword for WoW:
@@ -1989,24 +1993,26 @@ message body:
 "pwd.rtrv" ID_"Shadowdemon"
 pwd_"magic123"
 subjectID_"CHERRY"
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-_____ are so fucking cute and sweet. I'd treat them to some fancy restaurant, then take a long romantic walk with them, holding hands and talking about philosophy, art and dreams. Then I'd invite them to my home and ravage their hot asses for hours, and forcing my cock down their throats so they'd choked on both the throbbing cock and their own rectal juice. I'd then proceed to cum on their cute innocent face. Then, as the ultimate love gift, I'd carry them in my arms to the tub and let my piss wash away the semen and last dignity from them. I'd whisper "I love you" and give them a tender smile, and cut their throats from ear to ear with a knife. Covered in their own warm blood, they'd look straight into my very soul, forgiving, understanding. A bubble from blood and saliva would burst between their lips, then they'd die. After some additional lovemaking, I'd stuff them in a bin bag. Little later, some playing children will find their mutilated and desecrated bodies in the forest. They will be scarred for life.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IN AD 2006, WAR WAS BEGINNING
 
-MOOT: WHAT HAPPEN?
-SNACKS: SOMEBODY SET UP US THE LOLI.
-XENON: WE GET SIGNAL.
-SNACKS: MAIN SCREEN TURN ON.
-MOOT: IT'S YOU!
-THE FBI: HOW ARE YOU GENTLEMEN.
-THE FBI: ALL YOUR CP ARE BELONG TO US.
-THE FBI: YOU ARE ON THE WAY TO JAIL.
-THE FBI: YOU HAVE NO CHANCE TO SURVIVE MAKE YOUR TIME.
-THE FBI: HA HA HA HA
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____ are so fucking cute and sweet. I'd treat them to some fancy restaurant, then take a long romantic walk with them, holding hands and talking about philosophy, art and dreams. Then I'd invite them to my home and ravage their hot asses for hours, and forcing my cock down their throats so they'd choked on both the throbbing cock and their own rectal juice. I'd then proceed to cum on their cute innocent face. Then, as the ultimate love gift, I'd carry them in my arms to the tub and let my piss wash away the semen and last dignity from them. I'd whisper "I love you" and give them a tender smile, and cut their throats from ear to ear with a knife. Covered in their own warm blood, they'd look straight into my very soul, forgiving, understanding. A bubble from blood and saliva would burst between their lips, then they'd die. After some additional lovemaking, I'd stuff them in a bin bag. Little later, some playing children will find their mutilated and desecrated bodies in the forest. They will be scarred for life.
+
+## 4chan gets V&
+
+	IN AD 2006, WAR WAS BEGINNING
+	
+	MOOT: WHAT HAPPEN?
+	SNACKS: SOMEBODY SET UP US THE LOLI.
+	XENON: WE GET SIGNAL.
+	SNACKS: MAIN SCREEN TURN ON.
+	MOOT: IT'S YOU!
+	THE FBI: HOW ARE YOU GENTLEMEN.
+	THE FBI: ALL YOUR CP ARE BELONG TO US.
+	THE FBI: YOU ARE ON THE WAY TO JAIL.
+	THE FBI: YOU HAVE NO CHANCE TO SURVIVE MAKE YOUR TIME.
+	THE FBI: HA HA HA HA
+
 Do you ever just stop thinking about how shitty life is, for those brief shining moments listening to your favorite song, or laughing and screaming with your friends on a roller coasteror at a concert, or reading a really entrancing book in your pajamas on a rainy sunday morning, and think that maybe life isn't so bad, that your luck will change and all your dreams will come true? That you can take iniative, make changes, that if you try you can be content and everything will end okay? Then lapse back into depression and disillusion?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Despite your pseudo-bohemian appearance
 And vaguely leftist doctrine of beliefs
 You know nothing about art or sex
@@ -2032,7 +2038,7 @@ It's the same superiority complex
 Shared by the high school jocks who made your life a living hell
 And makes you a slave to the competitive capitalist dogma
 You spend every moment of your waking life b.tching about
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 There's no Racial Bigotry Here You're all Equally Worthless.
 Sir, Yes Sir.
 
@@ -2062,22 +2068,22 @@ We are Earthlings. The only label that matters.
 No longer will I classify myself as Caucasian (I never really did classify myself as Caucasian XD). From now on I'm an Earthling.
 
 Because only on Earth could scum become heroes.  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 lol, I had a weird ddream last night. I was walking down the street and this car stopped next to me. I looked back and saw a guy, then I looked again and saw Moot. I yelled "It's Moot!" and lots of people rushed to him but then he changed he didn't look like Moot. I realized this and said "It's a trap!" Then he left and then I woke up to type this. O_o
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 EVERYONE BELOW THIS LINE IS A FAGGOT. IF YOU ARE A FAGGOT ALREADY THEN YOU ARE NOW STRAIGHT, LOVED AND ACCEPTED BY EVERYONE YOU KNOW.
 
-------------- THIS IS THE LINE -----------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- THIS IS THE LINE -
+
 My mom is telling me that I should get off of the computer. They are gonna cancel the internet so I can get off of the computer for about a month. I do not know what to do. I spend at least 8 hours a day online. I know I can get carpal tunnel syndrome, glaucoma and other shit. But who wants to live to be 80 years old? She doesn't know what this means to me. /b/ is my only friend, the place where I can say what is on my mind. Should I just start to use it a lot less? I do not know what to do. What should I do instead? I want to be online yet I do not want to be old and regret how I wasted my youth fapping to gay porn. I often think of my friends and see that they are not like me. They have bf/gf and they go outside. They are not shy, sweaty otakus who obsses over some camwhore. I do not know anymore.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Unbreakable Union of Soviet republics great russia has wielded forever to stand!!
 Created in struggle, by will of the people, United and Mighty our Soviet Land!!!
 
 Forth commrades! Fear not the black plague of the Nazi Capitalists!!!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 That you are wrong my friend. Though corrupted, the ideology was a beautiful thing, it is just not functional in a human world. Communism in theory is great. I grew up in Moskau, maybe I am too old to be on this board now, but I served for 3 years in the red Army, from my 18th birthday until the collapse of the Soviet Union. That is when I move to America. I still honor the soviet union, and the greatness it once held, but in the last 30 or so years of the Union, from looking at history books, it seemed to be on the decline.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 　　　　　　　　　　　　　　　　　／
 　　　　　　　　 　　　　 　 　　 ＼ 　　　　 ＿
 　　　　　　　　　　　 　 　 　＼／　 ○|＿|　
@@ -2087,31 +2093,31 @@ That you are wrong my friend. Though corrupted, the ideology was a beautiful thi
 　　　　 ＼／＼     　　　　　　　　　　　　　　 　　　　　　　 |￣ 　 　○
 　　　　 　　　／○　　　　　　　　　　　　　　　 　　　 　　　￣|　 ／＼
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　＼　
-＿|￣|○ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　／ 　 ＿|￣|○ 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-REIREIREIREIREIMORD0ORREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREI
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	＿|￣|○ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　／　 ＿|￣|○ 
+
+	REIREIREIREIREIMORD0ORREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREIREI
+
 Have you ever tried to explain to people who don't visit /b/ why the internet is funny.. then realize you are totally wasting words like 'interbutts', 'lolcows' and 'bix nood' on most people. /b/ has made my life better.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 No-one understands me except you guys. I think i'll write some poetry unless.. discuss how /b/ has changed your life for the better.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 We are Goth. We sacked Rome to express the shadow of emptiness in our black and tortured souls.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I’ve spent just shy of 5 years on this board, and I feel I need to let you guys know this. This isn’t a fake like Wing: I’m ending my life. A combination of money, school, and (consequently) housing problems has created a burden I can’t bare. I know this makes me a coward, but that’s okay. With any luck, I won’t be around for you to call me that.
 
 I want you guys to know I had a lot of fun. It’s sad so many left, but they few of you still around – you guys were just as good friends as those I had in real like in some ways. Thanks for it all.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 the great thing about this picture is because of its depiction of how her lower body is being slammed upward by the sheer force of the internal blows she is taking to her cervix via the bug-monsters huge erect PENIS, as well as the extreme pain and emotional distress being caused to her frail psyche by the knowledge that not only is a giant bug-monster receiving pleasure from her internal torment, but that also her reproductive tract is being irreparably damaged.
 
 some people might consider me a misogynist
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 When your beloved is 16 months old you have no idea that this day, this day when he does not hop up with excitement on the windowsill, does not fly onto your bed but must be fetched, lies quietly while you decide to call the vet just in case, protests as usual as you stuff him into his plush, luxury kitty carrier, moans as you drive down the road, then lies quietly, cowers at the dogs barking at the vet, the cats meowing, then begins to breathe more rapidly, does not want to get up from the weighing scale, is carried by the distressed vet to the back room where you go to see him, frantic now, wanting only to go home with you.
 You do not know as you drive home in tears, in shock, as you want to turn around, go back, sit by his side, as you go home anyway, as you get stopped for forgetting to register the car and the young policeman, hearing your words and seeing your face, says " I lost two last year" and lets you go, still you do not know when you come home, wait by the phone, hear that he is sleeping, is resting, may make it through, may survive on medication for years, ten maybe, you wait by the phone, you wait for the time you may return, hold him again, feel his wet kiss, his soft fur, his tiny body, still you wait until the final call and you never realized it would be the last day.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 How do you guys handle your PMS when you get it? I had a horrible day yesterday and was super snappy at everyone. so much so that my husband got mad and sent the kids out to play and went and took a long shower to get away from me. which ultimately just made me cry since i didn't even realize i was doing it and then felt bad so cried for a long time. so how do you handle days like that to stop from upsetting people?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A woman has a close male friend. This means that he is probably interested in her, which is why he hangs around so much. She sees him strictly as a friend. This always starts out with, you're a great guy, but I don't like you in that way. This is roughly the equivalent for the guy of going to a job interview and the company saying, You have a great resume, you have all the qualifications we are looking for, but we're not going to hire you. We will, however, use your resume as the basis for comparison for all other applicants. But, we're going to hire somebody who is far less qualified and is probably an alcoholic. And if he doesn't work out, we'll hire somebody else, but still not you. In fact, we will never hire you. But we will call you from time to time to complain about the person that we hired.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Anonymous will inform you that they have the right to say, do and draw whatever they want and there's nothing you can do about it.
 
 Remember, Anonymous DO have the right to say, do, write and draw whatever they want, but everyone else has those rights too, not just Anonymous.
@@ -2119,9 +2125,9 @@ Remember, Anonymous DO have the right to say, do, write and draw whatever they w
 I can mock Anonymous all I want, I can laugh at their stupid artwork, I can cackle at their poorly written poetry and stories, I can stare in awe at how much money they spend on Supporting 4chan, I can post "FAGGZOR" in their Threads if I want to and I will speak to Anonymous in the gayest language I can muster and there's nothing they can really do. Anonymous often wave their cocks around as an anything-goes pass to let them do whatever they want while avoiding banination, but constantly forget that it also applies to others. They often seek to silence anyone that opposes them or mocks them, completely missing the irony of doing so. That brings us to the next point...
 Anonymous will take special care to tell you how they have 'won' an argument at every turn, they will also twist words and use twisted logic to make themselves seem superior. Remember, Anonymous can never truely win an argument, since at the end of the day when everyone goes home, they are still Anonymous and you are not. In this sense, Anonymous can never put forward a winning argument. A simple rebuff of any argument with "But you are Anonymous" is invincible.
 When in trouble, Anonymous will often start to post modified Garfield cartoons in an attempt to mock you. Remember, arguing with Anonymous is much like arguing with the internet. Even if you think it understands, it's the fucking Internet. It'll just google it.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I dunno... I've mastered "Complete Faggotry" to level 10 (MAX). So much of being in my presence will cause fatal consequences. That is why I have to converse with people across the internet.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 this is 4chan.
 this is /b/
 
@@ -2132,9 +2138,9 @@ we are 4channers. the people devoid of any type of soul or conscience. products 
 4chan is a place of sheer genius and utter stupidity, and there is often a thin line dividing the two. 4chan created E-surance porn simply because no one else had it. here you will see a state of mind that exists in most human beings, but is rarely if ever shown. 4chan is any sociologists wet dream. this is a place where taboos do not exist. 4chan cannot simply be regarded as a simple website or imageboard. it is so much more than code. it is never tiring, never yeilding, never finishing. 4chan is alive and constantly changing. this is a subculture, a self-governing sect of the world. rich in history and foundation. to become a 4chan user is to speak a different language. to leave behind any methods of conventional thinking you once knew.
 
 there are things here that you will not understand and things you never will understand. if you cannot accept this then GTFO now. because there is no turning back.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 harblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharblharbl
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Why hello there /b/;
 
 It’s me, the epithet of failure, and I’m here again, just to be a annoying prick right in your acne stained /b/tard face. You probably all hate me, because I fail so much it’s hard to forget. Anyway, I whine an awful lot and today I will do it even more. That’s why I am here right now. You see /b/ I have some serious emotional issues, for many reasons. Of course my life in many ways could be worse but sometimes I just feel so fucking bosnian, I would’ve killed myself long ago had I not been such a weak pussy.
@@ -2145,7 +2151,7 @@ I’m kind of pathetic. Oh, sorry. I meant very. A loser on the intrawebs as wel
 What should I do? I’m too stupid to decide for myself. HELP ME /b/! OK; I admit, I'm doing this because I'm bored out of my mind. Now, back to gaia. <3
 /cutwrists
 *unrecognised command, please try again*
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     Back then, I started having homosexual feelings for a guy from my soccer team. I felt lost as my religion condemns this, and clearly, I was being tempted by the devil. I ran here for help, and many of you offered your prayers. I appreciate that. Clearly though... I did not do my part. May, I started liking Tim. It happened as an accident. After a soccer victory, we were in the locker room at our school. As a school rule, we are not allowed to change in front of each other, but we have to cover ourselves with a towel... this day, as Tim grabbed a clean change of clothes, his towel slipped off and I got a clear view of his [private parts]... although I'd had girlfriends before, the sight of another man's [private parts] seemed to make me feel excited. I was being tempted by the devil. I stared for what seemed like an awkwardly long time, until Tim caught my eye. Surprisingly, he didn't seem to mind having another guy stare at him!
     Up till June, thoughts of Tim tormented me... I thought of him at the oddest moments. It didn't help that he had suddenly started talking to me... I ran here for help. However, in July, Tim and I shared a kiss. It all went downhill from there. Also in July, my mom caught Tim and I naked in my room. Mind you, we hadn't done anything sexual yet... but we were naked together. My mom kicked Tim out of my house. We had a conversation in which I told her I was gay. She made me choose between her and homosexuality. I chose homosexuality, and got kicked out of home that day. I was hurt. I loved my mom, but I was so deep in my ways. I rang up Tim and he agreed to let me stay at his house. Now Tim, he lives alone with his mom, who is hardly ever there, and who honestly doesn't pay attention to what goes on in his life... for us at the time, though, this was very convenient. This day, my first day at Tim's house, I commited great sin. Tim and I got sexual, to say it briefly. I found some kind of comfort in Tim, although I knew that my relationship with him was the reason my life had gone downhill and that God condemns homosexuality.
     I lived with Tim the rest of the summer. September came, and we started fighting once school started. We went to a private school, and apparently my mom made sure to let the school know I was not living at home. I was not allowed to attend, as part of a school rule. Tim, on the other hand, continued to go to the same school. While Tim worked at school, I was wasting my life. At night, I would go to local gay bars and parties... I'm not going to lie, but I would sometimes sleep with men I had never met before, and used drugs I didn't even know the name of. It's what everyone was doing, and I felt a need to fit in. Eventually Tim and I had our biggest fight, and I left his house.
@@ -2156,13 +2162,13 @@ What should I do? I’m too stupid to decide for myself. HELP ME /b/! OK; I admi
     I am not proud of what I did at all. Particularly, I am not proud of losing my virginity at this point in my life, to a man no less, and then doing it with as many men as I could. However, I look forward to saving myself from now on, and I'll look forward to saving myself for a woman, and making love to my wife the way God meant it. I've also been thinking of making this promise at church with a promise ring, what do you guys think? Or is that for girls only?
     As an ending note, I will pray that those like Tim or Eli will be helped by God to see the error of their ways.
     Thanks everyone for bearing with me.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Also...you need to come to the realization that The Bible was written by a bunch of patriarchal facist mysogynists whose only real desire was to keep the power within their own structure.
 
 Also, if you can't do that, realize this. The parts of the Bible that tell us being Gay is wrong is the same part of the bible that tells us "You cannot touch a woman during her period." And "You shall not eat the meat of pigs." and a bunch of other stuff that NO ONE LISTENS TOO.
 
 So...unless you wanna stop playing football, you can go about your homosexual realization in peace.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hold your ground! Hold your ground!
 Sons of 4chan, of YTMND, my brothers,
 I see in your eyes the same fear that would take the heart of me.
@@ -2180,12 +2186,12 @@ This day we fight!!
 By all that you hold dear on this good messageboard,
 I bid you stand, Men of the Internet!!!
 -Anonymous
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 　／l、
 （ﾟ､ ｡ ７ 　
 　l、 ~ヽ
 　じしf_, )ノ
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Okay so I get on the train, I sit in a 3 seater by the window...there are a bunch of other seats open or whatever and this family of 4 comes and 2 of them sit with me and 2 sit next to them in the 2 seater...
 
 Which boggles my mind because they could have easily taken 2 2 seaters and left an open space on the 3 seater with me but no, they had to be jerks....so anyway, this guy gets in and spills his coke all over my pants and shirt....
@@ -2199,7 +2205,7 @@ And I go "well buddy, maybe if you were paying attention to where you were putti
 At this point the guy is basically in my face and his girl screams "daddy make the stupid boy leave" and I go "yeah, make me leave daddy" and he was like "come on kids, lets get out of here" and as they were walking away the guy tells me to learn some manners.
 
 I see his daughter is holding a harry potter book in her hand I go "tell your daughter that dumbledore dies on page 606" and immediately this like 13 year old girl bursts into tears and soon after her older looking brother did too the dad was speechless and walked away.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     The quiet night lies empty all around me. Upstairs someone snoring loudly, and the house is empty. It is all mine. As long as I am silent I can do whatever I want. Yet another sleepless night is passing by like a commercial on TV. I’m tired but tonight there will be no sleep. Want to know why? No? Well, I didn’t except you to. All the lamps in the house are off, it’s totally dark and the orange tint from the streetlights outside makes its way inside.
 
     Without prior provocation, while sitting in front of the computer screen watching anime I suddenly feel a furry arm upon my shoulder, and I realise I am unable to move. On the backyard outside to my left, I notice a weird light is shining. I struggle to get free, but I cannot move. Something moves the chair I am sitting on away, levitating through the air, you know, like they always do in the movies you can catch at five in the morning.
@@ -2215,13 +2221,13 @@ I see his daughter is holding a harry potter book in her hand I go "tell your da
     The furry alien sits down on my viciously throbbing PENIS, and I feel her wet vaginal fluids march down along my thrusting victory blade. She begins to move up and down, and I feel a odd stinging sensation from my balls, down between my legs where the syringe still is protruding. I am weak and inexperienced, never before having had sex being the loser I am, but anyway I rapidly reach climax, feeling her vividly playful vaginal muscles thrust against my erect rectum-ravager. The hard throbbing cock inside her moist secret cave, to depths never before explored by man…
 
     And I came! She quickly jumped off my cock as soon as she felt it coming, and I see that green substance pouring out from the top of it like a disastrous volcanic eruption. Before my eyes weird sex scenes flash by, and I know so clearly that this is the happiest day of my life. I come some more, the green stuff mixes with my gloryvic manseed, and I feel so pleased it makes me want to sleep. Like they always do in the movies after having boring sex.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Flowers bloom and die
 Wind brings butterflies and snow
 A stone won't notice
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Man created God in their own mind, thus creating an Illusion. God created man in his own image, thus creating Reality. Therefore, God is an illusion of a man's reality. Once you realizes that God is a man's creation, you will begin to understand that this world is Hell, and Heaven is when we realizes we created hell.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ………………………………..__…………………………………………
 ………………………..,-~*’`¯lllllll`*~,……………………………………
 …………………..,-~*`lllllllllllllllllllllllllll¯`*-,………………………………
@@ -2236,14 +2242,14 @@ Man created God in their own mind, thus creating an Illusion. God created man in
 ……………../.../…/…/..,-,..*~,.`*~*…………….*...\……………………
 …………….|.../…/…/.*`...\...……………………)….)¯`~,……………...
 …………….|./…/…./…….)……,.)`*~-,……….../….|..)…`~-,………….
-……………/./.../…,*`-,…..`-,…*`….,---…...\…./…../..|……...¯```*~-,,,,
+……………/./.../…,*`-,…..`-,…*`….,-…...\…./…../..|……...¯```*~-,,,,
 …………...(……….)`*~-,….`*`.,-~*.,-*……|…/.…/…/…………\……..
 …………….*-,…….`*-,...`~,..``.,,,-*……….|.,*...,*…|…………..\……..
 ……………….*,………`-,…)-,…………..,-*`...,-*….(`-,…………\…….
 ……................f`-,………`-,/…*-,___,,-~*….,-*……|…`-,……….\…….
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I wonder what's like to go through life thinking every action more complicated than falling is an act of God?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 THIS IS JUST TERRIBLE
 
 A touching true story: Please help little Billy Evans.
@@ -2277,9 +2283,9 @@ I wish I could hold a kitty that wouldn't chew on me and try to bury its poo in 
 Thank You,
 
 Billy "Smiley" Evans
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A few years ago, a mother and father decided they needed a break, so they wanted to head out for a night on the town. They called their most trusted babysitter. When the babysitter arrived, the two children were already fast asleep in bed. So the babysitter just got to sit around and make sure everything was okay with their children. later at night, the babysitter got bored and went to watch TV but she could not watch it downstairs because they did not have cable downstairs (the parents didn't want their children watching too much garbage). So she called them and asked them if she could watch cable in their parents' room. Of course the parents said it was ok, but the babysitter had one final request. She asked if she could cover up the owl statue in their bedroom with a blanket or cloth, because it made her nervous. The phone line was silent for a moment, and the father who was talking to the babysitter at the time said, "Take the children and get out of the house... we will call the police. We do not have an owl statue.." the children and the babysitter where murdered by the owl. It turned out to be that the owl was a killer that escaped from jail. If you do not repost this within five minutes the owl will be standing next to your bed at 4:00 a.m. with a knife in his beak.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I can't stop eating. Everytime I sit down, stand up, use the bathroom, sneeze, cough, blow my nose, speak, I'm cramming some type of food into my mouth. This morning for breakfast before work I ate three donuts and a sausage egg and cheese sandwich thingy from McDonalds. For lunch, I not only bought a catered lunch but also two double cheeseburgers and a large order of fries from Wendys. I spent most of my next hour eating the french fries seeing as I wasn't given enough time to eat them during my thirty minute lunch break.
 
 Two hours ago, at dinner, my mom baked chicken. I couldn't stop. I just kept eating and eating and pretty soon, between the three of us (Dad, Mom, and I) the chicken and all of the side-dishes were gone. It was a whole freaking chicken.
@@ -2291,7 +2297,7 @@ And what makes it worse is that I'm still hungry. I want so badly just to go to 
 Good grief, you guys, I'm twenty-eight years old and I've never even kissed a guy yet. I've never made love. No one but my mother and I have seen me naked. I hid all the mirrors in my house and I broke my last scale a week ago. What can I do? Where can I go? Who can I talk to? I'm so lost
 
 how she order all that food n mother fuckin diet coke?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 You fucking whore. I cant believe I ever loved you, let alone liked you. Youre worse than fucking Kitty. Youre worse than anyone Ive ever met, you goddamned stain-upon-the-Earth.
 You should have committed suidcie when we broke up; that way you wouldnt have been able to spread your arrogant, lying, putrid, hypocritical, sluttish, lustful ways to the innocent. Fucking pig.
 I'm saying this from the bottom of my fucking heart (yes, I do have one):
@@ -2306,14 +2312,14 @@ For the good of everyone.
 
 Fuck you.
 Im sorry I ever fucking met you.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Every single day of your life, you put your hands together.
 Every single day of your life, you believed that there was something greater than yourself that you could put your trust and faith in.
 But what if God doesn't exist.
 Every single day of your life was a lie, was a waste.
 What would you do?
-------------------------------------------------------------------------------------------------------------
---------------------------------------------------------
+
+
 I cant believe what i have done. I told the girl i love that i would call her today and when i did her dad said she wasnt home but said he would tell her i called. But then she sends me a message and says that i made her sad cuz i didnt call. But i did call and now i feel horrible cuz her dad didnt tell her i did. I must be the worst person ever. I really dont know why im still alive. I fucking hate life and i dont deserve someone as good as her. If your reading this becca im sorry and i love you.
 
 

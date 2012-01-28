@@ -5,8 +5,8 @@ Chapter 1
 1:4 for teaching us how to get real fast, knowledge of how to shot web-
 1:5 let the /b/tards listen and add to their epic failure, and let the depressed an hero-
 1:6 for understanding Memes and the ways of /b/, the sayings and copypasta of the collective.
-1:7 The fear of Anonymous is the beginning of knowledge, for you gonna get raped.
-1:8 Listen, comrades, to /i/surcency's instruction and do not forsake its teaching.
+1:7 The fear of [[Anonymous]] is the beginning of knowledge, for you gonna get raped.
+1:8 Listen, comrades, to /i/nsurgency's instruction and do not forsake its teaching.
 1:9 The Memes come from all corners of the interwebs, some come from the chans, some for something awful, others come from places unknown. 
 1:10 Many of the Memes created on the chans do not spread throughout the internutz like cancer, some say and linger at its place of origin like AIDs.
 1:11 The lifespan of a Meme is easy to track; a Meme is born, and becomes popular local to its origin.
