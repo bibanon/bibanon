@@ -1,4 +1,4 @@
-The **[[Bibliotheca Anonoma]]** is a [[Git]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens [[even while offline|BibAnon SDK]].
+The **[[Bibliotheca Anonoma]]** is a [[Git]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens even while offline.
 
 ## Intro
 
