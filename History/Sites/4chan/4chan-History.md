@@ -1,28 +1,74 @@
-Originally pulled from [Jonathan's Reference Pages](http://www.jonnydigital.com/).
+This page details the complete history of 4chan in the format of a conventional college-level history book.
 
 ## Help
 
-This page needs to be enhanced, perhaps turned into a book. Here's a document about 4chan and it's history that I haven't read
+This page needs to be enhanced, perhaps turned into a book.
 
 ## 4chan history
 
-4chan.org is the website that introduced the imageboard concept to the English-speaking world.
+4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported parts of their 
+
+_You're free to change this as needed_
+
+* Prehistory (1996-2003)
+* Genesis (2003-2004)
+* Mootxico Era (2004-2005)
+* Civil War Era (2005-2006)
+* Golden Age (2006-2007)
+* Chanology Era (2007-2010)
+* Payback Era (2010-)
+
+## Prehistory
+
+_Most of this comes from a secondhand source, the [[4chan History Timeline]]. Please correct any problems you see._
+
+4chan may have been the most successful English anonymous discussion board, but it was neither the first nor the most popular.
+
+Strong parallels to [[4chan]], [[7chan]], and [[Anonymous]] can be identified in [[Ayashii World]], [[2channel]], and Nanashi World.
+
+### Ayashii World
+
+Full Article: [[Ayashii World]]
+
+In 1996, a man named Masayuki Shiba creates an anonymous BBS called [[Ayashii World]] (Strange/Suspicious World). Here, Warez and cp are commonly posted, and there is a gesu (scum) board where website hackings and invasions are discussed.
+
+Inspired by it's revolutionary approach, many similar BBSes are formed, collectively called Nanashi Warudo (Nameless World). Like 4chan, these sites develop a culture based on memes, which became popular a while later. Ayashii World functioned as the hubsite of Nanashi World in a similar way to 4chan and Anonymous.
+
+Ayashii World never had good servers, and shutdowns were commonplace for various reasons. After Masayuki Shiba received personal threats over the server issues, in 1998 he shut the site down for the last time.
+
+### 2channel (2ch.net)
+
+Full Article: [[2channel]]
+
+Nanashi World moved off to [[Amezou]], the First Channel. At the time, it was merely a bunch of links to alternative BBSes, but soon becomes its own forum and introduces a new style of threaded message board, dependent on bumping and saging.
+
+With a userbase larger than that of most cities, the First Channel was dead by 1999. An American college student named Hiroyuki Nishimura took up the challenge and created [[2channel]], the Second Channel. Using code based on the first, the site employed Californian high-traffic servers to handle the exponential growth.
+
+2channel ended up becoming the longest running This was the text-based BBS featured in the film and TV series [[Densha Otoko]].
+
+### Futaba Channel (2chan.net)
+
+By April 2001, [[2channel]] began to fall apart as data transformation bugs threatened to render the entire website unusable. Users began to warn of the coming apocalypse while volunteers from across Japan worked to find a solution.  
+
+Just like before, multiple backup forums were created to house the refugees. Most were blatant copies of the textboard format, but one website called Futaba Channel (2chan.net) took it as a chance to experiment with a revolutionary idea: the Imageboard. 
+
+With the textboards of the past, only experienced artists were able to make complicated Shift-JIS art. Now, with the power of images, anyone could post advanced content, perhaps as a topic of discussion.  The site developed a unique culture all its own, growing out of the seed culture brought by the 2channelers.
+
+ discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself was conceived as a replacement for 2channel (2ch.net). 
+
+## Genesis
+
+*Originally written on [Jonathan's Reference Pages](http://www.jonnydigital.com/).*
 
 4chan was founded in 2003 by a kid from an IRC channel I visited at the time. It got popular purely by accident and when costs began to spiral
 out of control we told him the site was doomed to failure. If I had known it one day become a dominant source of Internet culture with five
 hundred million pageviews per month and an [Alexa Traffic Rank](http://www.alexa.com/siteinfo/4chan.org) in the global top 1,000
 websites, I might have written more of this down at the time.
 
-### The origin of 4chan
-
-4chan really goes back to a board called Something Awful, a major source of Internet culture in the early '00s. Some time between 18th April 2001
-and 15th May 2001, SA added an anime board called ADTRW to separate the anime chat from the other boards. Members of ADTRW started Raspberry
-Heaven, a DC++ filesharing hub for anime, named for the ending theme to a 2002 series called Azumanga Daioh. Raspberry Heaven was itself a
-spinoff of SADCHUB, the Something Awful Direct Connect Hub, created to separate the anime from the serious business.
+4chan's original culture really goes back to a board called [[Something Awful]] (SA), a major source of Internet culture in the early '00s. Some time between 18th April 2001 and 15th May 2001, SA added an anime board called [[ADTRW]] to separate the anime chat from the other boards. Members of ADTRW started [[Raspberry Heaven]], a DC++ filesharing hub for anime, named for the ending theme to a 2002 series called Azumanga Daioh. Raspberry Heaven was itself a spinoff of SADCHUB, the Something Awful Direct Connect Hub, created to separate the anime from the serious business.
 
 The Raspberry Heaven anime hub had a linked IRC channel, originally at the MircX network but later Pyoko IRC. Here, moot and several ADTRW
-members were regulars. RH discovered 2chan.net, a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself
-is named after 2channel (2ch.net), the unrelated text-based image board featured in the film and TV series Densha Otoko.
+members were regulars. RH discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself was conceived as a replacement for 2channel (2ch.net). This was the now unrelated text-based BBS featured in the film and TV series [[Densha Otoko]].
 
 At some point, 2chan blocked non-Japanese from posting. At the time we thought this was to keep out us English-posting gaijin devils, but I
 think it later turned out they were blocking trolls from South Korea. moot, at this point just an average hub member, registered the site's
@@ -59,89 +105,5 @@ filesharing hubs and Pyoko IRC closed its doors.
     <cathead> moot has left us 
     <cathead> what do we have left to live for 
     <microwiz> let's go waste more of his bandwidth
-
-## Board titles
-
-*Needs to be merged with the [[4chan History Timeline]].*
-
-I didn't keep track of the order in which 4chan boards were launched. The following list is collected mainly from 4chan news posts and web
-archives.
-
--   **30th September, 2003:** Moot announces 4chan.net in Something Awful's ADTRW forum. Thread is titled "4chan.net - English
-    2chan.net!"
--   **2nd October 2003:** 4chan's /b/ is already in place, according to a news post on a complaint. It is named after 2chan's /b/ board, and
-    according to [Everything Shii Knows](http://shii.org/knows/4chan) was originally the only 4chan board. The rules page describes /b/ as
-    a test board which will later become an anime board. moot describes /b/ in a news post as "a retard bin". 4chan's "/h/ - Hentai" board
-    launched.
--   **6th October 2003:** "/c/ - Anime/Cute" added as a place to post "cute anime/hentai pictures". "/d/ - Hentai/Alternative" added as a
-    /h/ spinofff "to appease all those who thought the restrictions on /h/ were too Nazi-ish." "/y/ - Yaoi" and 4chan Oekaki BBS drawing
-    board added.
--   **8th October 2003:** 4chan's /b/ board is currently named "/b/- Anime/Random", although I can't remember if it had an earlier name.
-    Archived thread reveals that the "/w/" board (wallpapers) existed by this date.
--   **9th October 2003:** "/g/ - Guro" added to clean the most nasty images out of /h/. "/s/ - Sexy Beautiful Women" added, and is
-    managed by Boco\_T and PotatoSan. Boco\_T also drew two of 4chan's title images: one of Osaka from Azumanga Daioh, and one of
-    Cardcaptor Sakura drawn in the style of Fist of the North Star.
--   **8th November 2003:** "/a/ - Anime" launched. "/l/ - Lolikon" launched to clean up /c/.
--   **22nd November 2003:** Some time between 16th October and 22nd November, /b/ has been re-named to "Random", perhaps as there is now
-    a dedicated anime board. A news announcement reveals that a board named "/r/ - TRAINZ" was running, but has been moved to 1chan
-    (trains trains trains).
--   **28th November 2003:** News announces that "/l/" has been removed.
--   **8th January 2004:** "/l/" returns. Newspost reveals that "/r/" (Request) has been created to solve a problem with "/t/" (Torrents),
-    which evidently had already existed for a while.
--   **25th January 2004:** "/t/" removed.
--   **19th February 2004:** "/f/ - Flash" added. "/t/ - Torrents"
-    returns.
--   **21st February 2004:** Two discussion boards added: "/amh/ - Anime-Manga-Hentai", and "/bbs/ - 4chan Discussion".
--   **28th March 2004:** An old saved-out thread reveals that "/p/ - Photo" and "/u/" existed by this date. Top of page boards list:
-    a/b/c/d/f/h/l/p/r/s/t/u/w/y.
--   **30th March 2004:** Two discussion boards added: "/dis/ - Discussion" and "/sug/ - Suggestion".
--   **15th June 2004:** 4chan's Paypal donations account is reported by TheRowan, owner of HentaiKey and host of rival imageboard 5chan.
-    (Source: SA 4chan thread)
--   **20th June 2004:** 4chan closes its doors for the fourth time. (Source: Something Awful original 4chan thread)
--   **7th August 2004:** 4chan returns.
--   **16th August 2004:** Saved thread reveals that the following boards existed already: "/m/", "/n/" (Trains), and "/cm/" (Cute Male) /cm/
-    was created to keep male content out of /c/. The discussion boards "/anime"/, "/ascii/" and "/game/" already existed. /r/ was named
-    "/r/ - Request". Top of page boards list: a/b/c/d/f/g/h/l/m/n/p/r/s/t/u/w cm/y anime/ascii/dis/game/sug.
--   **8th September 2004:** "/k/ - Weapons", "/o/ - Auto" and "/sm/ - Shota/Male" added.
--   **26th September 2004:** "/n/" (Trains) mentioned in a news post.
--   **9th October 2004:** "/ib/ - Oekaki Random", "/ip/ - Oekaki Pro" and "/v/ - Video Games" image boards added. Discussion board "/tech/ - Technology" added. "/n/ - Trains" removed.
--   **19th January 2005:** "/e/ - Ecchi" added as a mid-way between /c/ and /h/. "/3/ - 3DCG", "/g/ - Technology" and "/n/ - Nature and Wildlife" added.
--   **26th January 2005:** "/ic/ - Art/Critique" added. "/p/ - Photography" and "/x/ - General Photo" added, and replace "/p/ - Photo".
--   **26th February 2005:** "/gif/ - Animated GIF", "/hr/ - High Resolution", and "/wg/ - Wallpapers/General" added. "/x/ - General Photo" removed.
--   **9th January 2007:** "/sp/ - Sports" removed after a trial.
--   **12th February 2008:** News post reveals that "/ck/" exists at this point.
--   **29th February 2008:** News post reveals nine new boards added over several weeks: "/fa/ - Fashion", "/fit/ - Health & Fitness", "/hc/ - Hardcore", "/n/ - Transportation", "/sp/ - Sports", "/toy/ - Toys", "/trv/ - Travel", "/jp/ - Japan/General", and "/r9k/ - ROBOT9000".
--   **26th June 2008:** News post reveals a former image board, "/q/ - Questions".
--   **6th July 2008:** News post reveals that drawing board "/i/" exists by this date. "/i/" was created to merge Oekaki Random with Oekaki Pro.
--   **1st January 2010:** The following boards are listed on the rules page, and must have been created before 2010: "/an/ - Animals & Nature", "/cgl/ - Cosplay & EGL", "/co/ - Comics & Cartoons", "/m/ - Mecha", "/po/ - Papercraft & Origami", "/tg/ - Traditional Games, "/tv/ - Television & Film", and "/x/ - Paranormal". There is an upload board, "/rs/ - Rapidshares". Several discussion boards have been created and shut down over the site's run.
--   **28th January 2010:** Six new image boards were added some time in January 2010: "/adv/ - Advice", "/lit/ - Literature", "/new/ - News", "/int/ - International", "/sci/ - Science & Math", and "/3/ - 3DCG". 3DCG previously existed and I'm pretty sure News used to exist as /n/. There is a Science & Math text board.
--   **18th January 2011:** /r9k/ and /new/ removed. The current board list is: 
-
-	[a / b / c / d / e / f / g / gif / h / hr / k / m / o / p /
-	r / s / t / u / v / w / wg] [i / ic] [cm / y] [3 / adv / an / cgl /
-	ck / co / fa / fit / int / jp / lit / mu / n / po / sci / soc / sp /
-	tg / toy / trv / tv / vp / x] [rs] [status / ? / @]
-
-### Boards sharing a letter
-
-Several boards have used the same letter as another board at a different
-point in time. Usually, this occurs when a single-letter board is
-deleted and its letter is later re-used.
-
--   /g/ - Guro, Technology
--   /n/ - Trains, Nature & Wildlife, News, Transportation
--   /p/ - Photo, Photography
--   /x/ - General Photo, Paranormal
-
-### Secret boards
-
-There were two secret boards I knew of. The first was /5/, which was for
-posting pictures of 5. The second was /z/, an exile board detailed at
-[Everything Shii Knows](http://shii.org/knows/4chan).
-
-## Further information
-
-[Everything Shii Knows](http://shii.org/knows/4chan) has an article on
-4chan.
 
 *Page created: 4th February 2010. Last updated by jonnydigital: 19th January 2011.*

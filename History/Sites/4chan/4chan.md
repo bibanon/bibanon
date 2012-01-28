@@ -1,15 +1,27 @@
-![](logo3.png)
-4chan is the asshole of the internet. To complete newfags who don't know what it is, put simply, 4chan is an anonymous imageboard forum. It is also the source of all or most internet memes. It was founded by moot in 2003. 4chan is the largest chan, and has the largest userbase and share of all the traffic. It is full of camerawhores, attention whores, and basic douchebags. It may the biggest imageboard, but is FAR from the best.
+4chan.org is the website that introduced the Japanese anonymous imageboard concept to the English-speaking world.
+
+4chan was founded in 2003 by a 15 year old kid named [[moot]]. It got popular purely by accident and when costs began to spiral out of control we told him the site was doomed to failure. 
+
+> If I had known it one day become a dominant source of Internet culture with fivehundred million pageviews per month and an [Alexa Traffic Rank](http://www.alexa.com/siteinfo/4chan.org) in the global top 1,000
+websites, I might have written more of this down at the time.
 
 ## History
 
-More info: [[history/4chan_History]]
+More info: [[4chan History]]
 
-4chan was started in 2003. moot purchased the server space with his mother's credit card when he was fifteen, intending the site to be an American version of Futaba.
+4chan was started in 2003. moot purchased the server space with his mother's credit card when he was fifteen, intending the site to be an American version of [[Futaba Channel]].
+
+Multiple groups and immigrants from sites like [[Something Awful]] were attracted to it's simplicity and anonymity. The site's success stemmed from the advantages of the anonymous imageboard, and it's development of a culture independent from any other.
+
+* 4chan is anonymous.
+  * Unlike most other English forums, 4chan does not use cumbersome user account, lowering the barrier to entry. The anonymity allows users to post their truthful opinions without fear of recourse. Additionally, since all users are anonymous in name, people are judged by their words, rather than their reputation.
+  * Users can also choose to become psuedoanonymous with [[tripcodes]] in case there is a need to establish identity.
+* 4chan has no memory.
+  * Because all threads will be destined for deletion, great pictures are immediately saved, and later reposted by users of the site. The less interesting pictures are left alone and soon forgotten. This creates a  "survival of the fittest" environment that demands and eventually creates viral memes.
 
 ## /b/
 
-/b/ is the random board of 4chan, where any sort of faggotry goes on. It is the most popular board, dwarfing all the other ones in size. Currently, /b/ has amassed over 284130732 posts whereas many of the others have yet to break a million. (On an unrelated note, GETs are a popular pastime, such as getting the numbers 1111111, 10000000, 12345678, etc.) The content on /b/, as with all of the major chan boards, is periodically deleted automatically to save database strain.
+/b/ is the random board of 4chan, where any sort of faggotry goes on. It it's first and foremost board, dwarfing all the other ones in size. Currently, /b/ has amassed over 284130732 posts whereas many of the others have yet to break a million. (On an unrelated note, GETs are a popular pastime, such as getting the numbers 1111111, 10000000, 12345678, etc.) The content on /b/, as with all of the major chan boards, is periodically deleted automatically to save database strain.
 
 Also, on /b/, there are NO RULES, LOL. Except no child porn and /i/nvasion. This consequently means mods can slap you with the banhammer for no good reason.
 
