@@ -6,6 +6,8 @@ Because of the specific qualities of the DVCS, it has uses beyond software versi
 
 ## Install Git
 
+*needs more info*
+
 ### Windows
 
 [msysgit](https://code.google.com/p/msysgit/)
