@@ -44,9 +44,9 @@ And if shit hits the fan and we haven't prepared, [we'll be these guys](https://
 
 ## [[TV drama]]
 
-The Densha Otoko TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of jokes and touching moments. Along with that comes a easily understandable look into the world of [[2channel]], otakus, and the  right from the beginning. This drama is well-worthy of the title
+The Densha Otoko TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of jokes and touching moments. Along with that comes a easily understandable look into the world of [[2channel]], otakus, and the  right from the beginning.
 
-See [[Densha Otoko TV Drama]] for more info and subtitles, and also to help translate.
+See [[Densha Otoko TV Drama]] for more info and subtitles.
 
 ## Characters
 
@@ -60,6 +60,8 @@ See [[Densha Otoko TV Drama]] for more info and subtitles, and also to help tran
 A great writer has made an awesome critical analysis into the story, how people reacted, and how it affected Japan.
 
 [[Densha Otoko Analysis]]
+
+Misaki Ito, the actress who played the role of Hermes in the [[Densha Otoko TV Drama|TV Drama]], has made an interview which was translated [[Densha Otoko Q and A]].
 
 ## Sources
 
