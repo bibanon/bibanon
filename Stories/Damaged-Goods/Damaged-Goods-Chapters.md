@@ -1,10 +1,5 @@
-## Chapters ##
+There are 23 chapters in this story.
 
-There are 23 chapters in this story. Click the "Show Chapters" button to start reading.
-
-> **[[!toggle id="chapters" text="Show Chapters"]]**
-
-[[!toggleable id="chapters" text="""
 ### [[Chapter One - Byouin Otoko|dg-1]] ###
 
 On December 16th, an anon posted a thread. The anon was working in a hospital with indisposed people, and there was a new patient which he had come to realize would make an interesting story for [[Anonymous]]. The girl was 6 years old, was shockingly beautiful, and had lost three limbs in a car accident. Convinced that /b/ would tell him to rape her anyway, the anon cynically posted a thread asking whether he should do so.
