@@ -15,3 +15,5 @@ Because of the specific qualities of the DVCS, it has uses beyond software versi
 ### Linux
 
     sudo apt-get install git
+
+## Usage
