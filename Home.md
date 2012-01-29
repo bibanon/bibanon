@@ -23,6 +23,15 @@ In order to make this project a success, we need lots of help. See [[Help]] to s
 
 Also, even with the ability to keep an independent local copy, Git is still heavily reliant on central servers. We need help building a [[Fully Decentralized Wiki]], and this will require development of [[Gittorrent]] or [[Hg-Freenet]].
 
+## Contact
+
+Feel like getting in contact with some maintainers? Want to call attention to what needs to be done?
+
+We have communities here for this sort of thing.
+
+* [Bibliotheca Anonoma Subreddit](http://www.reddit.com/r/bibanon/)
+* IRC Channel - irc://irc.telecomix.org:6667 #bibanon
+
 ## Tour
 
 Can't decide on what to read first? Use the sidebar to see a category that interests you, along with a list of articles within it.

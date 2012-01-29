@@ -6,21 +6,25 @@ This page needs to be enhanced, perhaps turned into a book.
 
 ## 4chan history
 
-4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported parts of their 
+4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported the funniest memes of their culture into the melting pot of /b/.
 
-_You're free to change this as needed_
+_Below is a small plan of what You're free to change this as needed_
 
 ### Pre Anonymous
 
 * Prehistory (1996-2003) - The background of the world that 4chan was started in.
-* Genesis (2003-2004) - 4chan becomes wildly popular as a new home for Something Awful's ADTRW refugees, who in turn spread word across the internet.
+* Genesis (2003-2004) - 4chan becomes wildly popular as a new home for Something Awful's ADTRW refugees, who in turn spread word across the internet. This era maintains a strong influence by that of ADTRW and 2chan.
 * Mootxico Era (2004-2005) - 4chan gets well known for anonymity and crazy porn, and gains a culture of absolute hatred and trolling. Some of the original users begin to thin out as they lose interest, but are just as quickly replaced by users going between SA and 4chan. 4chan becomes a fast changing society beginning to carve out it's own culture and place in the world.
-* Civil War Era (2005-2006) - 4chan's nominal anonymity
-* Golden Age (2006-2008)
+* Civil War Era (2005-2006) - During the Civil War Era, the 4chan community gets it's first experience with internet warfare in the coalition attack against [[Ebaums World]], and later [[Haboo Hotel]]. Raids become commonplace on /b/ for the first time. School shooting plans and stadium bombings are posted. 4chan's nominal anonymity begins to attract a bunch of colorful groups to 4chan, such as [[Touhou]] fans, guro lovers, pedophiles, and worst of all, [[Furries]]. Most of these groups are given their own boards to keep them out of the other ones, but curiously, Furries have not. A persecution complex causes them to react badly to criticism, and minor distaste evolves into total hatred that threatens to destroy the boards. When the 4chan mods begin to ban all anti-furry talk along with the imposition of a few tighter rules, a number of /b/tards leave 4chan for dead and abandon en masse. A declaration of independence is made that establishes [[Anonymous]] as a seperate group with it's home anywhere but 4chan.
+  * Raids of this period: [[Habbo Raids]]
+* Golden Age (2006-2008) - Ironically, while preaching the death of 4chan, the diaspora only managed to burn it further into internet culture. Returning SA members take the chanese tradition of Caturday back home, which eventually goes viral as Lolcats. 4chan trolls spread across the internet to cause more rage. Newfags come in expecting a hacker playground, and after the Fox News report on Anonymous, 4chan's /b/ eventually regains a strong raid mentality that the mods have given up stopping. After two years of media hype, 4chan is flooded with immigrants from all parts of the internet, creating a larger ratio of quality content to crap content. This ratio has stayed constant, but the greater amount of crap misleads older users to believe that a cancer has overcome /b/.
+  * Works of this period: [[Damaged Goods]], [[Blindmute Loli]], most of [[Wikichan]] [[copypasta]]
+  * Raids of this period: [[Hal Turner]], etc
+  * Projects of this period: [[Wikichan]], [[LURKMOAR Wiki]], Chanese Colonization of [[Encyclopedia Dramatica]]
 
 ### Post Anonymous
 
-* Chanology Era (2007-2010)
+* Chanology Era (2007-2010) - 
 * Payback Era (2010-)
 
 ## Prehistory
@@ -83,12 +87,9 @@ On the other side of the world, a conventional English forum called Something Aw
 
 We can sum it all up with their slogan; "The internet makes you stupid."
 
-Something Awful was 
+Some time between 18th April 2001 and 15th May 2001, SA added an anime board called [[ADTRW]] to separate the anime chat from the other boards. This forum quickly become connected to [[2channel]] and [[Futaba Channel]], and absorbed some parts of their culture.
 
-Some time between 18th April 2001 and 15th May 2001, SA added an anime board called [[ADTRW]] to separate the anime chat from the other boards.
-
-
-Members of ADTRW started [[Raspberry Heaven]].
+Lowtax's later attempts to clean up the board, enforce heavy handed laws, and monetize the site causes a mass migration from the site. A few members of ADTRW started [[Raspberry Heaven]], an IRC channel that serves as the community maintained home of the ADTRW diaspora. 
 
 ## Raspberry Heaven
 
