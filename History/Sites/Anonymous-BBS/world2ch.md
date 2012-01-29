@@ -109,3 +109,4 @@ There's some information that has been archived for reference purposes here:  [[
 ## Sources
 
 * [The original wiki page](http:*world2ch.org/wiki/doku.php?id=world2ch.net)
+* [Wakaba Thread about world2ch](http://wakaba.c3.cx/soc/kareha.pl/1099711854/)

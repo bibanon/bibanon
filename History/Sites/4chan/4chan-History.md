@@ -10,17 +10,22 @@ This page needs to be enhanced, perhaps turned into a book.
 
 _You're free to change this as needed_
 
-* Prehistory (1996-2003)
-* Genesis (2003-2004)
-* Mootxico Era (2004-2005)
-* Civil War Era (2005-2006)
-* Golden Age (2006-2007)
+### Pre Anonymous
+
+* Prehistory (1996-2003) - The background of the world that 4chan was started in.
+* Genesis (2003-2004) - 4chan becomes wildly popular as a new home for Something Awful's ADTRW refugees, who in turn spread word across the internet.
+* Mootxico Era (2004-2005) - 4chan gets well known for anonymity and crazy porn, and gains a culture of absolute hatred and trolling. Some of the original users begin to thin out as they lose interest, but are just as quickly replaced by users going between SA and 4chan. 4chan becomes a fast changing society beginning to carve out it's own culture and place in the world.
+* Civil War Era (2005-2006) - 4chan's nominal anonymity
+* Golden Age (2006-2008)
+
+### Post Anonymous
+
 * Chanology Era (2007-2010)
 * Payback Era (2010-)
 
 ## Prehistory
 
-_Most of this comes from a secondhand source, the [[4chan History Timeline]]. Please correct any problems you see._
+_Most of this comes from a tertiary source, a Redditor who restored the [[4chan History Timeline]] to the second [[Wikichan]]. Please correct any problems you see._
 
 4chan may have been the most successful English anonymous discussion board, but it was neither the first nor the most popular.
 
@@ -48,13 +53,51 @@ With a userbase larger than that of most cities, the First Channel was dead by 1
 
 ### Futaba Channel (2chan.net)
 
+Full Article: [[Futaba Channel]]
+
 By April 2001, [[2channel]] began to fall apart as data transformation bugs threatened to render the entire website unusable. Users began to warn of the coming apocalypse while volunteers from across Japan worked to find a solution.  
 
-Just like before, multiple backup forums were created to house the refugees. Most were blatant copies of the textboard format, but one website called Futaba Channel (2chan.net) took it as a chance to experiment with a revolutionary idea: the Imageboard. 
+Just like before, multiple backup forums were created to house the refugees. Most were blatant copies of the textboard format, but one website called [[Futaba Channel]] (2chan.net) took it as a chance to experiment with a revolutionary idea: the Imageboard. 
 
-With the textboards of the past, only experienced artists were able to make complicated Shift-JIS art. Now, with the power of images, anyone could post advanced content, perhaps as a topic of discussion.  The site developed a unique culture all its own, growing out of the seed culture brought by the 2channelers.
+With the textboards of the past, only experienced artists were able to make complicated Shift-JIS art, with images only linked. Now, any random lurker could simply download an image and post it as the topic of discussion. Anonymity combined with imageboards always leads to The site developed a unique culture all its own, growing out of the seeds brought by the 2channelers.
 
- discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself was conceived as a replacement for 2channel (2ch.net). 
+### world2ch
+
+Full Article: [[world2ch]]
+
+One of the backup forums made during the 2001 [[2channel]] crisis was called world2ch. This time, it's webmaster Taichirou Kosugi had a more ambitious goal: to create an English-language textboard where Japanese and American otakus could come together to speak in horribly broken English.
+
+While the project became well-known on [[2channel]] itself, the anonymous textboard format never really appealed to Westerners, due to the general preference of vanity over content on conventional forums. Additionally westerners were used to the accounts and one-click smileys of conventional forums. Few saw the point of making time-consuming Shift-JIS art that was unable to viewed with the common ASCII encoding.
+
+Still, the board was a groundbreaking first in the export of the 2channel-style anonymous BBS. Many later influential names started out or at least passed by this site, such as [[Shii]] and [[Moot]]. World2ch also took initiative to create the first English-language Imageboard.
+
+But by 2006, World2ch ended merely as another failed copy of 2channel, with it's owner leaving the community for dead.
+
+> I make a hobby and occasionally a living by being a digital archaeologist. [...] This whole 2ch business is more of digital anthropology. It's like I was wandering in some jungle of network cabling and there in the middle of it found a strange and totally alien tribe whose culture I can't begin to comprehend. That's why I'm here. Well, actually, here is more like the tourist version of 2ch. It's like a tacky roadside attraction complete with aluminum teepees where those passing through can just sort of fake living in the culture they've only seen at a distance… 
+
+### Something Awful
+
+Full Article: [[Something Awful]]
+
+On the other side of the world, a conventional English forum called Something Awful (SA) was at it's greatest height. SA was the 4chan of it's day, presiding over a massive community who were mostly free to discuss the stranger stuff on the internet. It was also a major source of Internet culture in the early '00s, popularizing such lasting influences like the image macro, Numa Numa, and All Your Base (are belong to us).
+
+We can sum it all up with their slogan; "The internet makes you stupid."
+
+Something Awful was 
+
+Some time between 18th April 2001 and 15th May 2001, SA added an anime board called [[ADTRW]] to separate the anime chat from the other boards.
+
+
+Members of ADTRW started [[Raspberry Heaven]].
+
+## Raspberry Heaven
+
+[[Raspberry Heaven]], a DC++ filesharing hub for anime, named for the ending theme to a 2002 series called Azumanga Daioh. Raspberry Heaven was itself a spinoff of SADCHUB, the Something Awful Direct Connect Hub, created to separate the anime from the serious business.
+
+The Raspberry Heaven anime hub had a linked IRC channel, originally at the MircX network but later Pyoko IRC. Here, [[moot]] and several ADTRW
+members were regulars. RH discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself was conceived as a replacement for 2channel (2ch.net). This was the now unrelated text-based BBS featured in the film and TV series [[Densha Otoko]].
+
+Sooner or later, Raspberry Heaven discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links.
 
 ## Genesis
 
@@ -70,9 +113,10 @@ websites, I might have written more of this down at the time.
 The Raspberry Heaven anime hub had a linked IRC channel, originally at the MircX network but later Pyoko IRC. Here, moot and several ADTRW
 members were regulars. RH discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links. 2chan itself was conceived as a replacement for 2channel (2ch.net). This was the now unrelated text-based BBS featured in the film and TV series [[Densha Otoko]].
 
+Sooner or later, Raspberry Heaven discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links.
+
 At some point, 2chan blocked non-Japanese from posting. At the time we thought this was to keep out us English-posting gaijin devils, but I
-think it later turned out they were blocking trolls from South Korea. moot, at this point just an average hub member, registered the site's
-original domain, 4chan.net.
+think it later turned out they were blocking trolls from South Korea. [[moot]], at this point just an average hub member on Raspberry Heaven, registered the site's original domain, 4chan.net.
 
     <moot> regging 4CHAN.net
     <moot> FOUR CHAN
@@ -86,7 +130,11 @@ original domain, 4chan.net.
     <n0> Time for 8chan.
 
 According to [Everything Shii Knows](http://shii.org/knows/4chan), moot registered 4chan.net on 29th September 2003. The first [news
-post](http://www.4chan.org/news/?all) dates the site as opening two days later on 1st October. RH went from full of 2chan links to full of 4chan
+post](http://www.4chan.org/news/?all) dates the site as opening two days later on 1st October. 
+
+The foundation of 4chan fired up much of the English anonymous forum community, especially in [[world2ch]]. The archived thread [[here|dramabomb.txt]] gives a rare look into what was happening at the time.
+
+RH went from full of 2chan links to full of 4chan
 links. I remember pasting links in other channels, too. The ease of which a person could post content and share links like this was a major
 factor in the success of 4chan, and other top websites later replicated this model: Youtube (video), Imageshack (long-term image storage), and
 Rapidshare (files).
@@ -105,5 +153,3 @@ filesharing hubs and Pyoko IRC closed its doors.
     <cathead> moot has left us 
     <cathead> what do we have left to live for 
     <microwiz> let's go waste more of his bandwidth
-
-*Page created: 4th February 2010. Last updated by jonnydigital: 19th January 2011.*

@@ -48,6 +48,9 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 
 *It's hard to sum it up in one sentence, but it's basically the personification of the internet.*
 
+* [[Anonymous]] - An unwritten article about Anonymous.
+* [[Anonymous History Timeline]] - This article is based on the one on Wikipedia. It details major events in [[Anonymous]]'s history, but is a mess of cite notes. We need to turn this into something like the [[4chan History Timeline]].
+
 ### Books
 
 * [[Rise of Anonymous]] - A plan to create a book about Anonymous's history, made by anons, for anons. For a while, [[Anonymous]]'s history parallels that of the site that bore it, 4chan. But as time went on, they went their seperate ways into a new future after [[Project Chanology]]. Exactly how did Anonymous come about, and what can we learn about successful raids in the past? 
