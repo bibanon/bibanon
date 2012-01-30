@@ -1,4 +1,4 @@
-This story is one of the [[Culturally Important Treasures]] from the Internet.
+This story, along with the corresponding TV drama is one of the [[Culturally Important Treasures]] from the Internet.
 
 "[Densha Otoko, or 'Train Man'](https://en.wikipedia.org/wiki/Densha_Otoko) is the name of a very popular book published in Japan in early 2005, which tells the true story of a nerdy guy who falls in love with a girl who he saved from a drunk on a train. This entire story takes place on a Japanese bulletin board system called [[2ch]], or 'ni-channel', particularly in a thread called 'Men Being Shot from Behind', where single men get together and gripe about being single.
 
@@ -44,7 +44,7 @@ And if shit hits the fan and we haven't prepared, [we'll be these guys](https://
 
 ## [[TV drama]]
 
-The Densha Otoko TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of jokes and touching moments. Along with that comes a easily understandable look into the world of [[2channel]], otakus, and the  right from the beginning.
+The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause people to end up on the internet all day. Few other media has depicted so well the unmatched familial bond and support that users feel, even as they talk on an anonymous BBS.
 
 See [[Densha Otoko TV Drama]] for more info and subtitles.
 

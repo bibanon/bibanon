@@ -1,5 +1,9 @@
 Sometimes strange and obscure slang words are used throughout this wiki. In case they fall out of fashion and are forgotten by the netizens of the internet, we The majority of these words were once the common vocabulary of [[4chan]], and later inherited by the [[Chans]] and [[Anonymous]]. Other words come from various places in the internet.
 
+## Pages
+
+* [[Hentai]] - We don't have any, sadly. However, we do have a long shitty discussion thread on the fact that Japanese people get extremely offended when you say that word.
+
 ## B&
 Literally, “Banned”. Being barred from a forum or other virtual space. Anonymous 
 sometimes refers to being arrested or “V&”(vanned) as a real world equivalent.

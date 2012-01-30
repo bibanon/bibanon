@@ -24,8 +24,9 @@ _Below is a small plan of what You're free to change this as needed_
 
 ### Post Anonymous
 
-* Chanology Era (2007-2010) - 
-* Payback Era (2010-)
+* Chanology Era (2008-2009) - Project Chanology took center stage during this period, although it eventually divested itself of 4chan.
+* Boxxy Era (2009-2010) - A period where [[Boxxy]], a young [[Gaia Online]] user, found herself as the primary target of similitaneous adoration and hate from /b/tards on 4chan. 
+* Payback Era (2010-) - _shouldn't this be part of [[Anonymous]] history?_ After most anons forgot or gave up on Chanology, they returned to normal business on 4chan, which was still slowly growing in popularity. However, with the chilling news that Aiplex Software was DDoSing torrent sites for the MPAA, [[Anonymous]] came right out of dormancy to start a new age of hacktivism that grew to [[Wikileaks]], the [[Arab Spring]], and 
 
 ## Prehistory
 
