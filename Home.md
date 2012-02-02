@@ -1,14 +1,22 @@
-The **[[Bibliotheca Anonoma]]** is a [[Git]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens even while offline.
+The **[[Bibliotheca Anonoma]]** is a [[Gollum]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens even while offline.
 
 ## Intro
 
 > *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.* - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)
 
-[[Recent events|SOPA]] have sparked discussion on the need to make a new internet, to defend from the evils of [[Copywrong]]. Despite all this talk, relatively little has been done on actually safeguarding the data that made the internet worth fighting for in the first place.
+It's well known that no matter how resilient the internet protocol is to damage, precious data disappears from the record daily, for many different reasons. Attempts to save such data with centralized websites are themselves frought with worry, as the example of [[Encyclopedia Dramatica]], [[Geocities]], and the closure of [[Megaupload]] show.
 
-So, when we wondered, "what would we want to save from the internet if we had to start over from scratch, and how would we do it?", we designed this wiki to do just that. Currently, we've archived a small but wondrous number of books and stories that we've found interesting. This library will safeguard the works of our Golden Age through the dark years for a future that can truly accept it's importance.
+Additionally, [[recent events|SOPA]] have caused worry over the future of the internet and of the data stored within those websites. [[SOPA]]/PIPA closing websites, [[ACTA]] for prosecuting linkers, [[PCIPA]] for keeping detailed logs on users, and so on.
+
+These have sparked discussion on creating a [[new internet|Meshnet]], free from the effects of [[copywrong]]. However, relatively little has been done to preserve the data that made the internet worth fighting for in the first place.
 
 Additionally, this wiki is based on [[Gollum|https://github.com/github/gollum/]], a DVCS-based wiki which allows users to check out a copy to read, edit, put on their server, or even make a fork. This way, if the main site goes down, anyone with a clone could just put it on their own server.
+
+In light of these all this, we've collected what we deem to be the greatest treasures of the internet in our [[Gollum]]-based wiki. This type of wiki allows users to clone it for reading and editing offline, mirror it, or even make a fork. If extended with [[Gittorrent]] or a working example, [[Hg-Freenet]], the wiki could even be fully distributed. 
+
+These measures ensure that if our primary websites are ever taken down, anyone with a clone could simply make theirs public.
+
+No matter what happens on the internet, this wiki will allow future generations to enjoy the works of our golden age.
 
 ## Contribute
 
