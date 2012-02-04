@@ -20,21 +20,21 @@ _Meme songs that don't get old_
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/8047b680) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197202181/Lulz__A_corruption_of_LOL_-_Disk_1.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
-1. Will Smith - The Fresh Prince of Bel-Air (2:57) <http://www.4shared.com/audio/npb99-GR/0101-Will_Smith-Fresh_Prince_o.html>
-1. Rick Astley - Never Gonna Give You Up (3:35) <http://www.4shared.com/audio/18jyjTNo/0102-Rick_Astley-Never_gonna_g.html>
-1. Tay Zonday - Chocolate Rain (4:52) <http://www.4shared.com/audio/njHH8gAR/0103-Tay_Zonday-Chocolate_rain.html>
-1. Andrew W. K. - Party Hard (3:04) <http://www.4shared.com/audio/F2R3NLpw/0104-Andrew_W_K-Party_Hard.html>
-1. Jonathan Coulton - Still Alive (2:56) <http://www.4shared.com/audio/SjwSmWC_/0105-Jonathan_Coulton-Still_Al.html>
-1. DarkMateria - The Picard Song (4:40) <http://www.4shared.com/audio/gSiu1SMj/0106-DarkMateria-The_Picard_So.html>
-1. 403 Forbiddena - Southern Cross (3:42) <http://www.4shared.com/audio/cgqXRcoN/0107-403_Forbiddena-Southern_C.html>
-1. Lazy Town - You Are A Pirate (1:52) <http://www.4shared.com/audio/F_Cj5bKA/0108-Lazy_Town-You_Are_a_Pirat.html>
-1. Tchaikovsky (played by the Trans-Siberian Orchestra) - 1812 Overture (4:07) <http://www.4shared.com/audio/GHrRcJ8S/0109-Tchaikovsky-1812_Overture.html>
-1. Oingo Boingo - Little Girls (3:43) <http://www.4shared.com/audio/6DtYHtU0/0110-Oingo_Boingo-I_love_littl.html>
-1. Was (Not Was) - Everybody Walk the Dinosaur (4:22) <http://www.4shared.com/audio/zU96fAGD/0111-Was_Not_Was_-Everybody_Wa.html>
-1. DragonForce - Through the Fire and Flames (7:24) <http://www.4shared.com/audio/zX6Sw58r/0112-DragonForce-Through_the_F.html>
-1. CODA Remix: Shii's Song - Longcat's Song (2:10) <http://www.4shared.com/audio/vnrT9cTR/0113-CODA_Remix_Shiis_Song-Lon.html>
-1. Bobby 'Boris' Pickett - Monster Mash (3:09) <http://www.4shared.com/audio/St2toO2_/0114-Bobby_Boris_Pickett-Monst.html>
-1. Anonymous - 7chan Theme Song (5:54) <http://www.4shared.com/audio/zUQ_vLHr/0115-Anonymous-7chan_Theme_Son.html>
+1. Will Smith - The Fresh Prince of Bel-Air (2:57) [MP3 Download](http://www.4shared.com/audio/npb99-GR/0101-Will_Smith-Fresh_Prince_o.html)
+1. Rick Astley - Never Gonna Give You Up (3:35) [MP3 Download](http://www.4shared.com/audio/18jyjTNo/0102-Rick_Astley-Never_gonna_g.html)
+1. Tay Zonday - Chocolate Rain (4:52) [MP3 Download](http://www.4shared.com/audio/njHH8gAR/0103-Tay_Zonday-Chocolate_rain.html)
+1. Andrew W. K. - Party Hard (3:04) [MP3 Download](http://www.4shared.com/audio/F2R3NLpw/0104-Andrew_W_K-Party_Hard.html)
+1. Jonathan Coulton - Still Alive (2:56) [MP3 Download](http://www.4shared.com/audio/SjwSmWC_/0105-Jonathan_Coulton-Still_Al.html)
+1. DarkMateria - The Picard Song (4:40) [MP3 Download](http://www.4shared.com/audio/gSiu1SMj/0106-DarkMateria-The_Picard_So.html)
+1. 403 Forbiddena - Southern Cross (3:42) [MP3 Download](http://www.4shared.com/audio/cgqXRcoN/0107-403_Forbiddena-Southern_C.html)
+1. Lazy Town - You Are A Pirate (1:52) [MP3 Download](http://www.4shared.com/audio/F_Cj5bKA/0108-Lazy_Town-You_Are_a_Pirat.html)
+1. Tchaikovsky (played by the Trans-Siberian Orchestra) - 1812 Overture (4:07) [MP3 Download](http://www.4shared.com/audio/GHrRcJ8S/0109-Tchaikovsky-1812_Overture.html)
+1. Oingo Boingo - Little Girls (3:43) [MP3 Download](http://www.4shared.com/audio/6DtYHtU0/0110-Oingo_Boingo-I_love_littl.html)
+1. Was (Not Was) - Everybody Walk the Dinosaur (4:22) [MP3 Download](http://www.4shared.com/audio/zU96fAGD/0111-Was_Not_Was_-Everybody_Wa.html)
+1. DragonForce - Through the Fire and Flames (7:24) [MP3 Download](http://www.4shared.com/audio/zX6Sw58r/0112-DragonForce-Through_the_F.html)
+1. CODA Remix: Shii's Song - Longcat's Song (2:10) [MP3 Download](http://www.4shared.com/audio/vnrT9cTR/0113-CODA_Remix_Shiis_Song-Lon.html)
+1. Bobby 'Boris' Pickett - Monster Mash (3:09) [MP3 Download](http://www.4shared.com/audio/St2toO2_/0114-Bobby_Boris_Pickett-Monst.html)
+1. Anonymous - 7chan Theme Song (5:54) [MP3 Download](http://www.4shared.com/audio/zUQ_vLHr/0115-Anonymous-7chan_Theme_Son.html)
 
 ## Disk II - Corruption ##
 
@@ -46,19 +46,19 @@ _Meme songs that don't get old_
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/f5eb6c38) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197205073/Lulz__A_corruption_of_LOL_-_Disk_2.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
-1. DJ AnounymOS - so i herd u liek musics (oh lawd, is dat sum insurgency) version 2.1 (6:47) <http://www.4shared.com/audio/ZyC4MW_f/0201-DJ_AnounymOS-so_i_herd_u_.html>
-1. DJ Gotcha - Over 9000 (Remix) (1:07) <http://www.4shared.com/audio/td3BpRiW/0202-DJ_Gotcha-Over_9000__remi.html>
-1. manish - Series of Tubes (Net Neutrality Dance Mix) (2:08) <http://www.4shared.com/audio/Kas78HqB/0203-manish-Series_of_Tubes__N.html>
-1. PoleJR @ PinkGator - Chocolate Rain : An Original Remix by PoleJR (6:08) <http://www.4shared.com/audio/fCa-Fnbu/0204-PoleJR__PinkGator-Chocola.html>
-1. DJ Jazzy Jeff & Fresh Prince - Yo Home To Bel-Air (3:24) <http://www.4shared.com/audio/ia1NCQBJ/0205-DJ_Jazzy_Jeff___Fresh_Pri.html>
-1. Metronomy w/ dj AnonPBear - You could easily have me [Internet Hate Machine] (3:08) <http://www.4shared.com/audio/eX2S268P/0206-Metronomy_with_dj_AnonPBe.html>
-1. Funtastic Power! - 300 This is Sparta (EXTENDED fun times mix) (2:15) <http://www.4shared.com/audio/l2MX1gUP/0207-Funtastic_Power-300_This_.html>
-1. Steve Ballmer - Developers (3:01) <http://www.4shared.com/audio/3Atk4ruA/0208-Steve_Ballmer-Developers.html>
-1. Tay Zonday FEAT Mista Johnson - Cherry Chocolate Rain (2:49) <http://www.4shared.com/audio/_sWOd5ln/0209-Tay_Zonday_FEAT_Mishta_Jo.html>
-1. Anonymous - Internet Haet Machine (1:17) <http://www.4shared.com/audio/k1QsSxw3/0210-Anonymous-Internet_Haet_M.html>
-1. REDALiCE - Lucky Star REDALiCE Remix (5:03) <http://www.4shared.com/audio/EC7HYl64/0211-REDALiCE-Lucky_Star_REDAL.html>
-1. Morbicae - I'ma Firin' Mah Lazor (2:48) <http://www.4shared.com/audio/xn2FCQzJ/0212-Morbicae-Ima_Firin_Mah_La.html>
-1. Anonymous - Flight of Tacgnol (3:32) <http://www.4shared.com/audio/jVLgrwJG/0213-Anonymous-Flight_of_Tacgn.html>
+1. DJ AnounymOS - so i herd u liek musics (oh lawd, is dat sum insurgency) version 2.1 (6:47) [MP3 Download](http://www.4shared.com/audio/ZyC4MW_f/0201-DJ_AnounymOS-so_i_herd_u_.html)
+1. DJ Gotcha - Over 9000 (Remix) (1:07) [MP3 Download](http://www.4shared.com/audio/td3BpRiW/0202-DJ_Gotcha-Over_9000__remi.html)
+1. manish - Series of Tubes (Net Neutrality Dance Mix) (2:08) [MP3 Download](http://www.4shared.com/audio/Kas78HqB/0203-manish-Series_of_Tubes__N.html)
+1. PoleJR @ PinkGator - Chocolate Rain : An Original Remix by PoleJR (6:08) [MP3 Download](http://www.4shared.com/audio/fCa-Fnbu/0204-PoleJR__PinkGator-Chocola.html)
+1. DJ Jazzy Jeff & Fresh Prince - Yo Home To Bel-Air (3:24) [MP3 Download](http://www.4shared.com/audio/ia1NCQBJ/0205-DJ_Jazzy_Jeff___Fresh_Pri.html)
+1. Metronomy w/ dj AnonPBear - You could easily have me [Internet Hate Machine] (3:08) [MP3 Download](http://www.4shared.com/audio/eX2S268P/0206-Metronomy_with_dj_AnonPBe.html)
+1. Funtastic Power! - 300 This is Sparta (EXTENDED fun times mix) (2:15) [MP3 Download](http://www.4shared.com/audio/l2MX1gUP/0207-Funtastic_Power-300_This_.html)
+1. Steve Ballmer - Developers (3:01) [MP3 Download](http://www.4shared.com/audio/3Atk4ruA/0208-Steve_Ballmer-Developers.html)
+1. Tay Zonday FEAT Mista Johnson - Cherry Chocolate Rain (2:49) [MP3 Download](http://www.4shared.com/audio/_sWOd5ln/0209-Tay_Zonday_FEAT_Mishta_Jo.html)
+1. Anonymous - Internet Haet Machine (1:17) [MP3 Download](http://www.4shared.com/audio/k1QsSxw3/0210-Anonymous-Internet_Haet_M.html)
+1. REDALiCE - Lucky Star REDALiCE Remix (5:03) [MP3 Download](http://www.4shared.com/audio/EC7HYl64/0211-REDALiCE-Lucky_Star_REDAL.html)
+1. Morbicae - I'ma Firin' Mah Lazor (2:48) [MP3 Download](http://www.4shared.com/audio/xn2FCQzJ/0212-Morbicae-Ima_Firin_Mah_La.html)
+1. Anonymous - Flight of Tacgnol (3:32) [MP3 Download](http://www.4shared.com/audio/jVLgrwJG/0213-Anonymous-Flight_of_Tacgn.html)
 
 ## Disk III - /f/b/i/ ##
 
@@ -70,18 +70,18 @@ _Meme songs that don't get old_
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/20003a88) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197228785/Lulz__A_corruption_of_LOL_-_Disk_3.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
-1. DMX - Where The Hood At? (4:52) <http://www.4shared.com/audio/KEkCoV4V/0301-DMX-Where_The_Hood_At_.html>
-1. Infected Mushroom - Becoming Insane (Radio Mix) (3:12) <http://www.4shared.com/audio/8Yg0sU-G/0302-Infected_Mushroom-Becomin.html>
-1. Funta - Kao Dekai (3:23) <http://www.4shared.com/audio/qFm2PpV2/0303-Funta-Kao_Dekai.html>
-1. Another Bad Creation - Playground Castlevania Remix (3:54) <http://www.4shared.com/audio/MbGuH0Me/0304-Another_Bad_Creation-Play.html>
-1. DJ Sharpnel - Pantsoo (5:58) <http://www.4shared.com/audio/S3tOyXBs/0305-DJ_Sharpnel-Pantsoo.html>
-1. Infected Mushroom - I Wish (Skazi Remix) (8:01) <http://www.4shared.com/audio/0RIM3qlk/0306-Infected_Mushroom-I_Wish_.html>
-1. Loituma - Ievas Polka (original acapella) (2:46) <http://www.4shared.com/audio/FreNpzlq/0307-Loituma-Ievas_Polka__orig.html>
-1. Konami Kukeiha Club - LONGCAT flash (Burnin Heat DDR) (1:33) <http://www.4shared.com/audio/Ll9vBhhZ/0308-Konami_Kukeiha_Club-LONGC.html>
-1. Rednex - Cotton Eyed Joe (2:54) <http://www.4shared.com/audio/uFjdCAsJ/0309-Rednex-Cotton_Eye_Joe.html>
-1. Witches - There She Is!!! (3:23) <http://www.4shared.com/audio/Hp4Of2RD/0310-Witches-There_She_Is_.html>
-1. Miss Papaya - Superwaha (0:43) <http://www.4shared.com/audio/jFmmiRuU/0311-Miss_Papaya-Superwaha.html>
-1. The Red Army Choir - National Anthem of the USSR (3:44) <http://www.4shared.com/audio/LMfny5us/0312-The_Red_Army_Choir-Nation.html>
+1. DMX - Where The Hood At? (4:52) [MP3 Download](http://www.4shared.com/audio/KEkCoV4V/0301-DMX-Where_The_Hood_At_.html)
+1. Infected Mushroom - Becoming Insane (Radio Mix) (3:12) [MP3 Download](http://www.4shared.com/audio/8Yg0sU-G/0302-Infected_Mushroom-Becomin.html)
+1. Funta - Kao Dekai (3:23) [MP3 Download](http://www.4shared.com/audio/qFm2PpV2/0303-Funta-Kao_Dekai.html)
+1. Another Bad Creation - Playground Castlevania Remix (3:54) [MP3 Download](http://www.4shared.com/audio/MbGuH0Me/0304-Another_Bad_Creation-Play.html)
+1. DJ Sharpnel - Pantsoo (5:58) [MP3 Download](http://www.4shared.com/audio/S3tOyXBs/0305-DJ_Sharpnel-Pantsoo.html)
+1. Infected Mushroom - I Wish (Skazi Remix) (8:01) [MP3 Download](http://www.4shared.com/audio/0RIM3qlk/0306-Infected_Mushroom-I_Wish_.html)
+1. Loituma - Ievas Polka (original acapella) (2:46) [MP3 Download](http://www.4shared.com/audio/FreNpzlq/0307-Loituma-Ievas_Polka__orig.html)
+1. Konami Kukeiha Club - LONGCAT flash (Burnin Heat DDR) (1:33) [MP3 Download](http://www.4shared.com/audio/Ll9vBhhZ/0308-Konami_Kukeiha_Club-LONGC.html)
+1. Rednex - Cotton Eyed Joe (2:54) [MP3 Download](http://www.4shared.com/audio/uFjdCAsJ/0309-Rednex-Cotton_Eye_Joe.html)
+1. Witches - There She Is!!! (3:23) [MP3 Download](http://www.4shared.com/audio/Hp4Of2RD/0310-Witches-There_She_Is_.html)
+1. Miss Papaya - Superwaha (0:43) [MP3 Download](http://www.4shared.com/audio/jFmmiRuU/0311-Miss_Papaya-Superwaha.html)
+1. The Red Army Choir - National Anthem of the USSR (3:44) [MP3 Download](http://www.4shared.com/audio/LMfny5us/0312-The_Red_Army_Choir-Nation.html)
 
 ## Disk IV - /b/lackup ##
 
@@ -93,21 +93,21 @@ _Meme songs that don't get old_
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/46cc9a83) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) [Old Mirror](http://anonym.to/http://rapidshare.com/files/197212086/Lulz__A_corruption_of_LOL_-_Disk_4.rar)**
 
-1. Eazy E - Boyz N Tha Hood (G-Mix) (5:39) <http://www.4shared.com/audio/bKvupTgq/0401-Eazy_E-Boyz_N_Tha_Hood_G-.html>
-1. NWA - Fuck The Police (5:47) <http://www.4shared.com/audio/ZLzFkE5E/0402-NWA-Fuck_Tha_Police.html>
-1. Futuristic Sex Robotz - Fuck The MPAA (3:53) <http://www.4shared.com/audio/joOyVXhy/0403-Futuristic_Sex_Robotz-Fuc.html>
-1. Will Smith - Men In Black (3:48) <http://www.4shared.com/audio/OyRpGIvK/0404-Will_Smith-Men_In_Black.html>
-1. Queen - Don't Stop Me Now (3:32) <http://www.4shared.com/audio/yvxkqnuq/0405-Queen-Dont_Stop_Me_Now.html>
-1. Black Sabbath - Iron Man (5:59) <http://www.4shared.com/audio/ebPpIH1u/0406-Black_Sabbath-Iron_Man.html>
-1. Tay Zonday - Tayroll (3:23) <http://www.4shared.com/audio/Lz9yL2NL/0407-Tay_Zonday-Tayroll.html>
-1. Dethklok - Thunderhorse (3:02) <http://www.4shared.com/audio/jlwFUC5h/0408-Dethklok-Thunderhorse.html>
-1. RevoLucian - Bill O'Reilly Flips Out (DANCE REMIX) (1:36) <http://www.4shared.com/audio/doBY-n-B/0409-Bill_OReilly-FUCK_IT_WELL.html>
-1. Andrew W.K. - Ready To Die (2:55) <http://www.4shared.com/audio/LmyPk97o/0410-Andrew_W_K-Ready_To_Die.html>
-1. Clint Mansell - Requiem for a Tower (6:27) <http://www.4shared.com/audio/KoAOOTBw/0411-Clint_Mansell-Requiem_for.html>
-1. Manowar - Warriors Of The World United (5:51) <http://www.4shared.com/audio/Ed2mH0Ke/0412-Manowar-Warriors_Of_The_W.html>
-1. Caramell - Caramelldansen (2:57) <http://www.4shared.com/audio/OrkjK5tv/0413-Caramell-Caramelldansen.html>
-1. Barack Obama - Barack Roll (1:30) <http://www.4shared.com/audio/juDxvENH/0414-Barack_Obama-Barack_Roll.html>
-1. Lazy Town - Cooking by The Book (1:37) <http://www.4shared.com/audio/0j9IrwQG/0415-Lazy_Town-Cooking_by_the_.html>
+1. Eazy E - Boyz N Tha Hood (G-Mix) (5:39) [MP3 Download](http://www.4shared.com/audio/bKvupTgq/0401-Eazy_E-Boyz_N_Tha_Hood_G-.html)
+1. NWA - Fuck The Police (5:47) [MP3 Download](http://www.4shared.com/audio/ZLzFkE5E/0402-NWA-Fuck_Tha_Police.html)
+1. Futuristic Sex Robotz - Fuck The MPAA (3:53) [MP3 Download](http://www.4shared.com/audio/joOyVXhy/0403-Futuristic_Sex_Robotz-Fuc.html)
+1. Will Smith - Men In Black (3:48) [MP3 Download](http://www.4shared.com/audio/OyRpGIvK/0404-Will_Smith-Men_In_Black.html)
+1. Queen - Don't Stop Me Now (3:32) [MP3 Download](http://www.4shared.com/audio/yvxkqnuq/0405-Queen-Dont_Stop_Me_Now.html)
+1. Black Sabbath - Iron Man (5:59) [MP3 Download](http://www.4shared.com/audio/ebPpIH1u/0406-Black_Sabbath-Iron_Man.html)
+1. Tay Zonday - Tayroll (3:23) [MP3 Download](http://www.4shared.com/audio/Lz9yL2NL/0407-Tay_Zonday-Tayroll.html)
+1. Dethklok - Thunderhorse (3:02) [MP3 Download](http://www.4shared.com/audio/jlwFUC5h/0408-Dethklok-Thunderhorse.html)
+1. RevoLucian - Bill O'Reilly Flips Out (DANCE REMIX) (1:36) [MP3 Download](http://www.4shared.com/audio/doBY-n-B/0409-Bill_OReilly-FUCK_IT_WELL.html)
+1. Andrew W.K. - Ready To Die (2:55) [MP3 Download](http://www.4shared.com/audio/LmyPk97o/0410-Andrew_W_K-Ready_To_Die.html)
+1. Clint Mansell - Requiem for a Tower (6:27) [MP3 Download](http://www.4shared.com/audio/KoAOOTBw/0411-Clint_Mansell-Requiem_for.html)
+1. Manowar - Warriors Of The World United (5:51) [MP3 Download](http://www.4shared.com/audio/Ed2mH0Ke/0412-Manowar-Warriors_Of_The_W.html)
+1. Caramell - Caramelldansen (2:57) [MP3 Download](http://www.4shared.com/audio/OrkjK5tv/0413-Caramell-Caramelldansen.html)
+1. Barack Obama - Barack Roll (1:30) [MP3 Download](http://www.4shared.com/audio/juDxvENH/0414-Barack_Obama-Barack_Roll.html)
+1. Lazy Town - Cooking by The Book (1:37) [MP3 Download](http://www.4shared.com/audio/0j9IrwQG/0415-Lazy_Town-Cooking_by_the_.html)
 
 ## Disk V - Leg/i/on ##
 
