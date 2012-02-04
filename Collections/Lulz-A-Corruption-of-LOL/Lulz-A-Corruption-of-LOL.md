@@ -1,16 +1,14 @@
-[[!img AlbumArtwork.jpg size=250x]]
+[[AlbumArtwork.jpg|width=250px]]
 
 **_Lulz: A Corruption of LOL_** is a soundtrack containing all the meme songs that have come to be as of this time, December 2011. The project was started independently by an /i/nsurgent on the Partyvan Wiki, who upon realizing just how many songs there are posted to 420chan's /m/usic board, which allows music file uploads. A post was made to /ic/ on 4chan for album art, and the project is ongoing.
-
-## Table of Contents
-
-[[!toc ]]
 
 ## Fix this shit
 
 Currently this page is a horrible mess. Please help out and format it better for us, and keep it updated with the original page at the [Partyvan Wiki](http://partyvan.info/wiki/Lulz:_A_Corruption_of_LOL_(soundtrack)).
 
-The comments need to be moved to the discussion page, rather than be left to fuck up this page.
+## Proposed Albums
+
+Want to add your own new albums to this collection? See [[Proposed Albums]]. Also, why not check out [[the comments|Lulz Comments]] of the [[people who made|Insurgency Wiki]] these albums?
 
 ## Disk I - Pure Memetics ##
 
@@ -18,7 +16,7 @@ _Meme songs that don't get old_
 
 [Download (4shared)](http://www.4shared.com/file/5vOwvcNH/01_-_Pure_Memetics.html)
 
-[[!img AlbumArtwork.png size-200x align=right]]
+[[AlbumArtwork.png|float|width=200px]]
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/8047b680) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197202181/Lulz__A_corruption_of_LOL_-_Disk_1.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
@@ -40,7 +38,7 @@ _Meme songs that don't get old_
 
 ## Disk II - Corruption ##
 
-[[!img lulz2_cover.png size=200x200 align=right]]
+[[lulz2_cover.png|width=200px]]
 
 [Download (4shared)](http://www.4shared.com/file/WoBId_jT/02_-_Corruption.html)
 
@@ -64,8 +62,9 @@ _Meme songs that don't get old_
 
 ## Disk III - /f/b/i/ ##
 
+[[lulz3_cover.png|float|width=200px]]
+
 [Download (4shared)](http://www.4shared.com/file/rsR0xEoI/03_-__f_b_i_.html)
-![/f/b/i/](File:lulz3_cover.png)
 
 * _Various tracks from famous flash videos and background music from /b/ and /i/nvasions._
 
@@ -86,8 +85,9 @@ _Meme songs that don't get old_
 
 ## Disk IV - /b/lackup ##
 
+[[lulz4_cover.png|float|width=200px]]
+
 [Download (4shared)](http://www.4shared.com/file/wnje8usl/04_-__b_lackup.html)
-![/b/lackup](File:lulz4_cover.png)
 
 * _Various tracks related to /b/lackup_
 
@@ -111,7 +111,7 @@ _Meme songs that don't get old_
 
 ## Disk V - Leg/i/on ##
 
-![](Album_05_Artwork_thumb.png)
+[[Album_05_Artwork_thumb.png|float|width=200px]]
 
 * _Music for rallying anon._
 
@@ -130,13 +130,9 @@ _Meme songs that don't get old_
 1. The Beatles -  Strawberry Fields Forever (4:10)
 1. The Clash - The Guns Of Brixton (3:09)
 1. Iwasaki Taku - ROW ROW FIGHT THE POWAH (3:22)
-
-Note: Lemme know if the album art is fucked up on any of the songs. Editing that part was a bit weird and so some of them might show their original album art instead of the LULZ album art. Though it would be awesome if you fixed any such problem and reuploaded the .zip file yourself...
-**Here's a WORKING Version of Go West [MP3 128kbps](http://www.koooraup.com/files/8QNB7WSN/5-07_Go_West.mp3) [MP3 128kbps](http://anonym.to/http://sharebee.com/718d7249)**
-
 ## Disk VI - BAWWWWWWWWWW ##
 
-![](LULZ-VI-Bawwwww.png)
+[[LULZ-VI-Bawwwww.png|float|width=200px]]
 
 * _Songs for the sad anon._
 
@@ -162,20 +158,9 @@ Note: Lemme know if the album art is fucked up on any of the songs. Editing that
 1. Anonymous - When I Was (3:04) Cheer up emo kid.
 1. Linkin Park - Crawling (3:28)
 
-------
-
-Uploaded w/ wrong album artwork. Please download manually until reupload.
-Ok, I have had enough of this emo shit for quite awhile, if you faggots want another emo album you'll have to put it out yourselves.
-
-* **Fuck you, I wanna take this back to the drawing boards because:** 
-
-1. **Live version of Gravity? What the fuck?**
-1. **The last song, aswell as "Blue Angel" aren't BAWWWWW songs, faggots.**
-1. **What the fuck is with the album art? That's the creepy album if ever I've seen album art.**
-
 ## Disk VII - V& ##
 
-![](Album_07_Artwork_thumb.png)
+[[Album_07_Artwork_thumb.png|float|width=200px]]
 
 * _This album is dedicated to all the anons who were v& in the creation of epic lulz._'
 
@@ -198,20 +183,9 @@ Ok, I have had enough of this emo shit for quite awhile, if you faggots want ano
 1. Akon - Locked Up [MP3 128kbps](http://rapidshare.com/files/243284869/akon_-_locked_up.mp3)
 1. Metallica - Ride The Lightning [YouTube link](http://www.youtube.com/watch?v=uebInqG1pJI)
 
---------
-
-**Okay, uploaded, currently Pre-release in case anyone wants to change anything**
-<br>
-<br>
-**Just uploaded higher resolution arwork. Mostly the same as the original but I've laid film grain over it to compensate for the upscaling, which didn't look as good.**
-Is someone gonna add "Party like it's 1904" by Rex Navarrette to one of these?
-SO, what the fuck of compilation is this? WHY are these songs listed here? If you like protest-songs just download the songs from the 60's.
-Shouldn't this album hold songs that are from t3h 1nternets11!1one?!
-If you had even bothered to read my very shite description, you'd know it's shit like being caught for doing some shit and inprison'd or doing illegal shit.
-
 ## Disk VIII - Memetology ##
 
-![](LULZ-VIII-Memetology.jpg)
+[[LULZ-VIII-Memetology.jpg|float|width=200px]]
 
 * _Songs/remixes made for the internet_
 
@@ -236,19 +210,13 @@ If you had even bothered to read my very shite description, you'd know it's shit
 1.  mans1ay3r - Oprah OVER 9000 penises f/ PEDOBEAR remix [Youtube](http://www.youtube.com/watch?v=YGyKmvQesgs) [MP3](http://www.sendspace.com/file/3l45fs) <== Already on disk five.
 1. Anonymous - 4chan themesong [MP3 128kbps](http://rapidshare.com/files/266889738/000-4chan_-_Theme_Song.mp3)
 
--------
-
-> I don't know how many of these are actually internet-made-songs, so you guise sort that out
-> None of theses were made using TCP/IP since it's not a audio recording program, etc. The majority are made by people on the internet. Not that it actually matters. you are part of us guise stop being a faggot.
-> I've gone ahead and put together a pre-release.
-
 ## Disk (Over) IX - Thousand ##
 
+[[LULZ-Over-IX-Thousand.png|float|width=200px]]
 
 * _Actual songs made by actual artist that the internet claimed_
 
   * **Status - [Pre-Release](http://anonym.to/?http://www.megaupload.com/?d=HOSI8T6M) Hurry it up with the album art**
-![](Cover1_thumb.gif)
 
 1. Daft Punk - Harder, Better, Faster, Stronger
 1. Foo Fighters - Best Of You
@@ -267,26 +235,9 @@ If you had even bothered to read my very shite description, you'd know it's shit
 1. Metallica - FRANTICK TICK TICK TICK TICK TICK
 1. Tally Hall - Banana Man
 
------------
-
-_This is a proposal album - Anyone like the idea? Post songs._
-- Good title idea, but does this not fit in the last proposal album's topic?
-> I figure Memetics 2 should be for songs made/remixed for the internet and XI Thousand should be for songs made more traditionally and then became memes.
-- Steal songs from the YTMND soundtracks :P
-> I'm ashamed to say I actually was not aware of the YTMND Soundtrack before, I'm gonna have to try hard not to outright steal songs from there now that I'm aware of it, but there is bound to be some overlap considering both soundtracks deal in the songs of internet memes.
-- Whoa, this got big, _You got Rickrollerized_ and _Nyoongah out da front_ could be moved to the previous disc, however.
-What's with this [album art](http://www.partyvan.info/images/b/b1/Cover1.gif)? Shit sux!
-> Just wait for the guy  who usually does the album art to put up something...
-Deleted 4 songs cause 1, they sucked, and 2, these songs are not memes anywhere as far as I know. Moved 'You got Rickrollerized' and 'The Product' to the previous disk. Also I do have some album art for this disk that I'm almost done preparing.
-- Okay now what the fucking fuck? You guys need to sort your shit out, this album is apparently for "fancy songs not anywhere else" yet some of these definately fucking fit into the last albums topic. And I'm not going to fix it, I wanna see if anyone is actually paying fucking attention. Best of you & Black parade are album eight material. Sort your shit out.
-> Yes I agree that 'Best of You' and 'Black Parade' do fit album eight's description of meme songs, but so does 'Harder, Better, Faster, Stronger', 'Dragostea Din Tei', 'Technologic', and 'Bohemian Rhapsody'. If you don't know these memes visit swfchan sometime and above all else lurk moar. Right now the themes to album eight and album nine actually ended up being pretty much the same damn thing but they're separated between songs/remixes made for the internet (album eight), and actual songs made by actual artist that the internet claimed (album nine).
-> >  Right, I'm going to fucking sort this out, because obviously album eight isn't fucking "songs made for internet" because Basshunter, Lazytown and Lonely Island are there. So as of now, I'm taking your idea and swapping everything fucking around. Seriously, you guys can't seem to function without me around.
-> > > Sorry I listed the wrong version of cooking by the book, I meant to put up the remix and didn't notice till you said something about it. And I can understand moving Lonely Island, but I would still list the Basshunter song under disk eight cause the song is about playing World of Warcraft.
-- We should keep _Nyoongah out Da Front_ in mind, it'll be great for the Ausfags among us.
-
 ## Disk X - Creepypasta ##
 
-![](Album_10_Artwork.png)
+[[Album_10_Artwork.jpg|float|width=200px]]
 
 * _Songs to make Anon shit brix._
 
@@ -312,33 +263,9 @@ Deleted 4 songs cause 1, they sucked, and 2, these songs are not memes anywhere 
 1. Ganksta NIP - Horror Movie Rap [Youtube link](http://www.youtube.com/watch?v=4dda1W64K8M)
 1. Dark Tranquility - Inside the Particle Storm [Youtube link](http://www.youtube.com/watch?v=js12XdjLhy4)
 
-------
-
-Would this be any good for the album?
-
-1. Dresden Dolls - Missed Me [Youtube Link](http://www.youtube.com/watch?v=5TAQ1T1e2Dg)
-> For album art I was thinking that we reuse [this](http://insurgen.info/wiki/File:Album_06_Artwork.png) rejected album art from Disc VI's. It looks like it suites this album, also all you have to do is shoop the disc number and name.
-> > Fukken done cover.
-> > >  /r/-ing font on the cover.
-> > > >  [Horror](http://www.1001freefonts.com/horror.php) There you go.
->  Why in god's name is [Tubular Bells](http://www.youtube.com/watch?v=2lXPgbWGbG8) not here already?  - Because you haven't put it up there, you fucking jackass.
-Here's a rar with tracks 1-13 [MegaUpload Link](http://www.megaupload.com/?d=GAYANMQK)
-Who the hell is "Voltaire" and why is it in almost every album now?
---A lot of his songs are creepy / messed up as shit, but he's almost always happy about it. tl;dr: The sound of /b/.  I'll link a few of these.  These are jsut suggested songs of his.  I don't care if some get removed, I can see how it floods.  From Zombie Prostitute - "I had a stiffy for the stiff in front me!"
-Brains!(this was actually on Billy & Mandy) - <http://www.youtube.com/watch?v=_i7tqWMbUFU>
-Cantina(musical, gay rule 34 on Star Wars) - <http://www.youtube.com/watch?v=Seh8cNirlU8>
-Reggae Mortis(Probable to be removed.  Not all that creepy.) - <http://www.youtube.com/watch?v=AG7eZL34wB0>
-Zombie Prostitute(Lols, his dick falls off.) - <http://www.youtube.com/watch?v=FXebnJ1D0OU>
-I agree that Voltaire should stay on this album, maybe not so many songs though. I say we stick with one that Anon will know best which would be Brains!, despite the fact it isn't his best song. Just my opinion though. Whichever is liked the most we'll keep. And to the person that asked why he is on every album, I'll tell you. He could kick a bear's dick off from 12 feet. Fact.
-
-* Voltaire definitely has balls; he faced the looney tunes on Faux News over some "Goth Murder Madness" story they were sensationalizing and didn't take any shit.
-With all this talk of Voltaire, may I /r/ a site to download his discography?
-Don't know bout no discography, but you can get To The Bottom of The Sea (album) [Here](http://thepiratebay.org/torrent/4605318/Voltaire-To_The_Bottom_Of_The_Sea_256k) And [Ooky Spooky here.](http://thepiratebay.org/torrent/4119311/Voltaire-Ooky_Spooky-2007-Xioyn)
-Added Inside the Particle Storm, if you don't like it then you can remove it but I think it's scarier than most shit here (lol Michael Jackson).
-
 ## Disk XI - Chanology ##
 
-!['''Possible Artwork? Submitted by LeonBlade](Chanology.png)
+[[Chanology.jpg|float|width=200px]]
 
 * _Anti Scientology and protest songs_
 
@@ -362,24 +289,9 @@ Added Inside the Particle Storm, if you don't like it then you can remove it but
 1. Cake - Comfort Eagle
 1. Brave Agent Pubeit track [Youtube link](http://anonym.to/http://www.youtube.com/watch?v=yrZk0C91mfg)
 
------------
-
-> Any ideas for album art?
-> > Be patient, I got some album art coming out for this album. I think you faggots are going to like it. _<---- Can you siver faggot??_
-> > > this has 16 tracks in it now, 6 more than most artists/bands are expected to put out in albums. this is a nice playlist so far, now start sivering the .mp3s
-> OH HAI GUISE. I HEARD YOU LIKE .mp3's SO I DECIDED TO BE FUCKING AWESOME AND GET ALL OF THEM... minus Tracks 9,10 & 15. <http://anonym.to/http://sharebee.com/5e01e3b0> There you go. All I did was rename the .mp3s, I didn't do anything to the tags. If someone could get those missing tracks, that would be awesome. Have fun, anon.
-> > I found 2/3 missing tracks. I couldn't find the South Park track but i found a DVDRIP of the episode, which is the next best thing. Someone will obviously need to extract the audio and edit. [Shoop](User:Shoop) 13:36, 14 July 2009 (UTC)
-> Got all mp3s, zipped them up and put them on megafuck.
-> Thanks LeonBlade for the artwork, however could you make it atleast 800x800 instead of thumbnail size(200x200 - 300x300) as it's the preferred size for album art
-> > Ya thx LB, if you could post a bigger version I'll add a XI to it, or you could do that. Idk if they faggot 6 lines above will evar siver lol.
-O hai, it's me LeonBlade... I added the 800x800 one, the quality is _meh_ but the scaling of the image was small so the upscale isn't very smooth as it should be.  If there are any shoopers out there that would like to assist that would be gr9.
-> Lulzroy here, I can probably help in some way, just give me the source file and I can probably make it a little bit better. Though this is going to be a major challenge.
-> added link and artist info to ScientLOLojyuuichi.
-**Thinking of splitting this into two seperate albums, one for protest songs and another for scientology songs. Have enough for the protest album, but may need one or two more scientology songs. Wondering how this will work though, leave one of the albums here, and make the next disk XVII or make the second disk XII (This will, however, fuck up the current album art for any disks afterwards). Other choices are making it in two parts (XI-1 and XI-2) or making it an XBOXHUEG album with 30+ songs. There's also just leaving it alone, entirely. What do the people say?**
-
 ## Disk XII - Weeaboo ##
 
-![](LULZ-XII-Weaboo.png)
+[[LULZ-XII-Weeaboo.png|float|width=200px]]
 
 * _For all the shit in moonspeak_
 
@@ -399,15 +311,9 @@ O hai, it's me LeonBlade... I added the 800x800 one, the quality is _meh_ but th
 1. Hatsune Miku - Popipo 
 1. Anonymous - Waka Laka (Note:Artist is JENNY ROM vs ZIPPERS)
 
------------------
-
-Could add a GIRUGAMESH song for the lulz, also Hare Hare Yukai and Yatta! would fit this album well.
-> Why the fuck isn't [Ano Ko Wo Rape](http://www.youtube.com/watch?v=KUAU7r9akfs) on here?
-We should add a KK Slider song here for fun
-
 ## Disk XIII - Hackers on Steroids ##
 
-![](File:LULZ-XIII-HackersonSteroids.png)
+[[LULZ-XIII-HackersonSteroids.jpg|float|width=200px]]
 
 * _/fit/ songs - motivational, songs that make you wanna do SQUATZ_
 
@@ -429,18 +335,9 @@ We should add a KK Slider song here for fun
 1. DVDA - Montage (2:02)
 1. DVDA - Now You're a Man (2:11)
 
------------
-
-**Just realised we have Metallica - Enter Sandman in Hackers On Steroids AND /b/lack /m/etal, where do people think it's more appropriate?**
-Artworkfag here, lol sorry I didn't see that line about this is for /fit/ lol wtf.. take it or leave it lol.
-**I just made the artwork for "Hackers on Steroids". The reason why I made this is because I think the album art on Disc XIII and Disc XIV aren't really that different. This one I think should be the album cover for this disc because it's appropriate and it has hulk hogan (who looks like he's taken steroids) hacking on a computer. What do you guys think?**
-Like the album art. Thanks Lulzroy.
-**Me again, I just spent the time finding higher quality (320kbps) music to replace the lower quality ones, volume leveling the songs so that they play at the same volume, trimming and mastering some songs "You're the Best and Fight to Survive". Note that there are some that I upconverted but the entire album is encoded at 320kpbs and properly tagged. So I'm wondering if we can go to pre-release or are we still requesting songs?**
-Considering there is a decent amount of tracks for an album and also you have album art, i reckon we should bump the Prerelease to a Release as there hasn't been any request for additional song and also since we have a lot of proposed/work in progress albums to complete. Good work to LulzroyRaidkips for album  art and mastering and to all insurgents that helped - [Shoop](User:Shoop)
-
 ## Disk XIV - /b/LACK /m/ETAL  ##
 
-!['''do u liek?](Lulz_xiv800.jpg)
+[[Lulz_xiv800.jpg|float|width=200px]]
 
 * _For the METAL enthusiasts among us_
 
@@ -464,54 +361,9 @@ Considering there is a decent amount of tracks for an album and also you have al
 1. Gorgoroth - Carving a Giant [YouTube link](http://www.youtube.com/watch?v=aFn26ntmSsg)
 1. Toxic Holocaust - Warefare [Youtube link](http://www.youtube.com/watch?v=goYQyeDMG5k)
 
----
-
-I'll give you some ideas. _(Sure is folk metal in here)_ <- That's not my fault, but it makes me wonder, who the fuck removed Grand Failure Anthem just to make room for more folk and NIGHTWISH?
-^ Nightwish wasn't my idea, remove it if you have something better.
-**Don't just pick mainstream shit, there are some really good unheard bands out there if you're willing to dig and find them...**
-> Oh, so you mean that you want serious suggestions? That was not the impression I got from looking at the track list but I'll be adding some to the suggestion list below then.
-> > Sorry if you misunderstood, I meant that we shouldnt just fill the album with well known bands.
-Cradle of Filth is another "top tier" metal band you could pick something from. Ok, fuck this one, let's try some srs bsnss.
-**Text in the artwork needs to be a bit different. Kind of a mix between the text from the original artwork (Pure Memetics) and the Creepypasta artwork? See how that goes.**
-> Artworkfag here. Those layers are all flat now sorry bro, if you can shoop the fonts then good luck. or just shoop another cover and let ppl pick one. 
-> - Damn. I'm far from a shooping expert, so unless someone else wants to take the time to do this, we're gonna have to wait a while.
-> - [Alternative album cover,](http://www.partyvan.info/wiki/File:Lulz_ACOL_14.png) fonts were too hard to shoop so I made a new one altogether, replace the old one if this is better, let me know if anything needs to be added/changed.
-**Sum suggestions**
-> Machine Head - Kick you when you're down [(YouTube)](http://www.youtube.com/watch?v=WZrCkK7_zRs)
-> Devildriver - Clouds over California [(YouTube)](http://www.youtube.com/watch?v=J0K3eBuoZw8)
-> Five Finger Death Punch - Ashes [(YouTube)](http://www.youtube.com/watch?v=owbt1_slgN4)
-> Psychostick - The Hunger Within (Food in my metal?) [(YouTube)](http://www.youtube.com/watch?v=MPnp5ylRMB4)
-> Turisas - Battle Metal [(YouTube)](http://www.youtube.com/watch?v=Ift85e38H3M)
-> Anaal Nathrakh - When Humanity Is Cancer [(YouTube)](http://www.youtube.com/watch?v=7cfskAGScbA)
-> Cryptopsy - Phobophile [(YouTube)](http://www.youtube.com/watch?v=o1FivvPQIUY)
-> The Berzerker - Spare Parts [(YouTube)](http://www.youtube.com/watch?v=7dbPDEh-8ck)
-> Wintersun - Battle Against Time [(YouTube)](http://www.youtube.com/watch?v=Vs5727QFhtw)
-> Swallow the Sun - Deadly Nightshade [(YouTube)](http://www.youtube.com/watch?v=IWfCAsq9Gbo)
-> Sparzanza - Bloodline [(YouTube)](http://www.youtube.com/watch?v=_gHjGiqIccM)
-> Scar Symmetry - Slaves to the Subliminal [(YouTube)](http://www.youtube.com/watch?v=sZo-YY2kbbM)
-> Pyramaze - Ghost Light [(YouTube)](http://www.youtube.com/watch?v=I8N458q2CqQ)
-> Disarmonia Mundi - Demiurgo [(YouTube)](http://www.youtube.com/watch?v=3-h4hQDVV3U)
-> Fear My Thoughts - Stamp of Credence [(YouTube)](http://www.youtube.com/watch?v=Uw3HXNWXQK0)
-> Mors Principium Est - Pure [(YouTube)](http://www.youtube.com/watch?v=dNP68roEQBY)
-> **Nevermore - This Godless Endeavor** [(YouTube)](http://www.youtube.com/watch?v=W8JAsxUbjW0&feature=PlayList&p=EF0FC1A73438A5B9&index=0)
-> Bow Down - Born of Osiris [(Youtube)](http://www.youtube.com/watch?v=lnfh1wTPH7A)
-> Dethklok - The Gears [(Youtube)](http://www.youtube.com/watch?v=WKtG3UxscZg)
-> Internet Death Machine - Yiff in Hell Furfag! [Download](http://upload.lostsignalnetwork.com//files/Internet%20Death%20Machine%20-%20IN%20B4%20EXTERMINATUS%20-%20Yiff%20in%20Hell,%20Furfag.mp3)
-**Something tells me that there's going to end up being a lot of suggestions for this album, so I'm going to say that we should limit ourselves to a maximum of 20 songs. Try to save them for songs that stand out above the rest now, eh chaps?**
-3 Suggestions:
-Love Among Freaks - Berserker [Vid. It's from Clerks.](http://www.youtube.com/watch?v=DRbhNQUZYh0)<br>
-Melechesh - Imcedium Between Mirage And Time [Fucking Metal](http://www.youtube.com/watch?v=ScbelC1L8hI)<br>
-Mastodon - Blood And Thunder [The reason](http://www.youtube.com/watch?v=j1GUblI8rcM)<br>
-**Considering there is more than enough suggested music for at least 2 albums why not just make multiple albums instead** - [Shoop](User:Shoop)  << I second this, we can have two albums, one for death metal and one for black metal, there are lots of songs that are being rejected and maybe they can find their place in the death metal album.
-Think we should just have one metal album. Just be ready for a lot of arguing as to what should be on it.
-I think **blood and thunder** should go on the album because it's actually part of a meme.
-NEW SONGS ADDED: Hello everyone, (this is LeonBlade here) I added "Homage for Satan", "Homicidal Retrebution" and "Carving a Giant" to the list.  Do whatever you want to them, but it's better than most the stuff in here lol.
-**A metal album with no Dethklok? Hella no. Added "The Gears" but any song from them would be fine.**
-Okay faggots, the artwork really didn't work for me so I spent the entire week in Photoshop crafting something epic. I won't embed it until I have approval, but look here: [PREPARE YOUR ASS](http://www.filesmelt.com/dl/blackmetal.jpg)
-
 ## Disk XV - LET'S DO COKE  ##
 
-!['''Temp Art](5CY6JI6NNG.jpg)
+[[5CY6JI6NNG.jpg|float|width=200px]]
 
 * _Songs about being under the influence (of drugs or alcohol), and songs that make you trip balls_
 
@@ -536,22 +388,9 @@ Okay faggots, the artwork really didn't work for me so I spent the entire week i
 1. Whitest Kids' U Know - Dinosaur Rap [YouTube link](http://www.youtube.com/watch?v=L1SKf9YU4QQ)
 1. Whitest Kids' U Know - Never Song [Youtube link](http://www.youtube.com/watch?v=Z6Qa_afyzDA&feature=related)
 
----------------------------------------------------------------------------
-
-NEEDS MOAR FUCKING REGGAE.
-No Marley? I'm disappoint. W/e, I put my favourite 'what I listen to whilst high' one on.
-How about Pass the Dutchie on the Left Hand Side? I know that a dutchie is actually a cooking pot or something, but the original version was about passing a bong around, so...
-surgrestioens:
-50 Ways To Kill Me - Give Me PCP [mp3 128kbps](http://www.mediafire.com/?aga8czr8wq89yvn)
-Kool Keith - Drugs [Youtube link](http://www.youtube.com/watch?v=FJEuUeBv5qI)
-Orko tha Sycotik Alien - Fake Rocks (Southeast Crack Heads) [mp3 176kbps](http://www.mediafire.com/?0ischztd73f7pvl)
-Orko Eloheim (same guy) - Psychogunpowder [Youtube link](http://www.youtube.com/watch?v=AA74BFrrm8I) [mp3 112kbps](http://www.mediafire.com/?8078aptgc5f6ghk)
-Bone Thugs N Harmony - Ecstasy [Youtube link](http://www.youtube.com/watch?v=_1phPovdIto)
-Shpongle - Shpongolese Spoken Here [Youtube lonk](http://www.youtube.com/watch?v=1Shi9tR3GhM)
-
 ## Disk XVI - /fag/gotry  ##
 
-!['''Requesting Album Art](Artwork_Pending.png)
+[[Artwork_Pending.png]]
 
 * _Songs about sex, gays, trannies, and other shit like that._
 
@@ -581,24 +420,9 @@ Shpongle - Shpongolese Spoken Here [Youtube lonk](http://www.youtube.com/watch?v
 1. Major Lazer - "Pon De Floor" - the whole music video is composed of a bunch of nigras dryhumping, quite lulzy [video](http://anonym.to/http://www.vimeo.com/5936810)
 1. Electric Six - "Gay Bar" [YouTube link](http://anonym.to/http://www.youtube.com/watch?v=HTN6Du3MCgI)
 
------
-
-* How about Chris Crocker's shitstain Mind in the Gutter? [Youtube](http://www.youtube.com/watch?v=BEbqdsCFers)
-* For album art some how's about some sfw porn or happy negro
-[Shoop](User:Shoop) 02:34, 14 September 2009 (UTC)
-
-* Needs moar Bearforce1.
-* Perhaps Rocky Horror - Sweet Transvestite [YouTube link](http://www.youtube.com/watch?v=pDKyj35ew0E) or Toucha Toucha Toucha Touch Me [YouTube Link](http://www.youtube.com/watch?v=9l_2hZbIkx4&feature=related)
-* Anyone suggest Faggot Bruce - Cockstar? --[Thenat](User:Thenat) 00:02, 22 October 2009 (UTC)
-* Hey guys, it the same fag who compiled and uploaded Disc 11 Chanology. Forgot password, so new name. Anyway, did the same deal here, gathered up all the tracks so far and made some shitty cover art and megauploaded it. [Pre-Release](http://www.megaupload.com/?d=ZZL0ZKFN)
-* Internet Porn by The Da Vinci's Notebook may fit in this album [MP3 ?kbps](http://nowhere.deepmix.ru/blog/wp-content/podcast/Da_Vincis_Notebook-Internet_Porn.mp3)
-* This album needs serious trimming down. None of the others are more than 20 tracks; this one feels bloated.
-
-  * Agreed. No Album should be over 20 songs from this point on.
-
 ## 4chan: The Soundtrack ##
 
-[[!img 4chan_Soundtrack.jpg size=200x align=right]]
+[[4chan_Soundtrack.jpg|float|width=200px]]
 
 *Retrieved from the [Lulz Albums Tumblr](http://lulzalbums.tumblr.com/)*
 
@@ -641,13 +465,6 @@ The entire album can be downloaded [here](http://www.mediafire.com/?n8r9efgxdcuy
 33. /x/ - Xfiles Main Theme (3:25) 
 34. /y/ - Electric Six - Gay Bar (2:21) 
 
-# Downloads #
-
-The quality on these songs is absolute shit; average bitrate is 160kbps (absolute cuntshit) so don't bother downloading unless you're a fucking moron.
-> Oh Bawwwwwwwwwwwwwww, if your so upset by the sound quality of the songs then why don't you upload some high quality shit instead of complaining you faggot?
-Complainfags are the cancer!
-> My thoughts exactly!
-
 ## Rapidshares ##
 
 These are downloadable .RARs
@@ -661,28 +478,13 @@ These are downloadable .RARs
 * [Disk 6: Deposit Fuck](http://depositfiles.com/files/qxzvd2hp2) Baleeted
 
 * [Disks: 1-9, 11-13 FileServe](http://www.fileserve.com/list/MbZXgT9)
-**12/28/08:**
-_Disk 4 is finished. Organized everything, tagged it with correct artists, track numbers, album and song name, track number and even tagged it with the appropiate album art. This should be the final version, great job. Now if someone can reupload this plus the 3 other discs for the entire collection download below that'd be great (ANON DELIVERED)._
-(fyi, I seted everything else because it was clutered, so now it's nice and clean)
-Shit about "Get Ready To Die" is fixed, works fine. Enjoy downloading!
-Barackroll doesn't have a track number associated with it. also: is requiem for a tower really 47minutes long? 'Ready To Die' cuts off early too. :P
-^: Alright, I'll check the Barack Roll and Requiem Of a Tower says its that long but it isn't, may redownload it. As for RTD blame iTunes. Plays fine in VLC and when you skip somewhere pass 1:24 in it it'll play just fine. I may redownload that as well unless someone can do it before me.
-iTunes sucks dick. "Ready To Die" cuts out in iTunes but it plays fine on my iTouch. :/
-**01/01/2009:** _Okay, I have re-made the compilation. I fixed the Ready To Die-issue once and for all, all issues with the track numbering and some tags that got fucked up somewhere. This is probably the final version. I have replaced the download link as well._
-**01/01/2009** _Not quite, seems a few songs are missing. Tracks 9, 11, 13 aren't there and for some reason they won't open up in iTunes. I went and fixed everything but now for some reasn Barack Roll isn't working, I re-downloaded it but iTunes just refuses to fucking play it._
-**01/05/2009** _Just downloaded disk 4 off the rapidshit link, everything works fine for me, tracks 9, 11, and 13 are there, however there's something strange about the barackroll track... It works fine for me in amarok except that there's no song lenght associated with it... i don't know if maybe this is something that's the cause of problems for itunes fags but it's something to look at i guess. (Also, if i owned a windows or mac i would test this myself but i'm %100 linux fag so someone else needs to look at it.)_
-**01/06/2009** _Track 13 (Caramelldansen) from the rapidshit link ends halfway through for me..._
-**01/1/07/2009** _Apparently these problems aren't universal. Looks like they just vary randomly, the best way to solve this would to I guess, legally get a song if possible. I uploaded the Rapidshit Disc 4 link and I used flvto.com which seems to not work so well but for our purposes it seems alright. Also, Caramelldansen works fine for me. 
-__It seems all of thse problems are because of the media player, not the song. Try playing it in other media players such as VLC or Media Player Classic. If it's just te media player and not the song fuck it._
 
 ## Torrent ##
-
 
 * [Disk 1-3 on PirateBay since Jan 29 2008](http://thepiratebay.org/torrent/4002433/Lulz__A_Corruption_of_LOL_soundtrack)
 * [Disks 1-9 since Aug 29 2010](http://thepiratebay.org/torrent/5797871/Lulz___A_Corruption_of_Lol_-_Disks_1-9)
 
 ## Suggestions
-
 
 1. Moar album art. (Preferably a different one for every disk.)
 1. Cotten Eye Joe is the wrong version they say.
@@ -702,7 +504,3 @@ __It seems all of thse problems are because of the media player, not the song. T
 1. I don't know what album, but this remix of songs already on the list: anoNymous - Copy Pasta, Link:  <http://www.youtube.com/watch?v=M0diab9LNJ0&NR=1&feature=fvwp>
 1. Conspicuous lack of misogyny.
 1. Double Rainbow!!! - <http://www.youtube.com/watch?v=MX0D4oZwCsA>
-
-## Proposed Albums
-
-Want to add your own new albums to this collection? See [[Proposed_Albums]].
