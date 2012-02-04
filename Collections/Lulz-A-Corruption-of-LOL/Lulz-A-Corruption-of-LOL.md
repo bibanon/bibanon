@@ -1,4 +1,4 @@
-[[AlbumArtwork.jpg|width=250px]]
+[[AlbumArtwork.jpg|float|width=250px]]
 
 **_Lulz: A Corruption of LOL_** is a soundtrack containing all the meme songs that have come to be as of this time, December 2011. The project was started independently by an /i/nsurgent on the Partyvan Wiki, who upon realizing just how many songs there are posted to 420chan's /m/usic board, which allows music file uploads. A post was made to /ic/ on 4chan for album art, and the project is ongoing.
 
