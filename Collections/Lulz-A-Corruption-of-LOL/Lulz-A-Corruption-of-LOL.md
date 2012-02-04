@@ -10,15 +10,23 @@ Currently this page is a horrible mess. Please help out and format it better for
 
 Want to add your own new albums to this collection? See [[Proposed Albums]]. Also, why not check out [[the comments|Lulz Comments]] of the [[people who made|Insurgency Wiki]] these albums?
 
+## All Albums ##
+
+These are complete collections of all albums on this page.
+
+* [Disks: 1-9, 11-13 FileServe](http://www.fileserve.com/list/MbZXgT9)
+
+* [Disk 1-3 Torrent](magnet:?xt=urn:btih:8c0b2cbcbf6218e2023468ea415aa461ee41d990&dn=Lulz%3A+A+Corruption+of+LOL+soundtrack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80)
+* [Disks 1-9 Torrent](magnet:?xt=urn:btih:2dfa355c1f17feb922a7f82bc9a8a81f252ad8ae&dn=Lulz+%3A+A+Corruption+of+Lol+-+Disks+1-9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80)
+
+
 ## Disk I - Pure Memetics ##
 
 _Meme songs that don't get old_
 
-[Download (4shared)](http://www.4shared.com/file/5vOwvcNH/01_-_Pure_Memetics.html)
-
 [[AlbumArtwork.jpg|float|width=200px]]
 
-  * **Status - [Released](http://anonym.to/http://sharebee.com/8047b680) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197202181/Lulz__A_corruption_of_LOL_-_Disk_1.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
+  * **Status - [Released](http://anonym.to/http://sharebee.com/8047b680) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Download (4shared)](http://www.4shared.com/file/5vOwvcNH/01_-_Pure_Memetics.html) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
 1. Will Smith - The Fresh Prince of Bel-Air (2:57) [MP3 Download](http://www.4shared.com/audio/npb99-GR/0101-Will_Smith-Fresh_Prince_o.html)
 1. Rick Astley - Never Gonna Give You Up (3:35) [MP3 Download](http://www.4shared.com/audio/18jyjTNo/0102-Rick_Astley-Never_gonna_g.html)
@@ -40,11 +48,10 @@ _Meme songs that don't get old_
 
 [[lulz2_cover.png|float|width=200px]]
 
-[Download (4shared)](http://www.4shared.com/file/WoBId_jT/02_-_Corruption.html)
-
 * _Remixes of memes and mashups_
 
-  * **Status - [Released](http://anonym.to/http://sharebee.com/f5eb6c38) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197205073/Lulz__A_corruption_of_LOL_-_Disk_2.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
+  * **Status - [Released](http://anonym.to/http://sharebee.com/f5eb6c38) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Download (4shared)](http://www.4shared.com/file/WoBId_jT/02_-_Corruption.html)
+ | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
 1. DJ AnounymOS - so i herd u liek musics (oh lawd, is dat sum insurgency) version 2.1 (6:47) [MP3 Download](http://www.4shared.com/audio/ZyC4MW_f/0201-DJ_AnounymOS-so_i_herd_u_.html)
 1. DJ Gotcha - Over 9000 (Remix) (1:07) [MP3 Download](http://www.4shared.com/audio/td3BpRiW/0202-DJ_Gotcha-Over_9000__remi.html)
@@ -64,11 +71,9 @@ _Meme songs that don't get old_
 
 [[lulz3_cover.png|float|width=200px]]
 
-[Download (4shared)](http://www.4shared.com/file/rsR0xEoI/03_-__f_b_i_.html)
-
 * _Various tracks from famous flash videos and background music from /b/ and /i/nvasions._
 
-  * **Status - [Released](http://anonym.to/http://sharebee.com/20003a88) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197228785/Lulz__A_corruption_of_LOL_-_Disk_3.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
+  * **Status - [Released](http://anonym.to/http://sharebee.com/20003a88) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Download (4shared)](http://www.4shared.com/file/rsR0xEoI/03_-__f_b_i_.html) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
 1. DMX - Where The Hood At? (4:52) [MP3 Download](http://www.4shared.com/audio/KEkCoV4V/0301-DMX-Where_The_Hood_At_.html)
 1. Infected Mushroom - Becoming Insane (Radio Mix) (3:12) [MP3 Download](http://www.4shared.com/audio/8Yg0sU-G/0302-Infected_Mushroom-Becomin.html)
@@ -87,11 +92,9 @@ _Meme songs that don't get old_
 
 [[lulz4_cover.png|float|width=200px]]
 
-[Download (4shared)](http://www.4shared.com/file/wnje8usl/04_-__b_lackup.html)
-
 * _Various tracks related to /b/lackup_
 
-  * **Status - [Released](http://anonym.to/http://sharebee.com/46cc9a83) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) [Old Mirror](http://anonym.to/http://rapidshare.com/files/197212086/Lulz__A_corruption_of_LOL_-_Disk_4.rar)**
+  * **Status - [Released](http://anonym.to/http://sharebee.com/46cc9a83) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Download (4shared)](http://www.4shared.com/file/wnje8usl/04_-__b_lackup.html)**
 
 1. Eazy E - Boyz N Tha Hood (G-Mix) (5:39) [MP3 Download](http://www.4shared.com/audio/bKvupTgq/0401-Eazy_E-Boyz_N_Tha_Hood_G-.html)
 1. NWA - Fuck The Police (5:47) [MP3 Download](http://www.4shared.com/audio/ZLzFkE5E/0402-NWA-Fuck_Tha_Police.html)
@@ -464,25 +467,6 @@ The entire album can be downloaded [here](http://www.mediafire.com/?n8r9efgxdcuy
 32. /v/ - Erasure - Always (4:03) 
 33. /x/ - Xfiles Main Theme (3:25) 
 34. /y/ - Electric Six - Gay Bar (2:21) 
-
-## Rapidshares ##
-
-These are downloadable .RARs
-
-* [Disk 1: RapidShit](http://rapidshare.com/files/197202181/Lulz__A_corruption_of_LOL_-_Disk_1.rar)
-* [Disk 2: RapidShit](http://rapidshare.com/files/197205073/Lulz__A_corruption_of_LOL_-_Disk_2.rar)
-* [Disk 3: RapidShit](http://rapidshare.com/files/197228785/Lulz__A_corruption_of_LOL_-_Disk_3.rar)
-* [Disk 4: 4Shared](http://www.4shared.com/file/wnje8usl/04_-__b_lackup.html)
-* [Disk 4: RapidShit](http://rapidshare.com/files/197212086/Lulz__A_corruption_of_LOL_-_Disk_4.rar)
-* [Disk 5: MediaFart](http://www.mediafire.com/?nygmrmmjtvl) Baleeted
-* [Disk 6: Deposit Fuck](http://depositfiles.com/files/qxzvd2hp2) Baleeted
-
-* [Disks: 1-9, 11-13 FileServe](http://www.fileserve.com/list/MbZXgT9)
-
-## Torrent ##
-
-* [Disk 1-3 on PirateBay since Jan 29 2008](http://thepiratebay.org/torrent/4002433/Lulz__A_Corruption_of_LOL_soundtrack)
-* [Disks 1-9 since Aug 29 2010](http://thepiratebay.org/torrent/5797871/Lulz___A_Corruption_of_Lol_-_Disks_1-9)
 
 ## Suggestions
 

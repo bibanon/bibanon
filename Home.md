@@ -29,7 +29,7 @@ If you have anything that you believe needs to be saved, just follow these steps
 
 In order to make this project a success, we need lots of help. See [[Help]] to see what needs to be done.
 
-Also, even with the ability to keep an independent local copy, Git is still heavily reliant on central servers. We need help building a [[Fully Decentralized Wiki]], and this will require development of [[Gittorrent]] or [[Hg-Freenet]].
+Also, even with the ability to keep an independent local copy, Git is still heavily reliant on central servers. We need help building a [[Fully Decentralized Wiki|Ukiyo-e]], and this will require development of [[Gittorrent]] or [[Hg-Freenet]].
 
 ## Contact
 
