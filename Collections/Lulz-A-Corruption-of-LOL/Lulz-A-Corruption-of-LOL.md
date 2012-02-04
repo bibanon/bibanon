@@ -16,7 +16,7 @@ _Meme songs that don't get old_
 
 [Download (4shared)](http://www.4shared.com/file/5vOwvcNH/01_-_Pure_Memetics.html)
 
-[[AlbumArtwork.jpg|float|width=250px]]
+[[AlbumArtwork.jpg|float|width=200px]]
 
   * **Status - [Released](http://anonym.to/http://sharebee.com/8047b680) | [New Torrent](http://anonym.to/http://www.mininova.org/tor/2417800) | [Old Mirror](http://anonym.to/http://rapidshare.com/files/197202181/Lulz__A_corruption_of_LOL_-_Disk_1.rar) | [Old Torrent](http://anonym.to/http://www.mininova.org/tor/1142140)**
 
