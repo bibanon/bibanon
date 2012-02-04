@@ -38,7 +38,7 @@ _Meme songs that don't get old_
 
 ## Disk II - Corruption ##
 
-[[lulz2_cover.png|width=200px]]
+[[lulz2_cover.png|float|width=200px]]
 
 [Download (4shared)](http://www.4shared.com/file/WoBId_jT/02_-_Corruption.html)
 
