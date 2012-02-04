@@ -1,4 +1,4 @@
-[[1182417345385.jpg|float|width=400x]]
+[[1182417345385.jpg|float|width=200x]]
 
 **Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan and the hardships he suffers later in his life. 
 

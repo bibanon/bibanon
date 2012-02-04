@@ -1,6 +1,6 @@
 TYLER is a proposed "Massively Distributed Uncensorable Collaborative Wiki-P2P Cipherspace Structure". While the writings of Project Mayhem do outline the ideals and implications of such a website, very little has been written or done on actually implementing the idea.
 
-But wait a second, a decentralized wiki? That sounds familiar... Something like this wiki? Yes, we have already accomplished half of the goals of TYLER, the DVCS wiki part. However, more needs to be done on making the access p2p and editing more decentralized, and so we've put a design specification for such a wiki [[here|bibanon/Fully_Decentralized_Wiki]].
+But wait a second, a decentralized wiki? That sounds familiar... Something like this wiki? Yes, we have already accomplished half of the goals of TYLER, the DVCS wiki part. However, more needs to be done on making the access p2p and editing more decentralized, and so we've put a design specification for such a wiki [[here|Ukiyo-e]].
 
 ## Introduction
 
