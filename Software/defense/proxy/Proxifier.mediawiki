@@ -1,5 +1,7 @@
 Proxifier is a program that allows any program to send data through a SOCKS5 proxy or Tor. It is incredibly useful for trolling online games, but more importantly, '''chaining multiple proxies together'''.
 
+[[File:O god what happen.PNG|thumb|Screenshot]]
+
 ==Quick Tutorial==
 
 This assumes Tor has been installed and set up for SOCKS5 connections on port 9050.
@@ -17,5 +19,3 @@ This assumes Tor has been installed and set up for SOCKS5 connections on port 90
 
 *[http://anonym.to/http://rapidshare.com/files/198215775/ProxifierA.rar RapidShar] <-- Version 2.8 Portable with an integrated serial!
 *[http://anonym.to/http://www.proxifier.com/ Proxifier site]
-
-[[Category:Tools]]

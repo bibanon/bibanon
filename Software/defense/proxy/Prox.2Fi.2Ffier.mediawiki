@@ -1,5 +1,0 @@
-'''Prox/i/fier''' is an addon to [[Tor]]. It will allow you to proxify any .exe you have. Sounds cool, amirite? Start Tor, then open this. Holy shit this is pretty neato right?
-===How do I shot web===
-Open Tor, then just go to options, then proxification rules, and add a program. If you don't want to use a Tor, you can just add a [[proxy]]. To do this go to Options, then proxy settings.
-[[File:O god what happen.PNG|thumb|Screenshot]]
-[[Category:Tools]]
