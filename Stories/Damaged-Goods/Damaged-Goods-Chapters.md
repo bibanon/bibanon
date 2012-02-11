@@ -121,3 +121,7 @@ Two threads in one, one of which was posted a while ago but ignored. Nurse-kun t
 ### [[Chapter Twenty-Three - Of Pokemans and Haikus|dg-23]] ###
 
 Four threads over the period of about three days. Lots of interesting little tidbits, as well as the possibility of the anonymous getting to play against our beloved amputee-chan. No new story per se, hence squishing four threads into one chapter.
+
+### [[Chapter Twenty-Four - Epilogue|dg-24]] ###
+
+Nurse-kun hadn't posted on /b/ since 2 June 2007. A year later in 2008, a thread about Warhammer for someone's sister suddenly had Nurse-kun comment on it. A few people start to remember him (not many, since Wikichan had been deleted by then), and press him to tell 4chan what happened as closure. After giving this account, Nurse-kun gives up his tripcode for the last time, rejoining the shadowy masses of Anonymous...
