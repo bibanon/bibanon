@@ -30,11 +30,3 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 * [[Itoko Otoko]]
 * [[Romeo san and Juliette]] - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
 * [[Cheerios]] - A man who loves Cheerios. A bit... too much.
-
-### Loli Stories
-
-*Wikichan was well known around 4chan for it's collection of stories written about little lolis.*
-
-* [[Pet Loli]] - Some copypasta about an anon's little girl whom he saved and raised after a car crash involving her foster parents.
-* [[Loli Slave]] - A sick fuck decides to kidnap a loli and keep her as a slave. Don't worry, it's unlikely that it's true.
-* [[One eyed Loli]] - A guy with a strange liking for disabilities decides to adopt a little girl with blindness in one eye.

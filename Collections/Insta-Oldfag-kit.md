@@ -153,12 +153,10 @@ and last but not least...
 
 5,000+ of the finest porn images including my favorites such as collections of over 50 of the best camwhores (no cracky, gtfo crackyfags), angie verona, DAT ASS, exhibitionists, facebooks, groups, sharpies, sherri, skinny chicks and over 1,750 teen self pics (no captain picard here, sorry)
 
----
-
-Notes:
+## Notes:
 
 All files are either .jpg .png .gif .txt or .swf (.swf files only in the flash memes folder). All extensions are lowercase and all non-order or non-description specific images have been renamed with random and unique 8-digit filenames. The reaction and op image folders have a ! symbol at the front of them so they are sorted at the front of a folder. All images have been optimized with batch commands in Adobe Photoshop CS5. Visipics was used at the standard setting to detect duplicates, with multiple runs. THERE ARE NO DUPLICATES IN THIS KIT!
 
 There are no .exe, .js, .zip or .rar files in this kit. The kit is NOT archived and you will be able to see every item before downloading, and each item will appear on your drive as it is downloaded. This distribution is virus free... check for yourself! >>>/g/ recommends Commonsense 2011 Special Edition and MSE. Enjoy your aids!
 
-*Since this is a large open directory and not a single file, it is not practical to include a MD5 sum.
+* Since this is a large open directory and not a single file, it is not practical to include a MD5 sum.

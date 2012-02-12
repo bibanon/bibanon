@@ -1,49 +1,7 @@
-A bunch of copypasta that was on 4chan in some point in time.
-
-## 4chan
-
-## Baww
-
-## Incest
-
-## Loli
-
-## Memes
-
-## Rants
-
-## WTF
-
-## Misc
-
-Alternative Views
-AMERICA GREATEST NATION
-Animal Abuse
-Coming out of the Closet
-Compendium of Maddy McCann Copypasta
-Copypasta List
-Copypasta
-Copypasta White Knighting
-Creepypasta
-First Gay Experience
-Fucked Your Boyfriend
-Furry Copypasta
-Hal Turner Zimmerism
-Hitler ASCII
-Masturbating to Yaoi
-Pedophilia
-Penguin of Doom
-Pregnant
-Raid fanfic
-So I Heard You Like Mudkips
-Sony vs Nintendo
-STDS
-We Are Anonymous
-Web 2.0
-You are a rapist
-
 ## SAMBIA ##
+
 In their tribal villages the Sambia segregate the sexes as much as possible. Men and women each have their own paths and meeting places. The boys have no contact whatever with the girls. The initiation process for them begins somewhere between ages 7 and 10. During the first phase, which lasts until they are about 15, they are expected to suck the PENIS of a mature boy every night and swallow the sperm. Without regular ingestion of male seed, the Sambia believe, boys will never grow up into strong, mature men.
+
 At first some of the boys dislike having to do this, but gradually all come to enjoy it and often strong ties of friendship are formed between the sucker and the sucked. After puberty the boys enter the second phase of initiation: it is now their turn to provide seed for the benefit of the younger ones. They do this until, at around age 22, they marry. Marriage terminates the young man's homosexual life, since once his PENIS has penetrated a woman's vagina it is no longer considered clean and it would be dangerous for any other male to touch it.
 
 ## LISA ##
