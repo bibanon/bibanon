@@ -27,6 +27,10 @@
 
 * [[Japanese]] - Japanese is one of the most important languages on the internet, and backed by a powerful otaku culture with an emphasis on anonymity. This is a guide to learning Japanese with Anonymous.
 
+## Game Guides
+
+* [[Clannad Guide]] - A spoiler-free, 300-hour guide to the beyond-awesome visual novel, CLANNAD.
+
 ## Unformatted
 
 *These books need to be converted to Markdown format, so that the information inside can be easily searched or linked in this wiki.*
