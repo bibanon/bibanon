@@ -2,7 +2,7 @@ During Operation Payback, I got this little 7ziped file, which was less than 2 M
 
 Some of it is really old, others unneeded at this point in time, but there's a lot of cool stuff that we need to get out of it, like the Anarchist's Cookbook and the hacking guides. 
 
-Help us out here by exporting and formatting the pages to be put here in this wiki.
+Help us out here by exporting and formatting the pages to be placed in the [[Tutorials]] collection.
 
 ## Download
 
