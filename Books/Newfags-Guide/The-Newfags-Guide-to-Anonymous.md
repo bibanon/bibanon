@@ -109,6 +109,17 @@ Here is a list of all the pages falling under the umbrella of the Newfag's Guide
 * [[SQL Injection]]
 * [[Wiretap]]
 
+### IRL
+
+* [[Wheatpaste]]
+* [[Defend Against Dogs]]
+
+**Protesting**
+
+* [[Protest Teams]]
+* [[Agent pubeit]]
+* [[Tear Gas]]
+
 ### Social Networking
 
 [[Basic Tutorial.3A Facebook Photo Stalker]]

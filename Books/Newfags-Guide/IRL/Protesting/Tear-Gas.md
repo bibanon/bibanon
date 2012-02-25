@@ -1,5 +1,14 @@
 Breathing in tear gas, or getting it in your eyes, is not fun. This, obviously, is the whole point. But there are things you can do to mitigate the effectiveness of tear gas, and allow you to keep on fighting the good fight. 
 
+## Quicktips
+
+* Check the wind and move against the wind
+* Spread the information to other demonstrators on the streets about where to go
+* Never go out without little masks. Cover your mouth and nose.
+* Synthetic fibers are better to wear (Ex. Nylon, Acrylic, Polyester). The teargas will not stay on clothing made from these.
+* Fabric doused with vinegar will help neutralize teargas.
+* If you have some, rinse your eyes with physiological saline or water.
+
 ## What is Tear Gas?
 
 The first thing to remember about tear gas is that it is primarily a fear weapon. Yes, the gas hurts. But the fear caused by tear gas grenades is a much more effective means of crowd dispersal than the gas itself. So rule number one is to calm down. 
@@ -22,8 +31,17 @@ If you have gloves and something to protect your face (which I'll talk about soo
 
 **WARNING**: Do not pick up a grenade which has not exploded. You can be injured if/when it goes off in your hand. Some are, of course, duds. But it is not safe to assume that unexploded grenade at your feet is a dud. 
 
-Assuming you don't have a gas mask (which is essential for prolonged operation in a tear-gassy environment), a bandanna or other cloth which has been soaked in vinegar or lemon juice will allow you to breathe long enough to escape the gas. Mask up! Cider vinegar is less harsh-smelling and is recommended. Breathing in vinegar is not pleasant, but compared to tear gas it's like fresh air. Unfortunately, the vinegar's protective effect does not last long (minutes), and your bandanna will be saturated with gas afterward. So bring several. Retying a gassy bandanna around your face is not a good idea. Make sure the bandanna fits tightly around your nose and mouth. 
+Assuming you don't have a gas mask (which is essential for prolonged operation in a tear-gassy environment), a bandanna or other cloth which has been soaked in vinegar or lemon juice will allow you to breathe long enough to escape the gas. 
+
+Mask up! Cider vinegar is less harsh-smelling and is recommended. Breathing in vinegar is not pleasant, but compared to tear gas it's like fresh air. Unfortunately, the vinegar's protective effect does not last long (minutes), and your bandanna will be saturated with gas afterward. So bring several. 
+
+Retying a gassy bandanna around your face is not a good idea. Make sure the bandanna fits tightly around your nose and mouth. 
+
 You must wear goggles. Goggles which are air tight. It is one thing to have severe upper respiratory pain. It is another to have that and also have burning, watering eyes. 
+
+### Homemade Gas Mask
+
+[[Tear-Gas-Mask.png]]
 
 ### Protips
 

@@ -34,9 +34,8 @@
 
 ## Unformatted
 
-*These books need to be converted to Markdown format, so that the information inside can be easily searched or linked in this wiki.*
+*These books need to be converted to Markdown format, so that the information inside can be easily searched or implemented into our books.*
 
-* [[AnonymousRiotGuide.pdf]]
 * [[AnonymousSecurityStarterHandbook.pdf]]
 * [[FirstAid-Made-Easy.pdf]]
 * [[FreeSoftwareFoundation-BypassingCensorship.pdf]]
