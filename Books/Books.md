@@ -23,6 +23,8 @@
 * [[The Uncultured Anonymous]] - A spin on the Well-Cultured Anonymous, detailing stuff that is, well, unacceptable in a cultured society. Saved in it's entirety from Wikichan.
 * [[Anarchist Cookbook]] - The 2004 edition of the hit book about fighting the power and building some crazy stuff.
 * [[The Book of Anon]] - A "Holy Book" of [[Anonymous]] that was made by users on the [[Insurgency Wiki]].
+* [[Uber Secret Handbook]] - An awesome guide to staying anonymous on the internetz and a few assault tips.
+* [[Uber Secret Handbook 2.0]] - An updated edition of the above guide.
 
 ## Language
 
