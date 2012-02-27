@@ -20,7 +20,7 @@
 
 * [[Epic Win For Anonymous]] - A groundbreaking contemporary history book about 4chan and Anonymous. It's a great read.
 * [[The Newfags Guide to Anonymous]] - Thinking about becoming a part of the legions of Anonymous? An intermediate user wanting to go deeper into the rabbit hole? Or an advanced anon wanting to share your knowledge? Read this guide, help reorganize it, and contribute if at all possible.
-* [[Anonymous Security Handbook]] - A Payback-Era guide built to teach anons how to stay safe in a dangerous internet. Needs to be merged with the Newfag's Guide.
+* [[Anonymous Security Handbook]] - A Payback-Era guide built to teach anons how to stay safe in a dangerous internet. It's very disorganized, and needs to be merged with the Newfag's Guide or other parts of this wiki.
 * [[The Uncultured Anonymous]] - A spin on the Well-Cultured Anonymous, detailing stuff that is, well, unacceptable in a cultured society. Saved in it's entirety from Wikichan.
 * [[Anarchist Cookbook]] - The 2004 edition of the hit book about fighting the power and building some crazy stuff.
 * [[The Book of Anon]] - A "Holy Book" of [[Anonymous]] that was made by users on the [[Insurgency Wiki]].
@@ -37,9 +37,7 @@
 
 *These books need to be converted to Markdown format, so that the information inside can be easily searched or implemented into our books.*
 
-* [[AnonymousSecurityStarterHandbook.pdf]]
 * [[FirstAid-Made-Easy.pdf]]
 * [[FreeSoftwareFoundation-BypassingCensorship.pdf]]
 * [[NSA-HowTo-Safely-Publish-WordtoPDF.pdf]]
 * [[RSF.org-Handbook-For-CyberDissidents.pdf]]
-* [[sikrit0-2-1.pdf]]

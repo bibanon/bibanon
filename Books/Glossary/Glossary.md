@@ -4,7 +4,7 @@ Sometimes strange and obscure slang words are used throughout this wiki. In case
 
 * [[Hentai]] - We don't have any, sadly. However, we do have a long shitty discussion thread on the fact that Japanese people get extremely offended when you say that word.
 
-## B&
+## [[B&]]
 Literally, “Banned”. Being barred from a forum or other virtual space. Anonymous 
 sometimes refers to being arrested or “V&”(vanned) as a real world equivalent.
  
@@ -13,7 +13,7 @@ An attempt to “create” popularity with an image, catchphrase, or activity.
 Usually seen by Anonymous as poor form. 
  
 ## Grief 
-The activity of entering an virtual space, usually a multiplayer ‘virtual world’ such as Second Life, with the express purpose of disrupting gameplay in some fashion. Related to [[Troll|Glossary#Troll]].
+The activity of entering an virtual space, usually a multiplayer ‘virtual world’ such as Second Life, with the express purpose of disrupting gameplay in some fashion. Related to [[Troll]].
 
 ## Image Macro 
 A popular medium for distributing memes. Relies on a specific sort of juxtaposition of image and text. One example of an image Macro is a so‐called ‘demotivational poster’.
