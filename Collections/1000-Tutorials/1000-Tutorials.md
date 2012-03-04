@@ -8,7 +8,7 @@ Help us out here by exporting and formatting the pages to be placed in the [[Tut
 
 It's a 4MB 7ziped file with 1136 files of awesomeness. Extract it with [[WinRAR]] or [[7zip]].
 
-You can get it from this wiki here: [[1000_Tutorials.7z]]
+You can get it from this wiki here: [[1000-Tutorials.7z]]
 
 ## Stuff inside
 

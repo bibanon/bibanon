@@ -1,5 +1,7 @@
 The **[[Bibliotheca Anonoma]]** is a [[Gollum]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens even while offline.
 
+You could spend hours here: The stuff archived in it is extremely interesting. Click on the links to the right for more info.
+
 ## Intro
 
 > *In the future, we will be remembered as those who protected free and universal access to our culture. We resisted and were rebels (according to the law of our times) and kept the copies of our culture: books, movies, music, all art… we saved it, and kept it in a safe place, so that someday, the people may have access to it once again, free from the stingy hands of corporations.* - [Eyko](http://www.reddit.com/r/darknetplan/comments/oo217/with_megaupload_shut_down_we_need_to_take_action/c3ip9a2)

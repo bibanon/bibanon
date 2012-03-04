@@ -26,7 +26,9 @@ I can think of some forums that would benefit from this system already. Like... 
 
 2channel, from what I've heard, is so big that people hardly ever browse the forums there. Instead, they bookmark their favorites, and people who post mainly in one forum don't know much about the people from the other forum. But as one big BBS, they are bound together with a unique culture.
 
-==Some 2channel Events==
+==History==
+
+More Info: [[2ch History]]
 
 2channel drama is fifty times larger than your piddling American forum drama. The most famous example-- in Japan, that is, because the story never made it to the United States-- is the Neomugicha incident. At this point I am going to quote from a Wikipedia entry, but that's okay because I wrote that Wikipedia entry.
 
@@ -45,10 +47,6 @@ From syberpunk.com, which is the source of my Hiroyuki quote, here's some more f
 * Prompting a 1,000 Burger Eat Off when McDonalds started selling hamburgers for 59 yen apiece. About 40 2 Channel users turned up at a Tokyo outlet of the giant food chain and proceeded to chomp their way through some 400 burgers in a few hours. True to form for 2 Channel users, participants celebrated the occasion by taking a snapshot -- with everybody facing away from the camera!
 
 Additionally, 2ch was a major feature of the anime Nurse Witch Komugi-chan. ''[Of course, now there are a bunch of other mainstream anime and Densha Otoko too.]''
-
-==History==
-
-See the [[2ch History Timeline]]. (Was copied vertabrim from Wikipedia, need to be translated to English)
 
 ==Notable meta-events (2007)==
 [[Something Awful]] was having major server issues throughout 2001. In August 2001, 2channel experienced similar overflow problems due partially to the Neomugicha incident. The servers were in danger of crashing. Luckily, some expert programmers on the 2ch UNIX board reduced the server load of 2channel's Perl scripts by 90% and saved the servers. I know about this because they made a [Flash movie](http://www.geocities.co.jp/Stylish-Monotone/5980/unix.swf) about their heroism and spammed it on [[world2ch]]. Hiroyuki also hired a new administrator named FOX, who is still sysadmin today and is one of 2ch's notorious personalities.

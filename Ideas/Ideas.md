@@ -12,6 +12,7 @@
 
 ## Misc.
 
-[[Church of Anon]]
-[[Memetic Nervegas Factory]]
-[[Meshnet]] - [[Reddit]]'s plan to create a wireless meshnet independent from current internet infrastructure.
+* [[Church of Anon]]
+* [[Memetic Nervegas Factory]]
+* [[Meshnet]] - [[Reddit]]'s plan to create a wireless meshnet independent from current internet infrastructure.
+* [[AnonFreq]] - A concept for a comic for [[Anonymous]].
