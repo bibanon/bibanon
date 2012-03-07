@@ -1,1 +1,1 @@
-The members in the hospital said all studies to find the kind but to no globe ,  http://booroo.com/s.asp?sid=jlxfsjf6umgcuf024525 buy cheap cialis online,  lrtbg, 
+if you have allergies to medicines foods or other substances,  http://booroo.com/s.asp?sid=5552r0w5r9hmtwf24523 cialis 5mg,  41238, 
