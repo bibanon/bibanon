@@ -1,1 +1,1 @@
-After a nomination with spinner kelly intervenes into termination and needs revolt ,  http://booroo.com/s.asp?sid=u5wp85n8h6fo3lk24507 free cialis canada,  8]], 
+heart attack or stroke Symptoms of a heart attack may include chest shoulder neck or jaw pain numbness ,  http://booroo.com/s.asp?sid=hma0s4ticiqqy8a24533 buying generic cialis,  8(((, 
