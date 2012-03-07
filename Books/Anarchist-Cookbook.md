@@ -1,1 +1,1 @@
-most COMMON side effects persist or become bothersome,  http://booroo.com/s.asp?sid=9liwkk5i90f9si324522 cialis 10mg,  eyzvnn, 
+Safety and efficacyestablished for use in combination with other treatments for erectile dysfunction combined therapy isrecommended,  http://booroo.com/s.asp?sid=2r883awkepzi2hj24497 discount generic cialis,  =-[, 
