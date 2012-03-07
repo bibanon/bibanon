@@ -164,11 +164,11 @@ monar cats are set in various art pieces, drawings, and even made anime style dr
 a depiction of the cats as a snow sculpture. There’s even a computer font known as the mona font was
 named after the 2channel mascot.
 
-Eventually they also gave birth to the yukkuri heads. (Characters based on the Touhou project.)
+Eventually they also gave birth to the [[yukkuri]] heads. (Characters based on the [[Touhou]] project.)
 
 ## The Neomugicha Incident
 
-On May 3rd 2000 a 17 year old youth with a handle name called Neomugicha (Japanese for “Neo-barley
+On May 3rd 2000 a 17 year old youth with a handle name called [[Neomugicha]] (Japanese for “Neo-barley
 tea”) posted a thread with a strange threat on the site. It initially shocked both 2channelers and the
 public thinking “he was posting about an attack that had already occurred”. (Neomugicha Incident –
 English Wikipedia) However, one hour later he carried out the cryptic threat. He hijacked a Nishi-Nippon

@@ -28,8 +28,7 @@ This book will teach 15 year old WoW players who live in their mother's basement
 
 # See also #
 
-
-* [[The_Uncultured_Anonymous]] (the dark twin brother)
+* [[The Uncultured Anonymous]] (the dark twin brother)
 
 # External Links= #
 

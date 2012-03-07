@@ -1,6 +1,6 @@
-[[!img Wellculturedanon.png size="150x"]]
+[[Wellculturedanon.png|float]]
 
-**The Return of the Well Cultured Anonymous** is an updated book based on the original **Well Cultured Anonymous** painstakingly built by fellow [[Anonymous]] on [[Wikichan|Wiki#Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
+**The Return of the Well Cultured Anonymous** is an updated book based on the original **Well Cultured Anonymous** painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
 
 We added "The Return" to this book's title, since it was entirely lost in it's original form after Wikichan fell apart. Some parts still live on in [Well-Cultured](http://www.wellcultured.com), a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine. Because of the unfortunate fate of such an informative guide, we have restored the original and opened it to editing.
 
@@ -10,7 +10,7 @@ Some parts need to be updated, important topics need to be added, and a few page
 
 You have seen them everywhere – self help topics of Anonymous begging for help with his life. Some people have no idea how they should dress other than wearing a Pantera t-shirt with jeans that their mother bought for them five years ago. Some have no idea how to approach women and spend their time [[masturbating|Masturbation]] to [[Loli]]. And some just want to know if they should shave their [[pubes|Grooming]].
 
-Here, my friends, is your answer. Written by anon, edited by anon, and perfected by anon. Every single tip, trick, and [[Barrel_Roll]] you will ever need to know without having to ask for help. The first chapters of this Wikibook will intend to enlighten and refresh your memory on the basics- how to look decent, how to keep in shape, and that kind of thing. Then, it will segue into other people- how to pick up women, how to handle other people, and how to have a dinner party where you don't throw food. Then, the miscellaneous things- [[College]], protips and tricks, and basically anything else you could ever want to know.
+Here, my friends, is your answer. Written by anon, edited by anon, and perfected by anon. Every single tip, trick, and [[Barrel Roll]] you will ever need to know without having to ask for help. The first chapters of this Wikibook will intend to enlighten and refresh your memory on the basics- how to look decent, how to keep in shape, and that kind of thing. Then, it will segue into other people- how to pick up women, how to handle other people, and how to have a dinner party where you don't throw food. Then, the miscellaneous things- [[College]], protips and tricks, and basically anything else you could ever want to know.
 
 Read away. Edit away. Learn, Anonymous.
 
@@ -24,9 +24,9 @@ The information in these chapters is not to be taken literally or be used in any
 
 *Because it is a community work to begin with.*
 
-* [[Authors_of_the_Well-Cultured_Anonymous]] - The people who made the original guide on Wikichan.
-* [[Authors_of_the_Return_of_the_Well-Cultured_Anonymous]] - The people who resurrected it from deletion and updated it for inclusion in the Bibliotheca Anonoma.
-* [[Similar_Books_and_References]]
+* [[Authors of the Well-Cultured Anonymous]] - The people who made the original guide on Wikichan.
+* [[Authors of the Return of the Well-Cultured Anonymous]] - The people who resurrected it from deletion and updated it for inclusion in the Bibliotheca Anonoma.
+* [[Similar Books and References]]
 
 ### Cleaning Yourself Up
 
@@ -47,47 +47,47 @@ The information in these chapters is not to be taken literally or be used in any
 * [[Books|Books]]
 * [[Drawing|Drawing]]
 * [[Cooking|Cooking]]
-* [[The_Big_Book_Of_Anonymous_Recipes]]
-  * [[Crepes|Crepe_Recipes]]
-  * [[Cookies|Cookie_Recipes]]
-  * [[Cakes|Cake_Recipes]]
+* [[The Big Book Of Anonymous Recipes]]
+  * [[Crepes|Crepe Recipes]]
+  * [[Cookies|Cookie Recipes]]
+  * [[Cakes|Cake Recipes]]
 * [[Drinking]]
   * [[Alcoholic Anonymous]]
   * [[Drinks]]
 * [[Writing]]
 * [[Music]]
 * [[Dance]]
-* [[Fine_Cinema]]
+* [[Fine Cinema]]
 * [[Pets]]
-* [[Avoid_Like_the_Fucking_Plague]]
+* [[Avoid Like the Fucking Plague]]
 
 ### Work and Play
 *Because that's most of your time.*
 
-* [[Coworkers_and_Friends]]
-* [[High_School_and_College]]
+* [[Coworkers and Friends]]
+* [[High School and College]]
 * [[Work]]
 * [[Finance]]
-* [[Getting_Your_Own_Place]]
+* [[Getting Your Own Place]]
 * [[Tinkering]]
 * [[Miscellaneous|Misc]]
 
 ### Sex and Relationships
 *Because in the end, that's what you want*
 
-* [[Information_for_Guys_on_Girls]]
-* [[Information_for_Girls_on_Guys]]
-* [[Relationship_Advice]]
+* [[Information for Guys on Girls]]
+* [[Information for Girls on Guys]]
+* [[Relationship Advice]]
 * [[Seduction]]
 * [[Sex]]
 * [[Conversation]]
 
 ## Special Thanks
 
-The authors of the Return of the Well Cultured Anonymous thank all the [authors of the first edition](Authors_of_the_Well-Cultured_Anonymous) for making such an awesome guide, the [[Internet_Archive]] for keeping Wikichan backed up when their actual owners didn't bother, and [[Shii]] for saving a copy of the PDF on his site.
+The authors of the Return of the Well Cultured Anonymous thank all the [authors of the first edition](Authors of the Well-Cultured Anonymous) for making such an awesome guide, the [[Internet Archive]] for keeping Wikichan backed up when their actual owners didn't bother, and [[Shii]] for saving a copy of the PDF on his site.
 
 ## Sources
 
 * [The Well-Cultured Anonymous PDF](http://shii.org/b/the_well-cultured_anonymous.pdf)
-* [Internet Archive of The Well-Cultured Anonymous on Wikichan](http://web.archive.org/web/20080511013813/http://www.wikichan.org/index.php/The_Well_Cultured_Anonymous)
+* [Internet Archive of The Well-Cultured Anonymous on Wikichan](http://web.archive.org/web/20080511013813/http://www.wikichan.org/index.php/The Well_Cultured_Anonymous)
 * [Well-Cultured, a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine](http://www.wellcultured.com/)

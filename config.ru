@@ -1,8 +1,22 @@
-require "rubygems"
-Bundler.require(:default)
+require '/usr/local/src/omnigollum/lib/omnigollum'
 
-require "gollum/frontend/app"
+# Providers now need to be loaded manually
+require 'omniauth/strategies/github'
+require 'omniauth/strategies/twitter'
+require 'omniauth/strategies/facebook'
 
-Precious::App.set(:gollum_path, '<repo>')
-Precious::App.set(:wiki_options, {})
-run Precious::App
+OmniAuth.config.full_host = '<url to wiki root>'
+
+# Configure omniauth/omnigollum providers
+options = {
+  :providers => Proc.new do
+    provider :github, "<id>", "<api token>", {:client_options => {:ssl => {:ca_path => "/etc/ssl/certs"}}}
+    provider :twitter, "<id>", "<api token>", {:client_options => {:ssl => {:ca_path => "/etc/ssl/certs"}}}
+  end,
+  :dummy_auth => false
+}
+
+Precious::App.set(:omnigollum, options)
+
+# Register omnigollum extension in sinatra
+Precious::App.register Omnigollum::Sinatra

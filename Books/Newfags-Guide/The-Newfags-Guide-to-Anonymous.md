@@ -17,11 +17,16 @@ We need to organize the mess below into a readable, coherent book. Place the res
 
 ### Raid Tactics
 
-*A bunch of tutorials detailing tactics for going on the offense.*
+*A bunch of tutorials detailing tactics for going rouge and raiding on your own.*
 
-* [[DDoS Methods]] - DDoSing is usually the first shot in [[Anonymous]]'s operations. It serves a dual purpose: as a method of protest, and a way to instantly get media coverage. In turn, it attracts more anons to a budding operation.
 * [[Dox]] - An alternative attack method involves the doxing of the opponent; Basically, it means breaking their anonymity and publishing their personal information. This is not very difficult nor directly damaging, but it can mean big trouble for criminals.
 * 
+
+### Community Raids
+
+*Guides on how to go on a rampage with fellow anons.*
+
+* [[DDoS Methods]] - DDoSing is usually the first shot in [[Anonymous]]'s operations. It serves a dual purpose: as a method of protest, and a way to instantly get media coverage. In turn, it attracts more anons to a budding operation.
 
 ### Programming
 

@@ -1,4 +1,4 @@
-**The Uncultured Anonymous** is another book similar to [[The_Return_of_the_Well Cultured_Anonymous]]; it is still written by fellow [[Anonymous]], but deals in the ways that are considered "bad" or "undesired" within today's society. In other words, this is the complete opposite of the other book. This guide is set forth to teach you about all the things christfags get their panties into a twist about and to arm the next generation of anons with the cruel wisdom of their elders. Here, anons will help you on your way to becoming a legionaire while lying, cheating, stealing, smashing and laughing in the most evil and anonymous way conceivable.
+**The Uncultured Anonymous** is another book similar to [[The Return of the Well Cultured Anonymous]]; it is still written by fellow [[Anonymous]], but deals in the ways that are considered "bad" or "undesired" within today's society. In other words, this is the complete opposite of the other book. This guide is set forth to teach you about all the things christfags get their panties into a twist about and to arm the next generation of anons with the cruel wisdom of their elders. Here, anons will help you on your way to becoming a legionaire while lying, cheating, stealing, smashing and laughing in the most evil and anonymous way conceivable.
 
 There's plenty to edit and even more to add. 
 
@@ -12,19 +12,19 @@ WARNING: Some chapters in this document describe activities that are by their ve
 
 *It's probably best to move this to the Newfag's guide.*
 
-* [[How_to_behave]]
-* [[Raiding|Raiding_old]] - NOTE: This guide is way out of date.
+* [[How to behave]]
+* [[Raiding|Raiding-old]] - NOTE: This guide is way out of date.
 * [[Calling for a Raid]]
-* [[Covering_Your_Tracks]]
-* [[Legion_Etiquette]] 
+* [[Covering Your Tracks]]
+* [[Legion Etiquette]] 
 
 ### General Know-How:
 
 * [[Stalking]]
-* [[Being_a_Dick]]
+* [[Being a Dick]]
 * [[Insults]]
 * [[Fursecuting]]
-* [[Laying_Low]]
+* [[Laying Low]]
 
 ### Offense and Defense:
 
@@ -38,7 +38,7 @@ WARNING: Some chapters in this document describe activities that are by their ve
 * [[Fighting]]
 * [[Murder]]
 * [[Masturbation]]
-* [[Getting_with_Lolis]]
+* [[Getting with Lolis]]
 * [[Rape]]
 
 ### Deceit:
@@ -49,12 +49,12 @@ WARNING: Some chapters in this document describe activities that are by their ve
 ### Making Money:
  
 * [[Blackmail]]
-* [[Nigerian_Internet_Scams]]
+* [[Nigerian Internet Scams]]
 * [[Stealing]]
-* [[Credit_Cards]]
-* [[Dealing_Drugs]]
-* [[Breaking_and_Entering]]
-* [[Contract_Killing]]
+* [[Credit Cards]]
+* [[Dealing Drugs]]
+* [[Breaking and Entering]]
+* [[Contract Killing]]
 
 ### Drugs:
 
@@ -62,8 +62,8 @@ WARNING: Some chapters in this document describe activities that are by their ve
 
 ### About The Book:
 
-# [[Authors_of_the_Uncultured_Anonymous]]
+# [[Authors of the Uncultured Anonymous]]
 
 ## Sources
 
-* [Wikichan on the Internet Archive](http://web.archive.org/web/20080422011256/http://www.wikichan.org/index.php/The_Uncultured_Anonymous)
+* [Wikichan on the Internet Archive](http://web.archive.org/web/20080422011256/http://www.wikichan.org/index.php/The Uncultured Anonymous)
