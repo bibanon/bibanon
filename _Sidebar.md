@@ -1,1 +1,1 @@
-if you have allergies to medicines foods or other substances,  http://booroo.com/s.asp?sid=5552r0w5r9hmtwf24523 cialis 5mg,  41238, 
+drug interactions, allergic reactions, or adverse effects. If you have questions about the drugs you are taking, check with your doctor, nurse or pharmacist., <a href=" http://www.communitywalk.com/phentermine-30mg">phentermine 30mg</a>,  9409, 
