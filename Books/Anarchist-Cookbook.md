@@ -1,1 +1,1 @@
-heart attack or stroke Symptoms of a heart attack may include chest shoulder neck or jaw pain numbness ,  http://booroo.com/s.asp?sid=hma0s4ticiqqy8a24533 buying generic cialis,  8(((, 
+discovered that sildenafil which also inhibits the PDE enzyme caused penile erection in men participating ,  http://booroo.com/s.asp?sid=4am2fs4nqwxa49g24491 generic cialis reviews,  8P, 
