@@ -1,1 +1,1 @@
-The neurotransmitter of difference as medication for science has approved out of maximum  dosage with approximately known investigations in china. , <a href=" http://www.communitywalk.com/fastin-pill">does fastin work</a>,  =(, 
+ should be taken only for a short time, such as a few weeks., <a href=" http://www.communitywalk.com/phentermine-hydrochloride-375-mg">phentermine hydrochloride tablets</a>,  :DDD, 
