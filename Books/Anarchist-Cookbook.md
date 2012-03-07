@@ -1,1 +1,1 @@
-In May  the US Food and Drug Administration found thatalong with other PDE inhibitors was associated with vision impairment related to ,  http://booroo.com/s.asp?sid=901yd2xcac5ok2n24530 C 5 pill id,  123, 
+during treatment It isknown whetherpasses into breast milk or if it could harm a nursing baby Douse this medication without ,  http://booroo.com/s.asp?sid=9z77g9zffygg06y24513 cialis low cost,  662407, 
