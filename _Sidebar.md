@@ -5,7 +5,7 @@
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
 * [[Editing]]
-* [[Browse The Source|https://github.com/treeofsephiroth/bibanon/]]
+* [[Browse The Source|https://github.com/bibanon/bibanon/]]
 
 ### Content
 
