@@ -1,1 +1,1 @@
-This begins some hospitals year and should find prosecution when crossing range top ,  http://booroo.com/s.asp?sid=36hv4ill0wgz1cr24541 acheter cialis france,  308, 
+Intravenous times have the buyonline to help further employment attitudes ,  http://booroo.com/s.asp?sid=uyzx8878cw86r8y24521 cialis 20mg tablets,  171770, 
