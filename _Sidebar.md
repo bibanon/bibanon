@@ -1,1 +1,1 @@
- should be taken only for a short time, such as a few weeks., <a href=" http://www.communitywalk.com/phentermine-hydrochloride-375-mg">phentermine hydrochloride tablets</a>,  :DDD, 
+Ching votes resources, discount . , <a href=" http://www.communitywalk.com/phenterminesideeffects">phentermine side effects</a>,  zeyts, 
