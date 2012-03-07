@@ -1,1 +1,1 @@
-antifungal medication such as itraconazole Sporanox ketoconazole Nizoral miconazole Oravig or voriconazole Vfend,  http://booroo.com/s.asp?sid=rf27sgqz70w8hhy24516 cialis dosage,  =), 
+most COMMON side effects persist or become bothersome,  http://booroo.com/s.asp?sid=9liwkk5i90f9si324522 cialis 10mg,  eyzvnn, 
