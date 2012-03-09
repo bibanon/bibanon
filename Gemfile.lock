@@ -27,6 +27,7 @@ GEM
     mime-types (1.17.2)
     mustache-bibanon (0.99.5)
     nokogiri (1.5.0)
+    omnigollum-bibanon (>= 0.1.1)
     rack (1.3.5)
     rack-protection (1.1.4)
       rack
