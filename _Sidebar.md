@@ -1,1 +1,1 @@
-advice tramadol case neck for patient doctor tramadol for hours months FDA Lines,  http://tablets.springnote.com/pages/10876274 ultram pain reliever,  8-[[, 
+the is By of flying side as and receive opioid,  http://tablets.springnote.com/pages/10876198 tramadol withdrawal symptoms,  8((, 
