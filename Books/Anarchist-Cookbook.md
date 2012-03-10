@@ -1,1 +1,1 @@
-PROSCAR is generally well tolerated; adverse reactions usually have been mild and transient., <a href=" http://www.amiando.com/buy-finasteride-online">buy propecia online</a>,  xkms, 
+the hair on the scalp after adolescencecitation needed. Adult stump-tailed macaques, in fact, are commonly used in laboratories for the testing of , <a href=" http://www.amiando.com/generic-propecia-no-prescription">generic propecia no prescription</a>,  9360, 
