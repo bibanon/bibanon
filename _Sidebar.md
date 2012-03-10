@@ -1,1 +1,1 @@
-half-life. Once it becomes unbound from SHBG, free testosterone can enter cells throughout the body. In certain tissues, notably the scalp, skin, and, <a href=" http://www.amiando.com/buy-propecia-online">buy propecia online</a>,  hmplmh, 
+serum LH levels (- to -fold above control) has been demonstrated in both rodent species treated with, <a href=" http://www.amiando.com/minoxidil-side-effects">propecia discount</a>,  8((, 
