@@ -1,1 +1,1 @@
-testosterone, but with the effect of remaining bound to it rather than being converted, thereby blocking the space that testosterone would otherwise have, <a href=" http://www.amiando.com/minoxidil-reviews">propecia results</a>,  =-P, 
+half-life. Once it becomes unbound from SHBG, free testosterone can enter cells throughout the body. In certain tissues, notably the scalp, skin, and, <a href=" http://www.amiando.com/buy-propecia-online">buy propecia online</a>,  hmplmh, 
