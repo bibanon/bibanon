@@ -1,1 +1,1 @@
- leading to hair that is weakened and easily broken off before its natural lifecycle has ended., <a href=" http://www.amiando.com/discount-generic-propecia">propecia mail order</a>,  9089, 
+describe the process as "shedding". Although this phenomenon demonstrates that minoxidil is indeed affecting hair follicles, manufacturers offer no guarantee, <a href=" http://www.amiando.com/p-propecia">buy propecia rogaine</a>,  1569, 
