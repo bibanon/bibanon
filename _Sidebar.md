@@ -1,1 +1,1 @@
-the hair on the scalp after adolescencecitation needed. Adult stump-tailed macaques, in fact, are commonly used in laboratories for the testing of , <a href=" http://www.amiando.com/generic-propecia-no-prescription">generic propecia no prescription</a>,  9360, 
+ explain both their reputation for aggression and dominance, indicating that baldness may at one time had an alpha correlation., <a href=" http://www.amiando.com/propecia-dose-for-hair-loss">propecia dosage</a>,  akqsyr, 
