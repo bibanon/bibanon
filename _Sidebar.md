@@ -1,1 +1,1 @@
-to Type II ?-reductase deficiency have been observed in these individuals. These individuals have a, <a href=" http://www.amiando.com/generic-propecia-cost">propecia results</a>,  nmwoz, 
+PROSCAR is generally well tolerated; adverse reactions usually have been mild and transient., <a href=" http://www.amiando.com/buy-finasteride-online">buy propecia online</a>,  xkms, 
