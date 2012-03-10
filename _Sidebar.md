@@ -1,1 +1,1 @@
-sexually mature male rats treated with  times the human exposure ( mg/kg/day), there were no, <a href=" http://www.amiando.com/buy-propecia-online">buy propecia online no prescription</a>,  02023, 
+gestation and lactation. No effects on fertility were seen in female offspring under these conditions., <a href=" http://www.amiando.com/order-propecia-online-no-prescription">propecia online pharmacy</a>,  =[[[, 
