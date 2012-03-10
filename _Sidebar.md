@@ -1,1 +1,1 @@
- explain both their reputation for aggression and dominance, indicating that baldness may at one time had an alpha correlation., <a href=" http://www.amiando.com/propecia-dose-for-hair-loss">propecia dosage</a>,  akqsyr, 
+In  studies of healthy subjects (n=) receiving PROSCAR  mg/day for - weeks, finasteride, <a href=" http://www.amiando.com/finasteride-r-172">buy finasteride e 61</a>,  3933, 
