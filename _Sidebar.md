@@ -1,1 +1,1 @@
-describe the process as "shedding". Although this phenomenon demonstrates that minoxidil is indeed affecting hair follicles, manufacturers offer no guarantee, <a href=" http://www.amiando.com/p-propecia">buy propecia rogaine</a>,  1569, 
+No evidence of a tumorigenic effect was observed in a -month study in Sprague-Dawley rats, <a href=" http://www.amiando.com/propecia-before-after-photos">propecia hair treatment</a>,  >:-OO, 
