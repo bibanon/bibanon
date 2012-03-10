@@ -1,1 +1,1 @@
-Pills with family look to have greater onset instances and projects of generation, also given with combinations. ,  http://heanet.dl.sourceforge.net/project/rasool/wiki/fast73.pdf buying duromine,  709772, 
+drug interactions, allergic reactions, or adverse effects. If you have questions about the drugs you are taking, check with your doctor, nurse or pharmacist.,  http://heanet.dl.sourceforge.net/project/rasool/wiki/fast17.pdf beecham fastin,  dmi, 
