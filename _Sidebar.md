@@ -1,1 +1,1 @@
-No evidence of a tumorigenic effect was observed in a -month study in Sprague-Dawley rats, <a href=" http://www.amiando.com/propecia-before-after-photos">propecia hair treatment</a>,  >:-OO, 
+sexually mature male rats treated with  times the human exposure ( mg/kg/day), there were no, <a href=" http://www.amiando.com/buy-propecia-online">buy propecia online no prescription</a>,  02023, 
