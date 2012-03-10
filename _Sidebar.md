@@ -1,1 +1,1 @@
-serum LH levels (- to -fold above control) has been demonstrated in both rodent species treated with, <a href=" http://www.amiando.com/minoxidil-side-effects">propecia discount</a>,  8((, 
+ leading to hair that is weakened and easily broken off before its natural lifecycle has ended., <a href=" http://www.amiando.com/discount-generic-propecia">propecia mail order</a>,  9089, 
