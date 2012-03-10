@@ -1,1 +1,1 @@
-Store at room temperature away from moisture and heat.,  http://heanet.dl.sourceforge.net/project/rasool/wiki/fast31.pdf order phentermine,  mhc, 
+ may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert. Drinking alcohol can increase certain side effects of this medicine.,  http://heanet.dl.sourceforge.net/project/rasool/wiki/fast35.pdf phentermine 37.5 mg hcl,  024, 
