@@ -1,1 +1,1 @@
-In  studies of healthy subjects (n=) receiving PROSCAR  mg/day for - weeks, finasteride, <a href=" http://www.amiando.com/finasteride-r-172">buy finasteride e 61</a>,  3933, 
+A biopsy is rarely needed in alopecia areata. Histologic findings include peribulbar lymphocytic infiltrate ("swarm of bees"). , <a href=" http://www.amiando.com/order-propecia-online-no-prescription">propecia side effects</a>,  42074, 
