@@ -1,8 +1,8 @@
-The Anarchist's Cookbook is a set of instructions of how to do some, well, morally unacceptable things, to put it in the best way. Basically, it's similar to [[The_Uncultured_Anonymous]].
+The Anarchist's Cookbook is a set of instructions of how to do some, well, morally unacceptable things, to put it in the best way. Basically, it's similar to [[The Uncultured Anonymous]].
 
 The first edition was written in 1970 by a disgruntled Vietnam War protestor. He became a Christian moralfag and has attempted to stop it's publication. Thankfully for us, his publisher prevented him from doing so, and now we have sites running to update, add to, and fix the Anarchist's Cookbook. It has changed a lot since then.
 
-We got the 2004 edition as txt files from [[1000_Tutorials]], so if you have anything to add or stuff to update, check [these forums](http://anarchistcookbook.com/) for new, useful guides, or download it in PDF [here](http://anarchistscookbook.net/).
+We got the 2004 edition as txt files from [[1000 Tutorials]], so if you have anything to add or stuff to update, check [these forums](http://anarchistcookbook.com/) for new, useful guides, or download it in PDF [here](http://anarchistscookbook.net/).
 
 ## What needs to be done
 
