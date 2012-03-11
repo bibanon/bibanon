@@ -1,0 +1,177 @@
+Well, everything's needed to make a world, here should be located tips and tricks about different types of craft requiring precise skills, such as sewing, electronics, etc.
+=Sewing=
+First this will be useful to you because you don't want to throw away articles of clothing just because of a small tear. On the long run you might even be able to make your own clothes, but that's really not necessary.
+
+==Thread==
+Not much to say here.
+* Cheap thread will break easily, don't take those.
+* Extra strong threads(advertised so at least) are for seams that will be under heavy stress and/or thick and rigid fabrics such as jean/denim, otherwise, regular thread is good enough.
+* Unless you know your colour codes, always use threads of the same colour as the fabric you use them on, for purely esthetical purposes.
+* Threading a needle requires training, because squinting won't help, wet the tip of the thread and pinch it to make it thinner at the end.
+* You can either make a not on the needle or keep two concurrent lengths of thread.
+
+==Needle==
+Choosing a needle that is fabric specific can sometimes make a great difference, especially on fine fabrics, so here is a general classification for needles:
+* Universal needle
+**Says it all, safest choice for most fabrics. Midway between ballpoint and sharp.
+**Might be difficult to use on thick or rough fabric, such as denim.
+* Ballpoint/Stretch needle
+** These needles have an unsharp tip so as to slide between the threads instead of piercing through the fabric.
+** Should test a few different such needles and choose the one that cuts least into the fabric.
+* Microtex/Sharp needle
+** For ewing microfiber, silk, synthetic leather or do precise stitching
+** might hurt some kinds of fabric
+* Leather needle
+** Has a slight cutting tip, instead of a piercing point
+** Might tear synthetic leather
+* Denim needle
+** For heavyweight denim, duck, canvas, upholstery fabrics, artificial leather, and vinyl. in general sharp and thick.
+
+==Fabrics==
+Some of the main fabric types along with a few properties:
+*Woven:
+**Denim:
+*** This is what makes your jeans, made of cotton, often rugged and quite sturdy, it can be quite painstaking to sew, and often requires a lot of tension to be applied to the thread to keep parts together, strong threads are preferred but regular ones may also be used.
+*** Very little give in both direction
+*** Available mostly in blue/black shades
+*** Easier with special denim needles
+**Plain cloth:
+*** Can be used for remotely anything, made from any fiber.
+*** Properties are fiber dependant.
+*** Usually little give in both directions, some varieties have some stretch (c.f cotton)
+*** Available in any colour.
+*** Universal needles, obviously.
+**Satin:
+*** Best made of silk, can be made from polyester and other less refined fabrics.
+*** Very little give in both directions
+*** Available in most colours and shades
+*** Best using sharp/microsharp/microtextile needles
+*Netted:
+**Tulle:
+*** Very light netting, can be made in most fibers, quite weak so must be handled with care.
+*** Due to it's construction, there is more surface not covered by yarn than covered, the needle type is unimportant, so long as it works on the other fabrics you are sewing the tulle on/with.
+*** Important give in both directions.
+**Lace:
+*** Very light and fine netting, mostly silk and cotton, but can be found in other fibers.
+*** More resistant than tulle but fragile nonetheless.
+*** Use microfiber needles.
+*** Very little give.
+*Pile Woven:
+**Velvet:
+*** Very soft, used mostly on the outside of garment, higher quality involves silk, regular cotton, but other fibers may be used.
+*** Very little give, unless the fibers are blended with spandex.
+*** Available in most primary colours and some more shades
+*** Apply proper tension to thread
+*** Universal needles should do.
+*Crushed:
+**Felt
+*** Varying from light and soft to thick and rough, it can be used for remotely anything.
+*** Available in most colours.
+*** The softer the more give it has.
+*** Universal needle.
+*Leather/furs:
+**Leather:
+*** From thin and soft to thick and more rigid. As well as suedes (sanded leather)
+*** Colours often remain in the browns.
+*** Slight give in all directions
+*** Use leather (bladed) needles for real leather, sharp ones for synthetic.
+*** Tension in the thread can cut through the leather, tread carefully.
+**Fur:
+*** Same as leather for sewing, but more colours, patterns, etc.
+
+==Stitches==
+===Running Stitch===
+[[Image:Running_Stitch_Side.gif|right|100px|thumb|from the side [[:Image:Running_Stitch_Top.png|from top]] ]]
+The running stitch is the most basic and simple of stitching:
+* Knot the first stitch
+* Take the needle through the fabric at every step
+* Slightly pull on the thread to tighten the stitch
+* Keep your steps as even as possible, smaller is often better
+====Tacking/Basting====
+Is just making running stitches at large intervals, is used to keep pieces of fabric together to prepare for the actual stitching.
+===Back Stitch===
+[[Image:Back_Stitch_Side.gif|right|100px|thumb|from the side [[:Image:Back_Stitch_Top.png|from top]]]]
+The back stitich is the strongest hand sewing stitch, and tries to be close to a sewing machine stitch, it is based on a "2 forward, 1 backward" approach:
+* Knot the first stitch
+* At each step:
+** skip an interval and go through the fabric, pull gently
+** go back through the interval you just skipped, pull again
+** restart
+* if you're doing it right, one side should show one length of thread between each point, and the other 2.
+===Oversewing Stitch===
+[[Image:OverSewing_Stitch_Side.gif|right|100px|thumb|from the side [[:Image:OverSewing_Stitch_Top.png| from top]]]]
+Oversewing enables you to contain the free edge of a seem, which is useful in case of fabric that fray easily.
+* Start with one or several backstitches
+* Go in diagonal over the free end (raw edge) of the seam
+* Repeat, stay as even as possible, and do not tighten the thread too much
+* Spacing between points is dependent of how likely the fabric will fray
+==Seams==
+For this part, we will have to consider a few terms regarding the fabric:
+* the Raw Edge is the edge of the fabric on the side which you intend to sew (it would be the top of the fabric in the previous illustrations)
+* the Right Side is the side of the fabric which you intend to be seen (as in the outside of a coat or such)
+* the Wrong Side is the side of the fabric which you intend to remain inseen, or "inside"
+As to be neater, all seams will be on the "wrong side", so that they are not apparent to the common folk.
+
+===Flat Seam===
+[[Image:Flat_Seam.gif|right|thumb|100px|flat seam as seen from the side]]
+The flat seam in your simple, everyday seam, works just fine, but leaves the inside unproperly finished.
+* Match the fabric pieces' raw edges, right sides inside
+* Pin and if necessary baste them
+* Execute your best stitches all along at a distance of 7 to 15 millimeters from the edges
+* Add a few stitches in reverse on each end to secure the seam
+* Press the "allowance" of the seam (the 2 flaps of fabric at the edges) open as as to give the "flat" characterist to the seam.
+
+===French Seam===
+[[Image:French_Seam_1.gif|right|thumb|100px|first row of stitches]]
+[[Image:French_Seam_2.gif|right|thumb|100px|second row of stitches, [[:Image:French_Seam_Side.png|from the side]]]]
+The French seam is slightly more complex than the flat seam, but is self contained, and is thus of much cleaner make.
+* First, execute a kind of reverse flat seem, that is:
+** Match the fabric pieces' raw edges, wrong sides inside
+** Pin and if necessary baste them
+** Execute your best stitches all along at a distance of 6 millimeters from the edges
+** Add a few stitches in reverse on each end to secure the seam
+* Cut half the allowance away
+* Fold the fabric as to enclose the seam and have the right sides together
+* Pin or Baste the fabric just over the needed width to cover the seam and stitch a second seam.
+
+=Casts=
+Whether you need to clone a part for a contraption, or make up some artful item, for fitting or not, you could be interested.
+
+==Latex==
+Easier for intricate pieces, but due to the same reason it is easy to cast, it's hard to have it keep the exact shape.
+
+While it does make a lot of things easier, you will have to respect a certain number of limits:
+* Be warned that latex has an extremely strong and peculiar smell, reminiscent of unwashed genitals. And said smell will be on you for a while.
+* Do not use to cast things that are likely to outstretch the latex when you take them out.
+* Porous material such as fabric and wood will tend to absorb part of the latex and make it nigh impossible to properly remove.
+* Latex sticks, a lot, and to itself, use talc or such powders on both item and later dried latex to prevent it from sticking and distorting itself as you remove the object.
+* Latex Eventually dries out and the cast will be unusable.
+* If there are holes in the item you want to cast, you're in for a fuckload of pain, you'll probably have to stretch the latex a bit once it's dry and cut that part then fuse it back.
+
+==Plaster==
+Harder to use for intricate and generally non-convex things, has the advantage of providing a long lasting solid mould.
+===Framework===
+Since you either don't want to break the item or break the mould once it's dried, you will have to cast each convex part separately and find a way to keep the parts together afterwards.
+For this it is also quite helpful to have a cast box where you can set your item and pour the liquid plaster around.
+
+For example:
+you want to make a cast of a round door handle, the reason  for that does not matter, there are no cavities of any kind on the surface, and it is quite circular. What you should do:
+* Make a cast of exactly half of it, so one of the 2 theoretical sides.
+* Once dry, remove the handle, and on the sides of the cast, drill two perfectly parallel holes
+* Turn around the handle in the box (useless since it's circular, but this process applies to most items with 2 faces/sides.
+* Cover the handle with the first cast, and pour the second through the holes you made.
+** Two layers of plaster never stick together, so if your holes are properly made, the two sides should slide out once dry
+* When dry, separate sides, remove item, and there you have a full cast ready to use.
+
+This technique can kind of be extrapolated for items with more convex sides, though you might not want to use holes to keep it all together, as it will get tricky, the idea being to do each side separately and that each cast fits in the finaly system.
+
+===Advice===
+*Cover the item to be cast in a solution with hig soap concentration, thus the plaster will not stick.
+*Plaster reduces a bit as it dry, take that in account.
+
+==Lost Wax==
+Almost ideal for one of a kind works.
+
+This time, instead of shaping a cast, you will have to carve the shape in wax, that requires quite neat skills, though some parts can probably be cast and melted if you try to make a copy, but the main idea is to carve in wax what the final result should be, this is, for example, what you'd do to make a rose cast.
+
+Once you have properly carved your model, you will need a box and sand. The goal being to fully encase the wax (except for a single flat side at the top) into the sand, and then pour hot metal onto the wax, which will melt, leaving only the sand imprint as a makeshift cast for the metal.

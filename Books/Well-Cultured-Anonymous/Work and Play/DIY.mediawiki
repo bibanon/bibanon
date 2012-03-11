@@ -1,0 +1,149 @@
+This is where you learn about screwing things. Of course not in the sense "jaming it in", but in the sense "doing random crap and fixing stuff by yourself to save a lot of time and money".
+
+Be aware that, even if you are very good at it, some matters need professionals, you wouldn't want your whole heating system to be down in December because the leak you tried to fix in july actually got bigger instead of stopping.
+
+=What you '''shouldn't''' do yourself=
+* Plumbing work that is not "tightening a bolt" or "changing a joint"
+* Trying to work on your place's structural integrity
+* Wall refitting job
+* Carpet cutting if you're not experienced.
+
+=Trial and error=
+This principle has been nature's basic one for hundreds of millions of years. And it's good, that means that first, you have to try, if it doesn't work, which means there is an error, that means the way you did it is likely to be a dead end, and so you have to try something else.
+
+'''try, fail => try something else.'''
+
+Something else you need to have, is an idea of what you're doing, or of what you plan to do, if you just want to fix it not knowing how it works out you'll fail, hard; the second of the failure, you will hear "Useless!", then everything will break down on you in an instant, a steamroller will fall from the sky, and a vampire freak will laugh at you.
+It is close to impossible to work it out on your first try, but once you've caught a glimpse of it, you'll be able to manage.
+
+'''no plan => fail.'''
+
+=The basics=
+==Hold==
+#Glue: variable
+#* Considering the many different types of glue that exist, they can virtually be of most uses, but if you want your stuff to hold, you'd rather use them as a support and add something else. Some glues are actually pretty strong, and can be used alone, but unless you know them very well (which means you've gone through hell), better ask for confirmation. Holds in most directions.
+#Nails: clean, low-medium efficiency
+#* That's where I tell you not to go cry to your mother when you've (stop!) hammer timed your finger.
+#* Fastens in normal to axis plan.
+#Screws: relatively clean, medium-high efficiency
+#* Better than nails in most cases, enable to fasten in the axis direction and in all normal plans.
+#Bolts: least clean, best efficiency
+#* Bolts are often used to keep two parts of a same work together, usually in 2(4) parts, it can be used with only 1(2) depending on the material you're working on.
+#Rivets: clean, good efficiency, prefer on metal.
+#* Instead of holding stuff together by pull, rivets "push" the material apart to ensure the different pieces don't slip. I say it is best for metal because of this, and the fact that most surface to surface work is done with metal(and sometimes thin pieces of plywood, where they still do work)
+#* While they're clean and have a good hold, they cannot be removed by conventional means.
+
+==Tools and Devices:==
+* The minimum: a multi-grip plier, a ruler, a set of screwdrivers, a hammer or 2, a set of hex keys, one of wrenches/cranks, and of course a magnificent collection of nails and screws(small saw or driller might be of use).
+* The most useful devices for you will be a portable drill with a set of bits, a wood saw, and a metal one, hand wield, if you plan on more serious use, better get a jigsaw at least.
+* When you're using alimented tools (no battery), NEVER forget to, after unplugging them, turn them on to get rid of those nasty residual electric charges, which could, if accumulated, run the device by itself and chop an arm or pierce an eye.
+* Of course, if you take low cost tools, they'll break up fast, so if you plan on using them for what they are done, put some money in it.
+
+[[Image:Wood.jpg|right|thumb|Simple representation of the "line of wood"]]
+
+=Materials=
+==Wood==
+*Wood types:
+**Plywood:
+*** Plywood is made by gluing a number of thin slices of lumber on several layers and at difference axises. This results in an easily bending yet strong product, that holds nicely in most directions. Higher grades have less visible knots in the wood, the glue used is better (and sometimes water resistant, c.f. marine plywood), it can be found in a variety of shapes and size, from small pieces to large panels.
+**Laminated:
+*** Laminated is made by gluing a load of timber together, and in parallel, it allows to make strong and long woodproducts without requiring large trees, and is often used for beams.
+**Timber/Lumber:
+*** This is your regular wood, the properties often depend on the tree it is made of, pine is supple and light, for example.
+* For bolts, screws and nails, be careful that the effort given to the fastening system is not given in the "grain" of wood if you are working on some, the grain is the direction all visible lines take and it is the weak point of of it.
+** This is slightly different with plywood, and really depends the number of layers and the way they are glued together.
+
+==Metal==
+* Hard/tough material to work on, almost impossible in some cases, and making a mistake on it will not always be correctable. Requires specific drill bits, saw blades, bands and disks. Much more likely to project fragments, so it's dangerous.
+* Use bolting and riveting in priority.
+* If you are going to use glue, it is better to sand the surfaces where the glue will be applied, preferably with a larger grain sandpaper.
+
+==Others==
+* Under no circumstance shall you work on DragonForce, all your tools would break down.
+* Anything rock related, such as concrete, is one BIG hassle, it'll require, just like metal, special (masonry) tools. After a material like concrete or clay sets, it becomes nearly impossible to work with; it cracks and chips when being shaped. Concrete can only be shaped using a cast, which in itself is difficult to make. Before clay sets, however, it is quite easy to make complex shapes, although it can create a mess. Creating a lot of designs requires a potter's wheel, which can be very expensive. If you're working on these, that means either you have an annoying problem on your hands, or you want to become an artist. Which is your problem.
+** If you need a potter's wheel, and that you have a bit of experience, you may make it yourself, consider using bike parts for a leg powered rotating disk or if you are familiar with old sewing machines, adapt one to your needs.
+* Plaster is weak, anything heavy will break it up, same for any non-soft hit, so just use it carefully. nails are fine as long as properly done, screws will have to be put in very carefully, and you don't want to bolt or glue anything on plaster.
+
+=Basic working=
+==Holds==
+===Gluing===
+* Always wash away any drooling glue before it dries, some glues are expansive and will become horrible looking when dried if not cleaned up.
+* Always keep the two parts you want glued under pressure, again, when using expansive glues, a lot of pressure will be applied onto the interface, and it may move parts off and create problems. Some glues are, on the contrary, quick dry and non-expansive, these can be used to keep parts together so you can apply expansive, more powerful glues to them.
+* Always check what material you are using and what kind of glue you need, some of them are corrosive, I remember using a PVC glue onto my webcam clip, and it resulted in a bunch of holes, which are not much appreciated.
+* Don't sniff them, as sweet as some smell, it's bad for you; this actually applies to almost every product you could use(some have even been removed from distribution due to their use by junkies).
+* If there's any glue anywhere near your eyes or mouth or nose, wash it.
+===Nailing===
+* If you are using on massive nail, you should first drill a hole just a little tighter than the width of the nail. If the hole is too wide the nail will slip out, if it's too narrow, it may break the surface under the pressure.
+* First you have to put the nail's tip on the point you want the head to be later, as close to the angle as you can, beginner or not, stick to right angles, because it's much easier to make a mistake when you're not perpendicular to the surface.
+* Then take your hammer, hand it as close to the weight as possible at first, ans slowly, with little hits, put in the nail; of course holding it with your fingers.
+* Once a good part of it is in, I'd say more than 1/3rd, remove your fingers, it should stand by itself , if it doesn't do what you just did again. You can new start holding the hammer from the tip of the handle, it'll give each hit much more strength, and that way you can finish nailing it in, if you're not sure what you're doing, don't nail it all the way, leave a small space between the surface and the head of the nail, so you can slip in something to remove the nail if necessary.
+===Screwing===
+[[Image:Screws.jpg|right|thumb|Width of the "core"]]
+* Same as for massive nails, if the screw is wide, drill a hole of the width of the screw's core part. If the hole is too wide the screw will slip out, if it's too little, it may break the surface under the pressure.
+* Again, make sure the screw is perpendicular to the surface, try to put the tip of it by hand so that it doesn't go wild afterwards. Then slowly use your screwdriver (clockwise for screwing in) to secure it in, and finish it once you're sure it won't go wild.
+* When using any screwdriver, if it does not fit the head of the screw perfectly, you may experience a few "jumps", so you will have to apply a lot of pressure on the screwdriver to make sure it doesn't damage the head of the screw, which would be a critical problem if you plan on removing a reusing the screw later.
+* Righty tighty, lefty loosy; or if you prefer it in english, most screw are tightened by turning clockwise and loosened by turning anti clockwise, this is sometimes reversed in special gears for functionality or security.
+===Bolting===
+* You will have to make a hole of at least the width of the core part of the bolt, making it exactly of that size will making the fastening stronger. A bit wider is fine, as big or bigger than the head of the bolt will be fail, and you'll have to fill the hole with either putty or glue to make it fit.
+* If the hole is a perfect fit, you might not want to use a counter-nut, but in most case you should.
+* If the material you are working on is a bit weak, or that you just want a clean bolt, use washers.
+* Use the right wrench in priority, gripping tools only when needed, or you might damage the head and it'll be a hassle to remove.
+==Preparation&modification==
+===Drilling===
+* Absolutely assure that you are perpendicular to the surface, if you are not it will cause problems later, sometimes even big ones.
+* If you plan on making a hole with a certain angle, you can either tape something over the spot you want to drill to have a normal plan, or find a way for both the drilled, and the drill, to remain at the same angle while you are making the hole.
+** put some ruler you can get the drill to slide on/next, and fasten the piece you want to work to something sound, well now that's real tinkering, Mac Guyver would laugh at you if you didn't know. you'll just have to improvise, a couple of boards to get the right height, another to limit the ruler on the horizontal axis, fasten it all together and start sliding.
+* Like with everything else, you have first to make a "print" for the hole, use a pen and make a cross where you need it, then make sure the drill bit will get right there, prevent the drill from moving at all when you enter, because it might slip away a bit and screw a lot of preparations, once you have secured a correct depth into the material, you can go faster, the most important part is always the first, because it will condition whatever happens next.
+** You can use a thin drill bit to make a small hole which you will put the correct sized bit in to obtain the right aim.
+
+===Sawing===
+* Use a pen a draw the line you want to cut on.
+* Don't put your fingers on that line. You know you want to, but don't, believe me, it's not good for you.
+* Don't try to saw half the length from one side, and half from the other, saws often bend in a very specific way, but they always bend, so if you don't do all the work in the same direction there will be some heavy imperfections, especially at the point where both paths will have joined.
+** Only cut from different positions when you have no other way around.
+* Use the right tools, using a back saw when you have to cut into something wide will only result in the inability to pursue once the material touches the steel arm. Back saws are useful for thin pieces, use normal (full) saws for thick ones. (though I agree that normal saws can get pretty wacky)
+* Jigsaws are for thin pieces, be sure the check that the blade is for the right material, and that the settings correspond to what you need (straight or curvy).
+* Despite how much Anonymous may hate weeaboos, a Japanese-made saw is usually superior to a Western-made saw. They have methods of making higher-quality steel saws, which will allow you to waste less material and do less work. A good place to find these tools outside of J-list ads on 4chan is a Garrett Wade catalog [http://garretwade.com], which has everything Anonymous could ever ask for in terms of tools. These tools, in addition to being higher quality, will be higher-priced, too. Remember, you get what you paid for. Don't spend $3.99 on a saw in a gas station if you're trying to build something that you want to look professional.
+** True about saws, occidental types are wacky because you have to push to get it through, while japanese ones are the other way around, which is far safer and enables thin cuts, some backsaws have reversible blades, make use of them.
+===Sanding===
+* Evaluate the amount of matter you have to remove from the surface.
+* Select appropriate sandpaper grain, the rougher for more work
+* Sequentially change paper grain as you get closer to the final result (that is, if you want a smooth surface)
+* if you want a neat finish, use chips of said matterial to smoothen it up even more, finally clean up with a damp sponge or piece of fabric.
+
+=Not so basic=
+==Milling==
+[[Image:Milling.png|right|thumb|simple representation of the result]]
+:Sometimes what you are making requires to have clean surfaces, and that's where milling comes into play, it will enable you to prevent bolts and screws sticking out of surfaces (and being potential dangers).
+:The point is to carve/drill(preferably) a wider section at the entrance of the hole, so that the head of whatever you're using fit in it.
+*It is easiest and generally welcome for screws(and that way you don't need to apply too much force on it, possibly damaging the head, which is a major pain in the ass when you need to make modification, or worse, tearing the material from the inside out, making the use of a screw useless).
+*For bolt it is sometimes unneeded as fastening it can apply enough pressure to cave in the material, to the same effect(except in some cases the damage made to the surface becomes a problem), the problem here is that even if you mill to fit the nut, the length of the bolt will still stick out, in which case you might want to saw it off; to saw it not-too-badly, mark where you want it sawn, take it off, put one/several nuts all the way to the head (past the point where you will cut), cut what you want off, then remove the nuts, this will fix a part of the damage made to the threading of the bolt, and making it easier to put them on later.
+*Generally what you want to do is mill before drilling, the reason is that drilling a larger hole into an existing one can prove pretty difficult, especially when both diameters are not far apart, in this case it's just drilling about the thickness of the head deep, then taking the smaller bit and making the actual hole.
+*If you have to mill after the hole is done, avoid flat drill bits at all costs, they are a plague in this situation, your biggest problem is to have a sound, normal, stable drilling basis, or the bit might slip and make a mess, and go as slowly as possible, to prevent blocking(and in some cases, damaging the bit, especially on metals).
+*Carving is more difficult, but my guess is, if you're trying to carve it, that means you don't have a choice, and I would admit to not knowing of any specific techniques in that case, so you're on your own, particularly on harder materials.
+
+==Epoxy Resin==
+[[Image:Epoxy1.png|right]]
+[[Image:Epoxy2.png|right]]
+[[Image:Epoxy3.png|right]]
+
+Epoxy resin is a sweet little bastard, it acts in a way similar to glue, but is not self-catalysed (or rather, air-catalysed, kind of), meaning it won't harden unless you mix it with a specific product.
+
+A few things:
+* Like glue, it has a lifespan, don't stock it and leave it in a shed for years.
+* Like glue, it's bad for your lungs, work with an air draft, or a mask.
+* If you do not put enough catalyst, it might take ages to harden, or not harden at all.
+* If you put too much catalyst, the reaction will go too fast, sometimes heat up and burn you, which is not a pleasant experience.
+* In general, not following the resin-specific instructions (temperature of room, ratio resin/catalyst, etc.) will result in a loss of strength of the final product.
+* It can be used to waterproof surfaces or objects, such as wood pieces.
+* One can mix in milled fiber and aluminium powder to obtain a sort of concrete, easier to apply as a jojnt (resin itself being runny),and reinforcing the result.
+*Ideally, you would also resin (just resin, no fiber or aluminium) a strip of fiberglass on the other side of the jointure beetween two objects (if convex).
+
+=Cleaning up=
+Here you will require a set of little tools that are actually pretty handy in many situations:
+# A razorblade, useful to cut off little bits of everything hanging about. Also useful for becoming an hero, so be careful.
+#* For metal use a saw or a flat screwdriver to hammer it away.
+# Some Sandpaper, that's to remove splinters and clean off edges or just little imperfections.
+#* There exists several different grits in order to go from heavy sanding to refined abrasive work. Remember, the lower the grit number, the heavier the sanding job. If you're trying to remove glue from your creation, avoid low-grit sandpaper like the fucking plague. High-grit sandpaper (from 120 and above) is invaluable for sharpening knives, tools, and other shanking devices.
+# A vacuum cleaner/broom to remove all the crap that's laying on the ground, there always is.
+# a box to put your tools into, if possible ordered, you don't want to spend an hour looking for the key of 6 because your roller wheel axis is coming off.

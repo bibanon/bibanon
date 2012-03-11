@@ -42,6 +42,7 @@
 
 * [[Abortion]]
 * [[An Hero Attempt]]
+* [[Ugly]]
 
 ## Creepypasta
 
@@ -55,6 +56,7 @@
 
 * [[b fucked me]]
 * [[Bible Black Incest]]
+* [[Kana Copypasta]]
 
 ## Loli
 

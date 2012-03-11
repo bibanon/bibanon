@@ -2,9 +2,9 @@
 
 **The Return of the Well Cultured Anonymous** is an updated book based on the original **Well Cultured Anonymous** painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
 
-We added "The Return" to this book's title, since it was entirely lost in it's original form after Wikichan fell apart. Some parts still live on in [Well-Cultured](http://www.wellcultured.com), a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine. Because of the unfortunate fate of such an informative guide, we have restored the original and opened it to editing.
-
 Some parts need to be updated, important topics need to be added, and a few pages need to customized for a girl's point of view. If you can help with this, just go ahead when you feel like it.
+
+We added "The Return" to this book's title, since it was entirely lost in it's original form after Wikichan fell apart. Some parts still live on in [Well-Cultured](http://www.wellcultured.com), a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine. Because of the unfortunate fate of such an informative guide, we have restored the original and reopened it to editing.
 
 ## Intro
 
@@ -33,54 +33,56 @@ The information in these chapters is not to be taken literally or be used in any
 *Because it's what you need to do to even step foot in society.*
 
 * [[Grooming]]
-* [[Dressing|Dressing]]
-* [[Clothiers|The Big Bad List of Clothiers]]
-* [[Exercise|Exercise]]
-* [[Manners|Manners]]
-* [[Eating|Eating]]
+* [[Dressing]]
+  * [[Formal Wear]]
+* [[Clothiers]]
+* [[Exercise]]
+* [[Manners]]
+* [[Eating]]
 
 ### Getting Cultured
 
 *The reason this book exists.*
 
-* [[Culture|Culture]]
-* [[Books|Books]]
-* [[Drawing|Drawing]]
-* [[Cooking|Cooking]]
+* [[General Culture]]
+* [[Literature]]
+* [[Drawing]]
+* [[Cooking]]
 * [[The Big Book Of Anonymous Recipes]]
-  * [[Crepes|Crepe Recipes]]
-  * [[Cookies|Cookie Recipes]]
-  * [[Cakes|Cake Recipes]]
 * [[Drinking]]
   * [[Alcoholic Anonymous]]
   * [[Drinks]]
 * [[Writing]]
 * [[Music]]
-* [[Dance]]
-* [[Fine Cinema]]
+  * [[Music Recommendations]]
+* [[Dancing]]
+* [[Cinema]]
+  * [[Movie Recommendations]]
 * [[Pets]]
 * [[Avoid Like the Fucking Plague]]
 
 ### Work and Play
 *Because that's most of your time.*
 
-* [[Coworkers and Friends]]
-* [[High School and College]]
+* [[Friends and Coworkers]]
+* [[Academia]]
 * [[Work]]
 * [[Finance]]
 * [[Getting Your Own Place]]
-* [[Tinkering]]
-* [[Miscellaneous|Misc]]
+* [[Owning a Car]]
+* [[DIY]]
+* [[Craft]]
 
 ### Sex and Relationships
 *Because in the end, that's what you want*
 
-* [[Information for Guys on Girls]]
-* [[Information for Girls on Guys]]
+* [[Girls]]
+* [[Guys]]
 * [[Relationship Advice]]
+* [[Dating]]
+* [[Conversation]]
 * [[Seduction]]
 * [[Sex]]
-* [[Conversation]]
 
 ## Special Thanks
 
