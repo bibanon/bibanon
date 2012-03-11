@@ -1,0 +1,200 @@
+If you didn't see the [[C]] tutorial, then go read it, or at least read the first paragraph. If C is fucked beyond belief, better grab your ass and prepare for C++, as the developers double-fucked it by adding more complex syntax and shit.
+
+= About C++ =
+
+C++ was developed around 1979 and was designed as a "step further" of C. Honestly I believe they just optimized it a bit and then decided to nigger up the syntax, making it a tad more intimidating (Yet easy if you decide to come out of the closet and learn the language for a change)
+
+== C or C++ ==
+
+Short answer: C++. 
+
+Long answer: It's more complicated than that. Thing is, C is so damn flexible and good enough that you'll probably won't need any more than that in your programming needs, and having a relatively easy syntax that's not difficult to learn. However, if you want things a tad more extended for your work, in exchange to learning a bit more and preparing your brain, and, as a bonus, getting a kick out of the intellectual challenge that C++ presents to you, then that's the programming language you would like to learn.
+
+tl;dr: If you're lazy and won't do a lot of shit, pick C. If you want the challenge and yet don't know what to code, pick C++. '''Do not try to learn both. Well, try, thing is it can be easier if you focus on only one'''
+
+'''tl;dr-ing the tl;dr: Pick C++ and shut the fuck up.'''
+
+= How do I started lerning =
+
+First of all, you'll need a compiler. Find one at the [[C]] tutorial; I use DevC++, although it's a tad outdated and such.
+
+= Okay, let's go = 
+
+== 0.- Starting the program ==
+
+Nearly every script made in C++ will start like this:
+
+
+<pre>
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+}
+</pre>
+
+The first line calls a preprocessor. In layman's terms: "LOL I WANT TO USE FUNCTIONS THAT ARE IN IOSTREAM SO I'LL CALL IT USING THE #INCLUDE FUNCTION TO CALL IOSTREAM". Think like Iostream is a book containing instructions on how to do different functions.
+
+The "using namespace std" it's telling the program that it will use functions contained in the standard library. Knowing this doesn't really matter, as long as you remember to place it.
+
+'''VERY IMPORTANT BULLSHIT: ALL FUNCTIONS END WITH A SEMICOLON (Except, well, those where I don't put one). IF YOUR CODE FAILS AT COMPILING ALWAYS CHECK FIRST IF YOU HAVE ALL THE SEMICOLONS PROPERLY PLACED.'''
+
+the "int main()" is another important line. Basically says to the compiler "Mkay niggers, there's this function called main that returns an integer". It's a bit more complicated than that, but the compiler needs it as well. (If anybody finds a better explanation of int main(), put it in here.
+
+The {} mark a code block. The { marks the beginning of the code block and } marks the end. That's where the code goes.
+
+With this shit learned, we can go to the next level.
+
+== 1.- Priting crap to the screen and such ==
+
+In most of your programs, you (or the user who's running it) would like to know what's going on in the application. This is where the cout function gets in.
+
+<pre>
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout<<"Hey everybody, I'm looking at gay porno!";
+cin.get();
+return 0;
+}
+</pre>
+
+'''The cout function prints stuff to the screen. The syntax goes like this: cout<<"[stringoftextgoeshere]"; . Remember to put the semicolon and don't forget the quotation marks.''' 
+
+The cin.get() function is a very handy tool. What it does is wait for the user to press the ENTER key before going with the code. This is because when you compile it without the cin.get() function, it will open and close very fast for you to actually read the text that was printed by cout.
+
+When the program finished with int main() (That means, it gets to "}"), it will return a value of 0, closing main and finishing with the program, closing it. Assume that, for X reason, the program won't get to finish main or you want to abort the program before reaching the end of main. With '''return 0;''', it will end the script when you want it. In this case, finishing the code earlier would be useless in this case, but assume this case:
+
+<pre>
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout<<"Hey everybody, I'm looking at gay porno!\n";
+cin.get();
+return 0;
+cout<<"Lol easter egg";
+cin.get();
+}
+</pre>
+
+With the return function, the program will never display this simple (Read: Lame) easter egg, which consists in the "lol easter egg" being printed into the screen. Without the return function in the script, it will show it, and then end the code.
+
+=== 1-A.- Other simple stuff ===
+
+Please take a look at this motherfucking code:
+
+<pre>
+/*************************************/
+/*LOL CODE LOL CODE LOL CODE LOL CODE*/
+/*************************************/
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout<<"Hey everybody, I'm looking at gay porno!\n"; //This shit prints the text in the screen
+cin.get(); //This shit makes the program wait until the user presses enter
+return 0; //This shit terminates the program
+cout<<"Lol easter egg"; //This shit won't show if the above line is in the code
+cin.get(); //waitin' for enter
+}
+</pre>
+
+First: What's the crap I added?
+
+Those are called '''comments.''' Those comments won't affect the code whatsoever but show the comments to whoever is reading the code. It's useless in this kind of little scripts but in large scrips it would be useful to know what are the functions doing in case it seems too confusing or anything. You can always use it to hide a message or whatever, like the Win98 developers did when sending pieces of code to each other. Thing is, the compiler will put them in the .exe but it won't affect it in any way.
+
+There are two types of comments: The standard, which begins with a //. This one tells to the processor "Yo dawg disregard everything that is from the double slash until the end of the line" and the block one, which begins with a /* and ends in a */; which tells the processor "Yo dawg disregard everything that is from the /* and stop disregarding once you find a */".
+
+
+
+Second: What's the \n thing?
+
+When the program prints out a string (String: A piece of text), anything else that is printed will go inmediatly after the text. So if we happen to have to cout functions and we don't put the \n, we'll have something like this: 
+
+<pre>
+this is text one.this is text two.
+</pre>
+ 
+With \n (Newline), the "cursor" will go to the next line, like when we press enter in Word. If we put a \n in the end of the first cout function (Or in the beginning of the second), we'll have this:
+
+<pre>
+this is text one.
+this is text two.
+</pre>
+
+Having exactly what we wanted.
+
+== 2.- If statements ==
+
+This one is relatively simple, but regarding syntax is quite a step from cout.
+
+The if statements do the following: If a certain condition is true, then a piece of code is executed. Then you can add an "else" one that executes another piece of code in case the condition is not true.
+
+But first, you need to remember the following "operators". The operators are those that are in charge of "checking" if the condition is true or not.
+
+<pre>
+<      LESS THAN
+>      GREATER THAN
+>=     EQUAL OR GREATER THAN
+<=     EQUAL OR LESS THAN
+==     EQUAL TO
+!=     NOT EQUAL TO
+</pre>
+
+It's the classic mathematical bullshit you learn in high school, so it won't be really a big deal to remember them.
+
+=== 2-A.- Starting up ===
+
+Now, what is the syntax of the if statement?
+
+<pre>
+if (Stuff to compare is TRUE) {
+(Block of code to execute if condition is true)
+}
+</pre>
+
+An example of this would be:
+
+<pre>
+if (3 == 3) {
+cout<<"Yes, 3 equals 3. You needed to write a C++ application to know that?\n";
+}
+</pre>
+
+Some argue that 
+
+<pre>
+if (Shit_to_compare=TRUE)
+{
+(Block of code to execute)
+}
+</pre>
+
+Is better than writing
+
+<pre>
+if (Shit_to_compare=TRUE) {
+(Block of code to execute)
+}
+</pre>
+
+Protip: It's the same. It will do the exact same thing without a single compiling error. So it's up to you to decide which one you prefer.
+
+=== 2-B.- ELSE/ELSE IF statements ===
+
+This one does exactly what it's supposed to do. The first one executes a piece of code in case the if statement doesn't meet the requirements. Think of it in this way:
+
+"Does X equals Y? If so, print to the screen that X equals Y. ELSE, print to the screen that X does not equal Y".
+
+(Will work later)
+
+[[Category:Programming]]

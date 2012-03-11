@@ -2,38 +2,64 @@ I know how to MACHINE CODE.
 
 ## Programming Languages ##
 
-Here are some programming languages worthy of mention. 
-> _Note: Scripting languages are not the same as programming or markup languages. Take your hypertext elsewhere faggots_
+Here are some programming languages worthy of mention.
 
-* [[Assembly]]
-* [[Bash]] - scripting language
-* [[Batch]] - scripting language
-* [[BBCODE]] **_EXPERT BBCODE PROGRAMMERS_**
-* [[C|C-Tutorial]]
-* [[C++]]
-* [[C Sharp]] - see: [Java](/Java)
-* [[Cobol]] - nobody uses this (why is it here)
+* [[Assembly]] - x86's low-level programming language.
+* [[C]] - The universal programming language. 
+* [[C++|Cpp]] - The universal (object-oriented) programming language.
+* [[C Sharp]] - see: [[Java]]
+* [[Cobol]] - Nobody uses this.
 * [[Java]]
 * [[Haskell]] - you have to have four PhD's to be good at haskell
 * [[Lisp]]
-* [[LOLCODE]]
-* [[mIRC Script]] (not a programming language)
-* [[Perl]]
-* [[Php]] 
-* [[Python]]
-* [[Qbasic]] (not a programming language)
-* [[Ruby]] - In comparison with languages such as Python, Perl, and C, Ruby fucking sucks. (ruby can do what 100 lines of C can do in 3 with worthless built in functions though) [it will also take 4 hours longer]
-* Visual Basic (real men do not program in this)
+* [[LOLCODE]] - WHAT IS THIS FAGGOTTREE
+* [[Python]] - For quick scripting and easy GUI frontends to C++ programs.
+* [[Ruby]]
+* [[Visual Basic]] (real men do not program in this)
+
+## Scripting Languages
+
+* [[Bash]] - UNIX-like shell scripting language
+* [[Batch]] - Windows command-line scripting language
+* [[Javascript]] - The primary scripting language on the internet.
+* [[XSS]] - Cross-site scripting: a [[Javascript]]-based exploit.
+* [[mIRC Script]] - Great for spamming IRC servers.
+* [[Perl]] - Great for messing with text, or stuff on the internet.
+* [[Qbasic]]
+
+## Web Development
+
+* [[PHP]] - Most websites use this.
+* [[Django]] - A [[Python]]-based website solution.
+* [[Ruby on Rails]] - A [[Ruby]]-based website solution.
+* [[Node.js]] - A server-based [[Javascript]] website solution.
+
+### Markup Languages
+
+* [[BBCODE]] **_EXPERT BBCODE PROGRAMMERS_**
+* [[HTML]] - The primary markup language on the internet.
+* [[Markdown]] - A simple but powerful markup language designed for easy editing and reading. It's everywhere, especially on this wiki. Beats typing up HTML.
 
 ## So You Want To Learn To Program, eh? ##
 
-Basically, before you start to learn anything, you're going to have to choose what you want to do with your 1337 skills, if you are interested in operating systems/hacking/cracking, then you should follow a path like this:
+Basically, before you start to learn anything, you're going to have to choose what you want to do with your 1337 skills. 
+
+Most universities teach computer science in this order. Therefore, these end up becoming the most common languages, so if you're modding stuff, you should do so too:
+
+* [[Python]] - For quick scripting and easy GUI frontends to C++ programs.
+* [[Java]] - For Android apps, existing apps, and an easier way to get comfy with [[C]].
+* [[C]] - The universal programming language.
+* [[C++|Cpp]] - The universal (object-oriented) programming language.
+
+If you are interested in operating systems/hacking/cracking, then you should follow a path like this:
 
 * [[C]]
-* [[C++]]
+* [[C++|Cpp]]
 * [[x86 Assembly]]
-If you're more interested in web stuff/sploiting things, you should choose [Perl](/Perl) or [Python](/Python). If you want to make LOL GAEMS then you should just learn [C++](/C++), and if you're a comp sci nerd then [Haskell](/Haskell) or [Lisp](/Lisp) would be of interest to you.
-_note:C#, Java, PHP, BASIC and Ruby are all [Shit](/Shit)_
+
+If you're more interested in web stuff/sploiting things, you should learn everything in the Web Development seciton, along with [[Perl]] or [[Python]] for scripting. 
+
+If you want to make LOL GAEMS then you should just learn [[C++|Cpp]], and if you're a comp sci nerd then [[Haskell]] or [[Lisp]] would be of interest to you.
 
 ## Tools ##
 
