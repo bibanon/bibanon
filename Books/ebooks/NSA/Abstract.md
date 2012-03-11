@@ -86,5 +86,17 @@ The key concept for understanding the issues that lead to the inadvertent exposu
 information hidden or covered in a computer document can almost always be recovered. The
 way to avoid exposure is to ensure that sensitive information is not just visually hidden or made
 illegible, but is actually removed from the original document. Thus any sensitive information
-must be removed from the document through deletion. The pro
+must be removed from the document through deletion. The procedures detailed below discuss
+some of the ways to maintain formatting during the process.
 
+## Section 2: Procedures to Sanitize a Word Document
+
+The following steps were tested with MS Word 2000 and Acrobat 5.0 and 6.0. Other recent
+versions should work similarly. While time-consuming, these steps give the highest confidence
+that sensitive information is not hidden in the released document. Copying the text and images
+into a blank document is a good way to manually review a sensitive document, since sections can
+be copied over one at a time as they are reviewed.
+
+Pictorial Outline of Procedure--
+
+[[]]
