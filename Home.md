@@ -2,13 +2,11 @@ The **[[Bibliotheca Anonoma]]** is a [[Gollum]]-based wiki designed to collect a
 
 This little library aspires to be the Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time.
 
-Why? In the spur of the moment, few have bothered to save the data that made the internet worth fighting for in the first place. Such data is notoriously fragile while on the changing landscape of the internet. History is made, but quickly forgotten, and people's stories are told once and never revisited again. 
-
-You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
-
-## Description
+Why? In the spur of the moment, few have bothered to save the data that made the internet worth fighting for in the first place. Such data is notoriously fragile while on the changing landscape of the internet. History is made, but quickly forgotten, and stories are told once and never revisited again. 
 
 And recent events, like the deletion of [[Encyclopedia Dramatica]], all show that they could disappear, for any reason, and at any time. To prevent such a fate, the Bibliotheca Anonoma has a special feature: The ability to download the entire wiki for offline view, or rehosting, using git for revision control.
+
+You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
 
 ## Contribute
 
