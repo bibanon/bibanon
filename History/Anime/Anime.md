@@ -1,0 +1,1 @@
+High-quality Japanese Animation has always captured a small but dedicated interest of fans worldwide, but with the outreach of the internet and the equalizing effects of fansubs, torrents, and internet communities, Japanese Anime and Manga now retain a massive cultural grip on the culture of the internet.
