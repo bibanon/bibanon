@@ -1,0 +1,30 @@
+: ''This page is about the imageboard services Age and Sage. For the camwhore, see [[User:Age|age]]''
+One of the major concepts carried over from [[2chan]] to [[4chan]] and the other English-language [[Imageboard|imageboards]], age and sage determine whether a reply will bump a thread to the top of the page.
+
+== Age ==
+[[Image:AGE.gif|154px|right]]
+'''Age''' (Japanese, pronounced "ah-gay", short for "ageru", meaning "to raise") is the opposite of "[[#sage|sage]]". On both [[Futaba]] and [[4chan]], any ordinary reply is an "age", bumping it to the top of the page (at least until a large number of replies have been made). Placing "age" in the [[email field]] is unnecessary, but is sometimes done to signify a particularly enthusiastic "age".
+
+== Sage ==
+[[Image:SAGE.gif|200px|right]]
+'''Sage''' (Japanese, pronounced "sah-geh", short for "sageru", meaning "to lower") is used on both [[Futaba]] and [[4chan]]. Placing "sage" in the [[email field]] when posting prevents a reply from moving a [[thread]] to the top of a page. As posts stop being bumped when a certain number of replies (which varies from board to board) is reached, sage can sometimes prevent crappy posts from ever returning to the top of the page. But it usually doesn't, because [[trolls]] tend to deliberately bump any saged thread they see. Some trolls also use sage as part of their repertoire, abusively (and often repeatedly) saging good or just randomly-chosen threads for no reason except [[lulz]].
+
+The sage feature has also spawned a visual pun involving the herb sage (whose name is spelled the same way, but pronounced /seij/); people will sometimes post pictures of the herb itself or a canister of ground/rubbed sage or an image of the [[#Sega|Sega]] logo with the letters rearranged to "SAGE" with a saged post for emphasis. There are also a few "sage" image macros featuring buses; this dates from early 2005, when "sage" was [[wordfilter]]ed to "bus" on [[/b/]]. Occasionally pictures of characters classified as sages (Tellah from ''Final Fantasy IV'' being popular for this purpose on [[/v/]]) or named Sage are also used.
+
+=== Sage goes in every field ===
+'''Sage goes in every field''' is a somewhat common statement (also written as '''Sage goes in all fields''') in reply to particularly horrible threads, in which "sage" is placed not only in the email field, but also the name, subject, and body of the post. This of course has no additional effect compared to including "sage" only in the email field; it is used purely to express extreme disgust in the thread in question.
+
+=== Rage ===
+'''Rage''' is occasionally used as a "false" sage, usually in a failed attempt at humor. Basically, any word rhyming with "sage" can be used. Also the term used to describe the actions of the myg0t, Computer game trolling clan, when they are to successfully troll their target.
+
+=== Rape ===
+'''Rape''' is the inevitable result of "rage" being used as a false sage.
+
+=== Sega ===
+[[Image:SEGA.gif|200px|right]]
+'''Sega''' is the original "false sage" word, from the name of the Japanese console maker turned 3rd-party developer. "Sega" was once a [[wordfilter]] for "sage" on [[/b/]], and this filter was probably the origin of the false sage concept.
+
+== Related articles ==
+* [[Imageboard]]
+
+[[Category:Memes and Terms]]

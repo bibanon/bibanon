@@ -4,7 +4,7 @@
 
 ## General
 
-* [[Glossary]]   Words on the internet go out of fashion faster than US Presidents, so this little dictionary will keep this guide readable long after we've forgotten about Warren G. Harding. 
+* [[Terminology]]   Words on the internet go out of fashion faster than US Presidents, so this little dictionary will keep this guide readable long after we've forgotten about Warren G. Harding. 
 * [[In the Beginning There was the Command Line]] - Neal Stephenson's satirical treatise of UNIX, personal computers, and the merits of graphical vs command line interfaces.
 
 ## Culture

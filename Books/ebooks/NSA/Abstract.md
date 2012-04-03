@@ -99,4 +99,34 @@ be copied over one at a time as they are reviewed.
 
 Pictorial Outline of Procedure--
 
-[[]]
+[[procedure.png]]
+
+## Detailed Procedure
+
+[[fig1.png|float|alt=Figure 1 – Original Document]]
+[[fig2.png|float|alt=Figure 2 – Text deleted from original changes formatting]]
+
+### Create a new copy of the document.
+
+1. Open the document and select ``File->SaveAs`` from the top menu bar; give the file a new name. Make sure the new name is not itself sensitive. Do all redacting work with the new copy, preserving the original as a backup.
+
+### Turn Off Track Changes
+
+2. The Track Changes feature is a toggle. Selecting Tools->Track Changes from the top menu bar toggles the feature on or off. The quickest way to determine if Track Changes is on or off is by looking at the bottom status bar. The letters TRK are dimmed if Track Changes is off and bold if Track Changes is on. Review and 
+
+### Delete Sensitive Content
+
+3. Select each chart, diagram, image or segment of text to be redacted and delete that item. Delete all comments.
+
+Resizing an image, covering a section with a black box, or changing the color of a font to make it invisible will not work. The item must be deleted. If deleting an item changes the format or structure of the document in an unacceptable way, replace the item with meaningless content of a size that keeps the formatting correct. If the redacted item is text, replace the text with copies of a single character such as all As or all Xs. If the redacted item is an image or a chart, replace the item with a gray rectangle of the same size.
+
+**Example**: Redacting text. Figure 1 on the right shows a page of a document before redaction. Figure 2 shows the same page after deleting some text (the area marked by the large black arrows at the top of the figures).
+
+[[fig3.png|float|alt=Figure 3—Replacing deleted text with an equal amount of meaningless text.]]
+
+Notice that the chart and a paragraph from the next page move up in the document because deleting the text has shifted the subsequent text (the area marked by the large black arrow at the bottom of figure 2).
+
+Because of this shift, subsequent pages may need to be reformatted to ensure figures stay with certain text, or that page breaks are in the correct place, or that other such formatting issues do not adversely alter the appearance of the document. This could be time consuming for a large document. If formatting changes are a concern, replace the text with meaningless content of the same size rather than delete it. Figure 3 shows a before and after close-up of the replaced text. Notice that the paragraph following the replaced text did not shift position thus preserving the formatting of the rest of the document.
+
+**Example:** Redacting a chart, image, or other object. Figure 4 shows the page from Figure 1 after redacting some textand deleting the chart. In this case, the chart is an image. Notice that some text and part of a table have shifted onto the page. To preserve the formatting, insert a gray rectangle the same size as the chart (or image) into the vacant space as detailed in the following steps:
+

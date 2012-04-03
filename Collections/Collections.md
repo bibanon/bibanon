@@ -3,7 +3,7 @@
 ## General
 
 * [[Essays]] - Some important and interesting essays from around the internet.
-* [[LP Archive]] - The Let's Play archive. It's a collection of stories about Something Awful users revisiting games from their childhood and posting humorous commentary. The state of the website has not always been stable, so we need to save it here just in case.
+* [[Terminology]] - A dictionary and encyclopedia of terms coined on the internet, to be linked to lest we forget.
 
 ## Media
 

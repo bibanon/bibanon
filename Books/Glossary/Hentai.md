@@ -1,1 +1,0 @@
-* [[Hentai]] - We don't have any, sadly. However, we do have a long shitty discussion thread on the fact that Japanese people get extremely offended when you say that word.

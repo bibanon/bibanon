@@ -15,6 +15,7 @@
 * [[Collections]]
 * [[History]]
 * [[Flash]]
+* [[Terminology]]
 
 ### Development
 
