@@ -1,0 +1,440 @@
+NARCHY COOKBOOK VERSION 2007
+Table of Contents
+1.
+Counterfeiting Money
+2.
+Credit Card Fraud
+3.
+Making Plastic Explosives
+4.
+Picking Master Locks
+5.
+The Arts of Lock picking I
+6.
+The Arts of Lock picking II
+7.
+Solidox Bombs
+8.
+High Tech Revenge: The Beigebox
+9.
+CO ̨ Bombs
+10.
+Thermite II Bombs
+11.
+Touch Explosives
+12.
+Letter Bombs
+13.
+Paint Bombs
+14.
+Ways to send a car to HELL
+15.
+Do you hate school?
+16.
+Phone related vandalism
+17.
+Highway police radar jamming
+18.
+Smoke Bombs
+19.
+Mail Box Bombs
+20.
+Hot­wiring cars
+21.
+Napalm
+22.
+Fertilizer Bomb
+23.
+Tennis Ball Bomb
+24.
+Diskette Bombs
+25.
+Unlisted Phone Numbers
+26.
+Fuses
+27.
+How to make Potassium Nitrate
+28.
+Exploding Lightbulbs
+29.
+Under water igniters
+30.
+Home­brew blast cannon
+31.
+Chemical Equivalency List
+32.
+Phone Taps
+33.
+Landmines
+34.
+A different Molitov Cocktail
+35.
+Phone Systems Tutorial I
+36.
+Phone Systems Tutorial II
+37.
+Basic Alliance Teleconferencing
+38.
+Aqua Box Plans
+39.
+Hindenberg Bomb
+40.
+How to Kill Someone
+41.
+Phone Systems Tutorial III
+42.
+Black Box Plans
+43.
+The Blotto Box
+44.
+Blowgun
+45.
+Brown Box Plans
+46.
+Calcium Carbide Bomb
+47.
+More Ways to Send a Car to Hell
+48.
+Ripping off Change Machines
+49.
+Clear Box Plans
+50.
+CNA Number Listing
+51.
+Electronic Terrorism
+52.
+Start a Conf. w/o 2600hz or MF
+53.
+Dynamite
+54.
+Auto Exhaust Flame Thrower
+55.
+How to Break into BBs Express
+56.
+Firebomb
+57.
+Fuse Bomb
+58.
+Generic Bomb
+59.
+Green Box Plans
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+Portable Grenade Launcher
+Basic Hacking Tutorial I
+Basic Hacking Tutorial II
+Hacking DEC's
+Harmless Bombs
+Breaking into Houses
+Hypnotism
+Remote Informer Issue #1
+Jackpotting ATM Machines
+Jug Bomb
+Fun at K­Mart
+Mace Substitute
+How to Grow Marijuana
+Match Head Bomb
+Terrorizing McDonalds
+"Mentor's" Last Words
+The Myth of the 2600hz Detector
+Blue Box Plans
+Napalm II
+Nitroglycerin Recipe
+Operation: Fuckup
+Stealing Calls from Payphones
+Pool Fun
+Free Postage
+Unstable Explosives
+Weird Drugs
+The Art of Carding
+Recognizing Credit Cards
+How to Get a New Identity
+Remote Informer Issue #2
+Remote Informer Issue #3
+Remote Informer Issue #4
+Remote Informer Issue #5
+Phreaker's Guide to Loop Lines
+Ma­Bell Tutorial
+Getting Money out of Pay Phones
+Computer­based PBX
+PC­Pursuit Port Statistics
+Pearl Box Plans
+The Phreak File
+Red Box Plans
+RemObS
+Scarlet Box Plans
+Silver Box Plans
+Bell Trashing
+Canadian WATS Phonebook
+Hacking TRW
+Hacking VAX & UNIX
+Verification Circuits
+White Box Plans
+The BLAST Box
+Dealing with the R&R Operator
+Cellular Phone Phreaking
+Cheesebox Plans
+Start Your Own Conferences
+Gold Box Plans
+The History of ESS
+The Lunch Box
+Olive Box Plans
+The Tron Box
+More TRW Info
+"Phreaker's Phunhouse"
+122.
+123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139.
+140.
+141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.
+153.
+154.
+155.
+156.
+157.
+158.
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168.
+169.
+170.
+171.
+172.
+173.
+174.
+175.
+176.
+177.
+178.
+179.
+180.
+181.
+182.
+183.
+Phrack Magazine­Vol. 3, Issue 27
+Phrack Magazine­Vol. 3, Issue 27
+Phrack Magazine­Vol. 3, Issue 28
+Phrack Magazine­Vol. 3, Issue 28
+Phrack Magazine­Vol. 3, Issue 28
+Phrack Magazine­Vol. 3, Issue 30 
+Phrack Magazine­Vol. 3, Issue 30
+Phrack Magazine­Vol. 3, Issue 30
+Sodium Chlorate
+Mercury Fulminate
+Improvised Black Powder
+Nitric Acid
+Dust Bomb Instructions
+Carbon­Tet Explosive
+Making Picric Acid from Aspirin
+Reclamation of RDX from C­4
+Egg­based Gelled Flame Fuels
+Clothespin Switch
+Flexible Plate Switch
+Low Signature System [Silencers]
+Delay Igniter From Cigarette
+Nicotine
+Dried Seed Timer
+Nail Grenade
+Bell Glossary
+Phone Dial Locks ­­ Beat'em
+Exchange Scanning
+A Short History of Phreaking
+"Secrets of the Little Blue Box"
+The History of British Phreaking
+"Bad as Shit"
+Telenet
+Fucking with the Operator
+Phrack Magazine­Vol. 1, Issue 1
+International Country Codes List
+Infinity Transmitter Plans
+LSD
+Bananas
+Yummy Marihuana Recipes
+Peanuts
+Chemical Fire Bottle
+Igniter from Book Matches
+"Red or White Powder" Propellant
+Pipe Hand Grenade
+European Credit Card Fraud
+Potassium Bomb
+Your Legal Rights
+Juvenile Offenders' Rights
+Down The Road Missle
+Fun With Shotgun Shells
+Surveillance Equipment
+Drip Timer
+Stealing
+Miscellaneous 
+Shaving cream bomb
+Ripping off change machines II
+Lockpicking the EASY way
+Anarchy 'N' Explosives Prelude
+Anarchy 'N' Explosives Vol. 1
+Anarchy 'N' Explosives Vol. 2
+Anarchy 'N' Explosives Vol. 3
+Anarchy 'N' Explosives Vol. 4
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+192.
+193.
+194.
+195.
+196.
+197.
+198.
+199.
+200.
+201.
+202.
+203.
+204.
+205.
+206.
+207.
+208.
+209.
+210.
+211.
+212.
+213.
+214.
+215.
+216.
+217.
+218.
+219.
+Anarchy 'N' Explosives Vol. 5
+Explosives and Propellants
+Lockpicking III
+Chemical Equivalent List II
+Nitroglycerin II
+Cellulose Nitrate
+Starter Explosives
+Flash Powder
+Exploding Pens
+Revised Pipe Bombs
+* SAFETY *  A MUST READ!
+Ammonium TriIodide
+Sulfuric Acid & Amm. Nitrate III
+Black Powder III
+Nitrocellulose
+RDX
+The Black Gate BBS
+ANFOS
+Picric Acid II
+Bottled Explosives
+Dry Ice
+Fuses / Ignitors / Delays
+Film Canister Bombs
+Book Bombs
+Phone Bombs
+Special Ammunition
+Rocketry
+Pipe Cannon II
+Smoke Bombs
+Firecrackers
+Suppliers II
+Lab­Raid Checklist
+Misc Anarchy
+Combo Locks II
+Misc Anarchy II
+Thermite IV

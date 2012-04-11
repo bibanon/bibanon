@@ -1,0 +1,8 @@
+_by the Jolly Roger_
+
+Get in the car. Look under the dash. If it enclosed, forget it 
+unless you want to cut through it. If you do, do it near the 
+ignition. Once you get behind or near the ignition look for two 
+red wires. In older cars red was the standard color, if not, look 
+for two matched pairs. When you find them, cross them and take 
+off!
