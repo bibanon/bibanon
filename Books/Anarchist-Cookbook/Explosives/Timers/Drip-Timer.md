@@ -1,7 +1,3 @@
-
-  Drip Timer
-
-
 Another method of time delay for explosives that are detonated by 
 electric means, is the drip timer.  Fill a 'baggie' with water and 
 then add as much salt as the water will hold.  Seal it, leaving some 
@@ -15,6 +11,4 @@ water, thus completing the circut.  I have yet to try this timer
 out, and I got the plans from a total idiot, phreaker nonetheless, 
 and doubt it would work with any power source under 12v.
                                    
-
-                                                 ------------------007
-
+------------------007

@@ -1,6 +1,13 @@
 ## Chemical Equivalency list
 
-by the Jolly Roger
+_by the Jolly Roger_
+
+Keep this list handy at all times. If you can't seem to get one
+or more of the ingredients try another one.  If you still can't, you
+can always buy small amounts from your school, or maybe from various
+chemical companies.  When you do that, be sure to say as little as
+possible, if during the school year, and they ask, say it's for a
+experiment for school.
 
     Acacia..................................................Gum Arabic
     Acetic Acid................................................Vinegar
@@ -48,7 +55,7 @@ by the Jolly Roger
     Sodium Thiosulfate.............................Photographer's Hypo
     Sulfuric Acid.........................................Battery Acid
     Sucrose.................................................Cane Sugar
-    Zinc Chloride.......................................Tinner's Fluid
+    Zinc Chloride.......................................Tanner's Fluid
     Zinc Sulfate.........................................White Vitriol
 
 

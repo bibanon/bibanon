@@ -95,7 +95,7 @@ glass container. Discard the solid left in the paper towel.
 5. Evaporate the alcohol and water from the solution by placing the dish 
 into a pan of hot water. White powder will remain in the dish after 
 evaporation.
-* **NOTE**: The water in the pan should be at hot bath temperature, not boiling, 
+  * **NOTE**: The water in the pan should be at hot bath temperature, not boiling, 
 approx. 160 to 180 degress farenheit. It should not burn the hands.
 6. Pour 1/3 cup (80 millilitres) of concentrated sulfuric acid into a 
 canning jar. Add the white powder to the sulfuric acid.

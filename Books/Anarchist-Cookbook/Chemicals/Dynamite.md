@@ -1,10 +1,12 @@
-How to Make Dynamite                            by The Jolly Roger
+_by The Jolly Roger_
 
 Dynamite is nothing more than just nitroglycerin and a stablizing
 agent to make it much safer to use.  For the sake of saving time, I
 will abbreviate nitroglycerin with a plain NG.  The numbers
 are percentages, be sure to mix these carefully and be sure to use the
 exact amounts.  These percentages are in weight ratio, not volume.
+
+It might help to check out the list of [[Chemicals]] for common names and ways to obtain them.
 
 no.  ingredients                 amount
 ---------------------------------------
@@ -91,60 +93,3 @@ no.  ingredients                 amount
      ammonium oxalate             8
      barium nitrate               4
      calcium carbonate             .5
-
-Household equivalants for chemicles
-
-It has come to my attention that many of these chemicles are
-sold under brand names, or have household equivalants.  here is a list
-that might help you out. Also, see elsewhere in this Cookbook for 
-a more complete listing............
-
-acetic acid                vinegar
-aluminum oxide             alumia
-aluminum potassium sulfate alum
-aluminum sulfate           alum
-ammonium hydroxide         ammonia
-carbon carbonate           chalk
-calcium hypochloride       bleaching powder
-calcium oxide              lime
-calcium sulfate            plaster of paris
-carbonic acid              seltzer
-carbon tetrachloride       cleaning fluid
-ethylene dichloride        Dutch fluid
-ferric oxide               iron rust
-glucose                    corn syrup
-graphite                   pencil lead
-hydrochloric acid          muriatic acid
-hydrogen peroxide          peroxide
-lead acetate               sugar of lead
-lead tetrooxide            red lead
-magnesium silicate         talc
-magnesium sulfate          Epsom salts
-naphthalene                mothballs
-phenol                     carbolic acid
-potassium bicarbonate      cream of tartar
-potassium chromium sulf.   chrome alum
-potassium nitrate          saltpeter
-sodium dioxide             sand
-sodium bicarbonate         baking soda
-sodium borate              borax
-sodium carbonate           washing soda
-sodium chloride            salt
-sodium hydroxide           lye
-sodium silicate            water glass
-sodium sulfate             glauber's salt
-sodium thiosulfate         photographer's hypo
-sulferic acid              battery acid
-sucrose                    cane sugar
-zinc chloride              tinner's fluid
-
-Keep this list handy at all times. If you can't seem to get one
-or more of the ingredients try another one.  If you still can't, you
-can always buy small amounts from your school, or maybe from various
-chemical companies.  When you do that, be sure to say as little as
-possible, if during the school year, and they ask, say it's for a
-experiment for school.
-                              -------------Exodus-------------
-
-
-

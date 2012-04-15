@@ -1,4 +1,4 @@
-How to make Napalm                              by the Jolly Roger
+_by the Jolly Roger_
 
 About the best fire bomb is napalm. It has a thick consistancy,
 like jam and is best for use on vehilces or buildings.
@@ -20,6 +20,7 @@ usual way is with a double boiler where the top part has at least a
 two-quart capicity. The water in the bottom part is brought to a boil
 and the double boiler is taken from the stove and carried to where
 there is no flame.
+
 Then one part, by volume, of gasoline is put in the top part and
 allowed to heat as much as it will and the soap is added and the mess
 is stirred until it thickens. A better way to heat gasoline is to fill

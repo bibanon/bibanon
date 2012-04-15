@@ -1,6 +1,6 @@
-CHECKLIST FOR RAIDS ON LABS                              by: Exodus
+_by: Exodus_
 
-     In the end, the serious terrorist would probably realize that if he/she
+In the end, the serious anarchist would probably realize that if he/she
 wishes to make a truly useful explosive, he or she will have to steal the
 chemicals to make the explosive from a lab.  A list of such chemicals in order
 of priority would probably resemble the following:
@@ -23,10 +23,10 @@ of priority would probably resemble the following:
      ____     Chlorine           ____    Sodium Azide
      ____     Carbon Dioxide     ____    Lead Acetate
                                  ____    Barium Nitrate
+
 Print this sheet out and carry it with you!  Memorize it, anything.  It is
 INVALUABLE.  All of these chemicals should be carried in your school lab.
 Happy hunting. :)
 
-
-                                            - Exodus -
+- Exodus -
 

@@ -1,35 +1,37 @@
-Electronic Terrorism                            by The Jolly Roger
+_by The Jolly Roger_
 
 It starts when a big, dumb lummox rudely insults you.  Being of a
 rational, intelligent disposition, you wisely choose to avoid a
 (direct) confrontation.  But as he laughs in your face, you smile
 inwardly---your revenge is already planned.
-Step 1:  follow your victim to his locker, car, or house.  Once you
+
+1. follow your victim to his locker, car, or house.  Once you
 have chosen your target site, lay low for a week or more,
 letting your anger boil.
-Step 2:  in the mean time, assemble your versatile terrorist
+2. in the mean time, assemble your versatile terrorist
 kit(details below.)
-Step 3:  plant your kit at the designated target site on a monday
-morning between the hours of 4:00 am and 6:00 am.  Include a
-calm, suggestive note that quietly hints at the possibility
+3. plant your kit at the designated target site on a monday
+morning between the hours of 4:00 am and 6:00 am.
+4. Include a calm, suggestive note that quietly hints at the possibility
 of another attack.  Do not write it by hand!  An example of
 an effective note:
-  "don't be such a jerk, or the next one will take off your
-   hand.  Have a nice day."
+
+> "don't be such a jerk, or the next one will take off your
+> hand.  Have a nice day."
+
 Notice how the calm tone instills fear.  As if written by a
 homicidal psychopath.
-Step 5:  choose a strategic location overlooking the target site.  Try
+5. choose a strategic location overlooking the target site.  Try
 to position yourself in such a way that you can see his facial contortions.
-Step 6:  sit back and enjoy the fireworks! Assembly of the versatile,
+6. sit back and enjoy the fireworks! Assembly of the versatile,
 economic, and effective terrorist kit #1: the parts you'll need are:
 
-1) 4 aa batteries
-2) 1 9-volt battery
-3) 1 spdt mini relay (radio shack)
-4) 1 rocket engine(smoke bomb or m-80)
-5) 1 solar ignitor (any hobby store)
-6) 1 9-volt battery connector
-
+* 4 aa batteries
+* 1 9-volt battery
+* 1 spdt mini relay (radio shack)
+* 1 rocket engine(smoke bomb or m-80)
+* 1 solar ignitor (any hobby store)
+* 1 9-volt battery connector
 
 Step 1:  take the 9-volt battery and wire it through the relay's coil.
 This circuit should also include a pair of contacts that when
@@ -56,35 +58,30 @@ Step 4:  using double sided carpet tape mount the kit in his locker,
 mailbox, or car door. And last, insert the solar ignitor into the
 rocket engine (smoke bomb or m-80).
 
-
-
 Your kit is now complete!
-       
-        ---------><---------
-        I    (CONTACTS)    I
-        I                  I
-        I                  -  (BATTERY)
-        I                 ---
-        I                  I
-        I      (COIL)      I
-        ------///////-------
-          /-----------
-         /           I
-        /            I
-       /             I
-   (SWITCH) I        I
-            I        I
-            I       --- (BATTERY)
-            I        -  ( PACK  )
-            I       ---
-            I        I
-            I        I
-            ---- -----
-               I I
-                *
-         (SOLAR IGNITOR)
 
-                               ---------Exodus---------
+          ---------><---------
+          I    (CONTACTS)    I
+          I                  I
+          I                  -  (BATTERY)
+          I                 ---
+          I                  I
+          I      (COIL)      I
+          ------///////-------
+            /-----------
+           /           I
+          /            I
+         /             I
+     (SWITCH) I        I
+              I        I
+              I       --- (BATTERY)
+              I        -  ( PACK  )
+              I       ---
+              I        I
+              I        I
+              ---- -----
+                 I I
+                  *
+           (SOLAR IGNITOR)
 
-
-
+---------Exodus---------

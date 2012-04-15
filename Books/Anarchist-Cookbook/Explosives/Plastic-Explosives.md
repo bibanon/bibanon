@@ -1,4 +1,6 @@
-Making Plastic Explosives from Bleach           by The Jolly Roger
+## Making Plastic Explosives from Bleach
+
+_by The Jolly Roger_
 
 Potassium chlorate is an extremely volatile explosive compound, 
 and has been used in the past as the main explosive filler in 
@@ -9,12 +11,12 @@ procedure that follows.
 
 First off, you must obtain:
 
-[1]  A heat source (hot plate, stove, etc.)
-[2]  A hydrometer, or battery hydrometer
-[3]  A large Pyrex, or enameled steel container (to weigh 
-     chemicals)
-[4]  Potassium chloride (sold as a salt substitute at health and 
-     nutrition stores)
+1. A heat source (hot plate, stove, etc.)
+2. A hydrometer, or battery hydrometer
+3. A large Pyrex, or enameled steel container (to weigh 
+   chemicals)
+4. Potassium chloride (sold as a salt substitute at health and 
+   nutrition stores)
 
 Take one gallon of bleach, place it in the container, and begin 
 heating it.  While this solution heats, weigh out 63 grams of 
@@ -66,6 +68,25 @@ writing:
      Box 10042
      Odessa, Texas  79762
 
+-= Exodus =- '94
 
-                                                       -= Exodus =-
-                                                            '94
+## Improvised Plastic Explosive Filler
+
+Type: High Explosive
+### Ingredients
+
+* Finely Powdered Potassium Chlorate Cdata  bstals
+* Petroleum Jelly **MIX THOUROUGHLY**
+
+### Description
+
+This plastic explosive filler can be detonated with a
+No. 8 commercial blasting cap or with any military
+blasting cap. The explosive must be stored in a waterproof
+container until ready to use.
+
+This material was tested. It is effective.
+
+### References
+
+* TM 31-210, Improvised Munitions, sec I, No. 1.

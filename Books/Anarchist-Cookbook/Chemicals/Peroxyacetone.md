@@ -1,11 +1,11 @@
- PEROXYACETONE IS EXTREMELY FLAMMABLE AND HAS BEEN REPORTED TO BE SHOCK
- SENSITIVE.
+PEROXYACETONE IS EXTREMELY FLAMMABLE AND HAS BEEN REPORTED TO BE SHOCK SENSITIVE.
 
-MATERIALS-
- 4ML ACETONE
- 4ML 30% HYDROGEN PEROXIDE
- 4 DROPS CONC.  HYDROCHLORIC ACID
- 150MM TEST TUBE
+## MATERIALS
+
+* 4ML ACETONE
+* 4ML 30% HYDROGEN PEROXIDE
+* 4 DROPS CONC.  HYDROCHLORIC ACID
+* 150MM TEST TUBE
 
 Add 4ml acetone and 4ml hydrogen peroxide to the test tube.  then add 4 drops
 concentrated hydrochloric acid. In 10-20 minutes a white solid should begin to
@@ -18,4 +18,5 @@ least a meter away) .
 I would like to give credit to a book by shakashari entitled "Chemical
 demonstrations" for a few of the precise amounts of chemicals in some
 experiments.
-                    ...ZAPHOD BEEBLEBROX/MPG!
+
+...ZAPHOD BEEBLEBROX/MPG!

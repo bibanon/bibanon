@@ -42,46 +42,37 @@ possible exception of ammonium nitrate.
      ice                          ammonium nitrate
 
 
-1) Place the beaker in the ice bath, (see section 3.13, steps 3-4) and carefully 
+1. Place the beaker in the ice bath, (see section 3.13, steps 3-4) and carefully 
    pour 550 ml of concentrated nitric acid into the beaker.
-
-2) When the acid has cooled to below 20 degrees centigrade, add small amounts
+2. When the acid has cooled to below 20 degrees centigrade, add small amounts
    of the crushed fuel tablets to the beaker.  The temperature will rise, and
    it must be kept below 30 degrees centigrade, or dire consequences could
    result. Stir the mixture.
-
-3) Drop the temperature below zero degrees centigrade, either by adding more
+3. Drop the temperature below zero degrees centigrade, either by adding more
    ice and salt to the old ice bath, or by creating a new ice bath.  Or,
    ammonium nitrate could be added to the old ice bath, since it becomes cold
    when it is put in water. Continue stirring the mixture, keeping the
    temperature below zero degrees centigrade for at least twenty minutes
-
-4) Pour the mixture into a litre of crushed ice.  Shake and stir the mixture,
+4. Pour the mixture into a litre of crushed ice.  Shake and stir the mixture,
    and allow it to melt.  Once it has melted, filter out the crystals, and
    dispose of the corrosive liquid.
-
-5) Place the crystals into one half a litre of boiling distilled water. Filter
+5. Place the crystals into one half a litre of boiling distilled water. Filter
    the crystals, and test them with the blue litmus paper.  Repeat steps 4 and
    5 until the litmus paper remains blue.  This will make the crystals more
    stable and safe.
-
-6) Store the crystals wet until ready for use. Allow them to dry completely
+6. Store the crystals wet until ready for use. Allow them to dry completely
     using them. R.D.X. is not stable enough to use alone as an explosive.
-
-7) Composition C-1 can be made by mixing 88.3% R.D.X. (by weight) with 11.1%
+7. Composition C-1 can be made by mixing 88.3% R.D.X. (by weight) with 11.1%
    mineral oil, and 0.6% lecithin. Kneed these material together in a plastic
    bag. This is one way to desensitize the explosive.
-
-8) H.M.X. is a mixture of T.N.T. and R.D.X.; the ratio is 50/50, by weight.   
-  it is not as sensitive, and is almost as powerful as straight R.D.X.
-
-9) By adding ammonium nitrate to the crystals of R.D.X. after step 5, it
+8. H.M.X. is a mixture of T.N.T. and R.D.X.; the ratio is 50/50, by weight.
+   it is not as sensitive, and is almost as powerful as straight R.D.X.
+9. By adding ammonium nitrate to the crystals of R.D.X. after step 5, it
    should be possible to desensitize the R.D.X. and increase its power, since
    ammonium nitrate is very insensitive and powerful. Soduim or potassium
    nitrate could also be added; a small quantity is sufficient to stabilize
    the R.D.X.
-
-10) R.D.X. detonates at a rate of 8550 meters/second when it is compressed to a  
+10. R.D.X. detonates at a rate of 8550 meters/second when it is compressed to a 
    density of 1.55 g/cubic cm.
 
                                              -= Exodus =-
@@ -93,26 +84,25 @@ by the Jolly Roger
 RDX can be obtained from C-4 explosives with the use of gasoline. It can 
 be used as a booster explosive for detonators or as a high explosive charge.
 
-Material Required
------------------
-Gasoline
-C-4 explosive
-2 - pint glass jars, wide mouth
-Paper towels
-Stirring rod (glass or wood)
-Water
-Ceramic or glass dish
-Pan
-Heat source
-Teaspoon
-Cup
-Tape
+### Material Required
+
+* Gasoline
+* C-4 explosive
+* 2 - pint glass jars, wide mouth
+* Paper towels
+* Stirring rod (glass or wood)
+* Water
+* Ceramic or glass dish
+* Pan
+* Heat source
+* Teaspoon
+* Cup
+* Tape
 
 NOTE: Water, Ceramic or glass dish, pan, & heat source are all optional. The 
 RDX can be air dried instead.
 
-Procedure:
----------
+### Procedure:
 
 1. Place 1-1/2 teaspoons (15 grams) of C-4 explosive in one of the pint jars. 
 Add 1 cup (240 milliliters) of gasoline.
@@ -127,6 +117,7 @@ particles collected on the paper towel with 1/2 cup (120 milliliters) of
 gasoline. Discard the waste liquid.
 5. Place the RDX particles in a glass or ceramic dish. Set the dish in a pan of 
 hot water, not boiling and dry for a period of 1 hour.
-* NOTE: The RDX particles may be air dried for a period of 2 to 3 hours.
+
+NOTE: The RDX particles may be air dried for a period of 2 to 3 hours.
 
 See later file...... CBIV.               -= Exodus =-

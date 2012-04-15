@@ -1,10 +1,11 @@
 First made by the Chinese for use in fireworks, black powder was first
 used in weapons and explosives in the 12th century.  It is very simple to
-make, but it is not very powerful or safe.  Only about 50% of black powder is
-converted to hot gasses when it is burned; the other half is mostly very fine
-burned particles.  Black powder has one major problem: it can be ignited by
-static electricity.  This is very bad, and it means that the material must be
-made with wooden or clay tools.
+make, but it is not very powerful or safe.  Only about 50% of black powder is converted to hot gasses when it is burned; the other half is mostly very fine burned particles.  Black powder has one major problem: it can be ignited by static electricity.  This is very bad, and it means that the material must be made with wooden or clay tools.
+
+Black  powders  burn  either  quickly  or  very  slowly depending on the
+composition  of  such  a  mixture; however, these powders produce smoke, often great  amounts,  and  is most useful in applications where smoke is no object. It  is  the  best for communicating fire and for producing a quick, hot flame.
+
+Black  powder  is  used  in  both  propellant  charges for shrapnel shells, in saluting  and  blank  fire  charges, as the bursting charge of practice shells and  bombs,  as a propelling charge in certain pyrotechnic pieces, and, either with  or  without  the  admixture of other substances which modify the rate of burning,  in the time-train rings and in other parts of fuses.
 
 ## Improvised Black Powder (Recipe 1)
 
@@ -89,5 +90,17 @@ more visible sulfur or charcoal, or until the mixture is universally black.
  container. Plastic is really the safest container, followed by paper.  Never
  store black powder in a plastic bag, since plastic bags are prone to generate
  static electricity.
+
+## Black powders and their compositions
+                                                   (Brown)
+         Name                           Saltpeter  Charcoal  Sulfur
+       England........................    79        (18)        3
+       England........................    77.4      (17.6)      5
+       Germany........................    78        (19)        3
+       Germany........................    80        (20)        -
+       France.........................    78        (19)        3
+       Forte...........e...........e  72         15        13 |  Blasting
+       Lente..........................    40         30        30 |- Black
+       Ordinaire...........e..........    62         18        20 |  Powders
 
 Another addition to the CookBook......           -= Exodus =- '94
