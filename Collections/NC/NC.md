@@ -43,9 +43,11 @@ You can find the NC comics [[here|]]. It is best to read the comics in the order
 
 ## Sections
 
-### All pages
+* [[NC Cultural References]]
+* [[NC Infighting]]
+* [[NC Stats]]
+* [[nc wiki]]
 
-[[!map pages=]]
 
 ## Maintainers of NC
 

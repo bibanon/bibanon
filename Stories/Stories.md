@@ -12,22 +12,30 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 * [[Blindmute Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daugther will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
 * [[Tramp Anon]] - A touching and famous story about an anon who is thrown out of the house as a youngster, homeless in a cold and hungry world. He faces tremendous pain and struggle in a vicious cycle of poverty, relying only on his will to survive. An immigrant girl decides to cut him some slack when no one else would, and bring him back to a normal life.
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
+* [[Pools Closed Novel]] - WTF is this? A mess of memes created as a copypasta by anons on /b/.
 
 ## [[Something Awful]]
 
 * [[The Great Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
 * [[American Dream]] - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
-* [[From AOL Hacker to Businessman]]
 
 ## [[Reddit]]
-
-* (nothing here for now, but I know that there have been really good stories posted to Reddit.)
 
 * [[Rome Sweet Rome]] - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
 * [[1984 Sweet 1984]] - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
 
 ## [[Wikichan]]
 
-* [[Itoko Otoko]]
+* [[Itoko Otoko]] - Literally, "Cousin Man", in the same style as [[Densha Otoko]]. The first major story put on 4chan, his thread was stickied for his push to elope with his cousin.
 * [[Romeo san and Juliette]] - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
 * [[Cheerios]] - A man who loves Cheerios. A bit... too much.
+* [[Jenny Jones]]
+
+## Hackers
+
+_Mostly from the [[Anarchists Cookbook]]._
+
+* [[Bad as Shit]]
+* [[Diary of a Hacker]]
+* [[Secrets of the Little Blue Box]]
+* [[From AOL Hacker to Businessman]]

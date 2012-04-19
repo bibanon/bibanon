@@ -1,3 +1,5 @@
+BY 0074 at world2ch.org.
+
 ## You probably never cared about this, but too bad!
 
 Here's some fun info kids!  Well, fun for autistic kids!  OK, only fun for a very specific type of autistic kid...

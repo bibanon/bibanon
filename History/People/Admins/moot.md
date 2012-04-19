@@ -1,1 +1,0 @@
-The admin and founder of 4chan. (needs moar)
