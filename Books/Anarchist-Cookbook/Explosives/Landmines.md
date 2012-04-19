@@ -1,4 +1,4 @@
-How to make a landmine                          by The Jolly Roger
+_by The Jolly Roger_
 
 First, you need to get a pushbutton switch. Take the wires of it 
 and connect one to a nine volt battery connector and the other to 
@@ -30,8 +30,4 @@ short your wick is, and, if a homemade wick is being used, its
 burning speed. But if you get it right... and your enemy is close 
 enough......... BBBBBBBOOOOOOOOOOOOOOOOOOOOOOOOMMMM! hahahaha
 
-                                          -EXODUS-
-
-
-
-
+-EXODUS-

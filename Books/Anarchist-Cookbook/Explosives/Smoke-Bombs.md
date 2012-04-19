@@ -37,7 +37,6 @@ reaction is not all that dangerous you can use larger amounts if necessary.
 
 Insert a red hot wire into the pile, step back.
 
-
 ## COLORED FLAMES
 
 Colored flames can often be used as a signaling device for terrorists. by

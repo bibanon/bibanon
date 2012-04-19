@@ -1,4 +1,4 @@
-Paint Bombs                          by The Jolly Roger
+by The Jolly Roger
 
 To make a pain bomb you simply need a metal pain can with a 
 refastenable lid, a nice bright color paint (green, pink, purple, 
@@ -9,7 +9,8 @@ this to a science. It depends on the ratio of dry ice to paint to
 the size of the can to how full it is. If you are really pissed 
 off at someone, you could place it on their doorstep, knock on the 
 door, and then run!! Paint will fly all over the place HAHAHA!!
-                                        -Jolly Roger-
+
+-Jolly Roger-
 
 
 

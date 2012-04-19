@@ -1,4 +1,4 @@
-               How to make a CO2 bomb        by the Jolly Roger
+_by the Jolly Roger_
 
 You will have to use up the cartridge first by either shooting it 
 or whatever. With a nail, force a hole bigger so as to allow the 

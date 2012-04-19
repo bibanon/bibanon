@@ -1,7 +1,6 @@
+-= Exodus =-
 
---LIGHTBULB BOMBS 2  4.14                               -= Exodus =-
-
-     An automatic reaction to walking into a dark room is to turn on the
+An automatic reaction to walking into a dark room is to turn on the
 light. This can be fatal, if a lightbulb bomb has been placed in the overhead
 light socket.  A lightbulb bomb is surprisingly easy to make.  It also comes
 with its own initiator and electric ignition system.  On some lightbulbs, the
@@ -20,4 +19,3 @@ working lightbulb, all that need be done is to screw the lightbulb bomb into
 the socket.  Such a device has been used by terrorists or assassins with much
 success, since few people would search the room for a bomb without first
 turning on the light.
-

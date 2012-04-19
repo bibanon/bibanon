@@ -1,13 +1,5 @@
-
-
-
-                       Phunn With Shotgun Shells
-
-
-
 This phile is for those have no concern for themselves or the person they 
 wanna fuck over with this. (in short, a fucking MANIAC!!!)
-
 
 DoorBlams
 ---------
@@ -23,7 +15,6 @@ fly across the room.  Now tape a thumbtack against a wall or something that
 that part of the door bumps up against. Tape it to the wall so that the point
 pokes through the tape, and position it so it will hit the ignit. button upon
 impact... Its that simple.  Instant pain!
-
 
 Long Range Explosives
 ---------------------
@@ -41,16 +32,7 @@ cracker (yes a cracker (Saltines, anyone ?)) between the tack-point and the
 button helps prevent detonation upon THROWING, which DOES happen.  Now toss 
 it up high and AWAY from you, and RUN LIKE SHIT does after you eat Mexican.
 
-
-
 These two pranx are HIGHLY UNRECOMMENDED, and EXODUS takes NO responsibility for
 any causes of performing them nor the results.
 
-
-
-
-                                                           --------EXODUS
-
-
-
-
+ --------EXODUS

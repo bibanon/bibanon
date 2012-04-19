@@ -1,12 +1,12 @@
-MERCURY BATTERY BOMB!      By Phucked Agent!
+_By Phucked Agent!_
 
-Materials:
+## Materials:
 
-1 Mercury Battery (1.5 or 1.4 V Hearing Aid), 1 working lamp with on/off 
-  switch
+* 1 Mercury Battery (1.5 or 1.4 V Hearing Aid)
+* 1 working lamp with on/off switch
 
-  It is VERY SIMPLE!!! Hurray! Kids under 18 shouldn't considered try this 
-  one or else they would have mercuric acid on their faces!
+It is VERY SIMPLE!!! Hurray! Kids under 18 shouldn't considered try this 
+one or else they would have mercuric acid on their faces!
 
 1.  Turn the lamp switch on to see if lite-bulb lights up.
 2.  If work, leave the switch on and unplug the cord
@@ -20,7 +20,4 @@ the Hot-spot contact.
 
 All credits go to their respective creators..
 
-                                                -= Exodus =-
-                                                        
-                                                     1994
-                                                     Release 4.14
+-= Exodus =-

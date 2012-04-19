@@ -1,24 +1,18 @@
-Shaving Cream Bomb                                --------EXODUS
+--------EXODUS
 
 
--This may not really be what we would consider a bomb, but it is a 
+This may not really be what we would consider a bomb, but it is a 
 helluva great idea to phuck someone over.  You will need:
 
-(1)-person you hate who has a car
-
-(1)-container of liquid nitrogen (try a science shop, or Edmund 
+* (1)-person you hate who has a car
+* (1)-container of liquid nitrogen (try a science shop, or Edmund 
 Scientific, mentioned in several places in this Cookbook)
+* (6-10)-cans of generic shaving cream
+* (1)-free afternoon (preferably in FREEZING temperatures outside)
+* (1-or more)-pairs of pliars, for cutting and peeling
+* some phriends
 
-(6-10)-cans of generic shaving cream
-
-(1)-free afternoon (preferably in FREEZING temperatures outside)
-
-(1-or more)-pairs of pliars, for cutting and peeling
-
-some phriends
-
-
-Directions:
+## Directions:
 
 Find someone who owns a small compact car, and manage to find out 
 where he keeps it at night (or while he is away!) Be able to open 
@@ -32,14 +26,7 @@ car.  When he opens the door (hopefully he doesn't realize the mess
 inside due to the foggy windows), he will be covered with lbs of 
 shaving cream that is a bitch to get out of upholstry. 
 
-
 PS!- Try to get one is his glove compartment!!!!!
 
+------007
 
-
-
-
-    Have Phunn....                                    ------007
-
-
-

@@ -7,6 +7,41 @@ composition  of  such  a  mixture; however, these powders produce smoke, often g
 
 Black  powder  is  used  in  both  propellant  charges for shrapnel shells, in saluting  and  blank  fire  charges, as the bursting charge of practice shells and  bombs,  as a propelling charge in certain pyrotechnic pieces, and, either with  or  without  the  admixture of other substances which modify the rate of burning,  in the time-train rings and in other parts of fuses.
 
+## BLACK POWDER
+
+Black powder is generally available in three grades. The grade of black
+powder depends on what the calibre of the gun that it is used in; a fine grade
+of powder could burn too fast in the wrong caliber weapon.  The rule is: the
+smaller the grade, the faster the burn rate of the powder. Burn rate is extremely
+important in bombs.  Since an explosion is a rapid increase of gas volume in a
+confined environment, to make an explosion, a quick-burning powder is desirable.
+The three common grades of black powder are listed below, along with the usual
+bore width (calibre) of what they are used in.  Generally, the fastest burning
+powder, the FFF grade is desirable.  However, the other grades and uses are
+listed below:
+
+     GRADE              BORE WIDTH               EXAMPLE OF GUN
+     컴컴�              컴컴컴컴컴               컴컴컴컴컴컴컴
+     F                  .50 or greater           model cannon; some rifles
+     FF                 .36 - .50                large pistols; small rifles
+     FFF                .36 or smaller           pistols; derringers
+
+The FFF grade is the fastest burning, because the smaller grade has more
+surface area or burning surface exposed to the flame front.  The larger grades
+also have uses which will be discussed later.  The price range of black
+powder, per pound, is about $8.50 - $9.00.  The price is not affected by the
+grade, and so one saves oneself time and work if one buys the finer grade of
+powder.  The major problems with black powder are that it can be ignited
+accidentally by static electricity, and that it has a tendency to absorb
+moisture from the air. To safely crush it, a one would use a plastic spoon and
+a wooden salad bowl. Taking a small pile at a time, he or she would apply
+pressure to the powder through the spoon and rub it in a series of strokes or
+circles, but not too hard.  It is fine enough to use when it is about as fine
+as flour.  The fineness, however, is dependant on what type of device one
+wishes to make; obviously, it would be impracticle to crush enough powder to
+fill a 1 foot by 4 inch radius pipe.  Any adult can purchase black powder,
+since anyone can own black powder firearms in the United States.
+
 ## Improvised Black Powder (Recipe 1)
 
 Black powder can be prepared in a simple, safe manner. It may be used as 
