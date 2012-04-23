@@ -1,4 +1,4 @@
-by the Jolly Roger
+_by the Jolly Roger_
 
 This is sort of a mild explosive, but it can be quite dangerous in 
 large quantities. To make touch explosive (such as that found in a 

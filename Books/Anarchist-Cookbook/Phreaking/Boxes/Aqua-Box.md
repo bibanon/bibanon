@@ -1,6 +1,6 @@
-Aqua Box Plans                                            by Jolly Roger
+_by Jolly Roger)
 
-Every true phreaker lives in fear of the dreadded F.B.I. 'Lock In Trace.'
+Every true phreaker lives in fear of the dreadded F.B.I. _Lock In Trace._
 For a long time, it was impossible to escape from the Lock In Trace.
 This box does offer an escape route with simple directions to it.
 This box is quite a simple concept, and almost any phreaker with basic
@@ -8,6 +8,7 @@ electronics knowledge can construct and use it.
 
 The Lock In Trace
 ------------------
+
 A lock in trace is a device used by the F.B.I. to lock into the phone
 users location so that he can not hang up while a trace is in progress.
 For those of you who are not familiar with the conecpt of 'locking in',
@@ -15,6 +16,7 @@ then here's a brief desciption. The F.B.I. can tap into a conversation,
 sort of like a three-way call connection. Then, when they get there,
 they can plug electricity into the phone line. All phone connections
 are held open by a certain voltage of electricity.
+
 That is why you sometimes get static and faint connections when you are
 calling far away, because the electricity has trouble keeping the line
 up. What the lock in trace does is cut into the line and generate that same
@@ -27,6 +29,7 @@ of which voltage is higher. When you push down the receiver,then it see-saws
 the electricity to the other side. When you have a person on each line
 it is impossible to hang up unless one or both of them will hang up.
 If you try to hang up, voltage is retained, and your phone will ring.
+
 That should give you an understanding of how calling works. Also, when
 electricity passes through a certain point on your phone, the electricity
 causes a bell to ring, or on some newer phones an electronic ring to sound.)
@@ -51,17 +54,13 @@ modifications have to be done.
 
 Materials
 ----------
-A BEOC (Basic Electrical Output Socket), like a small lamp-type
-connection, where you just have a simple plug and wire that would plug
-into a light bulb.
-One of cords mentioned above, if you can't find one then construct your
-own... Same voltage connection, but the restrainor must be built in (I.E.
-The central box)
-Two phone jacks (one for the modem, one for if you are being traced to
-plug the aqua box into)
-Some creativity and easy work.
 
-*Notice: No phones have to be destroyed/modified to make this box, so
+* A BEOC (Basic Electrical Output Socket), like a small lamp-type connection, where you just have a simple plug and wire that would plug into a light bulb.
+* One of cords mentioned above, if you can't find one then construct your own... Same voltage connection, but the restrainor must be built in (I.E. The central box)
+* Two phone jacks (one for the modem, one for if you are being traced to plug the aqua box into)
+* Some creativity and easy work.
+
+Notice: No phones have to be destroyed/modified to make this box, so
 don't go out and buy a new phone for it!
 
 Procedure

@@ -1,6 +1,7 @@
-Cellular Phreaking                         courtesy of The  Jolly Roger
+_courtesy of The  Jolly Roger_
 
-     The cellular/mobile phone system is one that is perfectly set up to be
+
+The cellular/mobile phone system is one that is perfectly set up to be
 exploited by phreaks with the proper knowledge and equipment.  Thanks to
 deregulation, the regional BOC's (Bell Operating Companies) are scattered
 and do not communicate much with each other.  Phreaks can take advantage of
@@ -17,7 +18,8 @@ city and state, that's "just visiting".  When your BOC tries to collect for
 the calls from your alleged "home BOC", they will discover you are not a
 real customer; but by then, you can create an entirely new electronic
 identity, and use that instead. 
-    How does the cellular system know who is calling, and where they are?
+
+How does the cellular system know who is calling, and where they are?
 When a mobile phone enters a cell's area of transmission, it transmits its
 phone number and its 8 digit ID number to that cell, who will keep track of
 it until it gets far enough away that the sound quality is sufficiently
@@ -32,7 +34,8 @@ the switching equipment will check to see if the mobile phone being called is
 call will then act (to the speaking parties) just like a normal call - the
 caller may hear a busy tone, the phone may just ring, or the call may be
 answered. 
-    How does the switching equipment know whether or not a particular
+
+How does the switching equipment know whether or not a particular
 phone is authorized to use the network?  Many times, it doesn't.  When a
 dealer installs a mobile phone, he gives the phone's ID number (an 8 digit
 hexadecimal number) to the local BOC, as well as the phone number the BOC
@@ -48,7 +51,7 @@ to be "based" in an area that has a cellular system (obviously), has a
 different BOC than your local area does, and has some sort of a "roamer"
 agreement with your local BOC.
 
-   How can one "phreak" a cellular phone?  There are three general areas
+How can one "phreak" a cellular phone?  There are three general areas
 when phreaking cellular phones; using one you found in an unlocked car
 (or an unattended walk-about model), modifying your own chip set to look
 like a different phone, or recording the phone number/ID number combinations

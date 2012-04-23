@@ -1,6 +1,7 @@
-A Short History of Phreaking             courtesy of Exodus
+_courtesy of Exodus_
 
-   Well now we know a little vocabulary, and now its into history, Phreak
+
+Well now we know a little vocabulary, and now its into history, Phreak
 history.  Back at MIT in 1964 arrived a student by the name of Stewart Nelson,
 who was extremely interested in the telephone.  Before entering MIT, he had
 built autodialers, cheese boxes, and many more gadgets.  But when he came to
@@ -11,7 +12,8 @@ whether the computer could generate the frequencies required for blue boxing.
 The hackers at MIT were not interested in ripping off Ma Bell, but just
 exploring the telephone network.  Stew (as he was called) wrote a program to
 generate all the tones and set off into the vast network.
-   Now there were more people phreaking than the ones at MIT.  Most people have
+
+Now there were more people phreaking than the ones at MIT.  Most people have
 heard of Captain Crunch (No not the cereal), he also discovered how to take
 rides through the fone system, with the aid of a small whistle found in a
 cereal box (can we guess which one?).  By blowing this whistle, he generated
@@ -23,10 +25,12 @@ see).  Well he finally got caught after a long adventurous career.  After he
 was caught he was put in jail and was beaten up quite badly because he would
 not teach other inmates how to box calls.  After getting out, he joined Apple
 computer and is still out there somewhere.
-   Then there was Joe the Whistler, blind form the day he was born.  He could
+
+Then there was Joe the Whistler, blind form the day he was born.  He could
 whistle a perfect 2600hz tone.  It was rumored phreaks used to call him to tune
 their boxes.
-   Well that was up to about 1970, then from 1970 to 1979, phreaking was mainly
+
+Well that was up to about 1970, then from 1970 to 1979, phreaking was mainly
 done by college students, businessmen and anyone who knew enough about
 electronics and the fone company to make a 555 Ic to generate those magic
 tones.  Businessmen and a few college students mainly just blue box to get free
@@ -35,14 +39,16 @@ ESS posed a big problem for phreaks then and even a bigger one now.  ESS was
 not widespread, but where it was, blue boxing was next to impossible except for
 the most experienced phreak.  Today ESS is installed in almost all major cities
 and blue boxing is getting harder and harder.
-   1978 marked a change in phreaking, the Apple ][, now a computer that was
+
+1978 marked a change in phreaking, the Apple ][, now a computer that was
 affordable, could be programmed, and could save all that precious work on a
 cassette.  Then just a short while later came the Apple Cat modem.  With this
 modem, generating all blue box tones was easy as writing a program to count
 form one to ten (a little exaggerated).  Pretty soon programs that could
 imitate an operator just as good as the real thing were hitting the community,
 TSPS and Cat's Meow, are the standard now and are the best.
-   1982-1986: LD services were starting to appear in mass numbers.  People now
+
+1982-1986: LD services were starting to appear in mass numbers.  People now
 had programs to hack LD services, telephone exchanges, and even passwords.  By
 now many phreaks were getting extremely good and BBS's started to spring up
 everywhere, each having many documentations on phreaking for the novice.  Then
@@ -57,7 +63,4 @@ people remember the 414-hackers.  They were so stupid as to say "yes" when the
 computer asked them whether they'd like to play games.  Well at least it takes
 the heat off the real phreaks/hacker/krackers.
 
-                 (from the Official Phreaker's Manual)
-
-
-
+(from the Official Phreaker's Manual)

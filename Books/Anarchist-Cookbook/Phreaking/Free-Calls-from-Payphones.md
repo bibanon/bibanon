@@ -1,8 +1,4 @@
-                     
-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*
-*            How to "steal" local calls from most Payphones         *
-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*-+-*
-                           by the Jolly Roger
+_by the Jolly Roger_
 
 Now to make free local calls, you need a finishing nail.  I highly
 recommend "6D E.G. FINISH C/H, 2 INCH" nails.  These are about 3/32 of
@@ -51,6 +47,7 @@ MCI.  If  everything  goes okay, it should ring and not answer with the
 "The Call You Have Made Requires a 20 Cent Deposit" recording.  After the 
 other  end  answers  the phone, remove the  paper  clip.  It's  all  that 
 simple, see?
+
 There  are  a couple problems,  however.  One  is,  as  I mentioned 
 earlier, the mouthpiece not working after you punch it.  If this  
 happens to you,  simply move on to the next payphone.  The one you are
@@ -78,6 +75,3 @@ for sure).  I do it all the time.  This  is  the least,  I STRESS
 I was unable to update this one.  From what I recall, it stil worked.  
 Look for payfones w/o the little volume button in the upper left of the
 casing.  They should be old enough to use..        -Exodus-
-
-
-

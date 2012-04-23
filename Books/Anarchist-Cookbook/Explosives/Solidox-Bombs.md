@@ -1,4 +1,4 @@
-by The Jolly Roger
+_by The Jolly Roger_
 
 Most people are not aware that a volatile, extremely explosive 
 chemical can be bought over the counter:  Solidox.
@@ -16,7 +16,7 @@ readily available energy source is common household sugar, or
 sucrose.  In theory, glucose would be the purest energy source, 
 but it is hard to find a solid supply of glucose.
 
-Making the mixture:
+## Recipe
 
 1.  Open the can of Solidox, and remove all 6 sticks.  One by 
      one, grind up each of the sticks (preferably with a mortar 
