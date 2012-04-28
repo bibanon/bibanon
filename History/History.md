@@ -11,7 +11,7 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 * [[Sites]] - A set of articles with some history about a few important sites on the internet.
 * [[Groups]] - A list of historically important groups on the internet.
 * [[People]] - A list of historically important people on the internet.
-* [[Bills]] - A list of Proposed or implemented laws that affect the internet in any significant manner.
+* [[Lawmaking]] - Proposed or implemented laws and representatives that affect the internet in any significant manner.
 
 ## The Beginning
 

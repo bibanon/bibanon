@@ -4,7 +4,8 @@ There have been many bills, passed or forgotten, that have caused major changes 
 
 ### Pending
 
-* [[ACTA]] - 2007-??: An international treaty organization led by the US to get all member states to enforce strong laws against copy"right" infringement and counterfeiting, especially that involving computers.
+* [[CISPA]] - 2011-???: Allows the US Government, the FBI/CIA or other police agencies, and even random companies to collect and read personal data for arbitary "cybersecurity" purposes. It voids all laws and rulings of US law to allow these searches. Currently passed in the House, pending in the Senate, and a veto threatened by Obama.
+* [[ACTA]] - 2007-???: An international treaty organization led by the US to get all member states to enforce strong laws against copy"right" infringement and counterfeiting, especially that involving computers.
 * [[OPEN]] - I Can't Believe It's Not SOPA! Rep. Darrel Issa's alternative to SOPA, which merely cuts off funding to suspected websites. Implications are still under review.
 
 ### Passed
@@ -15,6 +16,10 @@ There have been many bills, passed or forgotten, that have caused major changes 
 ## Shelved
 
 * [[SOPA]]/PIPA (PROTECT IP) - 2011-12: Two bills that would take down websites instantly as soon as it was accused of a single count of copyright infringement. Was not passed due to severe opposition from internet communities of the time, but is still up for debate.
+
+## People
+
+* [[Tim Couch]] - A US Representative who led a crusade against Anonymous, and 
 
 ## Important topics and Events
 

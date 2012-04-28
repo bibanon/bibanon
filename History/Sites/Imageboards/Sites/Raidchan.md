@@ -1,7 +1,6 @@
-Raidchan is a *chan featuring an awesome radio show, and a shitty irc network where epic raids once took place.
+Raidchan is a *chan featuring an awesome radio show, and a shitty irc network where epic raids once took place. It was once part of the Partyvan Network, a coalition of sites, chans, and IRC servers working for the greater good of [[Anonymous]]. Unfortunately, a major feud caused them to split, and many DDoSes were had.
 
 ## The Partyvan/Raidchan Split of 08 ##
-
 
 ### The Beginning ###
 

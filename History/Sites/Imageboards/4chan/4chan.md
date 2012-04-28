@@ -1,6 +1,8 @@
-4chan.org is the website that introduced the Japanese anonymous imageboard concept to the English-speaking world.
+[4chan](http://www.4chan.org) is the website that introduced the Japanese anonymous imageboard concept to the English-speaking world. It is seen as the hubsite of the *chans, like [[2channel]] in Japan. 
 
-4chan was founded in 2003 by a 15 year old kid named [[moot]]. It got popular purely by accident and when costs began to spiral out of control we told him the site was doomed to failure. 
+While it's code was taken from [[Futaba Channel]], it's culture and original community came from [[Something_Awful]]'s [[ADTRW]] forums. It eventually eclipsed it's mother site, building and popularlizing internet memes that influence modern internet culture like the Greeks to Western Civilization.
+
+It is well known for it's incessant raids and for giving birth to [[Anonymous]].
 
 > If I had known it one day become a dominant source of Internet culture with fivehundred million pageviews per month and an [Alexa Traffic Rank](http://www.alexa.com/siteinfo/4chan.org) in the global top 1,000
 websites, I might have written more of this down at the time.
@@ -9,7 +11,9 @@ websites, I might have written more of this down at the time.
 
 More info: [[4chan History]]
 
-4chan was started in 2003. moot purchased the server space with his mother's credit card when he was fifteen, intending the site to be an American version of [[Futaba Channel]].
+4chan was founded in 2003 by a 15 year old kid named [[moot]]. 
+
+4chan was started in 2003. moot purchased the server space with his mother's credit card when he was fifteen, intending the site to be an American version of [[Futaba Channel]]. It got popular purely by accident and when costs began to spiral out of control [[Menchi|Shii]] and other [[world2ch]]anners told him the site was doomed to failure. 
 
 Multiple groups and immigrants from sites like [[Something Awful]] were attracted to it's simplicity and anonymity. The site's success stemmed from the advantages of the anonymous imageboard, and it's development of a culture independent from any other.
 

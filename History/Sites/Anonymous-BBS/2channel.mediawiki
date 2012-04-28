@@ -1,12 +1,18 @@
 '''NOTE: We need people to translate the [Wikipedia page on 2channel](https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B), as well as the [history page](https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%81%AE%E6%AD%B4%E5%8F%B2).'''
 
+'''2channel''', also known as Ni-channel or 2ch, is one of the main sites of [[Nanashi World]], which is something like [[4chan]] to [[Anonymous]]. It spawned the  [[Futaba Channel]], which led to [[4chan]]. Despite it being meant for Japanese people, it was opened in Arkansas and it's servers are located in California. It is considered the largest board in the world with over 600 boards, each with thousands of threads. Since it is a text board, it has created famous Shift-JIS art which can be seen on 4chan from time to time.
+
+Many of 2channel's characteristics can be seen in its "offsprings". Such as the anonymous posting, saging and aging, tripcodes, >>1-style post references, and being filled with every kind of hate speech known to mankind.
+
+Supposedly, 2channel is ''purely'' anonymous: not only is there no requirement to post with a name (which is what most people think of), there is no web server log, and IP addresses are only recorded for the first post in a thread.
+
+==FIVE POINT FOUR MILLION==
+
 So... you probably know that Japan has an enormous, terrifying [[otaku]] population. Where do they hang out on the Internet?
 
 Well, they just happen to be on [the largest text BBS on the internet.](http://2ch.net/)
 
 2channel is huge. According to the [http://www.nytimes.com/2004/05/09/international/asia/09toky.html New York Times article] ([http://www.asiamedia.ucla.edu/article.asp?parentid=11049 mirror]), it has 5.4 million active users every month.
-
-==FIVE POINT FOUR MILLION==
 
 Since you can post on 2channel anonymously and there's no fear to lurk, that implies about a million active users. Something Awful has 43,000 registered users, but I'm betting the active number is smaller than that. Let's call it 20,000. So, if you were to take SA, including SpokkerJones and GameQuoter and MrVacBob and all its posts and boards and Goldmined threads, and then next to it you would place an entirely new SA, with a whole new cast of characters-- those would be the legs, see-- and then stack another SA on top of those two, and stick two SAs on the left and right of the third one for arms, and then finally fit an SA onto the top of the whole thing for a head, that would be one convulted Voltron, but more importantly, it would be one-tenth of the size of 2channel.
 
@@ -50,6 +56,10 @@ Additionally, 2ch was a major feature of the anime Nurse Witch Komugi-chan. ''[O
 
 ==Notable meta-events (2007)==
 [[Something Awful]] was having major server issues throughout 2001. In August 2001, 2channel experienced similar overflow problems due partially to the Neomugicha incident. The servers were in danger of crashing. Luckily, some expert programmers on the 2ch UNIX board reduced the server load of 2channel's Perl scripts by 90% and saved the servers. I know about this because they made a [Flash movie](http://www.geocities.co.jp/Stylish-Monotone/5980/unix.swf) about their heroism and spammed it on [[world2ch]]. Hiroyuki also hired a new administrator named FOX, who is still sysadmin today and is one of 2ch's notorious personalities.
+
+* Densha Otoko, or *Train Man*, is the name of a very popular book which tells the true story of a 2channeler, who is very much like us, who falls in love with a girl who he saved from a drunk on a train. The media somehow got a hold onto the story and a book, TV drama, and movie were made. The 2channelers gave the guy advice on everything and even changed his life for the better. [Here's the translated thread.](http://www.rinji.tv/densha/index.html)
+
+* In 2001, a bunch of 2channel hackers flooded Time Magazine's "Person of the Year" with votes for Masashi Tashiro, a former television personality with a few charges on his criminal record -- notably, videotaping up someone's skirt, peeping in a bath-house. The immense number of requests eventually crashed Time's servers, but they did manage to get Tashiro into the #1 position briefly. It perhaps inspired 4chan users to do the same for [[moot]] 7 years later...
 
 ==Sources==
 * [Shii's article on 2channel](http://shii.org/knows/2channel)
