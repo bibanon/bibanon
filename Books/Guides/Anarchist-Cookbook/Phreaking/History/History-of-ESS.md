@@ -1,13 +1,13 @@
-The History of ESS                     Courtesy of the Jolly Roger
+_Courtesy of the Jolly Roger_
 
-   Of all the new 1960s wonders of telephone technology -
+Of all the new 1960s wonders of telephone technology -
 satellites, ultra modern Traffic Service Positions (TSPS) for
 operators, the picturephone, and so on - the one that gave Bell
 Labs the most trouble, and unexpectedly became the greatest
 development effort in Bell System's history, was the perfection
 of an electronic switching system, or ESS.
 
-   It may be recalled that such a system was the specific end in
+It may be recalled that such a system was the specific end in
 view when the project that had culminated in the invention of the
 transistor had been launched back in the 1930s. After successful
 accomplishment of that planned miracle in 1947-48, further delays
@@ -24,7 +24,7 @@ efficiency. The first service trial will start in Morris, Ill.,
 in 1959." Shortly thereafter, Kappel said that the cost of the
 whole project would probably be $45 million.
 
-   But it gradually became apparent that the developement of a
+But it gradually became apparent that the developement of a
 commercially usable electronic switching system - in effect, a
 computerized telephone exchange - presented vastly greater
 technical problems than had been anticipated, and that,
@@ -54,7 +54,7 @@ and millions of dollars later, on May 30, 1965, the first
 commercial electric centeral office was put into service at
 Succasunna, New Jersey.
 
-   Even at Succasunna, only 200 of the town's 4,300 subscribers
+Even at Succasunna, only 200 of the town's 4,300 subscribers
 initially had the benefit of electronic switching's added speed
 and additional services, such as provision for three party
 conversations and automatic transfer of incoming calls. But after
@@ -66,7 +66,7 @@ Georgia, New York, Florida, and Pennsylvania; by the end of 1970
 there were 120 offices serving 1.8 million customers; and by 1974
 there were 475 offices serving 5.6 million customers.
 
-   The difference between conventional switching and electronic
+The difference between conventional switching and electronic
 switching is the difference between "hardware" and "software"; in
 the former case, maintenence is done on the spot, with
 screwdriver and pliers, while in the case of electronic
@@ -76,7 +76,3 @@ duty at a time at each switching center. The development program,
 when the final figures were added up, was found to have required
 a staggering four thousand man-years of work at Bell Labs and to
 have cost not $45 million but $500 million!
-
-
-
-

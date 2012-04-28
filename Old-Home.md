@@ -45,7 +45,6 @@ Feel like getting in contact with some maintainers? Want to call attention to wh
 
 We have communities here for this sort of thing.
 
-* [Bibliotheca Anonoma Subreddit](http://www.reddit.com/r/bibanon/)
 * IRC Channel - irc://irc.telecomix.org:6667 #bibanon
 
 ## Tour

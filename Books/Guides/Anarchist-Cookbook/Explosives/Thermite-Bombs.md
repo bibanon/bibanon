@@ -1,4 +1,4 @@
-by Jolly Roger
+_by Jolly Roger_
 
 Thermite is nasty shit. Here is a good and easy way to make it. 
 The first step is to get some iron-oxide (which is RUST!). Here is 
@@ -45,4 +45,4 @@ thermite to get into pay phone cash boxes. HAVE FUN!!
 
 See file 219.txt for Thermite IV, the BEST way to make Thermite..
 
-                                                 -= Exodus =-
+-= Exodus =-
