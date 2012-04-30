@@ -1,4 +1,4 @@
-_	Consists of freely editable books and guides with lots of useful information. All books here MUST be nonfiction. Works of fiction go in [[Stories]]._
+_Consists of freely editable books and guides with lots of useful information. All books here MUST be nonfiction. Works of fiction go in [[Stories]]._
 
 (Suggestion: Let's give these books a [[https://en.wikibooks.org|Wikibooks]]-like format)
 
