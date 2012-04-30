@@ -1,23 +1,36 @@
 This page details the complete history of 4chan in the format of a conventional college-level history book.
 
+4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported the funniest memes of their culture into the melting pot of /b/.
+
 ## Help
 
 This page needs to be enhanced, perhaps turned into a book.
 
-## 4chan history
+The [[4chan History Timeline]] is a great source of information, though it thins out near the end of 2007. Cole Stryker's [[Epic Win For Anonymous]] is also awesome, though it comes from an carpetbagger's point of view.
 
-4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported the funniest memes of their culture into the melting pot of /b/.
+_Below is a small plan of the sections we are planning. You're free to change this as needed._
 
-_Below is a small plan of what You're free to change this as needed_
+## Prehistory (1996-2003) 
 
-### Pre Anonymous
+The background of the world that 4chan was started in.
 
-* Prehistory (1996-2003) - The background of the world that 4chan was started in.
-* Genesis (2003-2004) - 4chan is founded in 2003 as an english-language version of Futaba Channel. The site introduces a simpler and freer method of communication that [[Something Awful]] users have always dreamed of. It soon becomes wildly popular as a new home for banned [[ADTRW]] refugees, who in turn spread word across the internet. During this era, the first tenets of 4chan culture are created by ADTRW and 2chan. 4chan links quickly replace Futaba Channel links on ADTRW. Once Lowtax begins to create a Soviet-style police state of arbitrary rules on SA (which cost users their $15 accounts), 4chan quickly rose beyond the tired, old site.
-* Mootxico Era (2004-2006) - In a reactionary move towards the rise of 4chan, [[Lowtax]] begins to create a Soviet-style police state of arbitrary rules on SA (which cost users their $15 accounts). 4chan's free and anonymous posting, lenient moderation, and SA-influenced culture proves to be an appealing alternative, like Colonial America for disinherited Englishmen.
-  * Once Moot grows up to legally visit his own site, (he is 16-18 at this point), he slowly opens up to the 4chan community, earning the term "the Mootxico" era.
-  * 4chan's culture begins to stabilize at this point, as a world of hatred, anonymity, truth in opinion, and trolling. It is an interesting counterexample to the rise of social media occuring at the same time. Some of the original users begin to thin out as they lose interest, but are just as quickly replaced by SA refugees. 4chan becomes a fast changing society beginning to carve out it's own culture and place in the world.
-* Civil War Era (2006) - 4chan's momentous Civil War Era begins with moot's dismissal of moderators [[W.T. Snacks]] and [[Shii]], seen by many anons as a harbringer of impending doom. And doom seemed imminent for all; with exponentially increasing immigration, 4chan's /b/ had begun to experience sharp cultural changes that left long time users bewildered and newfags unassimilated. 
+## Genesis (2003-2004)
+
+> _And Legion said, Let the newfags lurk and learn the way. They shall be Anonymous, and forgive not, and never forget, and raep the weak: and catch the Phish of the sea, and throw shit at the fowl of the air, and lord over every living thing that moveth upon the earth. - [[The Book of Genesis]], [[The Book of Anon]]_
+
+4chan is founded in 2003 as an english-language version of Futaba Channel. The site introduces a simpler and freer method of communication that [[Something Awful]] users have always dreamed of. It soon becomes wildly popular as a new home for banned [[ADTRW]] refugees, who in turn spread word across the internet. During this era, the first tenets of 4chan culture are created by ADTRW and 2chan. 4chan links quickly replace Futaba Channel links on ADTRW. Once Lowtax begins to create a Soviet-style police state of arbitrary rules on SA (which cost users their $15 accounts), 4chan quickly rose beyond the tired, old site.
+
+## Mootxico Era (2004-2006) 
+
+In a reactionary move towards the rise of 4chan, [[Lowtax]] begins to create a Soviet-style police state of arbitrary rules on SA (which cost users their $15 accounts). 4chan's free and anonymous posting, lenient moderation, and SA-influenced culture proves to be an appealing alternative, like Colonial America for disinherited Englishmen.
+
+Once Moot grows up to legally visit his own site, (he is 16-18 at this point), he slowly opens up to the 4chan community, earning the term "the Mootxico" era.
+
+4chan's culture begins to stabilize at this point, as a world of hatred, anonymity, truth in opinion, and trolling. It is an interesting counterexample to the rise of social media occuring at the same time. Some of the original users begin to thin out as they lose interest, but are just as quickly replaced by SA refugees. 4chan becomes a fast changing society beginning to carve out it's own culture and place in the world.
+
+## Civil War Era (2006 - 2007)
+
+4chan's momentous Civil War Era begins with moot's dismissal of moderators [[W.T. Snacks]] and [[Shii]], seen by many anons as a harbringer of impending doom. And doom seemed imminent for all; with exponentially increasing immigration, 4chan's /b/ had begun to experience sharp cultural changes that left long time users bewildered and newfags unassimilated. 
 
 During this era, the (initially) inexperienced 4chan community gets it's first experience with internet warfare in the coalition attack against [[Ebaums World]] for it's plagarism, and later [[Haboo Hotel]]. Raids soon become commonplace on /b/ for the first time. School shooting plans and stadium bombings are posted by 4channers attracted to the sense of anonymity.
 
@@ -26,17 +39,56 @@ The massive increase of threads proportionally increased the rate of thread dele
 4chan's nominal anonymity begins to attract a bunch of colorful groups to 4chan, such as [[Touhou]] fans, guro lovers, pedophiles, and worst of all, [[Furries]].  Most of these groups are given their own boards to keep them out of the other ones, but curiously, Furries have not. A persecution complex causes them to react badly to criticism, and minor distaste evolves into total hatred that threatens to destroy the boards. 
 
 When the 4chan mods begin to impose much tighter rules, a number of /b/tards leave 4chan for dead and abandon en masse. A declaration of independence is made that establishes [[Anonymous]] as a seperate group with it's home anywhere but 4chan. Ironically, during the following Golden Age, their diffusion of 4chan memes around the internet will only solidify it's position as the ultimate center of internet culture.
-  * Raids of this period: [[Habbo Raids]]
-* Golden Age (2006-2008) - Ironically, while preaching the death of 4chan, the diaspora only managed to burn it further into internet culture. Returning SA members take the chanese tradition of Caturday back home, which eventually goes viral as Lolcats. 4chan trolls spread across the internet to cause more rage. Newfags come in expecting a hacker playground, and after the Fox News report on Anonymous, 4chan's /b/ eventually regains a strong raid mentality that the mods have given up stopping. After two years of media hype, 4chan is flooded with immigrants from all parts of the internet, creating a larger ratio of quality content to crap content. This ratio has stayed constant, but the greater amount of crap misleads older users to believe that a cancer has overcome /b/.
-  * Works of this period: [[Damaged Goods]], [[Blindmute Loli]], most of [[Wikichan]] [[copypasta]]
-  * Raids of this period: [[Hal Turner]], etc
-  * Projects of this period: [[Wikichan]], [[LURKMOAR Wiki]], Chanese Colonization of [[Encyclopedia Dramatica]]
 
-### Post Anonymous
+### Raids of this period
 
-* Chanology Era (2008-2009) - Project Chanology took center stage during this period, although it eventually divested itself of 4chan.
-* Boxxy Era (2009-2010) - A period where [[Boxxy]], a young [[Gaia Online]] user, found herself as the primary target of similitaneous adoration and hate from /b/tards on 4chan. 
-* Payback Era (2010-2011) - _shouldn't this be part of [[Anonymous]] history?_ After most anons forgot or gave up on Chanology, they returned to normal business on 4chan, which was still slowly growing in popularity. However, with the chilling news that Aiplex Software was DDoSing torrent sites for the MPAA, [[Anonymous]] came right out of dormancy to start a new age of hacktivism that grew to include [[Wikileaks]] and the [[Arab Spring]]. 4chan finally disowns Anonymous and it's related entities for good, and it is commonly accepted that Anonymous no longer lurks on 4chan.
+* [[Habbo Raids]]
+
+## Golden Age (2006-2007)
+
+The term "Golden Age" does not refer to a lost time of actually funny and original content, or any sense of Victorian elegance, but to a time where 4chan began to become the center of internet, and even popular culture in the same manner as [[2channel]] in Japan. With ever greater growth, the era managed to produce a huge amount of high-quality content in a self-fulfilling cycle. But the same growth produced a proportional amount of reposts, "newfaggotry", and forgettable threads. This title was truly a mixed blessing with no correct generalization.
+
+On November 7, 2006, 4chan was taken down when moot was unable to pay for 4chan's increasing traffic costs. Anons scoured the internet, looking for a worthy candidate to inherit the crown of the hubsite of Anonymous, but to no avail. Each of the other major chans, ([[7chan]], [[12chan]], [[420chan]]) themselves went down due to the sudden surge of traffic, sometimes permanently. The dream of the Civil War Era, of an independent Anonymous, slowly faded once the anons realized that there was no suitable subsitute for 4chan.
+
+Not long before this, increased migration to and from 4chan had pushed it's culture memes into the forefront of internet fame. Something Awful users emulating 4chan's Caturday sparked an observer to create [[I can haz cheezburger]], which began, and later monetized, the meme industry outside of 4chan. On the fledging site [[Youtube]], 4chan users created and popularized Tay Zonday's [[Chocolate Rain]] and an adaptation of the [[Duckroll]] for video, known as the [[Rickroll]]. The Rickroll would later become the most definitive meme of the era. 4chan trolls spread across the internet to cause more rage. Newfags come in expecting a hacker playground, and after the Fox News report on Anonymous, 4chan's /b/ eventually regains a strong raid mentality that the mods have given up stopping. 
+
+But the rise of the meme industry, produced unwanted interest in the site that created it all. The social problems of population growth, mainstream appeal, and problematic subcultures reached it's greatest crescendo in the Golden Age, and it is seen by many anons as 4chan's [[Eternal September]].
+
+### Works of this period
+
+* [[Damaged Goods]]
+* [[Blindmute Loli]]
+* most of [[Wikichan]] [[copypasta]]
+
+### Raids of this period
+
+* [[Hal Turner]]
+
+### Projects of this period
+
+* [[Wikichan]]
+* [[LURKMOAR Wiki]]
+* Colonization of [[Encyclopedia Dramatica]]
+
+## Chanology Era (2008-2009) 
+
+On January 2008, a well-known video of Tom Cruise going crazy on a Scientology training video was censored on Youtube by the Church of [[Scientology]]. A raid thread was immediately posted on 4chan's /b/, detailing the other illegal and immoral acts that the group has pulled off. With near-unanimous support, this thread began a massive operation by [[Anonymous]] to rid the world of the scourge of Scientology once and for all, through DDoS and protest. The coming events came to be known as [[Project Chanology]], resulting in major victories over Scientologists, the use of large IRL protests, and mass media coverage due to these protests.
+
+As time went on, the initial enthusiasm for the raid wore off, and participants of Project Chanology realized that 4chan was not the best place for organized assault. These people temporarily left 4chan for seperate sites, like [[711chan]], various IRC channels, and [[Why We Protest]]. The split established [[Anonymous]] as a powerful force for "hacktivism", independent of 4chan. 
+
+Strong social changes within Chanology after an influx of non-4chan immigrants causes Anonymous to take an unfamiliar face, as a force for good rather than the embodiment of evil.
+
+## Boxxy Era (2009-2010)
+
+By this point in time, Project Chanology has long faded with only a few stalwart holdouts, and the majority of [[Anonymous]] reassimilates into 4chan within a few months.
+
+On January 7, 2009, a year-old video from a strangely tantalizing teenager named [[Boxxy]] came to the full attention of /b/, which in turn incited a major civil war on /b/ between boxxy lovers and boxxy haters. Normal users, tired of both sides, took down the entire site in a major DDoS, forcing mods to ban all boxxy-related posts. Not long after, a group of namefags calling themselves the "Center for Boxxy Control and Restriction" (CBCR) hacked into Boxxy's account and held her IRL information hostage. Their work was undermined by their radical tendencies, and support eventually broke down. The scars of the civil war would not be forgotten for years, and Boxxy has, to this day retained her rightful place as the queen of /b/.
+
+The Boxxy Era is characterized by the rise of [[Reddit]], a major content aggregator that rose to power after the [[Digg]] Revolt. Reddit's mainstream popularity and strong cultural influence from 4chan created a unique relationship between the two, 
+
+## Payback Era (2010-2011)
+
+After most anons forgot or gave up on Chanology, they returned to normal business on 4chan, which was still slowly growing in popularity. However, with the chilling news that Aiplex Software was DDoSing torrent sites for the MPAA, [[Anonymous]] came right out of dormancy to start a new age of hacktivism that grew to include [[Wikileaks]] and the [[Arab Spring]]. 4chan finally disowns Anonymous and it's related entities for good, and it is commonly accepted that Anonymous no longer lurks on 4chan.
 
 ## Prehistory
 
@@ -102,7 +154,7 @@ Some time between 18th April 2001 and 15th May 2001, SA added an anime board cal
 
 Lowtax's later attempts to clean up the board, enforce heavy handed laws, and monetize the site causes a mass migration from the site. A few members of ADTRW started [[Raspberry Heaven]], an IRC channel that serves as the community maintained home of the ADTRW diaspora. 
 
-## Raspberry Heaven
+### Raspberry Heaven
 
 [[Raspberry Heaven]], a DC++ filesharing hub for anime, named for the ending theme to a 2002 series called Azumanga Daioh. Raspberry Heaven was itself a spinoff of SADCHUB, the Something Awful Direct Connect Hub, created to separate the anime from the serious business.
 
@@ -111,7 +163,7 @@ members were regulars. RH discovered [[Futaba Channel]] (2chan.net), a Japanese 
 
 Sooner or later, Raspberry Heaven discovered [[Futaba Channel]] (2chan.net), a Japanese image board, and for a while the channel was full of 2chan image links.
 
-## Genesis
+## Genesis (2003 - 2004)
 
 *Originally written on [Jonathan's Reference Pages](http://www.jonnydigital.com/).*
 

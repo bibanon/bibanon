@@ -325,13 +325,13 @@ On the other hand, the mass migration of the era caused many anons to reenter po
 
 30 - moot announces that more banner ads from AdBrite will be added to 4chan in December due to the fact that donations are no longer possible. As a result of the extra money, 4chan becomes faster after moot uses the money for extra bandwidth capacity.
 
-## Golden Age (December 2006 - )
+## Golden Age (December 2006 - December 2007)
 
 The term "Golden Age" does not refer to a lost time of actually funny and original content, or any sense of Victorian elegance, but to a time where 4chan began to become the center of internet, and even popular culture in the same manner as [[2channel]] in Japan. With ever greater growth, the era managed to produce a huge amount of high-quality content in a self-fulfilling cycle. But the same growth produced a proportional amount of reposts, "newfaggotry", and forgettable threads. This title was truly a mixed blessing with no correct generalization.
 
 On November 7, 2006, 4chan was taken down when moot was unable to pay for 4chan's increasing traffic costs. Anons scoured the internet, looking for a worthy candidate to inherit the crown of the hubsite of Anonymous, but to no avail. Each of the other major chans, ([[7chan]], [[12chan]], [[420chan]]) themselves went down due to the sudden surge of traffic, sometimes permanently. The dream of the Civil War Era, of an independent Anonymous, slowly faded once the anons realized that there was no suitable subsitute for 4chan.
 
-Not long before this, increased migration to and from 4chan had pushed it's culture memes into the forefront of internet fame. Something Awful users emulating 4chan's Caturday sparked an observer to create [[I can haz cheezburger]], which began, and later monetized, the meme industry outside of 4chan. On the fledging site [[Youtube]], 4chan users created and popularized Tay Zonday's [[Chocolate Rain]] and an adaptation of the [[Duckroll]] for video, known as the [[Rickroll]]. The Rickroll would later become the most definitive meme of the era.
+Not long before this, increased migration to and from 4chan had pushed it's culture memes into the forefront of internet fame. Something Awful users emulating 4chan's Caturday sparked an observer to create [[I can haz cheezburger]], which began, and later monetized, the meme industry outside of 4chan. On the fledging site [[Youtube]], 4chan users created and popularized Tay Zonday's [[Chocolate Rain]] and an adaptation of the [[Duckroll]] for video, known as the [[Rickroll]]. The Rickroll would later become the most definitive meme of the era. 4chan trolls spread across the internet to cause more rage. Newfags come in expecting a hacker playground, and after the Fox News report on Anonymous, 4chan's /b/ eventually regains a strong raid mentality that the mods have given up stopping. 
 
 But the rise of the meme industry, produced unwanted interest in the site that created it all. The social problems of population growth, mainstream appeal, and problematic subcultures reached it's greatest crescendo in the Golden Age, and it is seen by many anons as 4chan's [[Eternal September]].
 
@@ -415,9 +415,27 @@ did all of /b/), moot banned the poster, instantly transforming it into a winGET
 
 1 - 4chan celebrates its 4th birthday with the return of the purple and blue party hats to /b/. A good time is had by all.
 
-19 - Some users of Partyvan IRC begin a DDoS attack against 4chan. The attack is relatively successful, with all of the 4chan servers timing out relatively quickly. Originally the attack was just a pointless show of force, but it was quickly decided that it should be used as a leverage point to get #4chan to move from Rizon to Partyvan. A representative of Partyvan joined #4chan and began his long-winded and borg-like demands for a "single anonymous hub", moot responded that "irc is stupid" and he was going to go make soup. This was known (at least to the bantown/encyclopediadramatica crew) as The Caturday Nap.
+19 - Some users of the [[Partyvan Network]] IRC begin a DDoS attack against 4chan. The attack is relatively successful, with all of the 4chan servers timing out relatively quickly. Originally the attack was just a pointless show of force, but it was quickly decided that it should be used as a leverage point to get #4chan to move from [[Rizon]] to Partyvan. A representative of Partyvan joined #4chan and began his long-winded and borg-like demands for a "single anonymous hub", moot responded that "irc is stupid" and he was going to go make soup. This was known (at least to the bantown/[[Encyclopedia Dramatica]] crew) as The Caturday Nap.
 
-## 2008 ##
+## Chanology Era (January 2008 - ) ##
+
+On January 2008, a well-known video of Tom Cruise going crazy on a Scientology training video was censored on Youtube by the Church of [[Scientology]]. A raid thread was immediately posted on 4chan's /b/, detailing the other illegal and immoral acts that the group has pulled off. With near-unanimous support, this thread began a massive operation by [[Anonymous]] to rid the world of the scourge of Scientology once and for all, through DDoS and protest. The coming events came to be known as [[Project Chanology]], resulting in major victories over Scientologists, the use of large IRL protests, and mass media coverage due to these protests.
+
+As time went on, the initial enthusiasm for the raid wore off, and participants of Project Chanology realized that 4chan was not the best place for organized assault. These people temporarily left 4chan for seperate sites, like [[711chan]], various IRC channels, and [[Why We Protest]]. The split established [[Anonymous]] as a powerful force for "hacktivism", independent of 4chan. 
+
+Strong social changes within Chanology after an influx of non-4chan immigrants causes Anonymous to take an unfamiliar face, as a force for good rather than the embodiment of evil.
+
+### Jan08 ###
+
+?? - A thread is posted to 4chan's /b/ about Scientology and it's censorship of a major Tom Cruise recruitment video posted on Youtube. Project Chanology begins.
+
+## Boxxy Era ##
+
+By this point in time, Project Chanology has long faded with only a few stalwart holdouts, and the majority of [[Anonymous]] reassimilates into 4chan within a few months.
+
+On January 7, 2009, a year-old video from a strangely tantalizing teenager named [[Boxxy]] came to the full attention of /b/, which in turn incited a major civil war on /b/ between boxxy lovers and boxxy haters. Normal users, tired of both sides, took down the entire site in a major DDoS, forcing mods to ban all boxxy-related posts. Not long after, a group of namefags calling themselves the "Center for Boxxy Control and Restriction" (CBCR) hacked into Boxxy's account and held her IRL information hostage. Their work was undermined by their radical tendencies, and support eventually broke down. The scars of the civil war would not be forgotten for years, and Boxxy has, to this day retained her rightful place as the queen of /b/.
+
+The Boxxy Era is characterized by the rise of [[Reddit]], a major content aggregator that rose to power after the [[Digg]] Revolt. Reddit's mainstream popularity and strong cultural influence from 4chan created a unique relationship between the two, 
 
 ## 2009 ##
 
@@ -430,7 +448,9 @@ forums. The gamespot community now refers to 4chan as mordor.
 
 **7th**: Party hats returned, for 4chan's 6th birthday.
 
-## 2010 ##
+## Payback Era ##
+
+The Payback Era begins 
 
 ### Feb10 ###
 
@@ -440,9 +460,11 @@ forums. The gamespot community now refers to 4chan as mordor.
 
 ? - Law & Order SUV aired an episode where a guy with the internet nickname "moot" tried to beat cho's high score. This created much outrage. Due to the episode, the Law & Order commercial transition (full black screen with the sound effect DUN DUN) appeared after every time someone posts on 4chan. The only text being the date of the post submission. 
 
+## 2011 ##
+
 ## 2012 ##
 
-## Feb12 ##
+### Feb12 ###
 
 16 - moot re-enables forced_anon and sticky number IDs that follow a poster for 
 24 hours - a forced 

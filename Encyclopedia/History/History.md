@@ -42,7 +42,7 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 
 ### Books
 
-* [[The Peoples History of 4chan]] - A plan to create a better version of 4chan history, created by actual users of the site.
+* [[4chan History]] - Our plan to create a better, textbook version of 4chan history, created by actual users of the site.
 * [[Epic Win for Anonymous]] - Cole Stryker's look at the history and importance of 4chan. He risked life and limb in the attempt to document what few even cared about: The history of 4chan. While he means well, as a meme racketeer and relative newfag, he brings up little other than public knowledge. It's a good read nonetheless.
 
 ## [[Anonymous]]
