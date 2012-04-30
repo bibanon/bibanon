@@ -29,6 +29,13 @@
 
 ## [[Collections]]
 
+* [[Copypasta]]
+* [[Lulz A Corruption of LOL]]
+* [[Essays]]
+* [[Text Art]]
+* [[IRC Quotes]]
+* [[more...|Collections]]
+
 ## Encyclopedia
 
 * [[History]]
