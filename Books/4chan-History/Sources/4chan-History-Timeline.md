@@ -1,6 +1,6 @@
 This entire page was saved from the fall of the second [[Wikichan|site/Wiki#Wikichan]]. It was written by a random redditor, and in a [comment](http://www.reddit.com/r/reddit.com/comments/8fq46/the_worlds_most_influential_person_is/c0951bi) he elaborates on how 4chan developed during a thread where [[moot]] announces his new creation, Canv.as.
 
-It needs lots of work, especially for the Chanology (2008-2009) and Payback (2010-2011) eras. Or maybe we should cut out all the raid history and put it into a timeline for Anonymous... Help out if you can.
+It needs lots of work, especially for the Chanology, Boxxy, and Payback eras.
 
 ## Table of Contents
 
@@ -190,19 +190,11 @@ On the other hand, the long period of downtime served to flesh out many of the o
 
 ### Aug05 ###
 
-August 13 - Shortly after celebrating one year of uptime, 4chan starts its panel at Otakon 2005, the first time ever that /b/tards actually met the real moot, after which moot revealed that "Robert Bopkins" was not only not him, but that Bopkins' name was actually Eric J. Ross and that moot picked the photos at random. Everyone has a really good time and moot hangs out with the other /b/tards who flip out over the fact that they are experiencing mootfaggotry IRL.
+13 - Shortly after celebrating one year of uptime, 4chan starts its panel at Otakon 2005, the first time ever that /b/tards actually met the real moot, after which moot revealed that "Robert Bopkins" was not only not him, but that Bopkins' name was actually Eric J. Ross and that moot picked the photos at random. Everyone has a really good time and moot hangs out with the other /b/tards who flip out over the fact that they are experiencing mootfaggotry IRL.
 
-August 28 - Donate or Die 2005 starts, with moot announcing that he requires $20,000 in donations to purchase three new servers (bin.4chan.org, nov.4chan.org, and a second img.4chan.org). A plethora of camwhores emerged to persuade users to donate, whoring for a just cause. Although they fell short of their goal, $14,000 was raised, which was actually enough to purchase the three servers. Later, on September 15th, moot announces that donations will cease September 30th, and can only be delivered by snail mail.
+28 - Donate or Die 2005 starts, with moot announcing that he requires $20,000 in donations to purchase three new servers (bin.4chan.org, nov.4chan.org, and a second img.4chan.org). A plethora of camwhores emerged to persuade users to donate, whoring for a just cause. Although they fell short of their goal, $14,000 was raised, which was actually enough to purchase the three servers. Later, on September 15th, moot announces that donations will cease September 30th, and can only be delivered by snail mail.
 
-### Oct05 ###
-
-16 - 3M GET on /b/, with a picture of [[Waha]] and [[Pedobear]] and how they would be seen in America. The post linked to itself, prefixed by ">>3000000" and "TIME PARADOX/what a lame GET/Surely you jest!". It was, unfortunately, a tripfag get, posted by Pixel Hotness !Ol2RiO/0Ro. The GET was considered "meh" and was suspected to have been a modGET.
-
-25 - moot announces that "things are looking up" and announces that many new features will be added to 4chan, including the DevBlog. He also begs for people to advertise because he needs money to construct additional pylons.
-
-30 - moot and Snacks have a long fight over IRC as moot takes the site down for a few hours to fix some problems. moot rages against Snacks for being a lazy coder and threatens to take away his server access, and generally being very arrogant towards Snacks. They both go to sleep, and continue in the afternoon the next day for about three hours, until moot tells Snacks that he will remove his server access (along with his moderator powers), which he does shortly afterwards, making him unable to moderate or code. [[W.T. Snacks]] then "leaves" 4chan for good.
-
-## Civil War Era (November 2005 - November 2006)
+## Civil War Era (October 2005 - November 2006)
 
 4chan's momentous Civil War Era begins with moot's dismissal of moderators [[W.T. Snacks]] and [[Shii]], seen by many anons as a harbringer of impending doom. And doom seemed imminent for all; with exponentially increasing immigration, 4chan's /b/ had begun to experience sharp cultural changes that left long time users bewildered and newfags unassimilated. 
 
@@ -213,6 +205,14 @@ The massive increase of threads proportionally increased the rate of thread dele
 4chan's nominal anonymity begins to attract a bunch of colorful groups to 4chan, such as [[Touhou]] fans, guro lovers, pedophiles, and worst of all, [[Furries]].  Most of these groups are given their own boards to keep them out of the other ones, but curiously, Furries have not. A persecution complex causes them to react badly to criticism, and minor distaste evolves into total hatred that threatens to destroy the boards. 
 
 When the 4chan mods begin to impose much tighter rules, a number of /b/tards leave 4chan for dead and abandon en masse. A declaration of independence is made that establishes [[Anonymous]] as a seperate group with it's home anywhere but 4chan. Ironically, during the following Golden Age, their diffusion of 4chan memes around the internet will only solidify it's position as the ultimate center of internet culture.
+
+### Oct05 ###
+
+16 - 3M GET on /b/, with a picture of [[Waha]] and [[Pedobear]] and how they would be seen in America. The post linked to itself, prefixed by ">>3000000" and "TIME PARADOX/what a lame GET/Surely you jest!". It was, unfortunately, a tripfag get, posted by Pixel Hotness !Ol2RiO/0Ro. The GET was considered "meh" and was suspected to have been a modGET.
+
+25 - moot announces that "things are looking up" and announces that many new features will be added to 4chan, including the DevBlog. He also begs for people to advertise because he needs money to construct additional pylons.
+
+30 - moot and Snacks have a long fight over IRC as moot takes the site down for a few hours to fix some problems. moot rages against Snacks for being a lazy coder and threatens to take away his server access, and generally being very arrogant towards Snacks. They both go to sleep, and continue in the afternoon the next day for about three hours, until moot tells Snacks that he will remove his server access (along with his moderator powers), which he does shortly afterwards, making him unable to moderate or code. [[W.T. Snacks]] then "leaves" 4chan for good.
 
 ### Nov05 ###
 
@@ -417,7 +417,7 @@ did all of /b/), moot banned the poster, instantly transforming it into a winGET
 
 19 - Some users of the [[Partyvan Network]] IRC begin a DDoS attack against 4chan. The attack is relatively successful, with all of the 4chan servers timing out relatively quickly. Originally the attack was just a pointless show of force, but it was quickly decided that it should be used as a leverage point to get #4chan to move from [[Rizon]] to Partyvan. A representative of Partyvan joined #4chan and began his long-winded and borg-like demands for a "single anonymous hub", moot responded that "irc is stupid" and he was going to go make soup. This was known (at least to the bantown/[[Encyclopedia Dramatica]] crew) as The Caturday Nap.
 
-## Chanology Era (January 2008 - ) ##
+## Chanology Era (January 2008 - January 2009) ##
 
 On January 2008, a well-known video of Tom Cruise going crazy on a Scientology training video was censored on Youtube by the Church of [[Scientology]]. A raid thread was immediately posted on 4chan's /b/, detailing the other illegal and immoral acts that the group has pulled off. With near-unanimous support, this thread began a massive operation by [[Anonymous]] to rid the world of the scourge of Scientology once and for all, through DDoS and protest. The coming events came to be known as [[Project Chanology]], resulting in major victories over Scientologists, the use of large IRL protests, and mass media coverage due to these protests.
 
@@ -429,7 +429,7 @@ Strong social changes within Chanology after an influx of non-4chan immigrants c
 
 ?? - A thread is posted to 4chan's /b/ about Scientology and it's censorship of a major Tom Cruise recruitment video posted on Youtube. Project Chanology begins.
 
-## Boxxy Era ##
+## Boxxy Era (January 2009 - ) ##
 
 By this point in time, Project Chanology has long faded with only a few stalwart holdouts, and the majority of [[Anonymous]] reassimilates into 4chan within a few months.
 
@@ -448,9 +448,9 @@ forums. The gamespot community now refers to 4chan as mordor.
 
 **7th**: Party hats returned, for 4chan's 6th birthday.
 
-## Payback Era ##
+## Payback Era (2010 - 2011) ##
 
-The Payback Era begins 
+After most anons forgot or gave up on Chanology, they returned to normal business on 4chan, which was still slowly growing in popularity. However, with the chilling news that Aiplex Software was DDoSing torrent sites for the MPAA, [[Anonymous]] came right out of dormancy to start a new age of hacktivism that grew to include [[Wikileaks]] and the [[Arab Spring]]. 4chan finally disowns Anonymous and it's related entities for good, and it is commonly accepted that Anonymous no longer lurks on 4chan.
 
 ### Feb10 ###
 
