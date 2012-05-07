@@ -8,7 +8,7 @@
 
 ## [[Books]]
 
-* [[The Well Cultured Anonymous]]
+* [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
 * [[Anarchist Cookbook]]
 * [[The Big Book of Anonymous Recipes]]
