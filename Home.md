@@ -6,9 +6,13 @@ Why? In the spur of the moment, few have bothered to save the data that made the
 
 You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
 
+## News
+
+> UPDATE 10/19/12: After a long hiatus, we're still alive, and will be back to work yet again! Expect a continuation on the [[Damaged Goods]] remastering project, which will fill in the missing parts of the good ol' story. And perhaps we will migrate to a better wiki engine (though I have found few that has git versioning...)
+
 ## Description
 
-And recent events, like the deletion of [[Encyclopedia Dramatica]], all show that they could disappear, for any reason, and at any time. To prevent such a fate, the Bibliotheca Anonoma has a special feature: The ability to download the entire wiki for offline view, or rehosting, using git for revision control.
+Recent events, like the deletion of [[Encyclopedia Dramatica]], all show that information could disappear, for any reason, and at any time. To prevent such a fate, the Bibliotheca Anonoma has a special feature: The ability to download the entire wiki for offline view, or rehosting, using git for revision control.
 
 ## Contribute
 
