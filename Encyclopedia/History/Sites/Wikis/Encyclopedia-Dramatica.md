@@ -1,4 +1,4 @@
-**Encyclopedia Dramatica** (ED) **is** a wiki encyclopedia with the purpose of archiving all of the lulz and drama of the Internet, much of which /i/ is responsible for. Encyclopedia Dramatica has been both a reliable friend and tool of the Insurgency since /b/day.
+**Encyclopedia Dramatica** (ED) is a wiki encyclopedia with the purpose of archiving all of the lulz and drama of the Internet, much of which /i/ is responsible for. Encyclopedia Dramatica has been both a reliable friend and tool of the Insurgency since /b/day.
 
 For much of its early life it was overshadowed by the other humor-oriented wiki Uncyclopedia, which is arguably complete shit and undeserving of any internets. However, ED soon shifted towards encompassing the *chans and cataloging their memes/drama, and with this content pulled past Uncyclopedia. Nobody really noticed.
 
@@ -14,6 +14,6 @@ In November of 2010, Girlvinyl decided to try to kill off ED and replace it with
 
 ## External Links
 
-*[[ED|http://encyclopediadramatica.ch]] - EDiots have quickly assumed the old domain name and copied the last version of many pages
+*[[ED|http://encyclopediadramatica.se]] - EDiots have quickly assumed the old domain name and copied the last version of many pages
 *[[ED IRC|irc://irc.lulz.net/ed]]
 *[[Internet Relay Cats|http://internetrelaycats.net/wiki/]]
