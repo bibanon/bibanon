@@ -14,7 +14,7 @@ It took LSD and dreamed of being a raspberry flavored three-toed yak.
 
 It liked that better.  As Unix became increasingly attracted to LSD, it would spend weekends reading Hunter Thompson and taking cocktails of [[acid]] and speed while writing crazed poetry in which it found deep meaning but which no one else could understand:
 
-<pre>
+    <pre>
     $sed <$mf >$mf.new -e '1,/^# AUTOMATICALLY/!d'
 
     make shlist || ($echo "Searching for .SH files..."; \
@@ -59,7 +59,7 @@ It liked that better.  As Unix became increasingly attracted to LSD, it would sp
 		/bin/sh $file >> $mf.new
 	done
     fi
-</pre>
+    </pre>
 
 Eventually, Unix began walking down Telegraph Avenue talking to itself, saying "Panic: freeing free inode," over and over again.
 

@@ -1,74 +1,74 @@
-_by the Jolly Roger_
+_by the jolly roger_
 
-     (Originally an Apple ][ file so excuse the upper case!!!)
+     (originally an apple ][ file so excuse the upper case!!! which I converted to lower case)
 
-NOW, ALTHOUGH Mc DONALDS IS FAMOUS FOR IT'S ADVERTISING AND MAKING THE
-WHOLE WORLD THINK THAT THE BIG MAC IS THE BEST THING TO COME ALONG SINCE
-SLICED BREAD (BUNS?), EACH LITTLE RESTAURANT IS AS AMATEUR AND SIMPLE AS
-A NEW-FOUND BUSNESS. NOT ONLY ARE ALL THE EMPLOYEES RATHER INEXPERIENCED
-AT WHAT THEY'RE =SUPPOSED= TO DO, BUT THEY WILL JUST LOOSE ALL CONTROL WHEN
-AN EMERGENCY OCCURS....HERE WE GO!!! FIRST, GET A FEW FRIENDS (4 IS
-GOOD...I'LL GET TO THIS LATER) AND ENTER THE MCDONALDS RESTAURANT, TALKING
-LOUDLY AND REAKING OF SOME STRANGE SMELL THAT AUTOMATICALLY MAKES THE OLD
-COUPLE SITTING BY THE DOOR LEAVE. IF ONE OF THOSE PIMPLY-FACED GOONS IS
-WIPING THE FLOOR, THEN TRACK SOME CRAP ALL OVER IT (YOU COULD PRETEND TO
-SLIP AND BREAK YOUR HEAD, BUT YOU MIGHT ACTUALLY DO SO).
+now, although mc donalds is famous for it's advertising and making the
+whole world think that the big mac is the best thing to come along since
+sliced bread (buns?), each little restaurant is as amateur and simple as
+a new-found busness. not only are all the employees rather inexperienced
+at what they're =supposed= to do, but they will just loose all control when
+an emergency occurs....here we go!!! first, get a few friends (4 is
+good...i'll get to this later) and enter the mcdonalds restaurant, talking
+loudly and reaking of some strange smell that automatically makes the old
+couple sitting by the door leave. if one of those pimply-faced goons is
+wiping the floor, then track some crap all over it (you could pretend to
+slip and break your head, but you might actually do so).
 
-NEXT, BEFORE YOU GET THE FOOD, FIND A TABLE. START YELLING AND RELEASING
-SOME STRANGE BODY ODOR SO =ANYBODY= WOULD LEAVE THEIR TABLE AND WALK OUT
-THE DOOR. SIT 2 FRIENDS THERE, AND GO UP TO THE COUNTER WITH ANOTHER.
-FIND A PLACE WHERE THE LINE IS SHORT, OR IF THE LINE IS LONG SAY "I ONLY
-WANNA BUY A COKE" AND YOU GET MOVED UP. NOW, YOU GET TO DO THE =ORDERING=
-...HEH HEH HEH. SOMEBODY =ALWAYS= MUST WANT A PLAIN
-HAMBURGER WITH ABSOLUTELY NOTHING ON IT (THIS TAKES EXTRA TIME TO MAKE, AND
-DRIVES THE LITTLE HAMBURGER-MAKERS INSANE)..ORDER A 9-PACK OF CHICKEN
-MCNUGGETS...NO, A 20 PACK...NO, THREE 6 PACKS...WAIT...GO BACK TO THE TABLE
-AND ASK WHO WANTS WHAT. YOUR OTHER FRIEND WAITS BY THE COUNTER AND MAKES A
-PASS AT THE FEMALE CLERK. GET BACK TO THE THING AND ORDER THREE 6-PACKS OF
-CHICKEN ETC....NOW SHE SAYS "WHAT KIND OF SAUCE WOULD YOU LIKE?".OF COURSE,
-SAY THAT YOU ALL WANT BARBECUE SAUCE ONE OF YOUR FRIENDS WANTS 2 (ONLY IF
-THERE ARE ONLY 2 CONTAINERS OF BARBECUE SAUCE LEFT).THEN THEY HAFTA GO INTO
-THE STOREROOM AND OPEN UP ANOTHER BOX. FINALLY, THE DRINKS...SOMEBODY WANTS
-COKE, SOMEBODY ROOT BEER, AND SOMEBODY DIET COKE. AFTER THESE ARE DELIVERED,
-BRING THEM BACK AND SAY "I DIDN'T ORDER A DIET COKE! I ORDERED A SPRITE!"
-THIS GETS THEM MAD; BETTER YET, TURN DOWN SOMETHING TERRIBLE THAT NOBODY
-WANTS TO DRINK, SO THEY HAFTA THROW THE DRINK AWAY; THEY CAN'T SELL IT.
+next, before you get the food, find a table. start yelling and releasing
+some strange body odor so =anybody= would leave their table and walk out
+the door. sit 2 friends there, and go up to the counter with another.
+find a place where the line is short, or if the line is long say "i only
+wanna buy a coke" and you get moved up. now, you get to do the =ordering=
+...heh heh heh. somebody =always= must want a plain
+hamburger with absolutely nothing on it (this takes extra time to make, and
+drives the little hamburger-makers insane)..order a 9-pack of chicken
+mcnuggets...no, a 20 pack...no, three 6 packs...wait...go back to the table
+and ask who wants what. your other friend waits by the counter and makes a
+pass at the female clerk. get back to the thing and order three 6-packs of
+chicken etc....now she says "what kind of sauce would you like?".of course,
+say that you all want barbecue sauce one of your friends wants 2 (only if
+there are only 2 containers of barbecue sauce left).then they hafta go into
+the storeroom and open up another box. finally, the drinks...somebody wants
+coke, somebody root beer, and somebody diet coke. after these are delivered,
+bring them back and say "i didn't order a diet coke! i ordered a sprite!"
+this gets them mad; better yet, turn down something terrible that nobody
+wants to drink, so they hafta throw the drink away; they can't sell it.
 
-AFTER ALL THE FOOD(?) IS HANDED TO YOU, YOU MUST =NEVER= HAVE ENOUGH MONEY
-TO PAY. THE CLERK WILL BE SO ANGRY AND CONFUSED THAT SHE'LL LET YA GET
-AWAY WITH IT (ANOTHER INFLUENCE ON HER IS YOUR FRIEND ASKING HER "IF YOU
-LET US GO I'LL GO OUT WITH YOU" AND GIVING HER A FAKE FONE NUMBER).
-NOW, BACK TO YOUR TABLE. BUT FIRST, SOMEBODY LIKES KETCHUP AND MUSTARD.
-AND PLENTY (TOO MUCH) OF NAPKINS. OH, AND SOMEBODY LIKES FORKS AND KNIVES,
-SO ALWAYS END UP BREAKING THE ONES YOU PICK OUTTA THE BOX. HAVE YOUR
-FRIENDS YELL OUT,"YAY!!!!! WE HAVE MUNCHIES!!" AS LOUD AS THEY CAN.
+after all the food(?) is handed to you, you must =never= have enough money
+to pay. the clerk will be so angry and confused that she'll let ya get
+away with it (another influence on her is your friend asking her "if you
+let us go i'll go out with you" and giving her a fake fone number).
+now, back to your table. but first, somebody likes ketchup and mustard.
+and plenty (too much) of napkins. oh, and somebody likes forks and knives,
+so always end up breaking the ones you pick outta the box. have your
+friends yell out,"yay!!!!! we have munchies!!" as loud as they can.
 
-THAT'LL WORRY THE ENTIRE RESTAURANT. PROCEED TO SIT DOWN. SO, YOU ARE
-SITTING IN THE SMOKING SECTION (BY ACCIDENT) EH? WELL, WHILE ONE OF THE
-TOBACCO-BREATHERS ISN'T LOOKING, PUT A SIGN FROM THE OTHER SIDE OF THE
-ROOM SAYING "DO NOT SMOKE HERE" AND HE'LL HAFTA MOVE...THEN HE GOES INTO
-THE REAL NON-SMOKING SECTION, AND GETS YELLED AT. HE THEN THINKS THAT
-NO SMOKING IS ALLOWED IN THE RESTAURANT, SO HE EATS OUTSIDE (IN THE POUR-
-ING RAIN) AFTER YOUR MEAL IS FINISHED (AND QUITE A FEW SPLATTERED-OPENED
-KETCHUP PACKETS ARE ALL OVER YER TABLE), TRY TO LEAVE. BUT OOPS! SOMEBODY
-HAS TO DO HIS DUTY IN THE MEN'S ROOM. AS HE GOES THERE, HE STICKS AN
-UNEATED HAMBURGGR (WOULD YOU DARE TO EAT ONE OF THEIR HAMBURGERS?)
-INSIDE THE TOILET, FLUSHES IT A WHILE,UNTIL IT RUNS ALL OVER THE BATHROOM.
-OOPS! SEND A PIMPLY-FACED TEENAGER TO CLEAN IT UP. (HE WON'T KNOW THAT
-BROWN THING IS A HAMBURGER, AND HE'LL GET SICK. WHEEE!)
+that'll worry the entire restaurant. proceed to sit down. so, you are
+sitting in the smoking section (by accident) eh? well, while one of the
+tobacco-breathers isn't looking, put a sign from the other side of the
+room saying "do not smoke here" and he'll hafta move...then he goes into
+the real non-smoking section, and gets yelled at. he then thinks that
+no smoking is allowed in the restaurant, so he eats outside (in the pour-
+ing rain) after your meal is finished (and quite a few splattered-opened
+ketchup packets are all over yer table), try to leave. but oops! somebody
+has to do his duty in the men's room. as he goes there, he sticks an
+uneated hamburggr (would you dare to eat one of their hamburgers?)
+inside the toilet, flushes it a while,until it runs all over the bathroom.
+oops! send a pimply-faced teenager to clean it up. (he won't know that
+brown thing is a hamburger, and he'll get sick. wheee!)
 
-AS YOU LEAVE THE RESTCURANT, LOOKING BACK AT YOUR UNCLEANED TABLE, SOMEBODY
-MUST REMEMBER THAT THEY LEFT THEIR CHOCOLATE SHAKE THERE! THE ONE THAT'S
-ALMOST FULL!!!! HE TAKES IT THEN SAYS "THIS TASTES LIKE CRAP!", THEN HE
-TAKES OFF THE LID AND THROWS IT INTO THE GARBAGE CAN...OOPS! HE MISSED,
-AND NOW THE SAME POOR SOUL WHO'S CLEANING UP THE BATHROOM NOW HASTA CLEAN
-UP CHOCOLATE SHAKE. THEN LEAVE THE JOINT, REVERSING THE "YES, WE'RE OPEN"
-SIGN (AS A REMINDER OF YER VISIT THERE YOU HAVE IT! YOU HAVE JUST PUT
-ALL OF MCDONALDS INTO COMPLETE MAYHEM. AND SINCE THERE IS NO PENALTY FOR
-LITTERING IN A RESTAURANT, BUGGING PEOPLE IN A PUBLIC EATERY (OR
-THROW-UPERY, IN THIS CASE) YOU GET OFF SCOT-FREE. WASN'T THAT FUN?
+as you leave the restcurant, looking back at your uncleaned table, somebody
+must remember that they left their chocolate shake there! the one that's
+almost full!!!! he takes it then says "this tastes like crap!", then he
+takes off the lid and throws it into the garbage can...oops! he missed,
+and now the same poor soul who's cleaning up the bathroom now hasta clean
+up chocolate shake. then leave the joint, reversing the "yes, we're open"
+sign (as a reminder of yer visit there you have it! you have just put
+all of mcdonalds into complete mayhem. and since there is no penalty for
+littering in a restaurant, bugging people in a public eatery (or
+throw-upery, in this case) you get off scot-free. wasn't that fun?
 
-                                --------------Exodus-------------
+                                --------------exodus-------------
 
 
 

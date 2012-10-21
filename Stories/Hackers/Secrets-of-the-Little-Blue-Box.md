@@ -1533,10 +1533,10 @@ I'll have telephones in my hands all day long."
 me.  "Well, I think they're going to be very sorry about what they did to Joe
 and what they're trying to do to us."
 
-            (an excellent story presented here by Jolly Roger.
-             Taken from the Official Hacker's Guide. Originally
-             seen by myself in some book and I cannot remember
-             the name of it.)
+(an excellent story presented here by Jolly Roger.
+Taken from the Official Hacker's Guide. Originally
+seen by myself in some book and I cannot remember
+the name of it.)
 
 
 
