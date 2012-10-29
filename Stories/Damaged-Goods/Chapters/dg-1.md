@@ -1,4 +1,4 @@
-(For great justice, this chapter has been restored to it's original state with replies and all using a once-lost html dump of the original thread. Thanks, Sarafan!)
+(This chapter has been restored to it's original state with replies and all using a once-lost html dump of the original thread. Thanks, Sarafan!)
 
 ## Part 1 (December 16th)  ##
 
@@ -6,13 +6,15 @@
 
 /b/, I need your advice on something, since you're probably the ones most qualified to give it.
 I'm a nurse-orderly at a nursing home, been there for a year so far, I work the night shift on the west wing. It's not that tough, since most of the residents are so old and medicated that they sleep the night away, only rarely dying or stroking out or getting up to eat their own poop or something. I usually wind up playing with my DS or reading at the nurse's station for the full four hours I'm on watch alone, from 1 to 5.
+
 However, a new patient arrived a month ago, which got my attention. A seven year old girl that was in a car crash that killed her parents, and took her legs, right arm, and right eye. As a ward of the state, and so messed up by all the trauma mentally that no foster parents would touch her, she got sent here when she got out of the hospital. God, she's so cute, she's half-japanese, but has blonde hair, and the rest of her body that didn't get cut away is just perfect, she used to be a gymnast, it seems. I've had to answer her call button several times so far, when she's had to use the restroom in the middle of the night, which meant carrying her from her bed to the toilet, then holding her as she used it, and she always looks away from me when she did so, blushing a little bit.
 
-> _The part of the post below is a running joke on /b/, namely, that whenever you see a little kid you should rape him or her. The reason Nurse-kun posted this is because he thought at the time that nothing would come of this thread, and he was only posting it to amuse the other website visitors. He actually wasn't being serious in this paragraph. However, it did make some people worried and will be discussed endlessly in future chapters._
+> _The part of the post below is a running joke on /b/, namely, that whenever you see a little kid you should rape him or her. The reason Nurse-kun posted this is because he thought, as an inexperienced lurker, he had to "fit in" with the fucked-up attitude on 4chan. However, something about it rubbed anons the wrong way (which was very uncharacteristic), and spammers will haunt him in future chapters._
 >
-> _Please understand that we're not going to "clean up" this story for your entertainment. You should take this for what it is: he saw a little girl at his unrewarding, difficult job, but felt it would be too risky to try to help her out in her painful situation, so instead he decided to come home and mouth off to other anonymous Internet users._
+> _In reality, he wasn't being serious, and there's actually a pretty charming story under these horrible words. But we can't clean this story up much further or retcon events for your entertainment. You should take this for what it is: he saw a little girl at his unrewarding, difficult job, but felt it would be too risky to try to help her out in her painful situation, so instead he decided to come home and vent about it to other anonymous Internet users._
 
-Anyway, my question: Should I stick it in her pooper (among other things)? I mean, she isn't going to be able to resist, and I can go in there when she's asleep, then cover up her good eye and mouth before she even knows I'm there, with all the drugs she's on. She's so messed up mentally that she probably wouldn't tell anyone, considering she's barely talked to all the shrinks they've had her seeing since the accident. I'm a pretty gentle guy, and there's plenty of lube around here (obviously), and it'd be pretty easy to clean her up afterward, too.
+Anyway, my question: Should I stick it in her pooper (among other things)? I mean, she isn't going to be able to resist, and I can go in there when she's asleep, then cover up her good eye and mouth before she even knows I'm there, with all the drugs she's on. She's so messed up mentally that she probably wouldn't tell anyone, consideri she's barely talked to all the shrinks they've had her seeing since the accident. I'm a pretty gentle guy, and there's plenty of lube around here (obviously), and it'd be pretty easy to clean her up afterward, too.
+
 Anyway, what do you think, /b/? Picture somewhat related.
 
 ## AMA
@@ -39,6 +41,7 @@ IF 1 and 2 appeal to you, then you have no other valid reason why except that yo
 > _Damnit, now I'm wishing I had a half-japanese amputee to cuddle with._
 
 Well, she already has a bit of a reputation around here as a trouble patient, since she can become really aggressive when she gets frustrated. So she isn't so popular with the rest of the staff, and since she's so young, there's a lot more reluctance to show any 'inappropriate' affection toward her than, say, to some 90 year old that thinks Hitler's invading Paris every time she wakes up.
+
 The main problem is that she's asleep most of the time I have her alone. What should I do?
 
 ### 17396426 (OP) ###
@@ -58,6 +61,7 @@ I'll try. But they do random searches on our bags since a new policy was enacted
 > _Bullshit. good story, but no-one ever sends an orphan to a nursing home, and if she has to go, they use fucking bedpans._
 
 Uh, yeah...they keep orphans with extreme medical and physical care needs in all the orphanages, the ones on every street corner. The ones with qualified nurses and doctors to manage their constant care. And they totally just toss the one-armed girl a bedpan, and cut the cord on the call button.
+
 Don't try and tell me how the system works, asshole, I'm part of the system, and it doesn't fucking work at all.
 
 ### 17396289 ### 
@@ -98,9 +102,9 @@ The toy thing might be true though.
 
 Lets all think of things someone with one arm and one eye can enjoy.
 
-Teddy bears
-Books
-Movies
+Teddy bears  
+Books  
+Movies  
 
 That's all I can come up with, I'm sure Anon has some better suggestions.
 
@@ -117,17 +121,18 @@ What kind of affection are you alowed to show? This seems pretty stupid to me, I
 > _She sounds like a smart girl, so if you talk to her like an adult and tell her that you can lose your job if anybody finds out how nice you've been/will be to her, she should comply. I mean, if she does start to like you, she should want want you to stay around, right?_
 
 I've considered that, too. I mean, she's actually REALLY smart, like, she was in a school for the gifted before the accident, and her mother was a child psychologist, so they gave her a lot more freedom and choice than the average kid would get. And she was pretty gifted athletically, too, which just makes the whole thing all the more tragic.
+
 Of course, she's also pretty broken now...extremely withdrawn, rare she says three words the whole day; at the same time, she lashes out at anyone that tries to get too close. She actually bit a psych intern who was trying some play therapy with her in the hospital hard enough to draw blood, before she was transferred here. The real problem is, if I were to try and form a bond with her, honestly, I'm afraid she'd do something to get me in trouble just to try and make me leave her alone, even if she really wants some affection.
 
 This would be a lot easier if she was less traumatized.
 
 ### 17397936 ###
 
-FUCKING BEFRIEND HER fucker
-UPDATE A BLOG ABOUT IT
-and I SWEAR I WILL MAKE A MANGA OUT OF IT
-it's true, im a doujinshi-drawing weeaaboohoo.
-and this story is GOLD drama material
+FUCKING BEFRIEND HER fucker  
+UPDATE A BLOG ABOUT IT  
+and I SWEAR I WILL MAKE A MANGA OUT OF IT  
+it's true, im a doujinshi-drawing weeaaboohoo.  
+and this story is GOLD drama material  
 
 just think about it;
 
@@ -141,7 +146,7 @@ My personal suggestion? Music and books. There are plenty of devices that can he
 
 ### 17398173 ###
 
-HELO /B/
+HELO /B/  
 I WOULD LIKE TO SAY YOU ALL TURNED INTO FUCKING GAIA WUSSES AND FAILURES. PLEASE, EVERYONE WHO SAID "PLZ DONT RAEP LOLI NO LEIK REAP", GB2 /GAIA/
 
 ### 17398333 (OP) ###
@@ -155,7 +160,9 @@ you know, the main reason I would have not to post pictures is that she's a pret
 > _Just curious, but does she have stumps? Any possibility of her getting at least prosthetic legs?_
 
 Actually, she gets bussed to a rehab facility at the hospital almost every day, where she's learning to use prosthetic legs, and an arm. It's like it's the one thing she actually cares about anymore, I hear the staff there are amazed at the progress she's making.
+
 It makes sense, though, because she really hates her wheelchair...the first time I answered one of her calls at night, I'd wheeled it out to put her in it, since that's standard procedure, but she asked me not to use it, so I carried her, instead. I guess that's the first time I thought about her in an illegal manner, really.
+
 Anyway, she wears the prosthetic arm during the day, but I'm not around then, so I've never actually seen her using it. I have seen it in her room, though; it's a nice model, probably the best in the whole facility. I guess her parents had a pretty responsible life insurance policy, so she doesn't have to deal with substandard prosthetics, at least...has a nice prosthetic eye, too, looks just like her real one, as much as a fake one can, anyway. Of course, the scarring over her eye kind of helps give it away.
 
 ### 17399199 (OP) ###
@@ -205,7 +212,9 @@ this is why we can't have nice things
 > _<3 bikko, but i think the spam has scared off the op. nice going, idiots._
 
 No, I'm still here, I was just grabbing something from the kitchen. Cute attempt at internet dramas with the flooding, though. And *I'm* the cancer that is killing /b/? Nigra, please.
+
 And for the record, I had actually thought about the red prosthetic eye thing myself once, embarassed as I am to admit it. I'm not that big a Rozen Fag, though.
+
 (Though, she will have some delicious prosjoints...)
 
 ### 17402096 ###
@@ -240,6 +249,7 @@ Oh come on, I and OP are going to be happy together.
 > _Can a half japanese chick even HAVE blonde hair and green eyes?!_
 
 Sure they can. I mean, I've seen one myself (you know, in her room). Apparently, her father was almost stereotypically scandanavian, bright blonde hair, blue eyes, six foot+, etc. She's still got pretty clearly Japanese-y features, mostly (luckily, of the cute kind, not the 'oh god, i see why the men raped nanking' kind), but most of her coloration is equally pretty clearly from his side of the family. Her skin is somewhere in between a pale japanese and a pale (rather than goldish) fjordish.
+
 Frankly, I'd say she won the genetic lottery, too bad about the non-predetermined alterations.
 
 ### 17402966 ###
@@ -257,7 +267,9 @@ Wouldn't want to damage the one with all the amputatiuons and mental problems, I
 > So OP, have you already determined your course of action?
 
 Ok, OP here: I won't be poopering her in the foreseeable future. I mean, when /b/ can come down at least in the slight minority against doing a barrel roll into a loli, it clearly isn't the right course of action, though I guess I did know that already.
+
 I really wish I could get you guys a recording of her voice. She doesn't have an accent, because she was born and raised here in America, and her mother (the Japanese half) comes from a long line of Japanese-Americans (who disowned her, I guess, when she married Mr. Swedish Meatball, because loli's relatives/contact information is nonexistent, just social workers), but her voice...well, it's just the most beautiful thing I'd ever heard, when she first spoke to me (about the wheelchair).
+
 Even as flat and brusque as it was, it was like hearing an angel whisper hymns, and I still get goosebumps every time I've heard it since. I can't wait for tonight...I think I should bring her something else, maybe a tiny little keychain sized stuffed doll or something, or maybe a little wristband...any other ideas, guys?
 
 ### 17403890 ###
@@ -273,7 +285,9 @@ She's also biting orderlies and speaking less than three words a day. And it was
 ### 17403984 (OP) ###
 
 Um, I have to admit, she didn't seem to get at all distressed until she may have possibly noticed me looking down there, which I quickly stopped doing, just before I caught her looking away as well, out of my peripheral vision.
+
 I was being pretty unprofessional, it's true, since I'd never had any inclination to look at any other of my patients taking a piss before, but then, half of my patients before her were in depends, and the other half, well, I prayed for their merciful deaths every time.
+
 She's not a robot, or animuishly designed to be the perfect cold-hearted Rei-clone. She's a real girl.
 
 ### 17404192 ###
@@ -285,6 +299,7 @@ cos loli haet pizza
 ### 17404193 (OP) ###
 
 I'll bring it up at next week's meeting...perhaps a possibility of allowing individual gifts, with the potential that it could improve morale with the rest of the patients to grandparent her a bit (well, the non-racists, anyway).
+
 This is just for tonight. Babysteps...
 
 ### 17406275 ###
