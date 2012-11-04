@@ -18,14 +18,14 @@ As the [[Encyclopedia Dramatica]] states:
 
 == Backups ==
 
-An XML and Image dump was made in 12/21/11 by the [http://github.com/bibanon/bibanon/wiki Bibliotheca Anonoma] while it was importing pages from Partyvan.info. This includes all pages, from User pages to Templates and Categories. It's only 50.5 megabytes, so have a lookie.
+An XML and Image dump was made in 12/21/11 by the [http://github.com/bibanon/bibanon/wiki Bibliotheca Anonoma] while it was importing pages from Partyvan.info. This includes all pages and their histories, from User pages to Templates and Categories. It's only 50.5 megabytes.
 
-* http://www.mediafire.com/?2shvlot1dt13l4u
+* [http://www.mediafire.com/?2shvlot1dt13l4u]
 
 == Git Repo ==
 
 The XML was split using Levitation to create a Git-revisioned repository with the history of all the pages on it.
 
-* http://github.com/bibanon/Insurgency-Wiki/
+* [http://github.com/bibanon/Insurgency-Wiki/]
 
 [[Category:Wikis]]
