@@ -79,6 +79,9 @@ A list can be found [http://archive.easymodo.net/ here].
 ** /vg/
 ** /wsg/
 
+*suptg.thisisnotatrueending.com
+** /tg/
+
 *archive.installgentoo.net
 ** /diy/
 ** /g/
