@@ -14,6 +14,7 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 * [[Tramp Anon]] - A touching and famous story about an anon who is thrown out of the house as a youngster, homeless in a cold and hungry world. He faces tremendous pain and struggle in a vicious cycle of poverty, relying only on his will to survive. An immigrant girl decides to cut him some slack when no one else would, and bring him back to a normal life.
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 * [[Pools Closed Novel]] - WTF is this? A mess of memes created as a copypasta by anons on /b/.
+* [[The Bridgekeeper]] - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
 
 ## [[Something Awful]]
 
