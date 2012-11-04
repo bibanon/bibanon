@@ -111,3 +111,7 @@ A list can be found [http://archive.easymodo.net/ here].
 ** /r9k/
 ** /toy/
 ** /x/
+
+* http://archive.nyafuu.org/
+** /c/
+** /w/
