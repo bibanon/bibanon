@@ -1,3 +1,7 @@
+comes from [here](http://learningjapanesewithanonymous.blogspot.com/2011/07/introduction.html)
+
+We need to contact the original author to continue this guide...
+
 ## Introduction 自己紹介
 
 Hello, my name is Anonymous and I have been studying Japanese for 1 year.  A few months ago I was giving some advice to a friend and decided to write a guide.  I hope you read it and tell me what you think.  The language is rude, no I won't change it.
