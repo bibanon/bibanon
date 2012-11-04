@@ -64,7 +64,7 @@ A Fuuka archiver for 4chan's /tg/.
 
 === List of Fuuka Archivers by board ===
 
-(incomplete)
+A list can be found [http://archive.easymodo.net/ here].
 
 * /a/
 ** foolz.us
