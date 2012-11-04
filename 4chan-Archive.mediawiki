@@ -99,3 +99,12 @@ A list can be found [http://archive.easymodo.net/ here].
 ** /lit/
 ** /q/
 ** /tg/
+
+*archive.heinessen.com
+** /an/
+** /fit/
+** /k/
+** /mlp/
+** /r9k/
+** /toy/
+** /x/
