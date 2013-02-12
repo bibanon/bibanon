@@ -1,4 +1,10 @@
-"Cool Story Bro" is the name of a famous story posted to /r9k/ on January 27, 2012, posted by Dan (who confusingly)
+"Cool Story Bro" is the name of a famous story posted to /r9k/ on January 27, 2012, posted by an anon named Daniel (who confusingly named himself [[Uncle Anon]], unrelated to the original).
+
+Dan's tripcode is `UncleAnon !!JcDj4Fv3Vfi`.
+
+Because Dan was not skilled in the art of breaking up paragraphs or the use of periods, the story gets to be difficult to follow, excessively wordy and hard to read. 
+
+We have broken up the text and added periods, but have edited nothing else.
 
 ## Original Run
 
@@ -7,3 +13,13 @@ There were two threads posted to /r9k/, `12296527` on January 27, 2012, and a co
 ## Chapters
 
 * [[]]
+
+## Alternative Storylines
+
+Before Dan made a tripcode, a few ghostwriters submitted troll posts to screw with their fellow anons, but some of them ended becoming interesting fanfiction in their own right.
+
+* [[CSB Alternate Storylines]]
+
+## Sources
+
+* [1230654 Mid Thread Pastebin](http://pastebin.com/CxhZHLVj)
