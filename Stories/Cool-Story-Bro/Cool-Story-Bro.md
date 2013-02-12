@@ -12,14 +12,12 @@ There were two threads posted to /r9k/, `12296527` on January 27, 2012, and a co
 
 ## Chapters
 
-* [[]]
+* [[Thread 1]] (/r9k/12296527)
+* [1230654 Mid Thread Pastebin](http://pastebin.com/CxhZHLVj)
+* [[Thread 2]] (/r9k/1243804)
 
 ## Alternative Storylines
 
 Before Dan made a tripcode, a few ghostwriters submitted troll posts to screw with their fellow anons, but some of them ended becoming interesting fanfiction in their own right.
 
 * [[CSB Alternate Storylines]]
-
-## Sources
-
-* [1230654 Mid Thread Pastebin](http://pastebin.com/CxhZHLVj)
