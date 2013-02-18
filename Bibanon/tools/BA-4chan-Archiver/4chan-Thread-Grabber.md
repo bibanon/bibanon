@@ -1,5 +1,13 @@
 With the introduction of 4chan's JSON API, archiving threads has never been easier!
 
+## How to archive threads by hand
+
+If you're on Linux, See "Getting Prettified JSON". This will give you the raw thread in JSON format, which can then be transformed into other things. 
+
+Hopefully, we will be able to convert previously saved html into the new JSON format.
+
+*[Adevore's 4chan Archiver](https://github.com/adevore/4chan-archiver) offers the best solution, using BeautifulSoup to save threads and images. Just install `python3-bs4` on debian/ubuntu. It, however, is now a roundabout solution with the advent of the 4chan API.
+
 ## Automatic archiver
 
 If Fuuka is too big for you, here is a smaller chan-archiver made in PHP:
@@ -9,12 +17,6 @@ https://github.com/emoose/chan-archiver/
 Here is a python wrapper for the 4chan API:
 
 https://github.com/e000/py-4chan
-
-## How to archive threads by hand
-
-If you're on Linux, See "Getting Prettified JSON". This will give you the raw thread in JSON format, which can then be transformed into other things. 
-
-Hopefully, we will be able to convert previously saved html into the new JSON format.
 
 ### Saving images
 
