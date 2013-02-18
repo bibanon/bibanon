@@ -23,7 +23,8 @@ The [[4chan History Timeline]] is a great source of information, though it thins
 * [[Boxxy Era|4chan Boxxy Era]] _(Jan 2009 - )_ - By this time, Anonymous has largely reassimilated into 4chan, falling dormant until the next crisis. A new queen of /b/ arises, causing a second civil war that nearly brings 4chan to it's knees. The rise of [[Reddit]] fosters an uneasy, but symbiotic cultural relationship between the two similar, yet different sites. 
 * [[Payback Era|4chan Payback Era]] _(2010-2011)_ - Anonymous gets right back in action in Operation Payback when Aiplex Software was found to have DDoSed torrent sites under orders of the MPAA. While they succeed in destroying the company, the [[Wikileaks]] scandal greatly lengthens the operation, and the [[Arab Spring]] forces perpetual mobilization. Anonymous has become a force to be reckoned with, but it's former home 4chan, suspicious of their new face, motives, and organization, has long since disowned them.
   * At this point, [[Anonymous]]'s history permanently divests itself of 4chan history, and it is treated as an independent community. It continues on [[Anonymous History]].
-* [[Modern Era|4chan Modern Era]] _(2011 -)_ History is still happening, and it's up to you to archive it for future generations to come. As stuff happens, put it on this page.
+* [[Pony Era]] _(2011 -)_ The pony apocalypse affects 4chan, leading to the creation of the pony board.
+* [[Modernization Era]] (2012 -)The 4chan image boards undergo a massive code redesign, leader to a better 4chan overall, and the addition of mobile versions of the site for phones and tablets.
 
 ## Contributors
 
