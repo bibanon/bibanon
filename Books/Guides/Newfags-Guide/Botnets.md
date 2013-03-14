@@ -1,4 +1,3 @@
-
 # How to Make a Botnet  #
 
 The information on this page is provided for educational purposes only. The actual practices this page describes are illegal in most countries, and will violate most hosts' terms of service. If you actually intend to do any of these things, you should probably set up your own server, retain a good lawyer, and buy some anal lube for when you get sent to prison. Anonymous who ever the fuck is hosting this wiki, and the article authors are not responsible for your own stupidity.
@@ -29,6 +28,7 @@ About the anal lube part only and a good lawyer is pure bullshit because if you 
 # Uploading #
 
 Ok, now you know what you need, and what you should have, lets get to the real business ; - )
+
       1. Create a folder.
       2. Copy index.php, online.php, update.php, update.txt.
       3. Paste it to the folder that you made.
