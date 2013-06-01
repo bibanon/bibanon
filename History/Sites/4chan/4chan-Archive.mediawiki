@@ -64,7 +64,13 @@ A Fuuka archiver for 4chan's /tg/.
 
 === List of Fuuka Archivers by board ===
 
-A list can be found [http://archive.easymodo.net/ here].
+An incomplete list can be found [http://archive.easymodo.net/ here].
+
+[http://archive.4plebs.org 4plebs.org]
+** /hr/
+** /tg/
+** /tv/
+** /x/
 
 *[http://archive.foolz.us Foolz.us]
 ** /a/
@@ -75,33 +81,24 @@ A list can be found [http://archive.easymodo.net/ here].
 ** /q/
 ** /sp/
 ** /tv/
-** /v/
-** /vg/
+** /vr/
 ** /wsg/
 
-*[http://suptg.thisisnotatrueending.com Suptg.thisisnotatrueending.com]
-** /tg/
-
-*[http://archive.installgentoo.net Installgentoo.net]
-** /diy/
-** /g/
-** /sci/
-
-*[http://archive.rebeccablacktech.com Rebeccablacktech.com]
-** /cgl/
-** /g/
-** /mu/
-** /soc/
-** /w/
-
-*[http://fuuka.warosu.org Warosu.org]
-** /cgl/
-** /ck/
-** /jp/
-** /lit/
-** /lit/
-** /q/
-** /tg/
+*[http://archive.foolzashit.com foolzashit.com]
+** /adv/
+** /asp/
+** /cm/
+** /e/
+** /i/
+** /lgbt/
+** /n/
+** /o/
+** /p/
+** /s/
+** /s4s/
+** /t/
+** /trv/
+** /y/
 
 *[http://archive.heinessen.com heinessen.com]
 ** /an/
@@ -112,6 +109,50 @@ A list can be found [http://archive.easymodo.net/ here].
 ** /toy/
 ** /x/
 
+*[http://archive.installgentoo.net Installgentoo.net]
+** /diy/
+** /g/
+** /sci/
+
 * [http://archive.nyafuu.org nyafuu.org]
 ** /c/
 ** /w/
+** /wg/
+
+*[http://archive.rebeccablacktech.com Rebeccablacktech.com]
+** /cgl/
+** /g/
+** /mu/
+** /soc/
+** /w/
+
+*[http://archive.thedarkcave.org thedarkcave.org]
+** /c/
+** /int/
+** /out/
+** /po/
+
+*[http://fuuka.warosu.org Warosu.org]
+** /3/
+** /cgl/
+** /ck/
+** /fa/
+** /ic/
+** /jp/
+** /lit/
+** /lit/
+** /q/
+** /s4s/
+** /tg/
+** /vr/
+
+*[http://loveisover.me loveisover.me]
+** /v/
+** /h/
+** /d/
+
+*[http://nth.pensivenonsen.se pensivenonsen.se]
+** /vg/
+
+*[http://suptg.thisisnotatrueending.com Suptg.thisisnotatrueending.com]
+** /tg/
