@@ -68,7 +68,7 @@ A Fuuka archiver for 4chan's /tg/.
 
 An incomplete list can be found [http://archive.easymodo.net/ here].
 
-[http://archive.4plebs.org 4plebs.org]
+*[http://archive.4plebs.org 4plebs.org]
 ** /hr/
 ** /tg/
 ** /tv/
