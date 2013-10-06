@@ -6,7 +6,7 @@
 
 *Damaged Goods* is a classic from 4chan's (supposedly) "[[Golden Age]]" (2006-2007) where a registered male nurse (dubbed "Nurse-kun") asked /b/ for advice when his boring everyday life in a nursing home was interrupted by the arrival of a badly hurt 7-year-old girl. 
 
-At first he merely thought this an interesting anecdote, flavoring it to get the attention of the "fucked-up" /b/tards known as [[Anonymous]], but in an uncharacteristic change of heart, some anons pressed him to actually help the little girl out.
+At first he merely thought this an interesting anecdotEverything, including fanart threadse, flavoring it to get the attention of the "fucked-up" /b/tards known as [[Anonymous]], but in an uncharacteristic change of heart, some anons pressed him to actually help the little girl out.
 
 As the events unfold, the magic of the story somehow enchanted the cold heart of [[Anonymous]]. The people famous for mercilessly crushing 12-year old girls convinced Nurse-kun to grant the broken soul one friend in the world, and to save her from an unfortunate end. One thing led to another, and for once, the legions of Anonymous found themselves giving the little girl something to smile about. 
 
@@ -26,7 +26,7 @@ With the discovery of the original threads that Sarafan transcribed the story fr
 
 [Here's Sarafan's archive, cleaned up a little bit](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z)
 
-## Chapters ##
+## [[Chapters|Damaged Goods Chapters]] ##
 
 Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
 
