@@ -20,9 +20,11 @@ The threads were documented in real time on [[Wikichan]], where it was dubbed "D
 
 ## Remastering Project
 
-The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve, which we saved 2 days before Megaupload's infamous takedown. [Sarafan still remembers](http://www.mediafire.com/?9fu3d4v06vgr26n)
+The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve, which we saved 2 days before Megaupload's infamous takedown.
 
 With the discovery of the original threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to. These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.
+
+[Here's Sarafan's archive, cleaned up a little bit](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z)
 
 ## Chapters ##
 
@@ -85,7 +87,8 @@ All pictures have now been discovered in their original resolution from Sarafan'
 
 These are direct html files of the original threads as they looked like on 4chan, as posted to [[Wikichan]]. All of these would have been lost due to Rapidshare's deletion policy, if not for a previously undiscovered upload that [[Sarafan]] made. We used these to add Anonymous's replies to Nurse-kun threads, as the ones on Wikichan and Shii's site only contained the story.
 
-* <s>[Everything, including fanart threads](http://www.megaupload.com/?d=14WN2BDI)</s> Baleeted again due to [[Megaupload]] raid. Why? I will find it and reupload it.
+* [Everything, including fanart threads](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z)
+* [Sarafan still remembers](http://www.mediafire.com/?9fu3d4v06vgr26n) This is the original archive that helped us so much. It's a bit messy though, so use the one above.
 
 ## Sources
 
