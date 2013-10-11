@@ -21,3 +21,5 @@ Some of the stories archived, and also saved here, are:
 * [[The Great Scam]]
 
 It's a small, but very interesting collection.
+
+As of 2013, Shii has deleted/disabled the wiki. A partial(?) archive can be found here: <http://archive.is/shii.org>
