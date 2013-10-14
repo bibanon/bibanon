@@ -4,7 +4,7 @@ Shii is an important individual in the field of English-language anonymous forum
 
 > *As of 2013, Shii has deleted/disabled his wiki. A partial(?) archive can be found here: <http://archive.is/shii.org>*
 
-Shii's wiki, called "Everything Shii Knows", is one of the first major personal wikis in existence. It was created in his disgust with the decisions Wikipedia had to make in a choice between editing anarchy and bureaucratic uselessness. He suggested that people should instead make their own personal wikis, which could then be synced together; an idea we adopted when basing the Bibliotheca Anonoma on a git-based wiki.
+Shii's wiki, called ["Everything Shii Knows"](http://shii.org/knows/), was one of the first major personal wikis in existence. It was created in his disgust with the decisions Wikipedia had to make in a choice between editing anarchy and bureaucratic uselessness. He suggested that people should instead make their own personal wikis, which could then be synced together; an idea we adopted when basing the Bibliotheca Anonoma on a git-based wiki.
 
 Shii collected all the random stuff he wrote, and some important stories he archived from [[Wikichan]] on this personal wiki. His wiki was a direct inspiration for the work of the Bibliotheca Anonoma, and was the only surviving reference to Wikichan, another important inspiration.
 
