@@ -6,6 +6,11 @@ To prevent such a fate, the Bibliotheca Anonoma has a special feature: The abili
 
 You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
 
+## Current Projects
+
+* [Tasha's Brother](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg) - Story has finished, needs to have an article made.
+* [Lily](https://docs.google.com/document/d/1cVUM5mJUVobVvmvflrWU_G0YOORaXAE1cxK9OhHlhfE/preview) - An ongoing story that is still being monitored. Help add links, archives, and pastebins to that google doc.
+
 ## Contribute
 
 We need your help and contribution to succeed.
