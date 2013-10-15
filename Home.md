@@ -1,4 +1,4 @@
-The **[[Bibliotheca Anonoma]]** is a Git [[Gollum]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens [[even while offline|Clone this Wiki]].
+The **[[Bibliotheca Anonoma]]** is a Git [[Gollum]]-based wiki designed to collect and safeguard the most important and interesting data from the internet, as well as make the best of it readable and accessible for netizens even while offline.
 
 We aspire to create a task force that will create a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. Why? In the spur of the moment, few have bothered to save the data that made the internet worth fighting for in the first place. Such data is notoriously fragile while on the changing landscape of the internet. History is made, but quickly forgotten, and people's stories are told once and never revisited again. 
 
