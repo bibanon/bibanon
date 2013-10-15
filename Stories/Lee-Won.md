@@ -116,26 +116,26 @@ Before I can yell for help, Lee rushes over to her and headbutts the guy in the 
 
 A few hours later after all three of us are hanging out in the van, the other three people in our band show up and we're ready to go home. While Lee drove us back to my house to rest, I couldn't shake the feeling that Lauren was looking at me.
 
-    Okay, friends went home already, so I can continue. Let's see, after the Valentines Night Dance, we all said we would take a few days to settle our heads before practicing again. Me and Lee Won were at my house, doing some homework when my cell began to ring. It was Lauren.
+Okay, friends went home already, so I can continue. Let's see, after the Valentines Night Dance, we all said we would take a few days to settle our heads before practicing again. Me and Lee Won were at my house, doing some homework when my cell began to ring. It was Lauren.
 
-    I pick up, trying not to sound surprised and excited, wanting to pick out the perfect words. When I started to stutter and sound idiotic, Lee Won picked up his pen, wrote some lines on a paper and held them up to me so that I could sound like I knew what I was doing.
+I pick up, trying not to sound surprised and excited, wanting to pick out the perfect words. When I started to stutter and sound idiotic, Lee Won picked up his pen, wrote some lines on a paper and held them up to me so that I could sound like I knew what I was doing.
 
-    Lauren wanted to thank me for being a great help, and she says that her family is proud of her for doing something productive instead of sitting around the house all day. She questioned me to see if me and her could meet later on that night at a local book store, and I couldn't contain my happiness. I told her I would be there in an hour, and I hung up.
+Lauren wanted to thank me for being a great help, and she says that her family is proud of her for doing something productive instead of sitting around the house all day. She questioned me to see if me and her could meet later on that night at a local book store, and I couldn't contain my happiness. I told her I would be there in an hour, and I hung up.
 
-    Lee Won gave me a pounding of the fist and asked if I had ever been on a date before. Seeing as I was twenty, it was weird telling him that I had actually never been out with a girl alone before. He told me that he hadn't either, and he was 19-years-old. I was shocked, knowing how great the guy was, but he then added in that his Mom thought women in America were demons and would rape him.
+Lee Won gave me a pounding of the fist and asked if I had ever been on a date before. Seeing as I was twenty, it was weird telling him that I had actually never been out with a girl alone before. He told me that he hadn't either, and he was 19-years-old. I was shocked, knowing how great the guy was, but he then added in that his Mom thought women in America were demons and would rape him.
 
-    I laughed, and Lee said that he didn't like it. He felt like an outsider when most of his friends talked about trying to get girls back in high school, and he knew that if he asked out a girl that his Mom would beat his head in. His Dad, on the other hand, wanted Lee to fuck every girl he saw, but his Mom wore the pants in his family, so Lee Won was out of luck.
+I laughed, and Lee said that he didn't like it. He felt like an outsider when most of his friends talked about trying to get girls back in high school, and he knew that if he asked out a girl that his Mom would beat his head in. His Dad, on the other hand, wanted Lee to fuck every girl he saw, but his Mom wore the pants in his family, so Lee Won was out of luck.
 
-    I told Lee that he could sleep here tonight with my Mother not caring who stayed. She was out for the night, anyway, probably having sex with her new Italian boyfriend named Rodrigo or some shit like that.
+I told Lee that he could sleep here tonight with my Mother not caring who stayed. She was out for the night, anyway, probably having sex with her new Italian boyfriend named Rodrigo or some shit like that.
 
 
-    I tried to find the nicest clothes I had that didn't smell terrible, but the only things I could find were a plain black shirt that said 'HAPPY DOG' with a brown cartoon dog smiling on the front and jeans that were to small for me. I had no time, so I forced myself into the jeans and put on the stupid shirt.
+I tried to find the nicest clothes I had that didn't smell terrible, but the only things I could find were a plain black shirt that said 'HAPPY DOG' with a brown cartoon dog smiling on the front and jeans that were to small for me. I had no time, so I forced myself into the jeans and put on the stupid shirt.
 
-    Lee told me to have a great time and to get Lauren. He added that I was a good guy, and he knew that Lauren liked me the same way I liked her. I don't know why, but I gave him a hug, and while the silence broke in, I ran out of the room without looking back.
+Lee told me to have a great time and to get Lauren. He added that I was a good guy, and he knew that Lauren liked me the same way I liked her. I don't know why, but I gave him a hug, and while the silence broke in, I ran out of the room without looking back.
 
-    She was at the book store when I got her, and she was sitting down at the counter where they served coffee. I asked her what she was reading, and she told me it was just the newspaper from the school we performed at. They called us the 'College Dropout Robots 9000' for some fucking reason, probably Lucas, but it also said that we were an upcoming band, so that felt nice; even though that piece of writing was probably from some 14-year-old kid that didn't even listen to us.
+She was at the book store when I got her, and she was sitting down at the counter where they served coffee. I asked her what she was reading, and she told me it was just the newspaper from the school we performed at. They called us the 'College Dropout Robots 9000' for some fucking reason, probably Lucas, but it also said that we were an upcoming band, so that felt nice; even though that piece of writing was probably from some 14-year-old kid that didn't even listen to us.
 
-    We started talking about how much fun it has been to have so many people around, and she thanked me again for being always there for me. She looked me in the eye, smiled, and gave me a gigantic hug. I melted in my seat, and if I died right there, it would have been fucking awesome. My first intimate hug from a girl that wasn't part of my family, and it was soft, warm, and her body smelled like strawberries without the sweat this time. The last time she hugged me was different. This time it meant something.
+We started talking about how much fun it has been to have so many people around, and she thanked me again for being always there for me. She looked me in the eye, smiled, and gave me a gigantic hug. I melted in my seat, and if I died right there, it would have been fucking awesome. My first intimate hug from a girl that wasn't part of my family, and it was soft, warm, and her body smelled like strawberries without the sweat this time. The last time she hugged me was different. This time it meant something.
 
 "You're like a big brother to me."
 
@@ -439,56 +439,59 @@ When me, Lucas, and Chelsea got out of the car to spend another night at my hous
 
 I sighed, knowing that this wasn't going to end nicely.
 
+----
+
 Sorry, I hate using a tripcode, so I'm just posting under it now so you know it's me.
 
+That night was spent with me, Lucas, and Chelsea along with my Mom and some 30-something-year-old guy that I never met before. He was nice, but the rest of us got into my room before my Mom made us play scrabble with them. The only good thing about my Mother sleeping around and usually being drunk was that she didn't care if I had a girl sleep in my room...or in my bed...Really, I could be having sex in front of my Mom, and she would probably pat my head and say I was doing a good job.
 
+Chelsea told me how much of a gentleman Aaron was and how cute he looked in his clothes. I asked her what about her 60-year-old boyfriend, and she told me they broke up ages ago. Said that he was too old for her, and he wasn't fun after the first few trips on his boat.
 
+Lucas was afraid for Lee Won, thinking he might do something stupid after what happened. I asked how the fight started, and Chelsea said that his sister and Takeshi were making out in the parking lot. Lauren and Lee Won were talking on the steps, and Lee Won saw what was going on. He went crazy, attacked Takeshi, and the two started fighting. That's when Lucas got me and everything else happened.
 
-    That night was spent with me, Lucas, and Chelsea along with my Mom and some 30-something-year-old guy that I never met before. He was nice, but the rest of us got into my room before my Mom made us play scrabble with them. The only good thing about my Mother sleeping around and usually being drunk was that she didn't care if I had a girl sleep in my room...or in my bed...Really, I could be having sex in front of my Mom, and she would probably pat my head and say I was doing a good job.
+Lucas added he might not want Lauren there, but Chelsea started laughing like crazy. I didn't know why she was laughing so much, but she explained that Lee Won was in love with Lauren. Lucas asked how she knew this, and she said that Lee Won told her ages ago. The only reason he never did anything was because of his parents and knowing that I also liked her.
 
-    Chelsea told me how much of a gentleman Aaron was and how cute he looked in his clothes. I asked her what about her 60-year-old boyfriend, and she told me they broke up ages ago. Said that he was too old for her, and he wasn't fun after the first few trips on his boat.
-
-    Lucas was afraid for Lee Won, thinking he might do something stupid after what happened. I asked how the fight started, and Chelsea said that his sister and Takeshi were making out in the parking lot. Lauren and Lee Won were talking on the steps, and Lee Won saw what was going on. He went crazy, attacked Takeshi, and the two started fighting. That's when Lucas got me and everything else happened.
-
-    Lucas added he might not want Lauren there, but Chelsea started laughing like crazy. I didn't know why she was laughing so much, but she explained that Lee Won was in love with Lauren. Lucas asked how she knew this, and she said that Lee Won told her ages ago. The only reason he never did anything was because of his parents and knowing that I also liked her.
+---
 
 >>	Anonymous 03/30/09(Mon)01:37:31 No.3692285
 
-    I didn't know how to respond to this as I always kinda guessed that Lee Won liked her as well. I kept quiet throughout most of the discussion until Lucas started to bring up how he wanted to bang Charlotte. He didn't just stop at her, but he started rating and ranting about every girl he has met since the band started.
+I didn't know how to respond to this as I always kinda guessed that Lee Won liked her as well. I kept quiet throughout most of the discussion until Lucas started to bring up how he wanted to bang Charlotte. He didn't just stop at her, but he started rating and ranting about every girl he has met since the band started.
 
-    He started with Lauren, who he gave a B+. He said she had nice tits and a great face, but her ass lacked. Gave my Mom and Lee's Mom a B, Bae Lee an A -, and finally gave Charlotte an A+. Chelsea commented on how he thought me and her already had a thing, but Lucas interrupted and already asked Charlotte that. She said that me and her had nothing going on at the moment, and we were just old friends.
+He started with Lauren, who he gave a B+. He said she had nice tits and a great face, but her ass lacked. Gave my Mom and Lee's Mom a B, Bae Lee an A -, and finally gave Charlotte an A+. Chelsea commented on how he thought me and her already had a thing, but Lucas interrupted and already asked Charlotte that. She said that me and her had nothing going on at the moment, and we were just old friends.
 
-    He asked me if it would be okay if he asked her out, and I told him he could do whatever he wanted. He did a pumping fist and swore to the heavens that if she said yes, that he would fuck her at the mightiest speed he could dream of. This was the cue for Chelsea to flip him off and take my bed for the night. Lucas slept in his chair, and I slept on the floor with an extra pillow and blanket.
+He asked me if it would be okay if he asked her out, and I told him he could do whatever he wanted. He did a pumping fist and swore to the heavens that if she said yes, that he would fuck her at the mightiest speed he could dream of. This was the cue for Chelsea to flip him off and take my bed for the night. Lucas slept in his chair, and I slept on the floor with an extra pillow and blanket.
 
-    My phone rang an hour or two after I fell asleep, and it was Lee Won. When we started talking, he didn't sound the usual carefree self that he usually was when we talked. He was serious, to the point, and didn't have any real pep in his tone. I asked what was wrong, and he told me that he needed my permission.
+My phone rang an hour or two after I fell asleep, and it was Lee Won. When we started talking, he didn't sound the usual carefree self that he usually was when we talked. He was serious, to the point, and didn't have any real pep in his tone. I asked what was wrong, and he told me that he needed my permission.
 
 >>	Anonymous 03/30/09(Mon)01:38:11 No.3692294
 
-    He told me Lauren was in the back of the van and that the two of them were in the middle of nowhere. He told me that he really liked her, and he wanted to know if he could have my permission to do stuff with her.
+He told me Lauren was in the back of the van and that the two of them were in the middle of nowhere. He told me that he really liked her, and he wanted to know if he could have my permission to do stuff with her.
 
-    For the few first seconds, I wanted to scream into the phone, tell him to fuck off, get away from her, and then die, but I couldn't do that. It was obvious now that he liked her the same way I did. He didn't want Tony gone because of the things he saw in the van. He wanted him gone the same reason I wanted him gone. It all made sense.
+For the few first seconds, I wanted to scream into the phone, tell him to fuck off, get away from her, and then die, but I couldn't do that. It was obvious now that he liked her the same way I did. He didn't want Tony gone because of the things he saw in the van. He wanted him gone the same reason I wanted him gone. It all made sense.
 
-    "Sure," I said, whispering into the phone. "I'm really okay with it."
+"Sure," I said, whispering into the phone. "I'm really okay with it."
 
-    "Thanks, Leon. You really are my best friend. I love you."
+"Thanks, Leon. You really are my best friend. I love you."
 
-    Then he hung up. It was really weird, but I guess that is what happens after you hang out with a guy nonstop for almost two to three months straight. Still, I couldn't shake the image of Lee Won and Lauren having sex, so I went to the kitchen to get some cereal.
+Then he hung up. It was really weird, but I guess that is what happens after you hang out with a guy nonstop for almost two to three months straight. Still, I couldn't shake the image of Lee Won and Lauren having sex, so I went to the kitchen to get some cereal.
 
-    I flipped through my phone, looking at the numbers I had, and I decided to call Charlotte. I was wondering what happened to her group after they left, so I was hoping she was up.
+I flipped through my phone, looking at the numbers I had, and I decided to call Charlotte. I was wondering what happened to her group after they left, so I was hoping she was up.
 
 >>	Anonymous 03/30/09(Mon)01:38:48 No.3692303
 
-    She answered, sounding happy that was me, and told me that everyone was fine. She was in her dorm at the girl academy, and Takeshi was steaming mad at being attacked by Lee Won. I wanted to know how Lee Won's sister felt, and Charlotte said that she was fine and sided with Takeshi on the issue. It was her decision to who she wanted to be with, so her brother could stay out of it.
+She answered, sounding happy that was me, and told me that everyone was fine. She was in her dorm at the girl academy, and Takeshi was steaming mad at being attacked by Lee Won. I wanted to know how Lee Won's sister felt, and Charlotte said that she was fine and sided with Takeshi on the issue. It was her decision to who she wanted to be with, so her brother could stay out of it.
 
-    Getting fed up with all of the shit that I went through tonight, I asked if she wanted to come to my house tomorrow and jam a little with our guitars. She agreed to meet me at 4:00 PM, gave her address to my house, and we were all set. She told me she had to get to bed before the floor advisers caught her, and she wished me a good night.
+Getting fed up with all of the shit that I went through tonight, I asked if she wanted to come to my house tomorrow and jam a little with our guitars. She agreed to meet me at 4:00 PM, gave her address to my house, and we were all set. She told me she had to get to bed before the floor advisers caught her, and she wished me a good night.
 
-    I went back into my room, wanting to catch a few hours before school, and I walked in on a wide awake Lucas who was, uh, having fun in my absence while looking at the sleeping Chelsea.
+I went back into my room, wanting to catch a few hours before school, and I walked in on a wide awake Lucas who was, uh, having fun in my absence while looking at the sleeping Chelsea.
 
-    He freaked out, falling out of his chair with his pants half down, and Chelsea woke up from all the commotion. She asked what the hell was going on, and Lucas said that he was sleep walking. She sighed, turned her back to us, and went back to sleep.
+He freaked out, falling out of his chair with his pants half down, and Chelsea woke up from all the commotion. She asked what the hell was going on, and Lucas said that he was sleep walking. She sighed, turned her back to us, and went back to sleep.
 
-    I looked at Lucas on the floor, shaking my head, and told him I would be sleeping downstairs tonight. I walked out of the room, him begging for help to get back on his wheelchair, but I ignored him, needing dire sleep and the images of my best friend having sex with Lauren, Lee Won's sister making out with Takeshi, and now Lucas masturbating to a sleeping Chelsea.
+I looked at Lucas on the floor, shaking my head, and told him I would be sleeping downstairs tonight. I walked out of the room, him begging for help to get back on his wheelchair, but I ignored him, needing dire sleep and the images of my best friend having sex with Lauren, Lee Won's sister making out with Takeshi, and now Lucas masturbating to a sleeping Chelsea.
 
-    Fuck, I have weird friends.
+Fuck, I have weird friends.
+
+----
 
 //Then the thread 404'd. I do not know if this is the complete text.
 

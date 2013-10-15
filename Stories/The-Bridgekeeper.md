@@ -12,15 +12,15 @@ When I was younger, my mother told me that I was a mistake.
 
 I am beginning to think that that was true and that this is all her fault.
 
-I’m the illegitimate son of accident prone degenerates. I was born a mess- bloody and smelly and slimy and with a face not even my mother could love. These days, I’m slightly less bloody.
+I'm the illegitimate son of accident prone degenerates. I was born a mess- bloody and smelly and slimy and with a face not even my mother could love. These days, I'm slightly less bloody.
 
-I live in a small town on the west coast of Florida. I live right on the beach, but it‘s a developed beach. It caters to tourists. Cheap motels and run down restaurants and shops that sell sun tan lotion and bathing suits line the road as far as the eye can see. There’s an endless sea of faces- red, sunburned faces. People come and people go but no one is ever dumb enough to stay.
+I live in a small town on the west coast of Florida. I live right on the beach, but it's a developed beach. It caters to tourists. Cheap motels and run down restaurants and shops that sell sun tan lotion and bathing suits line the road as far as the eye can see. There's an endless sea of faces- red, sunburned faces. People come and people go but no one is ever dumb enough to stay.
 
 Except for me, of course.
 
 I work on a bridge. I sit in a tiny booth all day with no air conditioning, the sun hanging high in the air and beating at me through the window pane. The air is so thick with humidity that it slaps my face and calls me rotten names. I sit in this tiny booth all day every day and I wait for a boat to come. When one does, I pull a lever. Rails come down and the bridge comes up and the boat passes by. Then I pull another lever and the rails go up and the bridge comes down and the cars continue their monotonous journeys. They could train a monkey to do this job. My boss sometimes laughs at me and says that they already have.
 
-A few years ago some kids were riding their bikes down the bridge. The rails came down and the bridge went up and all of the cars stopped and spewed their vomit into the air as they chugged in place. One of these kids got off of his bike and crept under the rail and leaned against the bridge that was in its upright position. It was also my job to stop this sort of thing from happening, but I wasn’t much in the mood. Kids will be kids, my Grandpa used to say, until they grow up or die. What’s the difference, he’d add in.
+A few years ago some kids were riding their bikes down the bridge. The rails came down and the bridge went up and all of the cars stopped and spewed their vomit into the air as they chugged in place. One of these kids got off of his bike and crept under the rail and leaned against the bridge that was in its upright position. It was also my job to stop this sort of thing from happening, but I wasn't much in the mood. Kids will be kids, my Grandpa used to say, until they grow up or die. What's the difference, he'd add in.
 
 ### 39652319 (OP)
 
@@ -30,11 +30,11 @@ When the bridge was low enough, the daredevil of the group made his move. He sta
 
 Kind of.
 
-He skull collided with the edge of the other side with a nasty cracking sound that I can still remember hearing, even through the glass panes of my booth. And then the boy’s body fell like a sack of potatoes and there was a splash. And his friends were quiet as ghosts. The rails went up but the cars went no where. People got out to looking at the blue monster below, to say things like “oh my god how horrible” and “what happened” and “that poor boy.”
+He skull collided with the edge of the other side with a nasty cracking sound that I can still remember hearing, even through the glass panes of my booth. And then the boy's body fell like a sack of potatoes and there was a splash. And his friends were quiet as ghosts. The rails went up but the cars went no where. People got out to looking at the blue monster below, to say things like “oh my god how horrible"" and “what happened"" and “that poor boy.""
 
 A few hours later his body was found and his lungs were full of water. It was all over the news, maybe you heard about it.
 
-It was all kind of my fault, but no one really blames me. I don’t even blame myself. I blame my mother. She’s the one that caused all of this.
+It was all kind of my fault, but no one really blames me. I don't even blame myself. I blame my mother. She's the one that caused all of this.
 
 ### 39652560 (OP)
 
@@ -196,66 +196,66 @@ His name was Dorian.
 
 I can remember, very distinctly actually, running out of breath. It was a very sudden feeling and a very powerful force. I had been running at full speed for a very long time, at least a mile, powered completely by adrenaline. Then, suddenly, my lungs just collapsed and my legs were quick to follow and I can remember skidding across the asphalt and bloodying up my palms. My chest slammed against the pavement time and time again as my lungs struggled to fill with air as fast as they possibly could. My head was pounding and everything started spinning around me, dancing and taunting me, fading in and out of focus. Everything pulsated.
 
-I felt like I was drowning and I thought that I was going to die. That would have made things so much simpler. Life is like a party that you host, but death is like going to a very fancy party of someone else’s. When you leave, there’s no mess to clean up. That’s someone else’s job.
+I felt like I was drowning and I thought that I was going to die. That would have made things so much simpler. Life is like a party that you host, but death is like going to a very fancy party of someone else's. When you leave, there's no mess to clean up. That's someone else's job.
 
-I laid there, tracing that line between life and death, for hours. I didn’t really think about anything in particular. It still hadn’t occurred to me that I had nowhere to go now. A boy should always have somewhere to go. I just remained there, completely still aside from the fierce thumping of my chest, and even that faded away soon enough.
+I laid there, tracing that line between life and death, for hours. I didn't really think about anything in particular. It still hadn't occurred to me that I had nowhere to go now. A boy should always have somewhere to go. I just remained there, completely still aside from the fierce thumping of my chest, and even that faded away soon enough.
 
-Then I felt the warmth of headlights on the back of my neck and I felt the ground vibrate beneath the roar of an oncoming car. I made no effort to move. I really wanted that car to run me over, to crush me. To pollinate the fiber of my being for miles as my blood slowly rolled off of its tires. I remained completely still, hoping that the driver wasn’t paying attention. 
+Then I felt the warmth of headlights on the back of my neck and I felt the ground vibrate beneath the roar of an oncoming car. I made no effort to move. I really wanted that car to run me over, to crush me. To pollinate the fiber of my being for miles as my blood slowly rolled off of its tires. I remained completely still, hoping that the driver wasn't paying attention. 
 
 ### 39656591 (OP)
 
-But he was and he crawled to a stop a good yard or two away from me. I heard a car door open and then I heard it slam shut and then I heard a quick series of footsteps. I could feel him hovering over me, examining me. I began to get worried because he hadn’t said anything and it had been nearly a minute. He didn’t check to see if I was ok or if I was even alive. I started to think that he was going to take my body and stuff me in a freezer somewhere. Serve me between two buns at some shitty roadside diner.
+But he was and he crawled to a stop a good yard or two away from me. I heard a car door open and then I heard it slam shut and then I heard a quick series of footsteps. I could feel him hovering over me, examining me. I began to get worried because he hadn't said anything and it had been nearly a minute. He didn't check to see if I was ok or if I was even alive. I started to think that he was going to take my body and stuff me in a freezer somewhere. Serve me between two buns at some shitty roadside diner.
 
 I probably would have made a tasty burger. I probably would have given someone food poisoning though. I was a pretty rotten person, all puns aside.
 
-“Holy shit,” he finally said. I wasn’t sure what I should do. He asked me if I was ok. People can really ask dumb questions when they are under stress. He flipped me over with his shoe and I blinked up at him with a blank expression. I laid there for a few seconds and he studied me before I brought myself up to a sitting position.
+“Holy shit,"" he finally said. I wasn't sure what I should do. He asked me if I was ok. People can really ask dumb questions when they are under stress. He flipped me over with his shoe and I blinked up at him with a blank expression. I laid there for a few seconds and he studied me before I brought myself up to a sitting position.
 
 ### .39656682 (OP)
 
 He asked me what the hell had happened to me and I told him that a lot of things had happened to me. He asked me if I needed to see a doctor and I told him that my palms were just scraped up and that it was nothing serious. He was a pleasant guy. I noticed him staring at my missing finger and I told him that one time I got a little too excited cooking dinner. He asked me if I needed a ride and I was really in no position to refuse. He told me that his name was John.
 
-The inside of his car was very cramped. I can’t remember what kind of car he drove, but I can remember it being very cramped. And I can remember that he had the A.M. radio playing. Those are the people that you need to watch out for, the pleasant guys that listen to the A.M. radio.
+The inside of his car was very cramped. I can't remember what kind of car he drove, but I can remember it being very cramped. And I can remember that he had the A.M. radio playing. Those are the people that you need to watch out for, the pleasant guys that listen to the A.M. radio.
 
-We drove for a few minutes before he asked me where I lived. I told him that I didn’t have a home and he said that everybody has a home and I told him not me. He asked me where I planned on going and I told him that I really hadn’t had enough time for any planning and that anywhere he was going would work out evenly for me. We were in Daloniga, Georgia and he told me that he was heading to Memphis. I told him that Memphis would be great.
+We drove for a few minutes before he asked me where I lived. I told him that I didn't have a home and he said that everybody has a home and I told him not me. He asked me where I planned on going and I told him that I really hadn't had enough time for any planning and that anywhere he was going would work out evenly for me. We were in Daloniga, Georgia and he told me that he was heading to Memphis. I told him that Memphis would be great.
 
 Rarely does life work out like that.
 
 ### 39656780 (OP)
 
-He said that he had to pick someone else up along the way, that he was going on vacation with this person in Memphis. I told him that it would be fine. What else was I going to say? It’s not like the idea of another person bothered me, anyway.
+He said that he had to pick someone else up along the way, that he was going on vacation with this person in Memphis. I told him that it would be fine. What else was I going to say? It's not like the idea of another person bothered me, anyway.
 
-About fifty miles later, we stopped at a hotel for the night. He told me that he was very tired from the driving and that he had left from Miami. He called someone on the payphone, his wife I think. He said something about the flight being nice and the weather being “rainy as usual here in Seattle.” Then he said something about thinking that the meeting might be postponed so he would be back later than expected. Then I noticed that he had a thin line of pale skin on his ring finger. The next day after about thirty miles we picked up the person that he had told me about.
+About fifty miles later, we stopped at a hotel for the night. He told me that he was very tired from the driving and that he had left from Miami. He called someone on the payphone, his wife I think. He said something about the flight being nice and the weather being “rainy as usual here in Seattle."" Then he said something about thinking that the meeting might be postponed so he would be back later than expected. Then I noticed that he had a thin line of pale skin on his ring finger. The next day after about thirty miles we picked up the person that he had told me about.
 
 His name was Richard and he was very friendly with John.
 
-When we got into Memphis I told them that this was a fine place for me and they dropped me off. I had never been to Tennessee before. I wasn’t sure how I was going to find my Uncle’s house but I knew that at this point it was really my only option.
+When we got into Memphis I told them that this was a fine place for me and they dropped me off. I had never been to Tennessee before. I wasn't sure how I was going to find my Uncle's house but I knew that at this point it was really my only option.
 
 ### 39657597 (OP)
 
-I have a tattoo on my left wrist. It says commotio cordis. It’s nothing fancy, it just says those words. They are latin words, by the way.
+I have a tattoo on my left wrist. It says commotio cordis. It's nothing fancy, it just says those words. They are latin words, by the way.
 
-I slept on the streets of Memphis which was really about as glamorous as it sounds. I tried to get an Irish Coffee from this bar that was nearby, the Blue Monkey. I wasn’t old enough, but more importantly, I didn’t look old enough either. I think I got a little drunk on the fumes of the place though. The air was very heavy in there, thick and full.
+I slept on the streets of Memphis which was really about as glamorous as it sounds. I tried to get an Irish Coffee from this bar that was nearby, the Blue Monkey. I wasn't old enough, but more importantly, I didn't look old enough either. I think I got a little drunk on the fumes of the place though. The air was very heavy in there, thick and full.
 
-When I woke up the next day I started my search. With enough money and enough determination you can find anyone. I was working with half of the necessary materials. I found him though, eventually. But that’s not important, really. Even if it is, it’s another story for another time.
+When I woke up the next day I started my search. With enough money and enough determination you can find anyone. I was working with half of the necessary materials. I found him though, eventually. But that's not important, really. Even if it is, it's another story for another time.
 
 My uncle is a swell guy. It is important to distinguish between the pleasant guys and the swell guys. The pleasant guys are the ones that you have to watch out for. The swell guys are the guys that watch out for you. He greeted me with open arms and he made me feel at home. His name was Robert Staudsworth.
 
 He had a beautiful wife and her name was Jenny. She died a few years before I showed up at his door step. It was a car accident. A drunk driver. Suicide with an extra unintended victim, most likely. There were pictures of her everyone and she looked very beautiful. He had a son, too. His name was Derrick.
 
-Like I said, Robert was a swell guy. But he had skeletons in his closet. Everyone has skeletons, it’s just that some people hide them better than others. But that’s not important, not right now anyway. For now, let’s just assume that those skeletons are alive and well and fat.
+Like I said, Robert was a swell guy. But he had skeletons in his closet. Everyone has skeletons, it's just that some people hide them better than others. But that's not important, not right now anyway. For now, let's just assume that those skeletons are alive and well and fat.
 
 ### 39657836 (OP)
 
-Derrick was 7. If you asked him though, he would tell you that he was 7 and three quarters. He was a good kid, a swell kid really. There was a macaroni picture on the fridge that he made. He played baseball for a small little league team. He was pretty good, too. Better than all of the other kids. But they all played just to get the snow cone afterwards, so that really isn’t saying much.
+Derrick was 7. If you asked him though, he would tell you that he was 7 and three quarters. He was a good kid, a swell kid really. There was a macaroni picture on the fridge that he made. He played baseball for a small little league team. He was pretty good, too. Better than all of the other kids. But they all played just to get the snow cone afterwards, so that really isn't saying much.
 
 
-Robert took me to Derrick’s game a few days after I got there. It was a nice day out and for the first time in my life I felt relatively peaceful.
+Robert took me to Derrick's game a few days after I got there. It was a nice day out and for the first time in my life I felt relatively peaceful.
 
 Commotio cordis.
 
 ### 39657889 (OP)
 
-This one kid made a diving catch in the outfield and everyone clapped enthusiastically and his parents jumped to their feet and cheered. I think it was more of an accident than anything else, though. Derrick played third base. There aren’t really many plays made at third base in little league.
+This one kid made a diving catch in the outfield and everyone clapped enthusiastically and his parents jumped to their feet and cheered. I think it was more of an accident than anything else, though. Derrick played third base. There aren't really many plays made at third base in little league.
 
 In little league they only play three innings. It was the bottom of the third and there were two outs. There was a boy on first and derrick was up and his team was down by 1. But there was still no pressure because most of the kids were totally oblivious to the score. The parents were very nervous though.
 
@@ -269,17 +269,17 @@ Some boy in the outfield whined about it being very hot.
 
 Pitch three: strike.
 
-A man next to me sat with his fists clenched together very tightly and he didn’t make a sound. I think that he was the pitchers father.
+A man next to me sat with his fists clenched together very tightly and he didn't make a sound. I think that he was the pitchers father.
 
 ### 39658149 (OP)
 
 Pitch four.
 
-Let me tell you a bit about commotio cordis. Commotio cordis is a rather rare medical anomaly. It translates almost directly to commotion of the heart. Commotio cordis is what happens when the heart’s electrical activity is interfered with which causes an arrhythmia. Even when treated immediately it is still almost always fatal. It occurs when there is impact to the precordial region at a very precise time. A blow to the chest that knocks the heart off beat, really. Any type of projectile can prompt it. It is a very rare occurrence, it almost never happens.
+Let me tell you a bit about commotio cordis. Commotio cordis is a rather rare medical anomaly. It translates almost directly to commotion of the heart. Commotio cordis is what happens when the heart's electrical activity is interfered with which causes an arrhythmia. Even when treated immediately it is still almost always fatal. It occurs when there is impact to the precordial region at a very precise time. A blow to the chest that knocks the heart off beat, really. Any type of projectile can prompt it. It is a very rare occurrence, it almost never happens.
 
 Winning the lottery is a very rare occurrence, it almost never happens. But millions play anyway.
 
-Things were very quiet at Robert’s for weeks, maybe months. There were a lot of pictures of Derrick around, more than before.
+Things were very quiet at Robert's for weeks, maybe months. There were a lot of pictures of Derrick around, more than before.
 
 Commotio cordis.
 
@@ -291,21 +291,21 @@ He told me that when he was 14 his father built a large cross and mounted it in 
 
 Jacob told me that he had stumbled in a slumber out to the backyard to investigate the source of all the commotion. And he saw her stretched up upon the cross, illuminated by the moon so that she was a sickly shade of dull gray. A crown of twisted nails tipped with rust was stretched across her head and it partially concealed the gaping crevice on her forehead.
 
-And then Jacob told me that his father spotted him. And that he approached him very cautiously and spoke to him with barely a whisper of a voice. And he said to Jacob something about his mother being a brave woman, something about his mother being the strongest woman that he knew. He told him that she didn’t deserve this, but she was the only soul strong enough to carry the burden of a world of sin, and that it was God’s will and he was but a meek servant.
+And then Jacob told me that his father spotted him. And that he approached him very cautiously and spoke to him with barely a whisper of a voice. And he said to Jacob something about his mother being a brave woman, something about his mother being the strongest woman that he knew. He told him that she didn't deserve this, but she was the only soul strong enough to carry the burden of a world of sin, and that it was God's will and he was but a meek servant.
 
 In the end, I think we are all meek servants. Some of us just refuse to accept it.
 
 ### 39658925 (OP)
 
-Jacob told me that his father then went inside and went to bed and the next morning he was arrested and he plead guilty, but not before he told that judge that he would be punished for interfering with God’s will. And Jacob was pushed into foster care because his grandparents were dead and no other relative wanted him. And he spent the next two years bouncing from foster home to foster home, and this is not where Jacob developed, but rather it was where he was ruined. It is here that his soul was corrupted and although he has since recovered a bit of his humanity, I can still see remnants of a beast lurking inside of him. And it is this that draws me to Jacob.
+Jacob told me that his father then went inside and went to bed and the next morning he was arrested and he plead guilty, but not before he told that judge that he would be punished for interfering with God's will. And Jacob was pushed into foster care because his grandparents were dead and no other relative wanted him. And he spent the next two years bouncing from foster home to foster home, and this is not where Jacob developed, but rather it was where he was ruined. It is here that his soul was corrupted and although he has since recovered a bit of his humanity, I can still see remnants of a beast lurking inside of him. And it is this that draws me to Jacob.
 
-I met Jacob years ago, at a bar. He had just broken a stool over a man’s head, the legs splintered and shattered in every direction and chips of the man’s skull flaked to the ground. Jacob tossed the stump of stool that was left to the side and turned to me, casually, and told me that he had really messed up now. And then he said something else but it was muffed by a fist that had connected with his face. And the five men who were at the bar with the unconscious man with stool in his skull that was motionless on the floor below began beating Jacob into a bloody pulp.
+I met Jacob years ago, at a bar. He had just broken a stool over a man's head, the legs splintered and shattered in every direction and chips of the man's skull flaked to the ground. Jacob tossed the stump of stool that was left to the side and turned to me, casually, and told me that he had really messed up now. And then he said something else but it was muffed by a fist that had connected with his face. And the five men who were at the bar with the unconscious man with stool in his skull that was motionless on the floor below began beating Jacob into a bloody pulp.
 
 And then they left and I carried Jacob out of the bar and my white shirt was smeared with streaks of rust colored blood. And then he spoke to me, through a swollen face and through a mouth that was missing teeth. He spit out blood as he spoke the words.
 
 ### 39658951 (OP)
 
-“I could have taken them, all of them, no problem. On a bad day, even, I could have handled them without struggle. But that doesn’t matter. That’s not the issue, you see, champ? I deserved to be beaten, so I let ‘em. I let ‘em because I deserved it, you see, champ? That’s the way the world works, when you deserve something, you take it. When you need to give something, you give it. Even if you think you’re stronger than the circumstances, you got to give in, champ. Because if you don’t, if you fight when you deserve to get beaten, then it will snowball on you. You can beat the circumstances are first, champ, and at first it might seem easy. But it will snowball on you and the next thing you know you’ll be knee deep. And if you’re really stubborn champ, and you’re really strong, you can keep fighting. But then you’ll be neck deep. The world has a way of catching up to you, of evening the score. And champ, if you make the world go out of its way to make things even, it’s gonna’ punish you even more. Even the strongest guy can’t beat the odds forever, he’ll just make it worse in the end. That’s why, when you deserve to lose, you lose. It’s easier to handle the punches one at a time then all at once, champ.”
+I could have taken them, all of them, no problem. On a bad day, even, I could have handled them without struggle. But that doesn't matter. That's not the issue, you see, champ? I deserved to be beaten, so I let 'em. I let 'em because I deserved it, you see, champ? That's the way the world works, when you deserve something, you take it. When you need to give something, you give it. Even if you think you're stronger than the circumstances, you got to give in, champ. Because if you don't, if you fight when you deserve to get beaten, then it will snowball on you. You can beat the circumstances are first, champ, and at first it might seem easy. But it will snowball on you and the next thing you know you'll be knee deep. And if you're really stubborn champ, and you're really strong, you can keep fighting. But then you'll be neck deep. The world has a way of catching up to you, of evening the score. And champ, if you make the world go out of its way to make things even, it's gonna'' punish you even more. Even the strongest guy can't beat the odds forever, he'll just make it worse in the end. That's why, when you deserve to lose, you lose. It's easier to handle the punches one at a time then all at once, champ.
 
 And he must have expended all of his energy because after he called me champ he passed out cold.
 
