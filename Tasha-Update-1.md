@@ -47,9 +47,7 @@ Everything that happened on Sunday 24/2/2013 was live, unfortunately there was n
 	>"See you later"
 	WTYF just happened.
 
-*FYI Parents have gone away for the weekend (Rekindling the old fires) & will not be back till tomorrow morning. It’s just my sister (Tasha), my little brother (Tommy) & myself at home.
-*I need to talk to Tasha about what happened earlier.
-*She comes back from meeting her friends, a couple of hours later. Well, I just met her in the kitchen and came straight out with it.
+FYI Parents have gone away for the weekend (Rekindling the old fires) & will not be back till tomorrow morning. It’s just my sister (Tasha), my little brother (Tommy) & myself at home. I need to talk to Tasha about what happened earlier. She comes back from meeting her friends, a couple of hours later. Well, I just met her in the kitchen and came straight out with it.
 
 	"Hey"
 	"Hey"
