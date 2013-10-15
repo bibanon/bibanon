@@ -3,7 +3,7 @@
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
 * [[Editing]]
-* [[Browse The Source|https://github.com/bibanon/bibanon/]]
+* [[Current projects]]
 * [[Culturally Important Treasures]]
 
 ## [[Books]]
