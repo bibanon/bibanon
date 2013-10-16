@@ -8,7 +8,7 @@ OP posted more every two weeks or so, which was then typeset into a PDF file and
 
 ## The Story
 * [[Update 1|Tasha Update 1]]
-* Update 2
+* [[Update 2|Tasha Update 2]]
 * Update 3
 * Update 4
 * Update 5
