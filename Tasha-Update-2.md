@@ -250,4 +250,165 @@ I let Amanda into the house and point her towards the living room. I pick up the
 
 “Sorry, My fault. Tasha does so I thought.. never mind, I’ll get you another one.” I return with her unsweetened tea to notice she’s taken her socks and shoes off, and curled up on one end of the sofa straight in front of the TV. I hand her her cup again and move to sit on one of the single chairs.
 
-“I don’t bite.” She motions towards the other end of her sofa (It’s a 3-seater, so there’s room to spare, but I sit a respectable distance away. I think she doesn’t want to be in a sterile environment) We sit in silence watching the movie. I honestly haven’t seen it in about 5 years but it’s all flooding back to me now. After a while I happen to look over to Amanda and her head’s resting on the side of the sofa. I can’t see her eyes so I can’t tell if she’s fallen asleep.
+“I don’t bite.” She motions towards the other end of her sofa (It’s a 3-seater, so there’s room to spare, but I sit a respectable distance away. I think she doesn’t want to be in a sterile environment) We sit in silence watching the movie. I honestly haven’t seen it in about 5 years but it’s all flooding back to me now. After a while I happen to look over to Amanda and her head’s resting on the side of the sofa. I can’t see her eyes so I can’t tell if she’s asleep or not. Her breathing seems quite deep, so I assume she has. I move to get up but she murmurs “Don’t go” and presses her feet against the side of my leg. I don’t know if she’s still awake or half asleep or what, so I stay where I am, turn the TV down a bit and just sit there as her feet find a comfortable position pressing against my thigh.
+
+I’m actually getting into the movie (It is rather good, I highly recommend it) when Amanda twitches. She’s laying down away to my right, her feet on my right thigh. Her left arm moves quite erratically, I’m a little concerned until I realise she’s just trying to scratch the back of her leg. I let her get on with it and watch the movie when I’m suddenly aware of a lightening in the peripheral vision of my right eye. I look down and see that when Amanda finished scratching her leg, she moved her hand up and across her belly, but she took most of her skirt with her, so since she took her socks off, I’m gazing at a few feet of bare, unclothed skin, and as my eyes follow the shapely contours of her leg, I can’t help but notice she doesn’t appear to be wearing any underwear.
+
+I’m staring. She’s managed to bunch up her skirt in such a way it might as well be a belt running over the top of her hip. Her knees are brought up at right angles to her body and it’s bare ankle all the way up to bare buttock, and I can’t help but look. Looking up at her face, I can tell she’s asleep purely by the sound of her breathing. I’ve spent enough time laying awake watching Tasha sleeping beside me to know when someone’s faking. Still, I’m curious as to whether or not she’s got any knickers on (who wouldn’t be?) so I lean to my left to see if I can see any sign of material. Eventually I make out the material 
+covering her privates, so I figure she’s wearing a thong. My curiosity satisfied I reach over and try to grab the hem of her skirt to bring it down again, but she’s got it bunched in her fist, so I  leave it. The little devil on my shoulder tells me it’s not cold in here, and she seems comfortable, so why not enjoy the view?
+
+I hate that little bastard sometimes because he’s normally right. So as the sounds of Jack Putter getting smashed on southern comfort in Tuck Pendleton’s house play in the background, I’m sitting on a comfortable sofa, gazing at the bare bum of my sister’s best friend for several minutes. I could reach out and touch it, but I won’t. I’m actually happy just to look. I know she does as much sport as Tasha, so her legs are as toned as my sisters’. Naturally, I start pitching a tent in my jeans, and as it starts to become uncomfortable, I shift slightly, which makes her move her top leg up slightly, showing me more of her thong. It’s not a solid material, in fact it’s pretty see-thru, and I can clearly make out her slit through the fabric. My dick’s really getting hard so I try to get up but the foot that’s still against my thigh pushes against me, telling me her subconscious still wants my company. It’s getting intolerable in my trousers so I check she’s still genuinely asleep, undo my button and zip, and let my dick out for some air. The pressure’s off so I can relax a little, but I can’t help but look at her incredible legs.
+
+Before I realise it I’m wanking myself off at the sight of her nearly–bare bum and the sight of her slit beneath her knickers. It’s all I can do to stop myself from grabbing her arse cheek before I can feel myself nearing climax. I grab some Kleenex from the box on the small table beside the chair and come hard into a wad of tissues. I give myself a few minutes to calm down, wipe myself off and put my dick back In my pants. I manage to extricate myself fromher feet, dash upstairs for a blanket and place it over her. I don’t try to move her skirt, but I do take another long look at her curvaceous backside before I cover it over. Half an hour later, she wakes up. I have moved to another chair so I say hello so she’s knows I’m still there. She blinks and stares around the room, then notices the blanket over her. She looks under the blanket and untangles her hand from her skirt, blushing as she realises what she’d been showing me before I covered her over.
+
+“Thank you. Sorry”
+
+“It’s ok, and don’t be sorry, you were well out of it.”
+
+“I missed the film”
+
+“That’s ok, you can watch it again any time. Borrow it if you want”
+
+“Thanks” a pause. “Was I flashing my bum?”
+
+“Not really. Flashing implies you gave a quick glimpse.” It takes her a while before she puts her hand over her mouth in horror.
+
+“I’m so sorry” I have no idea why
+
+“Don’t be. I didn’t look, if you’re asking. I tried to cover you up but you had hold of your skirt, and I tried to move but your feet wouldn’t let me. So I just watched the movie.” 
+
+“But you got me a blanket”
+
+“Yes, I waited until you were asleep enough for me to move, them went up and got you the blanket”
+
+“How long did that take?” (quick maths in my head, wanking + erotic source material X proximity to source = time)
+
+“About 10 minutes?” Again, the look of horror, but not quite as pronounced.
+
+“Ten minutes? I was showing you my bum for 10 minutes?” She’s gone beetroot red and I can see her getting more uncomfortable, so I try to cheer her up and calm her down.
+
+“Hey, for what it’s worth, it’s the nicest bum I’ve ever been forced to sit next to against my will for ten minutes.” She smiles.
+
+“Against your will? You mean it was torture?”
+
+“You have absolutely no idea.” I deliberately drop in the double meaning, but I hope she only gets one of them. She blushes again, but it’s a good blush this time. She seems to me softening after her traumatic experience, and for some reason, talking about her body seems to be key.
+
+“Actually, it was quite a while before I realised you actually had anything on down there.” A look of confusion, then realisation.
+
+“Oh, right. I always wear them when we have PE. Those shorts aren’t very flattering if you’ve got big knickers on. You get lumps.”
+
+“But you’re an all girls school, why should you care about lumps? Who’s going to be checking out your backside?” She picks up her cup of tea (which must be stone cold) and takes a sip. She must like it tepid.
+
+“It’s not a fashion thing, it’s a comfort thing.” Fair enough. Naked bum conversation over, I check the time and we decide to head back to see my sister. I make sure Amanda’s got everything we need, and in a brainwave, I ask her to grab a few things that Tasha might need. I doubt mother’s been home. So we pop back up to her room and Amanda goes through her drawers picking out clean underwear, a few t-shirts, clothing for when she gets let out, her iPad and a book that’s laying on her bedside cabinet. All things that I wouldn’t have picked out at all, except her knickers. I pride myself in knowing my sister’s underwear preferences, even before we started fiddling with each others bits. She packs everything in a holdall, I lock up the house and we walk to my car. We get back to the hospital half an hour later. There’s a nurse standing outside Tasha’s room, she tells us it’s ok to go in, but she’s having her dressings changed. We go in, my mother’s there as well.
+
+“Tasha? We’re back.” She raises a hand and wiggles her fingers at us in a mini-wave.
+
+“Gimme a sec, they’re nearly done, I think.” The nurse changing the bandage at the back of her head removes the old one, showing me for the first time the damage. Amanda really did a good job of slicing her head open. There’s a 4-inch line covered in butterfly stitches at the base of her skull, in the middle of a shaved section of her hair. It’s quite dramatic but it looks like you wouldn’t notice it when her hair’s down. Amanda’s holding my hand again but also clutching my arm. I can see the look of horror on her face as she also sees what she’d done. She seems to be holding it together as the nurse places the new bandage on her head, fastening it with micropore tape. It’s when Tasha turns round that Amanda breaks down again. Tasha’s right check isn’t sporting the puffy wad of bandage like before, but it is sporting several more butterfly stitches, and a swelling that’s about the size of a golf ball. No exaggeration, it’s huge. She smiles at us but her look changes to one of concern once she notices Amanda’s got upset again, Tasha holds out her arms and Amanda lets go of my hand, rushing around the bed and crying into Tasha’s shoulder.
+
+“Oh, for pity’s sake. Doesn’t that girl ever stop whining?” This was my mother.
+
+“Mum, she’s upset because she thinks she nearly killed Tasha”
+
+“Well, she did. I’ve half a mind to sue the school you know. Letting them play dangerous sports like that.”
+
+“Dangerous sports? It’s hockey. Football’s just as bad. Remember my leg?”
+
+“Well, they should have been supervised better, and maybe that silly girl wouldn’t have…” 
+
+I lose it.
+
+I’ve put up with this shit for 5 years and I go absolutely mental at her. Her indifference to Tasha’s injuries is one thing, but I’m not having her ripping on Amanda when she’s clearly still in shock. I honestly cannot remember the specifics of what I screamed at her, but I do remember the look of fear on her face as I bore down on her, forcing her into a high-backed chair in the corner of the room. It’s this look that makes me back off. I actually apologise for going off the rails, but it’s obviously been building for a while. I sit down on the end of the bed, drained. Glancing to my left I see Tasha looking just as scared at my rantings, and Amanda looking like she’d rather be anywhere but here right now.
+ 
+We’re sitting in silence. I’m staring at my Mother, and I realise how much Tasha takes after her. Hair same colour (but styled 
+like someone in their 50’s), same blue eyes. She doesn’t actually look that much older either, but I guess that’s the  make-up
+and spa visits.
+
+“Why do you hate me?” It’s a childish question that would normally sound more apt coming from a stroppy teenager.
+
+She shakes her head. “I don’t hate you” It’s a whisper. 
+
+“But I can’t remember the last time we did anything together, apart from when you’re telling me what to do every day before you piss off and spend all day with your chums.”
+
+“I really don’t hate you, but I can’t stand to be near you.” 
+
+“What the hell does that mean?” She starts crying, not as much as Amanda has been lately, but it’s still awkward. Sod it, I want answers. She looks over at Tasha, says “I’m sorry my darling.” Then turns to me.
+
+“I’m 31.”
+
+I must be slow on the uptake, as I the only thing I can think is ‘what the fuck does your age have to do with anything?’, but the sharp intake of breath from Tasha means she’s figured something out quicker than me, as usual. My turn for the chess face. 
+
+“But I thought you were 36, or 37”
+
+“I’m sorry, we lied to you. It was easier that way” It finally clicks.
+
+“31? But that means you would have been 13 or so when you had me.” She looks down at the floor, shaking her head.
+
+“no, I never had you.”
+
+“What?”
+
+“I’m not your mother.”
+
+When I was 5, my father was driving on the M6 outside Birmingham when we were involved in a crash. My mother, my real mother, died when the truck on the inside lane had a blow-out and ploughed into the passenger side of our car. My head was cut by flying glass. I still have the scar. My father was left to look after me by himself. He managed ok for a while, but trying to juggle his position at work and being a single parent started weighing on him. Eventually, he advertised for a live-in nanny/AU pair. 
+
+A young lady with a baby of her own applied for the position. My father wasn’t completely ok with having two children to look after instead of one, but apparently I took to the baby immediately so the decision was made. The living situation became more comfortable and my father started to dote on the little girl, just as the woman began to dote on me, and weekend socialising meant the parents became close. Tasha’s mother eventually convinced my father to take a holiday, as his workload meant that while he loved and provided for us, he never really spent any time with us except at weekends, so we all took a holiday to Gran Canaria. It’s here that my father proposed. It had been two years since my mother’s death, and certain promises were made not to say anything to us until we were old enough to understand. I guess me ripping on my ‘mother’ was the breaking point.
+
+I’m stunned. I am sitting on the end of the bed but I have no idea what to think or do. I feel a hand reach towards mine and I grasp Tasha’s hand, holding onto some semblance of normality. She’s crying softly, and Amanda’s a wreck.
+
+“That’s the saddest thing I’ve ever heard.” And she comes around the bed to sit beside me. I look at the woman sitting in the chair and she’s the same picture of misery Amanda was a few hours ago. I should hate her, but if what she’s said was true, I can’t feel that way about someone who, despite these new facts, has been my mother for the last 13 years. Still something bugs me.
+
+“Mum” She gasps and looks up, I don’t think she expected me to be calling her that again any time soon. “I get why you did what you did, and I’m grateful, I really am, but I don’t understand why you don’t want to have anything to do with me.” She shakes her head sadly. 
+
+“I can’t tell you. Not now. It might be hard for you to understand, but..”
+
+But I don’t know what the ‘but’ is as at that point my father bursts in the door. He’s left work early to see Tasha. He nods to mum, pats me on the shoulder, doesn’t give Amanda a second glance and walks around the bed to see Tasha. He visibly winces when he sees her cheek, but recovers quickly, kissing her on the forehead he asks all the necessary questions to find out what happened. Amanda’s got off the bed and is standing behind me, anticipating the part when he finds out about her involvement. He looks at her briefly, and she grasps my arm again, but my dad’s a sensible bloke, and after the whole story 
+has been relayed he simply says:
+
+“Always said Hockey’s bloody dangerous.”
+
+He turns to Amanda. “Are YOU ok?” She nods, grateful she’s not getting a tongue lashing. “Just an accident. Has her brother told you about his leg? Thought so, He’s always showing his scars off.” He takes a moment to look around the room, and while his arrival changed the mood of the room, it’s dropped again, something he’s good at picking up.
+
+“Something else happened?” Mum tells him that she’s told us about what happened all those years ago, and his shoulders sag. My father’s a large man, it’s where I get my height from, but he looks remarkably small right now. Inexplicably, he takes his work laptop out of his bag, puts it on the over-bed table, powers it up and after a few clicks, he turns it round. There’s a photo of a beautiful dark-haired woman with brown eyes on the screen. Dad starts talking about my real mother, and he talks for quite a while. Over the next hour we all talk to each other, clearing the air, sometimes shouting, a few tears. Amanda’s still with us but I just know she really doesn’t want to be. I hint on the unanswered question but apparently now isn’t the right time for it. I check my watch and it’s gone half 3.
+ 
+“I think I need to be taking Amanda home. Her mother should be back by now.” I stand up and Amanda grabs her bags. I give Tasha a kiss on the good cheek. Give my dad a manly hug, then turn to face mother. She’s finally let her hair out of that ridiculous bun on the back of her head and as she stands up I realise how stupid I’ve been to never spot it before. If Tasha has a habit of looking 11, my mother could easily pass for 20. She gives me an apologetic smile and seems surprised when I go over and give her a hug. I can’t remember the last time I held her and by the tightness of the way she hugs me, I guess she’s 
+missed it too. Eventually we break apart, I kiss her cheek and we say goodbye. The drive to Amanda’s house was quiet. I had so much stuff going on in my head I hardly noticed if Amanda actually said anything to break the silence, all I remember was her reassuring hand on my leg and my hand on top of hers. 
+
+We get to her house and her mother meets us outside. Amanda rushes to her and they hug on the doorstep. 
+
+“Thank you for looking after her. How’s she been?”
+
+“She’s better now, but she was shaken up for a while.” Amanda darts into the house leaving me there with her mother.
+
+“It was an accident,” I say “but she’s still blaming herself. Seeing Tasha at the hospital was helping, until.. well, I should be going.” Her mother grabs her purse.
+
+“Oh, please, let me give you something for your trouble, you’ve been so helpful today, really.” But I wave her down.
+
+“No, please, it was my pleasure (thinking back, it really was). I wouldn’t dream of taking anything for it.” But she holds out a £20.
+
+“Petrol fund then.” I smile, say thank you and pocket the cash. 
+
+“Thank you again. So she’s got tomorrow off as well?”
+
+“Yes, the headmaster thought it would be for the best.” I spot the look of mild annoyance on her face. I guess she’s not looking forward to pulling a sickie tomorrow morning. “Look, if it’ll help you, I can look after her again tomorrow. She can chill at our house and we’ll probably end up visiting Tasha again.” The look of relief on her face is poorly hidden.
+
+“Would you? I really don’t mean to impose, but it would be difficult to get the time off…”
+
+“Think nothing of it. Did you want me to pick her up or…?”
+
+“No, I’ll drop her off at yours about 8-ish?”
+
+(*for those that might think I have ulterior motives, our families have known each other for years, and Amanda is always sleeping over, so ner)
+
+“Sounds good.” Amanda comes back out as her mother thanks me and goes back in. 
+
+“You and me again tomorrow kiddo.” This brings a welcome smile again.
+
+“Really?”
+
+“Yep, but I have some things to do at home so you’ll probably end up watching movies all day.”
+
+“Good, I can get to watch that movie again.”
+
+“Yes, and I’ll be elsewhere so I don’t have to stare at your arse for 2 hours.” She blushes but smiles.
+
+“Thanks for everything today. You’ve been really nice.”
