@@ -7,7 +7,11 @@ This is an epic story, epic in every sense of the word. It starts off as a simpl
 Everything that happened on Sunday 24/2/2013 was live, unfortunately there was not a full set of screen caps but the majority of it is here. Any bits marked with ‘*’ were added from memory to help tie it all together, by OP’s publisher (as he calls me), I am also responsible for making these updates from OP’s original posts. So If you’re sitting comfortably, hopefully with beer and popcorn, enjoy!
 
 ## The Actual Story
-> Sunday 24/2/2013  
+
+Note that all greentext `>` is automatically rendered as actual quotes on this wiki. Like they were supposed to be.
+
+Sunday 24/2/2013  
+
 > be 18  
 > Be this afternoon   
 > be enjoying a shower   
