@@ -8,7 +8,7 @@ You could spend hours of your time here: We have a sizable collection already. C
 
 ## Contribute
 
-We need your help and contribution to succeed. Check out the [[Current Projects]] section if you'd like to start somewhere.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] section if you'd like to start somewhere.
 
 ---
 
