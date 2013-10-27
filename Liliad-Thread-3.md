@@ -228,4 +228,4 @@ Or is it the end?
 
 ***
 
-The advantage of reading this is that you know it's not the end. Give yourself a day to anticipate, then go read the [[next thread|Liliad Thread 3]]. Or just do it now. Up to you.
+The advantage of reading this is that you know it's not the end. Give yourself a day to anticipate, then go read the [[next thread|Liliad Thread 4]]. Or just do it now. Up to you.
