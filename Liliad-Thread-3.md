@@ -2,12 +2,6 @@ Hi guys I'm back.
 
 Before I get down to writing let's try and see if there is actually anyone here waiting for this thread. 
 
-I am the legit OP, feel free to email me at my email and I will reply. Seems like people are trickling in, just going to give it a smidge more time. 
-
-OP still here.
-
-Okay I'm replying to some emails and looking at the other thread I am kind of overwhelmed why are you doing this to me. 
-
 Okay fuck it I am not replying to all those emails jesus christ people, you're going to have to stop caring so much about me. I'll write today's installment (probably two or three hours), answer some questions, and then email. BE PATIENT WITH ME. 
 
 Alright
