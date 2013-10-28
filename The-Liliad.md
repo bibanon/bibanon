@@ -13,4 +13,4 @@ Lily was described as half-Asian, half-white, and as presenting with the best of
 * [[Fifth Installment|Liliad Thread 5]] - October 16
 * [[Sixth Installment|Liliad Thread 6]] - October 17
 * [[The End|Liliad Thread 7]] - October 20
-* [[Liliad Pastas]]
+* [[Liliad Pasta]]
