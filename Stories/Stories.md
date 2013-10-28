@@ -17,7 +17,8 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 * [[Pools Closed Novel]] - WTF is this? A mess of memes created as a copypasta by anons on /b/.
 * [[The Bridgekeeper]] - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
-* [[Tasha's Brother]] - A /b/tard, his sister, and his sister's friend. Lots of romance, as well as his attempts to move out of his parents' house and become an adult.
+* [[Tasha's Brother]] - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
+* [[The Liliad]] - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
 
 ## [[Something Awful]]
 
