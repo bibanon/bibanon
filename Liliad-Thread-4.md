@@ -1,5 +1,4 @@
 
-
 Hi guys it is me again.
 
 Let's wait to let some people pile in.
@@ -313,3 +312,4 @@ END PART 4(?)
 5. Keep this thread alive forever because it makes me feel loved
 6. There is no point six
 
+[[Next thread|Liliad Thread 5]]
