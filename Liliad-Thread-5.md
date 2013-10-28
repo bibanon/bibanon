@@ -151,9 +151,6 @@ Fear meter turned up to 11. Like watching Paranormal Activity, but actually scar
 
 WORST FEARS CONFIRMED. I looked for a ledge to throw myself off of. My life was over. 
 
-XXXXX
-it's at the lowest possible and i also turned the theme into tomorrow so it is black and i consume even less battery, 8% remaining.... cya tomorrow 
-
 To those offering advice, you know your OP was stupid (is stupid) and scared and not thinking. Plus no chance, and I wasn't going to call them out of the blue to say "oh hey I heard somehow that you think I was with your daughter, doesn't matter how I know".
 
 Talking with my dad is the worst even when we're not discussing me going to prison 5ever for statutory raping the hell out of a little girl. He didn't bring it up like that of course. 
@@ -249,7 +246,7 @@ He got angry again and closed out the conversation seething with anger.
 
 "Stay away from her. It isn't right." 
 
->lalalalaimnotlistening.jpg
+lalalalaimnotlistening.jpg
 
 He could tell me to not talk to her but that didn't mean I was going to listen to him, of course. She was 16 and she wasn't some sort of precious doll who shouldn't be spoiled. Girls her age got into all sorts of shit. She was not a little girl. Maybe she was when we started, and maybe that was where his anger came from, but she was not now. They couldn't stop her.
 
