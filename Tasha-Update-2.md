@@ -412,3 +412,37 @@ We get to her house and her mother meets us outside. Amanda rushes to her and th
 “Yes, and I’ll be elsewhere so I don’t have to stare at your arse for 2 hours.” She blushes but smiles.
 
 “Thanks for everything today. You’ve been really nice.”
+
+“It was nothing, really”
+
+She gives me a swift hug, looks at my face, then stands on tiptoe to give me a quick, but soft kiss.  Then she’s disappeared into the house, closing the door behind her. I drive back up to the hospital, spend a couple of hours there. It’s less awkward than before, Tasha’s still a little miffed about the situation, but like I say, she’s the smart one, so she can see the sense in what happened. The conversation is light, it’s something we seldom get to do lately. I decide to set off, but our parents beat me to it. Hugs all round and I’m left alone with my ‘sister’. I look at her face but my eyes are drawn to the huge cheekbone. “How bad is it, really?”
+
+“You could hang coats on it.” She slaps my hand.
+
+“Thanks a bunch. No, really. How is it?” I take my time looking at her.
+
+“You’re still beautiful.” She starts to smile but it obviously hurts. “You’re biased”
+
+“But honest”
+
+“How’s Amanda?” 
+
+“Better. I’m looking after her again tomorrow.” This raises an eyebrow.
+
+“Oh, really? You and her alone in that big old house?”
+
+“Pack it in you. Mind you, she did show me her bum for half an hour earlier”
+
+“She what?” I explain. I omit the part about wanking over the sight though. “Lucky, she’s got a nice bum, I’m always telling her.”
+
+“So do you.”
+
+“Thanks, but that’s not the kind of thing my brother should be…” It suddenly goes very quiet, and she’s got her chess face on. Then she just smiles. 
+
+“What?”
+
+“Nothing. I’ll see you tomorrow. Do me a favour though.”
+
+“What’s that?” I get my coat and I’m halfway to the door.
+
+“Remember what you’ve got waiting here.” And she lifts her hospital gown again, only this time, she’s totally naked. I dash back, cup her breast softly in my hand, kiss her gently, but with intent, then finally leave.
