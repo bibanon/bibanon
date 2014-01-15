@@ -6,6 +6,8 @@ However, it's an excellent read, and well written. /b/ waited with bated breath 
 
 OP posted more every two weeks or so, which was then typeset into a PDF file and posted to a [Jumpshare](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg). The final PDF with all eleven updates was then uploaded to [Scribd](http://www.scribd.com/doc/170432111/). This is transcribed from the Scribd.
 
+Note: As not all the updates are on Bibanon, and the Jumpshare is "temporarily" disabled, please use the Scribd until all updates are filled.
+
 
 
 ## The Story
