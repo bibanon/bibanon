@@ -2,3 +2,10 @@
 
 * [Tasha's Brother](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg) - Story has finished, [[article started.|Tasha's Brother]]
 * [The Liliad](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview) - Recently ended story. Help add links, archives, and pastebins to that google doc.
+
+## Liquidation
+
+These are stories or webpages that need to be converted and added to the Bibliotheca Anonoma.
+
+* [[Shii]]'s Wiki - Tons of interesting content was lost in Shii's wholesale destruction of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
+* [Oral Hygiene](http://pastebin.com/Gt47E4Nr) - A Wikichan-era tale about some guy who brushes his sister's teeth. Reminiscent of that episode of monogatri...
