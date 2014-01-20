@@ -45,8 +45,8 @@ You can find the NC comics in the website archives below. It is best to read the
 
 The Bibliotheca Anonoma used HTTrack to create complete website archives with all the webcomics inside them, in the very likely case that their original host servers close down. Just download them, and open the `index.html` webpage inside with Chrome.
 
-* [Metal Man's Updated NC Site](https://github.com/bibanon/bibanon/raw/master/Files/mm_nc-20120113.7z) - This is an updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Unfortunately, it is missing a few comics due to bad copying, but those can be found in the original site archive below.
-* [The Original NC site on SMBHQ](https://github.com/bibanon/bibanon/raw/master/Files/smbhq-nc-20120304.7z)
+* [Metal Man's Updated NC Site](https://drive.google.com/file/d/0B7WYx7u6HJh_c0hyZHVQR3dvaUU/edit?usp=sharing) - This is an updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Unfortunately, it is missing a few comics due to bad copying, but those can be found in the original site archive below.
+* [The Original NC site on SMBHQ](https://drive.google.com/file/d/0B7WYx7u6HJh_bEZ4MmthcTNYVkU/edit?usp=sharing)
 
 ## Sections
 
