@@ -36,7 +36,7 @@ Nanashi World moved off to [[Amezou]], the First Channel. At the time, it was me
 
 With a userbase larger than that of most cities, the First Channel was dead by 1999. An American college student named Hiroyuki Nishimura took up the challenge and created [[2channel]], the Second Channel. Using code based on the first, the site employed Californian high-traffic servers to handle the exponential growth.
 
-2channel ended up becoming the longest running This was the text-based BBS featured in the film and TV series [[Densha Otoko]].
+2channel ended up becoming the longest running BBS of them all, and today dominates modern Japanese culture, far more than 4chan or even Reddit could dream of. This was the text-based BBS featured in the film and TV series [[Densha Otoko]].
 
 ## Futaba Channel (2chan.net)
 
