@@ -30,7 +30,7 @@ Here are some quick facts to help you out.
 
 The comics at NC are ususally set during Mario games. They include a small cast of original characters, which can be found here: [[Cast of Characters|]]
 
-You can find the NC comics [[here|]]. It is best to read the comics in the order in which they were made, because many times I use recuring jokes and themes from older comics. Why? Because recuring jokes are funny. Here is the order of the comic series.
+You can find the NC comics in the website archives below. It is best to read the comics in the order in which they were made, because many times I use recuring jokes and themes from older comics. Why? Because recuring jokes are funny. Here is the order of the comic series.
 
 1. The EVIL-Luigi Series
 2. The Mushroom Wars
@@ -40,6 +40,13 @@ You can find the NC comics [[here|]]. It is best to read the comics in the order
 6. The NC/SSS Crossover Mach 2
 7. NC Chronicles
 8. The Lord of the Wings
+
+## Website Archives
+
+The Bibliotheca Anonoma used HTTrack to create complete website archives with all the webcomics inside them, in the very likely case that their original host servers close down. Just download them, and open the `index.html` webpage inside with Chrome.
+
+* [Metal Man's Updated NC Site](https://github.com/bibanon/bibanon/raw/master/Files/mm_nc-20120113.7z) - This is an updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Unfortunately, it is missing a few comics due to bad copying, but those can be found in the original site archive below.
+* [The Original NC site on SMBHQ](https://github.com/bibanon/bibanon/raw/master/Files/smbhq-nc-20120304.7z)
 
 ## Sections
 
