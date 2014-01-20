@@ -13,3 +13,4 @@ These are stories or webpages that need to be converted and added to the Bibliot
 ## Partnership
 
 * [ArchiveTeam - 4chan](http://www.archiveteam.org/index.php?title=4chan) - The Archive Team wiki has a list of important targets to archive. Chanarchive is a big one that was lost. Twice.
+* [Stanford Digital Repository](http://purl.stanford.edu/tf565pz4260) - Henry Lowood (@Liebenwalde), Curator of History of Science & Technology, supports the archival of internet culture and can provide archival space for much of our data at Stanford servers.
