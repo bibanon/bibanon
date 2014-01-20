@@ -1,4 +1,4 @@
-## Wiki
+## Bibliotheca Anonoma
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
