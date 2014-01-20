@@ -48,6 +48,8 @@ The Bibliotheca Anonoma used HTTrack to create complete website archives with al
 * [Metal Man's Updated NC Site](https://drive.google.com/file/d/0B7WYx7u6HJh_c0hyZHVQR3dvaUU/edit?usp=sharing) - This is an updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Unfortunately, it is missing a few comics due to bad copying, but those can be found in the original site archive below.
 * [The Original NC site on SMBHQ](https://drive.google.com/file/d/0B7WYx7u6HJh_bEZ4MmthcTNYVkU/edit?usp=sharing)
 
+In case the Google Drive links go down, the archives are also stored in this wiki's git repository, under the `Files/` folder. You can access that by cloning this git repository. Sadly, Github doesn't allow large file download on their servers.
+
 ## Sections
 
 * [[NC Cultural References]]
