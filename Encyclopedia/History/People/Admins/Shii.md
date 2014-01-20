@@ -20,6 +20,9 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 
 ---
 
+These are remnants and need to be moved to the Bibliotheca Anonoma.
+
 * [Shiichan Anonymous BBS](http://wakaba.c3.cx/shii/shiichan)
+* [harper's](http://mcdanesh.wordpress.com/2011/06/03/harpers-from-everything-shii-knows-the-only-reliable-source/)
 
 However, he had many other essays and opinion pieces that were not archived. Please help out and list out what he had, from internet archives.
