@@ -18,4 +18,8 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 * [[From AOL Hacker to Businessman]]
 * [[The Great Scam]]
 
+---
+
+* [Shiichan Anonymous BBS](http://wakaba.c3.cx/shii/shiichan)
+
 However, he had many other essays and opinion pieces that were not archived. Please help out and list out what he had, from internet archives.
