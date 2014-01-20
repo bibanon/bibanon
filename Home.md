@@ -10,13 +10,7 @@ The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to co
 
 You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
 
----
-
-The Bibliotheca Anonoma uses Github's Gollum wiki engine due to it's special feature: The ability to use [Git Version Control](http://sixrevisions.com/web-development/introductory-guide-to-git-version-control-system/) to download the entire wiki and it's change history for offline view or rehosting. 
-
-Not to mention Github's scalable and autonomous infrastructure that combats spam, provides trusted authentication, and serves any amount of users at no cost; issues that have long been the Achilles' Heel of similar projects.
-
-## Contribute
+### Contribute
 
 We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] section if you'd like to start somewhere.
 
@@ -28,7 +22,7 @@ The [[teams]] are listed here.
 
 Not sure what to look at first? The wikipage [[Culturally Important Treasures]] has a list of the best stuff currently on this wiki.
 
-## Introduction to Internet Culture
+### Introduction to Internet Culture
 
 The word "culture" holds a connotation of high culture; whatever the winners write in the history books, the artwork in museums that few contemporaries enjoyed, or the literary achievements of an elite literate few. 
 
