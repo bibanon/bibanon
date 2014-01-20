@@ -12,9 +12,9 @@ of content?
 
 ## TO-DO
 
-We've used an imperfect converter to get the text out of the original [[4chan_b-sides.odt|ODT document]]. 
+We've used an imperfect converter to get the text out of the original [ODT document](https://github.com/bibanon/bibanon/raw/master/Collections/Copypasta/b-sides/4chan_b-sides.odt). 
 
-Therefore, the pictures are not linked, and the text is a bit screwed up. All the pictures from the document are in the [[b-sides.7z|b-sides archive]]. So, check the ODT document for which picture goes with which story, get the images from the [[b-sides.7z|image archive]], [[Upload|upload it to the git repo]], and link it in this article.
+Therefore, the pictures are not linked, and the text is a bit screwed up. All the pictures from the document are in the [b-sides archive](https://github.com/bibanon/bibanon/raw/master/Collections/Copypasta/b-sides/b-sides.7z). So, check the ODT document for which picture goes with which story, get the images from the [image archive](https://github.com/bibanon/bibanon/raw/master/Collections/Copypasta/b-sides/b-sides.7z), [[Upload|upload it to the git repo]], and link it in this article.
 
 ## Stories
 
