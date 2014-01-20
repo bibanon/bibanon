@@ -2,6 +2,8 @@
 
 This site is a perfect example of a popular site made for fun by two little kids, and their success in creating a fun website with many loyal fans. However, it also frames the slow, crushing decline that came when the Web 2.0 revolution, combined with a grittier, 4chan-influenced culture swamped the internets, right when the admins were least able to compete. We saved it here due to it's unclear status, to organize it better, and to get rid of the garish background.
 
+[BA Neglected Mario Characters Mirror](http://bibanon.github.io/Neglected-Mario-Characters/)
+
 ## History
 
 Two friends engrossed in the early internet decided to come together to make a little Mario fansite on the internet called the Super Mario Brothers HeadQuarters (SMBHQ). Jay Resop  As time progressed, the site became huge and hosted many little sites within it.
@@ -43,10 +45,11 @@ You can find the NC comics in the website archives below. It is best to read the
 
 ## Website Archives
 
+This is the [BA Neglected Mario Characters Mirror](http://bibanon.github.io/Neglected-Mario-Characters/) on Github Pages. This is based on a (lost) updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Eventually we will convert the format into Github Pages Jekyll Markdown, but that's a project for another day.
+
 The Bibliotheca Anonoma used HTTrack to create complete website archives with all the webcomics inside them, in the very likely case that their original host servers close down. Just download them, and open the `index.html` webpage inside with Chrome.
 
-* [Metal Man's Updated NC Site](https://drive.google.com/file/d/0B7WYx7u6HJh_c0hyZHVQR3dvaUU/edit?usp=sharing) - This is an updated version of NC that MetalMan made in protest of SMBHQ's money making policies. Unfortunately, it is missing a few comics due to bad copying, but those can be found in the original site archive below.
-* [The Original NC site on SMBHQ](https://drive.google.com/file/d/0B7WYx7u6HJh_bEZ4MmthcTNYVkU/edit?usp=sharing)
+* [Complete Google Drive Backup](https://drive.google.com/file/d/0B7WYx7u6HJh_ckFSbkFiZ2FfcGM/edit?usp=sharing)
 
 In case the Google Drive links go down, the archives are also stored in this wiki's git repository, under the `Files/` folder. You can access that by cloning this git repository. Sadly, Github doesn't allow large file download on their servers.
 
