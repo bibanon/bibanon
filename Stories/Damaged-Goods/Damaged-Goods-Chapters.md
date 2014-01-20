@@ -1,3 +1,5 @@
+*[[<- Return to Damaged Goods Overview|Damaged Goods]]*
+
 There are 23 chapters in this story. There are also a number of extra chapters that were fished out from the archives.
 
 ## Remastering Project
