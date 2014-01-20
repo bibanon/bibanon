@@ -1,13 +1,5 @@
 There are 23 chapters in this story. There are also a number of extra chapters that were fished out from the archives.
 
-## Format
-
-Each chapter of *Damaged Goods* is divided into two sections; Nurse-kun's recollection of the story, and discussion from the anons, which influence Nurse-kun's actions and reveal more information about the events that transpired.
-
-Anything with [this tag] is a editor's note or a fixed spelling error.
-
-We have attempted to stay as close to the original text as possible, abstaining from tampering with or whitewashing the story. However, because of 4chan's non-linear thought process, we've rearranged and combined some comments so readers can process certain events one at a time.
-
 ## Remastering Project
 
 With the discovery of the original threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to. These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.
@@ -15,6 +7,14 @@ With the discovery of the original threads that Sarafan transcribed the story fr
 These chapters are exclusive to this wiki, pulled directly from Wikichan or the original threads, and not found on Shii's or ED.
 
 The original threads all have important posts and recovered replies attached. Newly recovered threads have a **NEW!** tag on them.
+
+## Format
+
+Each chapter of *Damaged Goods* is divided into two sections; Nurse-kun's recollection of the story, and discussion from the anons, which influence Nurse-kun's actions and reveal more information about the events that transpired.
+
+Anything with [this tag] is a editor's note or a fixed spelling error.
+
+We have attempted to stay as close to the original text as possible, abstaining from tampering with or whitewashing the story. However, because of 4chan's non-linear thought process, we've rearranged and combined some comments so readers can process certain events one at a time.
 
 ## [[Chapter One - Byouin Otoko|dg-1]]
 
