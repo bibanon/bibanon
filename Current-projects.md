@@ -9,3 +9,7 @@ These are stories or webpages that need to be converted and added to the Bibliot
 
 * [[Shii]]'s Wiki - Tons of interesting content was lost in Shii's wholesale destruction of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
 * [Oral Hygiene](http://pastebin.com/Gt47E4Nr) - A Wikichan-era tale about some guy who brushes his sister's teeth. Reminiscent of that episode of monogatri...
+
+## Partnership
+
+* [ArchiveTeam - 4chan](http://www.archiveteam.org/index.php?title=4chan) - The Archive Team wiki has a list of important targets to archive. Chanarchive is a big one that was lost. Twice.
