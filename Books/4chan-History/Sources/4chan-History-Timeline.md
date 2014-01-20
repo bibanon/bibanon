@@ -2,6 +2,8 @@ This entire page was saved from the fall of the second [[Wikichan]]. It was writ
 
 It needs lots of work, especially for the Chanology, Boxxy, and Payback eras.
 
+A similar page is [Tanasinn.info's Complete History Timeline](), which we share some data points with.
+
 ## Prehistory
 
 _The background of the world that 4chan was started in._
@@ -425,6 +427,10 @@ Strong social changes within Chanology after an influx of non-4chan immigrants c
 
 ?? - A thread is posted to 4chan's /b/ about Scientology and it's censorship of a major Tom Cruise recruitment video posted on Youtube. Project Chanology begins.
 
+### Other Events in 2008
+* February 21 - The oldest surviving board sticky is posted on /r/.
+* February 23 - /sp/ returns largely because the site's demographic was beginning to change because of the infamous fox news "hacker's on steroids" report and project chanology. When the Patriots lost the Super Bowl in 2008 to the Giants, some of the regular boards were being spammed with 18-1 and tom brady macros. /sp/ was originally intended to just be a containment area for 18-1 spam, but it actually found a foothold of regular users and grew greatly in 2008-2010, especially with the World Cup threads.
+
 ## Boxxy Era (January 2009 - ) ##
 
 By this point in time, Project Chanology has long faded with only a few stalwart holdouts, and the majority of [[Anonymous]] reassimilates into 4chan within a few months.
@@ -456,7 +462,22 @@ After most anons forgot or gave up on Chanology, they returned to normal busines
 
 ? - Law & Order SUV aired an episode where a guy with the internet nickname "moot" tried to beat cho's high score. This created much outrage. Due to the episode, the Law & Order commercial transition (full black screen with the sound effect DUN DUN) appeared after every time someone posts on 4chan. The only text being the date of the post submission. 
 
+### Nov10 ###
+
+* November 12 - 4chan users (jokingly) attempt to DDoS Tumblr.
+
 ## 2011 ##
+
+* January 14 - Moot meets with fellow 4channers at Barcade in NYC. Gawker journalist Adrian Chen attends and reports on it.
+* October 24 - /r9k/ and /hc/ return. /new/ is reborn as /pol/ and /diy/ is created. Ponies are banned from /b/ and tripcodes no longer work on it.
+* October 25 - Brodyquest is stickied on /b/, a mirror thread is made by a troll mod. A lot of blinking text is involved and people that post timestamped sink pics are given false bans
+* October 26 - "I'm so fresh you can suck my nuts" is stickied on /b/.
+* November 8 - /new/ is (accidentally?) revived. No news posts are made, rules given, or mods on it. Title is "Yotsuba Image Board," the default title given to new boards; seems to be a mix of /co/ and /sp/ users at the moment with a healthy blend of racism thrown in. Posts from January still make up over half the board. Deadmau5 appears on /mu/.
+* November 12 - Official Chrome extension released and Firefox extension updated.
+* November 13 - Massive DDOS attack begins. Tumblr suspected.
+* November 16 - DDOS dies down
+* November 17 - Moot has a sticky in /g/. /r9k/ gets spoiler tags and people (s)talk about Shii. /v/ becomes El Vidyo and gets Hispanic background music.
+* November 20 - Moot tries to make pages load more quickly by changing how captchas load. Naturally, this makes captchas stop working altogether. Quickreply/Noko/All non-official 4chan applications stop working and the submit button grays out for a lot of people. I link moot to the thread and after he posts, the thread explodes with people bitching and moot undoes the changes after the thread hits 200 replies about an hour and a half later. (/g/21167645)
 
 ## 2012 ##
 
@@ -491,6 +512,59 @@ reads as follows:
 7 - 4chan's header is changed to the words "NO SCRUBS ALLOWED" and below that "SEE ABOVE". The song 
 No Scrubs by TLC is played in the backgroud. Much :stopmusic: faggotry ensues. The layout is returned 
 to normal on [ongoing]
+
+### Other events in 2012
+
+* February - /v/ beats reddit at Tribes Ascend, becomes ''/v/ - Well-coordinated and heavily practiced Reddit team beaten by a rag-tag group of /v/irgins run by a furry and a BR with 140 ping'' and gets GAL男宣言 background music. /v/ is split into /v/ and /vg/. ''/mlp/ - Pony'' is added. It is now impossible to get dubs on /v/.
+* August 6 - Moot submits a substantial news post to the /news page for the first time in over 4 years. In his post, he briefly summarizes the goings on of that time period as well as the current state of 4chan. This day also sees the creation of /q/, a new board for the discussion of site moderation and policy.
+* September 9 - Janitor applications are accepted for the first time in nearly 2 years. Within 24 hours, approximately 7,500 applications were submitted.
+* September 18 - Moot launches the 4chan "Pass," a tool that allows users to bypass CAPTCHA by donating $20. Many users whine about it, accusing Moot of jewing out. Others embrace it and gleefully purchase themselves one or two, some as gifts for a friend.
+* December 21 - /v/'s title is changed to FINAL HOURS and has the Final Hours music from the Legend of Zelda Majora's Mask playing in response to the predicted apocalypse. Two other stickies related to the so-called end of the world are posted on /b/ and /x/; the former was comedic and featured an autoplaying video of R.E.M.'s song "It's the End of the World As We Know It," while the latter was opened for more serious discussion.
+
+## 2013
+
+* January 7 - In response to pictures of teen pop sensation Justin Bieber smoking weed, /b/ pulls a prank on Twitter by using the hashtag #Cut4Bieber and showing pictures of cuts.
+* January 30 - /mlp/'s title is changed to ''WHERE IS YOUR GOD NOW?'' by moot as a joke due to the board's users' reactions to the announcement of the main character of the show becoming a princess.
+* February 20~ - Using "nokosage" in the email field now shows the poster's sage.
+* March 18 - Trial boards ''/asp/ - Alternative Sports'', ''/gd/ - Graphic Design'', ''/lgbt/ - Lesbian, Gay, Bisexual, & Transgender'', ''/out/ - Outdoors'', and ''/vr/ - Retro Games'' were added.
+* March 31 - The board ''/s4s/ - Shit 4chan Says'' is added "on a permanent basis" , a parody of the subreddit "Shit Reddit Says".
+* April 3 - /s4s/'s title is changed to ''/s4s/ - Shitposting 4n Steroids''.
+* April 7 - /vp/'s title is changed to ''/vp/ - RIGHT IN THE CHILDHOOD'' due to the board's users' reactions to a previously rumored "Mewtwo like" Pokémon being officialy revealed.
+ The Pokémon was later revealed to be a Mega evolution of Mewtwo.
+* April 7 - /s4s/'s title is changed to ''/s4s/ - Shitp4sterS''.
+* April~ - /s4s/'s title is changed back to ''/s4s/ - Shit 4chan Says''.
+* May 27 - /mlp/'s title is changed to ''IT'S HAPPENING'' by moot due to My Little Pony: Friendship is Magic's creator Lauren Faust's appearance on the board.
+* April 20-21 - /mlp/ achieves the 10M GET, and breaks the record for most replied post on 4chan with 2,046 replies to the the 10M GET.
+* July 14 - /v/ achieves its 200M GET - after lots of tension, the GET goes to a completely unrelated post in a Pikmin thread, asking, "Also why does everyone crash land trying to get to Earth? Seriously."
+* July 15 - A thread is posted on /b/ with a link to a contest where you can have a chance to meet Taylor Swift by writing an essay about why you should be considered her biggest fan. The OP urges everyone to vote for a "Charles Z". "Charles" quickly reached 1st place, and on the 19th, the radio station shut down the content for "being compromised". This was followed by other attempts to make "Charles" meet a pop star - rigging a contest by New York City's Z100 to meet Selena Gomez on the 21st, and being followed the next day by another raid on a contest by the same station to meet the Jonas Brothers. 
+* July 19 - /b/ twitter-bombs UFC fighter "War Machine." Raiders insult his family, send him pizzas, post him in the gay section of Craigslist, and almost fool him into deleting system 32. As a result War Machine became enraged and repeatedly punched himself in the head.  
+* August 11 - Some boards have been renamed to better reflect their purpose. /q/ is now "4chan Feedback" and /fit/ is now just "Fitness". In addition, /soc/ has been renamed to "Cams & Meetups".
+* August 15 - /b/ achieves its 500M GET, in a thread about Poland. The post was "poland has best prostitutes, i fucked plenty in london. i hope one is ur wife someday fag  500 mil get". The post had over 1,000 replies before the thread quickly 404d.
+* September 1 - IDs removed from /b/. Name, subject and email fields are re-added.
+* September 2 - IDs re-implemented on /b/. Name and subject fields re-removed.
+* September 3 - IDs yet again removed from /b/; name and subject fields are still gone.
+* September 3 - Moot posts a news post announcing a panel at Anime Weekend Atlanta to commemorate the site's tenth anniversary. It will be the first official panel since Otakon 2007 and "likely the last" 4chan will ever host. It is slated for September 28th in Atlanta, Georgia at 10PM EDT and will be live-streamed via YouTube for those unable to attend.
+* September 5 - Moot hosts his 4th PMQ/Q&A, but live-streamed from Google Hangouts to YouTube in audio. He states "If it goes well, we'll probably switch over to this format for the future." He then goes on to confirm this, and will now be hosting all Q&A's in audio format for the future.
+* September 15 - /s4s/ reaches its 1M GET, which was stolen by /g/.
+* September 18 - Moot announces sweeping changes to several 4chan features. Sage becomes invisible, /q/ is discontinued, post timers are updated, and a list of bans recently issued by mods is made available to the public.
+* September 28 - The aforementioned 10th Anniversary 4chan panel takes place at AWA. As with previous cons, it lasts for about one hour. /jp/ changes its title to " '''/jp/ - Weaponized /a/''' Home of ``Misunderstood Genuises<nowiki>'' "</nowiki>.
+* September 29 - Moot temporarily brings back /con/ - Conventions.
+* October 1 -  The tenth anniversary of 4chan. All images by OP have a birthday hat on them.
+* October 2 - /b/ pulls a prank to convince Miley Cyrus fans that the singer had contracted AIDS.
+* October 6 - An anon posts a 97-page document on /sp/ called "The Philmarilion". The document contained an exhaustive amount of notes, poems, artwork, and all posts by namefag UTV since July 1. The document is posted on various boards, with the poster being referred to as "the most autistic user in the history of 4chan."
+* October 8 - /con/ is removed.
+* November 21 - Static content such as images, thumbnails, CSS, JavaScript, etc are moved to a new domain: 4cdn.org.
+* November 30 - An anon livestreams his suicide attempt, posting a link on /b/. He sets his room on fire, but firefighters are seen pulling him out of safety.
+* December 15 - With an ad blocker activated, ads are replaced with "Please support 4chan by disabling your ad blocker on *.4chan.org/*, purchasing a self-serve ad, or buying a 4chan Pass." Of course, you could just adblock the message like you did the ads.
+* December 22 - 4chan passes go on sale.
+* December 22 - /b/ has a successful raid for the first time in ages. An anon finds a network of school sites have the default username and passwords. He proceeds to post them on /b/ to which a group of anons deface the site with the usual: porn, and the words "nigger" and "faggot" as well as a link to a narcotic honey-pot. CP had also been reported to have been posted. Anons who didn't use a proxy should be expecting a visit from the partyvan.
+* December 25 - In celebration of Christmas, all images used to start threads have red meme hats on them.
+
+## 2014
+
+* January 5 - Site goes on an outage from 01:32 - 13:10 (EST) due to MySQL error. Boards are semi-functional, as in the board pages are froze, but you can open threads and post, and also make new threads. People begin to make CP threads during this time
+
+* January 18 - It is announced that "You can now add a search term to the end of a board URL to default to a catalog search for that term. Exa: 4chan.org/a/waifu"
 
 ## Sources
 
