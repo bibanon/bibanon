@@ -2,17 +2,11 @@ The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to co
 
 We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. Click on the links in the sidebar to the right -> to check them out.
 
+Not sure what to look at first? The wikipage [[Culturally Important Treasures]] has a list of the best stuff currently on this wiki.
+
 ### Contribute
 
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] section if you'd like to start somewhere.
-
----
-
-Because of the huge scale of this wiki, the responsibilities of the wiki are divided into multiple teams with overlapping interests. There's an internet history team, general web content crawling team, history team, technology team, even an internet folklife team. Contribute to the one you feel the most interested in.
-
-The [[teams]] are listed here.
-
-Not sure what to look at first? The wikipage [[Culturally Important Treasures]] has a list of the best stuff currently on this wiki.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
 
 ### Introduction to Internet Culture
 
