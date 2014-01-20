@@ -1,10 +1,6 @@
-This entire page was saved from the fall of the second [[Wikichan|site/Wiki#Wikichan]]. It was written by a random redditor, and in a [comment](http://www.reddit.com/r/reddit.com/comments/8fq46/the_worlds_most_influential_person_is/c0951bi) he elaborates on how 4chan developed during a thread where [[moot]] announces his new creation, Canv.as.
+This entire page was saved from the fall of the second [[Wikichan]]. It was written by a random redditor, and in a [comment](http://www.reddit.com/r/reddit.com/comments/8fq46/the_worlds_most_influential_person_is/c0951bi) he elaborates on how 4chan developed during a thread where [[moot]] announces his new creation, Canv.as.
 
 It needs lots of work, especially for the Chanology, Boxxy, and Payback eras.
-
-## Table of Contents
-
-[[!toc ]]
 
 ## Prehistory
 
@@ -498,12 +494,12 @@ to normal on [ongoing]
 
 ## Sources
 
-* [Original Author's post](<http://www.reddit.com/r/reddit.com/comments/8fq46/the_worlds_most_influential_person_is/c0951bi)>
+* [Original Author's post](http://www.reddit.com/r/reddit.com/comments/8fq46/the_worlds_most_influential_person_is/c0951bi)
 
 ## External links ##
 
-* [http://www.4chan.org/news.php?all](News Archive)
-* [http://4chanarchive.org/brchive/22962179/moot+fanmail/](First Sticky)
-* [http://4chanarchive.org/brchive/22972938/moot+message/](Second Sticky)
-* [http://4chanarchive.org/brchive/23050445/b+is+b+again/ March 27, sticky]
-* [http://4chanarchive.org/brchive/23114402/DSFARGEG/ March 28, sticky]
+* [4chan News Archive](http://www.4chan.org/news.php?all)
+* [First Sticky](http://4chanarchive.org/brchive/22962179/moot+fanmail/)
+* [Second Sticky](http://4chanarchive.org/brchive/22972938/moot+message/)
+* [March 27, sticky](http://4chanarchive.org/brchive/23050445/b+is+b+again/)
+* [March 28, sticky](http://4chanarchive.org/brchive/23114402/DSFARGEG/)
