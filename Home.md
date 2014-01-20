@@ -1,14 +1,6 @@
-The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to collect, document, and safeguard the products and history of internet culture; which constitutes **the shared experience of mankind on a network that defines our lives**. We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. This includes:
+The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to collect, document, and safeguard the products and history of internet culture; which constitutes **the shared experience of mankind on a network that defines our lives**. 
 
-* Stories
-* Books
-* Internet History
-  * Subculture History
-  * Historical Analysis
-  * The Internet's effect on other subcultures and the world at large
-* Preemptive Raw Data Archives
-
-You could spend hours of your time here: We have a sizable collection already. Click on the links to the right to check them out.
+We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. You could spend hours of your time here: We have a sizable collection already.  Click on the links to the right to check them out.
 
 ### Contribute
 
