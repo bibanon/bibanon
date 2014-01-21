@@ -2,8 +2,6 @@ Here, Ladies & Gentlemen, is to be gathered the greatest, biggest, most honorabl
 
 ## How to Add Recipes
 
-Example: If you're making a recipe for Fried Chicken, you would type in: "Meat/Poultry/Fried_Chicken". See the  Use underscores rather than spaces.
-
 If you set up a new recipe that belongs to a specific kind of dish (such as cookies or crepes), make a new folder for all such recipes under the right course. Leave here only a description, or the most basic recipe of all of them.
 
 ## Unit Conversions
