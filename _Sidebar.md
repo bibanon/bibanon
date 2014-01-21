@@ -10,7 +10,6 @@
 
 * [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
-* [[Anarchist Cookbook]]
 * [[The Big Book of Anonymous Recipes]]
 * [[4chan History]]
 * [[Epic Win For Anonymous]]
