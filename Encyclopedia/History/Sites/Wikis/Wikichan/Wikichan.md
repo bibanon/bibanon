@@ -13,7 +13,7 @@ Wikichan was originally started in late 2006 as a kind of joke, a unique little 
 * [[Wikichan Downtime]]
 * [[Wikichan Second Downtime]]
 
-The amount of blanking raid and DDoSes against Wikichan by [[420chan]], [[Encyclopedia Dramatica]], and other no fun sites eventually caused it's demise. By the end of 2010, the last Wikichan SysOp gave up on the site and converted it into a shitty men's self-help blog which nobody reads (based on [[The Well-Cultured Anonymous]]). What remains of Wikichan's most important content survives on [[Encyclopedia Dramatica]], the [[Internet Archive]], and the [[LURKMOAR Wiki]].
+The amount of blanking raid and DDoSes against Wikichan by [[420chan]], [[Encyclopedia Dramatica]], and other no fun sites eventually caused it's demise. By the end of 2010, the last Wikichan SysOp gave up on the site and converted it into a shitty men's self-help blog which nobody reads (based on [[The Well-Cultured Anonymous]]). What remains of Wikichan's most important content survives on [[Encyclopedia Dramatica]], the [[Internet Archive]], the [[LURKMOAR Wiki]], and of course, the Bibliotheca Anonoma.
 
 In January 2012, the [[Yotsuba Society]] announced a plan to restore Wikichan's content to it's original state on [their own wiki](http://www.yswiki.org/wiki/). 30% of it was already been added, but the Yotsuba Society site had to be dissolved due to personal funding issues.
 
