@@ -61,7 +61,7 @@ These include:
 
 ## What to cook
 
-Of course, the biggest problem is deciding what to cook and how to cook it. That's where recipes come in. And we have a bunch of them in [[The_Big_Book_of_Anonymous_Recipes]], from the main course all the way to dessert.
+Of course, the biggest problem is deciding what to cook and how to cook it. That's where recipes come in. And we have a bunch of them in [[The Big Book of Anonymous Recipes]], from the main course all the way to dessert.
 
 ## Setting a table ##
 
@@ -73,6 +73,6 @@ Someone's work in a high standing restaurant: Ok, I'm not saying i'm a cool wait
 
 * You may join the edges of the napkin in the middle of it, then roll it along that line, the edges will not stick out and it'll have a smooth look to it. This way it'll make a roll that can easily and neatly be placed on the table.
 * Large cutlery(/silverware if you have such a thing) is for the main course, the normal ones are for anything but that, ranging from first dish to cheese.
-* Fish often has specific ustensils, such as a spoon and sometimes an unsharp knife; in the same way, dented( or very sharp) knives go with meat, but can be put out if said meat is very easy to separate(which means it is very high quality tender meat, when well done, use knife).
+* Fish often has specific utensils, such as a spoon and sometimes an unsharp knife; in the same way, dented( or very sharp) knives go with meat, but can be put out if said meat is very easy to separate(which means it is very high quality tender meat, when well done, use knife).
 * If you plan on serving champagne, which is often done before the actual meal, have a few champagne glasses (the tall, thin ones) ready on the side, and remove them as soon as possible.
 * If you plan on serving wine (possibly good quality), have 2 wine glasses ready per person, one for white wine, one for red wine (bigger). At my work they use a third, tiny glass for sweet wines,  often accompanying desserts (sometimes fish), glass to keep away until used.
