@@ -4,7 +4,7 @@ The first edition was written in 1970 by a disgruntled Vietnam War protestor. He
 
 We got the 1994 edition as txt files from [[1000 Tutorials]], so if you have anything to add or stuff to update, check [these forums](http://anarchistcookbook.com/) for new, useful guides, or download it in PDF [here](http://anarchistscookbook.net/).
 
-[The Anarchist's Cookbook can be found in tenative form here.](https://github.com/bibanon/bibanon/tree/master/Books/Guides/Anarchist-Cookbook)
+The BA's full copy of the Anarchist's Cookbook (converted to markdown) [can be found in tenative form here.](https://github.com/bibanon/bibanon/tree/master/Books/Guides/Anarchist-Cookbook)
 
 ## What needs to be done
 
