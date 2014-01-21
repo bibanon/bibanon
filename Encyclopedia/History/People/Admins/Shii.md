@@ -1,6 +1,6 @@
 Shii is an important historical figure and primary source in the field of English-language anonymous forums, like [[world2ch]] and [[4chan]]. 
 
-He served as one of 4chan's original moderators, but was overthrown during the crisis of the Civil War Era. He is also a major contributor to [[Wikipedia]], especially on those articles pretaining to [[Otaku]] culture and [[2channel]].
+He served as one of 4chan's original moderators, but was overthrown during the crisis of the [[Civil War Era|4chan Civil War Era]]. He is also a major contributor to [[Wikipedia]], especially on those articles pretaining to [[Otaku]] culture and [[2channel]].
 
 ## Shii's Personal Wiki (DOWN)
 
