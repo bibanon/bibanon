@@ -4,7 +4,7 @@ Because copypasta usually goes out of fashion and gets quickly forgotten, [[Ethe
 
 ## Saving Copypasta
 
-Copypasta refers to any short bit of text that is very interesting. It does not have to come from [[4chan]], it can come from [[Reddit]], conventional forums, or any random IRC. If you've got something that fits that criteria, save it here.
+Copypasta refers to any short bit of text that is constantly reposted, often to hilarious effect. It does not have to come from [[4chan]], it can come from [[Reddit]], conventional forums, or any random IRC. If you've got something that fits that criteria, save it here.
 
 We need help by writing descriptions for the copypasta in this page. We also need to save existing copypasta archives to this wiki. Check [[Copypasta Archives]] to see the links.
 
