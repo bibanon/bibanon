@@ -30,4 +30,4 @@
 
 ## Webcomics
 
-* [[Neglected Mario Characters|NC]] - Neglected Mario Characters, a popular sprite-based webcomic in the ancient internet. It's a perfect example of what people in the past enjoyed, as well as the sad, crushing failure when the authors have to adapt to a new culture.
+* [Neglected Mario Characters](http://github.com/bibanon/Neglected-Mario-Characters/wiki) - Neglected Mario Characters, a popular sprite-based webcomic in the ancient internet. It's a perfect example of what people in the past enjoyed, as well as the sad, crushing failure when the authors have to adapt to a new culture.
