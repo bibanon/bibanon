@@ -1,6 +1,6 @@
 [[images.jpeg|float]]
 
-'''Tramp anon''' !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a bit of survival will and the help of an immigrant girl sympathetic to his situation. 
+**Tramp anon** !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a bit of survival will and the help of an immigrant girl sympathetic to his situation. 
 
 It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, either touched with feeling or superficially angered. In any case, it's a long story, but read it and you'll understand why it's still popular to this day.
 
@@ -14,15 +14,15 @@ On the night of August 16, 2010, a thread was started on 4chan's [[G|/g/]] that 
 > 
 > Now I live in a shitty 1 bedroom apartment, haven't talked to anyone in over 2 years, mail only, sponge off benefits and going outside scares me, took me 4 months to afford the worst laptop the second hand ads could offer in the local paper, feels good to be on top. - Anonymous 08/16/10(Mon) No.12741167
 
-After catching the attention of /g/ and being asked to elaborate on this life story, the Anon decided to begin the story. At one point, the story was hijacked by various others, one involving [[CP|cheese pizza]] stealthily woven into the story and yet another that led to the female of importance in the story being a [[trap]]. As a result of these monkeyshines, the original author took on the name and [[tripcode]] of '''Tramp anon''' !!0JNSPD3l2CJ. Amusingly, those who did not read the thread very carefully further read the story under the presumption that the female character was in fact a trap.
+After catching the attention of /g/ and being asked to elaborate on this life story, the Anon decided to begin the story. At one point, the story was hijacked by various others, one involving [[CP|cheese pizza]] stealthily woven into the story and yet another that led to the female of importance in the story being a [[trap]]. As a result of these monkeyshines, the original author took on the name and [[tripcode]] of **Tramp anon** !!0JNSPD3l2CJ. Amusingly, those who did not read the thread very carefully further read the story under the presumption that the female character was in fact a trap.
 
 As Tramp anon continued the story through the night, some Anon started [[bumping]] the hell out of the thread with leg-fetish pictures at a ridiculous rate. Not that bumping was necessary anyway, as the thread had seemingly captured the attention of the whole board. This may have been the first time a thread has bottomed out on slow-traffic /g/.
 
 ## The story
 
-[[tramp-anon.jpg|float|width=200px|alt=The one we all know and cherish.]]
+[tramp-anon.jpg](https://raw.github.com/bibanon/bibanon/master/Stories/Tramp-Anon/tramp-anon.jpg) -The one we all know and cherish.
 
-[[tramp-anon-posts.png|float|width=200px|alt=The original posts on 4chan, in image format.]]
+[tramp-anon-posts.png](https://github.com/bibanon/bibanon/raw/master/Stories/Tramp-Anon/tramp-anon-posts.png) - The original posts on 4chan, in image format.
 
 There are multiple transcriptions of the story. The most common two are right on the side, as images. 
 
