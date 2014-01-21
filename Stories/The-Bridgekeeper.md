@@ -2,9 +2,9 @@ The below is a odd story from /b/, posted on 09/16/07. It has been dubbed "The B
 
 While some anons claim that it was plagarized verbatim from a printed book (Rant: An Oral Biography of Buster Casey; By Chuck Palahniuk), there has been no evidence to support that notion.
 
-Another anon states that it was copypasta from a forum called "Living With Style", and the OP stops posting after that. Unfortunately, the forum no longer exists, and there is no way to verify where the rest of the story is or whether it really was copypasta.
+Another anon states that it was copypasta from a forum called "Living With Style", and the OP stops posting after that. Unfortunately, the forum no longer exists, and there is no way to verify where the rest of the story is or whether it really was copypasta. 
 
-The pictures the OP posted was of creepy anime guro. Perhaps it was his fetish.
+The thread where this story was found is linked [here, from the cache of the fallen chanarchive](https://github.com/bibanon/bibanon/raw/master/Files/the-bridgekeeper.html), but is missing the images. (Which is a good thing. The pictures the OP posted was of creepy anime guro. Perhaps it was his fetish.)
 
 ### 39651922 (OP)
 
