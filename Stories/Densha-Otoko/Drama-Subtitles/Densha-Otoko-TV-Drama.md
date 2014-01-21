@@ -1,10 +1,10 @@
 The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause people to end up on the internet all day. Few other media has depicted so well the unmatched familial bond and support that users feel, even as they talk on an anonymous BBS.
 
-## Torrents
+## Torrent
 
-These subtitles were designed to be used with these AVI videos, and are included with the torrent.
+These subtitles were designed to be used with the AVI video in this torrent.
 
-* [Densha Otoko TV Drama](magnet:?xt=urn:btih:5RWLIYQZS2OQX6SGNEOMR2JIB4Q543GU&dn=Densha%20Otoko&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80)
+     magnet:?xt=urn:btih:5RWLIYQZS2OQX6SGNEOMR2JIB4Q543GU&dn=Densha%20Otoko&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80)
 
 
 ## Subtitles
@@ -16,6 +16,8 @@ They were made by the nice, hardworking guys at [D-Addicts.](http://www.d-addict
 See [[Subtitles]] for usage instructions.
 
 ## English Subs
+
+[All the subs can be downloaded from here.](https://github.com/bibanon/bibanon/raw/master/Files/DS-Subs.7z)
 
 * [[Densha Otoko - ep01 (704x396) [RAW].srt]]
 * [[Densha Otoko - ep02 (704x396) [RAW].srt]]
