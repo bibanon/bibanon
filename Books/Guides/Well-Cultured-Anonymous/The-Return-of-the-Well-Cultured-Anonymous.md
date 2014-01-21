@@ -91,5 +91,5 @@ The authors of the Return of the Well Cultured Anonymous thank all the [authors 
 ## Sources
 
 * [The (original) Well-Cultured Anonymous PDF](https://github.com/bibanon/bibanon/raw/master/Files/the_well-cultured_anonymous.pdf)
-* [Internet Archive of The Well-Cultured Anonymous on Wikichan](http://web.archive.org/web/20080511013813/http://www.wikichan.org/index.php/The Well_Cultured_Anonymous)
+* [Internet Archive of The Well-Cultured Anonymous on Wikichan](http://web.archive.org/web/20080125233344/http://www.wikichan.org/index.php/The_Well_Cultured_Anonymous)
 * [Well-Cultured, a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine](http://www.wellcultured.com/)
