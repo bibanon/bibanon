@@ -1,4 +1,4 @@
-Here, Ladies & Gentlemen, is to be gathered the greatest, biggest, most honorable, tasty, and splendid, list of recipes to ever hit Anonymous's cooking skills. Based on the pitifully small subsection from [[The_Well_Cultured_Anonymous|The_Return_of_the_Well_Cultured_Anonymous]], 
+Here, Ladies & Gentlemen, is to be gathered the greatest, biggest, most honorable, tasty, and splendid, list of recipes to ever hit Anonymous's cooking skills. This is based on the pitifully small subsection from [[The Well Cultured Anonymous|The Return of the Well Cultured Anonymous]], with additions discovered from the Well Cultured Wiki and the YSWiki.
 
 ## How to Add Recipes
 
