@@ -5,7 +5,7 @@
 
 ### Loli haet pizza
 
-[[!img lolihaetpizza.png size=200x200]]
+[[lolihaetpizza.png]]
 
 > ...no. I don't like pizza.
 > --Ampu-tan
