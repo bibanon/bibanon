@@ -4,7 +4,7 @@
 
 It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, either touched with feeling or superficially angered. In any case, it's a long story, but read it and you'll understand why it's still popular to this day.
 
-== Background ==
+## Background
 
 On the night of August 16, 2010, a thread was started on 4chan's [[G|/g/]] that asked a straight-forward question. That question was "You're greatly skilled at something that is useless in the real world. What is it?" After several responses, one Anon posted the following:
 
@@ -18,7 +18,7 @@ After catching the attention of /g/ and being asked to elaborate on this life st
 
 As Tramp anon continued the story through the night, some Anon started [[bumping]] the hell out of the thread with leg-fetish pictures at a ridiculous rate. Not that bumping was necessary anyway, as the thread had seemingly captured the attention of the whole board. This may have been the first time a thread has bottomed out on slow-traffic /g/.
 
-== The story ==
+## The story
 
 [[tramp-anon.jpg|float|width=200px|alt=The one we all know and cherish.]]
 
@@ -39,7 +39,7 @@ This transcription was made from the original thread archives at installgentoo.n
 * [/a/'s response](http://archive.foolz.us/a/thread/39302939)
 * [[All three threads on this wiki|Tramp-Anon.7z]]
 
-== The Aftermath ==
+## The Aftermath
 
 The life story had captured /g/, causing it to grind to a fucking halt, and many bawws were had. Early on, suggestions were made that that Tramp anon publish a book, as the story was deemed to be of best-seller quality. It was so impeccably summed up by "[[Oprah]] would eat up this shit." Regardless, /g/ was divided on the issue of whether the story was fact or fiction. Hardly surprising, seeing as the faggots will argue about everything.
 
