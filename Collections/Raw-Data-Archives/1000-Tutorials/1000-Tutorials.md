@@ -10,7 +10,7 @@ It's a 4MB 7ziped file with 1136 files of awesomeness. Extract it with [[WinRAR]
 
 You can get it from this wiki here: [1000-Tutorials.7z](https://github.com/bibanon/bibanon/raw/master/Collections/Raw-Data-Archives/1000-Tutorials/1000-Tutorials.7z)
 
-## Stuff inside
+## Stuff inside the archive
 
 (output of "tree" command inside "1000-Tutorials" directory)
 
