@@ -1,4 +1,4 @@
-[[images.jpg|float|alt=/a/ delivers]]
+[[images.jpeg|float|alt=/a/ delivers]]
 
 '''Tramp anon''' !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a bit of survival will and the help of an immigrant girl sympathetic to his situation. 
 
