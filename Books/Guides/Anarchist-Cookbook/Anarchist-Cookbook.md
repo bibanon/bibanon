@@ -1,14 +1,16 @@
-The Anarchist's Cookbook is a set of instructions of how to do some, well, morally unacceptable things, to put it in the best way. [[The Uncultured Anonymous]] is a project to update it and create an even larger book from the minds and info threads of [[Anonymous]].
+The Anarchist's Cookbook is a set of instructions of how to do some, well, morally unacceptable things, to put it in the best way. [[The Uncultured Anonymous]] is a project to update it and create an even larger book from the minds and info threads of [[Anonymous]]. While it is a dangerous book, it was almost like a bible for phreakers during the BBS era; making it historically significant at the very least.
 
 The first edition was written in 1970 by a disgruntled Vietnam War protestor. He became a Christian moralfag and has attempted to stop it's publication. Thankfully for us, his publisher prevented him from doing so, and now we have sites running to update, add to, and fix the Anarchist's Cookbook. Subsequent versions have been maintained off and on by multiple editors, and the modern editions mostly pretain to hacking as well as explosives.
 
 We got the 1994 edition as txt files from [[1000 Tutorials]], so if you have anything to add or stuff to update, check [these forums](http://anarchistcookbook.com/) for new, useful guides, or download it in PDF [here](http://anarchistscookbook.net/).
 
+[The Anarchist's Cookbook can be found in tenative form here.](https://github.com/bibanon/bibanon/tree/master/Books/Guides/Anarchist-Cookbook)
+
 ## What needs to be done
 
-It would help to reformat the pages (usually not much more than renaming to .md). Also, the txt files only have numbers as names, so rename them by following the [[index|index.txt]].
+It would help to reformat the pages and link to them on this page (usually not much more than renaming to .md). Also, the txt files only have numbers as names, so rename them by following the [[index|index.txt]].
 
-The pages may also need to be updated, but if you are making any changes, **copy the page to [[The Uncultured Anonymous]] first.** Since we are not affiliated with any known editors of the modern Anarchist's Cookbook, it would probably be best to make a seperate book rather than make unrecognized changes to an existing one.
+The pages may also need to be updated, but if you are making any changes, **copy the page to [[The Uncultured Anonymous]] first.** Since we are not affiliated with any known editors of the modern Anarchist's Cookbook, it would probably be best to make a separate book rather than make unrecognized changes to an existing one.
 
 ## DISCLAIMER
 
