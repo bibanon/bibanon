@@ -18,9 +18,9 @@ A (non)Danish anon known as [[Sarafan]] followed the threads in real time as the
 
 The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entirety of the wikipages beforehand.
 
-## Remastering Project
+The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve, which the Bibliotheca Anonoma discoverd 2 days before Megaupload's infamous takedown.
 
-The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve, which we saved 2 days before Megaupload's infamous takedown.
+### Bibliotheca Anonoma Remastering Project
 
 With the discovery of the original threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to. These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.
 
