@@ -21,13 +21,13 @@ After several responses, one Anon posted the following:
 
 After catching the attention of /g/ and being asked to elaborate on his life, the Anon decided to tell his story.
 
-## [[The Story|Tramp Anon Story]]
+## [[The Remastered Transcript|Tramp Anon Story]]
 
 There are multiple transcriptions of the story, but we, the Bibliotheca Anonoma, created a remastered transcription from archives of the original thread on 4chan, This includes the discussions that the 4channers had while reading, which people usually leave out. 
 
 It is the opinion of the Bibliotheca Anonoma that it is better to show what people felt, their compassion, and their doubts right as the recollection unfolded. Just like in [[Densha Otoko]], the anons are an important part of the story, playing an important role by egging on the speaker and giving him someone to talk to.
 
-Click this link to read: **[[Tramp Anon Story]]**
+Click this link to read: **[[the BA's Remastered Transcript.|Tramp Anon Story]]**
 
 ## Other Transcripts
 
