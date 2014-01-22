@@ -6,8 +6,6 @@ Because of the spam and shitposting that went on while he was speaking, most ano
 
 You're greatly skilled at something that is useless in the real world. What is it?
 
-[[1281998016747s.jpg]]
-
 ## 12740705
 
 Using GNU/Linux
