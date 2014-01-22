@@ -6,12 +6,6 @@ With each new subtitle release, there is usually a locked rar within the video, 
 
 There is also a corpse game going on that will be explained later in the article.
 
-### Sections
-
-* [[Damedame ARG Timeline]]
-* [[Damedame ARG Puzzles and Solutions]]
-* ARG Threads on 4chan (link to them on foolz or something)
-
 ### Background
 
 Damedame! are a subgroup who are currently subbing Log Horizon, as well as Kill la Kill. They are jokesubs (Again, think Duwang), and they contain numerous jokes that either come from /a/, relate to it, have reference to popular board culture/Japanese culture, or resound generally well with most people of /a/'s demographic. The thing that makes Damedame! different from not only other subgroups, but even other jokesub groups, is that there's something much deeper behind all of it, along with a few other discerning features.
@@ -25,26 +19,28 @@ At about week 5, a hidden text, a poem (der elkonig) was found in Maddie's twitt
 As the weeks progressed, a plot seemed to unfold. The texts seemed to have common themes, and from it, we've come up with a few ideas on how things are. Maddie, the subgroup leader, is probably the devil. This is obvious pretty much from the getgo with some of the texts we've received as well as the multiple allusions to it. Yotsumoe is probably from the future, he even sends emails from different times. Sam is probably dead in the future. In roughly 12 years, there will be a great death, that Yotsumoe is trying to prevent with Maddie. However, as of the time I'm writing this, there's a more pressing matter.
 
 ### Useful Links
-      Episodes 1-11 of Log Horizon (mp5 when available)
-      Episode 1) http://www.nyaa.se/?page=view&tid=480519
-      Episode 2) http://www.nyaa.se/?page=view&tid=482413
-      Episode 3) http://www.nyaa.se/?page=view&tid=484638
-      Episode 4) http://www.nyaa.se/?page=view&tid=486987
-      Episode 5) http://www.nyaa.se/?page=view&tid=489298
-      Episode 6) http://www.nyaa.se/?page=view&tid=491487
-      Episode 7) http://www.nyaa.se/?page=view&tid=493787
-      Episode 8) http://www.nyaa.se/?page=view&tid=496002
-      Episode 9) http://www.nyaa.se/?page=view&tid=498332
-      Episode 10) http://www.nyaa.se/?page=view&tid=500300
-      Episode 11) http://www.nyaa.se/?page=view&tid=502499
-      Episode 12) http://www.nyaa.se/?page=view&tid=504683
-      Episode 13) http://www.nyaa.se/?page=view&tid=506740
-      Episode 14) http://www.nyaa.se/?page=view&tid=508606
-       
-      Alternatively, the downloads for 1-8 are currently on MF
-      https://www.mediafire.com/folder/or1b7ram1l1ee/DameDame
-       
-      Archived discussion threads (starting from the great realization)
+Episodes 1-11 of Log Horizon on torrents (mp5 when available)
+
+Alternatively, the downloads for 1-8 are [currently on MF.]
+(https://www.mediafire.com/folder/or1b7ram1l1ee/DameDame)
+
+* [Episode1](http://www.nyaa.se/?page=view&tid=480519)
+* [Episode2](http://www.nyaa.se/?page=view&tid=482413
+* [Episode3](http://www.nyaa.se/?page=view&tid=484638
+* [Episode4](http://www.nyaa.se/?page=view&tid=486987
+* [Episode5](http://www.nyaa.se/?page=view&tid=489298
+* [Episode6](http://www.nyaa.se/?page=view&tid=491487
+* [Episode7](http://www.nyaa.se/?page=view&tid=493787
+* [Episode8](http://www.nyaa.se/?page=view&tid=496002
+* [Episode9](http://www.nyaa.se/?page=view&tid=498332
+* [Episode10](http://www.nyaa.se/?page=view&tid=500300
+* [Episode11](http://www.nyaa.se/?page=view&tid=502499
+* [Episode12](http://www.nyaa.se/?page=view&tid=504683
+* [Episode13](http://www.nyaa.se/?page=view&tid=506740
+* [Episode14](http://www.nyaa.se/?page=view&tid=508606
+  
+Archived discussion threads (starting from the great realization)
+
       https://archive.foolz.us/a/thread/96142707/
       https://archive.foolz.us/a/thread/96163694/
       https://archive.foolz.us/a/thread/96533883/
@@ -68,22 +64,18 @@ As the weeks progressed, a plot seemed to unfold. The texts seemed to have commo
       https://archive.foolz.us/a/thread/99448960/ (Monogatari, but has information about corpsegame)
       https://archive.foolz.us/a/thread/99621619/
       https://archive.foolz.us/a/thread/99993935/ (Also Monogatari)
- 
-      Useful images, including some collages put together (not complete)[Considerably more complete]
-      http://thehachi8man.imgur.com/
-             
-      The replies from Yotsumoe on November 30th
-      http://www.mediafire.com/download/m10k7xvmwg0063m/replies.7z
-       
-      You better vote, anon.
-      http://strawpoll.me/799240/
-       
-      There's an IRC now! Just go to rizon.net and the channel damedame
-       
-      If you want to know what the hell is going on post episode 10, I advise you to check out the IRC chat logs.
-      http://pastebin.com/u/damedamepaste
-       
-      Geimu Pastebin: http://pastebin.com/QvrfCpER
+
+[Useful images, including some collages put together](http://thehachi8man.imgur.com/)
+        
+[The replies from Yotsumoe on November 30th](http://www.mediafire.com/download/m10k7xvmwg0063m/replies.7z)
+  
+[Strawpoll. You better vote, anon.](http://strawpoll.me/799240/)
+  
+There's an IRC now! Just go to rizon.net and the channel damedame
+  
+If you want to know what the hell is going on post episode 10, I advise you to check out [the IRC chat logs.](http://pastebin.com/u/damedamepaste)
+  
+[Geimu Pastebin](http://pastebin.com/QvrfCpER)
       
 ### Sources
 
