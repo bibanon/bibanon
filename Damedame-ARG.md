@@ -1,4 +1,8 @@
-DameDame is, at its core, a trollsub group whose subs have terrible grammar and jokes directed towards /a/nons. It is completely possible to watch their subs, get a good laugh, and then move on and forget about them. However, the reason why so many people are caught up in this is the alternate reality game (ARG) run by Yotsumoe, Maddie, and Sam, and BKITNY created and run using the subgroup. With each new release, there is usually a locked rar within the video, along with a new puzzle on Yotsumoe's tumblr that provides the password. Each new file within the rar provides a cryptic new clue to some aspect of the DameDame members, the future they come from, or what they're trying to accomplish.
+DameDame is a trollsub group whose subs have terrible grammar and jokes directed towards /a/nons. 
+
+The trollsub group has created an alternate reality game (ARG) <about what?> run by Yotsumoe, Maddie, and Sam, and BKITNY created and hosted at the subgroup. 
+
+With each new subtitle release, there is usually a locked rar within the video, along with a new puzzle on Yotsumoe's tumblr that provides the password. Each new file within the rar provides a cryptic new clue to some aspect of the DameDame members, the future they come from, or what they're trying to accomplish.
 
 ### Background
 
