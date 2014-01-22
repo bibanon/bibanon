@@ -5,6 +5,7 @@
 * [[Editing]]
 * [[Current projects]]
 * [[Culturally Important Treasures]]
+* [Edit this Sidebar](https://github.com/bibanon/bibanon/wiki/_Sidebar/_edit)
 
 ## [[Books]]
 
