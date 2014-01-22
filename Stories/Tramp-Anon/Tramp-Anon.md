@@ -16,9 +16,10 @@ After several responses, one Anon posted the following:
 >  
 > I never got into the IT sector despite knowing more than most level 1 and 2 tech support lackies and lived on the streets for a whole year without begging, hell i even beat up another tramp and stole his shoes, when I was kicked out of the house I'd never so much as looked at someone the wrong way.  
 >  
-> Now I live in a shitty 1 bedroom apartment, haven't talked to anyone in over 2 years, mail only, sponge off benefits and going outside scares me, took me 4 months to afford the worst laptop the second hand ads could offer in the local paper, feels good to be on top. - Anonymous 08/16/10(Mon) No.12741167  
+> Now I live in a shitty 1 bedroom apartment, haven't talked to anyone in over 2 years, mail only, sponge off benefits and going outside scares me, took me 4 months to afford the worst laptop the second hand ads could offer in the local paper, feels good to be on top.  
+> - Anonymous 08/16/10(Mon) No.12741167  
 
-After catching the attention of /g/ and being asked to elaborate on this life story, the Anon decided to begin the story.
+After catching the attention of /g/ and being asked to elaborate on his life, the Anon decided to begin the story.
 
 As Tramp anon continued the story through the night, some Anon started [[bumping]] the hell out of the thread with leg-fetish pictures at a ridiculous rate. Not that bumping was necessary anyway, as the thread had seemingly captured the attention of the whole board. This may have been the first time a thread has bottomed out on slow-traffic /g/.
 
