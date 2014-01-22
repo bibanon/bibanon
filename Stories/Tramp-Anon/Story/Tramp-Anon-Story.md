@@ -6,7 +6,7 @@ Because of the spam and shitposting that went on while he was speaking, most ano
 
 ## 12740705
 
-[[1281998016747s.jpg|float|align=left]]
+[[1281998016747s.jpg|float|align=right]]
 
 Using GNU/Linux
 
