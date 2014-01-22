@@ -4,9 +4,9 @@ Because of the spam and shitposting that went on while he was speaking, most ano
 
 # Thread 1
 
-## 12740705
-
 [[1281998016747s.jpg|float|align=right]]
+
+## 12740705
 
 Using GNU/Linux
 
