@@ -25,19 +25,19 @@ Alternatively, the downloads for 1-8 are [currently on MF.]
 (https://www.mediafire.com/folder/or1b7ram1l1ee/DameDame)
 
 * [Episode1](http://www.nyaa.se/?page=view&tid=480519)
-* [Episode2](http://www.nyaa.se/?page=view&tid=482413
-* [Episode3](http://www.nyaa.se/?page=view&tid=484638
-* [Episode4](http://www.nyaa.se/?page=view&tid=486987
-* [Episode5](http://www.nyaa.se/?page=view&tid=489298
-* [Episode6](http://www.nyaa.se/?page=view&tid=491487
-* [Episode7](http://www.nyaa.se/?page=view&tid=493787
-* [Episode8](http://www.nyaa.se/?page=view&tid=496002
-* [Episode9](http://www.nyaa.se/?page=view&tid=498332
-* [Episode10](http://www.nyaa.se/?page=view&tid=500300
-* [Episode11](http://www.nyaa.se/?page=view&tid=502499
-* [Episode12](http://www.nyaa.se/?page=view&tid=504683
-* [Episode13](http://www.nyaa.se/?page=view&tid=506740
-* [Episode14](http://www.nyaa.se/?page=view&tid=508606
+* [Episode2](http://www.nyaa.se/?page=view&tid=482413)
+* [Episode3](http://www.nyaa.se/?page=view&tid=484638)
+* [Episode4](http://www.nyaa.se/?page=view&tid=486987)
+* [Episode5](http://www.nyaa.se/?page=view&tid=489298)
+* [Episode6](http://www.nyaa.se/?page=view&tid=491487)
+* [Episode7](http://www.nyaa.se/?page=view&tid=493787)
+* [Episode8](http://www.nyaa.se/?page=view&tid=496002)
+* [Episode9](http://www.nyaa.se/?page=view&tid=498332)
+* [Episode10](http://www.nyaa.se/?page=view&tid=500300)
+* [Episode11](http://www.nyaa.se/?page=view&tid=502499)
+* [Episode12](http://www.nyaa.se/?page=view&tid=504683)
+* [Episode13](http://www.nyaa.se/?page=view&tid=506740)
+* [Episode14](http://www.nyaa.se/?page=view&tid=508606)
   
 Archived discussion threads (starting from the great realization)
 
