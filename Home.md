@@ -6,7 +6,7 @@ Not sure what to look at first? The wikipage [[Culturally Important Treasures]] 
 
 ### Contribute
 
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
 
 ### Introduction to Internet Culture
 
