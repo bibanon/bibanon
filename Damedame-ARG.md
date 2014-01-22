@@ -19,66 +19,66 @@ At about week 5, a hidden text, a poem (der elkonig) was found in Maddie's twitt
 As the weeks progressed, a plot seemed to unfold. The texts seemed to have common themes, and from it, we've come up with a few ideas on how things are. Maddie, the subgroup leader, is probably the devil. This is obvious pretty much from the getgo with some of the texts we've received as well as the multiple allusions to it. Yotsumoe is probably from the future, he even sends emails from different times. Sam is probably dead in the future. In roughly 12 years, there will be a great death, that Yotsumoe is trying to prevent with Maddie. However, as of the time I'm writing this, there's a more pressing matter.
 
 ### Useful Links
-Episodes 1-11 of Log Horizon (mp5 when available)
-Episode 1) http://www.nyaa.se/?page=view&tid=480519
-Episode 2) http://www.nyaa.se/?page=view&tid=482413
-Episode 3) http://www.nyaa.se/?page=view&tid=484638
-Episode 4) http://www.nyaa.se/?page=view&tid=486987
-Episode 5) http://www.nyaa.se/?page=view&tid=489298
-Episode 6) http://www.nyaa.se/?page=view&tid=491487
-Episode 7) http://www.nyaa.se/?page=view&tid=493787
-Episode 8) http://www.nyaa.se/?page=view&tid=496002
-Episode 9) http://www.nyaa.se/?page=view&tid=498332
-Episode 10) http://www.nyaa.se/?page=view&tid=500300
-Episode 11) http://www.nyaa.se/?page=view&tid=502499
-Episode 12) http://www.nyaa.se/?page=view&tid=504683
-Episode 13) http://www.nyaa.se/?page=view&tid=506740
-Episode 14) http://www.nyaa.se/?page=view&tid=508606
+      Episodes 1-11 of Log Horizon (mp5 when available)
+      Episode 1) http://www.nyaa.se/?page=view&tid=480519
+      Episode 2) http://www.nyaa.se/?page=view&tid=482413
+      Episode 3) http://www.nyaa.se/?page=view&tid=484638
+      Episode 4) http://www.nyaa.se/?page=view&tid=486987
+      Episode 5) http://www.nyaa.se/?page=view&tid=489298
+      Episode 6) http://www.nyaa.se/?page=view&tid=491487
+      Episode 7) http://www.nyaa.se/?page=view&tid=493787
+      Episode 8) http://www.nyaa.se/?page=view&tid=496002
+      Episode 9) http://www.nyaa.se/?page=view&tid=498332
+      Episode 10) http://www.nyaa.se/?page=view&tid=500300
+      Episode 11) http://www.nyaa.se/?page=view&tid=502499
+      Episode 12) http://www.nyaa.se/?page=view&tid=504683
+      Episode 13) http://www.nyaa.se/?page=view&tid=506740
+      Episode 14) http://www.nyaa.se/?page=view&tid=508606
+       
+      Alternatively, the downloads for 1-8 are currently on MF
+      https://www.mediafire.com/folder/or1b7ram1l1ee/DameDame
+       
+      Archived discussion threads (starting from the great realization)
+      https://archive.foolz.us/a/thread/96142707/
+      https://archive.foolz.us/a/thread/96163694/
+      https://archive.foolz.us/a/thread/96533883/
+      https://archive.foolz.us/a/thread/96585504/
+      https://archive.foolz.us/a/thread/96894661/
+      https://archive.foolz.us/a/thread/96913207/
+      https://archive.foolz.us/a/thread/97247124/
+      https://archive.foolz.us/a/thread/97606339/
+      https://archive.foolz.us/a/thread/97625734/
+      https://archive.foolz.us/a/thread/97979893/
+      https://archive.foolz.us/a/thread/97999151/
+      https://archive.foolz.us/a/thread/98006500/
+      https://archive.foolz.us/a/thread/98381660/
+      https://archive.foolz.us/a/thread/98410202/ (Let's not let this happen again okay?)
+      https://archive.foolz.us/a/thread/98766573/
+      https://archive.foolz.us/a/thread/98799629/
+      https://archive.foolz.us/a/thread/98854618/
+      https://archive.foolz.us/a/thread/99009048/ <- Christmas and Art
+      https://archive.foolz.us/a/thread/99173806/
+      https://archive.foolz.us/a/thread/99204942/
+      https://archive.foolz.us/a/thread/99448960/ (Monogatari, but has information about corpsegame)
+      https://archive.foolz.us/a/thread/99621619/
+      https://archive.foolz.us/a/thread/99993935/ (Also Monogatari)
  
-Alternatively, the downloads for 1-8 are currently on MF
-https://www.mediafire.com/folder/or1b7ram1l1ee/DameDame
- 
-Archived discussion threads (starting from the great realization)
-https://archive.foolz.us/a/thread/96142707/
-https://archive.foolz.us/a/thread/96163694/
-https://archive.foolz.us/a/thread/96533883/
-https://archive.foolz.us/a/thread/96585504/
-https://archive.foolz.us/a/thread/96894661/
-https://archive.foolz.us/a/thread/96913207/
-https://archive.foolz.us/a/thread/97247124/
-https://archive.foolz.us/a/thread/97606339/
-https://archive.foolz.us/a/thread/97625734/
-https://archive.foolz.us/a/thread/97979893/
-https://archive.foolz.us/a/thread/97999151/
-https://archive.foolz.us/a/thread/98006500/
-https://archive.foolz.us/a/thread/98381660/
-https://archive.foolz.us/a/thread/98410202/ (Let's not let this happen again okay?)
-https://archive.foolz.us/a/thread/98766573/
-https://archive.foolz.us/a/thread/98799629/
-https://archive.foolz.us/a/thread/98854618/
-https://archive.foolz.us/a/thread/99009048/ <- Christmas and Art
-https://archive.foolz.us/a/thread/99173806/
-https://archive.foolz.us/a/thread/99204942/
-https://archive.foolz.us/a/thread/99448960/ (Monogatari, but has information about corpsegame)
-https://archive.foolz.us/a/thread/99621619/
-https://archive.foolz.us/a/thread/99993935/ (Also Monogatari)
- 
-Useful images, including some collages put together (not complete)[Considerably more complete]
-http://thehachi8man.imgur.com/
- 
-The replies from Yotsumoe on November 30th
-http://www.mediafire.com/download/m10k7xvmwg0063m/replies.7z
- 
-You better vote, anon.
-http://strawpoll.me/799240/
- 
-There's an IRC now! Just go to rizon.net and the channel damedame
- 
-If you want to know what the hell is going on post episode 10, I advise you to check out the IRC chat logs.
-http://pastebin.com/u/damedamepaste
- 
-Geimu Pastebin: http://pastebin.com/QvrfCpER
-
+      Useful images, including some collages put together (not complete)[Considerably more complete]
+      http://thehachi8man.imgur.com/
+             
+      The replies from Yotsumoe on November 30th
+      http://www.mediafire.com/download/m10k7xvmwg0063m/replies.7z
+       
+      You better vote, anon.
+      http://strawpoll.me/799240/
+       
+      There's an IRC now! Just go to rizon.net and the channel damedame
+       
+      If you want to know what the hell is going on post episode 10, I advise you to check out the IRC chat logs.
+      http://pastebin.com/u/damedamepaste
+       
+      Geimu Pastebin: http://pastebin.com/QvrfCpER
+      
 ### Sources
 
 All of these were made by ArchiveGuy, the /a/non in charge of keeping records of the game.
