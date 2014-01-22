@@ -6,6 +6,12 @@ With each new subtitle release, there is usually a locked rar within the video, 
 
 There is also a corpse game going on that will be explained later in the article.
 
+### Sections
+
+* [[Damedame ARG Timeline]]
+* [[Damedame ARG Puzzles and Solutions]]
+* ARG Threads on 4chan (link to them on foolz or something)
+
 ### Background
 
 Damedame! are a subgroup who are currently subbing Log Horizon, as well as Kill la Kill. They are jokesubs (Again, think Duwang), and they contain numerous jokes that either come from /a/, relate to it, have reference to popular board culture/Japanese culture, or resound generally well with most people of /a/'s demographic. The thing that makes Damedame! different from not only other subgroups, but even other jokesub groups, is that there's something much deeper behind all of it, along with a few other discerning features.
