@@ -168,7 +168,7 @@ At this point I'd just skip ahead 20 pages to see if they were blank, make sure 
 
 Still reading, better not involve her having pizza in her hand -_- 
 
-## 12742619 (NOT OP)
+## 12742619 (from a ghostwriting troll)
 
 *not written by the storyteller*
 
