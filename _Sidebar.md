@@ -30,8 +30,8 @@
 
 ## [[Collections]]
 
-* [[Copypasta]]
 * [[Damedame ARG]]
+* [[Copypasta]]
 * [[Lulz A Corruption of LOL]]
 * [[Essays]]
 * [[Text Art]]
