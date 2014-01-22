@@ -30,15 +30,19 @@
 ## [[Collections]]
 
 * [[Copypasta]]
+* [[Damedame ARG]]
 * [[Lulz A Corruption of LOL]]
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
 * [[more...|Collections]]
 
-## Encyclopedia
+## History
 
 * [[History]]
+
+## Encyclopedia
+
 * [[Memes]]
 * [[Terminology]]
 * [[Flash]]
