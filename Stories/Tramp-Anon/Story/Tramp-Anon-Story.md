@@ -4,7 +4,7 @@ Because of the spam and shitposting that went on while he was speaking, most ano
 
 # Thread 1
 
-[[1281998016747s.jpg|float|align=right]]
+[[1281998016747s.jpg]]
 
 ## 12740705
 
