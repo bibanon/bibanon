@@ -2,7 +2,7 @@
 
 **Tramp anon** !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a bit of survival will and the help of an immigrant girl sympathetic to his situation. 
 
-It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, either touched with feeling or superficially angered. In any case, it's a long story, but read it and you'll understand why it's still popular to this day.
+It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, due to the incredible adversities that he faced, how one girl helped him off his feet when everyone else would look away and of course, confusion over what "Tramp" in his name means (apparently the British define a "tramp" as a homeless guy).
 
 ## Background
 
@@ -18,7 +18,7 @@ After catching the attention of /g/ and being asked to elaborate on this life st
 
 As Tramp anon continued the story through the night, some Anon started [[bumping]] the hell out of the thread with leg-fetish pictures at a ridiculous rate. Not that bumping was necessary anyway, as the thread had seemingly captured the attention of the whole board. This may have been the first time a thread has bottomed out on slow-traffic /g/.
 
-## The story
+## [[The Story|Tramp Anon Story]]
 
 There are multiple transcriptions of the story, but we, the Bibliotheca Anonoma, created a remastered transcription from archives of the original thread on 4chan, This includes the discussions that the 4channers had while reading, which people usually leave out. 
 
