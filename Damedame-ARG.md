@@ -1,4 +1,4 @@
-<write general description here>
+DameDame is, at its core, a trollsub group whose subs have terrible grammar and jokes directed towards /a/nons. It is completely possible to watch their subs, get a good laugh, and then move on and forget about them. However, the reason why so many people are caught up in this is the alternate reality game (ARG) run by Yotsumoe, Maddie, and Sam, and BKITNY created and run using the subgroup.
 
 ### Background
 
