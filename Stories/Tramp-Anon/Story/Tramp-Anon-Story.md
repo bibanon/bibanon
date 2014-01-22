@@ -26,7 +26,7 @@ OP is a troll, because no one here is skilled at anything.
 
 I'm really good at feeling sympathy for people. 
 
-## 12741167 **Tramp anon** !!0JNSPD3l2CJ
+## 12741167 (**Tramp anon** !!0JNSPD3l2CJ)
 
 I'm a survivor, I got tossed out into the streets at 18 with no qualifications, no money and just the clothes on my back and I broke into an old building, stole old clothes from charity bins and stole food out of bins until I came up with a plan, that plan failed. 
 
@@ -40,7 +40,7 @@ Completely and utterly true, I snapped on the streets when I was beaten up by ki
 
 Holy shit dude! thats so cool and so sad at the same time... how did it all turn out that way? 
 
-## 12741613 **Tramp anon** !!0JNSPD3l2CJ
+## 12741613 (**Tramp anon** !!0JNSPD3l2CJ)
 
 Ergh... ok, trolls ahoy and all that shit.
 
@@ -76,7 +76,7 @@ Keep going bro.
 
 go ahead, even if you are lying its fun to read 
 
-## 12741782 **Tramp anon** !!0JNSPD3l2CJ
+## 12741782 (**Tramp anon** !!0JNSPD3l2CJ)
 
 ok.
 
@@ -84,7 +84,7 @@ my midnight raid routine continued for months until i started to get real pissed
 
 I started breaking into old cars, my trusty fucking brick was my weapon of choice, many satnavs, phones, wallets, expensive shit fell to it's power, id beat the fuck out of locked glove boxes to open them, retards thought if they locked it i wouldnt look, fuck me if it was locked i KNEW something good had to be inside it, i pawned that shit and started saving money, money was good, i could afford to buy pizza rather than eat filthy stale crust out of the bins, and i kept my money in a pair of thick tights i wore on me under my jeans.
 
-## 12741882 **Tramp anon** !!0JNSPD3l2CJ
+## 12741882 (**Tramp anon** !!0JNSPD3l2CJ)
 
 eventually I had 1000 quid, the pawn shops i sold my shit to ripped me off because they knew the stuff i was selling was stolen and they needed money to keep their mouths shut and i didnt have to sign any forms saying i used to own it, fair enough, as long as i was getting money. 
 
@@ -92,7 +92,7 @@ With that 1000 i made a plan, i went to the council house and bought a new birth
 
 Using the internet cafe i started researching what i needed to do to get off the streets, things were looking up for me. i thought my year of hell was over.
 
-## 12741949 **Tramp anon** !!0JNSPD3l2CJ
+## 12741949 (**Tramp anon** !!0JNSPD3l2CJ)
 
 eating a pot noodle, give me a sec. 
 
@@ -110,7 +110,7 @@ Clarinet brofist. I only use it to impress the females if they happen to venture
 
 If you're going to play a woodwind, play a motherfucking saxophone or something. 
 
-## 12742102 **Tramp anon** !!0JNSPD3l2CJ
+## 12742102 (**Tramp anon** !!0JNSPD3l2CJ)
 
 pot noodle was good, fucking chicken and mushroom, anyway.
 
@@ -120,7 +120,7 @@ That was fine, my money was saved until i could figure out a way out, until one 
 
 I was back to nothing, many nights i cried, i didnt want to go back to breaking into cars and pissing people off but I had to, so a few nights later i did, i found another brick, and i broke into a brand new BMW, one with great alarms and all the bells and whistles because i spotted a purse on the passenger seat, it was worth the risk.
 
-## 12742237 **Tramp anon** !!0JNSPD3l2CJ
+## 12742237 (**Tramp anon** !!0JNSPD3l2CJ)
 
 in the purse I found jewellery, 150 quid, credit cards, debit cards, pictures etc, of course i took the jewellery and pawned it, and i was back upto 240 quid in a single night, rock on.
 
@@ -132,7 +132,7 @@ I waited until night then I snuck around the back, to my fucking astonishment th
 
 HOLY SHIT THIS IS GETTING GOOD. 
 
-## 12742393 **Tramp anon** !!0JNSPD3l2CJ
+## 12742393 (**Tramp anon** !!0JNSPD3l2CJ)
 
 i can just about laugh about it now, but that gate kept me safe when i was asleep, id sleep with it next to me in the hovel, it was too heavy to use as something like a bat, but i could carry it, and i could swing it, and it proved it use.
 
@@ -144,7 +144,7 @@ I took a chance, went to primark, bought my shit, 2 sets of casual clothes and a
 
 I looked semi-presentable, and low and behold, the job center started giving me the time of day, and finally i started getting somewhere.
 
-## 12742490 **Tramp anon** !!0JNSPD3l2CJ
+## 12742490 (**Tramp anon** !!0JNSPD3l2CJ)
 
 there was an opening for an IT temp, no quals necessary, i fucking jumped at it, the company was small but it looked promising, very fucking promising. 
 
@@ -179,7 +179,7 @@ When I showed up my mom got scared and said you're movin with your antie and unc
 
 No.
 
-## 12742639 **Tramp anon** !!0JNSPD3l2CJ
+## 12742639 (**Tramp anon** !!0JNSPD3l2CJ)
 
 one day after work i started walking home and she asked where i live, i didnt tell her, i said it was none of her business, she looked at me point blank and said "you're a tramp aren't you, its obvious, the way you look, smell, act, it's written all over your face" and i started crying in the street, and im not talking weeps, i cracked and let it all out, slumped down next to a wall and she just stood there looking at me, when i let up she said "I'll take you for something to eat, but only if you promise to tell me everything, i can help you", fine, she didnt say it in that grade of english, but give her a break, shes fucking polish, i dont speak a word of pole, and for once in a year and a half, I reached out for help, real help. she took me to fucking papa johns, bought me a huge cheese pizza, and I spilled everything, where i was, what i was doing, the stealing, the struggling, the muggings, the beatings, everything, and then she said something i'd fucking wanted someone to say to me for a long long time, 
 "It's going to be okay, I'm going to help you", i didnt care people were staring, I sat and silently wept as she told me what she could do, what i could do, places i could visit for housing, benefits i was entitled to etc... it was amazing.
@@ -210,13 +210,13 @@ i stood staring at her, trying to hold back my tears, she said "This is home for
 
 im crying right now just remembering that moment, it was amazing.
 
-## 12743606 **Tramp anon** !!0JNSPD3l2CJ
+## 12743606 (**Tramp anon** !!0JNSPD3l2CJ)
 
 she went into her bedroom and threw a bag at me, inside i had 3 towels, 5 sets of socks and boxers, 3 sets of bed clothes and some shower gel, she said to me "this is start, you give me your bag, you wash really well, clean shower after, i sort out bag while you wash" and while i washed, she went through my things and picked out things I could use and threw the rest. 
 
 When I came out of the shower in my new things she smiled and said "haha, it is good start, we sleep now, you do not come out of room" she waited until i was in bed, turned off the light and closed the door, and i cried myself tears of happiness until i fell asleep.
 
-## 12743885 **Tramp anon** !!0JNSPD3l2CJ
+## 12743885 (**Tramp anon** !!0JNSPD3l2CJ)
 
 my forms came back, I was officially on the housing list and every day for a long time things went smoothly, wake, shower, eat work chores eat bed, over the weeks she worked on reintegrating me, took me for a haircut, helped me get things like clothes, taught me some of her cooking (I cook blitz's and Kurczak de volaille all the time), taught me how to pay bills, took me for a new bank account (I was getting paid in pay mandate slips that I could take to the companies bank before hand), and started making me feel like a person again
 
@@ -224,7 +224,7 @@ At home before bed we would sit, watch TV, talk about things, i learned alot abo
 
 Slowly, I started getting privileges, like her trusting me to watch TV while she went to bed, being able to go to the toilet at night, being able to go shopping and come back, I really was beginning to feel like a person again, to the point that my humanity started returning, i started being sociable at work, keeping our secret of course, and for the first time in ages, i was happy, really happy.'
 
-## 12744094 **Tramp anon** !!0JNSPD3l2CJ
+## 12744094 (**Tramp anon** !!0JNSPD3l2CJ)
 
 skip ahead 4 months, she completely trusted me, and I'd never do a thing to harm her, in fact I became very protective over her, she was a goddess to me, something to be guarded, she was the only friend I had in the world, of course I'd be like that, then she started doing little things i look back on now and see as signs. 
 
@@ -236,7 +236,7 @@ It was november at this point. One night, she said "We need tea, milk, butter, b
 
 OP come on this isn't a free for all something-for-nothing, finish your god damn story 
 
-## 12744433 **Tramp anon** !!0JNSPD3l2CJ
+## 12744433 (**Tramp anon** !!0JNSPD3l2CJ)
 
 I looked and it was gone, she looked at me and smiled, and said "It cost too much to keep warm at night alone, we can try tonight sleep in my bed, I think you will be good", dumbfounded I nodded, took a shower, put my bed clothes on, and we got into bed, I couldnt sleep a wink, this was... woah to me. completely unbelievable, remember I'd never been in a bed with a girl before, I didnt know what the hell to do, but i knew one wrong move and I'd be out on my ass and straight back to square one, so I just lay there, then she started talking, word for word, she said this
 
@@ -259,7 +259,7 @@ That's hot
 
 :') that's technology right there 
 
-## 12744703 **Tramp anon** !!0JNSPD3l2CJ
+## 12744703 (**Tramp anon** !!0JNSPD3l2CJ)
 
 sharing her bed became standard from then on, and after a week of her training me to hold her while she slept, it became normal to me, normal, but something I looked forward to every night, of course I'd sometimes think of sex, but I knew where I was, she called the shots, i knew not to cross her, and i was adamant on never pissing her off, my money was saving up quite well in the bank and before I knew it I was almost normal. 
 
@@ -274,19 +274,19 @@ She said to me once it was her favorite thing to do in school and she got really
 
 shit, Yamaha saxes start at 2 grand just for the beginner models 
 
-## 12744929 **Tramp anon** !!0JNSPD3l2CJ
+## 12744929 (**Tramp anon** !!0JNSPD3l2CJ)
 
 she wrestled me down onto the sofa, pinned me down and wrapped her arms around me "THAAANK YOUU! how did you know!? it is amazing! I love it! Thank you soooo much!" I said "You have no idea how important you are to me, I'd still be in the gutter if it wasn't for you, this is nothing compared to how much I owe, Im just so glad you like it..."
 
 she looked down at me and said "You really mean what you say don't you...", sincerely, I nodded,
 "close your eyes for a second" I stared at her for a second, not knowing where she was going with it, she said it again "close your eyes", I did, and she kissed me so deeply and passionately, she never broke it for ages, running her fingers up my arms and resting them in my palms, she continued, obviously loving every second of it, I kept my eyes closed and enjoy every second, until she pulled away, I opened my eyes, no sooner did I open them she tugged me up and lead me into the bedroom.
 
-## 12745405 **Tramp anon** !!0JNSPD3l2CJ
+## 12745405 (**Tramp anon** !!0JNSPD3l2CJ)
 
 I was thrown onto the bed, she dived ontop of me, straddling my clothes off, kissing me, tearing her clothes off, me completely clueless and lost, not knowing what to do, but loving every second, hard as a fucking rock, I was mounted and ravaged, pinned down and ridden hard, I could swear the room was moving, completely intoxicated by everything, she moved my hands up to her breasts and squeeze her hips even harder, and rode faster and faster, until I felt myself cumming, she felt she que my body gave and bowed down on me, squeezed tight and rode hard, it was a win-win, we both came my first time... and we did it 4 more times, it was very early in the morning before we were both too exhausted to carry on, as she rolled off me and curled herself around I said "Incase you didnt hear the first 100 times, you're amazing..." she giggled and wrapped herself around me as i got between the sheets, as she put her arms around me I said "I'm glad you like the sax..." she said "I got more than my sax WHICH i love thank 
 you, you were virgin before tonight, i remember you saying?" I looked over and nodded, "3 things actually, that was my first kiss on the sofa too..." she awww'd and squeezed me tightly, then she went "Oh!" and switched her nightstand light on "I got you a present too! would you like it?" I smiled and nodded, nothing could compare to what I just had, but all the same I was thrilled she got me something too, i wasn't expecting anything, she pulled a little box with a bow tie on it.
 
-## 12745563 **Tramp anon** !!0JNSPD3l2CJ
+## 12745563 (**Tramp anon** !!0JNSPD3l2CJ)
 
 she took my hand and placed it in my palm, I pulled the bow and opened the box, there was a key inside and a little note, it simply read "stay here with me!", I wrapped my arms around her and squeezed tightly, of course I wanted to stay! she knew exactly what to get me, I was thrilled, after a little more making out we fell asleep, I woke up the next day to the sweet sound of sax coming from the living room, I assessed my nakedness and the clothes thrown around the room.
 
@@ -319,7 +319,7 @@ What happens next Trampy!?
 
 You don't know shit about technology until you've read the Tramp Anon posts.  
 
-## 12745886 **Tramp anon** !!0JNSPD3l2CJ
+## 12745886 (**Tramp anon** !!0JNSPD3l2CJ)
 
 I walked into the livingroom after putting my bed clothes back on, she was sitting in nothing but her 
 panties with the Sax, all of her other presents open and handled, yet abandoned, it would seem she 
@@ -383,7 +383,7 @@ and Jason Statham as Jacob Finley
 ...in...  
 The Pole who Loved Me.  
 
-## 12746276 **Tramp anon** !!0JNSPD3l2CJ
+## 12746276 (**Tramp anon** !!0JNSPD3l2CJ)
 
 New years eve was just as special, at the clock struck 00:00 she kissed me and held it for the full minute with her arms wrapped around my back and neck, as she broke, she said "Happy new years..." I said "Happy new years..." We gazed into each others eyes as the fireworks went off deeper in the city, the skies alight with the most romantic and brilliant setting available, after a while, she said "We start as we mean to go on yes?" I said "Absolutely" and we went to the bedroom again and didnt stop until 5am, it was like this until January 4th, we went back to work, and our love grew and grew over the months, we reached March 21st, her birthday, in which I both presented her with a custom mouthpiece for her Saxophone, and confessed my love, and she said something that has always stayed with me, she said "When we met we were alone, I think fate made us meet, Life has been so good since I met you, you are my everything now, I love you too"
 
@@ -416,12 +416,12 @@ what happened to that story guy? with the viking hat? i miss him :(
 write a book, seriously  
 send your parents a copy with "fuck you" written in it 
 
-## 12746525 **Tramp anon** !!0JNSPD3l2CJ
+## 12746525 (**Tramp anon** !!0JNSPD3l2CJ)
 
 Things went so well, we made so many plans, so so many plans, I bought her a ring and popped her the question August 12th, it was an unconditional yes, we planned to have the wedding in her home town in Poland, I had disowned my family after all, and I had no friends, having it in England where nobody would celebrate it with us was pointless, we saved up 4300 quid, the wedding we planned, along with the present I wanted to give to her family, the honeymoon in the Canary Islands needed just under 6000, but we were working hard to make it happen, and although we were living frugally to make it happen, we loved every second of each others company, the passion never left us for even a second, never had an arguement, she was a strong leader who loved and respected her subordinate, I was a loyal subordinate who loved and respected his leader, we worked well as a team, too well, we lived for each others sake, constantly, relentlessly expressing our love for each other, that christmas we spent it in Poland with her 
 family, I got every single one of them a gift to show them appreciation for raising and nurturing the love of my life the way they had, I got her a little glass rose made with her and my name inscribed along the stem, she loved it, she really did.
 
-## 12746774 **Tramp anon** !!0JNSPD3l2CJ
+## 12746774 (**Tramp anon** !!0JNSPD3l2CJ)
 
 ... February 7th she collapsed at work out of the blue, she fell into a coma. her family came and stopped with me for a while, we visited her every day, there was always someone by her side, every second someone could be there, someone was, I pleaded with her to wake up every single day, even if it was just a whisper, I would say to her "It's christmas... come on babe wake up, you have presents" and a few times I swore I saw her smile.
 
@@ -493,7 +493,7 @@ obviously it was real, the guys probably crying his eyes out right now, be a lit
 >understand his feelings
 >4chan
 
-## Unknown ID **Tramp anon** !!0JNSPD3l2CJ
+## Unknown ID (**Tramp anon** !!0JNSPD3l2CJ)
 
 > what did she actually die of? was an autopsy performed?
 
@@ -531,7 +531,7 @@ retelling the sad parts, or how it was near the end...
 that is what breaks you and tears you apart. its very hard.  
 >maybe one day you'll understand
 
-## 12747939 **Tramp anon** !!0JNSPD3l2CJ
+## 12747939 (**Tramp anon** !!0JNSPD3l2CJ)
 
 I cried a lot and fell asleep.  
 I'm going to bed again after I shower.  
@@ -558,7 +558,7 @@ Rest well, trampanon.
 
 it's official. /g/ has a boxxy, and is inching towards civil war. 
 
-## 12748105 **Tramp anon** !!0JNSPD3l2CJ
+## 12748105 (**Tramp anon** !!0JNSPD3l2CJ)
 
 Why would I give a shit if you people believe me or not? What difference would it make? I only posted mt story because someone asked.
 
@@ -569,7 +569,7 @@ for clarification, i used to say "wake up, its christmas" while she was in her c
 
 Life isn't hollywood, if it was, she'd still be here.  
 
-## Unknown ID **Tramp anon** !!0JNSPD3l2CJ
+## Unknown ID (**Tramp anon** !!0JNSPD3l2CJ)
 
 There is no happy ever after, at least not in my case, and as months passed I felt the need to be closer to her. I do live on, theres been plenty of times i've though about face-stamping the concrete, but I see her face, she loved life, she never wasted a second, it would be an insult to throw away what was taken from her. 
 
@@ -596,7 +596,7 @@ You've got this anon's blessings.
 Trampanon, before you go, can I ask a question?  
 What was your fiancée's name? 
 
-## 12748305 **Tramp anon** !!0JNSPD3l2CJ
+## 12748305 (**Tramp anon** !!0JNSPD3l2CJ)
 
 ... Tesia.
 
@@ -605,6 +605,6 @@ What was your fiancée's name?
 [[1282025841027s.jpg|float|align=left]]
 
 > Tesia  
-> Loved by god
+> Definition: Loved by god
 
 well... fuck. 
