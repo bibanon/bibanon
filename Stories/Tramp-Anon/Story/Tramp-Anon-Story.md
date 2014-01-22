@@ -152,9 +152,9 @@ I was wrong, despite knowing my shit i was looked down upon, it was obvious i wa
 
 She was polish, didnt speak english very well at all, but even though i smelt like sweat and shit, she tried to make conversation, unfortunately my time on the streets turned me fucking nuts, i didnt trust people. i hated everyone, and i knew she was only talking to me out of some sense of obligation, she didnt actually like me.
 
-## 12742561 (NOT THE STORYTELLER)
+## 12742561 (from a ghostwriting troll)
 
-(from a ghostwriting troll)
+*not written by the storyteller*
 
 I didn't know what to do, so I started to hit on her. I wanted her to like me because I had nothing else in this pathetic life of mine. Eventually after weeks of flirting she invited me back to her place. I did the same thing I did when I needed a job, shower, etc. I got to her place, and we had a bottle of wine. My first alcohol in a long time. Things started to get intimate, so I started to get her into the sexual mood. We started making out, and one thing led to another, and we got in bed. She was kinky, tied me to the bed, and I liked it until I saw that she was actually a he. 
 
@@ -170,6 +170,8 @@ Still reading, better not involve her having pizza in her hand -_-
 
 ## 12742619 (NOT OP)
 
+*not written by the storyteller*
+
 I was so consumed with rage that I just decided to fuck it and go home, maybe, just maybe, my parents 
 would accept me back.
 
@@ -179,14 +181,14 @@ When I showed up my mom got scared and said you're movin with your antie and unc
 
 No.
 
-## 12742639 (Storyteller)
+## 12742639  (Storyteller, now **Tramp anon** !!0JNSPD3l2CJ)
+
+fuck you trolling assholes, now im tripping.
 
 one day after work i started walking home and she asked where i live, i didnt tell her, i said it was none of her business, she looked at me point blank and said "you're a tramp aren't you, its obvious, the way you look, smell, act, it's written all over your face" and i started crying in the street, and im not talking weeps, i cracked and let it all out, slumped down next to a wall and she just stood there looking at me, when i let up she said "I'll take you for something to eat, but only if you promise to tell me everything, i can help you", fine, she didnt say it in that grade of english, but give her a break, shes fucking polish, i dont speak a word of pole, and for once in a year and a half, I reached out for help, real help. she took me to fucking papa johns, bought me a huge cheese pizza, and I spilled everything, where i was, what i was doing, the stealing, the struggling, the muggings, the beatings, everything, and then she said something i'd fucking wanted someone to say to me for a long long time, 
 "It's going to be okay, I'm going to help you", i didnt care people were staring, I sat and silently wept as she told me what she could do, what i could do, places i could visit for housing, benefits i was entitled to etc... it was amazing.
 
-## 12742844 (Storyteller, now **Tramp anon** !!0JNSPD3l2CJ)
-
-fuck you trolling assholes, now im tripping.
+## 12742844 (**Tramp anon** !!0JNSPD3l2CJ)
 
 over the next few weeks she bought in forms for me to sign, they were tenancy papers, and every night after work we would go to the same pizza place and sign forms, she would talk me through processes, she told me how my squatting would eventually land me in deep shit and asked if i had anywhere else to stay, a real address. 
 
