@@ -28,7 +28,7 @@ This is our life's work. It's our gift to you. And to all mankind.
 
 *Welcome to the Bibliotheca Anonoma.*
 
-## The Internet as an Extension of Real Life
+## The Internet as an Extension of Physical Reality
 
 Today we live in an era where the internet has become more than a tool of humanity; it is an alternate reality where most of humanity's interaction and livelihoods take place, and thus influence the physical world. 
 
