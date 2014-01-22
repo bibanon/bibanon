@@ -26,7 +26,7 @@ OP is a troll, because no one here is skilled at anything.
 
 I'm really good at feeling sympathy for people. 
 
-## 12741167 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12741167 (Storyteller)
 
 I'm a survivor, I got tossed out into the streets at 18 with no qualifications, no money and just the clothes on my back and I broke into an old building, stole old clothes from charity bins and stole food out of bins until I came up with a plan, that plan failed. 
 
@@ -40,7 +40,7 @@ Completely and utterly true, I snapped on the streets when I was beaten up by ki
 
 Holy shit dude! thats so cool and so sad at the same time... how did it all turn out that way? 
 
-## 12741613 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12741613 (Storyteller)
 
 Ergh... ok, trolls ahoy and all that shit.
 
@@ -76,7 +76,7 @@ Keep going bro.
 
 go ahead, even if you are lying its fun to read 
 
-## 12741782 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12741782 (Storyteller)
 
 ok.
 
@@ -84,7 +84,7 @@ my midnight raid routine continued for months until i started to get real pissed
 
 I started breaking into old cars, my trusty fucking brick was my weapon of choice, many satnavs, phones, wallets, expensive shit fell to it's power, id beat the fuck out of locked glove boxes to open them, retards thought if they locked it i wouldnt look, fuck me if it was locked i KNEW something good had to be inside it, i pawned that shit and started saving money, money was good, i could afford to buy pizza rather than eat filthy stale crust out of the bins, and i kept my money in a pair of thick tights i wore on me under my jeans.
 
-## 12741882 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12741882 (Storyteller)
 
 eventually I had 1000 quid, the pawn shops i sold my shit to ripped me off because they knew the stuff i was selling was stolen and they needed money to keep their mouths shut and i didnt have to sign any forms saying i used to own it, fair enough, as long as i was getting money. 
 
@@ -92,7 +92,7 @@ With that 1000 i made a plan, i went to the council house and bought a new birth
 
 Using the internet cafe i started researching what i needed to do to get off the streets, things were looking up for me. i thought my year of hell was over.
 
-## 12741949 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12741949 (Storyteller)
 
 eating a pot noodle, give me a sec. 
 
@@ -110,7 +110,7 @@ Clarinet brofist. I only use it to impress the females if they happen to venture
 
 If you're going to play a woodwind, play a motherfucking saxophone or something. 
 
-## 12742102 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12742102 (Storyteller)
 
 pot noodle was good, fucking chicken and mushroom, anyway.
 
@@ -120,7 +120,7 @@ That was fine, my money was saved until i could figure out a way out, until one 
 
 I was back to nothing, many nights i cried, i didnt want to go back to breaking into cars and pissing people off but I had to, so a few nights later i did, i found another brick, and i broke into a brand new BMW, one with great alarms and all the bells and whistles because i spotted a purse on the passenger seat, it was worth the risk.
 
-## 12742237 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12742237 (Storyteller)
 
 in the purse I found jewellery, 150 quid, credit cards, debit cards, pictures etc, of course i took the jewellery and pawned it, and i was back upto 240 quid in a single night, rock on.
 
@@ -132,7 +132,7 @@ I waited until night then I snuck around the back, to my fucking astonishment th
 
 HOLY SHIT THIS IS GETTING GOOD. 
 
-## 12742393 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12742393 (Storyteller)
 
 i can just about laugh about it now, but that gate kept me safe when i was asleep, id sleep with it next to me in the hovel, it was too heavy to use as something like a bat, but i could carry it, and i could swing it, and it proved it use.
 
@@ -144,7 +144,7 @@ I took a chance, went to primark, bought my shit, 2 sets of casual clothes and a
 
 I looked semi-presentable, and low and behold, the job center started giving me the time of day, and finally i started getting somewhere.
 
-## 12742490 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12742490 (Storyteller)
 
 there was an opening for an IT temp, no quals necessary, i fucking jumped at it, the company was small but it looked promising, very fucking promising. 
 
@@ -152,9 +152,9 @@ I was wrong, despite knowing my shit i was looked down upon, it was obvious i wa
 
 She was polish, didnt speak english very well at all, but even though i smelt like sweat and shit, she tried to make conversation, unfortunately my time on the streets turned me fucking nuts, i didnt trust people. i hated everyone, and i knew she was only talking to me out of some sense of obligation, she didnt actually like me.
 
-## 12742561 (NOT OP)
+## 12742561 (NOT THE STORYTELLER)
 
-(troll post)
+(from a ghostwriting troll)
 
 I didn't know what to do, so I started to hit on her. I wanted her to like me because I had nothing else in this pathetic life of mine. Eventually after weeks of flirting she invited me back to her place. I did the same thing I did when I needed a job, shower, etc. I got to her place, and we had a bottle of wine. My first alcohol in a long time. Things started to get intimate, so I started to get her into the sexual mood. We started making out, and one thing led to another, and we got in bed. She was kinky, tied me to the bed, and I liked it until I saw that she was actually a he. 
 
@@ -179,12 +179,12 @@ When I showed up my mom got scared and said you're movin with your antie and unc
 
 No.
 
-## 12742639 (**Tramp anon** !!0JNSPD3l2CJ)
+## 12742639 (Storyteller)
 
 one day after work i started walking home and she asked where i live, i didnt tell her, i said it was none of her business, she looked at me point blank and said "you're a tramp aren't you, its obvious, the way you look, smell, act, it's written all over your face" and i started crying in the street, and im not talking weeps, i cracked and let it all out, slumped down next to a wall and she just stood there looking at me, when i let up she said "I'll take you for something to eat, but only if you promise to tell me everything, i can help you", fine, she didnt say it in that grade of english, but give her a break, shes fucking polish, i dont speak a word of pole, and for once in a year and a half, I reached out for help, real help. she took me to fucking papa johns, bought me a huge cheese pizza, and I spilled everything, where i was, what i was doing, the stealing, the struggling, the muggings, the beatings, everything, and then she said something i'd fucking wanted someone to say to me for a long long time, 
 "It's going to be okay, I'm going to help you", i didnt care people were staring, I sat and silently wept as she told me what she could do, what i could do, places i could visit for housing, benefits i was entitled to etc... it was amazing.
 
-## 12742844
+## 12742844 (Storyteller, now **Tramp anon** !!0JNSPD3l2CJ)
 
 fuck you trolling assholes, now im tripping.
 
