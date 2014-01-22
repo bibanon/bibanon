@@ -6,7 +6,11 @@ It is a famous story around [[4chan]], and caused a massive reaction from /g/ wh
 
 ## Background
 
-On the night of August 16, 2010, a thread was started on 4chan's [[/g/|G]] that asked a straight-forward question. That question was "You're greatly skilled at something that is useless in the real world. What is it?" After several responses, one Anon posted the following:
+On the night of August 16, 2010, [a thread was started on 4chan's [[/g/|G]] that asked a straight-forward question](http://archive.installgentoo.net/cgi-board.pl/g/thread/12740705): 
+
+> "You're greatly skilled at something that is useless in the real world. What is it?" 
+
+After several responses, one Anon posted the following:
 
 > I'm a survivor, I got tossed out into the streets at 18 with no qualifications, no money and just the clothes on my back and I broke into an old building, stole old clothes from charity bins and stole food out of bins until I came up with a plan, that plan failed.   
 >  
