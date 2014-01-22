@@ -1,8 +1,8 @@
 [[images.jpeg|float]]
 
-**Tramp anon** !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a bit of survival will and the help of an immigrant girl sympathetic to his situation. 
+**Tramp anon** !!0JNSPD3l2CJ is a an anon who is thrown out into homelessness, barely managing to survive the cold and hungry nights, but manages to scrape his way back to subsistence with a strong will to live and the help of an immigrant girl sympathetic to his situation. 
 
-It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, due to the incredible adversities that he faced, how one girl helped him off his feet when everyone else would look away and of course, confusion over what "Tramp" in his name means (apparently the British define a "tramp" as a homeless guy).
+It is a famous story around [[4chan]], and caused a massive reaction from /g/ when it was posted, due to the incredible adversities that he faced, how one girl helped him off his feet when everyone else would look away, and of course, confusion over what "Tramp" in his name means. (apparently to the British, a "tramp" is a homeless guy)
 
 ## Background
 
