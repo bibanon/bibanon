@@ -1,8 +1,6 @@
-This is a remastered edition of the story, made by [[Iruel]] in the Bibliotheca Anonoma from the original archived threads at installgentoo.net. 
+This is a remastered edition of the story, produced by the Bibliotheca Anonoma from the original archived threads at installgentoo.net. 
 
-Because of the spam and arguments that went on while he was speaking, the original archives only saved the distilled story. (You can read it here)
-
-But this overlooks the community that enjoyed and egged the author to keep telling his story, giving responses, encouragement, and a healthy bit of trolling, as the [[Densha Otoko]] TV Drama shows.
+Because of the spam and shitposting that went on while he was speaking, most anons thought it fit to archive only the distilled story with no comments. Yet we shouldn't overlook the anons on /g/ that kept the author going, giving responses, encouragement, and a healthy bit of trolling, akin to the [[Densha Otoko]] TV Drama.
 
 # Thread 1
 
