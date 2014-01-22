@@ -18,7 +18,15 @@ At about week 5, a hidden text, a poem (der elkonig) was found in Maddie's twitt
  
 As the weeks progressed, a plot seemed to unfold. The texts seemed to have common themes, and from it, we've come up with a few ideas on how things are. Maddie, the subgroup leader, is probably the devil. This is obvious pretty much from the getgo with some of the texts we've received as well as the multiple allusions to it. Yotsumoe is probably from the future, he even sends emails from different times. Sam is probably dead in the future. In roughly 12 years, there will be a great death, that Yotsumoe is trying to prevent with Maddie. However, as of the time I'm writing this, there's a more pressing matter.
 
+### Start Here
+
+Since the Damedame ARG is still in progress, you will have to catch up through the archived 4chan threads at foolz, and the pastebins made by ArchiveGuy, the /a/non in charge of keeping records of the game.
+
+* [Damedame ARG Introduction - By ArchiveGuy](http://pastebin.com/uTPwKf87)
+* [Damedame Full Record - By ArchiveGuy](http://pastebin.com/59pR7tGW)
+
 ### Useful Links
+
 Episodes 1-11 of Log Horizon on torrents (mp5 when available)
 
 Alternatively, the downloads for 1-8 are [currently on MF.]
@@ -76,9 +84,3 @@ There's an IRC now! Just go to rizon.net and the channel damedame
 If you want to know what the hell is going on post episode 10, I advise you to check out [the IRC chat logs.](http://pastebin.com/u/damedamepaste)
   
 [Geimu Pastebin](http://pastebin.com/QvrfCpER)
-      
-### Sources
-
-All of these were made by ArchiveGuy, the /a/non in charge of keeping records of the game.
-* [Damedame ARG Introduction - By ArchiveGuy](http://pastebin.com/uTPwKf87)
-* [Damedame Full Record - By ArchiveGuy](http://pastebin.com/59pR7tGW)
