@@ -14,7 +14,7 @@ On the night of August 16, 2010, a thread was started on 4chan's [[/g/|G]] that 
 >  
 > Now I live in a shitty 1 bedroom apartment, haven't talked to anyone in over 2 years, mail only, sponge off benefits and going outside scares me, took me 4 months to afford the worst laptop the second hand ads could offer in the local paper, feels good to be on top. - Anonymous 08/16/10(Mon) No.12741167  
 
-After catching the attention of /g/ and being asked to elaborate on this life story, the Anon decided to begin the story. At one point, the story was hijacked by various others, one involving [[cheese pizza|CP]] stealthily woven into the story and yet another that led to the female of importance in the story being a [[trap]]. As a result of these monkeyshines, the original author took on the name and [[tripcode]] of **Tramp anon** !!0JNSPD3l2CJ. Amusingly, those who did not read the thread very carefully further read the story under the presumption that the female character was in fact a trap.
+After catching the attention of /g/ and being asked to elaborate on this life story, the Anon decided to begin the story.
 
 As Tramp anon continued the story through the night, some Anon started [[bumping]] the hell out of the thread with leg-fetish pictures at a ridiculous rate. Not that bumping was necessary anyway, as the thread had seemingly captured the attention of the whole board. This may have been the first time a thread has bottomed out on slow-traffic /g/.
 
@@ -42,8 +42,12 @@ These are the original thread archives at installgentoo.net.
 
 ## The Aftermath
 
-The life story had captured /g/, causing it to grind to a fucking halt, and many bawws were had. Early on, suggestions were made that that Tramp anon publish a book, as the story was deemed to be of best-seller quality. It was so impeccably summed up by "[[Oprah]] would eat up this shit." Regardless, /g/ was divided on the issue of whether the story was fact or fiction. Hardly surprising, seeing as the faggots will argue about everything.
+At one point, the story was hijacked by various others, one involving [[cheese pizza|CP]] stealthily woven into the story and yet another that led to the female of importance in the story being a [[trap]]. As a result of these monkeyshines, the original author took on the name and [[tripcode]] of **Tramp anon** !!0JNSPD3l2CJ. Amusingly, those who did not read the thread very carefully further read the story under the presumption that the female character was in fact a trap.
+
+The life story had captured /g/, causing it to grind to a fucking halt, and many bawws were had. Early on, suggestions were made that that Tramp anon publish a book, as the story was deemed to be of best-seller quality. It was so impeccably summed up by "[[Oprah]] would eat up this shit." Regardless, /g/ was divided on the issue of whether the story was fact or fiction. Hardly surprising, seeing as anons will argue about everything.
 
 After a denizen of /g/ appealed to /a/ for drawfag sketches to give present to Tramp anon should he re-appear the following night, /a/ too shared in the bawwfest which was Tramp anon's story, and a few kind /a/nons decided to draw up some pictures for Tramp anon.
+
+* [/a/'s response](http://archive.foolz.us/a/thread/39302939)
 
 > Poland waifus... ;_; - /a/ Anonymous 08/17/10(Tue)14:44 No.39303978
