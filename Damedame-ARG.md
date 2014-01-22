@@ -1,6 +1,6 @@
 DameDame is a trollsub group whose subs have terrible grammar and jokes directed towards /a/nons. 
 
-The trollsub group has created an alternate reality game (ARG) (about what?) run by Yotsumoe, Maddie, and Sam, and BKITNY created and hosted at the subgroup. 
+The trollsub group has created an alternate reality game (ARG) involving a dystopian future 12 years from now, caused somehow or another by the "cartel" of subgroups (mostly Daiz). Yotsumoe, Maddie, and Sam are here from that future to try to save humanity, while BKITNY, Sam's tulpa, was created afterwards. 
 
 With each new subtitle release, there is usually a locked rar within the video, along with a new puzzle on Yotsumoe's tumblr that provides the password. Each new file within the rar provides a cryptic new clue to some aspect of the DameDame members, the future they come from, or what they're trying to accomplish.
 
