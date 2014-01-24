@@ -62,6 +62,7 @@ Stories gleaned right out of SA's paywall.
 ## [[Reddit]]
 
 * **[[Rome Sweet Rome]]** - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
+* **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
 * **[[1984 Sweet 1984]]** - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
 
 ## [[Wikichan]]
