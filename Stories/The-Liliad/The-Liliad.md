@@ -3,7 +3,8 @@
 The Liliad was probably one of the most popular stories on /b/, ever. The threads in which OP posted new installments hit bump limits within a a few hours, and threads devoted to discussion of the story in between new installments rarely, if ever, died before the next installment. There were some pastas concerning the story, both of which are archived here.
 
 ### Lily
-Lily was described as half-Asian, half-white, and as presenting with the best of both sides. OP flatly refused to post any pictures of her, probably because it's stupid to post pictures to /b/. However, OP's signature picture was one of [Kiernan Shipka](http://fuuka.worldathleticproject.org/boards/b/image/1381/64/1381640412301.jpg), suggesting that Lily at least somewhat resembles her.
+
+Lily was described as half-Asian, half-white, and as presenting with "the best of both sides". OP flatly refused to post any pictures of her, probably because it's stupid to post pictures to /b/. However, OP's signature picture was one of [Kiernan Shipka](http://fuuka.worldathleticproject.org/boards/b/image/1381/64/1381640412301.jpg), suggesting that Lily at least somewhat resembles her.
 
 ### The Story
 * [[First Installment|Liliad Thread 1]] - October 12
@@ -18,3 +19,7 @@ Lily was described as half-Asian, half-white, and as presenting with the best of
 ### Sources
 
 * [Liliad Collaborative Google Doc](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
+* [marvinody's Tumblr - The Liliad](http://marvinody.tumblr.com/)
+* [marvinody's Tumblr - The Trollchats](http://marvinody.tumblr.com/trollchats)
+* [Encyclopedia Dramatica - The Liliad](https://encyclopediadramatica.es/The_Liliad)
+* [Daily Dot - Review of The Liliad](http://www.dailydot.com/lifestyle/4chan-liliad-lolita-pedophile-fantasy/)
