@@ -7,15 +7,6 @@
 * [[Culturally Important Treasures]]
 * [Edit this Sidebar](https://github.com/bibanon/bibanon/wiki/_Sidebar/_edit)
 
-## [[Books]]
-
-* [[The Return of the Well Cultured Anonymous]]
-* [[The Uncultured Anonymous]]
-* [[The Big Book of Anonymous Recipes]]
-* [[4chan History]]
-* [[Epic Win For Anonymous]]
-* [[more...|Books]]
-
 ## [[Stories]]
 
 * [[Damaged Goods]]
@@ -27,6 +18,15 @@
 * [[The Great Scam]]
 * [[American Dream]]
 * [[more...|Stories]]
+
+## [[Books]]
+
+* [[The Return of the Well Cultured Anonymous]]
+* [[The Uncultured Anonymous]]
+* [[The Big Book of Anonymous Recipes]]
+* [[4chan History]]
+* [[Epic Win For Anonymous]]
+* [[more...|Books]]
 
 ## [[Collections]]
 
