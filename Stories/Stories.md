@@ -8,19 +8,19 @@ Tales about anons who discovered an orphan in a terrible situation, and with the
 
 These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
-* [[Damaged Goods]] - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
+* **[[Damaged Goods]]** - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
   * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
-* [[Blindmute Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves, and later adopts an orphan from the street. 
+* **[[Blindmute Loli]]** - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves, and later adopts an orphan from the street. 
   * The injustice he suffers and the struggles he goes though just to see his adopted daughter will make you laugh, and will make you cry. Nobody knows if it's real or not, but it's a good story nevertheless.
 
 ### Feels Bad Man
 
 Stories that will leave you crying.
 
-* [[Lee Won]] - A Robot from /r9k/ decides to start his own crappy rock band. They call themselves "The Korean Pop Robots 9000" after their star guitarist, Lee Won. Hilarity ensues. And drama. And all those other emotions you see in a good band movie. Probably one of the stories here worth making a movie about.
-* [[Tramp Anon]] - The recollections of an anon thrown out of his house as a youngster, left homeless in a cold and hungry world.
+* **[[Lee Won]]** - A Robot from /r9k/ decides to start his own crappy rock band. They call themselves "The Korean Pop Robots 9000" after their star guitarist, Lee Won. Hilarity ensues. And drama. And all those other emotions you see in a good band movie. Probably one of the stories here worth making a movie about.
+* **[[Tramp Anon]]** - The recollections of an anon thrown out of his house as a youngster, left homeless in a cold and hungry world.
   * He faces tremendous pain and struggle in a vicious cycle of poverty, relying only on his will to survive. An immigrant girl decides to cut him some slack when no one else would, and bring him back to a normal life.
-* [[Cool Story Bro]] - A robot from /r9k/ opens his door to see a girl that he never wanted to think about ever again, begging him for help.
+* **[[Cool Story Bro]]** - A robot from /r9k/ opens his door to see a girl that he never wanted to think about ever again, begging him for help.
 
 ### The Forbidden Fruit
 
@@ -28,44 +28,44 @@ Stories that will leave you crying.
 
 Tales told of trials and tribulations, faced by those anons whose love is not only socially forbidden, but could result in the end of their lives.
 
-* [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
-* [[The Liliad]] - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
-* [[Tasha's Brother]] - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
+* **[[Uncle Anon]]** - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
+* **[[The Liliad]]** - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
+* **[[Tasha's Brother]]** - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
 
 ### WTF
 
 These stories will make you hurl.
 
-* [[Cheerios]] - A man who loves Cheerios. A bit... too much.
-* [[The Bridgekeeper]] - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
-* [[Pools Closed Novel]] - WTF is this? A mess of memes created as a copypasta by anons on /b/.
+* **[[Cheerios]]** - A man who loves Cheerios. A bit... too much.
+* **[[The Bridgekeeper]]** - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
+* **[[Pools Closed Novel]]** - WTF is this? A mess of memes created as a copypasta by anons on /b/.
 
 ## [[Something Awful]]
 
-* [[The Great Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
-* [[American Dream]] - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
+* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
 * [[From AOL Hacker to Businessman]]
 
 ## Technology
 
-* [[The Curse of the Text Editor]] - The title says it all.
-* [[In the Beginning There was the Command Line]] - Neal Stephenson's satirical treatise of UNIX, personal computers, and the merits of graphical vs command line interfaces.
-* [[A Brief History of UNIX]] - A History of UNIX, written in biography form.
+* **[[In the Beginning There was the Command Line]]** - Neal Stephenson's satirical treatise of UNIX, personal computers, and the merits of graphical vs command line interfaces.
+* **[[The Curse of the Text Editor]]** - The title says it all.
+* [[A Brief History of UNIX]] - A satirical history of UNIX, written in biography form.
 
 ## 2channel
 
-* [[Densha Otoko]] - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
+* **[[Densha Otoko]]** - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
 
 ## [[Reddit]]
 
-* [[Rome Sweet Rome]] - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
-* [[1984 Sweet 1984]] - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
+* **[[Rome Sweet Rome]]** - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
+* **[[1984 Sweet 1984]]** - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
 
 ## [[Wikichan]]
 
-* [[Itoko Otoko]] - Literally, "Cousin Man", in the same style as [[Densha Otoko]]. The first major story put on 4chan, his thread was stickied for his push to elope with his cousin.
-* [[Romeo san and Juliette]] - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
-* [[Jenny Jones]]
+* **[[Itoko Otoko]]** - Literally, "Cousin Man", in the same style as [[Densha Otoko]]. The first major story put on 4chan, his thread was stickied for his push to elope with his cousin.
+* **[[Romeo san and Juliette]]** - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
+* **[[Jenny Jones]]**
 
 ## Hackers
 
