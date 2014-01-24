@@ -1,3 +1,5 @@
+A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
+
 ## Part 1
 
 Hired full time, and I make a good living. My work involves a lot of "data entry", verification, blah blah. I am a programmer at heart and figured out how to make a script do all my work for me. Between co workers, they have a 90% accuracy rating and 60-100 transactions a day completed. I have 99,6% accuracy and over 1.000 records a day. No one knows I do this because everyone's monthly accuracy and transaction count are tallied at the end of the month, which is how we earn our bonus. The scum part is, I get 85-95% of the entire bonus pool, which is a HUGE some of money. Most people are fine with their bonuses because they don't even know how much they would bonus regularly. I'm guessing they get €100-200 bonus a month. They would get a lot more if I didnt bot.
