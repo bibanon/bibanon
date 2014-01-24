@@ -8,7 +8,7 @@ This article is about the Bibliotheca Anonoma itself.
 * [[Wikichan]] - A 4chan based wiki built by a task force to discover, archive, and present great stories from 4chan. Wikichan's task force practically invented the field of 4chan history, which was important as they worked before the rise of fuuka-archivers.
 * [[Insurgency Wiki]] - A family of wikis made explicitly for the purpose of supporting Anonymous's many raids, before Operation Payback. It held a long pedigree of projects, dox, and raid history. Unfortunately, data was constantly lost due to deadbeat admins or the scourge of the Partyvan. Other groups managed to create mirrors or backups, but most were outdated and anons quickly lost interest. 
 * [[Encyclopedia Dramatica]] - The famously controversial shock wiki built on raid culture and the ideal of parodying everything that can be documented on a wiki.
-* [[LURKMOAR]] Wiki - The oldest 4chan wiki. It was inactive for many years due to the rise of the Partyvan and ED Wikis, but outlasted them both, and is seeing a bit of a revival today.
+* [[LURKMOAR Wiki]] - The oldest 4chan wiki. It was inactive for many years due to the rise of the Partyvan and ED Wikis, but outlasted them both, and is seeing a bit of a revival today.
 * YSWiki - The Yotsuba Society attempted to create a revived Wikichan, scraping whatever remained from the Internet Archive.
 
 ## Installation and Editing
