@@ -22,7 +22,7 @@
 * [[Blindmute Loli]]
 * [[Uncle Anon]]
 * [[Tramp Anon]]
-* [[Densha Otoko]]
+* [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
 * [[The Great Scam]]
 * [[American Dream]]
 * [[The Liliad]]
