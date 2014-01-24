@@ -4,7 +4,7 @@
 
 The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following. It was updated every few days, but the updates were posted anonymously to [[4chan]] and not archived anywhere.
 
-Until recently this anonymite's posts were archived by his well-wishers on [[Wikichan]], but that site was shut down due to poor administration with it's hard disk wiped. Thankfuly, these threads were restored due to the hard work of [[Shii]], a kind visitor, and the author himself, and this is the only place most of them can be found on the Internet. Hooray!
+Until recently this anonymite's posts were archived by his well-wishers on [[Wikichan]], but that site was shut down due to poor administration with it's hard disk wiped. Thankfuly, the story were saved due to the hard work of [[Shii]], a kind visitor, and the author himself. 
 
 ## Read the story ##
 
