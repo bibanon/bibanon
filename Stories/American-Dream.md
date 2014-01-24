@@ -484,11 +484,46 @@ What I went into was an entire day's induction for permanent staff. A lot of sen
 
 This place was so disorganised, I cannot think of anything to discredit his account - other than how absolutely jaw-dropping it is!
 
+
 ---
 
-And thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. 
+Thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. 
 
 In that case, Godspeed to you, Moonshine. You lucky fuck.
+
+### The Old Man of the Abyss
+
+> An alternate retelling of the Redditor's Tale from the perspective of "The Man in the Gap", written by [redditor TwoHands.](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/c8xb3v1)
+
+Some time ago, before Google Glass, before Vista, before people were "downgrading" to XP, there was a man. A rather unremarkable man. He was so nondescript that they made him a singular point that others couldn't help but miss.
+
+He was hired, among others, to work a large project, among others, and was meant to be fired, among others as well. But there is a gap between the hiring and firing, or rather the firing and his hiring wherein the layoff paperwork had been put in and the man's hiring hadn't yet been completed. This wasn't a very large chasm, but as a singular point of nondescription... he fell in.
+
+He was in the pay system, so they let him in. He had a workspace, so they let him use it. Then they just failed to notice him. It was surreal. He would ask about work and immediately after asking, he'd be forgotten about. He had no boss, he had no task, he had no purpose, he just occupied some space that nobody was using.
+
+At first, he reveled in his non-job employment. He could do as he pleased. Show up, do nothing, go home, get paid. Show up, do nothing, go home, get paid.... do nothing, get paid, do nothing, do nothing...
+
+In our world, Men are defined by the work they do. This man had no work. This man was undefined. He had fallen into the gap and never gotten out. He had grown comfortable in that little gap. So much so that the prospect of leaving it terrified him.
+
+He had grown so accustomed to being beyond notice that when a person actually spoke to him, he nearly drowned in terror. with a gap as small as his, terror can fill it in an instant. He choked on fear and could barely bring himself to ask what the people wanted.
+
+"IT support," that's just what they might say if they were trying to pull him out of his gap. They can't be telling the truth... but they are looking at his computer, so they just might be.
+
+They're still here... Maybe if I don't talk to them, they'll go away.
+
+He keeps seeing them around; each sighting brings a new wave of terror that feels like it takes minutes off his life.
+
+He goes to relax with a cigarette AND THERE THEY ARE. In his panic he almost runs back inside with his cigarette lit, but has the sense to try to act like nothing happened.
+
+He tries to crawl into a bottle to hide for a while, but they even find him there. The jig is up, the news is out, they finally found him. The renegade who had it made, retrieved for a bounty. The lyrics pounded through his head as they blared on the radio. In his alcoholic haze, he figured they had given up on harassing him and were there to collect him to end his career - So he told his story; one last burden to unload. A story of quiet desperation in a small hole where bureaucracy and apathy collide and leave a small hole the size of a man.
+
+And then he was forgotten.
+
+It wasn't long before the "IT support" people had moved on, leaving him in the abyss. No one was sent to retrieve him or escort him from the building. The first few weeks he went to work with slightly more terror than usual about being found out, but no one did.
+
+And to this day... somewhere, someplace... 
+
+The old man still lurks in the abyss.
 
 ## Sources
 
