@@ -4,7 +4,7 @@ It was posted to /r9k/ on [[4chan]] to huge success, but was mostly forgotten du
 
 ## The story
 
-####Part 1
+### Part 1
 Being twenty, living at home with my single Mom that does pills every night and sleeps for cash, no girlfriend (never had one), and basically no money, there's nothing to do. All I have is my computer, video games, and my community college that sucks. I don't have the grades to go somewhere nice, and I'm too poor to run away.
 
 Being a pretty boring person, I need something. Anything. I finally decided that I would do the one thing that makes every person cool, even if that person sucks at it: creating a rock band.
@@ -37,7 +37,7 @@ We got into a fight, she wanted to quit, but Lucas stepped in (...rolled in) and
 
 We kept practicing for a few weeks, and we became closer as a band. We started thinking of songs, mostly me, and we were finally hitting a groove. Chelsea was fine with being the back up singer to our Korean superstar, and the others were having fun with it all.
 
-####Part 2
+### Part 2
 First gig we had came when Lucas came up to me and said that his little brother was having a party. I agreed to play it, and we were all pumped to be getting paid $10 each to play for an hour at a party.
 
 We show up at the party and it turns out his little brother is sixteen-years-old, a gangster in training, and everyone at his party was black. We all stuck out like a sore thumb, and the music playing before we came on was all 50 Cent and Lil' Wayne.
