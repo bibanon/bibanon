@@ -1,3 +1,6 @@
+Rome Sweet Rome is a story written by a redditor by the name of Prufrock451 about what it would be like if a modern US Marine unit appeared in Roman territory. It gathered a large following, and currently there is a movie being made with this concept.
+
+#Original Post
 So I've been watching HBO's Rome and Generation Kill simultaneously and it's lead me to fantasize about traveling back in time with modern troops and equipment to remove that self-righteous little twat [Octavian (Augustus)](http://en.wikipedia.org/wiki/Augustus) from power. 
 
 Let's say we go back in time with a Marine Expeditionary Unit (MEU), since the numbers of members and equipment is listed for our convenience in [this Wikipedia article](http://en.wikipedia.org/wiki/Marine_Expeditionary_Unit), could we destroy all 30 of Augustus' legions? 
@@ -12,16 +15,14 @@ So, will we be victorious?
 
 I really hope so because I really dislike Octavian and his horrible family. Getting Atia will be a bonus. 
 
-Edit - **Prufrock451**
+##Day 1
+The 35th MEU is on the ground at Kabul, preparing to deploy to southern Afghanistan. Suddenly, it vanishes. 
 
-Big thanks to Prufrock451 for bringing this scenario to life in a truly captivating and fascinating manner. Prufrock clearly has a great talent, and today it appears that he or she has discovered that they possess the ability to convey their imagination - and the brilliant ideas it contains - to people in a thoroughly entertaining and exciting way. You have a wonderful talent, Prufrock451, and I hope you are able to use it to entertain people beyond Reddit and the internet. Thank you for your tremendous contribution to this thread.
+The section of Bagram where the 35th was gathered suddenly reappears in a field outside Rome, on the west bank of the Tiber River. Without substantially prepared ground under it, the concrete begins sinking into the marshy ground and cracking. Colonel Miles Nelson orders his men to regroup near the vehicle depot - nearly all of the MEU's vehicles are still stripped for air transport. He orders all helicopters airborne, believing the MEU is trapped in an earthquake.
 
-**Mustard-Tiger**
+Nelson's men soon report a complete loss of all communications, including GPS and satellite radio. Nelson now believes something more terrible has occurred - a nuclear war and EMP which has left his unit completely isolated. Only a few men have realized that the rest of Bagram has vanished, but that will soon become apparent as the transport helos begin circling the 35th's location.
 
-Wow! Thank you for gifting me Reddit Gold! I feel like a little kid who's won something cool, like that time my grandma made me a robot costume out of old cereal boxes and I won a $10 prize that I spent on a Thomas the Tank Engine book! That might seem as if I'm being unappreciative, but watching this topic grow today and seeing people derive enjoyment from all the different ideas and scenarios that have been put forward by different posters has really made my day, and receiving Reddit Gold from Mustard-Tiger is the cherry on the top that has left me feeling just as giddy as that little kid who won a voucher for a bookshop. Again, thank you very much, Mustard-Tiger. I'm sure I will make good use of Reddit Gold. 
+Within an hour, the 2,200 Marines have regrouped, stunned. They are not the only moderns transported to Rome. With them are about 150 Air Force maintenance and repair specialists. There are about 60 Afghan Army soldiers, mostly the MEU's interpreters and liaisons. There are also 15 U.S. civilian contractors and one man, Frank Delacroix, who has spoken to no one but Colonel Nelson.
 
-Thank you to all the posters who've recommended books, comics and movies about alternative histories and time travel. I greatly appreciate being made aware of the types of stories and ideas that I really enjoy reading or watching. It's always nice to receive recommendations from people who share your interest in the same things.
-
-Edit - In my head the magical resupply system only included sustenance, ammo and replacement equipment like armor. Men and vehicles would not be replaced if they died or were destroyed. I should have made that clear in my OP. Okay, let's remove the magical resupply line, instead replacing it with enough equipment and ammo to last for, say, 6 months. Could we destroy all of the Roman Empire in that space of time before our modern technological advantages ceased to function owing to a lack of supplies?
-
-Edit 3 - Perhaps I've over estimated the capabilities of the Roman forces. If we remove the tanks and artillery will we still win? We now have troops, their weapons, vehicles for mobility (including transport helicopters), medics and modern medicine, and engineers and all the other specialists needed to keep a MEU functional.
+Miraculously, no one was killed during the earthquake but several dozen people were injured, some seriously. All fixed-wing aircraft and the attack helicopters were rendered inoperable by the shifting concrete, although the MEU did not lose a single vehicle or transport helicopter. As night falls, the MEU has established a perimeter. A few locals have been spotted, but in the chaos no one has yet established contact. Nelson and his men, who are crippled without mapping software and GPS to their position, begin attempting to
+fix their location by observing stars. The night is cloudy. Nelson orders four helicopters back into the air at first light, to travel along the river in hopes of locating a settlement.
