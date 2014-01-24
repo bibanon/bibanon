@@ -1,4 +1,4 @@
-This is a story about Moonshine's experience as an employee who works his way up the corporate ladder to greatness, yet ends up as a manager who gets paid well doing absolutely nothing. 
+This is a story from [[Something Awful]], about Moonshine's experience as an employee who used to claw his way up the corporate ladder to greatness, yet ended up as a manager who gets paid well doing absolutely nothing. 
 
 As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintances to "help out" in exchange for keeping the party going. 
 
