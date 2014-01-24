@@ -2,7 +2,7 @@ This is a story from [[Something Awful]], about Moonshine's experience as an emp
 
 As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintances to "help out" to keep the party going. 
 
-After a while, he slowly begins to realize that he alone, forgotten by the productive world, has achieved something many can only imagine, in ways no one would have expected:
+After a while, he slowly begins to realize that he alone, forgotten by the productive world, has achieved something many can only imagine:
 
 The American Dream.
 
