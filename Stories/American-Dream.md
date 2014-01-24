@@ -426,15 +426,15 @@ Now, I had received a grand total of one EMail since the last conversation, and 
 
 I beat my high score in "Snake".
 
-## Epilogue
+## Never Work a Day in Your Life
 
 *The American Dream* was posted to [[Something Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
 
-However, on March 17, 2013, [a redditor complained on /r/talesfromtechsupport](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/) about a similar person. The redditor was working at an unnamed public sector corporation in London as tech support, assigned to upgrade all the old Windows 9x computers. 
+However, on March 17, 2013, [a redditor named jon6 told an incredible story on /r/talesfromtechsupport](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/) about a similar person. The redditor was working at an unnamed public sector corporation in London as tech support, assigned to upgrade all the old Windows 9x computers. 
 
-During one computer upgrade, he met a quirky man in a suit who fearfully demanded to know what they wanted. After the redditor explains to him that they only needed to replace his computer, the man somehow escapes. Later on, the redditor constantly catches glimpses of the man in pubs and during smoke breaks, and he reluctantly makes small talk with them in an attempt to understand their purpose. 
+During one computer upgrade, he met a quirky man in a suit who fearfully demanded to know what they wanted. After the redditor explains to him that they only needed to replace his computer, the man somehow escapes. Later on, the redditor constantly catches glimpses of him in pubs and during smoke breaks, and the man reluctantly makes small talk with them in an attempt to understand their purpose. 
 
-Finally, after he's convinced that the redditor is no threat, the man decides to tell the redditor his entire incredible story; how he's come to office for 11 years (since 2001) without doing any work, since his entire department was laid off; and how he spends his whole life in paranoid seclusion, fearing the day that someone catches on. This is the redditor's account:
+Finally, after he's convinced that the redditor is no threat, the man decides to tell the redditor his entire career story; how he's come to office for 11 years (since 2001) without doing any work, since his entire department was laid off; and how he spends his whole life in paranoid seclusion, fearing the day that someone catches on. Below is the redditor's tale:
 
 ---
 
@@ -480,7 +480,9 @@ This place was so disorganised, I cannot think of anything to discredit his acco
 
 ---
 
-Thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. In that case, Godspeed to you, Moonshine. You lucky fuck.
+Thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. 
+
+In that case, Godspeed to you, Moonshine. You lucky fuck.
 
 ## Sources
 
