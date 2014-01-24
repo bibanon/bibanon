@@ -10,6 +10,7 @@ This article is about the Bibliotheca Anonoma itself.
 * [[Encyclopedia Dramatica]] - The famously controversial shock wiki built on raid culture and the ideal of parodying everything that can be documented on a wiki.
 * [[LURKMOAR Wiki]] - The oldest 4chan wiki. It was inactive for many years due to the rise of the Partyvan and ED Wikis, but outlasted them both, and is seeing a bit of a revival today.
 * YSWiki - The Yotsuba Society attempted to create a revived Wikichan, scraping whatever remained from the Internet Archive.
+* [Vryd.net](http://dir.vyrd.net/) - Some anon that created his own personal database of 4chan content, some of which came from this wiki. Awesome guy.
 
 ## Installation and Editing
 
