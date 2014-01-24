@@ -1,6 +1,4 @@
-This was posted to [[Something Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
-
-This is a story about Moonshine's experience as an employee who works his way up the corporate ladder to greatness, yet ends up as a manager who gets paid well doing absolutely nothing. As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintences to "help out" in exchange for keeping the party going. As time goes on, he slowly realizes that he alone, by dropping out of the productive world, has achieved something we can only imagine:
+This is a story about Moonshine's experience as an employee who works his way up the corporate ladder to greatness, yet ends up as a manager who gets paid well doing absolutely nothing. As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintances to "help out" in exchange for keeping the party going. As time goes on, he slowly realizes that he alone, by dropping out of the productive world, has achieved something we can only imagine:
 
 The American Dream.
 
@@ -428,9 +426,66 @@ Now, I had received a grand total of one EMail since the last conversation, and 
 
 I beat my high score in "Snake".
 
+## Epilogue
+
+*The American Dream* was posted to [[Something Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
+
+However, on March 17, 2013, [a redditor complained on /r/talesfromtechsupport](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/) about a similar person. The redditor was working at an unnamed public sector corporation in London as tech support, assigned to upgrade all the old Windows 9x computers. 
+
+During one computer upgrade, he met a quirky man in a suit who fearfully demanded to know what they wanted. After the redditor explains to him that they only needed to replace his computer, the man somehow escapes. Later on, the redditor constantly catches glimpses of the man in pubs and during smoke breaks, and he reluctantly makes small talk with them in an attempt to understand their purpose. 
+
+Finally, after he's convinced that the redditor is no threat, the man decides to tell the redditor his entire incredible story; how he's come to office for 11 years (since 2001) without doing any work, since his entire department was laid off; and how he spends his whole life in paranoid seclusion, fearing the day that someone catches on. This is the redditor's account:
+
+---
+
+I'll say it - anytime I've retold this story, I don't think anyone has ever believed it - I have to be honest, I wouldn't either. However, me and at least two other people in the world know this to be absolutely true.
+
+I was doing a contract for a major national public sector organisation. Obviously no names, but if you've ever been to London, you've been a customer. It was your standard high staff turnover, pay em till they get bored, throw them the BS tasks kind of role. 
+
+Anyway, one day, myself and another contractor were set the task of a machine hunt. Basically the network was a hodge-podge of bolted on spokes using various standards, practically held together with poor soldering and bits of gaffa tape. However, there were a list of umpteen Windows 9x machines which were apparently alive on the user subnets which needed reimaging to XP or replacing. 
+
+Our job was to do the pre-project hunt to determine who was using them and where they were. I say pre-project, it wasn't exactly "thought out"... it was some task that appeared from the ether which would most likely be re-filed into the ether. 
+
+This is the same organisation who only a few months prior saw a £70,000 shipment from Dell literally get delivered outside their offices, which nobody retrieved or was aware even being ordered and over the course of the next 24 hours were promptly retrieved by members of the public! Yep, it got left there overnight and there were only docking stations left! Good use of public money, eh?
+
+---
+
+Anyway, we hunted down an old Compaq on our list. Serial matched, IP matched, now to talk to the user. The user was a guy who wore a grey suit, impeccably turned out but who looked like he was about to wet himself with fear. He asked us several times who we were, what we wanted, what for, where was this information going, etc. After placating him as much as possible that it was just an upgrade programme and we were IT Support, he finally relinquished his name.
+
+It just so happened, another machine we were hunting for was right next to his desk; our decision to wait around for this user to return was overshadowed by his worried glances... after a few minutes of uncomfortable "I'm pretending to not acknowledge you" silence, we went away aiming to return later - ideally when he had disappeared.
+
+A few days later, the same contractor and I were out on a pub lunch. The guy happens to come in and immediately notices us. He's weird, really weird. He walks quickly to the back of the pub, hovers, glances at us and then makes for the door. Of course now we're talking about him, like WTF!? He makes an about turn at the door and comes up to us; he nervously asks "Are you definitely just IT support?" We reply and say yep, and he just immediately leaves with an "OK thank you".
+
+Of course we're weirded out, but whatever. We just put him down as a fruitloop.
+
+Again another few days later, we're out on a smoke break, this guy appears again seemingly on a smoke break too. His eyes are wide as soon as he notices us, but as he's already lit his cigarette, he kinda has to come out now. We're wary of him, this guy is a fruitcake. He tries to make small talk; it seems to me he's probing, so I just come out and talk about what we do all day, pretending to moan about our menial duties.
+
+Anyway, it turns out after a few more chance encounters he kinda settles down and starts talking - mainly about F1 racing, etc. He shows up again on a friday afternoon drink, this time with his wife in tow. It turns out that he has every right to have been nervous.
+
+This guy was initially hired as part of a major projects team in the organisation. He applied for a role, got accepted, gave in notice at his old job and duly showed up for work as prescribed. However, as it turns out, in between getting confirmed for his role and actually starting, the entire major projects department had gotten nuked. The manager who hired him had left the business, members of the team were scattered far and wide, yet he showed up, some receptionist showed him to his desk where he was to wait for someone and nobody showed up. He made enquiries, all he ever got told was that someone would come talk to him eventually - but nobody ever did.
+
+For the last 11 years, he had shown up for work. Nobody ever hassles him, nobody ever asks him for anything, sometimes he just doesn't show up and nobody questions it, he gets paid every month, gets a statutory annual pay rise and that's it. He's been filling his time writing books for the past 8 years on this that and the other, and that is literally what he does every day. As the physical office he's in also has a high staff turnover, there's no time to make relationships or for anyone to even really acknowledge him.
+
+Of course, he was slightly inebriated at that point. I just thought he was plain outright nuts permenantly resident in psychos-ville. I didn't believe a word of it. It's too hollywood to be true!
+
+That was until the Monday morning, we had to check. Sure enough, HR systems showed his dept had indeed been nuked mere days after he was recruited and his active manager on the HR system had indeed long since left the business. Everything we did to verify his story checked out. We even performed a few random drop-ins and, sure enough, there he is with Word opened and he's tapping out page 370 for a novel. He never seems to do anything. Of course, he's back to being nervous again as he let his guard down while drunk and told someone. Even his wife at the time seemed to corroborate his tale.
+
+---
+
+I left the contract a couple of months later, but as far as I know, he's still there. I still even questioned the reality of such a situation. However...
+
+On my first day of that role, I duly asked where IT was. I was told to go with a massive group of people to induction. I passed three checkpoints where security guards asked my name and, though I wasn't on their list, let me through with an "OK must be a mess up". One even said "Who's your manager?" to which I replied "I have no idea, I've only just arrived." He too allowed me through. What I went into was an entire day's induction for permenant staff. A lot of sensitive stuff got said, a lot of activities went on - nothing catastrophically major, don't get me wrong - but there we have it. On leaving and switching my phone back on, I had several voicemails from my recruiter demanding to know my whereabouts. I told him I'd been in induction which surprised him. It took me another 30 minutes to track down WHICH IT department I was even supposed to be in, and even a day later got told I was still in the wrong place while I was arms-deep into laying some network cable!
+
+This place was so disorganised, I cannot think of anything to discredit his account - other than how absolutely jaw-dropping it is!
+
+---
+
+Thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. In that case, Godspeed to you, Moonshine. You lucky fuck.
+
 ## Sources
 
 * Original thread on Something Awful (If you know the link, please put it here)
 * [Shii's archive of American Dream](http://shii.org/knows/American_Dream)
 * [The Forgotten Employee](https://sites.google.com/site/forgottenemployee/)
 * [Fohguild Thread](http://www.fohguild.org/forums/screenshots/40557-story-time-children.html)
+* [Reddit - The Redditor's Epilogue](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/)
