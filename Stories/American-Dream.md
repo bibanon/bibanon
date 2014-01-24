@@ -430,15 +430,15 @@ Now, I had received a grand total of one EMail since the last conversation, and 
 
 I beat my high score in "Snake".
 
-## Never Work a Day in Your Life
+## Afterword: Never Work a Day in Your Life
 
 *The American Dream* was posted to [[Something Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
 
 However, on March 17, 2013, [a redditor named jon6 told an incredible story on /r/talesfromtechsupport](http://www.reddit.com/r/talesfromtechsupport/comments/1agon8/this_is_unbelievable/) about a similar person. The redditor was working at an unnamed public sector corporation in London as tech support, assigned to upgrade all the old Windows 9x computers. 
 
-During one computer upgrade, he met a quirky man in a suit who fearfully demanded to know what they wanted. After the redditor explains to him that they only needed to replace his computer, the man somehow escapes. Later on, the redditor constantly catches glimpses of him in pubs and during smoke breaks, and the man reluctantly makes small talk with them in an attempt to understand their purpose. 
+During one computer upgrade, he met a quirky man in a suit who fearfully demanded to know what they wanted. After the redditor explains to him that they only needed to replace his computer, the man obliges, but disappears. Later on, the redditor constantly catches glimpses of him in pubs and during smoke breaks, and the man reluctantly makes small talk with them in an attempt to understand their purpose. 
 
-Finally, after he's convinced that the redditor is no threat, the man decides to tell the redditor his entire career story; how he's come to office for 11 years (since 2001) without doing any work, since his entire department was laid off; and how he spends his whole life in paranoid seclusion, fearing the day that someone catches on. Below is the redditor's tale:
+Finally, convinced that the redditor is no threat, the man decides to tell the redditor his entire career story; how he's come to office for 11 years (since 2001) without doing any work, since his entire department was laid off; and how he spends his whole life in paranoid seclusion, fearing the day that someone catches on. Below is the redditor's tale:
 
 ---
 
@@ -470,7 +470,7 @@ This guy was initially hired as part of a major projects team in the organisatio
 
 For the last 11 years, he had shown up for work. Nobody ever hassles him, nobody ever asks him for anything, sometimes he just doesn't show up and nobody questions it, he gets paid every month, gets a statutory annual pay rise and that's it. He's been filling his time writing books for the past 8 years on this that and the other, and that is literally what he does every day. As the physical office he's in also has a high staff turnover, there's no time to make relationships or for anyone to even really acknowledge him.
 
-Of course, he was slightly inebriated at that point. I just thought he was plain outright nuts permenantly resident in psychos-ville. I didn't believe a word of it. It's too hollywood to be true!
+Of course, he was slightly inebriated at that point. I just thought he was plain outright nuts permanently resident in psychos-ville. I didn't believe a word of it. It's too hollywood to be true!
 
 That was until the Monday morning, we had to check. Sure enough, HR systems showed his dept had indeed been nuked mere days after he was recruited and his active manager on the HR system had indeed long since left the business. Everything we did to verify his story checked out. We even performed a few random drop-ins and, sure enough, there he is with Word opened and he's tapping out page 370 for a novel. He never seems to do anything. Of course, he's back to being nervous again as he let his guard down while drunk and told someone. Even his wife at the time seemed to corroborate his tale.
 
@@ -478,13 +478,15 @@ That was until the Monday morning, we had to check. Sure enough, HR systems show
 
 I left the contract a couple of months later, but as far as I know, he's still there. I still even questioned the reality of such a situation. However...
 
-On my first day of that role, I duly asked where IT was. I was told to go with a massive group of people to induction. I passed three checkpoints where security guards asked my name and, though I wasn't on their list, let me through with an "OK must be a mess up". One even said "Who's your manager?" to which I replied "I have no idea, I've only just arrived." He too allowed me through. What I went into was an entire day's induction for permenant staff. A lot of sensitive stuff got said, a lot of activities went on - nothing catastrophically major, don't get me wrong - but there we have it. On leaving and switching my phone back on, I had several voicemails from my recruiter demanding to know my whereabouts. I told him I'd been in induction which surprised him. It took me another 30 minutes to track down WHICH IT department I was even supposed to be in, and even a day later got told I was still in the wrong place while I was arms-deep into laying some network cable!
+On my first day of that role, I duly asked where IT was. I was told to go with a massive group of people to induction. I passed three checkpoints where security guards asked my name and, though I wasn't on their list, let me through with an "OK must be a mess up". One even said "Who's your manager?" to which I replied "I have no idea, I've only just arrived." He too allowed me through. 
+
+What I went into was an entire day's induction for permanent staff. A lot of sensitive stuff got said, a lot of activities went on - nothing catastrophically major, don't get me wrong - but there we have it. On leaving and switching my phone back on, I had several voicemails from my recruiter demanding to know my whereabouts. I told him I'd been in induction which surprised him. It took me another 30 minutes to track down WHICH IT department I was even supposed to be in, and even a day later got told I was still in the wrong place while I was arms-deep into laying some network cable!
 
 This place was so disorganised, I cannot think of anything to discredit his account - other than how absolutely jaw-dropping it is!
 
 ---
 
-Thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. 
+And thus, it's possible that Moonshine may still be living the dream to this day, forever fighting to prevent HR Nazis and nosy investigators from taking his livelihood away. 
 
 In that case, Godspeed to you, Moonshine. You lucky fuck.
 
