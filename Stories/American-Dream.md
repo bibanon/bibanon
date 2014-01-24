@@ -1,4 +1,4 @@
-This was posted to [[Something_Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
+This was posted to [[Something Awful]] (SA) by an unknown user. The author probably changed his name or had his account deleted. 
 
 This is a story about Moonshine's experience as an employee who works his way up the corporate ladder to greatness, yet ends up as a manager who gets paid well doing absolutely nothing. As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintences to "help out" in exchange for keeping the party going. As time goes on, he slowly realizes that he alone, by dropping out of the productive world, has achieved something we can only imagine:
 
