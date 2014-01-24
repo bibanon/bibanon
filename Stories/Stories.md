@@ -18,7 +18,7 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 
 Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Those anons became more than kind strangers; they became the child's mentors and adopted fathers.
 
-These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for both it's heartwarming tale of a father and his daughter, and it's immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
+These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
 * [[Damaged Goods]] - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
 * [[Blindmute Loli]] - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves an orphan from the street. The injustice he suffers and the struggles he goes though just to see his adopted daughter will make you laugh, and will make you cry. Who knows if it's real or not, it's a good story nevertheless.
