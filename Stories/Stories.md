@@ -1,17 +1,5 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
-## [[General]]
-
-* [[Densha Otoko]] - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
-* [[In the Beginning There was the Command Line]] - Neal Stephenson's satirical treatise of UNIX, personal computers, and the merits of graphical vs command line interfaces.
-* [[A Brief History of UNIX]] - A History of UNIX, written in biography form.
-* [[The Curse of the Text Editor]] - The title says it all.
-
-## [[Something Awful]]
-
-* [[The Great Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
-* [[American Dream]] - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
-
 ## [[4chan]]
 
 ### The Father and his Daughter
@@ -35,7 +23,7 @@ Stories that will leave you crying.
 
 > The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
 
-Tales told of trials and tribulations, faced by those anons whose love is not only socially forbidden, but can result in the end of their lives.
+Tales told of trials and tribulations, faced by those anons whose love is not only socially forbidden, but could result in the end of their lives.
 
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 * [[The Liliad]] - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
@@ -48,6 +36,22 @@ These stories will make you hurl.
 * [[Cheerios]] - A man who loves Cheerios. A bit... too much.
 * [[The Bridgekeeper]] - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
 * [[Pools Closed Novel]] - WTF is this? A mess of memes created as a copypasta by anons on /b/.
+
+## [[Something Awful]]
+
+* [[The Great Scam]] - A tale of Nightfreeze's investment scam in EVE Online. It shows how such nice people could pull off something this evil, but more so of the immateriality of gaming.
+* [[American Dream]] - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* [[From AOL Hacker to Businessman]]
+
+## Technology
+
+* [[The Curse of the Text Editor]] - The title says it all.
+* [[In the Beginning There was the Command Line]] - Neal Stephenson's satirical treatise of UNIX, personal computers, and the merits of graphical vs command line interfaces.
+* [[A Brief History of UNIX]] - A History of UNIX, written in biography form.
+
+## 2channel
+
+* [[Densha Otoko]] - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
 
 ## [[Reddit]]
 
@@ -67,4 +71,3 @@ _Mostly from the [[Anarchists Cookbook]]._
 * [[Bad as Shit]]
 * [[Diary of a Hacker]]
 * [[Secrets of the Little Blue Box]]
-* [[From AOL Hacker to Businessman]]
