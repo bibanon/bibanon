@@ -14,8 +14,6 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 
 ## [[4chan]]
 
-> The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
-
 ### The Father and his Daughter
 
 Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Those anons became more than kind strangers; they became the child's mentors and adopted fathers.
@@ -34,6 +32,10 @@ Stories that will leave you crying.
 * [[Cool Story Bro]] - A robot from /r9k/ finds a girl he never wanted to see again in his life begging him for help after her last boyfriend beat her senseless.
 
 ### The Forbidden Fruit
+
+> The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
+
+Tales told of trials and tribulations, faced by those anons whose love is not only socially forbidden, but can result in the end of their lives.
 
 * [[Uncle Anon]] - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 * [[The Liliad]] - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
