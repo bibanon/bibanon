@@ -4,6 +4,7 @@ It was posted to /r9k/ on [[4chan]] to huge success, but was mostly forgotten du
 
 ## The story
 
+####Part 1
 Being twenty, living at home with my single Mom that does pills every night and sleeps for cash, no girlfriend (never had one), and basically no money, there's nothing to do. All I have is my computer, video games, and my community college that sucks. I don't have the grades to go somewhere nice, and I'm too poor to run away.
 
 Being a pretty boring person, I need something. Anything. I finally decided that I would do the one thing that makes every person cool, even if that person sucks at it: creating a rock band.
@@ -36,6 +37,7 @@ We got into a fight, she wanted to quit, but Lucas stepped in (...rolled in) and
 
 We kept practicing for a few weeks, and we became closer as a band. We started thinking of songs, mostly me, and we were finally hitting a groove. Chelsea was fine with being the back up singer to our Korean superstar, and the others were having fun with it all.
 
+####Part 2
 First gig we had came when Lucas came up to me and said that his little brother was having a party. I agreed to play it, and we were all pumped to be getting paid $10 each to play for an hour at a party.
 
 We show up at the party and it turns out his little brother is sixteen-years-old, a gangster in training, and everyone at his party was black. We all stuck out like a sore thumb, and the music playing before we came on was all 50 Cent and Lil' Wayne.
@@ -52,6 +54,7 @@ She hugged me, and fuck, she smelled good. Like strawberries and sweat mixed tog
 
 Our first gig was a failure, but luckily, that wasn't the end.
 
+###Part 3
 Alright, so we finished our first gig, and we all went back to college that week and took a week off of practicing because of mid-terms. I was studying like crazy to get good grades, and since I suck at anything school related, Lauren told me that she would help me. Seeing as she was getting straight A's in everything, she helped me out while we worked on music at our house.
 
 I tried to make a move on her one night, but she didn't notice it and went to go get food when I tried to put my hand on her knee. The next day, again, I tried to talk about if she had a boyfriend, but everything got interrupted when the whole band came over for a study session.
@@ -78,6 +81,7 @@ A crowd submerged onto all of us, and he got cheers from all the girls and got h
 
 We all had a great time that day, and we left in the Won Mobile back to my house for a late night cramming session.
 
+###Part 4
 Alright, OP here, I think I'm going to bed. Let me talk about the mid-terms really quickly. After the Six Flags weekend, we all did pretty well on the mid-terms. Lauren aced everything, Lucas got average grades, Tony got above average, Lee Won did well, Chelsea didn't fail, and I got above average.
 
 Since we all did well (Chelsea's standards are different from the rest of us), we all got back to practicing and looking for our next gig.
@@ -116,6 +120,7 @@ Before I can yell for help, Lee rushes over to her and headbutts the guy in the 
 
 A few hours later after all three of us are hanging out in the van, the other three people in our band show up and we're ready to go home. While Lee drove us back to my house to rest, I couldn't shake the feeling that Lauren was looking at me.
 
+###Part 5
 Okay, friends went home already, so I can continue. Let's see, after the Valentines Night Dance, we all said we would take a few days to settle our heads before practicing again. Me and Lee Won were at my house, doing some homework when my cell began to ring. It was Lauren.
 
 I pick up, trying not to sound surprised and excited, wanting to pick out the perfect words. When I started to stutter and sound idiotic, Lee Won picked up his pen, wrote some lines on a paper and held them up to me so that I could sound like I knew what I was doing.
@@ -177,6 +182,7 @@ Luckily, though, for me, I had one person that could move mountains if need be. 
 
 I had Lee Won.
 
+##Part 6
 Ah fuck it, I'll tell more tonight. The last part was weird, so I want to clear some things up. First off, Lee Won and me aren't the same person. I want to kill that before everyone theories that. Just really similar names (well, his first name is Lee and last name is Won).
 
 I go back to my house a few hours later and see that Lee is on the computer doing some homework before heading off to sleep on the sleeping bag that I had in my garage. He asked me how the date went, and I said that it wasn't any date.
@@ -205,6 +211,7 @@ The night ended with Tony and Lauren coming back to the garage, hand in hand, To
 
 We practiced all night long, and even if the rest of the band was having fun, I was not.
 
+##Part 7
 Done with school paper, so I can update. Let's see, I left off where Lauren and Tony became a couple. This sent a little ripple through our group when Lauren called everyone in the group and started to explode about how happy she was.
 
 She called me the night after the practice, saying that she couldn't believe that he liked her the same way she did him. I didn't believe any shit that came from Tony's lips, even if he was apart of my group, and I wish he would burn in hell for putting his lips on the girl I really, really liked.
@@ -235,6 +242,7 @@ With that said, we made a pact. In two days, we were going to take down the hips
 
 Sadly, Lee Won would never get to forget the images that he saw that night in the van.
 
+##Part 8
 I promised I would continue, so I will. I'm tired, so forgive me if it isn't that great or anything.
 
 When I last posted, Lee Won and me were talking about how to get back that asshole Tony for stealing my love and for destroying Lee's eyesight with what he was doing with Lauren inside his family's working van.
@@ -267,6 +275,7 @@ When we were done, no one clapped, and everyone went back to what we were doing.
 
 I shot her a nasty look, and me and the rest of the band started lugging all the instruments and equipment to the van as fast as we could. Finally we were done, and the second band arrived a little after that.
 
+###Part 9
 There was only three of them. They showed up in a better looking van than theirs, and they had a few friends who weren't in the band to help them set up. There were two guys; one of them had long blond bangs in his eyes and the hipster thing going on like Tony did. The other guy was Asian, like Lee, but was Japanese and had some of those stylish glasses that everyone has these days with the thick rims. Finally, the singer, was someone I recognized even if she was wearing a ton of makeup, glasses, and one of those Gothic Lolita dresses, Charlotte Daniels.
 
 She went to my high school, and we were in the same classes for throughout all four years. Me and her were never really friends, but we always got partnered because we were the quiet nerdy kids and no one wanted to be partners with us. Even with her new look, she had those braces that I remembered.
@@ -323,6 +332,7 @@ Takeshi is 5'5', dyed red hair, glasses, and wears regular clothes.
 
 That's about it. Not really descriptive. I'm probably going to bed now.
 
+###Part 10
 The morning after meeting up with Charlotte and her band, me, Lucas, and Lee Won spent the whole night in my room talking, not getting any sleep at all. All Lucas wanted to talk about was how Charlotte was supposedly fucking him in his black ass with her piercing eyes. Lee Won only talked about Takeshi, saying how he was a better soccer player than him and that Takeshi only got the forward spot because the coach was Japanese. He said that if the two of them ever got locked in a room together, Lee Won would take his guitar and bash it over Takeshi's head repeatedly.
 
 I didn't really talk about anything, but my mind was focused on Lauren and Charlotte. For one, neither probably liked me. Lauren thought of me as a brother, and I couldn't imagine how she would change her thoughts from brother to boyfriend so quickly after leaving Tony. Charlotte, on the other hand, at least to him, saw him as at least a friend. At least she didn't randomly tell him after asking for his number that she thought of him as her long lost brother or some shit.
