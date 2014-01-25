@@ -1,12 +1,12 @@
 The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to collect, document, and safeguard the products and history of internet culture; which constitutes **the shared experience of mankind on a network that defines our lives**. 
 
-We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. Click on the links in the sidebar to the right -> to check them out.
+We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. 
 
-Not sure what to look at first? The wikipage [[Culturally Important Treasures]] has a list of the best stuff currently on this wiki.
+Click on the links in the sidebar to the right -> to check them out. Under each section, you can click **More...** for an even larger list and more descriptions that couldn't fit on the sidebar.
 
 ### Contribute
 
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
 
 ### Introduction to Internet Culture
 
@@ -28,7 +28,7 @@ This is our life's work. It's our gift to you. And to all mankind.
 
 *Welcome to the Bibliotheca Anonoma.*
 
-## The Internet as the Missing Context
+### Internet Subcultures
 
 Today we live in an era where the internet has become more than a tool of humanity; it is an alternate reality where most of humanity's interaction and livelihoods take place, and thus influence the physical world. 
 

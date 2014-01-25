@@ -1,10 +1,8 @@
 [[1182417345385.jpg|float|width=200x]]
 
-**Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan and the hardships he suffers later in his life. 
+**Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan and the hardships he suffers later in his life. The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following.
 
-The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following. It was updated every few days, but the updates were posted anonymously to [[4chan]] and not archived anywhere.
-
-Until recently this anonymite's posts were archived by his well-wishers on [[Wikichan]], but that site was shut down due to poor administration with it's hard disk wiped. Thankfuly, these threads were restored due to the hard work of [[Shii]], a kind visitor, and the author himself, and this is the only place most of them can be found on the Internet. Hooray!
+UOriginally, this anonymite's posts were archived by Sarafan and his other well-wishers on [[Wikichan]], but that site was shut down and it's hard disk wiped due to poor administration. Thankfully, the story can be read here at the Bibliotheca Anonoma through the hard work of [[Shii]], a kind visitor, and the author himself. 
 
 ## Read the story ##
 

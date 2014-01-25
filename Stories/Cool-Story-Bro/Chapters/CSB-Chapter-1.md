@@ -387,6 +387,7 @@ Ain't no ghetto without guns
 
 ## 1231360
 >>1230959
+
 Yes, this word I mean is Gentleman. Why is not everybody have such honour?
 
 ## 1231382
@@ -397,17 +398,21 @@ Yes, this word I mean is Gentleman. Why is not everybody have such honour?
 
 ## 1231386
 >why is not anybody have such honour?
+
 sorry my love, I just had to laugh at that.
 
 Weeeeeeell, I believe that you call him a gentleman because he set aside his feelings of hate and showed compassion, that's difficult for everyone, and if anyone helps a lady in distress that person would be a gentleman in my opinion.
 
 ## 1231451
+
 >>1231386
+
 Sorry for my bad English, feel free to laugh :)
 
 But what I am curious is for, is that a man should be thought of, as exceptional, for helping a lady. Should not every man do this? In Belarus, we do this, regardless. But, it is different in Western culture? This story is learning me much about such differences, in culture and in language.
 
 ## 1231489
+
 you're a better man than me op. if my ex ever showed up at my place unannounced i would leave her to die in the streets.
 
 also
