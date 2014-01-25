@@ -4,9 +4,9 @@ A series of posts made by anons to troll other users. Some of them even became i
 
 ## Cool Story Bro: "Fuck me. Literally."
 
-Starts from OP's post 1229976 . Daniel's famous last words are, "Fuck me." But anons imagine an alternate world where the girl takes it literally.
+Starts from OP's post `1229976`. Daniel's famous last words are, "Fuck me." But anons imagine an alternate world where the girl takes it literally.
 
-## 1230059
+### 1230059
 
 At this moment, I didn't know what to do... I had been thinking about it, for what felt like hours. I still couldn't decide whether I was going to show any remorse or not.
 
