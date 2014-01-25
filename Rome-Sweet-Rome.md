@@ -48,3 +48,95 @@ He calls in a few of his senior commanders. And Delacroix. A decision has to be 
 Delacroix steps forward and says, "Colonel, I may have an idea." As the conference progresses, a slight man is plucked from the swamp by two Marine sentries. His insistent declarations are in no language they recognize, although Private Hector Menendez finds something eerily familiar about it. What he wants is easy enough to understand, however - he wants to be taken to their leader.
 
 And 50 miles to the east, the Praetorian Guard assembles at the head of a hastily assembled force of volunteers and grey-headed veterans recalled to the standard. A banner snaps in the wind. A horn blows, drums roll, and 10,000 men begin marching west.
+
+##Day 4
+The slight man is Sixtus Murena, the son of Senator Murena. It took most of the night, but the offer has emerged: the Republican faction of the Senate is willing to offer the 35th MEU a sizeable fiefdom in return for attacking the Praetorian Guard and toppling Augustus. Through his interpreters, Colonel Nelson remarks dryly that a decision like that is above his pay grade.
+
+The Praetorian Guard covered five miles on Day 3, and another twelve on Day 4 - a third of the distance to the 35th MEU's camp. Augustus himself is in the camp. He is also reviewing a steady stream of messages. Emissaries have been dispatched to ever governor in the empire to be on alert, but only two legions have been recalled - Augustus is firm in rejecting rumors of supernatural powers and his calm, measured response is helping to soothe terrified Romans. The Senate has authorized the formation of two new legions from veterans of the Civil Wars. The question of their commands i a prickly one - Augustus has no desire to inflame the Sneate by promoting one of his favorites, but with the Praetorians on the march he cannot leave a Republican in charge of the only military force in Rome itself. He assigns General Marcus Agrippa to head the new Legio I Italica, and leaves the question of the second legion's commander open for the moment, tasking Agrippa only with overseeing its formation. Neither will be ready for deployment within a month.
+
+Two Marines vanish from Camp Tiber (one of several unofficial names, along with Camp America, Camp Future, and Wonderland; Nelson is too busy to bother with an official one yet), as does one Afghan national. It is assumed they have struck out in search of adventure, or even in hopes of reaching their homes. Colonel Nelson is forced to order sentries to shoot to kill anyone entering or leaving the camp.
+
+##Day 5
+First contact.
+
+Sixtus Murena remains in U.S. custody, despite his increasingly agitated demands to return. Senator Murena begins to regret his rash decision to approach the Invaders: what if their camp is overrun, and Sixtus is discovered there? What if Augustus's spies have already noted his absence? He and his fellow conspirators debate and debate, but decide to do nothing but wait; they are comfortable men, and tempered by years of legislated experience to talk and observe. They are not men to seize the nettle. The fact that Augustus has an informer among their ranks is almost irrelevant.
+
+The Praetorians close another 15 miles. The pace is exhausting for the hastily scraped-up auxiliaries, but marching on fine roads near Rome, even under 100-pound packs, is child's play for a Praetorian, a man who has never known air-conditioning, never sat in a cushioned chair, never greeted tropical storms or arctic gales with anything but Stoic resignation because he has never had a choice - unlike the men of the 35th, whose tempers are fraying under the stress of their predicament and their utter isolation.
+
+At 4 in the afternoon, with humid temperatures roasting American and Roman alike, a unit of 50 Roman cavalry in glittering metal armor appears on the horizon. Sergeant Alvin McCandless shouts to his men, who take up position behind a line of sandbags. M16A4s are trained on the Romans, and a SAW is locked and loaded - .50-caliber bullets. Within 5 seconds, enough firepower to annihilate a legion is concentrated on Fulvius Bassus and his men.
+
+Bassus approaches cautiously but holds his head high and keeps his horse trotting at a confident pace. The Invaders shout something, but he pays them no heed. They're too far away for parley, and he's not even close to bowshot range. He will uphold the honor and dignity of Rome, and he will come in close enough to talk.
+
+There is a sudden flash of light. Something erupts in a cloud of dust in front of his horse. A split-second later, loud reports echo through the air. Now the Invaders are shouting again, their voices now unbelievably loud, with a strange hissing behind them that distorts the sounds into something inhuman.
+
+By reflex, Bassus and his men draw their swords. They should now return and report. But Bassus is years removed from service, and he is still getting reacquainted with the art of subordinating himself to commands. It is no longer easy for him to ignore the squirt of fear running through him, making his heart pound and his palms sweat.
+
+He repeats his orders. They will advance and parley. The Romans move forward. They are still far from bowshot, and his reflexes are honed by years of civil war against his fellow Romans. He expects the call to parley, not a fight. He has a hundred paces to go. 
+
+Sergeant McCandless watches the Romans advance, ignoring his warning shots and calls to halt. Their swords are drawn. He does not know the range of a Roman bow. He only knows that they are closing. He doesn't know what kind of weapons they have. He doesn't know how to talk to them. His nerves are frayed after four days without sleep, nightmares about his family ripping him out of the few minutes he can eke out before taking another go-pill.
+
+"STOP!" he roars. "FUCKING HALT! NOW!" Five seconds.
+
+"FIRE!"
+
+The bullets arc forward. Marine marksmanship is the finest this world has ever seen, and Bassus and his men, trotting forward six abreast, make a fine target. They all drop. Horses and men shriek. McCandless orders men forward to take prisoners and dispatch the horses humanely. Within five minutes, a Humvee roars up. Nelson roars at at McCandless furiously. He is relieved. Urgent conferences are called. 50 horses are counted - and 49 Roman corpses.
+
+It is war.
+
+##Day 6
+Negotiations must begin. Nelson selects six men to head the team. Chaplain Garrity, the one man Nelson knows speaks Latin, is hunted down. He is found in a latrine, his wrists opened. The first suicide. Nelson selects Private Menendez to take his place as an interpreter; Menendez has been assigned to guard Sixtus Murena and has proven a quick study.
+
+The Marine negotiating team heads east in an armed convoy: three Humvees with two helicopters riding shotgun. Nelson is uneasy about this show of force, but he can't take the chance of losing a single man in a fight against an entire empire. He is watching the stock of MREs dwindle rapidly, and the camp is burning through its fuel to boil the Tiber's water.  Engineers have devised charcoal filters, but Fort Wonderland is low on wood, along with almost everything else. And now he has gotten word of what appears to be a case of malaria. At noon, they meet a Praetorian patrol, doubled in strength since yesterday. Bassus was somehow unscratched. His report has sent the first real spasms of fear through Augustus. The Praetorians have begun adapting. They ready bows and javelins, not swords today. They are ten miles east of Wonderland. Roman spies have already established a screen around the camp, tightening the noose. Thousands of veterans are streaming into Rome as news of the Invasion spreads. 
+
+Nelson's second-in-command steps out of the lead Humvee, waving a white flag. He walks forward, his hands open. The Praetorians waver. Tales of Bassus's encounter have become rumor and legend already. The Invaders cursed him with magic. The Invaders broke a flag of truce. The Invaders devoured the corpses.
+
+All it takes is one fool. One moment of rash terror.
+
+But the Praetorians are the best their Empire has to offer. They are an elite, just as the Marines they face are. They are patriots and they are cool tacticians. Eye to eye, the Marines and Praetorians take each other's measure. Today, things make sense.
+
+"I am sorry," says Major Terrence Washington. He holds his hands open. "On behalf of the United States and the U.S. Marine Corps, I apologize deeply for the misunderstanding." His gaze is level and honest. He has fought in Panama and Iraq, Afghanistan and Iraq again. He has dealt with men who place honor above life. His eyes say what his words cannot. 
+
+Javelins are lowered. As are rifles. Across a hundred feet, and two thousand years, two men walk forward and clasp hands. And Senator Murena hears of this that evening, watching the glow of the Praetorians' camp torches from his veranda, and seethes.
+
+##Day 7
+The Praetorian corpses are disinterred and returned, with full military honors. The first 21-gun salute in the history of the world is fired. Augustus Caesar stands at attention. It takes all of Colonel Nelson's training and experience to stop him from staring. 
+
+After a brief breakfast, Augustus tours Wonderland. He is given honors due a visiting head of state. He glances over the machines with a studiously cool eye. Only the slightest quickening of breath betrays his excitement when he sees the helicopters.
+
+Nelson admires the Imperator's reserve. He suppresses a smile once, when Augustus betrays shock - at the sight of Lieutenant Chou, next to Sergeant Guntersen and Private Gomez, all standing at attention. Augustus's eyes slide over to measure Nelson, and Nelson hopes he misses the moment of levity.
+
+Nelson realizes that these men frighten Augustus more than any machine. They speak of an empire vaster than his own. Augustus can imagine the threat posed by a helicopter. An invisible empire whose subjects come from across the earth, its interpreters jostling with his own in fragments of two dozen languages... Nelson regrets his decision to allow the tour, even if he has presented himself as an apologetic and accidental guest on Roman land. He has not given Augustus reason to respect the Marines as dutiful fighting men. He has given Augustus reason to annihilate them.
+
+Augustus makes excuses and cuts the visit short. Nelson hides his fear behind a stony exterior. Murena summons the conspirators again that evening. They talk, and now Murena urges them to action.
+
+By night, a cloaked figure approaches the Praetorian camp. Whispered signs are exchanged. The figure is ushered into the presence of Augustus. He details Murena's plan.
+
+Augustus glowers. He dismisses the informer.
+
+He does nothing.
+
+*****
+
+Corporal Alvin McCandless is sitting in a quiet area, behind a machine shop. He has just finished a 12-hour shift sifting piles of salvaged electronics and wiring; the rank he'd worked to gain for two years was gone. He smokes a cigarette. With a dexterity that speaks of practice, he strips out the filter and carefully gathers the last shreds of tobacco, tapping them into a wrinkled Ziploc bag. He closes his eyes. He smells grease, and then coffee, and drifting from the east, roasting eel; improvised fishing poles had appeared everywhere in the first days after the Landing.
+
+"Now that smells great, doesn't it?" McCandless snaps to attention.
+
+Lieutenant Colonel Jesse Nehmen walks up next to him.
+
+"Sir!"
+
+"At ease." McCandless moves to parade rest. Nehmen chuckles. "I don't think I've ever smelled fish that good. Must be used to pollution. Hell, maybe there was something to that global warming bullshit after all."
+
+"Sir, if you believe so, sir."
+
+Nehmen nods, still smiling. "Sergeant, I wanted to talk to you a bit about the incident on the 18th. I've seen the draft of your after-action report. Now - the judgment on your actions stands. Don't mistake that. You're reduced in rank and that's that." McCandless is nervous - this is strange, somehow stranger than shooting Roman soldiers down. The commanding officer of the MEU's ground combat unit shouldn't be lurking like this: one of Nelson's top officers talking to a busted sergeant.
+
+Nehman is watching McCandless carefully. He nods again. "There are wider considerations here, though. And your report - while it describes the action closely enough, it - well, it fails as an analysis. The action presents opportunities and dangers on a strategic level." Nehmen fixes McCandless with a stare. "On a historical level." He points. "You opened fire on the Roman Empire. And that's created danger for all of us. But it has also created an opportunity. For all of us... and for you."
+
+McCandless is still staring straight ahead. Sweat is breaking out on his forehead. He ignores the mosquitoes gathering on his motionless arms.
+
+Nehmen nods again, decisively. "The day will come, Corporal, when there will be advantages to being the first man on the trigger. You remember that. Dismissed." 
+
+McCandless salutes crisply and walks off. Nehmen watches his receding form carefully before he turns on his heal. An ambassador is coming. Nehmen has planning to do.
+
+##Day 8
