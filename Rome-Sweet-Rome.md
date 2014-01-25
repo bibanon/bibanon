@@ -140,3 +140,19 @@ Nehmen nods again, decisively. "The day will come, Corporal, when there will be 
 McCandless salutes crisply and walks off. Nehmen watches his receding form carefully before he turns on his heal. An ambassador is coming. Nehmen has planning to do.
 
 ##Day 8
+It is just after midnight. The camp still hums with activity. The water purification units thrum, filtering the brackish water of the swampy Tiber. Generators buzz everywhere. Warning flags flutter where engineers are planning channels to drain off marsh water without subsiding the already fragile concrete under Wonderland. Many of the broken slabs on Wonderland's borders have been pushed on their edges, forming a jagged maze. Marine snipers wait patiently in the labyrinth, scanning the darkness with night-vision goggles. If the curse the mosquitoes, they do it silently. Delacroix has not heard anyone complain about the bugs, although he himself seethes with hatred about them.
+
+But then, Frank Delacroix doesn't talk much.
+
+It's a short walk to the latrines, which have already been placed behind an arc of concrete on the southwestern edge of the camp. A small stream tumbles merrily under them, carrying the camp's waste down to the Mediterranean. There's a pile of scrap metal, moved here earlier in the day. It allows Delacroix to make a quick turn, unobserved by the sentries he knows are out there, toward the maintenance shed which has become an improvised brig. Two men are in there - a Marine who was hoarding stolen cigarettes, and Sixtus Murena.
+
+There are two Marines on duty. Delacroix silently hands them a slip of paper. They take it and read it, professionally. Their posture is perfect. They are polite and unruffled as they get on the radio to confrim what it says. They are courteous as they usher the hoarder quietly to the latrines, and he is grateful enough for the break to stay quiet himself. They hate Delacroix. He doesn't fit. In a world that doesn't make sense, he's the target of ugly and increasingly bizarre rumors. He's fine with that. Sixtus Murena is sitting on his bunk when Delacroix comes in. He is alert but stony. Delacroix likes the kid.
+
+"I understand you're learning Spanish." Delacroix's accent is clipped, Castilian, unlike Menendez's Mexican accent, but Murena nods. Delacroix muses for a second. Even our minority languages have dialects. That's intel to them, too.
+
+"I have a proposition."
+
+When the Roman ambassador arrives six hours later, Sixtus Murena is gone. The guards are debriefed and sworn to secrecy, as is Menendez. The hoarder is shown a bloody pillowcase, with two neat holes punched through it. He remains quiet as well. 
+
+Delacroix sits down while Colonel Nelson as the meeting gets underway. The two men say nothing to each other.
+
