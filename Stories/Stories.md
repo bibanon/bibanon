@@ -1,7 +1,7 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
 #SOMETHING FROM 2CH SORT IT LATER
-* **[[[Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)]]**
+* **[[2ch story]]**
 
 ## [[4chan]]
 ### The Father and his Daughter
