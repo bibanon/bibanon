@@ -1,5 +1,7 @@
 I found this on [a tumblr](http://vgperson.tumblr.com/post/21533650696/help-the-girl-i-like-wont-respond-to-my-emails). I'll format it better later.
 
+Also I just noticed the titles were different for each thread, so I'll fix that later too.
+
 #First thread
 A tale from 2ch of girls, emails, and hamsters. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
 
