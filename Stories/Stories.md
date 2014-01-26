@@ -1,7 +1,9 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
-## [[4chan]]
+#SOMETHING FROM 2CH SORT IT LATER
+* **[[[Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)]]**
 
+## [[4chan]]
 ### The Father and his Daughter
 
 Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Those anons became more than kind strangers; they became the child's mentors and adopted fathers.
