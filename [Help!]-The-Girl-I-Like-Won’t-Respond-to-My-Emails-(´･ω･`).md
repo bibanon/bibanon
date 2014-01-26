@@ -5,51 +5,51 @@ Also I just noticed the titles were different for each thread, so I'll fix that 
 #First thread
 A tale from 2ch of girls, emails, and hamsters. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
 
-#OP
+##OP
 There’s this girl I’ve had feelings for since high school, and now we’re in college together. We’ll call her Denko.
 Once we hit second year, we went out drinking, and I worked up the courage to exchange numbers.
 We started out talking often, but she hasn’t answered me in three days now.
 I’m getting depressed just thinking that Denko might be sick, or that something happened to her… (´･ω･`)
 Please, somebody give me some advice.
 
-#2ch
+###2ch
 SHE DOESN’T LIKE YOU.
 GIVE IT UP.
 
-#2ch
+###2ch
 Maybe it’s ‘cause email’s a pain in the butt.
 
-#OP
+##OP
 Well, I called her too in case she was sick or something happened… (´･ω･`)
 
 Maybe this last email I sent did something to hurt Denko’s feelings? Give me your opinion here…
 "Yahoo! Good weather today. You haven’t emailed me or called me, so I’m just sending this since I’m worried.
 Did I do something bad? PS. The stars were pretty last night.”
 
-#2ch
+###2ch
 [RAMEN POSTS]
 
-#OP
+##OP
 Wh… This isn’t a thread about ramen, okay?!
 I’m begging you, I need advice!
 I haven’t slept for an entire day…
 
-#2ch
+###2ch
 Just hypothetically, what would you think if you got an email like that from an ugly girl you don’t have any interest in?
 
-#OP
+##OP
 Umm… Well, I wouldn’t like it.
 But I’ve had my eye on Denko since high school, and…
 I don’t know how to say it, but I think it might be mutual… (´･ω･`)
 
-#2ch
+###2ch
 Pretty sure she hates you and is too shy to say it… ///
 
-#2ch
+###2ch
 I’ll divine OP and his girl’s love from her birthday.
 Post OP’s birthday too, if possible.
 
-#OP
+##OP
 My birthday’s March 10th, Denko’s is September 7th…
 
 #2ch
