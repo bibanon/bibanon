@@ -1978,48 +1978,48 @@ It might have just been the best moment of my life. I don’t think I’m going 
 Denko was surprised too, and let out a really loud shriek and ran, but I wasn’t going to have that again!
 I grabbed her arm so she couldn’t run. Because I wanted to hear her true feelings… (´･ω･`)
 
-#2ch
+###2ch
 I’ve seen scenes like this in horror films about serial killers…
 
-#OP
+##OP
 Denko was really hollering, so her friends got worried.
 And she said she was going home for the day. And they all told me not to come near Denko again… (´･ω･`)
 
 I HOPE SHE REPLIES SOON (´･ω･`)
 
-#2ch
+###2ch
 Have you asked her how she felt after that?
 
-#OP
+##OP
 Well, I’d rather have advice on how to do that than do something clumsy…
 That’s why I made a thread, so I could ask you guys… (´･ω･`)
 
-#OP
+##OP
 Denko, you’ve been so much trouble to deal with… I’m exhausted.
 I want to talk it out with her, but I need help on how I should go about it… (´･ω･`)
 
-#2ch
+###2ch
 Dear god, this guy is even more of a crazy than I thought.
 
-#2ch
+###2ch
 Poor, poor Denko…
 
-#2ch
+###2ch
 Are you still emailing her pretending to be her friend?
 
-#2ch
+###2ch
 Seriously, still not behind bars?
 
-#2ch
+###2ch
 Hey…
 I’m the Snake from the last thread, but, uh…
 How did this happen…? I was hoping I could be reassured it was just a troll…
 When did the flower-viewing start…? When was OP in Yoyogi Park…?
 
-#2ch
+###2ch
 ^ How long were you there?
 
-#2ch
+###2ch
 ^ From around 3 to 4:30. I couldn’t stay that long.
 Two other Snakes who were there since 12 told me they didn’t see anybody like the OP.
 The guests were starting to leave, so we left too. Uh, at least I got home safe…
@@ -2027,86 +2027,82 @@ The guests were starting to leave, so we left too. Uh, at least I got home safe�
 
 [And the thread dies without any more OP posts. But then…]
 
-
-
-
-[Help!] I’m Being Bullied At School (´･ω･`)
-
-#OP
+#Thread 5: [Help!] I’m Being Bullied At School (´･ω･`)
+##OP
 I’m incredibly worried, honestly…
 I was bullied in grade school too, but this is just awful.
 Somebody, please help me…
 
-#2ch
+###2ch
 ![](http://media.tumblr.com/tumblr_m2y328nlmZ1qgji20.png)
 
-#2ch
+###2ch
 Become a masochist and all your worries will melt away.
 
-#2ch
+###2ch
 I’ll help. Give me the name of your school, your year, and the bully’s name, phone number, and anything else you know.
 
-#2ch
+###2ch
 YOU AGAIN
 WHAT HAPPENED WITH THE FLOWER-VIEWING
 
-#2ch
+###2ch
 I’ll help just this once, OP.
 
 What exactly do you want from us?
 
-#OP
+##OP
 I want to know what I can do to not get bullied… (´･ω･`)
 
-#2ch
+###2ch
 Tell us the sexual parts of your harassment, OP.
 
-#OP
+##OP
 I was never bullied in my first year of college, but the bullying’s started again…
 I just ignored it at first, but people are telling me I’m creepy and to die to my face.
 Most of the time they pick on me by sprinkling me with toilet water.
 I’m afraid it’ll be like this my whole time in college… (´･ω･`)
 
-#2ch
+###2ch
 I can’t help but think there’s a reason.
 
-#2ch
+###2ch
 I’m honestly surprised they’d do that kind of bullying in college. That’s rough. In grade school, if you’re hurt or made fun of, you could always change schools, but college…?
 Is it possible you could avoid the bullies?
 
-#OP
+##OP
 Thank you… (´；ω；`)
 More and more rumors are spreading about me, so I’m being called names by people I don’t even know.
 I wish there were some way to stop the rumors… (´･ω･`)
 
-#2ch
+###2ch
 denko
 
-#OP
+##OP
 I was usually teased for having a timid personality, but it’s really rough getting bullied even after I’m in college…
 
-#2ch
+###2ch
 Bullying in college…?
 
-#2ch
+###2ch
 Hahaha, something seems awfully familiar about this thread…
 
 The Denko guy???
 
-#2ch
+###2ch
 Getting bullied in college must mean it’s a pretty sucky college…
 
-#2ch
+###2ch
 You are the cause, OP. (´･ω･`)
 
-#OP
+##OP
 Hey, even if there were a good reason, I shouldn’t have to put up with bullying at this age… (´･ω･`)
 I’ve been skipping school a lot out of fear…
 
-#2ch
+###2ch
 Did you get to confess under the cherry blossoms?
 
-#OP
+##OP
 Sorry, I meant to give some details about me… (´･ω･`)
 I’ve never really written anything like this before, but, uh…
 Hair: Tackey-esque
@@ -2118,7 +2114,7 @@ Personality: Quiet (´･ω･`)
 Something like that…
 Any advice given that?
 
-#2ch
+###2ch
 I was bullied once.
 
 In my case, after a while, I didn’t give them any reaction.
@@ -2128,19 +2124,19 @@ I couldn’t make friends with them, but at least I could get them to not want t
 I don’t think it’s a very good idea to ditch school.
 You’re just feeding them by letting them get to you.
 
-#OP
+##OP
 Really???
 Even skipping school counts as a reaction, huh…
 What should I do… Deep down, I really want to just tell them “Stop it!!”… (´･ω･`)
 Although I can’t bring myself to say it in front of them anyway.
 Do I have to just put up with it for now? I do want to go to school, but it hurts…
 
-#2ch
+###2ch
 >Deep down, I really want to just tell them “Stop it!!”
 
 Is that Denko speaking?
 
-#2ch
+###2ch
 No, you shouldn’t tell them “Stop it!” either.
 If you do, they’ll just want to bully you even more.
 That’s what they enjoy, and that’s why they do it.
@@ -2152,7 +2148,7 @@ It might take about two months for it to go away for good.
 
 By the way, what are these rumors? Where did they come from?
 
-#OP
+##OP
 Ooogh… I see… (´･ω･`)
 No reaction at all…
 I don’t know if I can handle it, considering I was bullied in grade school too…
@@ -2161,56 +2157,56 @@ It’s bad timing though, since I’m mentally exhausted after my girlfriend bro
 
 I don’t really want to talk about the rumors. (´･ω･`) I’m not sure what to say about them…
 
-#2ch
+###2ch
 Riiight, don’t want to talk about it…
 Because you’re the cause of them, right?
 If I’m wrong, just tell us so, so we can give you more useful advice.
 
-#2ch
+###2ch
 This is the Denko guy?
 
-#2ch
+###2ch
 Denko’s boyfriend → (´･ω･`)
 
-#2ch
+###2ch
 Thought so.
 He’s as bad at listening to people as ever.
 
-#2ch
+###2ch
 THEY BROKE UP?
 
-#2ch
+###2ch
 ^ Not like they were dating to begin with.
 
-#2ch
+###2ch
 This guy’s a college student, really??
 He sounds like a middle-schooler at best.
 
-#OP
+##OP
 If I mentioned Denko right away, no one would reply honestly… (´･ω･`)
 So I just wanted to ask about the bullying…
 
-#2ch
+###2ch
 LOL, the Denko guy…
 Geez, I’m curious what happened with her.
 
-#OP
+##OP
 Can we just have a conversation here?
 I don’t have any friends, so if I can’t even talk here, I’m gonna feel really defeated… (´･ω･`)
 
-#2ch
+###2ch
 Okay, dude, listen. Listen. LISTEN.
 The previous threads were all about Denko and all that stuff, right?
 And you talked about her plenty in them, but not here.
 If you didn’t want Denko to come up here, then why the thread title?
 It’s completely obvious you’re the same guy.
 
-#OP
+##OP
 It’s a very delicate situation, so even a single word could hurt matters…
 Why does everyone want to talk about Denko? Why not me?
 I’m not really in a situation where I can talk about her anyway… (´･ω･`)
 
-#OP
+##OP
 See, and now everyone attacks me… (´･ω･`)
 I’ve noticed that whenever I talk about Denko, I get unpleasant responses.
 So please consider that I’m very hurt right now and don’t want to talk about it… (´･ω･`)
@@ -2218,17 +2214,17 @@ Back to the bullying, I don’t want to do what’s being recommended…
 I want to know a more peaceful method, because I can’t put up with this for two months…
 If only things could go back to normal in a day…
 
-#2ch
+###2ch
 >I’ve noticed that whenever I talk about Denko, I get unpleasant responses.
 >So please consider that I’m very hurt right now
 
 And Denko’s been hurt far, far worse.
 
-#2ch
+###2ch
 Give it to us clearly, okay?
 Are you gonna ditch or are you gonna post?
 
-#OP
+##OP
 Sorry, I’ll write some…
 It really does put me at ease when I make posts here… (´･ω･`)
 I want to live in peace. I haven’t been sleeping well lately.
@@ -2237,193 +2233,193 @@ Why do I have to put up with a life of bullying?
 I don’t know, but I know I have to face it somehow…
 And I want the people bullying me to know they’re being silly.
 
-#2ch
+###2ch
 While it’s true you might be criticized when you talk about Denko, some people won’t give advice if you avoid talking about her. Just understand that.
 
-#2ch
+###2ch
 If you don’t like the environment at school, look for something new.
 Absorb yourself in a hobby, or go somewhere where rumors about OP won’t reach you, and do what you want to do.
 
-#OP
+##OP
 Thanks for the serious reply! (´･ω･`)
 Not giving a reaction is really hard…
 I might have done so without even realizing it.
 Hobbies… Uh, I like H games and comics, but no real hobbies…
 Do you think things would settle themselves if I didn’t go to school for two months?
 
-#2ch
+###2ch
 Do you have any idea how much trouble you’ve caused Tendou?
 You need to apologize to Tendou for everything, now.
 
-#OP
+##OP
 Uh? (´･ω･`) You know Denko’s nickname?
 Are you from school?
 
-#OP
+##OP
 You know the nickname Tendou?
 If you’re acquaintances, I want her to reply… (´･ω･`)
 
-#2ch
+###2ch
 This isn’t any time for you to be interrogating me, you creep.
 A loner like you never considering the other’s feelings and pushing himself on her is the worst of the worst.
 
 If you don’t get that, then you’re beyond all help.
 
-#2ch
+###2ch
 ^ Could you tell us more details about the flower-viewing if possible?
 
-#OP
+##OP
 IF YOU’RE SAYING THINGS ABOUT DENKO AND ME THEN I’LL NEVER FORGIVE YOU
 I’LL FIND YOU I SWEAR
 
-#2ch
+###2ch
 Eep…
 
-#2ch
+###2ch
 Oh bajeezus.
 I know he’ll do it, too.
 
-#2ch
+###2ch
 uh
 
 
 uh
 
-#2ch
+###2ch
 i peed a little
 
-#2ch
+###2ch
 There was no (´･ω･`)…
 
 GUYS HE’S SERIOUS!!!
 
-#OP
+##OP
 Do you really know Denko?
 If you really know her, tell me what she was wearing to the flower-viewing! (´･ω･`)
 
-#2ch
+###2ch
 Say, if Denko filed a stalker report, is it likely this guy would get arrested?
 
-#2ch
+###2ch
 Very likely, surely?
 If this guy gets ignored, then law enforcement is a joke when it comes to stalking.
 
-#2ch
+###2ch
 This would all be seriously traumatic to almost any girl, especially a fragile one.
 OP still doesn’t seem to understand the ramifications of his actions.
 Maybe we should get a hold of people nearby to file a claim for Denko.
 
-#2ch
+###2ch
 So in short, OP stalked Denko and is getting bullied for it, but is acting like he’s the victim?
 
-#2ch
+###2ch
 ^ Yes sir.
 
-#OP
+##OP
 I don’t want to hurt anyone, but I do know karate.
 I really don’t like violence…
 But this might be my chance to overcome my traumas… (´･ω･`)
 It’s this or put up with it for two months…
 
-#2ch
+###2ch
 Where are you getting two months from?
 
-#OP
+##OP
 I was advised here that if I endured it for two months, it would go away. (´･ω･`)
 
-#2ch
+###2ch
 What’re your plans for today, OP?
 
-#OP
+##OP
 Wondering if I should go to school or not… (´･ω･`)
 
-#2ch
+###2ch
 Why can’t you tell us a straight cause for the bullying?
 Are you just going to keep saying “rumors”??
 
-#2ch
+###2ch
 So, she didn’t like the thing at the flower-viewing, did she?
 
-#OP
+##OP
 Apparently not… I can’t take any more wounds.
 Just seeing “Denko” makes me feel like my chest is being carved out of me…
 
-#2ch
+###2ch
 Hey, stop making fun of OP, okay!!
 Can you say everything you want to talk about, OP?
 About the cause for bullying, the rumors you haven’t specified about, about Denko…
 We’ll talk it all out with you. Okay?
 
-#OP
+##OP
 Sniff… Thank you…
 I’m glad there’s a few good people… (´･ω･`)
 
-#2ch
+###2ch
 You goddamn… Were you threatening Denko with violence?
 
 Not saying anything to guys and threatening women? You’re the worst.
 What a waste of space. It’s obvious why you’re being bullied.
 
-#OP
+##OP
 WHAT I WASN’T THREATENING HER (´･ω･`)
 I just grabbed her, okay?
 If you’re that guy from school, please don’t talk about this anymore…
 
-#2ch
+###2ch
 You got in an argument with Denko, grabbed her arm, and groped her. You’re a piece of shit is what you are.
 
-#2ch
+###2ch
 ^ Hooray, Denko’s friend!
 
-#OP
+##OP
 Whoa, wait, I let go right away… I didn’t grope her! (´･ω･`)
 Everyone, please, don’t let this guy lead you astray.
 
-#2ch
+###2ch
 Do you honestly think you’re convincing anyone at this point?
 
-#2ch
+###2ch
 You damn liar! Don’t use your stupid-ass emoticon with me! You gonna do something about that attitude problem?!?
 
-#2ch
+###2ch
 Hear it from me, guys. This guy says he’s being bullied in college, but in reality he’s a sack of shit who Denko loathes for chasing her around, and he sees the situation as him being goddamn bullied. He’s the epitome of creepy stalkers.
 
-#OP
+##OP
 If I talk more about the flower-viewing, it’ll agitate the situation!
 All your name-calling is really hurting me…
 I want you to promise you won’t make fun of me.
 It’s a really delicate situation, so I don’t want things to get worse, or I’ll go nuts… (´･ω･`)
 
-#2ch
+###2ch
 Too late.
 
-#2ch
+###2ch
 Don’t be ridiculous.
 You don’t want to “agitate” things by talking about the flower-viewing? There’s nothing more that needs to be said! You’re just going to be a little shit who won’t apologize to Denko. Don’t ever come near her again!
 
-#2ch
+###2ch
 ^ Whoa, calm down. Can you tell us if something happened?
 There’s no sense in getting angry.
 
-#OP
+##OP
 Whoa, everyone’s so nice…
 I’ve never had so many people be this nice to me before… (´･ω･`)
 
-#OP
+##OP
 Ohh, I’m scared…
 But I’ll write it now… I’m so glad there are so many people supporting me… (´･ω･`)
 Um, after the stuff happened, I got called by “A-ko,” who was headed to Yoyogi Park as planned.
 But the place was pretty large, so I couldn’t find the place she told me to go to.
 All she wrote that it was a hilly place in Yoyogi Park…
 
-#OP
+##OP
 But eventually I found the hilly place, and of course Denko was there.
 I watched with a telescope and waited for a chance when she wouldn’t see me.
 I thought A-ko was going to have Denko go to the store, but she suddenly said she wouldn’t do it unless I paid an additional 30,000 yen.
 So of course I promised I’d pay 30,000 more, and she sent Denko to the store alone.
 There was a road for bikes near where Denko was, but Denko looked toward me for some reason, and I unconsciously got down on the ground… (´･ω･`)
 
-#OP
+##OP
 Sorry for going off-topic. (´･ω･`)
 So then Denko found me on the cycling road.
 She looked back my way once or twice.
@@ -2433,13 +2429,11 @@ And I thought “Huh? Maybe I’ve cleared up the misunderstandings?”, stood u
 
 [Then the thread hit 1000 posts. But I won’t dare make this a cliffhanger.]
 
-
-[Help!] I’m Suffering From These Rumors (´･ω･`)
-
-#OP
+#Thread 6:[Help!] I’m Suffering From These Rumors (´･ω･`)
+##OP
 Making a new thread here for now. (´･ω･`)
 
-#OP
+##OP
 Okay, time to continue… (´･ω･`)
 So I was waving at Denko waiting for her to come this way.
 But then Denko threw her bag at me really hard, and I ducked to dodge it.
@@ -2449,41 +2443,41 @@ I never would have dreamed I’d get kicked by Denko.
 So I quickly grabbed Denko’s hand to stop her rampaging.
 Right? Since it was just a misunderstanding? (´･ω･`)
 
-#2ch
+###2ch
 SHINING WIZARD!!
 
-#2ch
+###2ch
 DENKO GJ
 
-#2ch
+###2ch
 Denko’s had a whole lot of stress built up…
 I’m not surprised she’d get violent, no matter what you said to her.
 
-#2ch
+###2ch
 Then what? What about A-ko?
 And everyone else involved?
 
-#2ch
+###2ch
 Holy shit Denko! We’re proud of you, girl!
 I’d been imagining her as a weakling since all we know is she’s being stalked, but damn was I wrong…
 
-#2ch
+###2ch
 Is it possible the friend who showed up in the thread was A-ko?
 They had details on the flower-viewing incident, too.
 
-#2ch
+###2ch
 If it was A-ko, it seems weird she’d say “What did you do to Denko?”, doesn’t it?
 Since A-ko is selling info to the OP.
 The part about “threatening with violence,” too, since Denko used the Shining Wizard on OP.
 
 Maybe A-ko is the final boss? If this is like an RPG?
 
-#OP
+##OP
 SORRY I GOT A CALL FROM A-KO.
 She said she had good info, but when I said I would be hard up for cash this month, she hung up on me… (´･ω･`)
 I’m talking with my mom now.
 
-#OP
+##OP
 Okay, sorry for going off-topic.
 I’ve been sorting things out, so I was late with this… (´･ω･`)
 
@@ -2492,44 +2486,44 @@ I immediately thought, oh no, she misunderstood me again, so I got on the ground
 I think it got through to Denko, because then she broke down crying.
 But then A-ko (the one who gave me info on Denko) came with some other girl I don’t know, and they suddenly pushed us apart… (´･ω･`)
 
-#2ch
+###2ch
 I’m serious, stop posting your made-up crap on 2chan!
 
 People, don’t believe a word this guy says about what happened today!
 
-#2ch
+###2ch
 ^ Well, I believe him more than you, since there’s actually something TO believe.
 
 #2ch
 ^ Is this A-ko?
 
-#2ch
+###2ch
 ^ Compared to you going “NO YOU’RE WRONG,” I’m going with the OP, who’s at least starting to talk.
 Because anybody can just say “nope, that’s not true.”
 
-#2ch
+###2ch
 I’ve heard all of OP’s story, so I want to hear this person’s too, but there’s one thing I want to ask.
 
 What do you think about A-ko selling info to OP despite knowing Denko despises him?
 
-#2ch
+###2ch
 ^ I don’t believe it. It’s just a fabrication by the OP!
 And Denko would never get violent!
 This guy is seriously messed in the head!
 
-#2ch
+###2ch
 ^ Stop trying to be emotional about this, okay?
 Why else would OP know the time, place, and so on of the flower-viewing?
 And the changed email addresses and phone numbers? It’s probably even why he got busted.
 I know lots of women tend to dodge questions like this, but doing this is just being pointlessly cruel to Delico, okay?
 
-#2ch
+###2ch
 DELICO.
 
-#2ch
+###2ch
 ^ OH GOD I DIED AT “DELICO”
 
-#OP
+##OP
 So they shouted at me, calling me a pervert…
 And even A-ko told me “Don’t get any closer to Denko!”
 It’s not something I expected at all… It made me cry from shock…
@@ -2538,10 +2532,10 @@ Then it was silent for a while, and Denko said that as long as A-ko and ___ were
 And then I realized…
 Right! I had to confess under the cherry blossoms!
 
-#2ch
+###2ch
 This guy is really something if he thinks “I should confess!” after all that.
 
-#OP
+##OP
 So then I led Denko under a cherry blossom within sight of A-ko and the mystery girl.
 Then I casually pushed Denko from behind under the tree.
 I wanted to talk about my feelings, and how Denko was misunderstanding me.
@@ -2551,10 +2545,10 @@ But the next moment, Denko suddenly said, before I could confess…
 "There’s someone I like, and I’m sorry, ___, but it isn’t you."
 It was so out of left field, like I had been suddenly hit with a baseball bat… (´･ω･`)
 
-#2ch
+###2ch
 Whoa, man, that’s rough. What happened next?
 
-#OP
+##OP
 Thank you… (´･ω･`) It was such a rough day, I didn’t even eat…
 
 Denko told me “If you’re really thinking about me, please, consider how I feel.”
@@ -2563,85 +2557,83 @@ But I really despised this guy that Denko liked… (I’ll have to get info on h
 I never considered for a second Denko would care for anyone but me, so it was a huge shock.
 So Denko shook my hand, made me promise not to come near her again, and we went home.
 
-#2ch
+###2ch
 Keep that goddamn promise…
 
-#2ch
+###2ch
 SHIT DUDE RUN
 
-#2ch
+###2ch
 Have you yet to tell Denko about how you’re so devoted, you’re paying A-ko to hear more about her??
 
 I mean, if I were a girl, I’d be moved to tears by that.
 
-#OP
+##OP
 A-ko’s still giving me info about Denko.
 If I cut things off with A-ko, I’d be really stuck… (´･ω･`)
 
-#2ch
+###2ch
 I thought you said you didn’t fully trust A-ko?
 Why’s OP being so careful with A-ko?
 
-#OP
+##OP
 BECAUSE SHE SAYS DENKO DOESN’T LIKE ME. (´･ω･`)
 
-#2ch
+###2ch
 But that’s true… ROFL
 
-#2ch
+###2ch
 I really don’t know how you could raise a kid this effed in the head.
 
-#2ch
+###2ch
 Looks like this is over.
 Break up, guys.
 
-#2ch
+###2ch
 OP sure is being slow…
 
 I’m getting kind of worried.
 
-#2ch
+###2ch
 All the other threads ended this way too.
 Give it some time and he’ll make another thread.
 'Cause he's a troll.
 
-#2ch
+###2ch
 These threads never have a satisfying ending…
 
-#Fifth Thread (final)
-The fifth and final part of the saga from 2ch. Make sure to start from the first thread. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
-
-#2ch
+#Thread 7: [Help!] I’m Not Sure Who I Like Anymore (´･ω･`)
+###2ch
 Substituting for the OP.
 Not really sure what the title means…
 
-#2ch
+###2ch
 ARREST HIM ALREADY.
 
-#2ch
+###2ch
 This again…
 
-#2ch
+###2ch
 Oh boy, 600-email-man again…
 So I know up to Denko using the Shining Wizard on OP.
 What happened next?
 
-#2ch
+###2ch
 I think he’s getting bullied at school?
 
-#OP
+##OP
 Thank you, thread-starter! You’re a real help! (´･ω･`)
 I’m very grateful.
 
-#OP
+##OP
 Um, I was suddenly dropped to level 0, so I couldn’t start it myself. Sorry.
 Also, there’s a scary middle-schooler in front of the dojo, so I stopped practicing my Kyokushin karate… (´･ω･`)
 Now, about Denko’s “boyfriend”…
 
-#2ch
+##2ch
 How’s that evil mastermind A-ko doing?
 
-#OP
+##OP
 Actually, I’d rather you not say bad things about A-ko right now… (´･ω･`)
 
 So it turns out Denko doesn’t actually have a boyfriend…
@@ -2649,11 +2641,11 @@ I’m seriously shocked Denko would lie to me.
 Why would she do that?
 She shook my hand when we parted, so I don’t think she really hates me…
 
-#2ch
+###2ch
 Sheesh, you can’t extrapolate that just from a handshake…
 And you were saying you didn’t trust A-ko before, and now suddenly you’re her babysitter?
 
-#OP
+##OP
 Sorry, I’ll give more details.
 So I asked A-ko for some advice?
 And she was harsh. She said I had a 10% chance of getting with Denko at best.
@@ -2665,7 +2657,7 @@ Once I had that thought, I started to see A-ko’s kindness, and I realized my f
 Does anyone have experience loving two people at the same time?
 I don’t know how to describe these feelings…
 
-#2ch
+###2ch
 What?
 
 
@@ -2679,13 +2671,13 @@ What?
 
 What?
 
-#2ch
+###2ch
 The most outrageous misunderstanding of all time…
 So self-absorbed…
 
 Well, no point in telling us about it. Go confirm that A-ko likes you, OP.
 
-#OP
+##OP
 I’m not that self-absorbed… (´･ω･`)
 I’m really worried… Maybe it’s since Denko carved out my heart that I’m being fooled into thinking I love A-ko?
 
@@ -2693,27 +2685,27 @@ Of course, it’s also possible I could love two people…
 As long as they respond to my emails, I mean.
 But how should I ask her? (´･ω･`)
 
-#2ch
+###2ch
 "Do you like anal?"
 
-#OP
+##OP
 Y-Yikes…
 What would happen if I asked a girl that?
 I don’t think I want to ask that at all… (´･ω･`)
 
-#2ch
+###2ch
 You won’t know until you try!
 Gotta live and learn!
 
-#OP
+##OP
 Well, I sent “Do you like anal?”… (´･ω･`)
 I’ve had some bad experiences thanks to some of you guys’ replies, though…
 If this makes her not like me, I’m gonna be really stuck…
 
-#2ch
+###2ch
 GJ
 
-#2ch
+###2ch
 A-ko, you gave me advice, right?
 You were harsh with me, saying I have a 10% chance with Denko at best.
 
@@ -2730,25 +2722,25 @@ So could I ask your feelings…?
 
 ^ Send this.
 
-#OP
+##OP
 Wow, she replied already! (´･ω･`)
 
 Subject: G☆R☆O☆S☆S
 
 Since she put stars in it, is that good? Did I get through to her? (´･ω･`)
 
-#2ch
+###2ch
 Sounds perfect.
 
-#2ch
+###2ch
 You got her for sure!
 You can do this! Go for it!
 
-#OP
+##OP
 Okay, I think I might have this! (´･ω･`)
 I sent A-ko “Know what I mean? (´･ω･`)”
 
-#OP
+##OP
 Here we go… (´･ω･`)
 
 Contents:
@@ -2757,84 +2749,84 @@ Contents:
 Hrmm… maybe she was confused what I meant with my message… (´･ω･`)
 But I think we’re doing well so far. Want to drop the big question soon…
 
-#2ch
+###2ch
 This is the perfect time to send that earlier suggestion!
 
-#2ch
+###2ch
 Maybe they aren’t wrinkles, but an intersection.
 So she wants to meet you?
 
-#2ch
+###2ch
 ^ !!
 
-#OP
+##OP
 I see, so I AM being tested… (´･ω･`)
 Okay, since a lot of people wanted it, I sent that suggested reply.
 
-#2ch
+###2ch
 Perhaps it would be better that A-ko, the girl who sells info about her friends, is targeted rather than the innocent Denko…
 
-#OP
+##OP
 Now that I sent it, I’m really worrying what I’ll do if Denko confesses to me too… (´･ω･`)
 
-#2ch
+###2ch
 Neither will.
 
-#2ch
+###2ch
 It’s fine.
 
 SINCE THAT WON’T HAPPEN.
 
-#2ch
+###2ch
 Date them both!
 
-#2ch
+###2ch
 I wouldn’t worry about it.
 
-#2ch
+###2ch
 What celebrities would you compare A-ko to?
 
-#OP
+##OP
 Uh, I don’t know many celebrities, so that’s hard to say… (´･ω･`)
 She would probably fit in a hostess club, though.
 
-#2ch
+###2ch
 Look at you guys, mocking OP when he’s so close to losing his virginity.
 
-#OP
+##OP
 W-Whoa…
 Am I close? Really?
 This is making me excited… (´･ω･`)
 
 Can’t wait for A-ko to email me, oh man…
 
-#2ch
+###2ch
 MAKE SURE TO POST LIVE WHILE YOU’RE LOSING YOUR VIRGINITY!
 
-#2ch
+###2ch
 [Help!] I’m Not Sure Where My Girlfriend’s Hole Is
 
-#2ch
+###2ch
 If you’re going to have sex with A-ko, she’s gonna need payment. Somewhere in the order of 500,000 yen.
 
-#2ch
+###2ch
 We’ve entered a whole new world of Mr. Stalker’s misunderstandings…
 
-#2ch
+###2ch
 Haha, A-ko would “fit in a hostess club”…
 Is she that slutty?
 Lots of women like that will only date men for their money, y’know.
 
-#2ch
+###2ch
 I want this to be made into a whole bunch of media, like Densha Otoko.
 
-#2ch
+###2ch
 OP’s illness is getting worse.
 He must be off his meds.
 It’s dangerous to keep this up.
 Please, take your medication and tell your doctor about this.
 
-#OP
+##OP
 SHE REPLIED!!
 
 Contents:
@@ -2844,106 +2836,106 @@ Huh? D-Do I want to date A-ko…? (´･ω･`)
 I’m worried about Denko too…
 If I date her, then I won’t be able to date Denko, will I?
 
-#2ch
+###2ch
 Whatever your choice, the result will be the same.
 
-#2ch
+###2ch
 She’s throwing all sorts of signs, moron! Don’t back away from this!
 
-#2ch
+###2ch
 Seems obvious to me. Three can play at this game.
 
-#2ch
+###2ch
 If things end with A-ko, propose to Denko again.
 But for now, go with A-ko.
 
-#2ch
+###2ch
 Even if you’re rejected, you’ve still got Denko, OP! Tell her you wanna date!
 And girls love men with experience, trust me.
 
-#2ch
+###2ch
 Hostess-club girls generally won’t leave hopeless guys alone.
 And since OP’s getting bullied even at college, he passes with flying colors…!
 
-#OP
+##OP
 Sniff… um…
 I just sent this… (´･ω･`)
 "Do you want to date me, A-ko?"
 
-#2ch
+###2ch
 Are you retarded?
 
-#2ch
+###2ch
 Only virgins answer a question with a question.
 
-#2ch
+###2ch
 What? Are you kidding me?
 A-ko asks if you wanted to date, you replied asking if she wants to date you? Girls hate men like that!
 God, you should’ve just straight-up said you wanted to date…
 
-#2ch
+###2ch
 You never let us down, OP.
 
-#2ch
+###2ch
 It’s times like these I’m made even more aware than usual that OP is a virgin.
 
-#OP
+##OP
 If A-ko says she wants to date, then I wonder if I’ll have to forget about Denko…
 I’m getting a little marriage-blue… (´･ω･`)
 [The term is supposed to refer to “blues” associated with an approaching marriage, such as anxiety about what life will be like afterward.]
 
-#2ch
+###2ch
 Uhhhm. I don’t think you know what “marriage-blue” means…
 
-#2ch
+###2ch
 You’re already getting married?!
 
-#2ch
+###2ch
 Do you just not have any idea what marriage-blue means?
 Or are you already planning to marry A-ko?
 I literally can’t tell…!
 
-#2ch
+###2ch
 (´･ω･`)
 ^ This is not the face of marriage-blue.
 
-#2ch
+###2ch
 Follow up with this?
 "I’m sorry. I was so shocked, I replied with a question instead.
 That’s just how it goes when I’m anxious about you, A-ko. So yes, please, go out with me.”
 I mean why didn’t you just say that to begin with???
 
-#OP
+##OP
 Sorry, but what exactly was the problem with what I sent?
 I’m getting impatient over the lack of reply, though… (´･ω･`)
 
-#2ch
+###2ch
 Because you replied with a question!
 When you could’ve just been a man and said “Yes, I want to date you!”
 
-#2ch
+###2ch
 There’s no problem! It’s perfect!
 
-#OP
+##OP
 Thanks a lot, guys, now I’m worried I’m making big mistakes… (´･ω･`)
 I’m getting a little depressed here…
 
-#2ch
+###2ch
 Next thread:
 
 [Help!] My Girlfriend Is Suing Me (´･ω･`)
 
-#2ch
+###2ch
 With the way this guy thinks, it’d be more like this:
 [Help!] My Lawyer-Brainwashed Girlfriend Is Suing Me (´･ω･`)
 
-#2ch
+###2ch
 [Help!] The Police Are Here (´･ω･`)
 
-#2ch
+###2ch
 [Help!] I’m Being Chased By My Girlfriend’s Friend (´･ω･`)
 
-#OP
+##OP
 Got a reply!
 
 Contents:
@@ -2952,73 +2944,73 @@ If you say you want to date, then sure, we can date! ♥
 Huh? Do I want to date A-ko???
 What is this feeling…? (´･ω･`)
 
-#2ch
+###2ch
 I love you, A-ko.
 
-#2ch
+###2ch
 What? What? What?
 WHAT IS THIS??????
 
-#2ch
+###2ch
 whAT
 
-#2ch
+###2ch
 How… but…?
 
-#2ch
+###2ch
 CONGRATULATIONS!!!!!!!!!!!!!!!
 
-#2ch
+###2ch
 Huh? What? What, what?
 Is this real life or just fantasy?????
 
-#2ch
+###2ch
 The twist no one’s expected since the first thread…
 
-#OP
+##OP
 Going to A-ko’s side right after breaking up with Denko would be really… I dunno… (´･ω･`)
 I don’t have any idea how to respond.
 Should we date? Won’t she think I’m fickle then?
 
-#2ch
+###2ch
 "Broke up"… YOU WEREn’T EVER DATING…
 
-#OP
+##OP
 Sent this. (´･ω･`)
 "If you really want to, then could we date so we can get married later?"
 
 Right! I’ll forget about Denko if I have to…! Sniff…
 
-#2ch
+###2ch
 Congrats, dude!
 
-#2ch
+###2ch
 GJ!!!
 You’ve done well.
 
-#2ch
+###2ch
 So NOW it’s marriage-blue, huh…
 
-#2ch
+###2ch
 So you can get… get married later… omfg…
 You’re amazing, you know that…
 
-#2ch
+###2ch
 How old is OP?
 
-#2ch
+###2ch
 ^ Just got into college… I think.
 
-#2ch
+###2ch
 ^ Second year, actually.
 
-#2ch
+###2ch
 [Help!] We’re Dating, But I Can’t Forget My Old Girlfriend (´･ω･`)
 [Help!] I’m Being Sued By My Lawyer-Brainwashed Girlfriend (´･ω･`)
 [Help!] The Courts Want 3 Million Yen in Compensation (´･ω･`)
 [Help!] I Had To Pay the Courts 3 Million Yen in Compensation (´･ω･`)
 
-#OP
+##OP
 Got a reply! That was quick!
 
 Contents:
@@ -3031,61 +3023,61 @@ Can you uphold those three for me? ♥
 
 So yeah… (´･ω･`) Kinda strange how she doesn’t want me to contact her, huh?
 
-#2ch
+###2ch
 OMG, it’s like she wants you to sign a contract…
 
-#2ch
+###2ch
 Oh yeah, she’s totally after your brother and money…
 
-#2ch
+###2ch
 She wants to have a monopoly on you!
 Isn’t that cute?
 
-#2ch
+###2ch
 Raise your hand, did anyone see this coming back when it was just 600 emails?
 
-#2ch
+###2ch
 Sounds like she’s stopping just short of saying “I’ll contact you whenever I need money, thanks! o(^▽^)o”
 
-#2ch
+###2ch
 [Hooray!] I Got A Personal ATM (´･ω･`)
 
-#2ch
+###2ch
 Dang… What color is A-ko’s blood?
 
-#2ch
+###2ch
 Sometimes, you find happiness in places where you least expect it.
 
 Congratulations…!
 I really mean it…!
 
-#OP
+##OP
 Sent this… (´･ω･`)
 
 "Don’t you think it’s a little harsh saying I can’t contact you myself? (´･ω･`)"
 
-#2ch
+###2ch
 Be more forceful!
 See, this is why you’re a virgin.
 
-#OP
+##OP
 Thanks! You’re absolutely right! I’m feeling braver now!
 Sent this: “Never mind, I was just kidding! Let’s date!! I love you!!” (´･ω･`)
 
-#2ch
+###2ch
 Brave enough to become a slave, apparently…
 
-#2ch
+###2ch
 You need to have three conditions of your own.
 1: Don’t have sex with anyone but me.
 2: Have sex with me once a day.
 3: Don’t spend my money on anything.
 
-#2ch
+###2ch
 Hahaha, talk about an unfair deal!
 FF13 gives you more freedom than that!
 
-#OP
+##OP
 Reply reply reply!
 
 Contents:
@@ -3096,92 +3088,92 @@ Make sure you never, ever forget it!
 
 Whoaaa… It’s a virginity countdown now… (´･ω･`)
 
-#2ch
+###2ch
 Now’s your chance!
 You gotta say something to show you’ll remember it, or else!
 
-#2ch
+###2ch
 A-ko is pro.
 
-#2ch
+###2ch
 Time to Lost Virginity: XX years
 
-#2ch
+###2ch
 ^ two digits, rofl
 
-#OP
+##OP
 Umm, she said not to tell anyone we were dating, but maybe I should let Denko know? (´･ω･`)
 Also, what should I give her for our anniversary?
 
-#2ch
+###2ch
 The best present of all would be your smile.
 Go meet her pronto!
 
-#2ch
+###2ch
 Give her your virginity, dummy!
 
-#OP
+##OP
 For now, I told Denko I had something important to tell her… (´･ω･`)
 And I asked A-ko “Can we meet after school today?”!
 Three-dimensional ecchi tonight… Even I didn’t see this coming…
 
-#2ch
+###2ch
 Not if you don’t pay up 300,000 yen.
 
-#2ch
+###2ch
 Where ya gonna do it?
 
-#OP
+##OP
 I don’t suppose the park would work? (´･ω･`)
 
-#2ch
+###2ch
 AT LEAST GO TO A HOTEL MAN.
 
-#2ch
+###2ch
 Wh… what are you… what?
 Can’t you meet anywhere else?
 
-#OP
+##OP
 I’ve never been to a hotel before, so I’m embarrassed… (´･ω･`)
 Waiting for a reply now…
 Maybe I should bring a vibrator?
 
-#2ch
+###2ch
 A virgin bringing a vibrator, omg…
 Hell, make that your anniversary present.
 
-#OP
+##OP
 And of course, wouldn’t it be romantic to go with A-ko to Yoyogi Park, that memorable place, and see the cherry blossoms together? (´･ω･`)
 
-#2ch
+###2ch
 Memorable for getting Shining Wizarded, you mean…?
 
-#2ch
+###2ch
 Yeah, romantic would be good.
 The buzz of a vibrator backed by cherry blossoms… superb.
 
-#2ch
+###2ch
 Oh, you’re such a romantic. I tip my hat to you, sir.
 You’re like the Japanese Shakespeare, you are.
 Girls fall head over heels for romantic types, so good luck!
 
-#OP
+##OP
 In H manga, girls usually pretend to dislike vibrators, but inside they really enjoy it.
 But all my knowledge is manga and games, so I don’t know if it’s really true… (´･ω･`)
 Help…
 
-#2ch
+###2ch
 Have you never read a NORMAL romance manga?
 
-#OP
+##OP
 No emails, so I might have to send one myself… (´･ω･`)
 It hurts… (´･ω･`)
 I don’t have a vibrator, so I’ll have to go buy one from Don Quijote. Buh-bye!
 
-#2ch
+###2ch
 Don’t worry, H games are basically just reality in game form.
 
-#OP
+##OP
 While I was headed to Don Quijote, I got a shocking email…
 
 Contents:
@@ -3197,23 +3189,23 @@ Oh man, I’m super excited!
 Since I guess I won’t need the vibrator for now, I bought some lotion to use in the bath.
 I hope we can use it together soon… (´･ω･`)
 
-#2ch
+###2ch
 I don’t think she’s getting in a bath with you…
 
-#2ch
+###2ch
 >I’m looking forward to my wedding night with you, since we’re leading up to marriage here. *smile*
 >So no touchy-touchy until then, please! ♥
 
 We’ll be waiting forever…
 
-#2ch
+###2ch
 If you’re keeping your promises, you should really make sure she’s a virgin too.
 
-#2ch
+###2ch
 ^ Yeah, definitely do this.
 Is there a single college girl in Tokyo that keeps her chastity these days?
 
-#OP
+##OP
 Going in the bath will be fine.
 We’ll probably have to touch, mmm… (´･ω･`)
 I sent her “I’m going to Don Quijote to get some stuff for the bath, so we can go in together!”
@@ -3221,7 +3213,7 @@ Knowing A-ko’s such a good girl as to save herself for marriage is just raisin
 But we’re definitely going into the bath together! So I guess a hotel, huh…
 First time at a hotel… I’m nervous… (´･ω･`) My armpits are sweating…
 
-#OP
+##OP
 Got an email!
 
 Contents:
@@ -3233,11 +3225,11 @@ For now, I sent “How does ___ sound as a meeting point? I’ll tell you after 
 Spring is coming, and I’m sorry I’ve troubled you all. But I’m really grateful! Thanks!!
 I bet you can all get great girlfriends too!!
 
-#2ch
+###2ch
 You really don’t think about anything but what’s convenient for you, do you…
 You’re sick, man, get help!
 
-#2ch
+###2ch
 For real, what ARE you talking about…
 Suddenly bringing up going in the bath? Like, what?
 
@@ -3245,229 +3237,229 @@ Suddenly bringing up going in the bath? Like, what?
 
 [Help!] I’m Deathly Confused By How Women Think (´･ω･`)
 
-#OP
+##OP
 We just started dating, but I’m really surprised by the differences in how men and women think.
 I need to know the secrets of good dating… (´･ω･`)
 Like where to have good dates…
 
-#2ch
+###2ch
 Why, you… Are you the Denko guy?
 
-#OP
+##OP
 Ah, uh, yes, you were all very helpful with Denko. (´･ω･`)
 
-#2ch
+###2ch
 Oh, it’s A-ko now, right…
 The master-slave relationship.
 
-#2ch
+###2ch
 Did you give up on Denko or what?
 
-#OP
+##OP
 I wrote a letter and gave it to her! (´･ω･`)
 
-#2ch
+###2ch
 At any rate, you need to be close with your partner.
 
-#OP
+##OP
 Hm… Is that the trick to a long relationship?
 
-#2ch
+###2ch
 What happened next, OP?
 
-#2ch
+###2ch
 How’s it going with A-ko?
 Well?
 
-#OP
+##OP
 A lot of stuff happened at the hotel, and we had sex… (´･ω･`)
 Though we had a serious dispute after…
 
-#2ch
+###2ch
 First, tell us what’s not going well, and list what you don’t understand.
 
-#OP
+##OP
 Men and women just seem to think so differently… (´･ω･`)
 So there’s a lot of stuff I’m worried about.
 Like if a guy has unprotected sex, does that mean he thinks of women as being solely for pleasure?
 Which would make a girl really mad…
 Because yeah, she got really mad at me… (´･ω･`)
 
-#2ch
+###2ch
 How much did you pay to sex A-ko?
 
-#OP
+##OP
 She said she’d do it if I bought her 500,000 yen in clothes, but that’s a lot of money, so I negotiated it down to 350,000… (´･ω･`)
 It was a really great experience, better than I could’ve imagined… (´･ω･`)
 
-#2ch
+###2ch
 Christ, where the hell are you getting your money?
 
-#OP
+##OP
 My family is pretty rich, and I know where they hide the money… (´･ω･`)
 
-#2ch
+###2ch
 How much have you paid A-ko in total?
 
-#OP
+##OP
 I don’t know… Probably more than 700,000 yen?
 
-#2ch
+###2ch
 What, ONLY 700,000 yen?
 A regular couple going from first dates to intercourse takes at least 2 million!
 
 Love A-ko more, dammit!
 
-#2ch
+###2ch
 Wait, you “know where they hide the money”? You’re stealing money from your parents?
 
 I’m… curious, to say the least.
 
-#2ch
+###2ch
 Unprotected sex, jfc… How irresponsible are you?
 If you get together, how the hell are you going to raise a kid?
 I feel beyond bad for any kid with a parent like you…
 
-#OP
+##OP
 A-ko said the same thing… I guess that’s how girls think… (´･ω･`)
 Well, I’ve learned from it now.
 But girls like it that way in H manga and porn videos, right?
 I thought unprotected was supposed to be better…
 
-#2ch
+###2ch
 This is quite a direction things are going in…
 
-#2ch
+###2ch
 You need to learn that sexy books are different from real life!
 Did you at least give a good apology?
 
-#OP
+##OP
 I’m not really sure why I’d need to apologize, since I was crying with her too…
 The third dimension is hard… (´･ω･`)
 
-#2ch
+###2ch
 Just get a prostitute, man! 350,000 yen, hot damn…
 
-#OP
+##OP
 There’s no love with prostitutes, so I don’t wanna… (´･ω･`)
 
-#2ch
+###2ch
 What’s OP’s idea of a “girlfriend”? What does it mean to you?
 
-#OP
+##OP
 An embodiment of love? I dunno, you’re embarrassing me… (´･ω･`)
 
-#2ch
+###2ch
 You’re right, the third dimension is hard.
 But intercourse is a holy act that gives way to new life, too.
 You’ve learned you can’t be careless, right, OP?
 If you make a single misstep, A-ko will just think you’re incredibly irresponsible.
 So be more careful with her, okay?
 
-#OP
+##OP
 Huh? But if she has a baby, will we be able to raise it together?
 I’m not irresponsible enough to abandon a baby… (´･ω･`)
 
-#2ch
+###2ch
 Men who can’t cook ain’t suited for marriage, dude!
 
-#OP
+##OP
 I CAN MAKE SPAGHETTI (´･ω･`)
 
-#2ch
+###2ch
 A-ko is your girlfriend. You should want to see your kid in the future.
 It was just a bad time for it.
 When you both want it, then have all the unprotected sex you want.
 
-#2ch
+###2ch
 I know how you feel. When you fall in love, everything seems to run right by you.
 But does A-ko want children right now?
 If she doesn’t, then of course she’ll get mad.
 But if you both really want kids, then it’s not too late.
 And more importantly, consider the kid’s happiness too.
 
-#OP
+##OP
 That’s a novel thought! I just sent that to A-ko!
 
-#2ch
+###2ch
 You had sex with A-ko? And she was a virgin?
 
-#OP
+##OP
 She said it was her first time… (´･ω･`)
 
-#2ch
+###2ch
 Reading through all this, I’ve been interested in OP himself.
 What kind of environment did your family raise you in?
 If we know that, we might know OP’s personality better to give him better advice.
 
-#OP
+##OP
 I think it’s a pretty ordinary family…
 I guess my mom was extra nice to me… (´･ω･`)
 
-#2ch
+###2ch
 What did you write in that letter to Denko?
 Wasn’t dating A-ko supposed to be a secret?
 
 And if A-ko said she wanted to be a virgin until marriage, was she really planning to marry OP?
 
-#2ch
+###2ch
 Once Denko learns this situation with A-ko, she’s gonna be jealous for sure.
 Since he put out 700,000 yen for her.
 Then her love for him will truly come out.
 
-#OP
+##OP
 I talked with Denko in private about dating A-ko.
 I’m still a little in love with Denko, like I thought I might be…
 I might be happy in a way if she got jealous… (´･ω･`)
 
-#2ch
+###2ch
 If you spent 350,000 of the 700,000 for sexytimes, what was the rest for?
 
-#OP
+##OP
 Buying information, mostly… (´･ω･`)
 
-#2ch
+###2ch
 Make sure to keep enough around for pregnancy, birth, and child-raising.
 
-#OP
+##OP
 Well, I’ll do my best. (´･ω･`)
 
-#2ch
+###2ch
 So OP has rich parents, huh.
 And his mother was nice, but what about his father?
 Also, his brother said he didn’t want to get involved with him. How’d it come to that? Did something happen?
 
-#OP
+##OP
 We had a fight a long time ago, and I guess he’s still mad about it… (´･ω･`)
 My dad was usually at work, so I don’t have much of an image of him. (´･ω･`)
 
-#2ch
+###2ch
 What was the fight about?
 
-#OP
+##OP
 I don’t really want to say… (´･ω･`)
 
-#2ch
+###2ch
 OP sure is something.
 If possible, can you tell us how things went to get to the sex?
 I want it for reference.
 
-#OP
+##OP
 I guess the trick is appealing to how much you think about the girl…? (´･ω･`)
 
-#2ch
+###2ch
 Huh?? You said you sent her an email, but didn’t she forbid OP sending her emails??
 
-#OP
+##OP
 Well, she hasn’t replied in four days, so I was getting really worried… (´･ω･`)
 
-#2ch
+###2ch
 What happened to the bullying at school?
 
-#OP
+##OP
 I’m not going to school! I’m probably not going back for another month…
 
-#2ch
+###2ch
 You should go to school!
 I’m sure A-ko wants to see you at school, too!
 
@@ -3475,33 +3467,33 @@ She’s been too timid to email you for four days.
 
 You have to consider that A-ko wants to be with you more, OP!
 
-#OP
+##OP
 So sleepy… (´･ω･`)
 
 I don’t have the courage to go to school…
 
-#2ch
+###2ch
 What’s up with A-ko now?
 
-#OP
+##OP
 I don’t know… I don’t get how girls think at all…
 
-#2ch
+###2ch
 A-ko’s a good girl.
 Giving her virginity to OP…
 
-#2ch
+###2ch
 Except I really doubt she’s a virgin…
 
-#2ch
+###2ch
 Maybe he fell asleep?
 
 Looking forward to the next conversation.
 
-#2ch
+###2ch
 I guess… I’ll sleep too.
 
-#2ch
+###2ch
 Looking forward to the next thread.
 
 
@@ -3519,6 +3511,5 @@ I think the comment near the end of the second thread says it pretty well. Even 
 Whether or not the OP was real only determines whether or not Denko was a real girl suffering from real stalking. There still can be and still have been countless others whom this really, definitely happens to.
 
 At any rate, this is the way the story ends. Not with a shank, but with a
-
 
 (´･ω･`)
