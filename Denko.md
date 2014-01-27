@@ -1,5 +1,6 @@
+To all of you out there who wish you had a yandere girlfriend, you should read this.
 
-
+#Character Descriptions
 
 
 #Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)
