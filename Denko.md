@@ -3233,10 +3233,7 @@ You’re sick, man, get help!
 For real, what ARE you talking about…
 Suddenly bringing up going in the bath? Like, what?
 
-
-
-[Help!] I’m Deathly Confused By How Women Think (´･ω･`)
-
+#Thread 8:[Help!] I’m Deathly Confused By How Women Think (´･ω･`)
 ##OP
 We just started dating, but I’m really surprised by the differences in how men and women think.
 I need to know the secrets of good dating… (´･ω･`)
