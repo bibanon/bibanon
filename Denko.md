@@ -1,6 +1,6 @@
-I found this on [a tumblr](http://vgperson.tumblr.com/post/21533650696/help-the-girl-i-like-wont-respond-to-my-emails). I'll format it better later.
 
-Also I just noticed the titles were different for each thread, so I'll fix that later too.
+
+
 
 #Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)
 A tale from 2ch of girls, emails, and hamsters. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
@@ -3510,3 +3510,6 @@ Whether or not the OP was real only determines whether or not Denko was a real g
 At any rate, this is the way the story ends. Not with a shank, but with a
 
 (´･ω･`)
+
+#Sources:
+[vgperson's tumblr](http://vgperson.tumblr.com/post/21533650696/help-the-girl-i-like-wont-respond-to-my-emails). 
