@@ -1,8 +1,5 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
-#SOMETHING FROM 2CH SORT IT LATER
-* **[[2ch story]]**
-
 ## [[4chan]]
 ### The Father and his Daughter
 
@@ -42,6 +39,9 @@ These stories will make you hurl.
 * **[[Cheerios]]** - A man who loves Cheerios. A bit... too much.
 * **[[The Bridgekeeper]]** - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
 * **[[Pools Closed Novel]]** - WTF is this? A mess of memes created as a copypasta by anons on /b/.
+
+## [[2channel]]
+* **[[Denko]]**
 
 ## [[Something Awful]]
 
