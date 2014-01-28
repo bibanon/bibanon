@@ -573,3 +573,5 @@ Still waiting for Denko to reply now. (´･ω･`)
 Thanks for everyone who’s given support!
 Keep watching over us as we work toward happiness!!
 Thank you! I’m so grateful!
+
+[Next thread.](https://github.com/bibanon/bibanon/wiki/Thread-3%3A-%5BHelp%21%5D-The-Girl-I%E2%80%99m-Dating-Isn%E2%80%99t-My-Girlfriend-Anymore-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
