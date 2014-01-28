@@ -12,7 +12,7 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 > Message from the Translator: HOWEVER, translation is a very personalized process and I would greatly appreciate it if you'd refrain from reproducing these translations. But please feel free to link to the Project - it is totally LINK FREE. 
 
-## [[TV drama]]
+## Densha Otoko TV Drama
 
 The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause people to end up on the internet all day. Few other media has depicted so well the unmatched familial bond and support that users feel, even as they talk on an anonymous BBS.
 
