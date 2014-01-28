@@ -8,7 +8,7 @@ Like I said, I’m not experienced, so please give me advice.
 (´･ω･`) Are you sure you were dating to begin with?
 
 ##OP
-No, we’re definitely dating! \(\´\･\ω\･\`\)
+No, we’re definitely dating! \(´･ω･\`\)
 I’ve been in the same class as her since high school, and we went to the same college, and became friends over email.
 And just yesterday we started dating! (´･ω･`)
 I’ve never been on a date with a girl before, so I’m not sure what to think…
