@@ -6,6 +6,10 @@ To all of you out there who wish you had a yandere girlfriend, you should read t
 + A-ko: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
 + (´･ω･`): The emoticon from hell. If you see this thing anywhere, run as far as you can from it.
 
+#Threads:
+- [[Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)]]
+
+
 #Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)
 A tale from 2ch of girls, emails, and hamsters. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
 
