@@ -1,10 +1,10 @@
 To all of you out there who wish you had a yandere girlfriend, you should read this.
 
 #Characters
-OP: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view.
-Denko: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in primary school. She seems to reciprocate his love, or at least that's how he sees it.
-A-ko: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
-(´･ω･`): The emoticon from hell. If you see this thing anywhere, run as far as you can from it.
++ OP: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view.
++ Denko: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in primary school. She seems to reciprocate his love, or at least that's how he sees it.
++ A-ko: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
++ (´･ω･`): The emoticon from hell. If you see this thing anywhere, run as far as you can from it.
 
 #Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)
 A tale from 2ch of girls, emails, and hamsters. (Posts from the thread-starter are labeled #OP, the people replying to him are labeled #2ch.)
