@@ -756,4 +756,4 @@ So now I’m waiting for a call about Denko coming home.
 It looks like Denko still isn’t back…
 If the thread’s still here when she gets back, I’ll report in… (´･ω･`) 
 
-[Next thread.](https://github.com/bibanon/bibanon/wiki/Thread-2%3A-%5BHelp%21%5D-I-Can%27t-Contact-My-Girlfriend-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
+[Next thread.](https://github.com/bibanon/bibanon/wiki/Thread-2%3A-%5BHelp!%5D-I-Can%27t-Contact-My-Girlfriend-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
