@@ -169,3 +169,5 @@ Give it some time and he’ll make another thread.
 
 ###2ch
 These threads never have a satisfying ending…
+
+[That's true anon, but will this story have a satisfying ending?](https://github.com/bibanon/bibanon/wiki/Thread-7%3A-%5BHelp%21%5D-I%E2%80%99m-Not-Sure-Who-I-Like-Anymore-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
