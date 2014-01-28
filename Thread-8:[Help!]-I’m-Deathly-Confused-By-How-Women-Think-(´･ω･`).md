@@ -256,9 +256,9 @@ I guess… I’ll sleep too.
 
 ###2ch
 Looking forward to the next thread.
-
-
-
+  
+  
+  
 And then…
 
 …and then, nothing.
