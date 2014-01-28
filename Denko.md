@@ -1,12 +1,12 @@
 The heart-wrenching story of how a [[NEET]] who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of his friends on 2ch. Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter. These chronicles will forever be placed next to stories such as Densha Otoko.
 
-#Characters
-+ OP: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
-+ Denko: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love, or at least that's how he sees it.
-+ A-ko: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
-+ (´･ω･`): The emoticon from hell. If you see this thing anywhere, run as far as you can from it.
+### Characters
++ **OP**: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
++ **Denko**: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love, or at least that's how he sees it.
++ **A-ko**: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
++ (´･ω･`): The emoticon from hell. If you see this thing anywhere, run away as far as you can.
 
-#Threads:
+### Threads:
 The man writing his tale is labeled OP, and his friends are labeled 2ch.
 
 - [[Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)]]
