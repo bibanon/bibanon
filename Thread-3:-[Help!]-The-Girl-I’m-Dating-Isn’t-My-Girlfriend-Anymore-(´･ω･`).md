@@ -606,4 +606,6 @@ For now, I sent ^ that email.
 
 ###OP
 I’m feeling so depressed… (´･ω･`)
-Well, for the people supporting me, I’ll keep you up to date on the results of the flower-viewing! Buh-bye! 
+Well, for the people supporting me, I’ll keep you up to date on the results of the flower-viewing! Buh-bye!
+
+[Next thread](https://github.com/bibanon/bibanon/wiki/Thread-4%3A-%5BHelp%21%5D-My-Girlfriend-Is-Testing-Me-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29) 
