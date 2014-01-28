@@ -71,4 +71,4 @@ Two other Snakes who were there since 12 told me they didn’t see anybody like 
 The guests were starting to leave, so we left too. Uh, at least I got home safe…
 
 
-[And the thread dies without any more OP posts. But then…]
+[And the thread dies without any more OP posts. But then…](https://github.com/bibanon/bibanon/wiki/Thread-5%3A-%5BHelp%21%5D-I%E2%80%99m-Being-Bullied-At-School-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
