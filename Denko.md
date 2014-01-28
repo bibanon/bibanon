@@ -9,14 +9,14 @@ The heart-wrenching story of how a [[NEET]] who knows next to nothing about love
 ### Threads:
 The man writing his tale is labeled OP, and his friends are labeled 2ch.
 
-- [[Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)]]
-- [[Thread 2: [Help!] I Can't Contact My Girlfriend (´･ω･`)]]
-- [[Thread 3: [Help!] The Girl I’m Dating Isn’t My Girlfriend Anymore (´･ω･`)]]
-- [[Thread 4: [Help!] My Girlfriend Is Testing Me (´･ω･`)]]
-- [[Thread 5: [Help!] I’m Being Bullied At School (´･ω･`)]]
-- [[Thread 6:[Help!] I’m Suffering From These Rumors (´･ω･`)]]
-- [[Thread 7: [Help!] I’m Not Sure Who I Like Anymore (´･ω･`)]]
-- [[Thread 8:[Help!] I’m Deathly Confused By How Women Think (´･ω･`)]]
+- [[Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)|Denko Thread 1]]
+- [[Thread 2: [Help!] I Can't Contact My Girlfriend (´･ω･`)|Denko Thread 2]]
+- [[Thread 3: [Help!] The Girl I’m Dating Isn’t My Girlfriend Anymore (´･ω･`)|Denko Thread 3]]
+- [[Thread 4: [Help!] My Girlfriend Is Testing Me (´･ω･`)|Denko Thread 4]]
+- [[Thread 5: [Help!] I’m Being Bullied At School (´･ω･`)|Denko Thread 5]]
+- [[Thread 6:[Help!] I’m Suffering From These Rumors (´･ω･`)|Denko Thread 6]]
+- [[Thread 7: [Help!] I’m Not Sure Who I Like Anymore (´･ω･`)|Denko Thread 7]]
+- [[Thread 8:[Help!] I’m Deathly Confused By How Women Think (´･ω･`)|Denko Thread 8]]
 
-#Sources:
-[vgperson's tumblr](http://vgperson.tumblr.com/post/21533650696/help-the-girl-i-like-wont-respond-to-my-emails). 
+### Sources:
+* [vgperson's tumblr](http://vgperson.tumblr.com/post/21533650696/help-the-girl-i-like-wont-respond-to-my-emails). 
