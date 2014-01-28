@@ -8,9 +8,10 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 ## English Translation
 
-[The English Translation is here.](http://www.rinji.tv/densha/)
+> Message from the Translator: Translation is a very personalized process and I would greatly appreciate it if you'd refrain from reproducing these translations. But please feel free to link to the Project - it is totally LINK FREE.
 
-> Message from the Translator: HOWEVER, translation is a very personalized process and I would greatly appreciate it if you'd refrain from reproducing these translations. But please feel free to link to the Project - it is totally LINK FREE. 
+* Lindsay's English Translation can [be found here.](http://www.rinji.tv/densha/)
+* The original Japanese threads [are found here.](http://www.geocities.co.jp/Milkyway-Aquarius/7075/trainman.html)
 
 ## Densha Otoko TV Drama
 
@@ -35,8 +36,7 @@ Misaki Ito, the actress who played the role of Hermes in the [[Densha Otoko TV D
 
 ## Sources
 
-* [Archived posts from 2channel](http://www.geocities.co.jp/Milkyway-Aquarius/7075/trainman.html)
 * [Wikipedia Article](https://en.wikipedia.org/wiki/Densha_Otoko)
+* [Archived posts from 2channel](http://www.geocities.co.jp/Milkyway-Aquarius/7075/trainman.html)
 * [Project Densha: English Translation](http://www.rinji.tv/densha/)
-
 * [Densha Otoko Movie Trailer](https://www.youtube.com/watch?v=mdW6V40E1SQ&feature=related)
