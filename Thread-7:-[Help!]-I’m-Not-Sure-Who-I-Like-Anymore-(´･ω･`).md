@@ -627,3 +627,5 @@ You’re sick, man, get help!
 ###2ch
 For real, what ARE you talking about…
 Suddenly bringing up going in the bath? Like, what?
+
+[Final thread](https://github.com/bibanon/bibanon/wiki/Thread-8%3A%5BHelp%21%5D-I%E2%80%99m-Deathly-Confused-By-How-Women-Think-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
