@@ -1,6 +1,6 @@
 This story, along with the corresponding TV drama is one of the [[Culturally Important Treasures]] from the Internet.
 
-"[Densha Otoko, or 'Train Man'](https://en.wikipedia.org/wiki/Densha_Otoko) is the name of a very popular book published in Japan in early 2005, which tells the true story of a nerdy guy who falls in love with a girl who he saved from a drunk on a train. This entire story takes place on a Japanese bulletin board system called [[2ch]], or 'ni-channel', particularly in a thread called 'Men Being Shot from Behind', where single men get together and gripe about being single.
+"[Densha Otoko, or 'Train Man'](https://en.wikipedia.org/wiki/Densha_Otoko) is the name of a very popular book published in Japan in early 2005, which tells the true story of a nerdy guy who falls in love with a girl who he saved from a drunk on a train. This entire story takes place on a Japanese bulletin board system called [[2channel]], or 'ni-channel', particularly in a thread called 'Men Being Shot from Behind', where single men get together and gripe about being single.
 
 In typical Japanese fashion, after the tremendous success of the book, both a movie version and a TV drama series were released. 'Densha Otoko' is really the "it" book of 2005 for Japan. It's a really great story and I hope that this translation helps you enjoy it, too." 
 
@@ -22,7 +22,7 @@ See [[Densha Otoko TV Drama]] for more info and subtitles.
 
 * **Train Man** - The main character. A self-professed anime/game nerd who frequents Akihabara, the technology/anime/idol Mecca of the Tokyo area.
 * **Hermes** - A young lady of proper upbringing, with whom Train Man falls in love.
-* **[[The 2-channelers|2ch]]** - The anonymous residents of the 2ch BBS system. They are witness to Train Man's romantic coming-of-age, and also offer wisdom, advice and support.
+* **[[The 2-channelers|2channel]]** - The anonymous residents of the 2ch BBS system. They are witness to Train Man's romantic coming-of-age, and also offer wisdom, advice and support.
 * **Nakano Hitori** (Naka no Hito) - The 'Densha Otoko' archivist. "nakano hitori" means "one of them"; it's the penname of the anonymous 2-channeler who compiled all the original posts into a website, which started the 'Densha Otoko' phenomenon.
 
 ## Critical Analysis
