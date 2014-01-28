@@ -15,7 +15,7 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 ## Densha Otoko TV Drama
 
-The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause people to end up on the internet all day. Few other media has depicted so well the surprisingly familial bond and support that users feel, even as they talk on an anonymous BBS.
+The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause Japanese people to end up on the internet all day. Few other media has depicted so well the surprisingly familial bond and support that users feel, even as they talk on an anonymous BBS.
 
 See [[Densha Otoko TV Drama]] for more info and subtitles.
 
