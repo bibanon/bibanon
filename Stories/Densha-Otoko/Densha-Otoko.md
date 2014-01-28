@@ -6,41 +6,11 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 -- [Lindsay, English Translator](http://www.rinji.tv/)
 
-Now if only someone did the same thing for the [[Damaged Goods]] or [[Blindmute Loli]] stories...
-
-## Original Thread
-
-The original archived posts are public domain and are saved here without worry.
-
-### Pages
-
-* [[Mission.1 - dinnerwhere help|dsotk-jp1]]
-* [[Mission.2 - I've got you|dsotk-jp2]]
-* [[Mission.3 - She gently takes my hand|dsotk-jp3]]
-* [[Mission.4 - The time to use the cups has arrived|dsotk-jp4]]
-* [[Mission.5 - Please don't put me in that kind of mood|dsotk-jp5]]
-* [[Mission.6 - The miraculous final chapter|dsotk-jp6]]
-* [[Congratulations!|dsotk-jp7]]
-
 ## English Translation
 
 [The English Translation is here.](http://www.rinji.tv/densha/)
 
 > Message from the Translator: HOWEVER, translation is a very personalized process and I would greatly appreciate it if you'd refrain from reproducing these translations. But please feel free to link to the Project - it is totally LINK FREE. 
-
-What do we do now? We need the translation. I guess we're going to have to be renegade archivists like the [Archive Team](http://archiveteam.org/index.php?title=Main_Page), if we want to save anything.
-
-And if shit hits the fan and we haven't prepared, [we'll be these guys](https://www.youtube.com/watch?v=Tvfwxa1Nwi0&feature=related).
-
-### Pages
-
-* [[Mission.1 - dinnerwhere help|dsotk1]]
-* [[Mission.2 - I've got you|dsotk2]]
-* [[Mission.3 - She gently takes my hand|dsotk3]]
-* [[Mission.4 - The time to use the cups has arrived|dsotk4]]
-* [[Mission.5 - Please don't put me in that kind of mood|dsotk5]]
-* [[Mission.6 - The miraculous final chapter|dsotk6]]
-* [[Congratulations!|dsotk7]]
 
 ## [[TV drama]]
 
