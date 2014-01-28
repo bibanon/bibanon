@@ -397,4 +397,4 @@ Then she ran with incredible speed toward me while I was squatting!
 And I thought “Huh? Maybe I’ve cleared up the misunderstandings?”, stood up immediately, and waved at Denko as she ran toward me.
 
 
-[Then the thread hit 1000 posts. But I won’t dare make this a cliffhanger.]
+[Next thread](https://github.com/bibanon/bibanon/wiki/Thread-6%3A%5BHelp%21%5D-I%E2%80%99m-Suffering-From-These-Rumors-%28%C2%B4%EF%BD%A5%CF%89%EF%BD%A5%60%29)
