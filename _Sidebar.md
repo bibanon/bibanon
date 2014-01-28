@@ -9,14 +9,36 @@
 
 ## [[Stories]]
 
-* [[Damaged Goods]]
-* [[Blindmute Loli]]
-* [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
-* [[Tramp Anon]]
-* [[Uncle Anon]]
-* [[The Liliad]]
-* [[The Great Scam]]
-* [[American Dream]]
+* The Father and His Adopted Daughter
+  * [[Damaged Goods]]
+  * [[Blindmute Loli]]
+
+* Feels Bad Man
+  * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
+  * [[Tramp Anon]]
+  * [[Cool Story Bro]]
+
+* The Forbidden Fruit
+  * [[Uncle Anon]]
+  * [[The Liliad]]
+  * [[Tasha's Brother]]
+
+* WTF
+  * [[Cheerios]]
+  * [[The Bridgekeeper]]
+
+* Smooth Criminals
+  * [[The Great Scam]]
+  * [[American Dream]]
+
+* 2channel
+  * [[Densha Otoko]]
+  * [[Denko]]
+
+* Reddit
+  * [[Rome Sweet Rome]]
+  * [[Sweet Home 1984]]
+
 * [[more...|Stories]]
 
 ## [[Books]]
