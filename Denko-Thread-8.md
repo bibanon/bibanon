@@ -1,6 +1,6 @@
 ##OP
 We just started dating, but I’m really surprised by the differences in how men and women think.
-I need to know the secrets of good dating… (´･ω･`)
+I need to know the secrets of good dating… (´･ω･`)  
 Like where to have good dates…
 
 ###2ch
@@ -10,7 +10,7 @@ Why, you… Are you the Denko guy?
 Ah, uh, yes, you were all very helpful with Denko. (´･ω･`)
 
 ###2ch
-Oh, it’s A-ko now, right…
+Oh, it’s A-ko now, right…  
 The master-slave relationship.
 
 ###2ch
@@ -29,11 +29,11 @@ Hm… Is that the trick to a long relationship?
 What happened next, OP?
 
 ###2ch
-How’s it going with A-ko?
+How’s it going with A-ko?  
 Well?
 
 ##OP
-A lot of stuff happened at the hotel, and we had sex… (´･ω･`)
+A lot of stuff happened at the hotel, and we had sex… (´･ω･`)  
 Though we had a serious dispute after…
 
 ###2ch
