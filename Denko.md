@@ -27,6 +27,9 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 - [[Thread 7: [Help!] I’m Not Sure Who I Like Anymore (´･ω･`)|Denko Thread 7]]
 - [[Thread 8:[Help!] I’m Deathly Confused By How Women Think (´･ω･`)|Denko Thread 8]]
 
+### For The Legally Blind
+<http://www.youtube.com/watch?v=Gw-ID3eMcEw>
+
 ### Sources:
 
 * [Know Your Meme: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)](http://knowyourmeme.com/memes/help-the-girl-i-like-wont-respond-to-my-emails-%EF%BD%A5%CF%89%EF%BD%A5)
