@@ -1,3 +1,5 @@
+[[http://i.imgur.com/PGoyIFV.png|float]]
+
 If [[those romantic stories from 2channel|Densha Otoko]] are like the "white knight in shining armor", then this story is like Don Quixote; a much darker deconstruction of romanticism gone wrong. 
 
 You will be wincing for the train wreck ahead. And you *will* find ways to fear that wretched emoticon. 
