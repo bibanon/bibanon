@@ -1,6 +1,6 @@
 The (less than heartwarming) story of how a NEET who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. At least in theory. 
 
-It's a spiritual sequel to [[Densha Otoko]]; but it is definitely a much darker deconstruction. You will be wincing for the train wreck ahead. And you will find ways to fear that retched emoticon. 
+It's a spiritual sequel to [[Densha Otoko]]; but it is definitely a much darker deconstruction. You will be wincing for the train wreck ahead. And you will find ways to fear that wretched emoticon. 
 
 (´･ω･`)
 
