@@ -2,7 +2,7 @@
 There’s this girl I’ve had feelings for since high school, and now we’re in college together. We’ll call her Denko.  
 Once we hit second year, we went out drinking, and I worked up the courage to exchange numbers.  
 We started out talking often, but she hasn’t answered me in three days now.  
-I’m getting depressed just thinking that Denko might be sick, or that something happened to her… ``(´･ω･`)``  
+I’m getting depressed just thinking that Denko might be sick, or that something happened to her… (´･ω･`)  
 Please, somebody give me some advice.  
   
 ###2ch  
@@ -13,7 +13,7 @@ GIVE IT UP.
 Maybe it’s ‘cause email’s a pain in the butt.  
   
 ##OP  
-Well, I called her too in case she was sick or something happened… ``(´･ω･`)``  
+Well, I called her too in case she was sick or something happened… (´･ω･`)  
   
 Maybe this last email I sent did something to hurt Denko’s feelings? Give me your opinion here…  
 "Yahoo! Good weather today. You haven’t emailed me or called me, so I’m just sending this since I’m worried.  
@@ -33,7 +33,7 @@ Just hypothetically, what would you think if you got an email like that from an 
 ##OP  
 Umm… Well, I wouldn’t like it.  
 But I’ve had my eye on Denko since high school, and…  
-I don’t know how to say it, but I think it might be mutual… ``(´･ω･`)``  
+I don’t know how to say it, but I think it might be mutual… (´･ω･`)  
   
 ###2ch  
 Pretty sure she hates you and is too shy to say it… ///  
@@ -50,7 +50,7 @@ To be perfectly honest, your emails sound incredibly shifty.
 That’s why everyone is talking about ramen instead…  
   
 ##OP  
-Sorry, I haven’t had much experience talking to girls… ``(´･ω･`)``  
+Sorry, I haven’t had much experience talking to girls… (´･ω･`)  
   
 ###2ch  
 So you got responses before?  
@@ -60,7 +60,7 @@ It could be, you know, interesting…
 ##OP  
 At first, we just talked about how strange it was we only started emailing in college despite being in the same year of high school.  
 What I’m sending… well, I’m worried about her lack of reply, so I’ve sent her around 600 emails.  
-They’re mostly reports on my current mental state, I guess…? ``(´･ω･`)``  
+They’re mostly reports on my current mental state, I guess…? (´･ω･`)  
   
 ###2ch  
 Sending 600 emails out of worry from the lack of response… How spammy can you get…  
@@ -73,7 +73,7 @@ I don’t have any friends, so you’re the only people I can ask about this!
 …(゜д゜)  
   
 ##OP  
-600 emails and still no reply, so I’m really thinking something might have happened… ``(´･ω･`)``  
+600 emails and still no reply, so I’m really thinking something might have happened… (´･ω･`)  
 And I really don’t think they’re anything that would displease her. They’re like this:  
 "I’m drinking jasmine tea right now, thinking about what to have for dinner."  
 Maybe they’re a bit too incidental?  
@@ -97,7 +97,7 @@ So please, give me advice on how to get Denko to respond!
 You seriously sent 600 emails in three days? lol  
   
 ##OP  
-Well, I think it was only around 50 the first two days… ``(´･ω･`)``  
+Well, I think it was only around 50 the first two days… (´･ω･`)  
   
 ###2ch  
 Why wouldn’t she respond if she wasn’t dumping you?  
@@ -111,7 +111,7 @@ All right, I’ll try calling her. But I’m awful at talking, so give me someth
 I want to see what your conversations were like when you got replies.  
   
 ##OP  
-Me: “What do you do for fun? What do you listen to? I like watching lots of movies and reading lots of books, I guess… ``(´･ω･`)``”  
+Me: “What do you do for fun? What do you listen to? I like watching lots of movies and reading lots of books, I guess… (´･ω･`)”  
 Denko: “Umm, I dunno. You sure use a lot of emoticons, huh?”  
 That sort of thing.  
   
@@ -122,7 +122,7 @@ Did it ever go on any longer than that?
 ##OP  
 Me: “Do girls do the thing where you turn socks inside-out to use them for a week?”  
 Denko: “No, that’s too dirty. I usually wash them after a day.”  
-Me: “Well, Denko’s socks can’t possibly be dirty! Unlike mine… ``(´･ω･`)``”  
+Me: “Well, Denko’s socks can’t possibly be dirty! Unlike mine… (´･ω･`)”  
 Denko: “Do you really wear the same socks for a week?”  
 Me: “No, uh, I heard about it from a friend.”  
   
@@ -146,7 +146,7 @@ The cherry blossoms! Invite her to go see the cherry blossoms, OP!!!
 ##OP  
 Okay, I’ll do that! I’m too tense to use the phone right now, so I’ll send her an email.  
   
-I’ve never been so nervous about talking to somebody aaaaaUUUUUGH ``(´･ω･`)``  
+I’ve never been so nervous about talking to somebody aaaaaUUUUUGH (´･ω･`)  
   
 ###2ch  
 Oh for the love of… apologize for hanging up.  
@@ -166,7 +166,7 @@ I’m guessing you’ve been bullied all your life?
 I was bullied in grade school, but I’ve been fine since college.  
   
 ###2ch  
-``(´･ω･`)`` ← This is starting to piss me off.  
+(´･ω･`) ← This is starting to piss me off.  
   
 ###2ch  
 This should go down as one of the most terrifying incidents to occur on 2chan.  
@@ -177,7 +177,7 @@ Here you go, OP.
 2. I’m bored -> Can we go see the cherry blossoms at night?  
   
 ##OP  
-Oh! You must be popular, huh? ``(´･ω･`)``  
+Oh! You must be popular, huh? (´･ω･`)  
 Okay, I’m going to try calling again with that.  
   
 My armpits are sweating real bad, though…  
@@ -198,10 +198,10 @@ I had a stalker once too, but it’s even scarier to think he had the same thoug
 ##OP  
 I TALKED WITH DENKO! And I invited her to see the cherry blossoms!  
 Apparently her schedule was packed at work, so she said some other time! Oh well, still good news!  
-Gotta buy some clothes now… ``(´･ω･`)`` Hurry hurry…  
+Gotta buy some clothes now… (´･ω･`) Hurry hurry…  
   
 I accidentally told her about how I was sweating really bad, haha…  
-And she said she was sorry she was too busy to reply to my emails. ``(´･ω･`)``  
+And she said she was sorry she was too busy to reply to my emails. (´･ω･`)  
 For now, I’m glad Denko is safe. I was worried what might happen since I’m so bad at talking to girls, but I guess I managed…  
   
 ###2ch  
@@ -229,7 +229,7 @@ If this isn’t a troll, please, give this up now.
   
 ##OP  
 Are you guys trying to trick me since I don’t have much experience with girls?  
-I’m wondering when I should send another email… ``(´･ω･`)``  
+I’m wondering when I should send another email… (´･ω･`)  
   
 ###2ch  
 What were your meetings with Denko like?  
@@ -239,7 +239,7 @@ What made you fall for her?
 Denko helped me out when I was being badly bullied in high school.  
 Denko’s smart and kind, so she was like everyone’s role model.  
 When I sat next to her in class, I often borrowed her notebooks and erasers and we became friends.  
-We made eye contact a lot in class, too… ``(´･ω･`)``  
+We made eye contact a lot in class, too… (´･ω･`)  
   
 ###2ch  
 That’s probably because you were the one looking, creep.  
@@ -257,8 +257,8 @@ Girls love overbearing go-getter guys.
 OP, do this if you can: Follow her to her work, her house, and her classes every day.  
   
 ##OP  
-THAT’S JUST BEING A STALKER ``(´･ω･`)``  
-I don’t want Denko to hate me… ``(´･ω･`)``  
+THAT’S JUST BEING A STALKER (´･ω･`)  
+I don’t want Denko to hate me… (´･ω･`)  
   
 ###2ch  
 >I don’t want Denko to hate me  
@@ -302,7 +302,7 @@ What clothes do you own?
 ##OP  
 Plain shirts I wore in high school, and some denim shorts my mom got at Yokado.  
 Also, I guess I wear sweatjackets a lot.  
-I wonder if I can get clothes in Harajuku? ``(´･ω･`)``  
+I wonder if I can get clothes in Harajuku? (´･ω･`)  
   
 ###2ch  
 OP’s a super cool guy.  
@@ -321,7 +321,7 @@ I was wondering this whole time why Denko didn’t reject the OP, but now I thin
   
 ##OP  
 Looks like we’re going drinking tomorrow!  
-Gotta buy clothes now… ``(´･ω･`)``  
+Gotta buy clothes now… (´･ω･`)  
 Would a suit and a necktie be safe?  
   
 ###2ch  
@@ -334,7 +334,7 @@ Well, she’s free in the evening, and cherry blossoms would be in the day, so i
   
 ##OP  
 Do you think I should bring a present?  
-Tell me what would make girls happy… ``(´･ω･`)``  
+Tell me what would make girls happy… (´･ω･`)  
   
 ###2ch  
 No, no presents.  
@@ -342,7 +342,7 @@ If you bring a present every time, Denko’ll just think OP’s her personal ATM
 Don’t do it, for the future of OP and Denko both.  
   
 ##OP  
-I see… So not even a picture of a small animal? ``(´･ω･`)``  
+I see… So not even a picture of a small animal? (´･ω･`)  
   
 Konaka’s open, so I’m gonna go buy a striped suit.  
   
@@ -352,7 +352,7 @@ Feeling the warmth of a little creature makes a woman’s heart tremble. Buy ham
 Then stuff them in a box, of course.  
   
 ##OP  
-I went to email my brother about trying to be free tomorrow night, but he changed his address and number… ``(´･ω･`)``  
+I went to email my brother about trying to be free tomorrow night, but he changed his address and number… (´･ω･`)  
 I’m asking my mom about it now.  
   
 ###2ch  
@@ -370,10 +370,10 @@ Reading this thread reminds me that there are people like this, and reassures me
   
 ##OP  
 Well, I emailed Denko saying I wasn’t able to get a hold of my brother.  
-Nothing to really report while I’m waiting for her reply… ``(´･ω･`)``  
+Nothing to really report while I’m waiting for her reply… (´･ω･`)  
   
 ##OP  
-ALSO YOU GUYS CALLING ME CREEPY AND HOPELESS ARE REALLY MAKING ME LOSE CONFIDENCE. ``(´･ω･`)``  
+ALSO YOU GUYS CALLING ME CREEPY AND HOPELESS ARE REALLY MAKING ME LOSE CONFIDENCE. (´･ω･`)  
   
 ###2ch  
 >implying you had confidence before  
@@ -383,7 +383,7 @@ Still no reply, so I’m going to send another one.
 Post 400 decides the title.  
   
 ##OP  
-Actually, you’ll probably say something weird, so never mind. ``(´･ω･`)``  
+Actually, you’ll probably say something weird, so never mind. (´･ω･`)  
   
 ###2ch  
 You’re being a pest if you send more than three emails without a reply.  
@@ -392,7 +392,7 @@ Stop trying to push yourself and listen to her more.
   
 ##OP  
 What should I ask? I’ve never talked with girls…  
-I don’t know what I should talk about… ``(´･ω･`)``  
+I don’t know what I should talk about… (´･ω･`)  
   
 ###2ch  
 You’ve got a completely wrong idea of what “listen” means.  
@@ -404,7 +404,7 @@ Also, I said it before, but just be mature and wait if there’s no reply. Patie
   
 ##OP  
 Well, I told Denko to email me when she has the time.  
-Also, I invited her to just have three of us go if my brother can’t come. ``(´･ω･`)``  
+Also, I invited her to just have three of us go if my brother can’t come. (´･ω･`)  
   
 ###2ch  
 His brother is definitely looking like the real target here…  
@@ -412,7 +412,7 @@ His brother is definitely looking like the real target here…
 ##OP  
 Reading all these responses again, I realize it’s like 70% abuse and 30% ramen…  
 I knew I was getting teased for not having any romantic experience, but I didn’t quite realize it was that bad…  
-It’s a bit of a shock… ``(´･ω･`)``  
+It’s a bit of a shock… (´･ω･`)  
   
 ###2ch  
 Screw you guys. OP’s persistence should be COMMENDED.  
@@ -425,7 +425,7 @@ Send 1000 emails a day!
 Girls love men who worry about them!  
   
 ##OP  
-Oh! A serious reply at last! ``(´･ω･`)``  
+Oh! A serious reply at last! (´･ω･`)  
 Yes, I’ll try my hardest! Thanks for the uplifting comments!  
   
 I just emailed Denko about what kinds of clothes she likes men to wear.  
@@ -435,7 +435,7 @@ Uh oh, I wonder if she’ll figure out I like her…
 You really must be an aspie if you thought that was serious…  
   
 ##OP  
-Oh, since you guys call me creepy and scary, I’m wondering if I should send an email asking if I’m scary… ``(´･ω･`)``  
+Oh, since you guys call me creepy and scary, I’m wondering if I should send an email asking if I’m scary… (´･ω･`)  
 Do people send emails like that?  
   
 ###2ch  
@@ -444,7 +444,7 @@ If you don’t at least ask, you might not be able to face each other.
 Give it a shot.  
   
 ##OP  
-I sent it. Can’t wait for the reply… ``(´･ω･`)``  
+I sent it. Can’t wait for the reply… (´･ω･`)  
   
 ###2ch  
 Let’s think about this sensibly.  
@@ -453,11 +453,11 @@ If I heard an email alert going off several hundred times a day…
 Yeah, I’d call the police.  
   
 ##OP  
-Well, I’d be happy if I got that many emails from her… ``(´･ω･`)``  
+Well, I’d be happy if I got that many emails from her… (´･ω･`)  
   
 ##OP  
 Still no reply… What do I do?  
-I’m getting worried… ``(´･ω･`)``  
+I’m getting worried… (´･ω･`)  
   
 But everyone seems to say I should let her send emails to me and just reply to those.  
 It’s really irritating, though. What makes girls happy?  
@@ -474,7 +474,7 @@ If you’re all so experienced with love, maybe that’s why you don’t underst
 I got an email from Denko!  
 "Maybe a little scary…"  
 Only a little is okay, right?  
-I want to make sure there’s no misunderstanding… ``(´･ω･`)``  
+I want to make sure there’s no misunderstanding… (´･ω･`)  
   
 ###2ch  
 If you want to clear up misunderstanding, send an email.  
@@ -502,13 +502,13 @@ If you don’t want to upset Denko, send more!
 ##OP  
 What exactly is scaring her, though?  
 I’m doing the best I can, but I don’t want to be called scary, not even “maybe a little” scary…  
-It’s really annoying me… ``(´･ω･`)``  
+It’s really annoying me… (´･ω･`)  
   
 ###2ch  
 Even if she doesn’t want to say it, man you’re scary.  
   
 ##OP  
-Yikes… Am I really that bad…? ``(´･ω･`)``  
+Yikes… Am I really that bad…? (´･ω･`)  
 It’s not like I want to punch people or kill people out of love for Denko, right?  
 Please, tell me something I can say to make her happy and not leave any misunderstandings.  
   
@@ -544,12 +544,12 @@ Yes, you hit the bullseye.
 I really have no clue how to handle three-dimensional women.  
   
 It’s so easy to confess in games, but so hard in three dimensions…  
-Now I know that all too well… ``(´･ω･`)``  
+Now I know that all too well… (´･ω･`)  
   
 ##OP  
 Actually… I’m starting to feel like it might be best for me to wholeheartedly confess to Denko.  
   
-Is that just me? ``(´･ω･`)``  
+Is that just me? (´･ω･`)  
   
 ###2ch  
 It’s best that this ends soon.  
@@ -565,7 +565,7 @@ My hands are shaking at the idea of a confession email…
 This might be a tough hurdle to overcome…  
   
 ##OP  
-I’m trying to think about what to write, but other than “I love you,” I’m drawing a blank… ``(´･ω･`)``  
+I’m trying to think about what to write, but other than “I love you,” I’m drawing a blank… (´･ω･`)  
   
 ##OP  
 Subject: To Denko  
@@ -586,7 +586,7 @@ And we could never talk to each other.
 But now, I’m different!  
 Denko, I know you may not want to marry me yet, but please, go out with me!  
   
-Well? ``(´･ω･`)``  
+Well? (´･ω･`)  
   
 ###2ch  
 SOUNDS GOOD TO ME  
@@ -602,10 +602,10 @@ This is worse than the love letter I wrote in fifth grade.
 I don’t even…  
   
 ##OP  
-Well, I sent it. ``(´･ω･`)``  
+Well, I sent it. (´･ω･`)  
 Normally I’m very prudent, but today, with all of your encouragement, I’ve confessed.  
   
-If Denko and I start dating, I hope we can read this thread and laugh about it together… ``(´･ω･`)``  
+If Denko and I start dating, I hope we can read this thread and laugh about it together… (´･ω･`)  
 Also, since I wanted to increase my chances, I added that no matter what happens, I won’t give up on her.  
   
 ###2ch  
@@ -621,11 +621,11 @@ I GOT AN EMAIL FROM DENKOOOOO!!
 I’m too scared to open it dskald;ksa  
 I guess now I know why everyone said I was scary…  
 This is making me super tense…  
-I’ll go wash my face, then look at it calmly… ``(´･ω･`)``  
+I’ll go wash my face, then look at it calmly… (´･ω･`)  
 I think I might just have a heart attack…  
   
 ##OP  
-Um, she said “sure”… ``(´･ω･`)``  
+Um, she said “sure”… (´･ω･`)  
 Is this okay? Really?  
 I’m so happy I could cry…  
 This is okay, right?  
@@ -636,9 +636,9 @@ She followed it up with “Don’t email me anymore.”
 What’s this? And here I thought I knew her feelings…  
   
 Maybe dating was too sudden?  
-It’s hard for me to tell what girls are trying to get at… ``(´･ω･`)``  
+It’s hard for me to tell what girls are trying to get at… (´･ω･`)  
 Is there someone else? Is this the fickle heart of a woman at work???  
-What’s the intent of this email? Someone interpret it… ``(´･ω･`)``  
+What’s the intent of this email? Someone interpret it… (´･ω･`)  
   
 ###2ch  
 Maybe “sure” was in reply to the McDonald’s teriyaki burger, so “don’t email me anymore” was in reply to the confession.  
@@ -658,7 +658,7 @@ Please don’t send any more emails.”
 …That seems about right.  
   
 ##OP  
-If I’m understanding the situation right, I asked if we could date, and she replied selfishly to test me as a man? ``(´･ω･`)``  
+If I’m understanding the situation right, I asked if we could date, and she replied selfishly to test me as a man? (´･ω･`)  
   
 But I mean, suddenly asking not to email her is REALLY selfish…  
 Maybe I should wait until her anger has settled?  
@@ -674,7 +674,7 @@ Okay, I’ll call her, then.
 Calling now.  
   
 ##OP  
-Nope, guess she’s talking with someone… ``(´･ω･`)``  
+Nope, guess she’s talking with someone… (´･ω･`)  
 I’ll wait a bit…  
   
 ###2ch  
@@ -694,26 +694,26 @@ No doubt she’s waiting for you to call.
 Try calling back once every minute.  
   
 ##OP  
-I’m redialing as fast as I can! ``(´･ω･`)``  
+I’m redialing as fast as I can! (´･ω･`)  
   
-Once I get a hold of her, I’ll ask if she wants to go to McDonald’s to have the teriyaki burger, and ask why she’s mad. ``(´･ω･`)``  
+Once I get a hold of her, I’ll ask if she wants to go to McDonald’s to have the teriyaki burger, and ask why she’s mad. (´･ω･`)  
 Anything else I should talk to her about?  
   
 ##OP  
-No good, she’s still talking… ``(´･ω･`)``  
+No good, she’s still talking… (´･ω･`)  
 I really feel like she’s mad at me all of a sudden…  
   
 I’ll keep calling until she comes on!  
-I’ll report once she does. ``(´･ω･`)`` Bye!  
+I’ll report once she does. (´･ω･`) Bye!  
   
 ###2ch  
 I’m really starting to read the “Help!” in the title as Denko’s screaming.  
   
 ##OP  
-I can’t get a signal here… ``(´･ω･`)``  
+I can’t get a signal here… (´･ω･`)  
 Maybe she’s gotten wrapped up in some incident? What to do…  
   
-Maybe I’ll go to her house, but if we’re dating, then it’s not stalking, okay?! ``(´･ω･`)``  
+Maybe I’ll go to her house, but if we’re dating, then it’s not stalking, okay?! (´･ω･`)  
 I’m so lost…  
 Maybe she’s testing to see if I’d come to save her if something happened?  
   
@@ -724,36 +724,36 @@ We’ve got a Sherlock Holmes on our hands.
 Spoilers: Denko is wrapped up in an incident, all right. A stalking incident.  
   
 ##OP  
-Make up your minds already! ``(´･ω･`)``  
+Make up your minds already! (´･ω･`)  
 Making me overthink this isn’t going to do any good…  
   
 I’m going to get ready so I can leave anytime…  
   
 ##OP  
 Okay, okay! I’ll go!!  
-If she’s safe, then it’ll be fine! ``(´･ω･`)``  
+If she’s safe, then it’ll be fine! (´･ω･`)  
 It’s about 30 minutes to her house, so I’ll take my bicycle.  
 I’ll report back! Thanks for the advice!  
   
 ##OP  
-I just got back, sorry for the late report… ``(´･ω･`)``  
+I just got back, sorry for the late report… (´･ω･`)  
   
 I hurried to Denko’s house and rang the doorbell.  
 Then Denko’s mother came out and said Denko was out of the house.  
 I introduced myself to her and told her I was going out with Denko, so she said “If you want, you can wait and have some tea until Denko gets back.”  
-So then I waited for Denko at her house with her mom… ``(´･ω･`)``  
+So then I waited for Denko at her house with her mom… (´･ω･`)  
   
 ##OP  
 I spent about ten hours talking with Denko’s mother about Denko in high school and her personality and such, but she didn’t come home.  
 Denko’s mother called her cellphone a bunch of times, but she couldn’t get through.  
-Late at night, she told me “I’ll give you a call when Denko comes home,” and so I went home. Sorry for the long explanation. ``(´･ω･`)``  
+Late at night, she told me “I’ll give you a call when Denko comes home,” and so I went home. Sorry for the long explanation. (´･ω･`)  
 Apparently Denko’s out having fun with a friend, so I’m relieved to hear she’s okay.  
 Also, Denko’s mother was just as nice as her, which surprised me.  
-I guess she takes after her mother… ``(´･ω･`)``  
+I guess she takes after her mother… (´･ω･`)  
 So now I’m waiting for a call about Denko coming home.  
   
 ##OP  
 It looks like Denko still isn’t back…  
-If the thread’s still here when she gets back, I’ll report in… ``(´･ω･`)``   
+If the thread’s still here when she gets back, I’ll report in… (´･ω･`)   
   
 [[Next thread|Denko Thread 2]]  
