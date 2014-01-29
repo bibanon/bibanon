@@ -638,6 +638,7 @@ What’s this? And here I thought I knew her feelings…
 Maybe dating was too sudden?  
 It’s hard for me to tell what girls are trying to get at… (´･ω･`)  
 Is there someone else? Is this the fickle heart of a woman at work???  
+
 What’s the intent of this email? Someone interpret it… (´･ω･`)  
   
 ###2ch  
