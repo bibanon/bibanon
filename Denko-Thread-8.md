@@ -194,6 +194,7 @@ Also, his brother said he didn’t want to get involved with him. How’d it com
   
 ##OP  
 We had a fight a long time ago, and I guess he’s still mad about it… (´･ω･`)  
+
 My dad was usually at work, so I don’t have much of an image of him. (´･ω･`)  
   
 ###2ch  
