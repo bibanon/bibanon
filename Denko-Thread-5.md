@@ -179,6 +179,7 @@ I’m not really in a situation where I can talk about her anyway… (´･ω･
 ##OP  
 See, and now everyone attacks me… (´･ω･`)  
 I’ve noticed that whenever I talk about Denko, I get unpleasant responses.  
+
 So please consider that I’m very hurt right now and don’t want to talk about it… (´･ω･`)  
 Back to the bullying, I don’t want to do what’s being recommended…  
 I want to know a more peaceful method, because I can’t put up with this for two months…  
