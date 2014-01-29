@@ -42,7 +42,8 @@ First, tell us what’s not going well, and list what you don’t understand.
 ##OP  
 Men and women just seem to think so differently… (´･ω･`)  
 So there’s a lot of stuff I’m worried about.  
-Like if a guy has unprotected sex, does that mean he thinks of women as being solely for pleasure?  
+Like if a guy has unprotected sex, does that mean he thinks of women as being solely for pleasure? 
+ 
 Which would make a girl really mad…  
 Because yeah, she got really mad at me… (´･ω･`)  
   
@@ -51,6 +52,7 @@ How much did you pay to sex A-ko?
   
 ##OP  
 She said she’d do it if I bought her 500,000 yen in clothes, but that’s a lot of money, so I negotiated it down to 350,000… (´･ω･`)  
+
 It was a really great experience, better than I could’ve imagined… (´･ω･`)  
   
 ###2ch  
