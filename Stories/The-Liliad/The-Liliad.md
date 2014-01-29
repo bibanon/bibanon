@@ -20,6 +20,5 @@ Lily was described as half-Asian, half-white, and as presenting with "the best o
 
 * [Liliad Collaborative Google Doc](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
 * [marvinody's Tumblr - The Liliad](http://marvinody.tumblr.com/)
-* [marvinody's Tumblr - The Trollchats](http://marvinody.tumblr.com/trollchats)
 * [Encyclopedia Dramatica - The Liliad](https://encyclopediadramatica.es/The_Liliad)
 * [Daily Dot - Review of The Liliad](http://www.dailydot.com/lifestyle/4chan-liliad-lolita-pedophile-fantasy/)
