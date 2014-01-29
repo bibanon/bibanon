@@ -76,6 +76,7 @@ Did you get to confess under the cherry blossoms?
 ##OP  
 Sorry, I meant to give some details about me… (´･ω･`)  
 I’ve never really written anything like this before, but, uh…  
+
 Hair: Tackey-esque  
 Face: Normal  
 Clothes: I don’t know much about them, but ordinary pants and shirts  
