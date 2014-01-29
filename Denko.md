@@ -29,16 +29,6 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 
 ### For The Legally Blind
 <http://www.youtube.com/watch?v=Gw-ID3eMcEw>
-<script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
-  ({
-       video_url: "http://www.youtube.com/watch?v=Gw-ID3eMcEw",
-       video_config: {
-           color1: '0xFF0000',
-           width: 640,
-           height: 480
-       }
-  })
-</script>
 
 ### Sources:
 
