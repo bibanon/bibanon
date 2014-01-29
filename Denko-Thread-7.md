@@ -604,6 +604,7 @@ Is there a single college girl in Tokyo that keeps her chastity these days?
 ##OP  
 Going in the bath will be fine.  
 We’ll probably have to touch, mmm… (´･ω･`)  
+
 I sent her “I’m going to Don Quijote to get some stuff for the bath, so we can go in together!”  
 Knowing A-ko’s such a good girl as to save herself for marriage is just raising the stakes…  
 But we’re definitely going into the bath together! So I guess a hotel, huh…  
