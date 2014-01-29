@@ -29,7 +29,13 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 
 ### For The Legally Blind
 <http://www.youtube.com/watch?v=Gw-ID3eMcEw>
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/watch?v=Gw-ID3eMcEw"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/watch?v=Gw-ID3eMcEw" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/watch?v=Gw-ID3eMcEw" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/watch?v=Gw-ID3eMcEw"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 ### Sources:
 
