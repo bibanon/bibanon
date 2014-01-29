@@ -749,7 +749,7 @@ Denko’s mother called her cellphone a bunch of times, but she couldn’t get t
 Late at night, she told me “I’ll give you a call when Denko comes home,” and so I went home. Sorry for the long explanation. (´･ω･`)  
 Apparently Denko’s out having fun with a friend, so I’m relieved to hear she’s okay.  
 Also, Denko’s mother was just as nice as her, which surprised me.  
-I guess she takes after her mother… (´･ω･`)  
+I guess she takes after her mother... (´･ω･`)  
 So now I’m waiting for a call about Denko coming home.  
   
 ##OP  
