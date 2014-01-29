@@ -1,4 +1,6 @@
-The heart-wrenching story of how a [[NEET]] who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of his friends on 2ch. Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter. These chronicles will forever be placed next to stories such as Densha Otoko.
+The (less than heartwarming) story of how a [[NEET]] who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of his friends on 2ch. 
+
+Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter. It's a spiritual sequel to [[Densha Otoko]]; though more like a darker deconstruction.
 
 ### Characters
 + **OP**: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
