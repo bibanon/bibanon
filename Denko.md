@@ -12,8 +12,11 @@ Along the way, he learns about hamsters, spaghetti, and how to write the perfect
 + **A-ko**: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
 + (´･ω･`) : The emoticon from hell. If you see this thing anywhere, run away as far as you can.
 
-### Threads:
-The man writing his tale is labeled OP, and his friends are labeled 2ch.
+### English Translation
+
+This english translation was created by vgperson on Tumblr, a person who is famous for translating interesting [[2channel]] posts. (the original Japanese text needs to be found, however)
+
+The man writing his tale is labeled OP, and the replies from [[2channel users|2channel]] are labeled 2ch.
 
 - [[Thread 1: [Help!] The Girl I Like Won’t Respond to My Emails (´･ω･`)|Denko Thread 1]]
 - [[Thread 2: [Help!] I Can't Contact My Girlfriend (´･ω･`)|Denko Thread 2]]
