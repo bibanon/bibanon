@@ -223,6 +223,7 @@ I rang the doorbell, but nobody showed up.
 I realized it might be possible her mom was out and she was in the bath.  
 And we haven’t kissed yet, so seeing her naked already would probably be rude… (´･ω･`)  
 Plus I concluded that even if she came out in a bathrobe, I’d never seen a girl like that before, so I wouldn’t be able to talk well.  
+
 So finally, I thought I’d leave a note in the mailbox.  
 I bought some paper at the store and I’m thinking about what to write… (´･ω･`)  
   
