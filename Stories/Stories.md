@@ -82,4 +82,4 @@ _Mostly from the [[Anarchists Cookbook]]._
 
 Links to good stories hosted outside of the Bibliotheca Anonoma.
 
-* [Danny Choo - How Discovering Japan Changed My Life](http://dannychoo.com/en/post/26094/How+Discovering+Japan+Changed+My+Life.html) - A story about how Danny Choo, a poor Chinese Malaysian kid in Britain, became obsessed with Japanese culture, and went to great lengths to learn Japanese and even just visit Japan. Danny Choo would later build a startup to create websites for Japanese companies, which evolved into today's well-connected *Culture Japan*.
+* [Danny Choo - How Discovering Japan Changed My Life](http://dannychoo.com/en/post/26094/How+Discovering+Japan+Changed+My+Life.html) - A story about how Danny Choo, a poor Chinese Malaysian kid in Britain, became obsessed with Japanese culture, and went to great lengths to learn Japanese and even just visit Japan. Danny Choo would later build a startup to create websites and conduct English translation for Japanese companies, which evolved into today's well-connected *Culture Japan*.
