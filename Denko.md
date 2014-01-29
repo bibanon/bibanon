@@ -4,9 +4,7 @@ You will be wincing for the train wreck ahead. And you *will* find ways to fear 
 
 (´･ω･`)
 
----
-
-This is the (less than heartwarming) story of how a NEET, who knows next to nothing about love, overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. But as a deconstruction goes, everything has been turned on it's head.
+This is the (less than heartwarming) story of how a NEET, who knows next to nothing about love, overcomes his shyness and above all odds, gets a beautiful loving girlfriend with the (misguided) advice of [[fellow 2channers|2channel]].
 
 Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter.  But there are a few things that the NEET just can't drive into his thick skull...
 
