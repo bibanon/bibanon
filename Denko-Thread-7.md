@@ -133,6 +133,7 @@ You can do this! Go for it!
   
 ##OP  
 Okay, I think I might have this! (´･ω･`)  
+
 I sent A-ko “Know what I mean? (´･ω･`)”  
   
 ##OP  
