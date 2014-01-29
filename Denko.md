@@ -29,13 +29,16 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 
 ### For The Legally Blind
 <http://www.youtube.com/watch?v=Gw-ID3eMcEw>
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/watch?v=Gw-ID3eMcEw" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/watch?v=Gw-ID3eMcEw"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+  ({
+       video_url: "http://www.youtube.com/watch?v=Gw-ID3eMcEw",
+       video_config: {
+           color1: '0xFF0000',
+           width: 640,
+           height: 480
+       }
+  })
+</script>
 
 ### Sources:
 
