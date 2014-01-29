@@ -747,6 +747,7 @@ So then I waited for Denko at her house with her mom… (´･ω･`)
 I spent about ten hours talking with Denko’s mother about Denko in high school and her personality and such, but she didn’t come home.  
 Denko’s mother called her cellphone a bunch of times, but she couldn’t get through.  
 Late at night, she told me “I’ll give you a call when Denko comes home,” and so I went home. Sorry for the long explanation. (´･ω･`)  
+
 Apparently Denko’s out having fun with a friend, so I’m relieved to hear she’s okay.  
 Also, Denko’s mother was just as nice as her, which surprised me.  
 I guess she takes after her mother... (´･ω･`)  
