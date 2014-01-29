@@ -3,6 +3,7 @@ Making a new thread here for now. (´･ω･`)
   
 ##OP  
 Okay, time to continue… (´･ω･`)  
+
 So I was waving at Denko waiting for her to come this way.  
 But then Denko threw her bag at me really hard, and I ducked to dodge it.  
 But in the next moment, Denko screamed and kicked me right in the chin.  
