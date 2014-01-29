@@ -62,7 +62,7 @@ Stories gleaned right out of SA's paywall.
 
 * **[[Rome Sweet Rome]]** - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
 * **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
-* **[[1984 Sweet 1984]]** - A story of what happens when a man from 2011 wakes up in the year 1984. Due to it's similar inception to the above story, this bastardized title was born.
+* **[[Sweet Home 1984]]** - A story of what happens when a man from 2011 wakes up in the year 1984, and is forced to seek help at his own childhood home. Due to a similar inception to RomeSweetRome, it was put into the subreddit /r/1984Sweet1984. (For some reason, this entire story was lost on Reddit and no references remain; we are still trying to find it...)
 
 ## [[Wikichan]]
 
@@ -77,3 +77,9 @@ _Mostly from the [[Anarchists Cookbook]]._
 * [[Bad as Shit]]
 * [[Diary of a Hacker]]
 * [[Secrets of the Little Blue Box]]
+
+## External Links
+
+Links to good stories hosted outside of the Bibliotheca Anonoma.
+
+* [Danny Choo - How Discovering Japan Changed My Life](http://dannychoo.com/en/post/26094/How+Discovering+Japan+Changed+My+Life.html) - A story about how Danny Choo, a poor Chinese Malaysian kid in Britain, became obsessed with Japanese culture, went to great lengths to learn Japanese and even just visit Japan, and eventually became the multilingual and well-connected founder of the company, Culture Japan.
