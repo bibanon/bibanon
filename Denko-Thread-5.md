@@ -42,6 +42,7 @@ Is it possible you could avoid the bullies?
   
 ##OP  
 Thank you… (´；ω；`)  
+
 More and more rumors are spreading about me, so I’m being called names by people I don’t even know.  
 I wish there were some way to stop the rumors… (´･ω･`)  
   
