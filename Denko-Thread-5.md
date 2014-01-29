@@ -400,4 +400,4 @@ Then she ran with incredible speed toward me while I was squatting!
 And I thought “Huh? Maybe I’ve cleared up the misunderstandings?”, stood up immediately, and waved at Denko as she ran toward me.  
   
   
-[[Next thread]]  
+[[Next thread|Denko Thread 6]]  
