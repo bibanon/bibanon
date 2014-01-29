@@ -306,6 +306,7 @@ This guy pisses me off.
 Waiting for her reply for now. (´･ω･`)  
 Romance is making for a rollercoaster of emotions…  
 I’ve never had such huge shifts in feelings before.  
+
 You’re the only real people I can talk with since I don’t have friends, but I’ve glad I have you.  
 Thanks to those who are supporting me and giving advice… (´･ω･`)  
   
