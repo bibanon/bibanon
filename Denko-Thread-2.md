@@ -454,13 +454,16 @@ You’re still only banned from phone calls and emails.
 Do you have a carrier pigeon?  
   
 ###2ch  
->Don’t call me or email me anymore, please.  
+> Don’t call me or email me anymore, please.  
+
 In short, don’t associate with her.  
   
->I’m sorry, but I’m really, really scared.  
+> I’m sorry, but I’m really, really scared.  
+
 She’s afraid of the things you’re doing.  
   
->If there’s been a misunderstanding, then I apologize.  
+> If there’s been a misunderstanding, then I apologize.  
+
 You apparently think Denko likes you, OP, but she doesn’t like you at all.  
   
 ###2ch  
@@ -476,13 +479,20 @@ OP’s love is so pure, I don’t think I could possibly imitate it.
 ###2ch  
 I’m guessing this is what the OP thinks:  
   
->Don’t call me or email me anymore, please.  
+> Don’t call me or email me anymore, please.  
+
 She wants to meet me in person! (´･ω･`)  
->I’m sorry, but I’m really, really scared.  
+
+> I’m sorry, but I’m really, really scared.  
+
 Denko must be in danger… I’ve got to help her! (´･ω･`)  
->If there’s been a misunderstanding, then I apologize.  
+
+> If there’s been a misunderstanding, then I apologize.  
+
 We’ve repaired our friendship. Now we’ll always be together! (´･ω･`)  
->But this is my last email. Please don’t contact me again, I’m begging you.  
+
+> But this is my last email. Please don’t contact me again, I’m begging you.  
+
 Yep, definitely wants to meet in person! (´･ω･`)  
   
 ###2ch  
