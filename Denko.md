@@ -1,4 +1,8 @@
-The (less than heartwarming) story of how a [[NEET]] who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. It's a spiritual sequel to [[Densha Otoko]]; though more like a darker deconstruction.
+The (less than heartwarming) story of how a NEET who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. At least in theory. 
+
+It's a spiritual sequel to [[Densha Otoko]]; but it is definitely a much darker deconstruction. You will be wincing for the train wreck ahead. And you will find ways to fear that retched emoticon. 
+
+(´･ω･`)
 
 Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter. But there are a few things that the NEET just doesn't learn...
 
