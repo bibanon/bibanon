@@ -4,7 +4,7 @@ The heart-wrenching story of how a [[NEET]] who knows next to nothing about love
 + **OP**: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
 + **Denko**: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love, or at least that's how he sees it.
 + **A-ko**: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
-+ ``(´･ω･`)``: The emoticon from hell. If you see this thing anywhere, run away as far as you can.
++ (´･ω･`) : The emoticon from hell. If you see this thing anywhere, run away as far as you can.
 
 ### Threads:
 The man writing his tale is labeled OP, and his friends are labeled 2ch.
