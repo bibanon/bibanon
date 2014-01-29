@@ -402,8 +402,11 @@ How old is OP?
   
 ###2ch  
 [Help!] We’re Dating, But I Can’t Forget My Old Girlfriend (´･ω･`)  
+
 [Help!] I’m Being Sued By My Lawyer-Brainwashed Girlfriend (´･ω･`)  
+
 [Help!] The Courts Want 3 Million Yen in Compensation (´･ω･`)  
+
 [Help!] I Had To Pay the Courts 3 Million Yen in Compensation (´･ω･`)  
   
 ##OP  
