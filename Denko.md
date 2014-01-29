@@ -1,14 +1,18 @@
-The (less than heartwarming) story of how a NEET who knows next to nothing about love overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. At least in theory. 
+If [[those romantic stories from 2channel|Densha Otoko]] are like the "white knight in shining armor", then this story is like Don Quixote; a much darker deconstruction of romanticism gone wrong. 
 
-It's a spiritual sequel to [[Densha Otoko]]; but it is definitely a much darker deconstruction. You will be wincing for the train wreck ahead. And you will find ways to fear that wretched emoticon. 
+You will be wincing for the train wreck ahead. And you *will* find ways to fear that wretched emoticon. 
 
 (´･ω･`)
 
-Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter. But there are a few things that the NEET just doesn't learn...
+---
+
+This is the (less than heartwarming) story of how a NEET, who knows next to nothing about love, overcomes his shyness and gets a beautiful loving girlfriend with the help of [[fellow 2channers|2channel]]. But as a deconstruction goes, everything has been turned on it's head.
+
+Along the way, he learns about hamsters, spaghetti, and how to write the perfect love letter.  But there are a few things that the NEET just can't drive into his thick skull...
 
 ### Characters
 + **OP**: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
-+ **Denko**: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love, or at least that's how he sees it.
++ **Denko**: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love (or at least that's how he sees it).
 + **A-ko**: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
 + (´･ω･`) : The emoticon from hell. If you see this thing anywhere, run away as far as you can.
 
