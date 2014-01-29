@@ -81,6 +81,7 @@ Ordinary guys… don’t send 600 emails in three days when there’s no reply�
 ##OP  
 I’VE BEEN THINKING ABOUT THAT, OKAY.  
 I realized it was a bit excessive after you all told me so… (´･ω･`)  
+
 I’ve sent 70 emails so far, but that’s just one every ten minutes, so I think I’m good… (´･ω･`)  
   
 ##OP  
