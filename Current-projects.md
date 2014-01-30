@@ -1,14 +1,13 @@
 ## 4chan /b/
 
-* [Tasha's Brother](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg) - Story has finished, [[article started.|Tasha's Brother]]
-* [[The Liliad]] - Recently ended story. Help add links, archives, and pastebins to [that google doc.](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
+* [[Tasha's Brother]] - Story has finished. An archive is [here](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg), to be converted.
 
 ## Liquidation
 
 These are stories or webpages that need to be converted and added to the Bibliotheca Anonoma.
 
 * [[Shii]]'s Wiki - Tons of interesting content was lost in Shii's wholesale destruction of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
-* [Oral Hygiene](http://pastebin.com/Gt47E4Nr) - A Wikichan-era tale about some guy who brushes his sister's teeth. Reminiscent of that episode of monogatri...
+* [Oral Hygiene](http://pastebin.com/Gt47E4Nr) - A Wikichan-era tale about some guy who brushes his sister's teeth. Reminiscent of that episode of Monogatari...
 * [The Oppressors and the Oppressed](https://drive.google.com/file/d/0B7WYx7u6HJh_NXBrSEoyTHcxcW8/edit?usp=sharing) - Downloaded before chanarchive went down. This is an AMA from a British military contractor who fought for Gaddafi during the Arab Spring in Libya; a brutal look at how the winners of war write the history.
 
 ## Partnership
