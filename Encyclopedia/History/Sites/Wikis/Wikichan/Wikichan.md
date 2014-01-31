@@ -13,7 +13,7 @@ Wikichan was originally started in late 2006 as a kind of joke, a unique little 
 * [[Wikichan Downtime]]
 * [[Wikichan Second Downtime]]
 
-The amount of blanking raid and DDoSes against Wikichan by [[420chan]], [[Encyclopedia Dramatica]], and other no fun sites eventually caused it's demise. By the end of 2010, the last Wikichan SysOp gave up on the site and converted it into a shitty men's self-help blog which nobody reads (based on [[The Well-Cultured Anonymous]]). What remains of Wikichan's most important content survives on [[Encyclopedia Dramatica]], the [[Internet Archive]], the [[LURKMOAR Wiki]], and of course, the Bibliotheca Anonoma.
+The amount of blanking raid and DDoSes against Wikichan by [[420chan]], [[Encyclopedia Dramatica]], and other no fun sites eventually caused it's demise. By the end of 2010,  [[Wikisysop]] gave up on the site and converted it into a men's self-help blog that few people read (based on [[The Well-Cultured Anonymous]]). What remains of Wikichan's most important content survives on [[Encyclopedia Dramatica]], the [[Internet Archive]], the [[LURKMOAR Wiki]], and of course, the Bibliotheca Anonoma.
 
 In January 2012, the [[Yotsuba Society]] announced a plan to restore Wikichan's content to it's original state on [their own wiki](http://www.yswiki.org/wiki/). 30% of it was already been added, but the Yotsuba Society site had to be dissolved due to personal funding issues.
 
@@ -24,7 +24,7 @@ The Bibliotheca Anonoma, not wanting to repeat the mistakes of the past, was abl
 
 ## Staff
 
-The owner of Wikichan is the Wikisysop, who created the original Wikichan wiki and hosted it on his own servers (which eventually fried). Wikichan was hosted by Carcer and his associates, who seemed to have a godlike ability to put up with all of the shit that Wikichan generated on a day-to-day basis. As well, there were approximately 10 Sysops, who managed the board and ensure the quality of all articles (and protect them from harassment from users angry at Wikichan).
+The owner of Wikichan is the [[Wikisysop]], who created the original Wikichan wiki and hosted it on his own servers (which eventually fried). Wikichan was hosted by Carcer and his associates, who seemed to have a godlike ability to put up with all of the shit that Wikichan generated on a day-to-day basis. As well, there were approximately 10 Sysops, who managed the board and ensure the quality of all articles (and protect them from harassment from users angry at Wikichan).
 
 ### Members in no particular order
 
@@ -37,7 +37,7 @@ The owner of Wikichan is the Wikisysop, who created the original Wikichan wiki a
 * Palejewel509
 * Raad
 * Rembrant
-* Wikisysop
+* [[Wikisysop]]
 * [[Sarafan]]
 
 ## Sources
