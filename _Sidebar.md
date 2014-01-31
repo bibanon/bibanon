@@ -36,6 +36,7 @@
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
+* [[BATF Guide to Bronies]]
 * [[more...|Collections]]
 
 ## History
