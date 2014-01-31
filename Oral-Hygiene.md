@@ -3,7 +3,6 @@ At one time, 4chan's /a/ board developed a trend of threads challenging users to
 One person did so, then told the story over a period of several months, being dubbed Oral Hygiene Bro.
 
 ***
-# October
 ## October 3
 I have a tale for you, /a/.
 
@@ -72,7 +71,6 @@ In lieu of describing a nightly brushing, I'll instead mention that serving as a
 
 She's resting now; I would not be on /a/ were it otherwise. I write these updates for /a/ because you inspired me to become closer with my sister; times such as these remind me that we were always close, however.
 
-# November
 ## November 2
 I have an update for you, /a/.
 
@@ -139,7 +137,6 @@ One last point of interest: she didn't ask that I brush her teeth that night, bu
 
 How am I to know if she's a virgin? I don't recall her having any boyfriends, but her life is her own. I spent several years during my undergraduate studies separated from her. Only recently - in the last year - have we been living together again.
 
-# December
 ## December 4
 My apologies, I'm having some formatting issues. This is a rather long post.
 
@@ -214,7 +211,7 @@ I don't have an update to present tonight. Apart from our spending inordinate am
 
 Not to be insensitive to those who would like to hear more about our personal time together, I will also mention that I have seriously considered opening my Christmas present early these past few nights. My sister insists on nestling her body as closely against mine as possible when we sleep, and my hands seem to invariably find their way to her breasts during this time. A few nights ago our petting became so heavy that she abruptly ended the session and scooted to the bathroom, saying that she had to pee. I found it particularly difficult to sleep for some time after she returned.
 
-# January
+
 ## January 1
 Do you know my name, /a/?
 
@@ -257,7 +254,6 @@ I've talked to her about the possible negative results of spending time only wit
 
 I can't help mentioning that our nights together have been, and continue to be, exceedingly intense; our connection far exceeds any of my previous relationships. While I know that my sister is still young, I am certain that falling asleep in her arms and waking up beside her for the rest of my days is a gift of which I am not worthy, though I desire it nonetheless. I treasure every morning kiss as we start our daily routines, just as I cherish every embrace as I drop her off and pick her up at school. I understand that time will not stand still for us, but no matter what the future holds, I'll stay with her, in whatever manner she wishes.
 
-# March
 ## March 22
 Greetings from Oral Hygiene Brother, [a/.
 
@@ -324,7 +320,6 @@ If you choose to undertake anything more than a close sibling bond with your sis
 
 Oh, and I'd rather not make a blogspot. The archives here are quite a large enough Internet footprint for me.
 
-# May
 ## May 28
 Greetings from He-who-fails-to-attend-most-of-the-end-of-the-year-social-events-and-those-that-he-does-attend-he-br
 ings-his-sister-with-him, as I'm most likely known by my classmates at this point.
@@ -347,7 +342,7 @@ Yes, we do, rarely, brush each other's teeth these days. For the most part, thou
 
 While it's true that pills can have harmful side effects, we need them for a purpose other than her cramps. Ahem. 
 
-# June
+
 ## June 3
 Hello, /a/.
 
