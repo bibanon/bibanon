@@ -1,4 +1,4 @@
-At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. Common, along with hugs, were "tooth-brushing" threads, where the idea was for an anon to offer to brush their imouto's teeth.
+At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. While hugging was the most common, there were also "tooth-brushing" threads, where the idea was for an anon to offer to brush their imouto's teeth.
 
 One person did so, then told the story over a period of several months, being dubbed Oral Hygiene Bro.
 
