@@ -3,7 +3,7 @@ At one time, 4chan's /a/ board developed a trend of threads challenging users to
 One person did so, then told the story over a period of several months, being dubbed Oral Hygiene Bro.
 
 ***
-
+# October
 ## October 3
 I have a tale for you, /a/.
 
