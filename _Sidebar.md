@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/KaOsgph.png" alt="BA Logo" height="400" width="400">
+<img src="http://i.imgur.com/KaOsgph.png" alt="BA Logo" height="200" width="200">
 
 ## Bibliotheca Anonoma
 
