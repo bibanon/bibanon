@@ -1,3 +1,5 @@
+![](http://i.imgur.com/KaOsgph.png)
+
 ## Bibliotheca Anonoma
 
 * [[Home]]
