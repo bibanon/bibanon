@@ -1,6 +1,7 @@
 <img src="http://i.imgur.com/KaOsgph.png" alt="BA Logo" height="200" width="200">
 
-## Bibliotheca Anonoma
+Bibliotheca Anonoma
+===================
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
