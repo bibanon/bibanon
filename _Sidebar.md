@@ -1,3 +1,5 @@
+<img src="http://i.imgur.com/KaOsgph.png" alt="BA Logo" height="400" width="400">
+
 ## Bibliotheca Anonoma
 
 * [[Home]]
