@@ -75,8 +75,8 @@ Stories gleaned right out of SA's paywall.
 
 _Mostly from the [[Anarchists Cookbook]]._
 
+* [[The Cuisinart Blade]]
 * [[Bad as Shit]]
-* [[Diary of a Hacker]]
 * [[Secrets of the Little Blue Box]]
 
 ## External Links
