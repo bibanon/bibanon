@@ -47,7 +47,7 @@ Stories gleaned right out of SA's paywall.
 
 * **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
 * **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
-* **[[From AOL Hacker to Businessman]]**
+* [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
 
 ## Technology
 
