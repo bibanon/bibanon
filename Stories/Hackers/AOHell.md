@@ -1,4 +1,4 @@
-## Introduction
+[[AOHell.jpg]]
 
 *From the Something Awful Forums, author "iceaim"*
 

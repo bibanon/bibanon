@@ -1,3 +1,9 @@
+This tale comes from a computer hacker in the 1980s, who called himself "The Cuisinart Blade". 
+
+He recalls his childhood, growing up when computers first started to become commonplace. And he was one of the few who discovered that, those who controlled computers, could control the world.
+
+It was commonly shared around American BBS systems until the rise of the Web, and  came bundled with the [[Anarchist Cookbook]].
+
 ## Part I
 
 What I am about to write about happened in October of 1988, 
