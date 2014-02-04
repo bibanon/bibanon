@@ -1,4 +1,4 @@
-:'''NOTE''': We need people to translate the [https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B Wikipedia page on 2channel], as well as the [https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%81%AE%E6%AD%B4%E5%8F%B2 history page].
+'''NOTE: We need people to translate the [Wikipedia page on 2channel](https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B), as well as the [history page](https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%81%AE%E6%AD%B4%E5%8F%B2).'''
 
 '''2channel''', also known as Ni-channel or 2ch, is one of the main sites of [[Nanashi World]], which is something like [[4chan]] to [[Anonymous]]. It spawned the  [[Futaba Channel]], which led to [[4chan]]. Despite it being meant for Japanese people, it was opened in Arkansas and it's servers are located in California. It is considered the largest board in the world with over 600 boards, each with thousands of threads. Since it is a text board, it has created famous Shift-JIS art which can be seen on 4chan from time to time.
 
