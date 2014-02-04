@@ -1,6 +1,5 @@
 :''I'm copying all this crap from Japanese Wikipedia, because it is unsourced, so they might delete it someday. It is licensed GFDL.'' - Shii
-
-We really need people to translate this to English. Ayashii World and Nanashi World are interesting forerunners of the modern [[4chan]] and [[Anonymous]].
+:We really need people to translate this to English. Ayashii World and Nanashi World are interesting forerunners of the modern [[4chan]] and [[Anonymous]].
 
 Notice that the Japanese Wikipedia article on Ayashii World has changed since then, so it might be a good idea to [https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9 check it out] before making any translations. 
 
