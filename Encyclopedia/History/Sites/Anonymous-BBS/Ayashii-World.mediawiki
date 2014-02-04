@@ -1,8 +1,8 @@
-I'm copying all this crap from Japanese Wikipedia because it is unsourced so they might delete it someday. It is licensed GFDL. - Shii
+:*I'm copying all this crap from Japanese Wikipedia because it is unsourced so they might delete it someday. It is licensed GFDL.* - Shii
 
 We really need people to translate this to English. Ayashii World and Nanashi World are interesting forerunners of the modern [[4chan]] and [[Anonymous]].
 
-Notice that the Japanese Wikipedia article on Ayashii World has changed since then, so it might be a good idea to [check it out](https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9) before making any translations. 
+Notice that the Japanese Wikipedia article on Ayashii World has changed since then, so it might be a good idea to [https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9 check it out] before making any translations. 
 
 '''あやしいわーるど'''は、かつて日本最大であった[[アンダーグラウンド (文化)|アンダーグラウンドサイト]]群で多数の[[匿名掲示板|匿名]][[電子掲示板]]などから成り立つ。'''ぁゃιぃわーるど'''と<!--[[クサチュー語]]表記で-->記載される事も多い。当初の開設者は[http://d.hatena.ne.jp/strange/ 芝雅之]（[[ハンドルネーム|ハンドル]]「しば」）。日本[[インターネット]]黎明期における[[アンダーグラウンド (文化)|アンダーグラウンドサイト]]の嚆矢とされる。
 
@@ -152,5 +152,5 @@ Notice that the Japanese Wikipedia article on Ayashii World has changed since th
 
 ==Sources==
 
-* [Shii's Wiki](http://shii.org/knows/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9)
-* [Current Article](https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9)
+* [http://shii.org/knows/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9 Shii's Wiki]
+* [https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%82%8F%E3%83%BC%E3%82%8B%E3%81%A9 Current Article]
