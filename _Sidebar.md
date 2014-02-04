@@ -22,6 +22,20 @@ Bibliotheca Anonoma
 * [[American Dream]]
 * [[more...|Stories]]
 
+
+## History
+
+* [[Introduction]]
+* [[4chan|4chan History]]
+* Precursors
+  * [[Ayashii World]]
+  * [[2channel]]
+  * [[2ch History]]
+  * [[world2ch]]
+* [[Something Awful]]
+* [[People]]
+* [[more...|History]]
+
 ## [[Books]]
 
 * [[The Return of the Well Cultured Anonymous]]
@@ -41,10 +55,6 @@ Bibliotheca Anonoma
 * [[IRC Quotes]]
 * [[BATF Guide to Bronies]]
 * [[more...|Collections]]
-
-## History
-
-* [[History]]
 
 ## Encyclopedia
 
