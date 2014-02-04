@@ -23,11 +23,9 @@ Bibliotheca Anonoma
 * [[more...|Stories]]
 
 
-## History
+## [[History]]
 
-* [[Introduction]]
-* [[4chan|4chan History]]
-* Precursors
+* [[4chan History]]
   * [[Ayashii World]]
   * [[2channel]]
   * [[2ch History]]
