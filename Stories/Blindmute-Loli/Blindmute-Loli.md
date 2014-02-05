@@ -4,7 +4,7 @@
 
 Originally, this anonymite's posts were archived by Sarafan and his other well-wishers on [[Wikichan]], but that site was shut down and it's hard disk wiped due to poor administration. Thankfully, the story can be read here at the Bibliotheca Anonoma through the hard work of [[Shii]], a kind visitor, and the author himself. 
 
-## Read the story ##
+### Read the story
 
 * [[Blindmute Loli, June 2007|bl1]]
 * [[Blindmute Loli, July 2007|bl2]]
@@ -18,10 +18,6 @@ Originally, this anonymite's posts were archived by Sarafan and his other well-w
 * [[Blindmute Loli, March 2008|bl10]]
 * [[Blindmute Loli, September 2008|bl11]]
 
-## Other Information
+### Bonus Content
 
 * [[Blindmute Loli Characters]] - An amusing list of all the crazy people Jake meets in this story.
-
-## Sources
-
-* [Shii's wiki](http://shii/knows/Blindmute_Loli)
