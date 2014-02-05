@@ -31,6 +31,7 @@ Bibliotheca Anonoma
   * [[Ayashii World]]
   * [[2channel]]
   * [[2ch History]]
+  * [[Futaba Channel (2chan)|Futaba Channel]]
   * [[world2ch]]
 * [[Something Awful]]
 * [[People]]
