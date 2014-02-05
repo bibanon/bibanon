@@ -40,8 +40,8 @@ Bibliotheca Anonoma
 * [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
 * [[The Big Book of Anonymous Recipes]]
-* [[4chan History]]
 * [[Epic Win For Anonymous]]
+* [[Netizens Netbook]]
 * [[more...|Books]]
 
 ## [[Collections]]
