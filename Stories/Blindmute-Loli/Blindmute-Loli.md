@@ -1,6 +1,6 @@
 [[1182417345385.jpg|float|width=200x]]
 
-**Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan, and also of the terrible hardships he suffers in his life. 
+**Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan, and together they face terrible hardships as he fights to save her, and his own livelihood. 
 
 The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following.
 
