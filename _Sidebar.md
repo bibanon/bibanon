@@ -5,6 +5,7 @@ Bibliotheca Anonoma
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
+* [Bibliotheca Anonoma Github Organization](https://github.com/bibanon)
 * [[Editing]]
 * [[Current projects]]
 * [[Culturally Important Treasures]]
