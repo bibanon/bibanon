@@ -3,14 +3,15 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 ## [[4chan]]
 ### The Father and his Daughter
 
-Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Those anons became more than kind strangers; they became the child's mentors and adopted fathers.
+Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Two anons, inspired by the first, repeated that kindness again in their own lives. Those anons became more than kind strangers; they became their child's mentors and adopted fathers.
 
 These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
-* **[[Damaged Goods]]** - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
+* **[[Damaged Goods]]** (2006-2007) - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
   * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
-* **[[Blindmute Loli]]** - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves, and later adopts an orphan from the street. 
+* **[[Blindmute Loli]]** (2007-2008) - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves, and later adopts an orphan from the street. 
   * The injustice he suffers and the struggles he goes though just to see his adopted daughter will make you laugh, and will make you cry. Nobody knows if it's real or not, but it's a good story nevertheless.
+* **[[Romeo-san and Juliette]]** (2008) - Story taken from 4chan's /b/. Romeo-san, as he's called, has taken in a little girl that ran away from an abusive house. He decides that it is in his best interest that he adopt Juliette (sleepy-chan) 
 
 ### Feels Bad Man
 
