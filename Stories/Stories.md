@@ -23,11 +23,11 @@ These are the stories that the Bibliotheca Anonoma considers our greatest treasu
 
 Stories that will leave you crying.
 
-* **[[Lee Won]]** - A Robot from /r9k/ decides to start his own crappy rock band. They call themselves "The Korean Pop Robots 9000" after their star guitarist, Lee Won. 
+* **[[Lee Won]]** - An anon from /r9k/ decides to start his own crappy rock band. They call themselves "The Korean Pop Robots 9000" after their star guitarist, Lee Won. 
   * Hilarity ensues. And drama. And all those other emotions you see in a good band movie. Probably one of the stories here worth making a movie about.
 * **[[Tramp Anon]]** - The recollections of an anon thrown out of his house as a youngster, left homeless in a cold and hungry world.
   * He faces tremendous pain and struggle in a vicious cycle of poverty, relying only on his will to survive. But one day, an immigrant girl decides to cut him some slack when no one else would, and bring him back to a normal life.
-* **[[Cool Story Bro]]** - A robot from /r9k/ opens his door to see a girl that he never wanted to think about ever again, begging him for help.
+* **[[Cool Story Bro]]** - An anon from /r9k/ opens his door to see a girl that he never wanted to think about ever again, begging him for help.
 
 ### The Forbidden Fruit
 
