@@ -18,6 +18,10 @@ Originally, this anonymite's posts were archived by Sarafan and his other well-w
 * [[Blindmute Loli, March 2008|bl10]]
 * [[Blindmute Loli, September 2008|bl11]]
 
+## Other Information
+
+* [[Blindmute Loli Characters]] - An amusing list of all the crazy people Jake meets in this story.
+
 ## Sources
 
 * [Shii's wiki](http://shii/knows/Blindmute_Loli)
