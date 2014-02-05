@@ -55,6 +55,11 @@ Bibliotheca Anonoma
 * [[BATF Guide to Bronies]]
 * [[more...|Collections]]
 
+## Website Archives
+
+* [Insurgency/Partyvan Wiki](https://github.com/bibanon/Insurgency-Wiki/wiki)
+* [Neglected Mario Characters](https://github.com/bibanon/Neglected-Mario-Characters/wiki)
+
 ## Encyclopedia
 
 * [[Memes]]
