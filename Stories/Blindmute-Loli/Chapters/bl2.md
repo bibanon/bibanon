@@ -1,4 +1,5 @@
-[[Index: Blindmute Loli|Blindmute Loli]] | [[Previous: June 2007|bl1]] | This Page: July 2007 | [[Next: August 2007|bl3]]
+[[Previous: June 2007|bl1]] | **This Page**: July 2007 | [[Next: August 2007|bl3]]  
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 # Thread 9  #
 
@@ -345,4 +346,5 @@ Anyways, after people had retired to bed Megan decided to come into my room. Eri
 
 When we woke up on Sunday, we only had a bit before we had to go. My sister was visibly nicer to Megan though, who was back to her usual flirtacious self and not being mad at me (this flirtaciousness being when nobody is around). We ate breakfast and hung out a bit before we went. My mother and father once again gave Erika a big hug, happy about their new granddaughter. They even gave Megan a hug, being hug happy. So, I'd say things worked out. In the end, both Erika and Megan ended up getting the seal of approval from my family. Didn't get laid, but I had a good time and Erika did too. Became closer to my sister, who is worried about her loserish yet sweet oniichan (okay she never called me oniichan but wouldn't it be great if she did?). Megan's birthday (August 1st) is tomorrow too. I'm going to take her out for her birthday, but I still don't have a gift... So yeah, I'm going need to do some shopping quick tomorrow. Any ideas? I was also thinking of giving her a birthday party during the weekend at Sharon's place. And about the Senor (the fleshlight), nope, haven't used it yet. I've been away from it the whole weekend and I just forgot about it until somebody in chat mentioned it just now. Maybe I'll use it tonight.
 
-[[Index: Blindmute Loli|Blindmute Loli]] | [[Previous: June 2007|bl1]] | This Page: July 2007 | [[Next: August 2007|bl3]]
+[[Previous: June 2007|bl1]] | **This Page**: July 2007 | [[Next: August 2007|bl3]]  
+[[Index: Blindmute Loli|Blindmute Loli]]  
