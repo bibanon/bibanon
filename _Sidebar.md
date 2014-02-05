@@ -1,11 +1,10 @@
 [[ba-logo.png|alt="BA Logo"|height=200px|width=200px]]
 
-Bibliotheca Anonoma
+[[Bibliotheca Anonoma|Home]]
 ===================
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
-* [Bibliotheca Anonoma Github Organization](https://github.com/bibanon)
 * [[Editing]]
 * [[Current projects]]
 * [[Culturally Important Treasures]]
