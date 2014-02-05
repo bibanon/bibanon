@@ -1,4 +1,4 @@
-[[AOHell.jpg|float|width=200px|height=200px]]
+[[AOHell.jpg|float|width=300px|height=200px]]
 
 *From the Something Awful Forums, author "iceaim"*
 
