@@ -60,3 +60,8 @@
 * **The Lamp** - The promoter of drama, the bringer of lulz, this single object helped our uncanny protagonist screw his life in the most various of ways.
 * **Mark's Mother** - A lulzy drama-generating old person.
 * **Bill Cosby Double** - A black dude who was later revealed to have almost been the one to help Erika. Being paired up with objects, the barely living and animals doesn't really help either.
+
+### Sources
+
+* [Encyclopedia Dramatica - Blindmute Loli](https://encyclopediadramatica.es/Blindmute_Loli)
+* [Wikichan - List of Blindmute Loli Characters (Internet Archive)](https://web.archive.org/web/20080213202612/http://wikichan.org/index.php/List_of_Blindmute_Loli_characters)
