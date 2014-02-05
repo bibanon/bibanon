@@ -1,3 +1,5 @@
+> [Click here to return to the Bibliotheca Anonoma.](https://github.com/bibanon/bibanon/wiki)
+
 This is a story from [[Something Awful]] in 2003, about Moonshine's experience as an employee who used to claw his way up the corporate ladder to greatness, yet ended up as a manager, getting paid well doing absolutely nothing. 
 
 As he struggles to maintain his lifestyle against the forces of Human Resources and paranoid management, he finds new acquaintances to "help out" to keep the party going. 
