@@ -3,7 +3,13 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 ## [[4chan]]
 ### The Father and his Daughter
 
-Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Two anons, inspired by the first, repeated that kindness again in their own lives. Those anons became more than kind strangers; they became their child's mentors and adopted fathers.
+Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. 
+
+Two anons, inspired by the first, repeated that kindness again in their own lives. 
+
+Those anons became more than kind strangers; they became their child's mentors and adopted fathers.
+
+---
 
 These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
