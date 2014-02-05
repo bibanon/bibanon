@@ -22,20 +22,17 @@
 ### The Wall Family
 
 * **James Wall** - Also known as Jimaroonie and later on as The Procrastinator. Made beibiez with Sharon (oh noes!)
-* Cynthia - Business oriented wymyn. And, of course, as such she is strong, independent and being cheated on.
-* Eric - Where do we begin? A pedophile, a feet fetishist (hence the link next to his name, dummy), a white privileged middle class teenager and worst of all: A FUCKING EMO!
-* Melanie - Aged 12 and horny for some protagonist meat.
-* Amelia - Just your generic loli. You'll see a lot of those here. Not to be confuzeled with Jake's sister. 
+* **Cynthia** - Business oriented wymyn. And, of course, as such she is strong, independent and being cheated on.
+* **Eric** - Where do we begin? A pedophile, a feet fetishist (hence the link next to his name, dummy), a white privileged middle class teenager and worst of all: A FUCKING EMO!
+* **Melanie** - Aged 12 and horny for some protagonist meat.
+* **Amelia** - Just your generic loli. You'll see a lot of those here. Not to be confuzeled with Jake's sister. 
 
 ### Melinda's Family
 
-> Now in Ohio you can run into some pretty southerny people, but these were authentic church every Sunday the Civil War isn't over southerners.  
-> - Any more "southerny" and they'd be eating penguins.
+> *"Now in Ohio you can run into some pretty southerny people, but these were authentic church every Sunday the Civil War isn't over southerners."*  
+> \- Any more "southerny" and they'd be eating penguins.
 
 * **Melinda's Niece** - A fierce loli rival to Erika.
-
----
-
 * **Melinda's Dad** - REDNECK
 * **Melinda's Mom** - DEAD
 * **Melinda's Sister** - FAT
@@ -49,7 +46,7 @@
 
 ### Erika's Family
 
-> "Do you think daddy is a bad person? You know it wouldn't have happened if mommy didn't make daddy mad."
+> *"Do you think daddy is a bad person? You know it wouldn't have happened if mommy didn't make daddy mad."*  
 > \- Father Knows Best.
 
 * **Erika's Mom** - She made daddy mad. Nuff said.
