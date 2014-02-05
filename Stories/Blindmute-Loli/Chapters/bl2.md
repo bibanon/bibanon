@@ -6,22 +6,27 @@
 ## 07/01/07(Sun)22:12:22 No.31645058  ##
 
 > _Your fortune: You will meet a dark handsome stranger_
+
 Blindmute Loli: DEATH AND REBIRTH
+
 Hay all, it's blindmute loli guy again, finally back (I know it hasn't been that long but whatever). Anyways, I'll just jump right in because I'm sure you all (as in the 8 or so people in the chat) want to know how I got back here. So yeah, as you know, Luke and I got into a fight (a fight still not ended), and I ended up homeless. I packed my shit up and left before Melinda and Luke got home, and nobody ended up calling the cops on me. Now I needed to solve the dilemna of having no place to stay. I had a bit of money, but not enough to afford a hotel or anything. The only thing I could think of doing is going back to my old boss, and begging for my job back. At least that way I could start making money so I wouldn't be homeless forever. I figured it would still be open if I hurried over there (I didn't realize how far it was on foot though). When I got there, my ex-boss was already gone. Well, there's always tomorrow. Just then I ran into Megan, who asked me what I was doing at work after being fired. And I spilled the whole story, Melinda and I, Luke, the lamp, the punching, and the fact that I was now homeless.
 
 ## 07/01/07(Sun)22:13:12 No.31645138  ##
 
 > _Your fortune: Outlook good_
+
 Megan was sympathetic towards my story, and had an idea. She said maybe she could convince her parents to let me stay at her place overnight. Well, hey, a homeless guy can't be picky, anything's worth a try, right? So her parents, who usually come to pick her up from work, arrived. Megan asked, I stood there trying to look as innocent and non-creepy as possible, and her father spoke thusly: "...No." And to seal the deal, it started raining. So now I'm just wandering around like some sort of crazy guy, soaked with a backpack full of essentially (at least in this situation) stuff, laptop and a few clothes. Maybe I'll catch pneumonia and die, I thought. What sort of weird fucked up karma is this? I take a homeless person in, and end up homeless because of it. Doesn't make much sense. After that, nothing really happened that night. I had absolutely no place to stay, and I didn't get one. I spent the whole night basically loitering around. I had no desire to sleep, and those of you in the chat know I stay up a bit late. Really I was just hoping I wouldn't get shot or stabbed or something. Before I knew it, the sun was coming up (it had stopped raining by then). My clothes were still fairly damp, but the sunrise seemed to make the mood a bit more cheery. It ws probably about 4 am then, when the sun usually rises.
 
 ## 07/01/07(Sun)22:13:26 No.31645154  ##
 
 > _Your fortune: Better not tell you now_
+
 I was determined to go visit Erika just like I always did, so I started off in the direction of the home. Now obviously it's not going to take me from 4 am til the mid afternoon (when I usually visit) to get there, but it never hurts to have an early start. I considered going to Luke and begging, but I decided against it. Even if he did let me back in, it'd still be incredibly awkward between Melinda and I. Time passed, with me walking, thinking. I didn't enjoy not having a home, but on the plus side this was probably the most I've been outside in a while. As more time passed, looking up at a clock I could see it was my time to visit Erika. I didn't know if I should tell her what happened or not. Maybe there are some things kids shouldn't know. I walked in, and there she was just as usual. I wanted to tell her the story, but throughout the visit I didn't have the heart to. I saw Sharon coming as usual though, and from the way she looked at me I had a feeling she knew what was up. "Luke cancelled the adoption process, what happened?" So, for the second time, I spilled the beans. I told her the whole sob story with the loss of job, the homelessness, the laptop. And that's when Sharon became my angel. She offered to let me stay at her place. So maybe karma wasn't so bad afterall. She lives in duplex, so her living space is larger than my old apartment but not as large as Melinda's.
 
 ## 07/01/07(Sun)22:13:43 No.31645183  ##
 
 > _Your fortune: Very Bad Luck_
+
 She drove me there, and the first thing I did was take a shower (I was pretty wet and dirty). Then she made me some food, as I was fairly hungry. I've been here since, and yes I could've returned sooner. I really just didn't feel like making an update, until today when I decided to write one. Sharon and I talked, and we both agreed that it's really unfair to Erika to have to stay in a home because of a fight between me and Luke. Sharon decided that she was going to try and adopt Erika. Now with her working at CPS, this presents an issue. I don't know if it works in her favor, or works against her, or whether it doesn't matter at all, but I'm hoping she wins it. She's got good prospects, she's a mature, responsible, woman. I don't really know where I'm going from here. Sharon seems to enjoy having me actually, and enjoy my company. We've become friends over the days I've been here (as opposed to the awkward friendliness of a potential adopter and a person who may have to tell you, "Sorry, you can't adopt her!"). I don't want to impose myself on her forever though. Of course if she adopts Erika I'm sure she'll let me visit, and I think she'll make a good mother. And that's what's happened while I've been gone. Things are slowly getting better, as they always do. Life has to beat you down a few times so it can bring you back up.
 
 # Thread 10  #
@@ -88,7 +93,10 @@ Eventually, I could tell she was getting tired so I lifted her up to take her to
 ## 07/08/07(Sun)07:49:00 No.32316404  ##
 
 Salutations /b/, it's blindmute loli guy, back with 3 new flavors of syphillis (be sure to try mango tango berry) for your computer screen. Well then, today (or yesterday as it more accurately is since it's late/early in the morning as I'm writing this) I had a few tasks in mind. Those tasks were as follows:
-1. Invite the neighbors to Erika's birthday party 2. Ask Sharon on a date (yes, today was the day I was going to do it) 3. Fill out job application for nearby food place
+
+1. Invite the neighbors to Erika's birthday party 
+2. Ask Sharon on a date (yes, today was the day I was going to do it) 
+3. Fill out job application for nearby food place
 
 ## 07/08/07(Sun)07:49:19 No.32316423  ##
 
@@ -101,11 +109,25 @@ After the tickling quotient had been fulfilled, I decided it was late enough to 
 ## 07/08/07(Sun)07:50:04 No.32316472  ##
 
 So he called his kids down. There was Melanie, a 12 year old girl. Amelia, a 6 year old girl. And finally Eric, a 15 year old. Eric, or girlpants as I like to call him, was the stereotypical emo kid. Dyed black hair in that little flippy thing, girlpants, a band t-shirt for some crappy emo band. Overall, a pretty average american family. His wife, Cynthia, was missing so I would have to be meet her at another time. So the guest list for Erika's party is now:
-Erika (of course) Me Sharon Jim(arooskyrooni) Melanie Amelia Eric Cynthia
+
+* Erika (of course) 
+* Me
+* Sharon
+* Jim(arooskyrooni)
+* Melanie
+* Amelia
+* Eric
+* Cynthia
 
 ## 07/08/07(Sun)07:50:19 No.32316490  ##
 
-As I returned home (I told Erika I was going shopping, but it was actually Sharon who went shopping), I knew Sharon would soon return. Erika asked me where the groceries were, looking for some chips to eat. "Uuuh they were closed." So I waited for Sharon to return home, and she did, with various food stuffs. Erika didn't question my super knowledge, just happily munched on her chips. I went to share the good news with Sharon, that I had invited the neighbors. She gave me a sarcastic "great". "What's wrong with them?" "Jim is the most annoying man in the world!" Oops, I guess I should've asked Sharon before I invited these people into her house. Jim seemed nice enough to me, but I see how he could press on your nerves if you're around him too long. I called Sharon into the other room, wanting to speak to her alone. Erika, being curious as any 8 year old would tried to sneak her way into the room but she was foiled as she didn't really know the layout of Sharon's place that much yet. "So Sharon, we've been friends for a bit now..." I was starting to get nervous. Can't get nervous. When you get nervous, you mess up. Had to stay cool, calm and cool. Deep breath, skip the beating around the bush. So I popped the question, asking her on a date. "Well you're really nice but..." and then I got it. The "you're really nice but" speech. Mission Failed. Snake!? Snake get up! Snaaaaaaaaaaaaaaaaaaaaaaake! Well I was a bit disappointed, and could only hope that didn't make things totally awkward between us. Sharon also had a message for me. She said Luke asked me to come to Melinda's place tomorrow. What does he want? Well I'll find out later today.
+As I returned home (I told Erika I was going shopping, but it was actually Sharon who went shopping), I knew Sharon would soon return. Erika asked me where the groceries were, looking for some chips to eat. "Uuuh they were closed." So I waited for Sharon to return home, and she did, with various food stuffs. Erika didn't question my super knowledge, just happily munched on her chips. I went to share the good news with Sharon, that I had invited the neighbors. She gave me a sarcastic "great". "What's wrong with them?" "Jim is the most annoying man in the world!" Oops, I guess I should've asked Sharon before I invited these people into her house. Jim seemed nice enough to me, but I see how he could press on your nerves if you're around him too long. I called Sharon into the other room, wanting to speak to her alone. Erika, being curious as any 8 year old would tried to sneak her way into the room but she was foiled as she didn't really know the layout of Sharon's place that much yet. "So Sharon, we've been friends for a bit now..." I was starting to get nervous. Can't get nervous. When you get nervous, you mess up. Had to stay cool, calm and cool. Deep breath, skip the beating around the bush. So I popped the question, asking her on a date. "Well you're really nice but..." and then I got it. The "you're really nice but" speech.
+
+Mission Failed. Snake!? Snake get up! 
+
+Snaaaaaaaaaaaaaaaaaaaaaaake! 
+
+Well I was a bit disappointed, and could only hope that didn't make things totally awkward between us. Sharon also had a message for me. She said Luke asked me to come to Melinda's place tomorrow. What does he want? Well I'll find out later today.
 
 ## 07/08/07(Sun)07:50:32 No.32316501  ##
 
@@ -151,7 +173,12 @@ The main candidate for my gf is Megan right now, though I don't see myself bring
 
 ## 07/13/07(Fri)00:57:39 No.32797232  ##
 
-Goals I have now: 1. Police Luke's pernicious perverted panty plan 2. Enhance Erika's extravaganza 3. Murder malevolent Mark
+Goals I have now: 
+
+1. Police Luke's pernicious perverted panty plan 
+2. Enhance Erika's extravaganza 
+3. Murder malevolent Mark
+
 (lol alliteration). Anyways, this time I definitely won't post a thread until Saturday and tell you how I've been coming on these 3.
 
 # Thread 16  #
@@ -213,12 +240,14 @@ Anyways, after the movie I didn't see anything else to do (well I did, but was c
 
 ## 07/19/07(Thu)21:47:53 No.33476469  ##
 
-Your fortune: Average Luck
+> _Your fortune: Average Luck_
+
 Hi /b/, it's blindmute loli guy. As I've been saying in the chat for the last 2 days, Erika's been acting funny. She's been acting funny specifically to me, as if she's mad at me. I had no idea what I might've done to incur this anger (still don't). She's been ignoring me, acting rather coldly to me, so I decided to follow the chat's advice today. Talk to her, don't accept no for an answer, figure out what her problem is. So I got home from work, and found that the gift I had bought for her birthday had finally arrived. It was an iPod. I personally have never owned one, I don't really like the things, but I thought it would be a nice gift for Erika to have music she can take around. So I give it to Erika, who still gives me sort of the cold shoulder. All of you guys in chat said it was supposed to soften her up... Anyways, I sit her down on the couch and say I want to talk to her a bit. She half-listens to me, playing around with the new thing she got (though with not much to do since there's no music on it yet).
 
 ## 07/19/07(Thu)21:48:15 No.33476495  ##
 
-Your fortune: You will meet a dark handsome stranger
+> _Your fortune: You will meet a dark handsome stranger_
+
 I tell her, "Erika, I know there's something wrong. Would you talk to me about it?" She says there's nothing wrong. "Why have you been acting strangely then?" She says he hasn't. We go a bit like this, until she says "stop talking about it". "Erika I just want to know what's wrong, I want to help..." to which she responds "quit annoying me." I'm getting a bit irked, and confused since she's never been bratty with me. "Erika, what is your problem?" I said this in a slightly more forceful voice, and she didn't seem to like it much. She said "leave me alone" in large letters and held it up so I could see it. And then, I don't know if she was aiming to hit where she did (considering she's blind) or to throw as hard as she did, she threw the iPod right at my face. So it hit me right in the face (enough to make a nice bump and hurt like a bitch) and by the time I looked up she had already ran off to her room. This all just happened not too long ago. I'm not really mad so much as hurt. I don't know what's gotten into her, but if she's going to be violent to me what can I do? Maybe it wasn't meant to be. I thought I could be her dad, she'd be my daughter, and everything would work out perfectly. I don't know about it anymore. If I leave, maybe Sharon will take care of her, or maybe she'll get sent back to the home. I don't want to leave her, but maybe I should if she really dislikes me this much. I still don't know what I did.
 
 # Thread 19  #
@@ -253,26 +282,26 @@ Timestamps unavailable
 
 ## Thread Text  ##
 
-Salutations /b/, good evening and hello
-This is a post of the blindmute loli fellow
-Take Erika to the doctor did he today
-Leaving work early, he was gay
-Arriving at the office just in time
-Looking so good it must be a crime
-Called to the doctor were the two
-Whose name cast him as a jew
-Provide CPS records did he
-Which to proved to be no help to me
-The doctor said she was in good health
-And despite having little wealth
-I scheduled a scan of the brain
-To find the cause of the titular pain
-Answers will come, but not now
-But don't go and have a cow
-For I will keep you all au fait
-And don't you think to be irate
-If Nurse-kun can speak haiku
-Can't I be a poet too?
+Salutations /b/, good evening and hello  
+This is a post of the blindmute loli fellow  
+Take Erika to the doctor did he today  
+Leaving work early, he was gay  
+Arriving at the office just in time  
+Looking so good it must be a crime  
+Called to the doctor were the two  
+Whose name cast him as a jew  
+Provide CPS records did he  
+Which to proved to be no help to me  
+The doctor said she was in good health  
+And despite having little wealth  
+I scheduled a scan of the brain  
+To find the cause of the titular pain  
+Answers will come, but not now  
+But don't go and have a cow  
+For I will keep you all au fait  
+And don't you think to be irate  
+If Nurse-kun can speak haiku  
+Can't I be a poet too?  
 
 # Thread 22  #
 
