@@ -16,11 +16,11 @@ Bibliotheca Anonoma
 * [[Blindmute Loli]]
 * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
 * [[Tramp Anon]]
-* [[Uncle Anon]]
 * [[The Liliad]]
 * [[The Great Scam]]
 * [[American Dream]]
 * [[AOHell]]
+* [[Uncle Anon]]
 * [[more...|Stories]]
 
 
