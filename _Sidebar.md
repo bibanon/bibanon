@@ -1,4 +1,4 @@
-[[ba-logo.png|alt="BA Logo"|height="200"|width="200"]]
+[[ba-logo.png|alt="BA Logo"|height=200|width=200]]
 
 Bibliotheca Anonoma
 ===================
