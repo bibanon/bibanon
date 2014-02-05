@@ -1,4 +1,8 @@
-{{Blindmute|September 2007|November 2007}}
+[[Previous Page: September 2007|bl4]] | **This Page**: October 2007 | [[Next Page: November 2007|bl6]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 ## Thread 41 ##
 
@@ -9,7 +13,6 @@ Hello /b/, blindmute loli guy here for the 41st thread. The good news: Erika isn
 
 ### Anonymous 10/03/07(Wed)01:33:17 No.41449757 ###
 
-![Blindmute Loli - Thread 41 by ~[http://dark-pen.deviantart.com/art/Blindmute-Loli-Thread-41-75610734 Dark-Pen](Thread_41_by_Dark_Pen.png)]
 Now at this point, I imagine you're wondering where was Erika if she wasn't where she usually is. She was at mental hospital. What happened? Well Sharon said that Erika sort of cracked a bit. One of the usual kids was bullying her, and she couldn't take it anymore. So apparently when they were doing some art project or something with scissors. Erika got his attention, he asked her what the hell she wanted, and she tried to stab him. And not just like a prick, like really trying to kill him. She wasn't successful of course, she actually did get him once (but it's not a serious bruise, they were only scissors intended to be used by children). They pulled her off of him, and that was the end of that assassination attempt. CPS got its knickers in a bunch, and that's how Erika ended up where she is. Now by now I'm sure you've noticed I'm not taking this very seriously. And I don't, it was a pair of scissors! I mean they were sharp and probably could've caused some injury if she had stabbed him enough, but still. At the same time though I do recognize something is wrong with Erika, not that she's suffering from Hinamizawa Syndrome, but that the Ryan thing did really affect her. Maybe it could be beneficial, but probably not. They said though that people don't usually stay in them very long, 1-2 weeks usually. And it's not like they think she's dangerous and crazy either, just angry, depressed, and needing a bit of a diagnosis. Of course then again Erika is under the control of the state, which I think probably wanted to put her there because their homes are crowded. At least, according to Sharon, Ryan has dropped all claims of being Erika's guardian, which is a good thing. Beyond that, neither of us knows his current situation.
 
 ### Anonymous 10/03/07(Wed)01:33:36 No.41449785 ###
@@ -22,7 +25,10 @@ So I went to visit Erika at her new place of residence, where I was informed tha
 ### 10/07/07(Sun)00:20:28 No.41908181 ###
 
 Hi ho again /b/, Blindmute loli guy here for another thread. Before I get to what happened when I visited Erika, I'll talk about something else. It seems that Luke and I have semi-reconciled. Not really, but kind of. It all started when we happened to be sitting on the couch together. We had a "I'm taking my ball and I'm going home and I'm not being your friend anymore" pouty vibe between us, awkward it was. Then I grabbed it*, and leaned forward*, and he began pounding me*. That aside, he beat me in the first round by using that cheap leg sweep move. Playing as Liu Kang, I decided to maintain my distance. He jumped to try and get over to me to get me in sweep range, so I denied him with an air fireball, then a flying bicycle kick. He recovered though, and managed to get me into a sweep. I was too far back though, so he lost me in a few sweeps, and with a few more moves ended the round in my favor. With the third round, I managed to string together a chain of flying kicks, then uppercut him for the win. I gave him Liu Kang's dragon fatality. We ended up playing about 50 more matches, the record in my favor but pretty close. At the very least, it was the friendliest conatct we've had in a while. Still, I have to listen to him and Melinda have sex. His ED is now fix'd, now his penis is a stale pancake standing tall in the wind. More importantly, I did go to visit Erika today. When I arrived, the person working there said since I had no relation to Erika I wouldn't be allowed. All I had to do was get a bit pissy though, and she acquiesced (thank you /wooo/ for reminding me of how cool that word is) with an apathetic "fine", and let me go in. There was Erika, dressed in traditional mental patient garb. The floppy green slippers, the hospital-ish light blue pants, and the white shirt that ties in the back. I have to admit, it was sort of cute, but her expression wasn't very cute at all.
-* the Sega Genesis controller * to turn on the system, which had Mortal Kombat II in it * at Mortal Kombat, with Baraka
+
+* the Sega Genesis controller 
+* to turn on the system, which had Mortal Kombat II in it 
+* at Mortal Kombat, with Baraka
 
 ### 10/07/07(Sun)00:20:49 No.41908223 ###
 
@@ -38,6 +44,7 @@ Hello /b/, blindmuteloli guy here. It's been a bit, and in this time I haven't s
 ### Anonymous 10/12/07(Fri)01:05:16 No.42510810 ###
 
 >  _(Note: was part of above entry, but reposted 2 minutes 3 seconds later.)_
+
 Speaking of protection though, it seems nobody wants to mess with Erika after what happened. Since she got back, nobody talks to her, and people seem a bit uneasy around her. I suppose she showed them. She did tell me something however, one of the reasons why the kids didn't like her very much. She said they're jealous, because they don't have any parents yet I act like Erika's parent. They tell her to go live with me and quit bothering them. And even though they were mean to Erika, I still feel bad for them all. You can see it in them, behind every sad visage, a sadder story. It makes me wish I could get to know them all, but you can't solve all of the world's problems I suppose, only do what you can.
 
 ### Anonymous 10/12/07(Fri)01:06:02 No.42510888 ###
@@ -115,4 +122,9 @@ Hullo internetters, blindmuteloli guy back again for another update. So on Sunda
 ### Anonymous 10/25/07(Thu)00:56:19 No.43426006 ###
 
 Okay now /b/, timewarp (and no we're not doing the time warp, go throw toast at somebody else you faggots) to a few days later. I only posted the last 3 paragraphs to pastebin while 4chan was down, so everything beyond this sentence is happening a bit later. I did stay home with Erika that day, and we had a great time (especially the missing work part). During the day, we talked a bit about her education. I told her that perhaps when the whole adoption thing gets sorted out, she should start going to a public school. She expressed an aversion to the idea, leading me to believe she had some sort of problems with it before. "You don't want to end up a NEET though, do you?" She didn't understand the term. Well if she ever does become a hikikomori she can live in my house. That does bring up how she's going to be educated though. Despite not going to a real school (besides some small education received where she was), she doesn't seem to be much farther behind anyone else of her age range. I've been trying to be helpful in that regard throughout our daily routine, correcting her misspellings where applicable. Guess I've got time to work that out though. As for the next day, I couldn't skip work. I tried calling everyone I knew to watch Erika. She was excited at the prospect of going to Jim's, but he was out. So I was left with only one person: Megan. Okay, it's not really that dreadful as to require an ominous colon. She came over, she babysat, I came back, Erika wasn't dead. She kept on acting like she was waiting for me to ask her about how her life was going. Ask her if she had a new boyfriend, and then if she did I would sting with envy and it would ruin my day. Instead, I barely acknowledged her, paid her, and she left. Jim has been home since, so he's been babysitting for me, and happy to do it. That's about it that's been happening. On another note though, Erika and I have already been shopping from Halloween. But I'll keep thata secret until said day, where I shall have a thread hopefully to amuse. It's been a while since I've celebrated halloween, with the bloody costumes, spending tons of monies to scare little children. And since I now have a child of my own, what's to stop me?
-{{Blindmute|September 2007|November 2007}}
+
+[[Previous Page: September 2007|bl4]] | **This Page**: October 2007 | [[Next Page: November 2007|bl6]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
