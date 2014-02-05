@@ -17,7 +17,6 @@ Originally, this anonymite's posts were archived by Sarafan and his other well-w
 * [[Blindmute Loli, February 2008|bl9]]
 * [[Blindmute Loli, March 2008|bl10]]
 * [[Blindmute Loli, September 2008|bl11]]
-* [[Who was the Blindmute Loli man?|ShotaGuroLove]]
 
 ## Sources
 
