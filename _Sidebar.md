@@ -13,9 +13,10 @@ Bibliotheca Anonoma
 ## [[Stories]]
 
 * [[Damaged Goods]]
-* [[Blindmute Loli]]
 * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
+* [[Blindmute Loli]]
 * [[Tramp Anon]]
+* [[Romeo-san and Juliette]]
 * [[The Liliad]]
 * [[The Great Scam]]
 * [[American Dream]]
