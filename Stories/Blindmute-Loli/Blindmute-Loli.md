@@ -2,7 +2,7 @@
 
 **Blindmute Loli** is an incredible story about a anon who runs into a blind, mute runaway orphan. Together, they meet crazy people, fall into tragic mishaps, and face terrible hardships. 
 
-But despite all the cards stacked against him, the man never stops trying to save his adopted daughter, and manages to scrape his life back together again.
+But despite all the cards stacked against him, the man never stops trying to save his adopted daughter, and eventually manages to scrape his life back together again.
 
 The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following.
 
