@@ -75,7 +75,6 @@ Stories gleaned right out of SA's paywall.
 ## [[Wikichan]]
 
 * **[[Itoko Otoko]]** - Literally, "Cousin Man", in the same style as [[Densha Otoko]]. The first major story put on 4chan, his thread was stickied for his push to elope with his cousin.
-* **[[Romeo san and Juliette]]** - Another heartening story similar to[[Damaged Goods]] or [[Blindmute Loli]].
 * **[[Jenny Jones]]**
 
 ## Hackers
