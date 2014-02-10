@@ -1,6 +1,6 @@
 ## Assorted
 
-*Large collections containing multiple copypasta. These need to be split up into single pages.*
+*Large collections containing multiple copypasta, from the [Tanasinn.info Kopipe Collection](https://github.com/bibanon/Tanasinn-Kopipe/wiki).*
 
 * [[b-sides]] - This is a collection of stories written by /b/, where writers, after looking at some strange pictures, decided to write up a crazy side story behind them. 
 * [[4chan Kopipe]]
