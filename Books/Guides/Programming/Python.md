@@ -137,7 +137,7 @@ _consider using xrange when dealing with larger lists, as it creates an iterator
 
 
 ### Multi-Threaded Mail Bomber ###
-
+```python
     #CREATED BY: DUMP 
     #MULTI THREADING ALLOWS FOR A CLASS TO BE RUN MULTIPLE TIMES AT ONCE.
     #INCLUDES SMTP ENGINE, AND MAIL HEADER GEN. THAT FOLLOWS RFC STARDARDS
@@ -176,7 +176,7 @@ _consider using xrange when dealing with larger lists, as it creates an iterator
         for b in range(a, a+5):
             MailBomb(lists[b], address2, message).start();
         time.sleep(.50);
-
+```
 ## Modules ##
 
 
