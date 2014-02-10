@@ -451,3 +451,8 @@ That is one solution. Another would be to spend the extra money and get her a do
 I will stay with my sister for as long as she'll have me. I have mentioned this before, but I'm certain that she's the only woman I'll ever love.
 
 You are, sadly, quite right. However, we've become so accustomed to blithely showing a higher degree of affection that siblings strictly should in public that it's second nature now. We really should curb that, but it's more difficult said than done.
+
+## Sources
+
+* [Pastebin](http://pastebin.com/Gt47E4Nr)
+* [Newer Pastebin](http://pastebin.com/90nWJGPt)
