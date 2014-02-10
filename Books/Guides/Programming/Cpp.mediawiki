@@ -25,7 +25,7 @@ First of all, you'll need a compiler. Find one at the [[C]] tutorial; I use DevC
 Nearly every script made in C++ will start like this:
 
 
-<pre>
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -33,7 +33,7 @@ using namespace std;
 int main()
 {
 }
-</pre>
+```
 
 The first line calls a preprocessor. In layman's terms: "LOL I WANT TO USE FUNCTIONS THAT ARE IN IOSTREAM SO I'LL CALL IT USING THE #INCLUDE FUNCTION TO CALL IOSTREAM". Think like Iostream is a book containing instructions on how to do different functions.
 
@@ -51,8 +51,7 @@ With this shit learned, we can go to the next level.
 
 In most of your programs, you (or the user who's running it) would like to know what's going on in the application. This is where the cout function gets in.
 
-<pre>
-
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -62,7 +61,7 @@ cout<<"Hey everybody, I'm looking at gay porno!";
 cin.get();
 return 0;
 }
-</pre>
+```
 
 '''The cout function prints stuff to the screen. The syntax goes like this: cout<<"[stringoftextgoeshere]"; . Remember to put the semicolon and don't forget the quotation marks.''' 
 
@@ -70,8 +69,7 @@ The cin.get() function is a very handy tool. What it does is wait for the user t
 
 When the program finished with int main() (That means, it gets to "}"), it will return a value of 0, closing main and finishing with the program, closing it. Assume that, for X reason, the program won't get to finish main or you want to abort the program before reaching the end of main. With '''return 0;''', it will end the script when you want it. In this case, finishing the code earlier would be useless in this case, but assume this case:
 
-<pre>
-
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -83,7 +81,7 @@ return 0;
 cout<<"Lol easter egg";
 cin.get();
 }
-</pre>
+```
 
 With the return function, the program will never display this simple (Read: Lame) easter egg, which consists in the "lol easter egg" being printed into the screen. Without the return function in the script, it will show it, and then end the code.
 
@@ -91,7 +89,7 @@ With the return function, the program will never display this simple (Read: Lame
 
 Please take a look at this motherfucking code:
 
-<pre>
+```cpp
 /*************************************/
 /*LOL CODE LOL CODE LOL CODE LOL CODE*/
 /*************************************/
@@ -106,7 +104,7 @@ return 0; //This shit terminates the program
 cout<<"Lol easter egg"; //This shit won't show if the above line is in the code
 cin.get(); //waitin' for enter
 }
-</pre>
+```
 
 First: What's the crap I added?
 
@@ -164,11 +162,11 @@ if (Stuff to compare is TRUE) {
 
 An example of this would be:
 
-<pre>
+```cpp
 if (3 == 3) {
 cout<<"Yes, 3 equals 3. You needed to write a C++ application to know that?\n";
 }
-</pre>
+```
 
 Some argue that 
 
