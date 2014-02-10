@@ -13,7 +13,7 @@
 * [[1000 Tutorials]] - 1000 Tutorials, spread by anons during Operation Payback. Contains a whole lot of useful info.
 * [[Videos]] - A list of awesome videos from around the internet to look for, just in case.
 * [[Text Art]] - Shift-JIS, ASCII, any piece of art made from text.
-* [[Insurgency Pages]] - Raw pages detailing raids [[Anonymous]] has done in the past.
+* [Insurgency Wiki Raid Chronicle](https://github.com/bibanon/Insurgency-Wiki/wiki/Operations) - Raw pages detailing raids [[Anonymous]] has done in the past.
 
 ## 4chan
 
