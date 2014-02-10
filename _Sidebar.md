@@ -60,6 +60,7 @@ Bibliotheca Anonoma
 ## Website Archives
 
 * [Insurgency/Partyvan Wiki](https://github.com/bibanon/Insurgency-Wiki/wiki)
+* [Tanasinn.info Kopipe (Copypasta)](https://github.com/bibanon/Tanasinn-Kopipe/wiki)
 * [Neglected Mario Characters](https://github.com/bibanon/Neglected-Mario-Characters/wiki)
 
 ## Encyclopedia
