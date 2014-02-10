@@ -54,7 +54,7 @@ Bibliotheca Anonoma
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
-* [[BATF Guide to Bronies]]
+* [[BATF Subcultures At-A-Glance]]
 * [[more...|Collections]]
 
 ## Website Archives
