@@ -46,6 +46,7 @@ These stories will make you hurl.
 
 * **[[Cheerios]]** - A man who loves Cheerios. A bit... too much.
 * **[[The Bridgekeeper]]** - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
+* **[[b-sides]]** - This is a collection of stories written by /b/, where writers, after looking at some strange pictures, decided to write up a crazy side story behind them. 
 * **[[Pools Closed Novel]]** - WTF is this? A mess of memes created as a copypasta by anons on /b/.
 
 ## [[Something Awful]]
