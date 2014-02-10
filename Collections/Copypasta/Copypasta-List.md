@@ -62,7 +62,9 @@
 
 ## Loli
 
-*Wikichan was well known around 4chan for it's collection of stories written about little lolis getting, well, raeped.*
+> The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
+
+*Wikichan was well known around 4chan for it's collection of stories written about little lolis getting, well, raeped. Quite a bit more than cringeworthy, yes. But we don't whitewash history; people actually posted this shit.*
 
 * [[Pet Loli]] - Some copypasta about an anon's little girl whom he saved and raised after a car crash involving her foster parents.
 * [[Loli Slave]] - A sick fuck decides to kidnap a loli and keep her as a slave. Don't worry, it's unlikely that it's true.
