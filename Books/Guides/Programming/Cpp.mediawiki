@@ -57,9 +57,9 @@ using namespace std;
 
 int main()
 {
-cout<<"Hey everybody, I'm looking at gay porno!";
-cin.get();
-return 0;
+  cout<<"Hey everybody, I'm looking at gay porno!";
+  cin.get();
+  return 0;
 }
 ```
 
@@ -75,11 +75,11 @@ using namespace std;
 
 int main()
 {
-cout<<"Hey everybody, I'm looking at gay porno!\n";
-cin.get();
-return 0;
-cout<<"Lol easter egg";
-cin.get();
+  cout<<"Hey everybody, I'm looking at gay porno!\n";
+  cin.get();
+  return 0;
+  cout<<"Lol easter egg";
+  cin.get();
 }
 ```
 
@@ -98,11 +98,11 @@ using namespace std;
 
 int main()
 {
-cout<<"Hey everybody, I'm looking at gay porno!\n"; //This shit prints the text in the screen
-cin.get(); //This shit makes the program wait until the user presses enter
-return 0; //This shit terminates the program
-cout<<"Lol easter egg"; //This shit won't show if the above line is in the code
-cin.get(); //waitin' for enter
+  cout<<"Hey everybody, I'm looking at gay porno!\n"; //This shit prints the text in the screen
+  cin.get(); //This shit makes the program wait until the user presses enter
+  return 0; //This shit terminates the program
+  cout<<"Lol easter egg"; //This shit won't show if the above line is in the code
+  cin.get(); //waitin' for enter
 }
 ```
 
@@ -156,7 +156,7 @@ Now, what is the syntax of the if statement?
 
 <pre>
 if (Stuff to compare is TRUE) {
-(Block of code to execute if condition is true)
+  (Block of code to execute if condition is true)
 }
 </pre>
 
@@ -164,7 +164,7 @@ An example of this would be:
 
 ```cpp
 if (3 == 3) {
-cout<<"Yes, 3 equals 3. You needed to write a C++ application to know that?\n";
+  cout<<"Yes, 3 equals 3. You needed to write a C++ application to know that?\n";
 }
 ```
 
@@ -173,7 +173,7 @@ Some argue that
 <pre>
 if (Shit_to_compare=TRUE)
 {
-(Block of code to execute)
+  (Block of code to execute)
 }
 </pre>
 
@@ -181,7 +181,7 @@ Is better than writing
 
 <pre>
 if (Shit_to_compare=TRUE) {
-(Block of code to execute)
+  (Block of code to execute)
 }
 </pre>
 
