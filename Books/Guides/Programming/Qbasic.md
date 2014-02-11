@@ -19,21 +19,21 @@ In this tutorial, I will teach you the more simple commands and show you how to 
 
 ## Commands ##
 
-### REM:
+### `REM`:
 
-REM stands for "remark." The computer ignores the REM command. Like a string tied to your finger, it is there to remind you what your program is or what it is supposed to do. For example, programmers frequently use the REM command at the beginning of a program to give the program a name, and tell instructions for the program.
-Notice on the last line of the program, that there is a '. The apostrophe stands for the REM command, but looks better, and is more common on QBASIC programs. Most programs will be documented with apostrophes rather than REM commands.
-Remember: Anything following REM, or ' the computer will ignore. It stops reading the line at that command.
+`REM` stands for "remark." The computer ignores the `REM` command. Like a string tied to your finger, it is there to remind you what your program is or what it is supposed to do. For example, programmers frequently use the `REM` command at the beginning of a program to give the program a name, and tell instructions for the program.
+Notice on the last line of the program, that there is a '. The apostrophe stands for the `REM` command, but looks better, and is more common on QBASIC programs. Most programs will be documented with apostrophes rather than `REM` commands.
+Remember: Anything following `REM`, or ' the computer will ignore. It stops reading the line at that command.
 
-### CLS:
+### `CLS`:
 
-CLS is a command used to clear the screen. It makes the screen completely black. (Notice how the first letters of "clear" and "screen" are in the command.) This command is not required for text, because text will just put text on the top of the screen off and put the new text on the bottom. However, when you run your program without clearing the screen before it starts, it shows the remains of the program run previously. If you clear the screen at the beginning of the program, (and in longer programs, during it) the program looks much neater.
+`CLS` is a command used to clear the screen. It makes the screen completely black. (Notice how the first letters of "clear" and "screen" are in the command.) This command is not required for text, because text will just put text on the top of the screen off and put the new text on the bottom. However, when you run your program without clearing the screen before it starts, it shows the remains of the program run previously. If you clear the screen at the beginning of the program, (and in longer programs, during it) the program looks much neater.
 
 ### Variables:
 
-Notice the INPUT nm$ line directly following the PRINT "What is your name" statement on the third line of the program? Before I explain what print does (which is pretty self explanatory), I have to tell you what INPUT nm$ means. Before I tell you that, you'll have to understand what variables are. Here you go:
+Notice the `INPUT nm$` line directly following the `PRINT "What is your name"` statement on the third line of the program? Before I explain what `PRINT` does (which is pretty self explanatory), I have to tell you what `INPUT nm$` means. Before I tell you that, you'll have to understand what variables are. Here you go:
 
-Computers have thousands of little cubby holes in which you can store commands and information. Before you can store commands in a cubbyhole, however, you need to give the cubbyhole a name. Variables are these cubbyholes. In math class, you learned that variables are unknowns. You can't do anything else with them. For example, in math class, x * x = x squared, and x + x = 2x. You don't know what they are.
+Computers have thousands of little cubby holes in which you can store commands and information. Before you can store commands in a cubbyhole, however, you need to give the cubbyhole a name. Variables are these cubbyholes. In math class, you learned that variables are unknowns. You can't do anything else with them. For example, in math class, `x * x = x squared`, and `x + x = 2x`. You don't know what they are.
 
 Computer variables always have a definite value. If you don't have anything in a cubbyhole, what's in it? Nothing. Nothing is equal to zero. Therefore, before you tell the computer what the variable equals, it always is equal to zero. After you tell the computer what a variable is equal to, (or before) you can use it in math problems, display it on the screen, and many other things. Variables look like this: a, a$, a%, a! Those are the four types of variables that QBASIC can handle. I'll tell you what each type means later.
 
@@ -52,48 +52,84 @@ Math is very important to QBASIC programs. You must be able to use math in progr
 * Make an Integer: `INT`
 * Order of Operations: `( )`
 
-There are more of them, but these are the most important. Use them the same way that you would in math class. There's only one more catch. You have to say that a variable is equal to a math problem,. or to PRINT the math problem, or assign it to do something else. You can't just leave a math problem without telling the computer what to do with it.
+There are more of them, but these are the most important. Use them the same way that you would in math class. There's only one more catch. You have to say that a variable is equal to a math problem,. or to `PRINT` the math problem, or assign it to do something else. You can't just leave a math problem without telling the computer what to do with it.
 
-I'll tell you how to use the last four mat operands mean, because they're not so obvious. The ^ for exponents makes the number(s) directly following the carat the exponents of the number proceeding it. You must have a number before and after the exponent sign. The SQR for square root finds the square root for number in parenthesis directly following it. For example, SQR(16) finds the square root of 16, which is 4. Integers are whole numbers. They can be positive or negative. What INT does is make the expression in parenthesis directly following the INT command into an integer. The INT function rounds the number to the nearest whole number. Order of Operations is very easy, but is a tough concept to understand. Say you wanted to multiply X by what the difference of Y and Z. How would you do it? Well, first, you would subtract Z from Y, and then multiply the difference by X. You write this as X(Y-Z), but in QBASIC, you would have to add an asterisk between the X and the first parenthesis. So it would look like this: X*(Y-Z). What the computer does is solve this problem from the inside out. It starts in the middle of the parenthesis, combining Y and negative Z, then multiplying this by X. If you don't understand this, read about it in your math book.
+I'll tell you how to use the last four mat operands mean, because they're not so obvious. 
 
-### PRINT:
+* The `^` for **exponents** makes the number(s) directly following the carat the exponents of the number proceeding it. You must have a number before and after the exponent sign. 
+* The `SQR` for **square root** finds the square root for number in parenthesis directly following it. For example, `SQR(16)` finds the square root of 16, which is 4. 
+* **Integers** are whole numbers. They can be positive or negative. What `INT` does is make the expression in parenthesis directly following the `INT` command into an integer. The `INT` function rounds the number to the nearest whole number. 
+* **Order of Operations** is very easy, but is a tough concept to understand. Say you wanted to multiply `X` by what the difference of `Y` and `Z`. How would you do it? Well, first, you would subtract `Z` from `Y`, and then multiply the difference by `X`. You write this as `X(Y-Z)`, but in QBASIC, you would have to add an asterisk between the X and the first parenthesis. So it would look like this: `X*(Y-Z)`. What the computer does is solve this problem from the inside out. It starts in the middle of the parenthesis, combining `Y` and negative `Z`, then multiplying this by `X`. If you don't understand this, read about it in your math book.
 
-PRINT puts text on the screen. Anything that you want PRINTed you must put in quotes, or be a variable. The Syntax of PRINT is: PRINT [expression list] [{,;}]. If you just type in "PRINT", a blank line will be PRINTed. Anything that is PRINTed must be put in quotes (""), or be in variable form. If you wanted to print Ahoy, there! on the screen, the statement would look like this: PRINT "Ahoy, there!". All ASCII characters can be PRINTed on the screen except for quotes ("). The answer to math problems can also be PRINTed by just writing the math problem after a PRINT statement. Also, if you put a variable after a PRINT statement, the variable's contents will be PRINTed on the screen. (Not the Variable's name!)
+### `PRINT`:
 
-All this is fine except for the fact that you want to PRINT variables and regular text in one line. You do this by putting semicolons between separate things you want. If you wanted to PRINT "There are [The value of X] people in this class, and if you add ten people to the total number of people, there would be [X+10] people."? The code for it would look like: PRINT "There are";X;"people in this class, and if you add ten people to the total number of people, there would be";X+10;"people." Does that make sense? Just break everything up into separate parts. First, you want to write "There are" on the screen. So put your PRINT statement there, and type in "There are". Put your semicolon there to tell the computer that you are writing the next thing to be PRINTed. Now put X down because you want that to be PRINTed next. Now add another semicolon because you want to write another thing on the screen. Now type in the next set of text and your semicolon. Now you want to write the value of X+10 on the screen, so you write it followed by a semicolon. Now write "people." and you're done with that line of code! (A lot of work, eh? Don't worry, you'll get used to it...)
+`PRINT` puts text on the screen. Anything that you want `PRINT`ed you must put in quotes, or be a variable. 
+The Syntax of `PRINT` is: `PRINT [expression list] [{,;}]`. 
 
-You could also do this by typing PRINT, and one expression followed by a semi colon, and it would display the same thing on the screen. For example, on one line, you type PRINT Hello, "; and on the next line, you type PRINT abc$. The following will be displayed: Hello, [value of abc$]. This brings us to another thing. Notice how after the Hello in the PRINT "Hello "; line I left a space? When you PRINT variables that keep track of numbers or math problems on the screen, there is a space put on both the left and the write of the character(s). When you PRINT string variables (variables that store text) on the screen, no spaces are put around the contents of the variable. To make it look nicer and easier to understand, you have to PRINT spaces on both sides of the variable. So you put a space after the end of Hello so that you don't have "wall to wall letters". If you want to print two string variables in a row, you must PRINT " " in between them to keep them separated. It would look something like this: "PRINT a$;" ";z$ ". 
+If you just type in `PRINT`, a blank line will be `PRINT`ed. Anything that is `PRINT`ed must be put in quotes `("")`, or be in variable form. 
+
+If you wanted to print Ahoy, there! on the screen, the statement would look like this: 
+
+    PRINT "Ahoy, there!"
+
+All ASCII characters can be `PRINT`ed on the screen except for quotes ("). The answer to math problems can also be `PRINT`ed by just writing the math problem after a `PRINT` statement. Also, if you put a variable after a `PRINT` statement, the variable's contents will be `PRINT`ed on the screen. (Not the Variable's name!)
+
+All this is fine except for the fact that you want to `PRINT` variables and regular text in one line. You do this by putting semicolons between separate things you want. If you wanted to print `"There are [The value of X] people in this class, and if you add ten people to the total number of people, there would be [X+10] people."?`
+
+The code for it would look like: 
+
+    PRINT "There are";X;"people in this class, and if you add ten people to the total number of people, there would be";X+10;"people." 
+
+Does that make sense? Just break everything up into separate parts. First, you want to write `"There are"` on the screen. So put your `PRINT` statement there, and type in `"There are"`. Put your semicolon there to tell the computer that you are writing the next thing to be `PRINT`ed. Now put X down because you want that to be `PRINT`ed next. Now add another semicolon because you want to write another thing on the screen. Now type in the next set of text and your semicolon. Now you want to write the value of `X+10` on the screen, so you write it followed by a semicolon. Now write `"people."` and you're done with that line of code! (A lot of work, eh? Don't worry, you'll get used to it...)
+
+You could also do this by typing `PRINT`, and one expression followed by a semi colon, and it would display the same thing on the screen. For example, on one line, you type `PRINT Hello, ";` and on the next line, you type `PRINT abc$`. The following will be displayed: 
+
+    Hello, [value of abc$]
+
+This brings us to another thing. Notice how after the Hello in the `PRINT "Hello ";` line I left a space? When you `PRINT` variables that keep track of numbers or math problems on the screen, there is a space put on both the left and the write of the character(s). When you `PRINT` string variables (variables that store text) on the screen, no spaces are put around the contents of the variable. To make it look nicer and easier to understand, you have to `PRINT` spaces on both sides of the variable. So you put a space after the end of Hello so that you don't have "wall to wall letters". If you want to print two string variables in a row, you must `PRINT " "` in between them to keep them separated. It would look something like this: 
+
+    "PRINT a$;" ";z$ ". 
 
 #### Recap:
 
-* If you type PRINT without any variables or text after it, it will PRINT a blank line.
-* Text that you want PRINTed must be in quotes. (")
-* Variables can be PRINTed by adding the variables title after the PRINT command.
-* Math problems can also be PRINTed.
-* More than one thing can be PRINTed on a line by adding semicolons between separate things you want PRINTed.
-* You must PRINT spaces between string variables and other things you want PRINTed.
-* If a semicolon follows a PRINT statement, the next thing PRINTed will be on the same line.
+* If you type `PRINT` without any variables or text after it, it will `PRINT` a blank line.
+* Text that you want `PRINT`ed must be in quotes. `(")`
+* Variables can be `PRINT`ed by adding the variables title after the `PRINT` command.
+* Math problems can also be `PRINT`ed.
+* More than one thing can be `PRINT`ed on a line by adding semicolons between separate things you want `PRINT`ed.
+* You must `PRINT` spaces between string variables and other things you want `PRINT`ed.
+* If a semicolon follows a `PRINT` statement, the next thing `PRINT`ed will be on the same line.
 
-> **NOTE:** _The PRINT Command can be used to write to sequential files, and "PRINT USING" can be used to PRINT formatted text. These are not important for you to know now._
+> **NOTE:** _The `PRINT` Command can be used to write to sequential files, and `PRINT USING` can be used to `PRINT` formatted text. These are not important for you to know now._
 
-### INPUT:
+### `INPUT`:
 
-INPUT is a command that takes information from the user of the program. The person types in information, and it is assigned to a variable. You INPUT like this: INPUT [Variable name]. This PRINTs a question mark (?) and puts a cursor on the screen where you should begin to type. After all desired information is INPUTted, press enter, and it is saved in the array specified by the INPUT command. String and numeric variables can be written with this command, but if you type characters other than numbers for numeric variables, the computer will not accept the information, and will write "Redo from start", and you will be given a second chance to INPUT the information.
+`INPUT` is a command that takes information from the user of the program. The person types in information, and it is assigned to a variable. You `INPUT` like this: 
 
-Now you're wondering how to get rid of that darn question mark aren't you? Well, if you make your PRINT and INPUT statements one, you don't have to look at that stupid question marks. This is how you do it: Say you wanted to write "Type in your birthday:", and right after the colon, have the user type in their birthday. The code for that would look like this: INPUT "Type in your birthday", bday$ .
+    INPUT [Variable name]
+
+This `PRINT`s a question mark `(?)` and puts a cursor on the screen where you should begin to type. After all desired information is `INPUT`ted, press enter, and it is saved in the array specified by the `INPUT` command. String and numeric variables can be written with this command, but if you type characters other than numbers for numeric variables, the computer will not accept the information, and will write `"Redo from start"`, and you will be given a second chance to `INPUT` the information.
+
+Now you're wondering how to get rid of that darn question mark aren't you? Well, if you make your `PRINT` and `INPUT` statements one, you don't have to look at that stupid question marks. This is how you do it: Say you wanted to write "Type in your birthday:", and right after the colon, have the user type in their birthday. The code for that would look like this:
+
+    INPUT "Type in your birthday", bday$
 
 #### Recap:
 
-* INPUT can write either string or numeric variables.
-* When you type INPUT, a question mark is displayed to tell the user to type in information.
-* If you don't want the question mark shown, make the INPUT statement into an INPUT/PRINT statement like this: INPUT "Write Number Here:", A$
-* When you write characters other than numbers onto a numeric variable, a "Redo from start" message will appear, and you can retype the variables data.
+* `INPUT` can write either string or numeric variables.
+* When you type `INPUT`, a question mark is displayed to tell the user to type in information.
+* If you don't want the question mark shown, make the `INPUT` statement into an `INPUT`/`PRINT` statement like this: 
 
-### LET:
+    INPUT "Write Number Here:", A$
 
-LET actually isn't a QBASIC command. It's a command left over from BASIC that Microsoft decided to get rid of in QBASIC. Why do you tell me about, you ask? Well, because what it does, or used to, is very, very important. LET allows the computer to change variable values without direct input from the user. For example, if you wanted to create a program that counts the number of times you've shot a cannon, you wouldn't want to have to have the player type in how many times they have shot. They might cheat, and it would get EXTREMELY annoying! So, you can have the computer change numeric variables value.
+* When you write characters other than numbers onto a numeric variable, a `"Redo from start"` message will appear, and you can retype the variables data.
 
-You do this by saying the a variable is equal to something. It would look like this: `ZUM=A+(34*56.8)`. This makes the variable ZUM equal to the value of A plus 34*56.8 . String variables are exactly the same, but what they're equal to must be another variable, or something in quotes. Understand? It's quite easy, and very important! 
+### `LET`:
+
+`LET` actually isn't a QBASIC command. It's a command left over from BASIC that Microsoft decided to get rid of in QBASIC. Why do you tell me about, you ask? Well, because what it does, or used to, is very, very important. `LET` allows the computer to change variable values without direct input from the user. For example, if you wanted to create a program that counts the number of times you've shot a cannon, you wouldn't want to have to have the player type in how many times they have shot. They might cheat, and it would get EXTREMELY annoying! So, you can have the computer change numeric variables value.
+
+You do this by saying the a variable is equal to something. It would look like this: `ZUM=A+(34*56.8)`. This makes the variable `ZUM` equal to the value of A plus `34 * 56.8`. String variables are exactly the same, but what they're equal to must be another variable, or something in quotes. Understand? It's quite easy, and very important! 
+
 #### Recap:
 
 * The LET command is not required. Don't use it! It's a waste of time and of three good bytes!
@@ -103,98 +139,130 @@ You do this by saying the a variable is equal to something. It would look like t
 
 ### Line Numbers:
 
-Line numbers are a way to name certain portions of your program. These are essential for the computer to change positions in the program using GOTO or GOSUB statements.
-What they are are numbers or words that are located at the beginning of a line or section of code. Numeric line numbers are sort of generic. They aren't customizable. Text line labels can be whatever you want, but they must be followed by a colon (:). Line numbers were required in older version of BASIC on each line of code, but now they're optional. Put them in front important sections of code so that you can send the computer to read that part of the program. In a program, they look like this: 126 PRINT "Hello, world!". The 126 on that line was the line number. Here's another example. goldfish: IF g$="gold" AND s$="fish" THEN PRINT "I like fish!" The goldfish: was the line label.
+Line numbers are a way to name certain portions of your program. These are essential for the computer to change positions in the program using `GOTO` or `GOSUB` statements.
 
-One more thing about word line labels: the line's name is not the word followed by a colon. It is just the word. This prevents QBASIC from thinking that a line number is actually a CALL statement. You don' need to know about these yet, just remember that the name of a line does not include the colon. It only needs it if it is the actual line number at the actual point in the program that is named by that line number. 
+What they are are numbers or words that are located at the beginning of a line or section of code. Numeric line numbers are sort of generic. They aren't customizable. Text line labels can be whatever you want, but they must be followed by a colon `(:)`. Line numbers were required in older version of BASIC on each line of code, but now they're optional. Put them in front important sections of code so that you can send the computer to read that part of the program. In a program, they look like this: 
+
+    126 PRINT "Hello, world!". 
+
+The 126 on that line was the line number. Here's another example. 
+
+    goldfish: IF g$="gold" AND s$="fish" THEN PRINT "I like fish!" 
+
+The `goldfish:` was the line label.
+
+One more thing about word line labels: the line's name is not the word followed by a colon. It is just the word. This prevents QBASIC from thinking that a line number is actually a `CALL` statement. You don' need to know about these yet, just remember that the name of a line does not include the colon. It only needs it if it is the actual line number at the actual point in the program that is named by that line number. 
 
 #### Recap:
 
-Line numbers can be words or numbers.
+* Line numbers can be words or numbers.
+* Word line numbers require a colon after them. The colon is not part of the name.
 
-Word line numbers require a colon after them. The colon is not part of the name.
+### `GOTO`:
 
-### GOTO:
-
-GOTO is a command that tells the computer to go to another place in the program, and continue executing the statements. GOTO tells the computer to find a line number or label, and start reading from there. It's pretty simple. All you have to do is type in GOTO and a line number or label, and the computer will resume the program there. It looks like this: GOTO funfunsillywilly . This tells the computer to find the line "funfunsillywilly", and continue reading from there.
+`GOTO` is a command that tells the computer to go to another place in the program, and continue executing the statements. `GOTO` tells the computer to find a line number or label, and start reading from there. It's pretty simple. All you have to do is type in `GOTO` and a line number or label, and the computer will resume the program there. It looks like this: `GOTO` funfunsillywilly . This tells the computer to find the line "funfunsillywilly", and continue reading from there.
 
 #### Recap:
 
-* GOTO tell the computer to find another line in the program, and continue reading from there.
+* `GOTO` tell the computer to find another line in the program, and continue reading from there.
 
 The Syntax is: `GOTO [line label or number]`
 
-### IF...THEN
+### `IF...THEN`
 
-`IF...THEN` asks computers yes or no questions only. You ask the computer if a variable is equal to what you asked about, it does what is after the THEN command. If the answer to the question is no, the computer ignores anything beyond the THEN command. The syntax for IF...THEN is IF [variable] [=, <, >, <>] [variable or expression] THEN [do whatever is beyond this point]. You can ask if an expression is equal to, less than, greater than, or not equal to.
+``IF...THEN`` asks computers yes or no questions only. You ask the computer if a variable is equal to what you asked about, it does what is after the THEN command. If the answer to the question is no, the computer ignores anything beyond the THEN command. The syntax for `IF...THEN` is IF [variable] [=, <, >, <>] [variable or expression] THEN [do whatever is beyond this point]. You can ask if an expression is equal to, less than, greater than, or not equal to.
 
-The first IF...THEN statement in the program was on the 11th line, which is IF g<>n THEN 300. It asks the computer if your guess, g is not equal to the number, n. If your number is not equal to the computer's number, the computer goes down to line 300. If they are equal, the computer continues reading on the next line, ignoring the THEN command.
+The first `IF...THEN` statement in the program was on the 11th line, which is 
 
-Pretty easy, right? Well, there are still a couple more things you should know about this command. You can use the AND, OR and the ELSE command. You can probably figure out how to use them - they're not hard. However, I'll show you how just because I'm nice.
+    IF g<>n THEN 300. 
 
-`AND` is a command that you put in the IF part of the command. You put this there to ask two questions, and if both are true (have yes for an answer), the command(s) after the THEN are executed. The commands after the THEN are only executed if both are true. Here's what it would look like: IF x=18 and m$="Hello, Dude!" THEN PRINT "Hello!".
+It asks the computer if your guess, `g` is not equal to the number, `n`. If your number is not equal to the computer's number, the computer goes down to line 300. If they are equal, the computer continues reading on the next line, ignoring the `THEN` command.
 
-`OR` works almost the same way as AND. It does what is after the THEN statement if any of the statements are true. It would look like this: IF a$="abcdefg" OR qwert=8 (88 + 9.2) OR B$="Up, up and away!" THEN PRINT "!Ay Carumba!".
+Pretty easy, right? Well, there are still a couple more things you should know about this command. You can use the `AND`, `OR` and the `ELSE` command. You can probably figure out how to use them - they're not hard. However, I'll show you how just because I'm nice.
 
-ELSE is a command that follows the THEN command. If the statement is false, the computer skips what is after the THEN command and does what is after the ELSE command. It looks like this: IF hi$="Here comes RICHARD SIMMONS!" THEN 100 ELSE 200.
+`AND` is a command that you put in the `IF` part of the command. You put this there to ask two questions, and if both are true (have yes for an answer), the command(s) after the `THEN` are executed. The commands after the `THEN` are only executed if both are true. Here's what it would look like: 
+
+    IF x=18 and m$="Hello, Dude!" THEN PRINT "Hello!".
+
+`OR` works almost the same way as `AND`. It does what is after the `THEN` statement if any of the statements are true. It would look like this: 
+
+    IF a$="abcdefg" OR qwert=8 (88 + 9.2) OR B$="Up, up and away!" THEN PRINT "!Ay Carumba!".
+
+`ELSE` is a command that follows the `THEN` command. If the statement is false, the computer skips what is after the `THEN` command and does what is after the `ELSE` command. It looks like this: 
+
+    IF hi$="Here comes RICHARD SIMMONS!" THEN 100 ELSE 200.
 
 When you ask questions about string (text) variables, you must write the expression that the variable will equal if the question is true in quotes.
-One more thing: after THEN and ELSE commands, if you want to use a GOTO command, just write the line number. The GOTO command is not required, so skip it :)
+One more thing: after `THEN` and `ELSE` commands, if you want to use a `GOTO` command, just write the line number.  The `GOTO` command is not required, so skip it `:)`
 
 #### Recap:
 
-`IF...THEN` asks only yes or no questions. It's either true or false.
+``IF...THEN`` asks only yes or no questions. It's either true or false.
 If the statement is true, the command(s) after the THEN are executed.
 If the statement is false, the command(s) after the THEN command are skipped.
 
-AND and OR can make IF...THEN commands more powerful by making the command ask more questions.
+`AND` and `OR` can make `IF...THEN` commands more powerful by making the command ask more questions.
 
-Answers to questions asked about string variables must be in quotes. (_")_
+Answers to questions asked about string variables must be in quotes. `(")`
 
-The ELSE command follows the THEN command, and is executed if the IF...THEN question is false.
+The `ELSE` command follows the `THEN` command, and is executed if the `IF...THEN` question is false.
 
-### FOR...NEXT
+### `FOR...NEXT`
 
-FOR...NEXT is your first loop. Loops are bits of a program that tell the computer to repeat itself - to do a section of a program over again. Loops were invented because programmers are extremely lazy, and instead of wasting time and space writing PRINT "hello!" ten times, they just write FOR t=1 TO 10 : PRINT "hello!" : NEXT t . I'll explain what the FOR...NEXT loop means (and does) now.
+`FOR...NEXT` is your first loop. Loops are bits of a program that tell the computer to repeat itself - to do a section of a program over again. Loops were invented because programmers are extremely lazy, and instead of wasting time and space writing `PRINT "hello!"` ten times, they just write 
 
-What FOR does is name a variable and set it equal to the number before the TO, and tell the computer to repeat the part of the program up to the NEXT that many times. Simple, right? Well, there's more. You can also set the STEP for a FOR...NEXT loop. The STEP is the number that the variable adds to itself everytime it goes by the FOR command. The STEP is not required, and is by default set at one. The NEXT command does not have to have a variable following it, but it's nice to have one there so that you know what FOR loop you're returning to. The computer figures that when it hits a NEXT, it should return to the most recent FOR.
+    FOR t=1 TO 10 : PRINT "hello!" : NEXT t
+
+I'll explain what the `FOR...NEXT` loop means (and does) now.
+
+What `FOR` does is name a variable and set it equal to the number before the `TO`, and tell the computer to repeat the part of the program up to the `NEXT` that many times. Simple, right? Well, there's more. You can also set the `STEP` for a `FOR...NEXT` loop. The `STEP` is the number that the variable adds to itself everytime it goes by the `FOR` command. The `STEP` is not required, and is by default set at one. The `NEXT` command does not have to have a variable following it, but it's nice to have one there so that you know what `FOR` loop you're returning to. The computer figures that when it hits a `NEXT`, it should return to the most recent `FOR`.
 
 #### Recap:
 
-* The FOR...NEXT loop repeats a part of a program a specified number of times.
-* The syntax of this loop is: FOR [numeric variable (name of a variable)] = [numeric value (the value of the numeric variable)] TO [numeric value (The number that the loop should end on.)] (STEP [number (the number to be added to the variable each time around]) NEXT can be left without a variable or with one.
-* Anything you want can be put in between FOR...NEXT loops, even other FOR...NEXT loops.
+* The `FOR...NEXT` loop repeats a part of a program a specified number of times.
+* The syntax of this loop is: 
+
+   FOR [numeric variable (name of a variable)] = [numeric value (the value of the numeric variable)] TO [numeric value (The number that the loop should end on.)] (STEP [number (the number to be added to the variable each time around]) NEXT can be left without a variable or with one.
+
+* Anything you want can be put in between `FOR...NEXT` loops, even other `FOR...NEXT` loops.
 * STEP is not required, and is automatically set at one if omitted.
 
-### END:
+### `END`:
 
-The END command tells the computer that the program is over, and it should stop reading lines. It's as simple as that. When the computer reads the end command, it stops reading lines, and PRINTs "Press any Key to Continue." It returns power to the system. The syntax for END is - you guessed it - END.
+The `END` command tells the computer that the program is over, and it should stop reading lines. It's as simple as that. When the computer reads the end command, it stops reading lines, and `PRINT`s `"Press any Key to Continue."` It returns power to the system. The syntax for `END` is - you guessed it - `END`.
 
-The END command is not required to end the program unless there is more of the program listed below where you want it to END. If the program runs out of lines to read, it assumes the program is over, and stops it. 
+The `END` command is not required to end the program unless there is more of the program listed below where you want it to `END`. If the program runs out of lines to read, it assumes the program is over, and stops it. 
 
 #### Recap:
 
-* The END statement tells the computer to stop reading and executing the program.
-* The END command's syntax is: END.
+* The `END` statement tells the computer to stop reading and executing the program.
+* The `END` command's syntax is: `END`.
 
-### RND:
+### `RND`:
 
-RND chooses a random number between zero and one. Not very impressive, eh? Well, it isn't, but if you multiply that really small number by a big one, it becomes a big, random number!
+`RND` chooses a random number between zero and one. Not very impressive, eh? Well, it isn't, but if you multiply that really small number by a big one, it becomes a big, random number!
 
-Notice the fifth line down in the program? It has the following code: N=INT(RND*19)+1 . You might understand it, but it might look Greek to you. I'll explain it step by step. First of all, this is a LET command, without the LET. (You know why LET is omitted.) This line makes the variable N a random integer between 1 and 20. Now the hard part - the math problem. Remember how computers solve math problems backwards with order of operations? Well, this problem is no different. The computer starts out with the RND command. The computer sees this and picks a random number between one and zero. Next, it multiplies the random number by 19. Now the parenthesis are gone. Next, the computer adds one to the number, so that the number is between one and twenty. You see, RND can choose a number so small that if you multiply it by twenty, still is less than one. So, to make the number that's less than one equal to it, you add one. However, then, if you multiplied the number by 20, the number would be between 1 and 21. Well, that's not right, so you have to multiply the RND by 19. Finally, the INT command rounds the number to the nearest whole number. It may be a complicated way to get a number, but you'll get used to it.
+Notice the fifth line down in the program? It has the following code: 
 
-There's one more problem with QBASIC and RND's, however. IT ALWAYS PICKS THE SAME ONES! They're not random, which is why you use RANDOMIZE TIMER in front of your RND statements if you want them to be truly random. Put a apostrophe in front of the RANDOMIZE TIMER line to REM it out, and then run the program. Play the game until you win once, and then exit.
+    N=INT(RND*19)+1
 
-I bet you that the answer was 15. I don't know why RND doesn't work right, but the RANDOMIZE TIMER statement fixes that problem. You don't need to know what it means - just remember to put it in front of your RND statements. When you're more advanced you can learn those commands, but don't worry about it now.
+You might understand it, but it might look Greek to you. I'll explain it step by step. First of all, this is a `LET` command, without the `LET`. (You know why `LET` is omitted.) This line makes the variable `N` a random integer between 1 and 20. Now the hard part - the math problem. Remember how computers solve math problems backwards with order of operations? Well, this problem is no different. The computer starts out with the `RND` command. The computer sees this and picks a random number between one and zero. Next, it multiplies the random number by 19. Now the parenthesis are gone. Next, the computer adds one to the number, so that the number is between one and twenty. 
+
+You see, `RND` can choose a number so small that if you multiply it by twenty, still is less than one. So, to make the number that's less than one equal to it, you add one. However, then, if you multiplied the number by 20, the number would be between 1 and 21. Well, that's not right, so you have to multiply the `RND` by 19. Finally, the `INT` command rounds the number to the nearest whole number. It may be a complicated way to get a number, but you'll get used to it.
+
+There's one more problem with QBASIC and `RND`'s, however. IT ALWAYS PICKS THE SAME ONES! They're not random, which is why you use `RANDOMIZE TIMER` in front of your `RND` statements if you want them to be truly random. Put a apostrophe in front of the `RANDOMIZE TIMER` line to `REM` it out, and then run the program. Play the game until you win once, and then exit.
+
+I bet you that the answer was 15. I don't know why `RND` doesn't work right, but the `RANDOMIZE TIMER` statement fixes that problem. You don't need to know what it means - just remember to put it in front of your `RND` statements. When you're more advanced you can learn those commands, but don't worry about it now.
+
 #### Recap:
 
-* The RND command picks a random number between zero and one.
-* Multiply RNDs to get larger random numbers.
-* Always put RANDOMIZE TIMER statements above RND statements.
+* The `RND` command picks a random number between zero and one.
+* Multiply `RND`s to get larger random numbers.
+* Always put `RANDOMIZE TIMER` statements above `RND` statements.
 
 ### Variable Types:
 
-There are two basic types of variables - numeric and string. String variables are ones that can hold all ASCII characters. They can not be used in math problems. When asking questions about them, or changing their content, the expressions must be in quotes. String variables are letters and numbers followed by a dollar sign. ($) String names must have a letter as the first character, but everything else is up to you.
+There are two basic types of variables - numeric and string. String variables are ones that can hold all ASCII characters. They can not be used in math problems. When asking questions about them, or changing their content, the expressions must be in quotes. String variables are letters and numbers followed by a dollar sign. `($)` String names must have a letter as the first character, but everything else is up to you.
 
 There are three types of numeric variables. The first type is called floating point. They are regular number variables. They can be any number, it doesn't matter. Variables with a percent sign on the end are integers. They automatically round themselves off to the nearest whole number. I have no idea what the ones with exclamation points are. As far as I can tell, they do the same thing as floating point variables. I've only seen them used once or twice.
 
@@ -206,10 +274,14 @@ There are three types of numeric variables. The first type is called floating po
 
 ## Formatting Text ##
 
-### COLOR (FAGGOT WAY)
+### `COLOR` (FAGGOT WAY)
 
-COLOR lets you change the color of text you put on the screen. It's very simple to understand. The syntax is: COLOR [foreground color] , [background color] , [border color] . Foreground is the color that the text is. Background is the color that the area around the letter is. Border color is supposed to set the border to the screen, but doesn't do anything that I can see! if you put COLOR in the program, it changes the color of all of the text printed until the next COLOR statement.
-For example, if you typed "COLOR 1, 4", it would PRINT blue text with a red background. If you typed "COLOR 2, 9", it would PRINT green text with a light green background. Understand? It's pretty easy. Now you need to know the basic fifteen color codes. Well, guess what? They're right here:
+`COLOR` lets you change the color of text you put on the screen. It's very simple to understand. 
+
+The syntax is: `COLOR [foreground color] , [background color] , [border color]`. 
+
+Foreground is the color that the text is. Background is the color that the area around the letter is. Border color is supposed to set the border to the screen, but doesn't do anything that I can see! if you put `COLOR` in the program, it changes the color of all of the text printed until the next `COLOR` statement.
+For example, if you typed `COLOR 1, 4`, it would `PRINT` blue text with a red background. If you typed `COLOR 2, 9`, it would `PRINT` green text with a light green background. Understand? It's pretty easy. Now you need to know the basic fifteen color codes. Well, guess what? They're right here:
 
     0 - Black
     1 - Blue
@@ -230,44 +302,57 @@ For example, if you typed "COLOR 1, 4", it would PRINT blue text with a red back
 
 After you use these colors for a while, you memorize them.
 
-### !! COLOR (BADASS WAY) !!
+### !! `COLOR` (BADASS WAY) !!
 
-you can have up to 250,000 colors if you only write "screen 12" at some of the first lines.
+you can have up to 250,000 colors if you only write `screen 12` at some of the first lines.
 
-the formula is C = R + (G * 256) + (B * 65536) as in C = color, R = red, G = green and B = blue.
+the formula is `C = R + (G * 256) + (B * 65536)` as in `C` = color, `R` = red, `G` = green and `B` = blue.
 
-then use "palette 1, C" to change the color 1 (see faggot way) to some new exciting shit BWAHAHAWDHA
-
-#### Recap:
-
-* COLOR changes the color of text that you PRINT on the screen.
-* The syntax is COLOR [foreground color] , [background color] Foreground is the actual text color and background is the background color. A comma must always separate the two numbers.
-* COLOR changes the text color until the end of the program or until the next COLOR statement.
-
-### LEFT$
-
-LEFT$ is the first of the three string splitter-uppers. It takes a string expression and breaks it into seperate parts. The syntax is LEFT$ (stringexpression$, number of characters) . Stringexpression$ is the string variable or the text that you want part of. The number of characters is the number of characters you want left of the first character in the expression returned. It takes the characters starting with the furthest left character and going right the number of characters specified and returning them. LEFT$ can be used in PRINT statements and in LET statements.
-Here's what it looks like: PRINT LEFT$ ("Take a bite out of crime", 9) This writes the first nine characters from the first character, which is "Take a bi". That's what's written on the screen. LEFT$ can also look like this: "MA$ = LEFT$ (dod$, 5)". This makes the variable MA$ equal to the first five characters of the variable dod$. That's the LEFT$ command.
+then use `palette 1, C` to change the color 1 (see faggot way) to some new exciting shit BWAHAHAWDHA
 
 #### Recap:
 
-* LEFT$ splits up strings from the leftmost character on.
-* The syntax is LEFT$ is LEFT$ (stringexpression, number of characters) stringexpression is either a string variable or an expression in quotes. Number of characters is the number of characters you want the computer to read from the left of the expression.
-* This comand can be used with PRINT statements or LET statements.
+* `COLOR` changes the color of text that you `PRINT` on the screen.
+* The syntax is `COLOR [foreground color] , [background color] Foreground is the actual text color and background is the background color. A comma must always separate the two numbers.
+* `COLOR` changes the text color until the end of the program or until the next COLOR statement.
 
-### RIGHT$
+### `LEFT$`
 
-We won't go into this one as much as we did with the LEFT$ command. It's basically the same thing, just backwards. It's syntax is RIGHT$ (stringexpression, number of characters) . Stringexpression is a string or expression and number of characters is the number of characters you want the computer to read and return.
+`LEFT$` is the first of the three string splitter-uppers. It takes a string expression and breaks it into seperate parts. The syntax is `LEFT$ (stringexpression$, number of characters)`. `Stringexpression$` is the string variable or the text that you want part of. The number of characters is the number of characters you want left of the first character in the expression returned. It takes the characters starting with the furthest left character and going right the number of characters specified and returning them. `LEFT$` can be used in `PRINT` statements and in `LET` statements.
 
-It looks like this: PRINT RIGHT$ ("Oh my God! They killed Kenny!", 13) "killed Kenny is PRINTed. 
+Here's what it looks like: 
+
+    PRINT LEFT$ ("Take a bite out of crime", 9)
+
+This writes the first nine characters from the first character, which is `Take a bi`. That's what's written on the screen. `LEFT$` can also look like this: 
+
+    MA$ = LEFT$ (dod$, 5)
+
+This makes the variable `MA$` equal to the first five characters of the variable `dod$`. That's the `LEFT$` command.
 
 #### Recap:
 
-RIGHT$ Splits up words from the rightmost character on.
-This is exactly the same as LEFT$, it just starts from the right side.
-This works with the PRINT and LET statements.
+* `LEFT$` splits up strings from the leftmost character on.
+* The syntax is `LEFT$` is `LEFT$ (stringexpression, number of characters)` stringexpression is either a string variable or an expression in quotes. Number of characters is the number of characters you want the computer to read from the left of the expression.
+* This comand can be used with `PRINT` statements or `LET` statements.
 
-### MID$
+### `RIGHT$`
+
+We won't go into this one as much as we did with the `LEFT$` command. It's basically the same thing, just backwards. It's syntax is `RIGHT$ (stringexpression, number of characters)`. `Stringexpression` is a string or expression and number of characters is the number of characters you want the computer to read and return.
+
+It looks like this: 
+
+    PRINT RIGHT$ ("Oh my God! They killed Kenny!", 13)
+
+`killed Kenny` is `PRINT`ed. 
+
+#### Recap:
+
+* `RIGHT$` Splits up words from the rightmost character on.
+* This is exactly the same as `LEFT$`, it just starts from the right side.
+* This works with the `PRINT` and `LET` statements.
+
+### `MID$`
 
 MID$ reads string variables. starting midway through a string or expression, and continues until a specified point to stop. This is a lot like LEFT$ and RIGHT$, but a little more complicated. The syntax is: MID$ (stringexpression$, start%, length%) . Stringexpression$ is either a string variable or an expression in quotes. Start% is the charachter number that the computer should begin reading on. Length% is the amount of charachters you want the computer to read (going from left to right). MID$ can be used with PRINT or LET statements.
 
@@ -328,7 +413,7 @@ The syntax is: PRINT TAB(number%); [stringexpression]
 
 ### INKEY$
 
-INKEY$ is an extremely useful command. Basically what it does is check the keyboard to see if you are pressing a key, and if so what is it? It's pretty simple, but easy. INKEY$'s syntax is INKEY$. What you do with it is treat it like a string variable. You can use it in IF...THEN statements, LET statements, PRINT statements - anything you could normally use with a string variable or text in quotations.
+INKEY$ is an extremely useful command. Basically what it does is check the keyboard to see if you are pressing a key, and if so what is it? It's pretty simple, but easy. INKEY$'s syntax is INKEY$. What you do with it is treat it like a string variable. You can use it in `IF...THEN` statements, LET statements, PRINT statements - anything you could normally use with a string variable or text in quotations.
 
 Here is what INKEY$ would look like in a program: "IF INKEY$="a" THEN GOTO 100" That line of code will check to see if the key that is being pressed is "a", and if it is, goes to line #100. Simple as that. You could also use it like this: "a$ = "INKEY$" or "PRINT INKEY$". Just think of it as a string variable, and it will be easy to understand.
 
@@ -349,7 +434,7 @@ Extended keys use "codes" instead of the exact letter or number.
 
 INPUT$ is basically a cross between INKEY$ and INPUT. It is used to take a certain number of keypresses from the keyboard without displaying them on the screen. It is also used to read from OPENed data files, but you won't be getting in to that for a while.
 
-The syntax for INPUT$ is "INPUT$ (Number of expressions you want read)". Simple as that. This command must be used with a "helping" command that is normally used with a string variable. (Commands like "LET", "PRINT", "IF...THEN", etc.) Use it just like INKEY$, just realize that it will store or read more than one character.
+The syntax for INPUT$ is "INPUT$ (Number of expressions you want read)". Simple as that. This command must be used with a "helping" command that is normally used with a string variable. (Commands like `LET`, `PRINT`, `IF...THEN`, etc.) Use it just like INKEY$, just realize that it will store or read more than one character.
 
 #### RECAP:
 
@@ -358,7 +443,7 @@ The syntax for INPUT$ is: INPUT$. It must be used with a "helping" command.
 
 ### DO...LOOP
 
-DO...LOOP is, as far as I'm concerned, the most useful loop. It is very useful for main loops of games, and can even do the same functions as IF...THEN if you put an adding statement in the middle. Okay, enough talk. DO...LOOP is a command that DOes something forever, or until you tell it to stop. In older versions of BASIC, this was a major problem, because if you ran your program, and did not provide an "exit" from the loop, it would continue forever. The programmer would have to turn off their computer and would lose all of the programming they had done from the last time they saved. Now, though, you can just use CTRL + Break
+DO...LOOP is, as far as I'm concerned, the most useful loop. It is very useful for main loops of games, and can even do the same functions as `IF...THEN` if you put an adding statement in the middle. Okay, enough talk. DO...LOOP is a command that DOes something forever, or until you tell it to stop. In older versions of BASIC, this was a major problem, because if you ran your program, and did not provide an "exit" from the loop, it would continue forever. The programmer would have to turn off their computer and would lose all of the programming they had done from the last time they saved. Now, though, you can just use CTRL + Break
 Here's how to use DO...LOOP: "DO : 'execute commands here : LOOP" simple as that. This code doesn't do anything because in between the DO and LOOP I don't have any commands except for a REM command. If there was other code in between, say, "PRINT "hello!", "hello" would be PRINTed over and over again - forever or until you press CTRL + Break or turn off your computer.
 
 DO...LOOP already is pretty useful, but back when Microsoft developed QBASIC, they decided to make a couple more functions you could use to end the LOOP, thus making programming easier. These commands are, among others UNTIL and WHILE. UNTIL keeps on going through the LOOP UNTIL some variable equals something. It looks like this: "DO : x=x+1 : LOOP UNTIL x=1783" This simple program LOOPs around until x=1783, adding one to itself every time it goes through. UNTIL can be used with both DO and LOOP in the same manner. WHILE works pretty much the same. WHILE makes the LOOP continue until the variable after it does not equal itself. This command usually is used with greater than or less than signs, but can be used with an equal sign. It looks like this: "x=400 : DO WHILE x > 10: x=x-1 : LOOP" This program makes x=400, then subtracts one from it every single time it LOOPs until x=10. Once again, this command can be used with the DO or the LOOP.
@@ -506,7 +591,7 @@ Ever notice how variables that are used in the main program are reset when they 
 
 ### EXIT SUB
 
-EXIT SUB is a command to end the subroutine in the middle of it and return to the place where the sub was called from. It performs the same funtion as END SUB, but it does it in the middle of a sub, as END SUB must be the last command in a subroutine. The syntax for EXIT SUB is EXIT SUB. Nothing special about it. You would probably use this with IF...THEN statements if certain variables are equal.
+EXIT SUB is a command to end the subroutine in the middle of it and return to the place where the sub was called from. It performs the same funtion as END SUB, but it does it in the middle of a sub, as END SUB must be the last command in a subroutine. The syntax for EXIT SUB is EXIT SUB. Nothing special about it. You would probably use this with `IF...THEN` statements if certain variables are equal.
 
 #### RECAP:
 
@@ -517,7 +602,7 @@ The syntax for EXIT SUB is EXIT SUB.
 ## Algorithms
 
 Algorithms are plans for a program that you should make before you begin coding it. Somtimes you would write this out, sometimes you would just visualize it in your head, but anyway, this is how you think up how a program works, and how to code it.
-Algorithms are made up of many simple steps (commands) and go in an order. They ask yes or no questions (IF...THEN) to decide what to do next. Here is the algorithm for a simple shooting game:
+Algorithms are made up of many simple steps (commands) and go in an order. They ask yes or no questions (`IF...THEN`) to decide what to do next. Here is the algorithm for a simple shooting game:
 
 1. Move target a little bit.
 2. Get input from player.
