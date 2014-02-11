@@ -354,157 +354,222 @@ It looks like this:
 
 ### `MID$`
 
-MID$ reads string variables. starting midway through a string or expression, and continues until a specified point to stop. This is a lot like LEFT$ and RIGHT$, but a little more complicated. The syntax is: MID$ (stringexpression$, start%, length%) . Stringexpression$ is either a string variable or an expression in quotes. Start% is the charachter number that the computer should begin reading on. Length% is the amount of charachters you want the computer to read (going from left to right). MID$ can be used with PRINT or LET statements.
+`MID$` reads string variables. starting midway through a string or expression, and continues until a specified point to stop. This is a lot like LEFT$ and RIGHT$, but a little more complicated. 
 
-It would look something like this: PRINT MID$ ("Green Grow The Rushes Ho!", 7, 8). That line would PRINT "Grow The". It started reading on the seventh character, the G on Grow and continued reading until the e on The, which was eight characters away. This line: A$=MID$ ("Huzzah!", 3, 2) would store "zz" in A$.
+The syntax is: `MID$ (stringexpression$, start%, length%)` . 
+
+`Stringexpression$` is either a string variable or an expression in quotes. `Start%` is the charachter number that the computer should begin reading on. `Length%` is the amount of characters you want the computer to read (going from left to right). `MID$` can be used with `PRINT` or `LET` statements.
+
+It would look something like this: `PRINT MID$ ("Green Grow The Rushes Ho!", 7, 8)`. That line would `PRINT "Grow The"`. It started reading on the seventh character, the `G` on Grow and continued reading until the `e` on The, which was eight characters away. 
+
+This line: 
+
+    A$=MID$ ("Huzzah!", 3, 2)
+
+would store `"zz"` in `A$`.
 
 #### Recap:
 
-MID$ reads part of a variable and writes it to a variable or displays.
-The syntax is: MID$ (stringexpression$, start%, lenght%). Stringexpression$ stands for a string variable or an expression in quotes. Start% is the character number that you tell the computer to start reading on. Length% is the amount of characters you want the computer to read for.
-MID$ can be used with LET or PRINT statements.
+* `MID$` reads part of a variable and writes it to a variable or displays.
+* The syntax is: `MID$ (stringexpression$, start%, length%)`. 
+* Stringexpression$ stands for a string variable or an expression in quotes. 
+* `Start%` is the character number that you tell the computer to start reading on. 
+* `Length%` is the amount of characters you want the computer to read for.
+& `MID$` can be used with `LET` or `PRINT` statements.
 
-### LOCATE
+### `LOCATE`
 
-LOCATE lets you put text at a certain place on the screen. Imagine the screen as a grid with a whole bunch of places that you can put letters. When you use a PRINT statement to write text on the screen, it, by default, starts on the first open space on the screen - usually the top left corner. You can't decide exactly what place on that grid to put your character without a whole bunch of PRINT statements and spaces - unless you use the LOCATE command. The syntax is: LOCATE [row%] , [column%] , [cursor%] , [start%] , [stop%] . The most important parts are row% and column%. They tell the computer what space on the imaginary grid to start putting the text at. Cursor% tells the computer if you want the cursor shown after the text you PRINT. If you put a one there, it is shown, and a zero makes it not-shown.
-LOCATE looks like this while in a program: LOCATE 10, 12 . It doesn't do anything unless followed by a PRINT statement. If that LOCATE statement was put in front of a PRINT statement, the next thing PRINTed would be LOCATEd at that place on the screen. If this line: LOCATE 18, 24 : PRINT "I want Pringles!" was in a program, the computer would go to the eighteenth row down, and then go to the twenty - fourth space over and PRINT I want Pringles! Don't worry about the other three attributes - I've only needed to use one of them in one of my program once. NOTE: There are different numbers of rows and columns depending on the screen mode. You'll learn about screens in tutorial five.
+`LOCATE` lets you put text at a certain place on the screen. Imagine the screen as a grid with a whole bunch of places that you can put letters. When you use a `PRINT` statement to write text on the screen, it, by default, starts on the first open space on the screen - usually the top left corner. You can't decide exactly what place on that grid to put your character without a whole bunch of `PRINT` statements and spaces - unless you use the `LOCATE` command. 
+
+The syntax is: `LOCATE [row%] , [column%] , [cursor%] , [start%] , [stop%]`. The most important parts are `row%` and `column%`. They tell the computer what space on the imaginary grid to start putting the text at. `Cursor%` tells the computer if you want the cursor shown after the text you `PRINT`. If you put a one there, it is shown, and a zero makes it not-shown.
+
+`LOCATE` looks like this while in a program: `LOCATE 10, 12`. It doesn't do anything unless followed by a `PRINT` statement. If that `LOCATE` statement was put in front of a `PRINT` statement, the next thing `PRINT`ed would be `LOCATE`d at that place on the screen. If this line: 
+
+   LOCATE 18, 24 : PRINT "I want Pringles!" 
+
+was in a program, the computer would go to the eighteenth row down, and then go to the twenty - fourth space over and `PRINT "I want Pringles!"` Don't worry about the other three attributes - I've only needed to use one of them in one of my program once. 
+
+> **NOTE:** _There are different numbers of rows and columns depending on the screen mode. You'll learn about screens in tutorial five._
 
 #### Recap:
 
-* LOCATE PRINTs text on the screen at a certain point on an imaginary grid.
-* The syntax is: LOCATE row%, column%. There are other attributes - you [probably] won't need them.
-* The next PRINT command after the LOCATE command is PRINTed at the specified location.
+* `LOCATE` PRINTs text on the screen at a certain point on an imaginary grid.
+* The syntax is: `LOCATE row%, column%`. There are other attributes - you [probably] won't need them.
+* The next `PRINT` command after the `LOCATE` command is `PRINT`ed at the specified location.
 * The number of rows and columns varies with screen mode.
 
-### UCASE$
+### `UCASE$`
 
-UCASE$ makes any string or expression have only capital letters. This takes any lower case letter (askii characters 97 to 122) equal to their capital form (askii character 65 to 90). This is very useful for reading input which may be inputted in capitals, lowercase, or mixed. LCASE$ is almost the same, it just does the opposite.
+`UCASE$` makes any string or expression have only capital letters. This takes any lower case letter (ASCII characters 97 to 122) equal to their capital form (ASCII character 65 to 90). This is very useful for reading input which may be inputted in capitals, lowercase, or mixed. `LCASE$` is almost the same, it just does the opposite.
 
-The syntax for UCASE$ is: UCASE$ (stringexpression). Pretty simple, right. UCASE$ ("Happy Happy Joy Joy!"). Would return "HAPPY HAPPY JOY JOY!". UCASE$, like LEFT$, MID$ and RIGHT$ must be used with a PRINT or LET statement.
+The syntax for `UCASE$` is: `UCASE$ (stringexpression)`. 
 
-#### Recap:
-
-UCASE$ makes any string variable or expression completely capital.
-The syntax is: UCASE$ (stringexpression) Variableexpression must be in parenthesis and must be a string variable or a text expression.
-
-### LCASE$
-
-LCASE$ is exactly the same as UCASE$, just changes the letters to lowercase instead of uppercase. This takes any uppercase letter (askii character 65 to 90) equal to their lowercase form (askii characters 97 to 122). This is very useful for reading input which may be inputted in capitals, lowercase, or mixed.
-
-The syntax for LCASE$ is: LCASE$ (stringexpression). Pretty simple, right? LCASE$ ("Happy Happy Joy Joy!"). Would return "happy happy joy joy!". LCASE$, like LEFT$, MID$ and RIGHT$ must be used with a PRINT or LET statement. 
+Pretty simple, right. `UCASE$ ("Happy Happy Joy Joy!")`. Would return `"HAPPY HAPPY JOY JOY!"`. `UCASE$`, like `LEFT$`, `MID$` and `RIGHT$` must be used with a `PRINT` or `LET` statement.
 
 #### Recap:
 
-* LCASE$ makes any string variable or expression completely lowercase.
-* The syntax is: LCASE$ (stringexpression) Variableexpression must be in parenthesis and must be a string variable or a text expression.
+`UCASE$` makes any string variable or expression completely capital.
+The syntax is: `UCASE$ (stringexpression) Variableexpression` must be in parenthesis and must be a string variable or a text expression.
 
-### TAB
+### `LCASE$`
 
-TAB is a command meant to be used with the PRINT command. It is a primitive form of LOCATE. It moves the starting PRINTing point over a few spaces (columns). It is put between PRINT and the expression you want PRINTed.
+`LCASE$` is exactly the same as `UCASE$`, just changes the letters to lowercase instead of uppercase. This takes any uppercase letter (ascii character 65 to 90) equal to their lowercase form (ascii characters 97 to 122). This is very useful for reading input which may be inputted in capitals, lowercase, or mixed.
 
-It looks like this: PRINT TAB(25); "Rugga-Rugga!". This PRINTs Rugga-Rugga! twenty five spaces to the right. It's very easy to understand. Just change the expression and the number of spaces in that statement and you're set!
+The syntax for `LCASE$` is: `LCASE$ (stringexpression)`. Pretty simple, right? `LCASE$ ("Happy Happy Joy Joy!")`. Would return `"happy happy joy joy!"`. `LCASE$`, like `LEFT$`, `MID$` and `RIGHT$` must be used with a `PRINT` or `LET` statement. 
 
 #### Recap:
 
-TAB is used with the PRINT statement to PRINT text a specified number of columns to the right.
-The syntax is: PRINT TAB(number%); [stringexpression]
+* `LCASE$` makes any string variable or expression completely lowercase.
+* The syntax is: `LCASE$ (stringexpression) Variableexpression` must be in parenthesis and must be a string variable or a text expression.
+
+### `TAB`
+
+`TAB` is a command meant to be used with the `PRINT` command. It is a primitive form of `LOCATE`. It moves the starting `PRINT`ing point over a few spaces (columns). It is put between `PRINT` and the expression you want `PRINT`ed.
+
+It looks like this: 
+
+PRINT TAB(25); "Rugga-Rugga!"
+
+This PRINTs `Rugga-Rugga!` twenty five spaces to the right. It's very easy to understand. Just change the expression and the number of spaces in that statement and you're set!
+
+#### Recap:
+
+`TAB` is used with the `PRINT` statement to `PRINT` text a specified number of columns to the right.
+The syntax is: `PRINT TAB(number%); [stringexpression]`
 
 ## Advanced Commands ##
 
-### INKEY$
+### `INKEY$`
 
-INKEY$ is an extremely useful command. Basically what it does is check the keyboard to see if you are pressing a key, and if so what is it? It's pretty simple, but easy. INKEY$'s syntax is INKEY$. What you do with it is treat it like a string variable. You can use it in `IF...THEN` statements, LET statements, PRINT statements - anything you could normally use with a string variable or text in quotations.
+`INKEY$` is an extremely useful command. Basically what it does is check the keyboard to see if you are pressing a key, and if so what is it? It's pretty simple, but easy. `INKEY$`'s syntax is `INKEY$`. What you do with it is treat it like a string variable. You can use it in `IF...THEN` statements, `LET` statements, `PRINT` statements - anything you could normally use with a string variable or text in quotations.
 
-Here is what INKEY$ would look like in a program: "IF INKEY$="a" THEN GOTO 100" That line of code will check to see if the key that is being pressed is "a", and if it is, goes to line #100. Simple as that. You could also use it like this: "a$ = "INKEY$" or "PRINT INKEY$". Just think of it as a string variable, and it will be easy to understand.
+Here is what `INKEY$` would look like in a program: 
 
-There is another trick to INKEY$. If you are checking for a standard key (a letter or number), it will be read as a one byte letter. That's simple. For extended keys (arrow keys, function keys, escape, enter, etc.) a "null" character and an ascii scan code. What that means is that if you want to check and see if the up arrow is being pressed, the code would look like: IF key$=CHR$(0) + "H". (For some more of these "codes", check my tutorials section. There is a tutorial that has all of the keyboard scancodes.) You don't know the CHR$ command, but it is the fourth heading down from here, so go head and read it if you want to know it ahead of time.
+    IF INKEY$="a" THEN GOTO 100 
+
+That line of code will check to see if the key that is being pressed is `"a"`, and if it is, goes to line #100. Simple as that. You could also use it like this: 
+
+    a$ = "INKEY$ 
+
+or 
+
+    PRINT INKEY$
+
+Just think of it as a string variable, and it will be easy to understand.
+
+There is another trick to `INKEY$`. If you are checking for a standard key (a letter or number), it will be read as a one byte letter. That's simple. For extended keys (arrow keys, function keys, escape, enter, etc.) a "null" character and an ascii scan code. What that means is that if you want to check and see if the up arrow is being pressed, the code would look like: 
+
+    IF key$=CHR$(0) + "H". 
+
+(For some more of these "codes", check my tutorials section. There is a tutorial that has all of the keyboard scancodes.) You don't know the `CHR$` command, but it is the fourth heading down from here, so go head and read it if you want to know it ahead of time.
 
 One more thing: If you check what key is being pressed, there is a very good chance that the user is not pressing that key at that specific nano second. What are you going to do? Well, the most logical answer is to check and see if the user presses it the next nano second. If they aren't pressing a key, you should check it again. Over and over until something is being pressed. If something is being pressed,. go off into a branch of your program depending on what is being pressed.
 
-#### RECAP:
+#### `RECAP:`
 
-INKEY$ checks to see what key is being pressed at the exact time that the command is being executed.
+`INKEY$` checks to see what key is being pressed at the exact time that the command is being executed.
 
-It is a good idea to check what key is being pressed with INKEY$ many times in a row because there is a big chance that the user will not be pressing that key at that time.
+It is a good idea to check what key is being pressed with `INKEY$` many times in a row because there is a big chance that the user will not be pressing that key at that time.
 
-The syntax for INKEY$ is INKEY$, but it is used as a string variable. This command can't be used without a "helping" command.
+The syntax for `INKEY$` is `INKEY$`, but it is used as a string variable. This command can't be used without a "helping" command.
 Extended keys use "codes" instead of the exact letter or number.
 
-### INPUT$
+### `INPUT$`
 
-INPUT$ is basically a cross between INKEY$ and INPUT. It is used to take a certain number of keypresses from the keyboard without displaying them on the screen. It is also used to read from OPENed data files, but you won't be getting in to that for a while.
+`INPUT$` is basically a cross between `INKEY$` and `INPUT`. It is used to take a certain number of keypresses from the keyboard without displaying them on the screen. It is also used to read from `OPEN`ed data files, but you won't be getting in to that for a while.
 
-The syntax for INPUT$ is "INPUT$ (Number of expressions you want read)". Simple as that. This command must be used with a "helping" command that is normally used with a string variable. (Commands like `LET`, `PRINT`, `IF...THEN`, etc.) Use it just like INKEY$, just realize that it will store or read more than one character.
+The syntax for `INPUT$` is `INPUT$ (Number of expressions you want read)`. Simple as that. 
 
-#### RECAP:
-
-INPUT$ reads or stores (depending on the command it's used with) a specified number of characters.
-The syntax for INPUT$ is: INPUT$. It must be used with a "helping" command.
-
-### DO...LOOP
-
-DO...LOOP is, as far as I'm concerned, the most useful loop. It is very useful for main loops of games, and can even do the same functions as `IF...THEN` if you put an adding statement in the middle. Okay, enough talk. DO...LOOP is a command that DOes something forever, or until you tell it to stop. In older versions of BASIC, this was a major problem, because if you ran your program, and did not provide an "exit" from the loop, it would continue forever. The programmer would have to turn off their computer and would lose all of the programming they had done from the last time they saved. Now, though, you can just use CTRL + Break
-Here's how to use DO...LOOP: "DO : 'execute commands here : LOOP" simple as that. This code doesn't do anything because in between the DO and LOOP I don't have any commands except for a REM command. If there was other code in between, say, "PRINT "hello!", "hello" would be PRINTed over and over again - forever or until you press CTRL + Break or turn off your computer.
-
-DO...LOOP already is pretty useful, but back when Microsoft developed QBASIC, they decided to make a couple more functions you could use to end the LOOP, thus making programming easier. These commands are, among others UNTIL and WHILE. UNTIL keeps on going through the LOOP UNTIL some variable equals something. It looks like this: "DO : x=x+1 : LOOP UNTIL x=1783" This simple program LOOPs around until x=1783, adding one to itself every time it goes through. UNTIL can be used with both DO and LOOP in the same manner. WHILE works pretty much the same. WHILE makes the LOOP continue until the variable after it does not equal itself. This command usually is used with greater than or less than signs, but can be used with an equal sign. It looks like this: "x=400 : DO WHILE x > 10: x=x-1 : LOOP" This program makes x=400, then subtracts one from it every single time it LOOPs until x=10. Once again, this command can be used with the DO or the LOOP.
+This command must be used with a "helping" command that is normally used with a string variable. (Commands like `LET`, `PRINT`, `IF...THEN`, etc.) Use it just like `INKEY$`, just realize that it will store or read more than one character.
 
 #### RECAP:
 
-* DO...LOOP is a loop that continues forever until it is stopped. 
+* `INPUT$` reads or stores (depending on the command it's used with) a specified number of characters.
+* The syntax for `INPUT$` is: `INPUT$`. It must be used with a "helping" command.
+
+### `DO...LOOP`
+
+`DO...LOOP` is, as far as I'm concerned, the most useful loop. It is very useful for main loops of games, and can even do the same functions as `IF...THEN` if you put an adding statement in the middle. Okay, enough talk. `DO...LOOP` is a command that `DO`es something forever, or until you tell it to stop. In older versions of BASIC, this was a major problem, because if you ran your program, and did not provide an `exit` from the loop, it would continue forever. The programmer would have to turn off their computer and would lose all of the programming they had done from the last time they saved. Now, though, you can just use `CTRL + Break`
+
+Here's how to use `DO...LOOP`: 
+
+    DO : 'execute commands here : LOOP
+
+simple as that. This code doesn't do anything because in between the `DO` and `LOOP` I don't have any commands except for a `REM` command. If there was other code in between, say, `PRINT "hello!"`, `hello` would be `PRINT`ed over and over again - forever or until you press `CTRL + Break` or turn off your computer.
+
+`DO...LOOP` already is pretty useful, but back when Microsoft developed QBASIC, they decided to make a couple more functions you could use to end the `LOOP`, thus making programming easier. 
+
+These commands are, among others `UNTIL` and `WHILE`. `UNTIL` keeps on going through the LOOP `UNTIL` some variable equals something. It looks like this: 
+
+    DO : x=x+1 : LOOP UNTIL x=1783
+
+This simple program `LOOP`s around until `x=1783`, adding one to itself every time it goes through. `UNTIL` can be used with both `DO` and `LOOP` in the same manner. WHILE works pretty much the same. `WHILE` makes the `LOOP` continue until the variable after it does not equal itself. This command usually is used with greater than or less than signs, but can be used with an equal sign. It looks like this: `x=400 : DO WHILE x > 10: x=x-1 : LOOP` 
+
+This program makes `x=400`, then subtracts one from it every single time it `LOOP`s until `x=10`. Once again, this command can be used with the `DO` or the `LOOP`.
+
+#### RECAP:
+
+* `DO...LOOP` is a loop that continues forever until it is stopped. 
 Any commands can be put between the DO and the LOOP that you want done over again later.
-* WHILE and UNTIL can be used with either the DO or the LOOP to stop the loop if somthing equals the expression or variable following the WHILE or UNTIL.
-* WHILE checks if something is equal or not equal to something WHILE the loop is running.
-* UNTIL makes the LOOP continue UNTIL a variable equals the variable or expression following the UNTIL command.
+* `WHILE` and `UNTIL` can be used with either the `DO` or the `LOOP` to stop the loop if somthing equals the expression or variable following the `WHILE` or `UNTIL`.
+* `WHILE` checks if something is equal or not equal to something `WHILE` the loop is running.
+* `UNTIL` makes the `LOOP` continue `UNTIL` a variable equals the variable or expression following the `UNTIL` command.
 * This is useful for main loops of programs.
 
-### CHR$
+### `CHR$`
 
-CHR$ is a command that converts ascii code numbers into ascii characters. It takes a character (a letter or a number) and converts it to an ascii number code. It can be used with any command that can be used with any command that supports string variables. The syntax is: CHR$, but always needs a "helping" command to be used. Here is what it looks like: "PRINT CHR$(150)" will PRINT the ascii character corresponding with 150, which is "û".
+`CHR$` is a command that converts ascii code numbers into ascii characters. It takes a character (a letter or a number) and converts it to an ascii number code. It can be used with any command that can be used with any command that supports string variables. The syntax is: `CHR$`, but always needs a "helping" command to be used. Here is what it looks like: 
 
-#### RECAP:
+    PRINT CHR$(150)
 
-* CHR$ converts numbers into ascii characters.
-* The syntax is CHR$, but must be used with a "helping" command that is normally used with a string variable or expression.
-
-### ASC
-
-ASC is a command that ascii characters numbers into ascii number codes. It takes an ascii number code and converts it to a character (a letter or a number). It can be used with any command that can be used with any command that supports number variables. The syntax is: ASC, but always needs a "helping" command to be used. Here is what it looks like: "PRINT ASC(û)" will PRINT the ascii number corresponding with û, which is 150.
+will `PRINT` the ascii character corresponding with 150, which is `û`.
 
 #### RECAP:
 
-* ASC converts ASCII Characters into Ascii number codes.
-* The syntax is ASC, but must be used with a "helping" command that is normally used with a number or a number variable.
+* `CHR$` converts numbers into ascii characters.
+* The syntax is `CHR$`, but must be used with a "helping" command that is normally used with a string variable or expression.
 
-### SLEEP
+### `ASC`
 
-SLEEP is a command that makes the computer sleep for a certain amount seconds or until a key is pressed. It is universal, so SLEEP will cause the same delay on all computers - 286 to P800. Here's how it works: "SLEEP 5". This line of code will make the computer delay for exactly five seconds, then resume the program with the lines of code after it. It's very simple. There are some problems with SLEEP, though. If the computer is "SLEEPing", and you press a key, it skips from wherever it is in the current second to the beginning of the next one. Also, you can't use decimals with SLEEP - only whole numbers.
+`ASC` is a command that ascii characters numbers into ascii number codes. It takes an ascii number code and converts it to a character (a letter or a number). It can be used with any command that can be used with any command that supports number variables. The syntax is: `ASC`, but always needs a "helping" command to be used. Here is what it looks like: 
 
-SLEEP has one more function. If you type in just "SLEEP", the computer will stop and wait for a key to be pressed.
+    PRINT ASC(û)
+
+will `PRINT` the ascii number corresponding with `û`, which is 150.
 
 #### RECAP:
 
-SLEEP makes the computer stall for a specified number of seconds or waits for a key to be pressed.
+* `ASC` converts ASCII Characters into Ascii number codes.
+* The syntax is `ASC`, but must be used with a "helping" command that is normally used with a number or a number variable.
 
-The syntax of SLEEP is: SLEEP [number of seconds to stall] . If no number of seconds is given, the computer waits for a key press.
+### `SLEEP`
 
-SLEEP can not support decimals and if the computer is stalling for a specified number of seconds, and a key is pressed during a second, it goes to the beginning of the next second. 
+`SLEEP` is a command that makes the computer sleep for a certain amount seconds or until a key is pressed. It is universal, so `SLEEP` will cause the same delay on all computers - 286 to P800. Here's how it works: `SLEEP 5`. This line of code will make the computer delay for exactly five seconds, then resume the program with the lines of code after it. It's very simple. There are some problems with `SLEEP`, though. If the computer is "`SLEEP`ing", and you press a key, it skips from wherever it is in the current second to the beginning of the next one. Also, you can't use decimals with `SLEEP` - only whole numbers.
+
+`SLEEP` has one more function. If you type in just `SLEEP`, the computer will stop and wait for a key to be pressed.
+
+#### RECAP:
+
+* `SLEEP` makes the computer stall for a specified number of seconds or waits for a key to be pressed.
+* The syntax of `SLEEP` is: `SLEEP [number of seconds to stall]` . If no number of seconds is given, the computer waits for a key press.
+* `SLEEP` can not support decimals and if the computer is stalling for a specified number of seconds, and a key is pressed during a second, it goes to the beginning of the next second. 
 
 ### Sub Routines
 
-Sub Routines are small programs that are in a bigger program. They can be CALLed upon to perform a specific task any time during the course of a program. They are very useful in big programs that perform multiple functions, or games.
+Sub Routines are small programs that are in a bigger program. They can be `CALL`ed upon to perform a specific task any time during the course of a program. They are very useful in big programs that perform multiple functions, or games.
 
 Here's an easier way to think of a sub routine. Think of the main program as your brain and involuntary organs (heary, lubgs, etc.). Your arms, hands, legs and feet are subroutines to the main program. Say that you wanted to walk across the room, pick up a baseball and throw it out the window. Now it would be very hard for you to go across the room and throw the ball without using your arms or legs - your subroutines. Now, you could do it using your main program, but it would be way too hard for you to go across the room, pick up the ball and get it out the window without using your arms or legs. If you had those subroutines, you could do it very simply. It's the same thing with subroutines on a main program. Subroutines make the program size much smaller, much simpler to use, faster, and makes much less work for the programmer.
 
 Lets say that you have two subroutines on your main program - one for your legs and one for your arms. The one for your legs takes a message from the main program that says "stand up and walk to the other side of the room." The legs do this task and return control to the main program. The main program says to the arm subroutine "pick up the ball and throw it out the window." The arms throw the ball out the window and return control to the main program.
 
-Okay, enough talk about arm subroutines and throwing baseballs. Subroutines are little tiny programs that do one simple task whenever you want that to happen and can do it differently to fit different needs (variables). They can be on the main "page" of your program, or side "pages". By "page", I mean place where code is displayed for you to edit it. A program can be one long, complex page that has all subs included, reachable with a GOSUB statement, or they can be on seperate pages and be reached by CALL statements.
+Okay, enough talk about arm subroutines and throwing baseballs. Subroutines are little tiny programs that do one simple task whenever you want that to happen and can do it differently to fit different needs (variables). They can be on the main "page" of your program, or side "pages". By "page", I mean place where code is displayed for you to edit it. A program can be one long, complex page that has all subs included, reachable with a `GOSUB` statement, or they can be on seperate pages and be reached by `CALL` statements.
 
 All my rambling isn't really helping you much, so we'll just get started with the coding process and you should catch on.
 
-### GOSUB
+### `GOSUB`
 
-GOSUB basically means "go to a sub routine". This only goes to a sub on the main "page" of the program. It is almost like GOTO, but has a cool built-in feature. When the subb is done with, it RETURNs to the place where it was called. So if you call it anywhere in a program, it will return to the same place that it was called from.
-The syntax for GOSUB is "GOSUB [line number or name]". That's all it is. It goes to the line number that the sub begins on, goes through the sub and RETURNs to the next command after the line where it was called. This is what it would look like in a program: "GOSUB 1080". This statement would send the computer to line 1080 to execute the commands in the sub routine until it is told to RETURN to the line where it came from.
+`GOSUB` basically means "go to a sub routine". This only goes to a sub on the main "page" of the program. It is almost like `GOTO`, but has a cool built-in feature. When the subb is done with, it `RETURN`s to the place where it was called. So if you call it anywhere in a program, it will return to the same place that it was called from.
+The syntax for `GOSUB` is `GOSUB [line number or name]`. That's all it is. It goes to the line number that the sub begins on, goes through the sub and `RETURN`s to the next command after the line where it was called. This is what it would look like in a program: "GOSUB 1080". This statement would send the computer to line 1080 to execute the commands in the sub routine until it is told to RETURN to the line where it came from.
 
 #### RECAP:
 
