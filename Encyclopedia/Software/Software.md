@@ -6,7 +6,7 @@ This section lists important and useful software, mostly for the work of Anonymo
 |-- defense  
 |   |-- encrypt  
 |   |   |-- [[Truecrypt]]  
-|   |-- [[network]]  
+|   |-- network  
 |   |   |-- [[Freenet]]  
 |   |   |-- [[Tor]]  
 |   |-- [[proxy]]  
