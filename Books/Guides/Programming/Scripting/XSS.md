@@ -4,7 +4,7 @@ Cross site scripting (or XSS) is a method of exploiting a website that does not 
 
 XSS entrypoints are usually found in webforms & querystrings. You can test for the existence of xss by using the following string.
 
-```<script>alert(document.cookie);</script>```
+`<script>alert(document.cookie);</script>`
 
 You also may be able to include javascript embedded in a flash object, or an image like so:
 ```<img src="javascript:alert(document,cookie);" />```
