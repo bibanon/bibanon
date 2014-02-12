@@ -1,4 +1,6 @@
-I know how to MACHINE CODE.
+> _I know how to MACHINE CODE._
+
+Guides written by various anons on the subject of programming. Surprisingly, the examples might give you a chuckle, just like any typical programming book.
 
 ## Programming Languages ##
 
