@@ -42,6 +42,7 @@ Bibliotheca Anonoma
 * [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
 * [[The Big Book of Anonymous Recipes]]
+* [[Programming]]
 * [[Epic Win For Anonymous]]
 * [[Netizens Netbook]]
 * [[more...|Books]]
