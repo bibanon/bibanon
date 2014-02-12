@@ -97,39 +97,49 @@ Some can only be used before any output is sent
 ```
 
 Will output something like: 
-0.0.0.0 Was referred by ----- Their useragent was Mozilla/5.0 Your server software is Apache/2.2.8 (----) DAV/2 mod_ssl/2.2.8 OpenSSL/0.9.8g mod_python/3.3.1 Python/2.5.1 mod_autoindex_color PHP/5.2.5 mod_perl/2.0.3 Perl/v5.8.8 
+
+    0.0.0.0 Was referred by ----- Their useragent was Mozilla/5.0 Your server software is Apache/2.2.8 (----) DAV/2 mod_ssl/2.2.8 OpenSSL/0.9.8g mod_python/3.3.1 Python/2.5.1 mod_autoindex_color PHP/5.2.5 mod_perl/2.0.3 Perl/v5.8.8 
+
 Depending on your server environment. 
 
 #### Types of variables  ####
 
 The datatype a variable uses is usually implicit, meaning PHP will determine what type of variable it should use based on its contents. However, these are some of the datatypes at your disposal.
 
-<pre>Boolean ex: $a = true; #has only 2 possible values, true or false
-Integer ex: $b = 4; #holds whole numbers
-String ex: $c = "Hello"; #holds a set of letters and numbers
-Float ex: $d = 3.5252524; #holds numbers with decimals
-Array ex: $e = array(5, 3, 1); #holds a list of any other type of data, be it an integer, string, boolean, etc.
-Null ex: $f = NULL; #only holds null (nothing)</pre>
+* **Boolean** - has only 2 possible values, true or false
+  * ex: `$a = true;`
+* **Integer** - holds whole numbers
+  * ex: `$b = 4;`
+* **String** - holds a set of letters and numbers
+  * ex: `$c = "Hello";`
+* **Float** - holds numbers with decimals
+  * ex: `$d = 3.5252524;`
+* **Array** - holds a list of any other type of data, be it an integer, string, boolean, etc.
+  * ex: `$e = array(5, 3, 1);`
+* **Null** - only holds `null` (nothing)
+  * ex: `$f = NULL;`
 
 ### Operators  ###
 
 #### Arithmetic  ####
 
-    + Addition
-    - Subtraction
-    * Multiplication
-    / Division
-    % Division with remainder 
+* `+` - Addition
+* `-` - Subtraction
+* `*` - Multiplication
+* `/` - Division
+* `%` - Division with remainder 
 
 #### Assignment  ####
 
-    += ex: n+=7, or N equals N+7
-    -=
-    *=
-    /=
-    %=
-    .=
-    =
+ex: `n+=7` is the same as `n=n+7`
+
+* `+=`
+* `-=`
+* `*=`
+* `/=`
+* `%=`
+* `.=`
+* `=`
 
 #### Logical  ####
 
@@ -139,14 +149,14 @@ Null ex: $f = NULL; #only holds null (nothing)</pre>
 
 #### Comparison  ####
 
-    < Less than
-    > Greater than
-    == Equal to
-    != Not equal
-    === Identical
-    !== Not identical
-    <= Less than or equal to
-    >= Greater than or equal to
+* `<` - Less than
+* `>` - Greater than
+* `==` - Equal to
+* `!=` - Not equal
+* `===` - Identical
+* `!==` - Not identical
+* `<=` - Less than or equal to
+* `>=` - Greater than or equal to
 
 #### Conditional statements and loops  ####
 
