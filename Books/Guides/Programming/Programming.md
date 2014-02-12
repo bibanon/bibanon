@@ -2,6 +2,28 @@
 
 Guides written by various anons on the subject of programming. Surprisingly, the examples might give you a chuckle, just like any typical programming book.
 
+
+## So You Want To Learn To Program, eh? ##
+
+Basically, before you start to learn anything, you're going to have to choose what you want to do with your 1337 skills. 
+
+Most universities teach computer science in this order. Therefore, these end up becoming the most common languages, so if you're modding stuff, you should do so too:
+
+* [[Python]] - For quick scripting and easy GUI frontends to C++ programs.
+* [[Java]] - For Android apps, existing apps, and an easier way to get comfy with [[C]].
+* [[C]] - The universal programming language.
+* [[C++|Cpp]] - The universal (object-oriented) programming language.
+
+If you are interested in operating systems/hacking/cracking, then you should follow a path like this:
+
+* [[C]]
+* [[C++|Cpp]]
+* [[x86 Assembly]]
+
+If you're more interested in web stuff/sploiting things, you should learn everything in the Web Development seciton, along with [[Perl]] or [[Python]] for scripting. 
+
+If you want to make LOL GAEMS then you should just learn [[C++|Cpp]], and if you're a comp sci nerd then [[Haskell]] or [[Lisp]] would be of interest to you.
+
 ## Programming Languages ##
 
 Here are some programming languages worthy of mention.
@@ -41,27 +63,6 @@ Here are some programming languages worthy of mention.
 * [[BBCODE]] **_EXPERT BBCODE PROGRAMMERS_**
 * [[HTML]] - The primary markup language on the internet.
 * [[Markdown]] - A simple but powerful markup language designed for easy editing and reading. It's everywhere, especially on this wiki. Beats typing up HTML.
-
-## So You Want To Learn To Program, eh? ##
-
-Basically, before you start to learn anything, you're going to have to choose what you want to do with your 1337 skills. 
-
-Most universities teach computer science in this order. Therefore, these end up becoming the most common languages, so if you're modding stuff, you should do so too:
-
-* [[Python]] - For quick scripting and easy GUI frontends to C++ programs.
-* [[Java]] - For Android apps, existing apps, and an easier way to get comfy with [[C]].
-* [[C]] - The universal programming language.
-* [[C++|Cpp]] - The universal (object-oriented) programming language.
-
-If you are interested in operating systems/hacking/cracking, then you should follow a path like this:
-
-* [[C]]
-* [[C++|Cpp]]
-* [[x86 Assembly]]
-
-If you're more interested in web stuff/sploiting things, you should learn everything in the Web Development seciton, along with [[Perl]] or [[Python]] for scripting. 
-
-If you want to make LOL GAEMS then you should just learn [[C++|Cpp]], and if you're a comp sci nerd then [[Haskell]] or [[Lisp]] would be of interest to you.
 
 ## Tools ##
 
