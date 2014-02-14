@@ -92,3 +92,4 @@ Links to good stories hosted outside of the Bibliotheca Anonoma.
 
 * [Danny Choo - How Discovering Japan Changed My Life](http://dannychoo.com/en/post/26094/How+Discovering+Japan+Changed+My+Life.html) - An inspirational story about how Danny Choo, a poor Chinese Malaysian kid in Britain, became obsessed with Japanese culture, and went to great lengths to learn Japanese and even just visit Japan. 
   * While Danny Choo drifted worldwide through a variety of admirable careers, he is most famous for a startup that created websites and translated English for Japanese companies. That startup evolved into today's well-connected [Culture Japan](http://dannychoo.com/en/post/25018/Danny+Choo.html); which he made to promote Japanese culture throughout the world, to reach people just as it had inspired him.
+  * He will soon be known for bringing about the enslavement of humanity by sexy robot dolls. hue hue hue
