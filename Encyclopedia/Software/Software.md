@@ -5,16 +5,16 @@ This section lists important and useful software, mostly for the work of Anonymo
 .  
 |-- defense  
 |   |-- encrypt  
-|   |   `-- [[Truecrypt]]  
-|   |-- [[network  
+|   |   |-- [[Truecrypt]]  
+|   |-- network  
 |   |   |-- [[Freenet]]  
-|   |   `-- [[Tor]]  
-|   `-- [[proxy]]  
+|   |   |-- [[Tor]]  
+|   |-- [[proxy]]  
 |       |-- [[Privoxy]]  
 |       |-- [[Proxifier]]  
 |       |-- [[Proxybot]]  
 |       |-- [[ShadeNET]]  
-|       `-- [[Squid]]  
+|       |-- [[Squid]]  
 |-- [[Fusion]]  
 |-- linux  
 |   |-- [[Bash]]  
@@ -24,17 +24,17 @@ This section lists important and useful software, mostly for the work of Anonymo
 |   |-- [[Extras-wget-raper]]  
 |   |-- [[Grep]]  
 |   |-- [[Unix-operands]]  
-|   `-- [[Wget]]  
+|   |-- [[Wget]]  
 |-- offense  
 |   |-- ddos  
 |   |   |-- [[Black-Widow]]  
 |   |   |-- [[DDoS-Tools]]  
 |   |   |-- [[Hping]]  
 |   |   |-- [[JMeter]]  
-|   |   `-- [[Low-Orbit-Ion-Cannon]]  
+|   |   |-- [[Low-Orbit-Ion-Cannon]]  
 |   |-- dox  
 |   |   |-- [[Anonidox]]  
-|   |   `-- [[PhpBB-Dox-Machine]]  
+|   |   |-- [[PhpBB-Dox-Machine]]  
 |   |-- flood  
 |   |   |-- [[Chatango]]  
 |   |   |-- [[IMacros]]  
@@ -42,11 +42,11 @@ This section lists important and useful software, mostly for the work of Anonymo
 |   |   |-- [[Magnifying-Glass]]  
 |   |   |-- [[Shitnami]]  
 |   |   |-- [[Tinytroller]]  
-|   |   `-- [[Youflood]]  
+|   |   |-- [[Youflood]]  
 |   |-- map  
 |   |   |-- [[DNS-Probe]]  
 |   |   |-- [[Lanmap]]  
-|   |   `-- [[Nmap]]  
+|   |   |-- [[Nmap]]  
 |   |-- spam  
 |   |   |-- [[AppleMailBomber]]wn  
 |   |   |-- [[BeatBomber]]wn  
@@ -59,17 +59,17 @@ This section lists important and useful software, mostly for the work of Anonymo
 |   |   |-- [[Sparky.27s_Mailbomber]]wn  
 |   |   |-- [[Wpcomment.sh-HTML]]  
 |   |   |-- [[Wpcomment.sh-code]]  
-|   |   `-- [[Wpcomment.sh]]  
+|   |   |-- [[Wpcomment.sh]]  
 |   |-- [[sub7.doc]]  
 |   |-- [[Ventrilo]]  
 |   |-- [[WOT]]  
-|   `-- [[Zip-bomb]]  
+|   |-- [[Zip-bomb]]  
 |-- packages  
 |   |-- [[Dangerous-Kitten]]  
 |   |-- [[Earthquake-in-a-Box]]  
 |   |-- [[HackerPackage]]  
 |   |-- [[Net-Tools]]  
-|   `-- [[Nigra-Pack]]  
+|   |-- [[Nigra-Pack]]  
 |-- [[Software]]  
-`-- Tips  
-`-- [[Windows-xp-performance]]  
+|-- Tips  
+|-- [[Windows-xp-performance]]  
