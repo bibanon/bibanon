@@ -135,7 +135,11 @@ Hay all, it's blindmute loli guy here, back to fill the souls of /b/ with music.
 ## 06/26/07(Tue)22:37:43 No.31098853  ##
 
 On Tuesday, we completed moving what was left of our stuff to Melinda's and have now began settling there. Some of us are more receptive to the change than others. Kaji, for instance, is a bit disturbed at the change of surroundings. One of the first things he did was take a green sickly looking shit on Melinda's carpet (which Luke had to clean). Speaking of Melinda though, I've been noticing some disturbing things. I have a feeling under her ncie exterior may be a neurotic crazy woman. Some observations:
-1. When Kaji shit on the floor, she tried to be all nice and pass it off, but she looked like she was about to shit herself too. 2. She nicely informed me during dinner to please use a coaster, nicely as in she looked like she was going to end herself if she saw a ring on her table. 3. She carries hand sanitizer around, and uses it frequently.
+
+1. When Kaji shit on the floor, she tried to be all nice and pass it off, but she looked like she was about to shit herself too. 
+2. She nicely informed me during dinner to please use a coaster, nicely as in she looked like she was going to end herself if she saw a ring on her table. 
+3. She carries hand sanitizer around, and uses it frequently.
+
 Another thing, Melinda said tomorrow we were having a little get together with the neighbors, so Luke and I could meet with them. This isn't particularly bad, but I'm not a hugely social person. I'm just hoping I impress them, or at least appear "neighborly", because they'll be interviewed for the adoption process too. Melinda said, "My friends like cuties like you, maybe you'll meet somebody." On a side note, I still think Luke is having erectile dysfunction. Because I can tell when he's getting laid, he has a certain demeanor about him.
 
 ## 06/26/07(Tue)22:37:55 No.31098872  ##
@@ -172,4 +176,5 @@ But you know what, I'm not an easily raged guy. It was cool. So I lost my job, s
 ## 06/28/07(Thu)18:42:59 No.31295462  ##
 
 So yeah, I'm fucked. What do I get? Nothing. I lose Erika, I lose my job, I lose my house, I lose my best friend, the first chance I've had to lose my virginity in well forever. And now I'm just a homeless bum with a laptop (which I'll probably have to sell for food) and a few clothes. What does Erika get? To stay in a children's home until she's 18, at which point she can be (literally) blindly thrusted into the adult world. Maybe she'll run away again, maybe she'll get kidnapped and raped by a pedophile. What can I do about it? I'm just the worthless piece of shit I've always been, except now I don't even have a job or a place to stay. By staying here and typing this I risk having Melinda call the cops on me so I can spend a nice night in jail, but you guys are the last people who give half of a shit about me so what the hell? I need to leave though, but let's just recap the final lesson learned here. Don't do anything nice for anybody. It'll just all blow up in your fucking face. I pick a girl off of the streets, give her food and a place to stay, try to be a nice guy. But no, I needed the system's approval. So I began jumping through hoops to appease the faggots at CPS and I ended up losing everything. Awesome world, huh?
-{{Blindmute|Intro|July 2007}}
+
+[[Blindmute Loli]] | [[Next: July 2007|bl2]]

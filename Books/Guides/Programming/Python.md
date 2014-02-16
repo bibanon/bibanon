@@ -1,5 +1,7 @@
 Below applies to Python 2.6 or lower, Python 3 is a good bit different.
+
 Python is an object oriented, interpreted language. It is unique in that it requires a user to indent in place of using curly brackets ({..}).
+
 Note: that most *nix distributions come with Python by default.
 
 ## Basics ##
@@ -14,6 +16,7 @@ _Basic_ python syntax
 ### Variables ###
 
 Variable names DO NOT need to begin with a special character, unlike PHP. Variable names CAN, however, be any combination, as long as the word isn't reserved (Ex: and, or, print), of letters and numbers.
+
     >>> #Numbers
     >>> a = 1 #Declare A as 1
     >>> b = a+5 #b becomes 6, while a remains 1
@@ -122,7 +125,9 @@ Variable names DO NOT need to begin with a special character, unlike PHP. Variab
     7
     8
     9
+
 _consider using xrange when dealing with larger lists, as it creates an iterator, rather than constructing the full list in memory_
+
     >>> for x in ['Hello', 'world', ',this', 'is', 'a', 'list']:
     	print x
     	
@@ -138,6 +143,7 @@ _consider using xrange when dealing with larger lists, as it creates an iterator
 
 ### Multi-Threaded Mail Bomber ###
 
+```python
     #CREATED BY: DUMP 
     #MULTI THREADING ALLOWS FOR A CLASS TO BE RUN MULTIPLE TIMES AT ONCE.
     #INCLUDES SMTP ENGINE, AND MAIL HEADER GEN. THAT FOLLOWS RFC STARDARDS
@@ -176,7 +182,7 @@ _consider using xrange when dealing with larger lists, as it creates an iterator
         for b in range(a, a+5):
             MailBomb(lists[b], address2, message).start();
         time.sleep(.50);
-
+```
 ## Modules ##
 
 
@@ -198,6 +204,6 @@ fast, simple packet creation / parsing, with definitions for the basic TCP/IP pr
 
 ## Links ##
 
-[Python Documentation](http://docs.python.org/)
-[Download Python](http://www.python.org/download/)
+* [Python Documentation](http://docs.python.org/)
+* [Download Python](http://www.python.org/download/)
 

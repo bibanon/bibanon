@@ -1,4 +1,8 @@
-{{Blindmute|December 2007|February 2008}}
+[[Previous Page: December 2007|bl7]] | **This Page**: January 2008 | [[Next Page: February 2008|bl9]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 ## Thread 58 ##
 
@@ -22,7 +26,9 @@ I went to go check on Erika, and I could've sworn I heard some footsteps. Maybe 
 ### 01/02/08(Wed)04:17:46 No.49750274 ###
 
 So girlpants + sleeping Erika + him snooping around upstairs, not a good combination.I pulled him out from under my bed, and I was a bit pissed. Like a vulture, trying to swoop down on my Erika as she was sick in bed. I dragged him a long a bit by his shirt and then pushed him straight into the bathroom. He tumbled a bit before toppling right into the shower, knocking down all of the soaps and shampoos in it. This made a large thud. "Shit, you stay here, I'm not done with you." I went to the stairs. "Got a problem up there Jakearoni?" "Nah, I just spilled something in the bathroom." "Oh okay, have you seen Eric?" "Oh yeah he's up here, he's going to help me clean it up." Alrighty then." I walked back into the bathroom, but he wasn't there. He wanted to play hide and seek, did he?
+
 I went all up and down the rooms, but to no avail. He had evaded me well, I'll give him that. Eventually I really couldn't find him anywhere, so I went back downstairs to find him there. He looked at me and gave me a little shit smirk. And then he touched the back of his foot with his hand. I didn't understand what this gesture meant. I had to get him back though. I couldn't beat his ass there, but I vowed to get revenge.
+
 Mark and Sharon had arrived too, along with Mark's mother in a wheelchair. If you don't recall, Mark's mom is pretty crazy. She's a mean old woman, and legitimately mean like she really wants to get out of the wheelchair and stab you, not like Cheryl who loves making people want to stab themselves. "Hey it's Jake! Where's the midget?" "She's upstairs." "What, did she get lost? Forget her cane?" Now there's one guy I really wanted to punch in the face. Sharon elbowed him in the side. "How is she Jake?" "She's good, a bit sick though." Mark's mom wheeled her way over to Cheryl. Two mean old ladies together, I could tell this wasn't going to end well. Mark's mom began, apparently seeing that Cheryl reeked of a smoker. "You got a cig and a light?"
 
 ### 01/02/08(Wed)04:19:16 No.49750374 ###
@@ -55,16 +61,19 @@ Since new year's had passed, the party broke up rather quickly. Cheryl went home
 ### 01/20/08(Sun)02:49:42 No.51451453 ###
 
 Hi there /b/, blindmuteloli guy here. I haven't updated since New Year's, because things have pretty much gone downhill again. Instead of brooding, I'll try to explain though. Last week, Jim invited Erika and I to a communion for Amelia (I'm not religious so I know nothing about this crap). It sounded pretty damn boring, but it was nice at the same time to be invited. It felt adult, like I was Mr. Jake instead of just Jake, getting invited to boring things for other parents' kids. And maybe we'd do other things like have boring cookouts or whatever in the future. It felt nice to be part of the community anyway. I wasn't part of his church so I didn't know if it would be okay for me to come, but he insisted. And of course I didn't refuse, so I asked Erika and she said it sounded fun (it wouldn't be, but things always sound fun to her). We didn't have anything planned for Sunday other than to jerk around anyway.
+
 Sunday came, and we went to the church he told us to arrive at. It was a nice, large place, not too big but not too shabby either. We took a seat, and the proceedings began. There was a large quilt thing, and the priest began with a service. It was a lot about da lawd and Jesus and faith and whatever. Then the kids all lined up and the priest presented some wine and some bread, the blood and the body of Christ as he claimed (I've always found it a bit creepy too, at least Muslims don't eat Muhammad). The priest drank some of the wine (of which the kids got none), and then he went down the line and stuffed a piece of bread in their mouths. Then there was some closing comments, and the whole thing was done. The kids, who had been forced to sit and watch a rather boring service for a while, and only for a piece of bread, were rather antsy as expected. There was a sort of after celebration and Erika, Amelia, and some other kids were running around. And really this is where the problem started. I should've been watching her more closely.
 
 ### 01/20/08(Sun)02:50:18 No.51451513 ###
 
 Outside the church are rather large cement steps that lead up to the door. Erika was running around with the other kids, and what apparently happened is she ran right off them. Normally she can sort of "sense" the change in the level of the floor before stairs come, and she knows her way around Melinda's house which has the stairs she uses most often so she doesn't normally have a problem with them. But she was running around and not paying attention, and fell right off them. And it's my fault. She acts so independent, I guess I just forgot she needs to be supervised. I let her run around a place she didn't know to well with a bunch of other kids and it was stupid. I'm a fucking idiot basically. 
+
 This wasn't a nice fall though. These are large cement steps, and her head hit right on the edge of one of them. It was a nasty sight. One kid I didn't know just came running up to me flustered and told me to go to the stairs and there I saw her. Erika, spread out over a step. Her head was busted open, and she wasn't conscious. Now I'm starting to freak out (I try to keep my cool but I couldn't handle seeing her in all of this blood). Somebody dialed 911, and an ambulance arrived. I followed behind them, and I could barely focus on driving. I was guilty, and I still am. I wasn't watching her, but it was only for 30 seconds. But I should've been watching her. She's blind, how could I just let her run around? It's a dangerous area for her, any area could be a dangerous area for her.
 
 ### 01/20/08(Sun)02:51:15 No.51451592 ###
 
 I arrived at the hospital, and I asked for information on where I could find her. The lady pointed me in her general direction, but a worker there told me that I would have to wait before I could see her. So I sat down and waited, racked with guilt. Finally somebody came and informed that she was fine, but she was going to need a lot of stitches, and that she wasn't conscious yet. They told me that I should go home, and that if I come back the next day she'll probably be up and ready to leave, and that she would just need a bit for the stitches to heal. I was relieved when I heard this, and figured since I wouldn't get to talk to Erika anyway I might as well heed their advice. Melinda (who didn't go), was worried since I had arrived later than she expected. When she saw that I didn't have Erika with me, she knew something was wrong. I told her the situation, and she could tell I was remorseful about it. She tried consoling me, telling me it wasn't my fault, but I still felt like I was. I went up to my room and sulked around, and eventually went to sleep hoping everything would be fixed by tomorrow.
+
 Melinda and I both went to the hospital the next day, as she was just as worried as I was. They told me that Erika had regained consciousness in the middle of the night, but was sleeping now. Phew. I went into her room, and just watched her sleep for a bit. She was already all stitched up (but the head wound still looked pretty gross). Eventually she woke up, and I spoke to her.
 
 ### 01/20/08(Sun)02:51:51 No.51451642 ###
@@ -74,6 +83,7 @@ Melinda and I both went to the hospital the next day, as she was just as worried
 ### 01/20/08(Sun)02:52:31 No.51451689 ###
 
 Coming home, I felt much more upbeat about everything. Erika was going to be fine, she just had an accident. Accidents happen, and they fix themselves. We went back to the hospital, and Erika was released to our care. She was still talking verbally, and still had no memory. Her voice is very pretty, very cute and feminine. We arrived at Melinda's house, and I made sure to put my arm around her to lead her around, but she shrugged me off. "What's wrong?" "Do you need to be so touchy?" "I just don't want you to have another accident, I don't think you remember the layout of this place." "I'm fine, you don't need to touch me." As she said that, she walked right into an endtable as the corner went right into her side. I grabbed hold of her again, but she flailed her arms around to push me off. I figured she was probably just irritable, I mean I would be too. She sat down on the couch, and I left her alone. The day pretty much continued with her not talking to me much. I was a bit down over it, I was hoping she'd be more peppy, but I know I shouldn't have expected her to be happy after what happened.
+
 The next day, it was time for her to get up to go to Jim's since I didn't want to miss two work days in a row. She was apprehensive to going though. Eventually after a bit of bickering, she said 'Why don't you make me go?' I was pretty much taken aback by this, because she had never really given me any attitude before. I didn't know how to handle it really. I couldn't let her stay home by herself, I couldn't have her walking all over me, but I couldn't yell at her. I just tried picking her up and thought I'd carry her though, mostly just joking, but she started banging on me like I was trying to kidnap her, so I put her down. I tried asking her specifically why she didn't want to go, but she didn't respond. I decided to give in, and call in sick. What else could I do?
 
 ### 01/20/08(Sun)02:53:46 No.51451788 ###
@@ -84,11 +94,13 @@ The next day, she told me she absolutely wasn't going, and there was nothing I c
 ### 01/20/08(Sun)02:54:24 No.51451843 ###
 
 I didn't even call my boss, I just sat down on the couch. Tears were forming in my eyes, and I was trying not to just bust out crying. It was just a phase, I told myself anyway. I stayed home the entire day, and I didn't see her once.
+
 But I knew I couldn't leave things as they were. There had to be some reason. Maybe she was grieving over her parents, just now re-finding out that they're dead? I just didn't know what was up with her. But I was determined to talk to her. I went in her room, and asked her if I could speak to her a bit. She basically ignored me, but I started talking anyway. "Erika, I know you're going through a rough time right now, but I want to help. I'm not your real dad, but I really care about you. I've tried my best to care for you as long as we've been together, I really love you." I hugged her, and she once again was silent, not really accepting or rejecting my hug. Finally she said, "Well I don't love you. Leave me alone." That was the final straw. I couldn't take it. I left the room as quickly as possible and started crying. Yeah, I know, but that hurt. I'm actually a pretty sensitive person. Melinda saw me, and she gave me a hug and I basically cried on her like she was my mother. Eventually, after I was a bit better, Melinda went in to talk to Erika. I stayed there, just thinking about Erika. I couldn't give up on her, obviously. Then Melinda came out holding her eye. Apparently she tried to talk to Erika, and Erika got agitated and lunged at her, attacking her and apparently punching her eye a few times.
 
 ### 01/20/08(Sun)02:55:16 No.51451911 ###
 
 I was pissed, I went to go talk to Erika. "What are you doing punching Melinda!? She owns this whole house, she lets us both live here, what's your problem?" "I don't care what she does." I was fed up, so I sort of muttered under my breath, "ungrateful brat." She didn't talk kindly to this comment, and began making a long statement about how I thought I was such a good guy because I helped her out, and how I thought that she should just be my best friend forever, and only did it because I was selfish. This just enraged me, and I started screaming at her. "You're the fucking selfish one." Erika didn't expect this, as she sort of jumped back a bit. And I looked, and my fist was clenched, I was holding it slightly up, I needed to cool off. I knew who Erika must think I was acting exactly like. I punched a wall on my way out of the room, and Erika and I didn't talk for the rest of the night.
+
 Today's the same pretty much. We haven't talked. I scheduled an appointment with a doctor, because obviously she's not right. The amnesia was supposed be temporary, but it seems like it's last a lot longer. I'm trying to just keep in mind that it's not her fault, and I can't be mad at her. And I'm not really, I'm trying not to be. I love her, I'm going to resolve the issue.
 
 ## Thread 60 ##
@@ -144,4 +156,9 @@ My boss, who was in the other room working on something or other, came out. "Is 
 ### 01/29/08(Tue)01:32:36 No.52318109 ###
 
 So I grabbed a bat from a little shed we have in our backyard, and busted the window open. Some say I have anger management problems, some say I'm far too placid. She went in through it, and I told her not to talk to me for at least a year. I freaked her out too, so she knows Jake isn't to be fucked with. And maybe a neighbor will hear the window break and call the police, so she can get a taste of them. I left my parents a little note too. "Consider the money to fix the window her rent for staying at Hotel Jake." I'll probably end up paying them for it anyway (I'll admit it was stupid to break it), but I wasn't too happy with them either trying to pawn her off on me so I'll anger them a bit. I drove home, and Jim was worried since I had arrived much later than he expected. I told him that I had solved the problem, and there was nothing to worry about. Erika and I returned home, to see about a quarter of wrasslin'. Problem averted for now, but it's not probably not the last I'll hear of it. And my parents are going to be really pissed about that window. That was veeery stupid. I need to learn to count the prime numbers. 
-{{Blindmute|December 2007|February 2008}}
+
+[[Previous Page: December 2007|bl7]] | **This Page**: January 2008 | [[Next Page: February 2008|bl9]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]

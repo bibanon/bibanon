@@ -25,11 +25,11 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 ### Forerunners
 
 * [[Ayashii World]] - *needs translation* The first anonymous textboard ever made on the internet, which bore a large community known as Nanashi World. [[4chan]] and [[Anonymous]] draw strong parallels to it's community, and it is actually a direct descendant, at least when it comes to the code.
-* [[2channel|2ch]] - The largest textboard ever built on the internet, larger than [[2chan]] and 4chan combined. It is nearly equal to the media in cultural importance.
+* [[2channel]] - The largest textboard ever built on the internet, larger than [[2chan]] and 4chan combined. It is nearly equal to the media in cultural importance.
 * [[2ch History]] - A basic outline of 2ch History by JKid of the [[Yotsuba Society]].
 * [[2ch History Timeline]] - *needs translation* A complete timeline of 2channel history. It's from the Japanese Wikipedia, and needs to be translated to English.
 * [[world2ch]] - An attempt to bring the concept of anonymous textboard beyond Japan. It was a world where Japanese and English-speakers alike mingled together for the first, and last time. 
-* [[2chan]] - An anonymous imageboard designed as the successor to 2channel. 4chan's codebase was directly descended from this site.
+* [[Futaba Channel]] - An anonymous imageboard designed as the successor to 2channel. 4chan's codebase was directly descended from this site.
 * [[Something Awful]] - The site that gave 4chan it's community and culture should not itself be forgotten. These articles will unlock the paywall and allow us to understand what happened and what resided here, and how it fell into irrelevance later on. 
 
 ### 4chan

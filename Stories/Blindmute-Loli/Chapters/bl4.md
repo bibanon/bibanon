@@ -1,4 +1,8 @@
-{{Blindmute|August 2007|October 2007}}
+[[Previous Page: August 2007|bl3]] | **This Page**: September 2007 | [[Next Page: October 2007|bl5]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 ## Thread 33 ##
 
@@ -40,6 +44,7 @@ So I've been here at Jim's babysitting, hopefully he'll return home soon enough.
 ### 09/06/07(Thu)01:33:51 No.38568973 ###
 
 Hello everybody, Jake here. I guess to start off I'll say Melinda and I have sort of a thing going on. She didn't explicitly say anything, but she did say it would be okay if I wanted to stay "a while longer". Don't know when I intend to make an official move, but she's been being very nice to me recently, I'm almost one hundred percent sure she's interested.
+
 On Monday, I went down to the orphanage. I had gone there Sunday too, but it was just a pleasant visit where nothing much happened. I hadn't seen Ryan in recent memor, so I thought that he had perhaps lost interest and was pretty hopeful on that. As I arrived on Monday, that wasn't so. Ryan was there with his gf. And then Sharon said it. "Sure, she can go with you today..." Exactly what I feared was happening. I thought I had to act, do something. Erika looked like she was on the verge of having a major tantrum, maybe I could exploit that? And then I had a realization. I was being pretty selfish. I wanted Erika to be my daughter, with good intentions, but at the same time I realized that going with Ryan was best for her. If she waited for me, it could be months or even years before she got out of the children's home, at least with Ryan she'd have a good home now. And whether she wanted it or I wanted it or not, it was going to happen and there wasn't a thing I could do about it.
 
 ### 09/06/07(Thu)01:35:46 No.38569112 ###
@@ -77,20 +82,21 @@ So it's about 1 am. I'm still up because I usually am, Erika is sound asleep. I 
 
 ### 40346683 ###
 
-> Writing threads by moonlight
-> Winning loli by daylight
-> Never run from an easy fight
-> He is the one named Sailor Jake
-> He might turn his back on his friends
-> Rarely lasts until the very end
-> Oh god is he the one on which you depend? (You're fucked)
-> He is the one named Sailor Jake
-> He is the one named SAILOR JAKE
+> Writing threads by moonlight  
+> Winning loli by daylight  
+> Never run from an easy fight  
+> He is the one named Sailor Jake  
+> He might turn his back on his friends  
+> Rarely lasts until the very end  
+> Oh god is he the one on which you depend? (You're fucked)  
+> He is the one named Sailor Jake  
+> He is the one named SAILOR JAKE  
+
 Well I think that serves as an adequate introduction. Now to bidness. Ryan has reached far more epic levels of faggotry than ever assumed possible. I overheard him possibly discussing getting a restraining order on me with his gf. Was he kidding? Maybe, he's still a douche though. Erika's starting to get affected by him though. She's not as happy as usual. I can't describe it, but she's losing her usual chipperness. Eventually she'll adjust though, she'll have to.
 
 ### 40347075 ###
 
-Well I think that serves as an adequate introduction. Now to bidness. Ryan has reached far more epic levels of faggotry than ever assumed possible. I overheard him possibly discussing getting a restraining order on me with his gf. Was he kidding? Maybe, he's still a douche though. Erika's starting to get affected by him though. She's not as happy as usual. I can't describe it, but she's losing her usual chipperness. Eventually she'll adjust though, she'll have to. In other news, I'm back to living with Luke. Now how would this be, you would ask. Well he got back together with his furry girlfriend, who is a fursuiter. I've mentioned her in the chat a few times. They came to Melinda offering to pay rent to stay at her place, and she gladly agreed. I didn't think she'd want Luke being near her at all, but apparently she takes a different perspective on it. She told me that she loves to "exploit that fat ass and his weird bitch girlfriend". Luke has gladly taken the opportunity to flaunt around he has a girlfriend (even if she is a slightly overweight furry with weird hair), so Melinda and I have fought back a bit acting like a couple too. The house has sort of become a war zone, with both "couples" (well I don't know if me and Melinda are taking it seriously) trying to outdo each other. Luke and his gf have even made out right at the table. Imagine this: two fat seals trying to have a wrestling match. Blubber slapping against blubber. The two gelatinous forms come together, and they melt into some haze of lard, where the lines of individuality blur and it's impossible to tell them both apart. It's like something right out of the End of Evangelion. Icky gross. Melinda did in fact kiss me on the lips though (not for very long though). I don't know if she's doing it just as part of our little "war" or if she's serious.
+In other news, I'm back to living with Luke. Now how would this be, you would ask. Well he got back together with his furry girlfriend, who is a fursuiter. I've mentioned her in the chat a few times. They came to Melinda offering to pay rent to stay at her place, and she gladly agreed. I didn't think she'd want Luke being near her at all, but apparently she takes a different perspective on it. She told me that she loves to "exploit that fat ass and his weird bitch girlfriend". Luke has gladly taken the opportunity to flaunt around he has a girlfriend (even if she is a slightly overweight furry with weird hair), so Melinda and I have fought back a bit acting like a couple too. The house has sort of become a war zone, with both "couples" (well I don't know if me and Melinda are taking it seriously) trying to outdo each other. Luke and his gf have even made out right at the table. Imagine this: two fat seals trying to have a wrestling match. Blubber slapping against blubber. The two gelatinous forms come together, and they melt into some haze of lard, where the lines of individuality blur and it's impossible to tell them both apart. It's like something right out of the End of Evangelion. Icky gross. Melinda did in fact kiss me on the lips though (not for very long though). I don't know if she's doing it just as part of our little "war" or if she's serious.
 
 ### 40347146 ###
 
@@ -125,4 +131,9 @@ And then I realized something else: he does it to her too. I hated him, I still 
 ### Anonymous 09/30/07(Sun)00:34:46 No.41092668 ###
 
 Once Erika was better at CPS, she revealed the whole story. Ryan would hit her sometimes, sometimes trip her while she was walking, and things I wouldn't want to go into detail to. Nothing sexually abusive though, which was slightly another relief. Then he would tell her that if she told anybody, he wouldn't let her see me anymore. So basically he used me against her. I still feel terrible about it. The only reason he was letting me see her is because he could do this to her. His gf I imagine wouldn't want to press charges against him, but that doesn't mean he gets off scot-free for sure. He came back to his place at night, and was arrested, and is awaiting a trial. The only thing is that if he was to get convicted of anything, Erika would probably have to testify against him at a trial. I don't know if she would want to do that. I'm hoping that it doesn't get to be something publicly known, I wouldn't want to put Erika through that. Only Ryan, his gf, me, CPS, and the police know to the extent of my knowledge, I haven't told anybody else. Ryan or his gf better not, but that wouldn't be something they would want to do anyway. Erika's been at CPS ever since, I'm hoping she isn't severely traumatized by this, but I know she won't be the same for a while. I still don't get it, why anybody would want to do something like that. Sometimes, I really just think humans are disgusting.
-{{Blindmute|August 2007|October 2007}}
+
+[[Previous Page: August 2007|bl3]] | **This Page**: September 2007 | [[Next Page: October 2007|bl5]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]

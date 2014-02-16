@@ -2,8 +2,8 @@ Useless, don't bother with it, but if you're that retarded to use this all 10 or
 If you really wanna know, it's based on LOLCATS. a "Hello world" of this would be:
 <pre>
 HAI
-CAN HAS STUDIO?
-VISIBLE "Hello World, this programming language sucks ass"
+  CAN HAS STUDIO?
+  VISIBLE "Hello World, this programming language sucks ass"
 KTHXBAI
 </pre>
 

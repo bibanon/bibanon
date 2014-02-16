@@ -1,10 +1,14 @@
 [[1182417345385.jpg|float|width=200x]]
 
-**Blindmute Loli** is a story about a guy who runs into a blind, mute runaway orphan and the hardships he suffers later in his life. The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following.
+**Blindmute Loli** is an incredible story about a anon who runs into a blind, mute runaway orphan. Together, they meet crazy people, fall into tragic mishaps, and face terrible hardships. 
 
-UOriginally, this anonymite's posts were archived by Sarafan and his other well-wishers on [[Wikichan]], but that site was shut down and it's hard disk wiped due to poor administration. Thankfully, the story can be read here at the Bibliotheca Anonoma through the hard work of [[Shii]], a kind visitor, and the author himself. 
+But despite all the cards stacked against him, the man never stops trying to save the blindmute girl, and eventually manages to scrape his life back together again.
 
-## Read the story ##
+The authenticity of this story is impossible to know, but read it yourself and you'll see why it has a devoted following.
+
+Originally, this anonymite's posts were archived by Sarafan and his other well-wishers on [[Wikichan]], but that site was shut down and it's hard disk wiped due to poor administration. Thankfully, the story can be read here at the Bibliotheca Anonoma through the hard work of [[Shii]], a kind visitor, and the author himself. 
+
+### Read the story
 
 * [[Blindmute Loli, June 2007|bl1]]
 * [[Blindmute Loli, July 2007|bl2]]
@@ -17,8 +21,7 @@ UOriginally, this anonymite's posts were archived by Sarafan and his other well-
 * [[Blindmute Loli, February 2008|bl9]]
 * [[Blindmute Loli, March 2008|bl10]]
 * [[Blindmute Loli, September 2008|bl11]]
-* [[Who was the Blindmute Loli man?|ShotaGuroLove]]
 
-## Sources
+### Bonus Content
 
-* [Shii's wiki](http://shii/knows/Blindmute_Loli)
+* [[Blindmute Loli Characters]] - An amusing list of all the crazy people Jake meets in this story.

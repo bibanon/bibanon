@@ -1,7 +1,5 @@
 This article is about the Bibliotheca Anonoma itself.
 
-## Purpose
-
 ## Inspirations and Forerunners
 
 * [[Everything Shii Knows|Shii]] - Shii's Personal Wiki directly inspired the creation of the Bibliotheca Anonoma, since he had a small page of saved content from Wikichan and ED. His wiki was the only remaining reference to Wikichan before this wiki.
