@@ -2,7 +2,7 @@ The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to co
 
 We are creating a Library of Alexandria for the internet, collecting and cultivating information that would have otherwise been lost to the sands of time. 
 
-Click on the links in the sidebar to the right -> to check them out. Under each section, you can click **More...** for an even larger list and more descriptions that couldn't fit on the sidebar.
+Click on the links in the sidebar to the right -> to check them out. Under each section, you can click **More...** for an even larger list and longer descriptions that could not fit on the sidebar.
 
 ### Contribute
 

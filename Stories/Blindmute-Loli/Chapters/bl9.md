@@ -1,4 +1,8 @@
-{{Blindmute|January 2008|March 2008}}
+[[Previous Page: January 2008|bl8]] | **This Page**: February 2008 | [[Next Page: March 2008|bl10]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 # Thread 62 #
 
@@ -91,4 +95,9 @@ I went to console the girls. Amelia and Erika both went right into my arms as I 
 ## 02/27/08(Wed)00:25:57 No.55895565 ##
 
 Eventually, Erika and I left. We returned home, and I could sense a demonic presence in the air. There she was. On my couch. Cheryl. "Where is he?" "Cheryl, how did you get inside?" "WHERE IS HE?" Cheryl was now bordering on unfunny, she was REALLY bordering on unfunny. "Cheryl, this isn't a good time." Suddenly she got up, and rushed at me, as much as a woman her age could and raised her cane. I really thought she was going to bash my face in. She likes hitting people with her cane, but this stance she was doing with it now was a murderous one. She was going to fucking kill me. And then she stopped. Melinda and Luke both popped out. "That's punishment for annoying me so much," Melinda slyly stated. "Pudgy already got his for trying to sneak out," Cheryl added. "Does this mean Luke's staying or not?" Cheryl answered. "You all can have fatass if you really want him that bad. I'll get me a real man who can keep up with my rhythm." With that, she left. To think, an encounter with Cheryl where nothing bad happened. But I could tell even as she said it, there was a sadness in her voice. I began to think she was trying not to seem as hurt by Luke's departure as she really was. Luke was ready to celebrate when Melinda brought down the party. "We're going to lay a few ground rules down. Luke, I don't like you much. I'm letting you stay here because of Jake, and it's a mystery why I do so much for him. I don't want to see you. I don't want to hear you. And all panties will stay in drawers." Erika raised her fist in support at this declaration. And here I am after this day of activity. I have a feeling this is only the beginning.
-{{Blindmute|January 2008|March 2008}}
+
+[[Previous Page: January 2008|bl8]] | **This Page**: February 2008 | [[Next Page: March 2008|bl10]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]

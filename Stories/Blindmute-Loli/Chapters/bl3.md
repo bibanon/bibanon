@@ -1,4 +1,8 @@
-{{Blindmute|July 2007|September 2007}}
+[[Previous Page: July 2007|bl2]] | **This Page**: August 2007 | [[Next Page: September 2007|bl4]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]
 
 # Thread 24  #
 
@@ -106,10 +110,15 @@ Reasons why I should hate Luke: 1. He fucked my sister. 2. He did all of this be
 # Thread 30  #
 
 (copied from a pastebin archive)
+
 If you're reading this you already know who it is so why bother saying it? Anyways, I'll just say it. She's gone, she's fucking gone. Adoption application was rejected. Why? Well Sharon told me that is was my fault, that my little run in with the police was the problem. Well it wasn't, Sharon left out a little bit of information, that her fucking douchebag boyfriend has a bit of a criminal history.
+
 Sharon gets home, pulls me to the side to tell me this. I still can't fucking believe it. They just, stamped some "DENIED" on a goddamn piece of paper and it's over. I had to look at Erika on the couch, perfectly fine going about her business and it was up to me fucking tell her. So I started telling her, and I knew I was breaking. I knew I wasn't going to last any longer. I started crying on her, and when she heard she did the same thing. Sharon just basically pulled her away from me and all I could fucking cry, I barely even said a goodbye. When she left, I just fucking sat there crying like an asshole, and then I became impetuous as I usually am thinking I needed to go kill myself. Of course I didn't, thought it over and thought that it would be okay. Surely there's gotta be some sort of appeal right? Surely I can go see her until then? Surely it'll get sorted out, right?
+
 Well today, nope. I tried asking Sharon if there was anything, she could tell I was miserable and that it was killing. And here's what she fucking said to me. "Jake, maybe it's time you move on." "Jake, you're young, you don't need a kid to worry about." and "Jake, Mark and I are getting married, we want to start our own family." I wanted to strangle Sharon, I really did. I guess that's her opinion of it. Erika was just a phase and now her and I can move on with our lives and do something else. That fucking cunt, she knew it all along. She knew it would be rejected, she wanted it to be. She probably did it herself, that bitch. I hate her. She's going to marry that douchebag. She also said it's time I find another place to stay (in her nice little roundabout cunt way). So yeah, I'm back where I started. No Erika, no house.
+
 I tried going down to the children's home to visit her. THEY FUCKING REJECTED ME. They said that visitation was for potential adopters only, and being that I'm rejected I'm not a potential adopter. That's just all they do is fucking reject and reject. So what does this mean? I'm never going to fucking see her at all again? That last little crying bit was the last I get to see her?
+
 I tried calling Luke, he hates me. He said he doesn't want anything to do with me. He told Melinda himself, and she already forgave him. My little sister doesn't like me much either. My parents are still pissed at me, can't go with them. Sharon basically told me I'm a fucking leech. Mark despises me. Megan's got a new boyfriend and doesn't want anything to do with me. So yeah, there you go. You all win. I know everybody out here reading this, and everybody in the chat enjoys it more when shit goes bad for me then when shit goes good. YOU FUCKING WIN GUYS. Fuck you all. I guess it goes without saying this is the last you'll ever hear of me, I may be in chat or sign onto that aim name if I don't kill myself tonight (it's looking pretty damn good, I have to tell you) but I don't know why I should when all of you just wanted to see my fail. You win, I failed. I get nothing. I hope you enjoy that, I hope you all really do. Sharon, Luke, they all wanted me to fail too. I really do hate the world though, why shouldn't I? What happened to fucking karma? It works in the exact goddamn opposite for me. I try to do nice stuff and all I get is shit. It's over, I won't see her again. I really do feel like just being rid of all of the stupid shit this world has to offer.
 
 # Thread 31  #
@@ -122,11 +131,19 @@ Well it's the blindmute loli guy, not dead. Some things happened the night I mad
 ## David Sellydud 07/08/29(Wed)21:33 No.12042  ##
 
 A spectre is haunting CPS - a spectre of bureaucratic bullshit.
+
 This is a declaration of war. War, you say? Yes. As you all know, for the last week in a half or so I've been having Emofest 2007. There was baaawing, and there was more baawing. But you already all know this. I'll just get to the point. I'm not giving up. I owe it to Erika and to myself. So what am I doing now? Tomorrow, I'm going down to the orphanage where Erika is at. And I'm not going to ask, I'm going to demand they allow me to see her. Sharon was the one rejected, not me, so they're going to let me see her or I'm going to gather Fred Phelps and the WBC and have a giant bukkake on the face of every staff member there. As you can see, I'm not depressed anymore. It solves nothing at all to sit around crying about things you could probably fix if you got off of your ass and did something. I'm leaving tomorrow and driving down there. As for adopting here, I'm not done yet as far as that goes either. My parents agreed to help me out. How did I convince them? I let them read every post on Wikichan. Yes, I was that desperate. Some parts were a bit painful to have them read, I'm sure they know more about their son than they ever wanted to know now (my father laughed his ass off when he read about my sex (mis)adventure though). "Sometimes the train leaves the station a bit too early Jake. Just be glad you're not my age, sometimes it doesn't leave the station at all."
 
 ## David Sellydud 07/08/29(Wed)21:34 No.12043  ##
 
 As for those of you who didn't like Luke, he apparently got what he deserves. My sister told me that she heard from Luke (who called her and got her in trouble) that he was kicked out of Melinda's place for telling her about his infidelity. The real kicker: he asked her to move into our house. My sister actually was stupid enough to ask, which resulted in my parents yelling at her for quite a bit. My sis and I have decided to make up though. Sure, she did some stupid shit, but I can relate to that. We still love each other anyways. Basically, things aren't hopeless. Things were never hopeless actually. People have always said you have to work for what you want, and I want Erika. I really really do. If I don't make a fighting effort at this I'm going to regret it forever. Since today I've just been warming up, but now I realize this may be a bit harder than I thought. But I don't care. I'm certainly tired of being a quitter. So CPS better know this: Surrender now or prepare to fight.
+
 (meowth that's right)
+
 PS. I saw the thread on /i/. It was really heart warming, and one of the things that motivated me to get off of my ass. If some random internet people are willing to fight for Erika, then there's no reason I shouldn't. If my plans now fail, I will request /i/'s assistance. But I have to make one last effort by myself. Since you guys really helped me, I decided to post this thread on 420chan as opposed to 4chan. I hope nobody minds.
-{{Blindmute|July 2007|September 2007}}
+
+[[Previous Page: July 2007|bl2]] | **This Page**: August 2007 | [[Next Page: September 2007|bl4]]  
+
+---
+
+[[Index: Blindmute Loli|Blindmute Loli]]

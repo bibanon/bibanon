@@ -1,8 +1,0 @@
-[[Image:1165268766543.jpg|right|thumb|200px|LolCats down]]
-On December 4th a link to the website [http://lolcats.com LolCats] was posted on /b/ along with an explanation saying that the site was watermarking cat images created by 4chan anons and distributing them for MySpace.  /b/ sprung into action, soon finding personal information on the owner of the site and beginning a raid of his personal MySpace page.  His MySpace was soon deleted, and several citations were added to his site stating that many of the images had come from 4chan, and that he LolCats didn't mind if the watermark was removed individually, they were just hosting the images.  Also, a note was added to the index of LolCats stating that no more images would be accepted that originated from 4chan, and that the site owner was a big fan of 4chan. Needless to say, this wasn't enough for /b/.
-
-It was around that time that an anon discovered a test FTP account on the lolcats server with a weak/default name and password that was easily broken.  This account had r/w access to a single directory, in which anonymous began uploading many large files and spamming download links on /b/ in order to rape bandwidth.  The site was soon closed, and has been offline since. The site now consists of the text "Not coming back, get over it.", confirming that the site owner has surrendered to the Anonymous legions.
-
-As of 6/2/07 lolcats.com is back up. Get the word out!
-
-{{Invasions}}

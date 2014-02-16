@@ -1,4 +1,7 @@
-## Bibliotheca Anonoma
+[[traditional-square-kufic-ba-logo.png|alt="BA Logo"|height=200px|width=200px]]
+
+Bibliotheca Anonoma
+===================
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
@@ -10,22 +13,38 @@
 ## [[Stories]]
 
 * [[Damaged Goods]]
-* [[Blindmute Loli]]
 * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
+* [[Blindmute Loli]]
 * [[Tramp Anon]]
-* [[Uncle Anon]]
+* [[Romeo-san and Juliette]]
 * [[The Liliad]]
 * [[The Great Scam]]
 * [[American Dream]]
+* [[AOHell]]
+* [[Uncle Anon]]
 * [[more...|Stories]]
+
+
+## [[History]]
+
+* [[4chan History]]
+  * [[Ayashii World]]
+  * [[2channel]]
+  * [[2ch History]]
+  * [[Futaba Channel (2chan)|Futaba Channel]]
+  * [[world2ch]]
+* [[Something Awful]]
+* [[People]]
+* [[more...|History]]
 
 ## [[Books]]
 
 * [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
 * [[The Big Book of Anonymous Recipes]]
-* [[4chan History]]
+* [[Programming]]
 * [[Epic Win For Anonymous]]
+* [[Netizens Netbook]]
 * [[more...|Books]]
 
 ## [[Collections]]
@@ -36,12 +55,14 @@
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
-* [[BATF Guide to Bronies]]
+* [[BATF Subcultures At-A-Glance]]
 * [[more...|Collections]]
 
-## History
+## Website Archives
 
-* [[History]]
+* [Insurgency/Partyvan Wiki](https://github.com/bibanon/Insurgency-Wiki/wiki)
+* [Tanasinn.info Kopipe (Copypasta)](https://github.com/bibanon/Tanasinn-Kopipe/wiki)
+* [Neglected Mario Characters](https://github.com/bibanon/Neglected-Mario-Characters/wiki)
 
 ## Encyclopedia
 

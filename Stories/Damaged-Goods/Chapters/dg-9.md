@@ -6,11 +6,13 @@
 ### 19530627 ###
 
 Hey, [/b/](//b/). Just a quick check-in as I get ready for work, having been busy all day running errands and meeting with various people to do various other things. I figure that some of you might care, so I'll drop off the tidbit, and let you see for yourselves.
+
 Inspired by a few comments at the end of sunday's thread before I was called away and it disappeared, I thought to myself: Why not? And I went out on monday to pick up a book on origami, and a package of origami-specialized paper. I know, unoriginal.
 
 ### 19530851 ###
 
 I presented it to her after I signed into work and found no emergencies waiting; she wasn't so hot on the idea at first, similar to her initial reaction to the DS, but I offered to give it a try first, and demonstrate that I was willing to show my own ineptitude, just to prove that a less than perfect first attempt on her part wouldn't be 'her fault'.
+
 My first crane, which was the only origami I ever actually made before then, back in grade nine, looked like it'd been hatched on top of a toxic waste dump, to be kind. It actually provoked a short, stifled laugh from her, which is always very nice to hear, rare as it is, and the fact that she did try to stifle it made me feel a bit better about how badly I'd sucked.
 
 ### 19531152 ###
@@ -21,6 +23,7 @@ It took her a while, in a state of intense concentration, and I practically held
 ### 19531472 ###
 
 Still, she was doing much better than I had been. Not perfectly, of course, as it was clear that this was a new 'exercise' for her, but very well indeed, all in all. It took her about five minutes, and I was almost ready to jump in and offer her some he;lp at a few points, but I managed to resist, thankfully. She even eventually wound up using her mouth as a secondary grasping tool (something she's been doing for a while, though not in a dirty way, you perverts), and the wings flapped out, and there it was. Sure, it was a bit of an ugly eggling, but it looked considerably better than mine, which seemed to please her, though not in a petty way.
+
 Her looking pleased was enough to make me look that way too. And we went on to make a couple more before I was called away; I returned after a half hour to find another half-dozen waiting for me.
 
 ### 19531714 ###
@@ -30,7 +33,9 @@ Each of them looked a little better than the previous one, and she seemed please
 ### 19531919 ###
 
 > _Im the guy who suggested the chocolate orange. Do you ever sneak in a longer touch when putting on her arm or is it purely proffessional and succinct? Maybe something she wouldn't notice but you would. Embrace a bit of pedo into your heart man! _
+
 Too many questions to answer them all, but I will do this one: No, I haven't. I touch her enough while I'm helping her put them on as it is, let alone for other reasons, and touching her inappropriately would just be more trouble than it's worth, not to mention it being not good in general.
+
 The fact that she's come to be comfortable with me to this extent, moreso than the other nurses, isn't something I want to ruin.
 
 ### 19532378 ###
