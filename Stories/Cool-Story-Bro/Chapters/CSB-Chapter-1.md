@@ -4,6 +4,8 @@
 
 And now, for some particularly uninteresting conversation.
 
+---
+
 A week last Tuesday I heard a knock on my door, 1:30 am in the morning no less. 
 
 "Yeah yeah," I shouted as the knocking continued. 
@@ -417,11 +419,11 @@ you're a better man than me op. if my ex ever showed up at my place unannounced 
 
 also
 
->20 boners
+\>20 boners
 
 ## 1231490
 
-We got out and carried the boxes up to my flat, his flat was the other side of the city so it took a while to get back, it was so quiet in that car on the way back I hardly noticed that she had been crying, but her cheeks were red and puffy which was a clear indication, that silence continued as we went in and set the boxes down in the livingroom, "There." I said 
+We got out and carried the boxes up to my flat, his flat was the other side of the city so it took a while to get back, it was so quiet in that car on the way back I hardly noticed that she had been crying, but her cheeks were red and puffy which was a clear indication, that silence continued as we went in and set the boxes down in the livingroom, "There." I said.
 
 "Thats the hard part over, now we just need to sort your life out..." She stood staring at me as tears began trickling down her face again, she started stumbling towards me, as she welled up and as she fell onto my chest she began bawling loudly, wrapping her arms tightly around my waist, I stood in complete silence.
 
@@ -429,32 +431,57 @@ I went to put my hands on her shoulders or embrace her, but I couldn't bring mys
 
 I thought to myself "Natural for her to get it all out I guess...", she looked up at me, I exhaled through my nose and stared back at her, then said "You hungry? I don't know about you but a shower and some food sound pretty good about now, I don't think I can answer my door to the curry man with blood on me after all", she smiled and loosened her grip.
 
-"Blood on your forehead" I said, pointing to it, "You probably want to wipe that off, there's a small chance he might be retarded enough to call the police, you don't want to look like an accomplice to assault, you should dry your eyes too...", she looked up at me and grimaced before turning and walking into the bathroom, I followed and turned into my bedroom to pick out some shorts and a clean t-shirt, then called the curry house while she cleaned herself up in the bathroom.
+"Blood on your forehead" I said, pointing to it. "You probably want to wipe that off, there's a small chance he might be retarded enough to call the police, you don't want to look like an accomplice to assault, you should dry your eyes too...", she looked up at me and grimaced before turning and walking into the bathroom, I followed and turned into my bedroom to pick out some shorts and a clean t-shirt, then called the curry house while she cleaned herself up in the bathroom.
 
 ## 1231561 (OP)
 
-I undressed in my bedroom, taking my t-shirt off, then my tank top and finally the pads I laughed to myself "Some good these fucking things were, what the hell was I thinking?", I took them off and whimsically skimmed them under my bed, then took my shoes and cargos off and did the same for the thigh and shin pads "You out of the bathroom yet?" I called out, "I heard a "Yes" from the livingroom.
+I undressed in my bedroom, taking my t-shirt off, then my tank top and finally the pads I laughed to myself "Some good these fucking things were, what the hell was I thinking?", I took them off and whimsically skimmed them under my bed, then took my shoes and cargos off and did the same for the thigh and shin pads.
 
-As I walked into the bathroom I said "If the curry man comes while I'm in here my wallet is on my desk in my bedroom, it should come to around 20 quid", "Okay." came back and I jumped in the shower making sure to scrub my face well to get the pig blood off of me.
+"You out of the bathroom yet?" I called out. 
 
-The curry man came as I was in there and I heard her pay and take the bag into the kitchen, when I came out she had already prepared the meal and was sitting down in the livingroom with the plates on the coffee table waiting for me, "Still need to dry my hair" I said as I peered into the room "It's fine you can start without me", when my hair was dry I took a seat, leaned forward and started eating.
+I heard a "Yes" from the livingroom. As I walked into the bathroom I said 
 
-When the meal was over I took the plates into the kitchen and washed them up in the sink, stuffed and tired I took 2 ice cold beers out of the fridge and opened them, and placed one in her hands in the livingroom before flopping down onto the sofa... silence filled the room as we watched the news on TV, I smiled to myself fantasizing about me appearing on there "Super badass crushes fat guys nose, ends string of domestic abuse, police now charging him with assault and battery, more on this at 10!"
+"If the curry man comes while I'm in here my wallet is on my desk in my bedroom, it should come to around 20 quid".
 
-I looked over at her, she seemed to be deep in thought for a while before catching me staring, I huffed, gave a smirk and said "It's getting late... Go ahead and take a shower, at least now you can wear your own pyjamas right?", she smiled before getting up to go for her shower, taking the oppourtunity that had presented itself I stretched out on the sofa letting my legs dangle from the side, normally I'd sit on the sofa opposite but the small coffee table had forced me to sit next to her, I finished my beer and closed my eyes relaxing after a "job well done" and let out a big, loud roar as I yawned, I heard the water starting to run in the shower, then I drifted off for a while.
+"Okay." came back and I jumped in the shower making sure to scrub my face well to get the pig blood off of me.
 
+The curry man came as I was in there and I heard her pay and take the bag into the kitchen, when I came out she had already prepared the meal and was sitting down in the livingroom with the plates on the coffee table waiting for me, "Still need to dry my hair," I said as I peered into the room. "It's fine you can start without me", when my hair was dry I took a seat, leaned forward and started eating.
 
-When I came to she was sitting on the sofa opposite watching TV in a pair of soft pink formal-style pyjamas "Classy" I thought to myself before sitting up and rubbing my eye, "How long?" I said, she looked over at me and said "Not long... about half an hour", "Shit" I said, standing up to stretch out, "I can never get to sleep after a nap", I picked up the coffee table and placed it down before sliding it against the wall, "Cmon, it won't do either of us any good if we keep staying up, it'll just fuck up our sleeping patterns", with that she stood up and walked behind the sofa and together we pushed them into the same bed formation they were before, I took the sleeping bag and folded it out over the sofas and threw the pillows to the arm rests, then walked over to the lamp, set the timer and turned it on, "Do you want the radio on low like last night?" I asked, she nodded "Kerrang? Galaxy? BBC 1?", "Kerrang please" she said quietly, sitting down on her bed, "My ipod has some albums on it too, if you still have the same shitty taste in music as me just put it on shuffle and press the aux button in top", "okay" she said as she nodded, I dimmed the lights right down again as I went to walk out of the room, as I grabbed the door handle she jumped off her bedding and made her way over to me, without warning she wrapped her arms around me again and pressed her face hard into my chest.
+When the meal was over I took the plates into the kitchen and washed them up in the sink, stuffed and tired I took 2 ice cold beers out of the fridge and opened them, and placed one in her hands in the livingroom before flopping down onto the sofa... silence filled the room as we watched the news on TV, I smiled to myself fantasizing about me appearing on there; "Super badass crushes fat guys nose, ends string of domestic abuse, police now charging him with assault and battery, more on this at 10!"
+
+### 1231651
+
+These kind of stories are why /r9k/ is my favourite board and like >>1231538 said, op is more of a man (alpha) than all of r9k together, because helping someone, wether it's a guy,girl, ex gf, friend or what ever that has betrayed you in the way she betrayed him, have the heart and the balls to not flip out and throw that person out on the steets to die, is what makes you a real man. Not being a total douche.
+
+## 1231617 (OP)
+
+I looked over at her, she seemed to be deep in thought for a while before catching me staring. I huffed, gave a smirk and said "It's getting late... Go ahead and take a shower, at least now you can wear your own pyjamas right?", she smiled before getting up to go for her shower. 
+
+Taking the oppourtunity that had presented itself I stretched out on the sofa letting my legs dangle from the side. Normally I'd sit on the sofa opposite but the small coffee table had forced me to sit next to her. I finished my beer and closed my eyes relaxing after a "job well done" and let out a big, loud roar as I yawned. I heard the water starting to run in the shower, then I drifted off for a while.
+
+## 1231743 (OP)
+
+When I came to she was sitting on the sofa opposite watching TV in a pair of soft pink formal-style pyjamas. "Classy," I thought to myself before sitting up and rubbing my eye. 
+
+"How long?" I said. She looked over at me and said "Not long... about half an hour". "Shit" I said, standing up to stretch out. "I can never get to sleep after a nap".
+
+I picked up the coffee table and placed it down before sliding it against the wall. "Cmon, it won't do either of us any good if we keep staying up, it'll just fuck up our sleeping patterns". With that she stood up and walked behind the sofa and together we pushed them into the same bed formation they were before. 
+
+I took the sleeping bag and folded it out over the sofas and threw the pillows to the arm rests, then walked over to the lamp, set the timer and turned it on. "Do you want the radio on low like last night?" I asked. she nodded "Kerrang? Galaxy? BBC 1?", "Kerrang please" she said quietly, sitting down on her bed. "My ipod has some albums on it too, if you still have the same shitty taste in music as me just put it on shuffle and press the aux button in top." "Okay," she said as she nodded. I dimmed the lights right down again as I went to walk out of the room, as I grabbed the door handle she jumped off her bedding and made her way over to me, without warning she wrapped her arms around me again and pressed her face hard into my chest.
+
 "Thank you..." she said quietly, "... I promise I'll make up for everything I did to you Daniel...", with that she squeezed and then let go standing back, "Night" I said as I began to step backwards out of the door, "Goodnight" she said back, and when that I closed the door, went into my bedroom and flopped down onto my bed face first.
 
+## 1231882 (OP)
 
 admittedly I found myself in a bit of a worry over what I'd done and whether he was stupid enough to try and press charges... "its our word against his... he says aggravated assault, I'll say self-defense and defending a friend who lived there, his side won't stand up in court, not after they see her bruises, if he can think as far as that he wouldn't dare, they'd eat a fattie like that alive in prison", I reassured myself with these thoughts... still not being able to sleep I decided to tip-toe into the kitchen and took a bottle of malibu out of the cupboard, then I went back into my bedroom and onto the balcony, broke the seal on the bottle and had a good long swig before lighting up a cigarette and leaning against the wall, my feet sticking through the railings... I sat there for ages trying to clear my head, staring out at the cityscape like the night before that, I took it easy but kept sipping the malibu, hoping to get drunk enough not to be able to drink so hard and eventually go to bed... before long I found myself staring out admiring the lights of the city centre, I heard the door creak open and a small familiar figure peer out, "Can't sleep either can you...", "No..." she said before taking a seat next to me, I picked up the bottle and offered it to her, she read the label slowly before taking a swig, coughing as her body tried to reject the strong taste of rum among the coconut, I smiled and said "If you don't drink it straight you're supposed to tell me... it's barely 20% proof... I'm guessing you're still not much of a drinker.", she composed herself before leaning on me, then she took another swig, this time calmly without gagging, then let out a loud sigh... "I don't know what I'm going to do..."
 
+## 1232041 (OP)
 
 "... well, if it's anything like getting kicked out, you're supposed to find a new address, tell your bank, place of work, DVLA and the passport office your new address, cancel any subscriptions you have at your old address... you get the idea", she looked toward me and gave a wry smile before looking out again, "... How did you find this place?", I took a swig before saying "Forget it, you're not going anywhere until you pay me back for starters, and thats probably going to take a few months... you can pay me back faster if we split the rent and bills between us... not thinking about going back on our deal are you?" "No." she said, with a serious tone "But thanks... that'll make it easier... do you mean I can live with you for a while?"
 I thought about this carefully and took my time to gather the correct words... lets not forget I hate her after all, I didn't want her thinking that we were pals just because she came to me in her hour of need, after a while I said "Until you've paid me back... I don't want you going anywhere, so yeah, you can register here for now, we'll do the paperwork tenancy after I get back from work tomorrow, you can spend tomorrow sorting out your accounts and changing your addresses. deal?"
 "Deal..." she said, staring out into the night sky, after a while I stood up and gestured for her to come in, I set the bottle and cigarettes down on my desk and stretched out on my bed, she sat down on the corner facing the door, it looked like she was trying to say something so I closed me eyes and waited, but nothing came of it... she stood up and with my eyes still shut I felt a tap on my forehead and she said goodnight and walked out of the door, I bought my fingers up and felt where she tapped, it was a little damp... "finger kiss" I thought to myself "If I'd saw it coming I'd have dodged it...", refusing to think about it any further I went to sleep.
 
+## 1232334 (OP)
 
 The next day I got up, showered, dressed and left for work without waking her up, I only left a note on the fridge that read "Change your addresses, help yourself to whatever you can find, I'll be going shopping before coming home tonight, be back around 7-8, remember your promise!", at work it was a pretty shitty day, like I thought my boss chewed the shit out of me in the morning briefing and I had to work twice as hard to catch up on my work, I was knackered by the time 5pm hit, I made my way to Lidl and did the shopping, then made my way back to the flat, when I came in she was sitting in the livingroom, paperwork out all over the coffee table with her netbook on her lap and her glasses on, "How did it go?" I said, walking into the kitchen to unpack, "I hope you don't mind Daniel, I had to use your printer to print out a new passport application and some other stuff"
 "Nah, had to be done I guess" I said whimsically, "What do you want to eat?" I called out, I heard nothing for a moment, then "Umm... I have a discount code for papa johns pizza in my email, my treat tonight", "Err... Alright, sounds good" I called back, grabbing 2 beers from the fridge and setting one her side of the coffee table before lying down on the sofa opposite, swigging the bottle of beer in my hand, "Well I called my landlord for the forms, he's dropping them off on tuesday next week, he said it's fine to split the rent I'm paying now but needs you on the tenancy agreement for his insurance..." She looked over at me and smiled before facing back down to her laptop, "You still look weird in glasses you know, reminds me of how you looked in school..."
@@ -462,80 +489,181 @@ She simply nodded before saying "You want a hot pizza, no mushrooms?"
 "Sounds good"
 "Seee... I remembered!"
 
+## 1232387 (OP)
 
->>1232334
 I thought for a second, sat up to face her and said "Your favorite colour is Blue, your dogs name was Maurice, Your mothers name was Betty and she was a bitch, your favorite teacher was Mr. French, he taught music, your favorite Artist was Alliyah and your favorite band was Electric Blue Orchestra, Your favorite movie was Rush Hour 1, Your favorite position was reverse cowgirl, you have 4 moles, 1 on your ass, one on your leg, one on your back and one on the back of your neck, You've always wanted to visit Canada, Your favorite animal was the dolphin, you prefer dogs to cats, you're insecure about your height, size of your boobs and the fact that you put on weight around your waist first, your favorite type of beer is Coors, your favorite chocolate is Galaxy, Your best friend was... pheh, me I guess... oh, and your favorite meal treat was pizza, your favorite toppings being jalepinos, red onion and spicy ground beef... Your turn." She sat and stared at me for a moment smiling, then said "For someone who can't stand saying my name you sure remember a lot about me..." I sat up, took a swig of my beer, pulled out a cigarette, lit it and said "I used to love you remember? You can't forget those details so easily... I could keep going if you want me to..
+
+## 1232541 (OP)
 
 She adjusted herself, my last commented seemed to make her uncomfortable, she thought for a second, then began "Your favorite color is red, you never had any pets, your moms name was Fiona and your dads name was Stuart, your brothers name was Marcus and your sisters name was Lisa, you always wanted to visit Japan, your favorite teacher was erm... miss... B something, she taught World History and you fancied her for ages, your favorite food is Chicken Madras with rice and garlic naan, your favorite artist was either Tupac Shakur or Wu-Tang Clan, favorite movie was that Top Gun parody with Charlie Sheen in it, you have a massive scar on your chest from when your big brother pushed you off a garage roof when you was 14, you was in hospital for 2 months, your favorite chocolate was dark, I don't think you ever told me the brand... You're insecure about your weight too because you were fat when you were a teenager, your favorite beer is some german cloudy stuff, but you prefer spirits, irish whiskey I think... ... ... thats all I got", I was honestly impressed, although I wouldn't show it, to think she knew so much and have been capable of doing what she did... "Amazing" I thought to myself "... Well I guess she would have had to have known me at least that well to do what she did", I looked over at her unable to hide my smile, although that smile was there out of sheer disbelief, she took it as me being impressed and buried her head in her laptop again, "See..." she muttered
 
+## 1232704 (OP)
 
 I was about to say what I was thinking but I thought better of it, instead I took a few drags of my cigarette and drank my beer while she sat typing away, "So... has any of that changed?" She said, looking up while typing, I thought for a second, then said "Well... My favorite artist is Tupac, and my favorite beer is Belgian, not german... the movie is called hot shots and it's cadbury's bourneville... thats the name of my favorite chocolate, haven't had any in years... but yeah, otherwise pretty accurate on the stuff you can remember, what about you? Anything changed?", she sat and thought, then shook her head, "No, I don't think so... I have a mole on my bum?", I nodded, "Left cheek, just above where the cheek meets the back of your leg", she smiled and rolled her eyes, "Perv" she let out, getting back to work on her laptop, "Puh-lease... I know your body inside and out, I could write a manual for you.", she smiled and typed away until the doorbell rang and I bought in the pizza, as we sat down and ate she said "Cmon then, tell me all about my body", "No" I said, looking at the tv and picking up a slice "I'm not here to indulge you, the fact is I know and that's all there is to it"
 "Alright, she said as she turned to the TV, one thing and I won't bother you about it again, something nobody knows except you"
 I thought for a moment and chose carefully, waitiing for her to put a slice if pizza in her mouth, then I said "When you cum hard you make a sound like a rusty garden gate and you go cockeyed"
 
+### 1232716
+
+\>\>1232704  
+>"When you cum hard you make a sound like a rusty garden gate and you go cockeyed"
+
+/thread
+
+### 1232731
+
+\>\>1232716  
+Beat me to it. Damn you, Sir.
+
+### 1232743
+
+\>\>1232731
+Haha, I'll put you in the credits of that post!
+
+## 1232888 (OP)
 
 She gagged on the slice, covering her mouth with her hand, throwing the half eaten slice back in the box, I grinned and squinted my eyes at her, then took a victory swig of my beer, when she managed to swallow he uttered "fucker!" under her breath, then she went on to say "I swear on my moms life, you're the only one who's ever made me do that." While still looking at the TV I said "If you're trying to boost my ego don't bother" She waved her hands and said "No I'm not, just a matter of fact thing"
+
 "Well, it's easy to do, I won't bother explaining the mechanics of it but you'd be surprised how much I still remember... just a matter of fact thing"
+
 "Is that so?"
+
 "Yeah..."
+
 "... hmph."
+
 We polished off the pizza and watched TV until 10pm, noticing the news coming on I said "Cmon, you should probably go take a shower now, I'll set up your bed and stuff", she went into her boxes, then turned around and said "I don't have any more pyjamas... or clean towels..."
+
 "Hold on" I said while getting up to walk into my room, then I dumped a fresh pile of jogging bottoms, an old T-shirt and towel next to her, "Thanks." She said as she made her way past me and into the bathroom, I set everything up for her and when she came out I went to bed, not long after I settled I heard movement, then the bathroom light shone into my bedroom through the cracks around the door... then when she was done, I heard a knock on my door.
 
+## 1233055 (OP)
 
-"T's open" I said hazily, my mind firmly in sleep mode from the long days work, she shuffled in and took a seat on the bed, asking if we could talk and saying it wouldn't take long, "Alright" I said with my arms over my eyes "quickly though...", she sat fidgeting for a moment then looking away with her back towards me she began, "I've been thinking all day while filling out that paperwork... and I'm scared about how you might react when I say this..."
+"It's open," I said hazily, my mind firmly in sleep mode from the long days work, she shuffled in and took a seat on the bed, asking if we could talk and saying it wouldn't take long, "Alright" I said with my arms over my eyes "quickly though...", she sat fidgeting for a moment then looking away with her back towards me she began, "I've been thinking all day while filling out that paperwork... and I'm scared about how you might react when I say this..."
+
 "No going back on our deal." I said firmly "and you're definitely not going back there"
+
 "I know..." She said quietly "I'm not trying to go back on the deal, I promise..."
+
 "Alright... then whats this about?"
+
 "... Do you think you'll ever be able to say my name again..?"
+
 I'll admit, it felt like she was pressuring me a little bit and it made me uneasy, but I tried not to get angry about it, I wanted to go to sleep and I've never been good at going to sleep pissed off, so I let out a deep breath and gave the only answer that I could think of, "I'm only going to say this once... how you take it is your problem", I felt her shuffle, probably nervous about what I was going to say.
+
 "You did something so horrible to me and my family that I honestly sat awake at night for weeks wishing I could burst into flames, I lost a lot because of what you did, and what makes me angry the most is that you can't even come up with a good reason for it... That leaves me imagining that you never loved me and that you did it sheerly out of spite and the fact you could... telling you what I went through is pointless because it's in the past, it's over now and I'm through it, it might have taken me back a few years but whats done is done. nothing can change it... now if you were in my position, and I'd done all that to you, do you think you'd be able to say my name without feeling angry?"
 
 ... "No."
 
+## 1233172 (OP)
 
 She began to sob, which put me in a spot... I wouldn't be able to get to sleep with her sobbing "Fuck me..." I thought. sitting up, too tired to think about the implications I put my arm around her and pulled her sideways and down onto my chest and shushed her, I was more than aware of how it could be interpreted but I really just wanted to quiet her down so I could get some sleep, eventually her sobbing softened and I'd noticed she'd grabbed my arm to cuddle, a little annoyed at her taking liberties after all that I'd said I decided not to act rashly and set her off again, a little part of me was happy about it, it's exactly how she used to sleep with me, she had to be touching me somehow, whether she'd be wrapping herself around my arm or sleeping on my chest with her fingers touching her mouth, it made me smile briefly, before that feeling was consumed by darker memories, I let out a loud sigh and with a quiet "For fuck sake..." I settled down and eventually fell asleep.
 
+## 1233809 (OP)
+
+Man that pizza was tasty... if any of you have a snappy tomato pizza near you, order one! If it's anything like the one I had you'll be blown away by it's deliciousness, even when cold!
+
 I awoke at around 5:30 and found her sprawled over me, she had been awake in the night, that much was obvious because I noticed the unzipped sleeping bag was there too, maybe she got up to take a piss or maybe she was too cold and went to get it, either way it was curious... what was more curious was the way she had her hand up my shirt, she always had a thing for that... I remembered us having a long conversation about the scar tissue after the first time we had sex, she asked what it was like and I told her scar tissue is almost hyper-sensitive, running your finger over it felt weird, like a tingling sensation... when I landed on the floor after the garage accident it crushed my ribs inwards and fractured them in a few places, one of them broke too and got lodged... I had to have an operation to set them all back in place, thus, the scar, it only took me a couple of months to get over that, and although I was excluded from PE and sports for a while (making me chubby) I eventually completely healed and the only momento of that near brush with my maker was that scar, she always had a thing for touching it... I lay there for a while watching her sleep, and very slowly peeled the blanker over and lifted the back of the spare t-shirt that was immensely baggy on her, it made me angry to look at it... her soft olive skin riddled with deep patches of bruises scattered everywhere, so much so you could hardly see her true skin tone from the angle I was looking from, I pulled the t-shirt down again and gently scratched the top of her head with my fingers through her hair, the sun was beginning to creep and I needed to get up for work,
+
+### 1233859
+
+cool story so far, all i wanted to say is this..
+
+stop with the damn showers.
+
+>do X thing  
+>now go take a shower  
+>do Y thing  
+>now go take a shower  
+
+Wasting all that water bro, you're already clean
+
+### 1233908 (OP)
+
+\>\>1233859  
+
+lol I shower twice a day, 3 times if I've been doing something sweaty like sex or beating up fat people, I can't get comfortable unless I'm clean! it's a serious problem sometimes.
+
+also, it's 22:46 here and way past 10, which is where I usually go to bed. Should I pick this Cool Story up around 06:30 american time tomorrow? There's plenty of cool story left to enjoy and the best is yet to come judging by what people seem to want to read, theres only 2 days left of story. that cool?
+
+
+
+### 1240735 (OP)
+
+\>\>1240663  
+
+> I swear UncleAnon was the original writer from the start, but didn't bother tripfagging until a bunch of other people started writing the story for him. Oh well, great story so far. Just want faster updates
+
+I am the OP, and I'll be writing again soon, just came back from my run and putting dinner on, the next part is the heart of the cool story, my posts are easy to spot because they're consistent with my writing style, but the pastebin I posted before I went to bed is everything up to where we are so far.
+
+## 1233814 (OP)
 
 when she began to stir I took her arms and placed them near her chest before shifting out from under her and jumping out of bed, I quickly showered expecting her to be up but she was still under than light blue sleeping bag quilting, so I sat down on the edge of the bed, took the hairdryer out of the drawer and turned it on, as I began to blowdry my hair she turned around to face me and with no expression she watched for a moment as I dried my hair., when I turned the dryer off and stood up to open my wardrobe she sat up, I turned around and said "Still not a morning person..." she smiled and rubbed her face with her hands as I fished out a shirt and tie, and noticed she was watching me in the mirror next to my bed, as I looked into it she looked away. "Y'know I'd charge you if I wasn't sure you were broke until next week, what happened to sleeping in the livingroom anyway? My sofas are comfortable aren't they?" she said nothing for a moment, then as I was doing my tie she said "Sorry Dan.." I looked at her in the mirror and said "Well don't make a habit of it or anything, remember the deal... now what are you gonna do today?"
 
 She scratched her head as she pondered, then said "Go to the bank and hand in the change forms, post my passport and drivers license changes, call in to work and make sure I'm on for tomorrow..." "-- and take the laundry to the laundromat down the road?", she stared at me for a moment before nodding, then made her way to the bathroom.
 
+## 1241637 (OP)
+
 I felt a pang of guilt using her to get the laundry done but it was only down the road and if she was going to be living with me for the time being she should help out with chores, I wash my clothes once a week anyway so she wouldn't have too much to carry and it's better than me taking her stuff, ex girlfriend or not women have a thing with clothes and they don't like other people touching them...
 
 Confident that she had a game plan for the day I set off for work, and as usual the working day way pretty damned uneventful, "At least it's friday" I thought while I was standing in the briefing room, the day went fast as I ploughed through the pile of paperwork on my desk in a serious attempt to get the drop on next week, by the time 4:30 hit every document had been seen to and seeing as I'd skipped lunch I told my boss I was getting off early, content with the fact that I'd cleared my workload he waved me out and I made my way down to the carpark, in my car I pulled out my phone and went to call her but I realized that I'd deleted her number... "Can't hurt" I thought to myself as I keyed in the number I knew 7 years ago, "I haven't changed my number so it's possible she hasn't changed hers...", I set the phone to go through the car speakers and placed it in the dock as I drove out onto the main road, it took her a while but she picked up "H-hello?"
+
 "Oh so you still use this number? Thats good."
+
 "oh hello Daniel"
+
 "Hi, so did you get everything done today?"
+
 "Yeah, I'm at the laundromat now"
+
 "Good, so it's friday and I usually have pizza on fridays... So I'm getting pizza, will you be back in about an hour or two?"
+
 "Yes. But you don't have to buy me anything"
 
+## 1241641 (OP)
+
 "I'm not eating pizza in front of you, thats fucked, and if you feel bad about it then we can go halves, sound good?"
+
 "... Okay."
+
 "Cool, see you soon."
+
 "Bye."
+
 So I stopped off at Snappy Tomato Pizza and got a pizza with her toppings on one half and mine on the other, then went into the offlicense and got a 4 pack of coors in a vain attempt to make her stop drinking my beer, threw the bag and the box in the back seat of the car and set off towards home with some cheesy rock rap, thinking about it I'm sure it was Xcutioners.
+
+## 1241656 (OP)
 
 My door was wide open when I got back to the flat... my mind started spinning as I walked through the hallway, all the doors wide open, light fitting smashed... my framed signed album art poster in the hallway on the floor glass smashed and the frame trampled, peering into the bathroom the mirror was cracked with shards over and inside the sink basin, the shower curtain pulled down and the hot water left running in the sink... the livingroom was completely trashed, the sofas toppled over, the glass on my coffee table shattered all over the floor and I could see bits of her phone amongst it, as if it had been picked up and bombed down towards the floor causing it to shatter on impact, light fitting hanging down like someone had tried to rip it down, bulbs smashed, her moving boxes were also kicked over and her things were scattered around the room... TV shattered and my hifi system completely obliterated, bits of wood, plastic and glass everywhere, and in the kitchen my stove top was cracked and the appliances smashed all over the floor... I walked into my bedroom, threw the pizza on the bed, rubbed my face then took my cigarettes out of my pocket and popped one out into my mouth, dipping my head slightly to catch the lighters flame...
 
+## 1241662 (OP)
+
 looking around the room, footprints on my bed, the wardrobe doors had been booted inwards and my desk lamp had been thrown against the wall, I leaned over into my bedside cabinet and as I thought, my emergency bank notes had been taken out of my jewellery box along with my dads 1953 Seiko watch he got in Osaka years before I was born, my mothers locket I was planning to get fixed and give to my sister for her 18th, various bits of jewelery I'd accumulated over the years and my familys signet ring I was given for my 21st... I felt nothing... I was so taken back I couldn't even bring myself to feel angry, the ash on my cigarette dropped on the floor as I sat thinking... "Where is she... I said if he went near her again I'll bury him, I can't think of anyone else..."
 
+## 1242027 (OP)
+
 I rubbed my hands with my face again, trying to stop the surge of rage I could feel welling up inside my stomach... this wasn't the time or place, I took the cigarette from my mouth and took a long, deep breath, then rose to my feet and threw the cigarette butt into the toilet and flushed it, then I went into my cupboard, taking out a dark blue and black nike bag, then went into my kitchen first, into the cupboard beneath the sink and took a bottle of window cleaner, 2 microfibre rags and a paint mask, then back into my bedroom and took out a beanie hat, a black track suit top and bottoms and my black gym trainers... and finally the bathroom cabinet, I popped open my first aid box and took out a pair of purple medical sanitized gloves still in the packet and finally phoned the police and told them my place had been ransacked... the officer didnt take 10 minutes to arrive, he bought with him a SOCO bloke who went around looking for prints (but didnt find any, surprise surprise), after giving him a statement and a list of things that were taken they left, shortly after the drove away I started rummaging through her things... as I thought the stupid bastard didn't make sure he took her keys with him, and with those in my pocket I, without giving it any thought other than imagining what I'd do when I got there, jumped into my car and made my way back to that shit hole...
+
+## 1242036 (OP)
 
 I made sure to pull up a street away, I jumped into the back of the car and put the track suit top on, followed by the bottoms, then the beanie, then the shades, leaving my cargos and work shirt in the car, making sure my t-shirt was tucked in before zipping up the tracksuit top I changed my shoes for tennis trainers, and almost as if I was on auto-pilot I simply took the bag and exited the car from the back seat, putting her keys in one pocket and my keys in the other, I walked straight into the flat entrance and slowly walked up the stairs, "3b" I told myself, taking out my gloves and slipping them on, followed by the disposable paint mask, as I stood next to the door I listened intently... "TV's on... lights are on... kneeling down against the letter box and lifting the flap slowly to hear what was going on inside more clearly I could hear whimpering, her whimpering... then a THUMP followed by "SHUT YOUR FACE!" which made her shriek, I pictured her cowering in the corner like those domestic abuse adverts on TV, making up my mind I took her keys out of mypocket slowly and carefully I pushed the yale key into the top barrel lock, turning it quietly until the door unlocked, then without making a sound I took the key out and folded them into my hands and put them back into my pocket, zipping them up,
 
 "3...2...1."
 
+## 1242044 (OP)
+
 And letting all the pent up anger out in one flash I kicked the door and ran in letting the door catch on the spring and slam behind me, running straight into the livingroom and giving him no time at all to react, I rushed straight for him sitting on the sofa and before he could even say "FUCKI-" I ran in with my arm cocked and punched him straight in the face with all of my strength, not stopping I grabbed him by his collar and pulled him off the sofa and onto the floor, unleashing a barrage of kicks to his body, gritting my teeth and growling like a wild beast with every blow, "FUCKIN PRICK WHAT THE FUCK DID I TELL YOU WOULD HAPPEN" I growled as I lay into him, he folded his arms over his face and curled up into a ball, as much as I wanted to I couldn't stop kicking him, my impluses completely took control and in all the rage I lost my inhibitions, kicking at his arms until they gave way and then jumping down on him and laying into his face before raising my fist up twatting him on his nose again which was already freshly bruised from the night before, I continued while the blood from his nose pooled in his throat causing him to gag and cough it up all over the side of his face and up on to mine, the purple surgical gloves I was wearing were stained, and I'm sure if could see it, it would have been on my tracksuit too... at this point he wasn't trying to cry out anymore, he was just taking it, and if she hadn't grabbed my arm to stop me I'd have probably kept going until I killed him,
+
+## 1242050 (OP)
 
 As she grabbed my fist I looked up at her and growled at her through the mask and she shrieked and fell over, I kept my eyes locked on her, she had a black eye and her cheek had swollen up badly, enraged by it I turned around and punched him in the mouth causing her to cry out and wimper loudly, looking back at her again and seeing her sitting on the floor, wide-eyed and trembling at me, then looking at that sad sack of shit on the floor barely moving, I grabbed him by the collar and screamed "WATCH! MONEY! LOCKET! RING! NOW!", he pointed over to his jacket and I picked it up, then stuffed it into my bag, I looked back at her sitting on the floor watching me... I took out the window cleaner and sprayed them on the clean side of the rag, then used it to wipe over the door knob, the back of the door and anything else I could remember touching last time I was there, then I took the nozzle off of the bottle and Splashed a drop on his face that was fresh with grazes, he screamed out in pain as the chemicals seeped into his wounds and I screamed at him "WAKE UP! LOOK AT ME!", grabbing his collar and commanding his full attention.
 
+## 1242056 (OP)
+
 "What did I tell you last time I was here mate?" he went to speak and I grabbed his head and slammed it off the floor before picking him up by his collar again, "SHUT UP! DIDN'T I TELL YOU NOT TO GO NEAR HER!? DIDN'T I TELL YOU I'D FUCKING KILL YOU! HUH! OPEN YOUR FUCKING EARS MATE!" "YES!" he cried out "YOU BREAK INTO MY FLAT!? YOU TRASH MY SHIT!? YOU STEAL MY STUFF!? YOU TAKE HER!?" he lay there looking up at me, blood dripping down his face "LETS COUNT THE CHARGES! BREAKING AND ENTERING! THEFT! CRIMINAL DAMAGE! ASSAULT! BATTERY! GBH! KIDNAPPING! DO YOU THINK YOU'RE SOME SORT OF GANGSTER YOU FAT FUCKING CUNT!?" He looked up at me, saying nothing... I dropped his collar and stood up, tipping the window cleaner all over his face and clothes, then stood over him with my lighter in my hand, "P-Please!" he wimpered, covering his face with his arms "GIVE ME ONE GOOD REASON!" I yelled, my thumb ready to flick open the lid, he began shuffling backwards until his back was against the sofa, then a soft, whimpering voice from across the room said
 
-
 "... He's not worth it..."
+
+## 
 
 "He isn't worth it Dan..." she said quietly behind me "Don't throw your life away over him... Please..." I turned to her, then turned to him, then flicked up the lighter with my thumb ready to spark the flint, his eyes wobbled and I'm sure he was experiencing one of those "life before your eyes" moments... I sparked the flame and helt it over him, then spoke softly "I don't have much of a life to begin with mate, if I dropped this on you now all it would mean to me is free meals and a nice soft bed for 6-10 years... I hear they even give you TV's and Playstations in your cells now too for good behavior... 6-10 years of no bills, no stress, and a very long time to laugh about how I barbacued a fat fucking pig, thats if they could catch me anyway... I don't know if you've noticed but the gear I'm wearing is a fairly safe forensic precaution..."
 "I'll never go near you again!" He said, pleaded "I promise! I won't!"
