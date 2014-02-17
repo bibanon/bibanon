@@ -1,4 +1,4 @@
-[[http://i.imgur.com/PGoyIFV.png|float]]
+<img src="http://i.imgur.com/PGoyIFV.png" alt="RABU 5EVA" style="float:left;" />
 
 If [[those romantic stories from 2channel|Densha Otoko]] are like the "white knight in shining armor", then this story is like Don Quixote; a much darker deconstruction of romanticism gone wrong. 
 
