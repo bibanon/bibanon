@@ -1,4 +1,4 @@
-[[http://i.imgur.com/PGoyIFV.png|float|left]]
+[[http://i.imgur.com/PGoyIFV.png|float]]
 
 If [[those romantic stories from 2channel|Densha Otoko]] are like the "white knight in shining armor", then this story is like Don Quixote; a much darker deconstruction of romanticism gone wrong. 
 
@@ -31,8 +31,11 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 - [[Thread 7: [Help!] I’m Not Sure Who I Like Anymore (´･ω･`)|Denko Thread 7]]
 - [[Thread 8:[Help!] I’m Deathly Confused By How Women Think (´･ω･`)|Denko Thread 8]]
 
-### For The Legally Blind
-<http://www.youtube.com/watch?v=Gw-ID3eMcEw>
+### BrendanielReads: Denko
+
+A Youtube Indie Voice Actor named [BrendanielReads](http://www.youtube.com/user/BrendanielReads) has created an audiobook of this story, narrating the various personalities of the colorful 2channers with different accents, and thus the horrific ridiculousness of Denko's situation. Check it out below: (it's still ongoing)
+
+[Denko Audiobook](http://www.youtube.com/playlist?list=PLpNAl5zLZSMUcMfsUrHFGR_avA6Jql2bl)
 
 ### Sources:
 
