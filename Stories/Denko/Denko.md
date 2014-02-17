@@ -18,7 +18,7 @@ Along the way, he learns about hamsters, spaghetti, and how to write the perfect
 
 ### English Translation
 
-This english translation was created by vgperson on Tumblr, a person who is famous for translating interesting [[2channel]] posts. (the original Japanese text needs to be found, however)
+This english translation was created by [vgperson on Tumblr](http://vgperson.tumblr.com), a person famous for translating interesting [[2channel]] posts and Japanese RPGMaker games.
 
 The man writing his tale is labeled OP, and the replies from [[2channel users|2channel]] are labeled 2ch.
 
