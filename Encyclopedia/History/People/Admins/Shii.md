@@ -20,11 +20,17 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 * [[From AOL Hacker to Businessman]]
 * [[The Great Scam]]
 
----
+### Essays
 
-These are remnants and need to be moved to the Bibliotheca Anonoma.
+These remnants need to be moved to the Bibliotheca Anonoma.
 
 * [Shiichan Anonymous BBS](http://wakaba.c3.cx/shii/shiichan)
 * [harper's](http://mcdanesh.wordpress.com/2011/06/03/harpers-from-everything-shii-knows-the-only-reliable-source/)
+* [Waifu Essay](http://archive.is/OWgl)
+* [Church of Latter Day Yukkuris](http://archive.is/zcdp8) - Some stuff might be [preserved here](http://yukkuri.wikia.com/wiki/Yukkuri_Wiki)
+  * [The Genesis of Yukkuri](http://archive.is/jUGSD)
+* [Digg Clones](http://archive.is/AgyDB)
+* [Gomanism Sengen](http://archive.is/020tx) - Shii attempted to translate some of this manga. Thankfully, those translations are saved on other sites.
+  * [Mangafox](http://mangafox.me/manga/shin_gomanism_sengen_special_sensouron/)
 
 However, he had many other essays and opinion pieces that were not archived. Please help out and list out what he had, from internet archives.
