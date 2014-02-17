@@ -13,7 +13,7 @@ Along the way, he learns about hamsters, spaghetti, and how to write the perfect
 ### Characters
 + **OP**: A kind, but naive NEET in college who loves Denko a little too much. Or maybe not enough, depending on your view. 
 + **Denko**: The target of OP's love. She is fairly pretty according to OP, and helped him out when he was being bullied in high school. She seems to reciprocate his love (or at least that's how he sees it).
-+ **A-ko**: Denko's friend, though not a very good one considering what she does in the story. Doesn't get involved in the story until a few threads into it.
++ **A-ko**: Denko's best "friend". Though considering what A-ko does in the story, she's not a friend any girl would deserve.
 + (´･ω･`) : The emoticon from hell. If you see this thing anywhere, run away as far as you can.
 
 ### English Translation
