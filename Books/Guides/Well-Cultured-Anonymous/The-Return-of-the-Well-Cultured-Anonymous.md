@@ -1,6 +1,6 @@
 [[Wellculturedanon.png|float]]
 
-**The Return of the Well Cultured Anonymous** is an updated book based on the original **Well Cultured Anonymous** painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
+**The Return of the Well Cultured Anonymous** is an updated book, based on the original **Well Cultured Anonymous**, which was painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
 
 Some parts need to be updated, important topics need to be added, and a few pages need to be customized for a girl's point of view. If you can help with this, just go ahead when you feel like it.
 
