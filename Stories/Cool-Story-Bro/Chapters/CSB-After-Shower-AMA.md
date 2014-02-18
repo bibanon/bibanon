@@ -4,15 +4,15 @@ Part of CSB Thread 2. Dan finally returns after cleansing his body, to answer a 
 
 Summary of last thread:
 
->OP gets back with his ex because he's fucking stupid
+> \>OP gets back with his ex because he's fucking stupid
 
 Summary of this thread:
 
->They fuck
+> \>They fuck
 
 ### 1244006
 
->He'll probably shower and eat more of Snappy's Pizza again, because his More Than insurance policy leaves him enough money for pizza every Friday
+\>He'll probably shower and eat more of Snappy's Pizza again, because his More Than insurance policy leaves him enough money for pizza every Friday
 
 FTFY
 
@@ -47,8 +47,12 @@ probably has a waterproof smartphone and uses it to enter 4chan while showering
 
 ### 1252198 (OP)
 
->>1248734
-lol notice the long gaps between my posts? I'm usually up to something when that happens, eating, drinking, having a shower, going for a jog, lifting weights etc, I'm quite a solitary man and I don't have many hobbies, I don't even own an xbox or ps3, I had a wii but I got drunk one night and my leg caught around the power cable sending it flying off my set top box on the wall and smashing on the floor, I actually claimed it on the insurance heheh, I'm covered for accidental damage anyway but I just never got round to it until last week, can't wait to play me some Wii Sports and thee new Zelda: Skyward Sword, I'm actually a mega-huge zelda fag, final fantasy too but not owning a ps3 means not being able to play, from what I've read FF13 was a complete farce anyway and much worse than 12 so I'm not too bothered about playing it, if someone put a gun to my head and screamed "WHATS YOUR FAVORITE GAME!" I'd have to say Link To The Past, I played it on an emulator a year ago and to my surprise I hadn't forgotten a single thing about it and blew through it in less than 5 hours.
+\>\>1248734  
+lol notice the long gaps between my posts? I'm usually up to something when that happens, eating, drinking, having a shower, going for a jog, lifting weights etc. I'm quite a solitary man and I don't have many hobbies, I don't even own an xbox or ps3. I had a wii but I got drunk one night and my leg caught around the power cable sending it flying off my set top box on the wall and smashing on the floor, and I actually claimed it on the insurance.
+
+Heheh, I'm covered for accidental damage anyway but I just never got round to it until last week, can't wait to play me some Wii Sports and thee new Zelda: Skyward Sword. I'm actually a mega-huge zelda fag, final fantasy too but not owning a ps3 means not being able to play. From what I've read FF13 was a complete farce anyway and much worse than 12 so I'm not too bothered about playing it. 
+
+If someone put a gun to my head and screamed "WHATS YOUR FAVORITE GAME!" I'd have to say Link To The Past, I played it on an emulator a year ago, and to my surprise I hadn't forgotten a single thing about it and blew through it in less than 5 hours.
 
 Just got out of the shower, for the sake of you guys I timed myself and it seems I take around an hour in there from start to finish, a lot of time is eaten up working on my hair and deep cleansing then moisturizing my face, gotta keep those boyish good looks!
 
