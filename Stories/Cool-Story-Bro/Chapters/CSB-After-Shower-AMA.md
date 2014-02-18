@@ -4,11 +4,11 @@ Part of CSB Thread 2. Dan finally returns after cleansing his body, to answer a 
 
 Summary of last thread:
 
-<font color="green">\>OP gets back with his ex because he's fucking stupid</green>
+> \>OP gets back with his ex because he's fucking stupid
 
 Summary of this thread:
 
-\>They fuck
+> \>They fuck
 
 ### 1244006
 
