@@ -1,6 +1,8 @@
-This is a remastered edition of the story, produced by the Bibliotheca Anonoma from the original archived threads at installgentoo.net. 
+This is a remastered edition of the story, produced by the Bibliotheca Anonoma from [the original archived threads at installgentoo.net.](http://archive.installgentoo.net/cgi-board.pl/g/thread/12740705) 
 
-Because of the spam and shitposting that went on while he was speaking, most anons thought it fit to archive only the distilled story with no comments. Yet we shouldn't overlook the anons on /g/ that kept the author going, giving responses, encouragement, and a healthy bit of trolling, akin to the [[Densha Otoko]] TV Drama.
+Because of the spam and shitposting that went on while he was speaking, most anons thought it fit to archive only the distilled story with no comments. 
+
+Yet we shouldn't overlook the anons on /g/ that kept the author going, giving responses, encouragement, and a healthy bit of trolling, akin to the [[2channers|2channel]] in [[Densha Otoko]].
 
 # Thread 1
 
@@ -196,7 +198,7 @@ I told her i didnt and she just said "oh... thats bad", i never expected her to 
 
 I looked up, and i swear if i never thought it would be a deal breaker, i would have jumped over that table and squeezed her until her eyes popped out, i would scrub her floors with a toothbrush if it meant actually being able to sleep lying down in a safe warm place again, things were moving along great, at the end of the month and a half I was paid, 100 went to her for rent, and i was told to buy my own toiletries, clothes and food with the rest, things were looking up in a major way for me. 
 
-## 12743319
+## 12743319 (**Tramp anon** !!0JNSPD3l2CJ)
 
 the first night i met her near our workplace, all of my "things", "things" being the clothes i wore, the documents and passports in my jeans pocket, and we waited for her bus, she started laying down all the ground rules, "no dirty, no leaving, no complain, you do as i say, you eat what i eat, you wash when i tell you" etc etc, all more than agreeable. 
 
@@ -206,7 +208,7 @@ her flat was normal, clean, furnished, warm, safe, she lived in an ok neighborho
 
 She showed me into her livingroom and there was a cot made out for me, she said "this is where you sleep. this is where you live", it had a thin mattress, a sheet, a duvet and a pillow, it was old, obviously pre-dating her moving in, probably found in the heating cupboard, but to me, it was as good as a fucking emperor sized bed with a foam mattress and egyptian cotton sheets, it was amazing, youd think it too if you were sleeping in piles of diry raggy clothes for over a year
 
-## 12743338 
+## 12743338 (**Tramp anon** !!0JNSPD3l2CJ)
 
 i stood staring at her, trying to hold back my tears, she said "This is home for you now... only for a little while, welcome home", I was so happy i started crying, my smile was genuine, from ear to ear, I went to hug her, but stopped myself, i didnt want to threaten her, she smiled and extended her arms, and for the first time in a long time, i had a nice, long, comforting hug...
 
@@ -405,7 +407,7 @@ Somebody needs to start in on getting this thread archived, and then making a ba
 
 ### 12746647
 
-Back when /b/ was not bad, a really great story was [[Blindmute Loli]] (guy finds homeless little girl who is blind and mute and adopts her) and another similar story about a guy named [[Nurse-Kun]]? who finds a little girl and adopts her 
+Back when /b/ was not bad, a really great story was [[Blindmute Loli]] (guy finds homeless little girl who is blind and mute and adopts her) and another similar story about a guy named [[Nurse-Kun|Damaged Goods]]? who finds a little girl and adopts her 
 
 ### 12746420
 
