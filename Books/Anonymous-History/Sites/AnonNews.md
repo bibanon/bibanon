@@ -1,1 +1,0 @@
-[AnonNews](http://anonnews.org) was the primary website reporting on Anonymous activities, and was the place where many operations during the Payback era was made. It was once the hubsite for Anonymous and the media, and it became just a broken shell after lots of DDoSing and trouble with [[LulzSec]] and [[AnonOps]].
