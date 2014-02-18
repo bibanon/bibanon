@@ -10,7 +10,7 @@ Shii's wiki, called ["Everything Shii Knows"](http://shii.org/knows/), was one o
 
 Shii collected all the random stuff he wrote, and some important stories he archived from [[Wikichan]] on this personal wiki. His wiki was a direct inspiration for the work of the Bibliotheca Anonoma, and was the only surviving reference to Wikichan, another important inspiration.
 
-This wiki contains all his personal essays on recent and past events and subjects, along with a collection of bits from Wikichan that would have been forgotten otherwise.
+That wiki contained all his personal essays on recent and past events and subjects, along with a collection of bits from Wikichan that would have been forgotten otherwise.
 
 Most of his collected stories were already saved and reorganized on the Bibliotheca Anonoma, listed below:
 
@@ -20,11 +20,22 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 * [[From AOL Hacker to Businessman]]
 * [[The Great Scam]]
 
----
+### Essays
 
-These are remnants and need to be moved to the Bibliotheca Anonoma.
+Unfortunately, the vast majority of Shii's personal essays were lost upon the deletion of his site. Also, his site was covered with wretched robots.txt files that prevented Archive.org from keeping any backups. These are the remnants that we can find.
+
+These remnants need to be moved to the Bibliotheca Anonoma.
 
 * [Shiichan Anonymous BBS](http://wakaba.c3.cx/shii/shiichan)
 * [harper's](http://mcdanesh.wordpress.com/2011/06/03/harpers-from-everything-shii-knows-the-only-reliable-source/)
+* [Waifu Essay](http://archive.is/OWgl)
+* [Church of Latter Day Yukkuris](http://archive.is/zcdp8) - Some stuff might be [preserved here](http://yukkuri.wikia.com/wiki/Yukkuri_Wiki)
+  * [The Genesis of Yukkuri](http://archive.is/jUGSD)
+* [Digg Clones](http://archive.is/AgyDB)
+* [Gomanism Sengen](http://archive.is/020tx) - Shii attempted to translate some of this manga. Thankfully, those translations are saved on other sites.
+  * [Mangafox](http://mangafox.me/manga/shin_gomanism_sengen_special_sensouron/)
+* [Zybourne Clock](http://zybourne.heroku.com/home.html)
+* [Bibliography of Michael Ende](http://archive.is/0198l)
+* [A History of Eroge - Satoshi Todome](http://archive.is/2p397) - It says "non-redistributable", but a good lot did that do for us.
 
 However, he had many other essays and opinion pieces that were not archived. Please help out and list out what he had, from internet archives.

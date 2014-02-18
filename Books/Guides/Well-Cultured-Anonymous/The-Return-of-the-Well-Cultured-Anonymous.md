@@ -1,10 +1,10 @@
 [[Wellculturedanon.png|float]]
 
-**The Return of the Well Cultured Anonymous** is an updated book based on the original **Well Cultured Anonymous** painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
+**The Return of the Well Cultured Anonymous** is an updated book, based on the original **Well Cultured Anonymous**, which was painstakingly built by fellow [[Anonymous]] on [[Wikichan]]. It attempts to show others (primarily other Anonymous) how to be sophisticated, talented, and polite in today's modern world.
 
 Some parts need to be updated, important topics need to be added, and a few pages need to be customized for a girl's point of view. If you can help with this, just go ahead when you feel like it.
 
-We added "The Return" to this book's title, since it was entirely lost in it's original form after Wikichan fell apart. Some parts still live on in [Well-Cultured](http://www.wellcultured.com), a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine. Because of the unfortunate fate of such an informative guide, we have restored the original and reopened it to editing.
+We added "The Return" to this book's title, since it was entirely lost in it's original form after Wikichan fell apart. Some parts still live on in [Well-Cultured](http://www.wellcultured.com), a website based on the book, made by the last Wikichan admin in a attempt to make a serious men's help magazine. Because of the unfortunate fate of such an informative guide, we have restored the original and reopened it to editing.
 
 ## Intro
 
@@ -92,4 +92,4 @@ The authors of the Return of the Well Cultured Anonymous thank all the [authors 
 
 * [The (original) Well-Cultured Anonymous PDF](https://github.com/bibanon/bibanon/raw/master/Files/the_well-cultured_anonymous.pdf)
 * [Internet Archive of The Well-Cultured Anonymous on Wikichan](http://web.archive.org/web/20080125233344/http://www.wikichan.org/index.php/The_Well_Cultured_Anonymous)
-* [Well-Cultured, a spammy website made by the last Wikichan admin in a failed attempt to make a shitty men's magazine](http://www.wellcultured.com/)
+* [Well-Cultured, a men's help website made by the last Wikichan admin, and based on this book](http://www.wellcultured.com/)
