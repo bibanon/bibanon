@@ -4,15 +4,15 @@ Part of CSB Thread 2. Dan finally returns after cleansing his body, to answer a 
 
 Summary of last thread:
 
->OP gets back with his ex because he's fucking stupid
+\>OP gets back with his ex because he's fucking stupid
 
 Summary of this thread:
 
->They fuck
+\>They fuck
 
 ### 1244006
 
->He'll probably shower and eat more of Snappy's Pizza again, because his More Than insurance policy leaves him enough money for pizza every Friday
+\>He'll probably shower and eat more of Snappy's Pizza again, because his More Than insurance policy leaves him enough money for pizza every Friday
 
 FTFY
 
