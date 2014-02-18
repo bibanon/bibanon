@@ -687,6 +687,28 @@ As I walked down the steps I removed the gloves and folded them into one another
 
 Still she refused to say a word, when I started the car she said "Please take those off..." "What?" I said, looking towards her while taking out a cigarette, "Those fucking sunglasses..." She said as she broke down crying, I took them off to examine them and there were blotches of blood, I looked in the mirror and there was blood on my cheeks too, I was also drenched in sweat, I could feel the cold wind through my car window as the adrenaline slowly dissipated through my body and my hear rate came down... her crying was loud and mournful, I touched her and she flinched at me with fear in her eyes...
 
+### 1252908
+
+[[1327842154s.jpg]]
+
+> 1st Panel: [Text indecipherable] - Probably about the ex-boyfriend beating Dan's ex-girlfriend
+> 2nd Panel: [Text indecipherable] - Probably about the ex-boyfriend trashing Dan's house
+> 3rd Panel: "I will find you."  
+> 4th Panel: "And I will kill you."
+
+Some OC for you, what I imagine Dan looked like when he got back to his wrecked home and had a shower.
+
+### 1252945 (OP)
+
+\>\>1252908  
+Thats going straight on my fridge! haha!
+
+### 1252949
+
+\>\>1252945  
+
+haha thanks, took me a while, also sorry about the wonky chin and abnormally shaped torso and lack of hair and nipples.
+
 ## 1242447 (OP)
 
 I turned around in the road and pulled away, driving the long way back through the middle of the city, "She probably thinks I'm a monster..." I thought, my cheek resting against the palm of my hand as I drove lazily down the pretty vacant residential streets towards the commercial and central business districts... I peered over at her and she was staring out of the window, not moving an inch as if her body was in suspended animation, even as the car swayed as I took corners she was as stiff as a plank and as silent as a mouse... eventually I reached my destination and pulled up along side a canal, she turned to me as I stepped out of the car and into the back, and making sure nobody was around to see, I threw the bag as hard as I could sending it flying into the night sky and with a "Plunk" the evidence would never be recovered, the filthy water and the enzymes within would wash and eat away at anything incriminating long before anyone would find it, it's a pretty fucking deep canal after all, and jumping back into the car and one wet wipe later there was no trace of what I'd done that night.
