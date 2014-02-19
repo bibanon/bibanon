@@ -125,13 +125,13 @@ She also came with me to my parents house on tuesday and I acted in her defense 
 
 She's told her friends what happened but not told them that she's living with me, instead she said she's "Staying with an old friend" and told them to stay away from her ex, I trust nothing will come of it seeing as how I left him trembling in a pool of his own blood last time he saw me and threatened to torture him if I so much as saw him walking down the street, he won't want anything to do with her or her friends... if he's got any brains at all he won't test my patience again, seeing as how last time I could and would have beaten him to death and/or roasted him alive.
 
-I hope you guys enjoyed the story... I wish you guys could take away some kind of deeper meaning or moral but I honestly can't think of any, this was all just some "Day in the life" shit I thought you guys would enjoy reading as much as I enjoyed living it... 
+I hope you guys enjoyed the story... I wish you guys could take away some kind of deeper meaning or moral but I honestly can't think of any, this was all just some "Slice of Life" shit I thought you guys would enjoy reading as much as I enjoyed living it... 
 
 But actually...
 
-If there's one thing you can take away from it all, it's that showers are actually quite magical, 
+If there's one thing you can take away from it all, it's that _showers are actually quite magical._
 
-1. They clean you up
+1. They clean you up.
 2. They wash off evidence of asskickery/badassery and pizza sauce. 
 3. They give you a much needed place and time to think about the important things in life.
 4. They're actually kind of romantic and a bit of a teamwork builder if you share one, heheh.
@@ -152,7 +152,7 @@ Shower man.
 \>\>1254293  
 Thanks for the story dude, enjoy the shower.
 
-### 1254323 [ ! ]
+### 1254323
 
 \>\>1254293  
 > \>I hope every time you shower, smoke a cigarette, eat a pizza or kick the shit out of a fat deadbeat you'll think of me  
