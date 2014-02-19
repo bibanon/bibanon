@@ -118,12 +118,6 @@ She shook her head and stood up, "I need you to open the doors for me... I can't
 
 "Betty... told me your name... then I looked..." He said, barely able to keep his head up as he sat there slumped down over himself, "... Call her, or anyone who knows her again, and I will be back, got that?" He remained motionless, just staring at me, barely able to keep his head up. "If I ever have to come back here again, I'm going to decapitate you, and thats the least painful thing I can think of... I will burn out your eyes and cut out your tongue, I'll sew it up into your mouth along with your fingers, then I'll pour kerosene down your nose and light you up like a fucking jack-o-lantern you disgusting pig." I turned and walked towards the door, banging the light switch with my arm causing the room to go dark as I made my way out.
 
-## 1242423 (OP)
-
-As I walked down the steps I removed the gloves and folded them into one another inside out,tieing them up at the end, then I threw them into my bag along with with paint mask, as I reached the bottom she was standing very still, neither of us said a word as we approached the car, before getting in I took off my tracksuit jacket and trainers and threw them into the bag, reaching in I took out my money, ring, locket and watch and put them in the centre console, along with 60 quid I found in his wallet, before stuffing the coat back in followed by my t-shirt, beanie and bottoms, then I put my work shirt back on followed by my cargos and shoes... then I stepped out of the back and into the drivers seat.
-
-Still she refused to say a word, when I started the car she said "Please take those off..." "What?" I said, looking towards her while taking out a cigarette, "Those fucking sunglasses..." She said as she broke down crying, I took them off to examine them and there were blotches of blood, I looked in the mirror and there was blood on my cheeks too, I was also drenched in sweat, I could feel the cold wind through my car window as the adrenaline slowly dissipated through my body and my hear rate came down... her crying was loud and mournful, I touched her and she flinched at me with fear in her eyes...
-
 ### 1252908
 
 [[1327842154s.jpg]]
@@ -145,6 +139,12 @@ Thats going straight on my fridge! haha!
 \>\>1252945  
 
 haha thanks, took me a while, also sorry about the wonky chin and abnormally shaped torso and lack of hair and nipples.
+
+## 1242423 (OP)
+
+As I walked down the steps I removed the gloves and folded them into one another inside out,tieing them up at the end, then I threw them into my bag along with with paint mask, as I reached the bottom she was standing very still, neither of us said a word as we approached the car, before getting in I took off my tracksuit jacket and trainers and threw them into the bag, reaching in I took out my money, ring, locket and watch and put them in the centre console, along with 60 quid I found in his wallet, before stuffing the coat back in followed by my t-shirt, beanie and bottoms, then I put my work shirt back on followed by my cargos and shoes... then I stepped out of the back and into the drivers seat.
+
+Still she refused to say a word, when I started the car she said "Please take those off..." "What?" I said, looking towards her while taking out a cigarette, "Those fucking sunglasses..." She said as she broke down crying, I took them off to examine them and there were blotches of blood, I looked in the mirror and there was blood on my cheeks too, I was also drenched in sweat, I could feel the cold wind through my car window as the adrenaline slowly dissipated through my body and my hear rate came down... her crying was loud and mournful, I touched her and she flinched at me with fear in her eyes...
 
 ## 1242447 (OP)
 
