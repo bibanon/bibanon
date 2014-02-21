@@ -17,7 +17,6 @@ Bibliotheca Anonoma
 * [[The Great Scam]]
 * [[American Dream]]
 * [[Tramp Anon]]
-
 * [[Damaged Goods]]
 * [[Blindmute Loli]]
 * [[The Liliad]]
