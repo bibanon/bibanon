@@ -17,7 +17,7 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 * [[Nurse-kun|Damaged Goods]]
 * [[Blindmute Loli]]
 * [[American Dream]]
-* [[From AOL Hacker to Businessman]]
+* [[From AOL Hacker to Businessman|AOHell]]
 * [[The Great Scam]]
 
 ### Essays
