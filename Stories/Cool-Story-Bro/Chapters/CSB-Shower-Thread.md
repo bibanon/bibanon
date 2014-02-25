@@ -195,6 +195,20 @@ Before we move on and for the sake of Trivia.
 
 I am the OP, and I'll be writing again soon, just came back from my run and putting dinner on, the next part is the heart of the cool story, my posts are easy to spot because they're consistent with my writing style, but the pastebin I posted before I went to bed is everything up to where we are so far.
 
+### 1253446
+
+Damnit Dan I've been reading this since you first started, it's 4am here and I just want to go to sleep in my nice comfortable bed while spooning my gf.
+
+BUT NOOOOOO. You have to be taking your sweet, sweet time.
+
+Typing up all those words really breaks a sweat doesn't it? You should probably take a shower.
+
+### 1253316 (OP)
+
+\>\>1253446  
+
+The ending is delicate! I have to put some thought into it, remember I'm gunning for Cool Story! plus I'm trying to tie up as many loose ends as possible, I don't want people to get an incomplete ending, that wouldn't be cool man.
+
 ### 1243976
 
 Summary of last thread:
@@ -229,8 +243,6 @@ I'm probably going to replace everything via ebay and other cheap sites to save 
 
 Betty is her mothers name, he described me to her and she gave him my name, then he looked me up as it turns out.
 
-And thanks again everyone for following the story! hope you're finding it sufficiently cool!
-
 ### 1248734
 
 After reading all of the story posted so far.. seeing that he has quite the active life and is pretty damn alpha... I have to ask.. How the fuck did he end up on /r9k/ for 18 hours a day?
@@ -250,6 +262,8 @@ Heheh, I'm covered for accidental damage anyway but I just never got round to it
 If someone put a gun to my head and screamed "WHATS YOUR FAVORITE GAME!" I'd have to say Link To The Past, I played it on an emulator a year ago, and to my surprise I hadn't forgotten a single thing about it and blew through it in less than 5 hours.
 
 Just got out of the shower, for the sake of you guys I timed myself and it seems I take around an hour in there from start to finish, a lot of time is eaten up working on my hair and deep cleansing then moisturizing my face, gotta keep those boyish good looks!
+
+And thanks again everyone for following the story! hope you're finding it sufficiently cool!
 
 ### 1252877
 
