@@ -51,17 +51,17 @@ ISHYGDDT
 
 ### 1244386
 
-"Shower and change... it'll make you feel a bit better, I'll sort you out some bedding."  
-"Thats... nostalgic." I thought to myself, closing the door again and heading into the shower"  
-"Wouldn't exactly be a lie, even if the rest of it would be, jumping out of the shower I brushed my teeth"  
-"Morning" I said without turning around "Go and grab a shower, I've left a towel and some more clothes for you in there, we'll worry about getting yours back later"  
-""You hungry? I don't know about you but a shower and some food sound pretty good about now"  
-"came back and I jumped in the shower making sure to scrub my face well to get the pig blood off of me"  
-"Go ahead and take a shower, at least now you can wear your own pyjamas right?"  
-"The next day I got up, showered, dressed and left for work without waking her up"  
-"We polished off the pizza and watched TV until 10pm, noticing the news coming on I said "Cmon, you should probably go take a shower now, I'll set up your bed and stuff"  
-"I quickly showered expecting her to be up but she was still under than light blue sleeping bag quilting"  
-"I pushed the laptop onto the middle seat on top of the empty pizza box and stood up, 'I'm going to go take a shower'"
+> "Shower and change... it'll make you feel a bit better, I'll sort you out some bedding."  
+> "Thats... nostalgic." I thought to myself, closing the door again and heading into the shower"  
+> "Wouldn't exactly be a lie, even if the rest of it would be, jumping out of the shower I brushed my teeth"  
+> "Morning" I said without turning around "Go and grab a shower, I've left a towel and some more clothes for you in there, we'll worry about getting yours back later"  
+> "You hungry? I don't know about you but a shower and some food sound pretty good about now"  
+> "came back and I jumped in the shower making sure to scrub my face well to get the pig blood off of me"  
+> "Go ahead and take a shower, at least now you can wear your own pyjamas right?"  
+> "The next day I got up, showered, dressed and left for work without waking her up"  
+> "We polished off the pizza and watched TV until 10pm, noticing the news coming on I said "Cmon, you should probably go take a shower now, I'll set up your bed and stuff"  
+> "I quickly showered expecting her to be up but she was still under than light blue sleeping bag quilting"  
+> "I pushed the laptop onto the middle seat on top of the empty pizza box and stood up, 'I'm going to go take a shower'"
 
 ### 1243937
 
