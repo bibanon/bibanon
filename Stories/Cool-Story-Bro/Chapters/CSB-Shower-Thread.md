@@ -1,4 +1,4 @@
-Thread 2 begins with anons poking fun at Dan's favorite activity.
+A new thread is made, but Dan is nowhere to be found. The anons pass the time by poking fun at Dan's favorite activity.
 
 ## 1243804 (Archivist)
 
