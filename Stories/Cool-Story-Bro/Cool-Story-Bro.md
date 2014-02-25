@@ -20,6 +20,7 @@ Dan constantly used run-on sentences and rarely used periods, so the original fo
 4. [[Chapter 4: Crossing the Line|CSB Chapter 4]]
 5. [[Shower Thread|CSB Shower Thread]] (/r9k/1243804)
 6. [[Chapter 5: Reconciliation|CSB Chapter 5]]
+7. [[Chapter 6: Epilogue|CSB Chapter 6]]
 
 ## Alternative Storylines
 
