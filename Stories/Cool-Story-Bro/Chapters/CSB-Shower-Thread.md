@@ -129,7 +129,7 @@ DON'T SAY SUCH THINGS `;_;`
 \>\>1246304  
 I know whilst Dan is kidnapped he can't repeatedly shower. I don't know how he'll survive
 
-### 1246299 [ ! ] >>1246329
+### 1246299
 
 \>\>1246282  
 I live in the Midlands too, i'll rescue him! `<spoiler\>`*let me just take a shower first*`</spoiler>`
