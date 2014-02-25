@@ -1,5 +1,3 @@
-# CSB Alternate Storylines
-
 A series of posts made by anons to troll other users. Some of them even became interesting alternative fanfiction in their own right.
 
 ## Cool Story Bro: "Fuck me. Literally."
