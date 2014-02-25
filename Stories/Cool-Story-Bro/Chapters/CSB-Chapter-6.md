@@ -43,11 +43,11 @@ I hope you found this to be a cool story. 'Cause I don't know about you guys, bu
 
 I'm going to grab a nice hot shower. 
 
-It's been real awesome, so thanks for reading.
-
 ---
 
-I hope every time you shower, smoke a cigarette, eat a pizza or kick the shit out of a fat deadbeat you'll think of me.
+I hope every time you take a shower, smoke a cigarette, eat a pizza or kick the shit out of a fat deadbeat you'll think of me.
+
+It's been real awesome, so thanks for reading.
 
 So until next time.
 
