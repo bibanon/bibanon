@@ -1,31 +1,5 @@
 Chapter 4: Crossing the Line
 
-## 1244045 (OP)
-
-Sorry guys, sister called and I poured myself a rum and coke, couldn't exactly tell her to get off the phone.
-
-Before we move on and for the sake of Trivia.
-
-- I'm 26 years old. 
-- This stuff happened last Tuesday.
-- I usually shower 2-3 times a day, 3 if I've been working out or it's been really hot while I've been at work, I don't like the feeling of being sweaty and sticky
-
-I'll post the next part in the next thread.
-
-### 1233908 (OP)
-
-Man that pizza was tasty... if any of you have a snappy tomato pizza near you, order one! If it's anything like the one I had you'll be blown away by it's deliciousness, even when cold!
-
-Also, it's 22:46 here and way past 10, which is where I usually go to bed. Should I pick this Cool Story up around 06:30 american time tomorrow? There's plenty of cool story left to enjoy and the best is yet to come. judging by what people seem to want to read, theres only 2 days left of story. that cool?
-
-### 1240735 (OP)
-
-\>\>1240663  
-
-> I swear Dan/UncleAnon was the original writer from the start, but didn't bother tripfagging until a bunch of other people started writing the story for him. Oh well, great story so far. Just want faster updates
-
-I am the OP, and I'll be writing again soon, just came back from my run and putting dinner on, the next part is the heart of the cool story, my posts are easy to spot because they're consistent with my writing style, but the pastebin I posted before I went to bed is everything up to where we are so far.
-
 ## 1233809 (OP)
 
 I awoke at around 5:30 and found her sprawled over me, she had been awake in the night, that much was obvious because I noticed the unzipped sleeping bag was there too. Maybe she got up to take a piss or maybe she was too cold and went to get it, either way it was curious... What was more curious was the way she had her hand up my shirt, she always had a thing for that... 
