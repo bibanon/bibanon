@@ -187,6 +187,34 @@ Before we move on and for the sake of Trivia.
 - This stuff happened last Tuesday.
 - I usually shower 2-3 times a day, 3 if I've been working out or it's been really hot while I've been at work, I don't like the feeling of being sweaty and sticky.
 
+### 1252789
+
+This drags on like a Chechen with its legs blowed off...
+
+Interest lost.
+
+### 1252811 (OP)
+
+\>\>1252789
+well I only had about 5 more posts until the end, but if people are starting to loose interest I guess I could rush the ending.
+
+### 1252820
+
+\>\>1252811
+I'm still interested!
+
+### 1252824
+
+\>\>1252811
+Yo man, I've been following this thread since the very first post and I have to say I'm still completely enthralled. Your writing may not be the most articulate but you're an excellent story teller. Fuck the haters and the impatient cunts. Take as long as you need, it's not like the majority of the losers on this board have anything else to do.
+
+Serious props man.
+
+### 1252828
+
+\>\>1252811
+no no no no no keep the quality up, I'll gladly wait, I can have \<spoiler\>showers\</spoiler\> in the mean time.
+
 ### 1240735 (OP)
 
 \>\>1240663  
@@ -194,20 +222,6 @@ Before we move on and for the sake of Trivia.
 > I swear Dan/UncleAnon was the original writer from the start, but didn't bother tripfagging until a bunch of other people started writing the story for him. Oh well, great story so far. Just want faster updates
 
 I am the OP, and I'll be writing again soon, just came back from my run and putting dinner on, the next part is the heart of the cool story, my posts are easy to spot because they're consistent with my writing style, but the pastebin I posted before I went to bed is everything up to where we are so far.
-
-### 1253446
-
-Damnit Dan I've been reading this since you first started, it's 4am here and I just want to go to sleep in my nice comfortable bed while spooning my gf.
-
-BUT NOOOOOO. You have to be taking your sweet, sweet time.
-
-Typing up all those words really breaks a sweat doesn't it? You should probably take a shower.
-
-### 1253316 (OP)
-
-\>\>1253446  
-
-The ending is delicate! I have to put some thought into it, remember I'm gunning for Cool Story! plus I'm trying to tie up as many loose ends as possible, I don't want people to get an incomplete ending, that wouldn't be cool man.
 
 ### 1243976
 
@@ -317,3 +331,17 @@ Oh god, I laughed so hard I choked and scared my cats
 ### 1252523 (OP)
 
 Will post in a sec, just farting into the shower.
+
+### 1253446
+
+Damnit Dan I've been reading this since you first started, it's 4am here and I just want to go to sleep in my nice comfortable bed while spooning my gf.
+
+BUT NOOOOOO. You have to be taking your sweet, sweet time.
+
+Typing up all those words really breaks a sweat doesn't it? You should probably take a shower.
+
+### 1253316 (OP)
+
+\>\>1253446  
+
+The ending is delicate! I have to put some thought into it, remember I'm gunning for Cool Story! plus I'm trying to tie up as many loose ends as possible, I don't want people to get an incomplete ending, that wouldn't be cool man.
