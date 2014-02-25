@@ -382,7 +382,7 @@ I will!
 
 ### 1254359
 
-I would just like to say, this story was very entertaining and I'm glad I got to be apart of reading it. I got excited everytime I knew I could check to see if you posted more of the story. 
+I would just like to say, this story was very entertaining and I'm glad I got to be a part of reading it. I got excited every time I knew I could check to see if you posted more of the story. 
 
 I don't even care if this really didn't happen to you, it'd be really cool if all of this is a true story, but either way, 
 
