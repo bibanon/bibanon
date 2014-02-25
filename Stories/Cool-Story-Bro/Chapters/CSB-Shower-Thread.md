@@ -130,7 +130,7 @@ I know whilst Dan is kidnapped he can't repeatedly shower. I don't know how he'l
 ### 1246299 [ ! ] >>1246329
 
 \>\>1246282  
-I live in the Midlands too, i'll rescue him! \<spoiler\>let me just take a shower first\</spoiler\>
+I live in the Midlands too, i'll rescue him! `<spoiler\>`let me just take a shower first*`</spoiler>`
 
 ### 1246383
 
