@@ -25,24 +25,24 @@ brb taking shower while waiting for OP.
 
 Fuck yeah showers
 
-### 1243925
-
-I just finished my shower but I might be able to grab another before Dan gets the next part posted.
-
 ### 1243948
 
 the thread's super exciting and all, but I really need to shower 
 
-### 1251266 [ ! ] >>1251274 >>1251669
+### 1243925
+
+I just finished my shower but I might be able to grab another before Dan gets the next part posted.
+
+### 1251266
 
 I take baths.
 
-### 1251274 [ ! ]
+### 1251274
 
 \>\>1251266  
 Taking baths? That's fucked, yo.
 
-### 1251669 [ ! ]
+### 1251669
 
 > \>taking baths  
 > \>2012  
@@ -76,6 +76,8 @@ Yeah ages, only saw it about 4 hours ago, where I thought it was way, way over..
 Also, britfag here, it's 9pm so he will probably go within a few hours...
 
 I am predicting his story happened about 16 days ago.
+
+
 
 ## The Longest Shower
 
@@ -165,9 +167,33 @@ And that my friends is why I will never shower again.
 i laughed  
 though dan would've suicided after that, too traumatized to shower? his life would be fucking meaningless
 
+
+
 ## After Shower AMA
 
-_Dan finally returns after cleansing his body, to answer a few questions from anons._
+_Dan finally returns to answer a few questions from anons._
+
+## 1244045 & 1233908 (OP)
+
+Sorry guys, sister called and I poured myself a rum and coke, couldn't exactly tell her to get off the phone.
+
+But man that pizza was tasty... if any of you have a snappy tomato pizza near you, order one! If it's anything like the one I had you'll be blown away by it's deliciousness, even when cold!
+
+Also, it's 22:46 here and way past 10, which is where I usually go to bed. Should I pick this Cool Story up around 06:30 american time tomorrow? There's plenty of cool story left to enjoy and the best is yet to come. judging by what people seem to want to read, theres only 2 days left of story. that cool?
+
+Before we move on and for the sake of Trivia.
+
+- I'm 26 years old. 
+- This stuff happened last Tuesday.
+- I usually shower 2-3 times a day, 3 if I've been working out or it's been really hot while I've been at work, I don't like the feeling of being sweaty and sticky.
+
+### 1240735 (OP)
+
+\>\>1240663  
+
+> I swear Dan/UncleAnon was the original writer from the start, but didn't bother tripfagging until a bunch of other people started writing the story for him. Oh well, great story so far. Just want faster updates
+
+I am the OP, and I'll be writing again soon, just came back from my run and putting dinner on, the next part is the heart of the cool story, my posts are easy to spot because they're consistent with my writing style, but the pastebin I posted before I went to bed is everything up to where we are so far.
 
 ### 1243976
 
@@ -181,7 +207,7 @@ Summary of this thread:
 
 ### 1244006
 
-> \>He'll probably shower and eat more of Snappy's Pizza again, because his More Than insurance policy leaves him enough money for pizza every Friday
+> \>He'll probably shower and eat more of Snappy's Pizza again, because his *More Than Insurance (TM)* policy leaves him enough money for pizza every friday
 
 FTFY
 
