@@ -494,4 +494,6 @@ I pushed the sofas together in the living room and left my laptop on with an int
 
 Then I went out on to the balcony, regretting that I forgot to put on some shorts and a t-shirt. 
 
-As the cold winds whistled around me, I thought about all the crazy shit I'd done that day and smiled to myself, shaking my head as I blew out smoke. It was pointless to think about it all. "What's done is done," I said to myself out loud, and I leaned down and rested my head on my arms, letting out a huge yawn and flicking the cigarette butt onto the concrete below as I headed back inside.
+As the cold winds whistled around me, I thought about all the crazy shit I'd done that day and smiled to myself, shaking my head as I blew out smoke. It was pointless to think about it all. 
+
+"What's done is done," I said to myself out loud, and I leaned down and rested my head on my arms, letting out a huge yawn and flicking the cigarette butt onto the concrete below as I headed back inside.
