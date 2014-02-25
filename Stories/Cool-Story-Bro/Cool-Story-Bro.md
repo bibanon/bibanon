@@ -19,7 +19,7 @@ Dan constantly used run-on sentences and rarely used periods, so the original fo
 3. [[Chapter 3: The Shattered Memories|CSB Chapter 3]]
 4. [[Chapter 4: Crossing the Line|CSB Chapter 4]]
   * [[Interlude: Shower Thread|CSB Shower Thread]] (/r9k/1243804) - After a new thread is made with Dan nowhere to be found, anons pass the time by poking fun at his favorite activity.
-5. [[Chapter 5: The Reconciliation|CSB Chapter 5]]
+5. [[Chapter 5: Reconciliation|CSB Chapter 5]]
 
 ## Alternative Storylines
 
