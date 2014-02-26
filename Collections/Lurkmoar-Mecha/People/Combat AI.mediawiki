@@ -1,7 +1,0 @@
-*Mechs: [[Chasa]], [[Chau]], [[Quil]]
-
-*Background: Developed by the Yoma, the first two combat AI, S-01 and M-01, were placed inside Chasa and Chau to survive the cosmic storms and awaken the Yoma after they passed. S-01 has a male personality while M-01 has a female personality. The mass produced versions put inside the Quil units do not have individual personalites. 
-
-*Description: Having no physical form, the AI's only appear on screens. S-01 looks like a male armored, insect warrior, while M-01 looks like a female one. P-01-04 all look like non-descript insect warriors.
-
-[[Category:Project SRW/m/]]
