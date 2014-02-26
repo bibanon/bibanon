@@ -1,4 +1,3 @@
-
 ## 1254282 (OP)
 
 Last week I convinced Britt to come with me to her mother's house. There I told her exactly what was going on, then showed her the bruises all over Britts body, and called Betty a huge cunt for leaking Britt's location to the fat cunt.
@@ -40,13 +39,15 @@ Still, if there's one thing you can take away from it all, it's that _showers ar
 
 ---
 
-I hope you found this to be a cool story. 'Cause I don't know about you guys, but all this typing has really made me sticky. I'm going to grab a nice hot shower. 
+I hope you found this to be a cool story. 'Cause I don't know about you guys, but all this typing has really made me sticky. 
 
-It's been real awesome, so thanks for reading.
+I'm going to grab a nice hot shower. 
 
 ---
 
-I hope every time you shower, smoke a cigarette, eat a pizza or kick the shit out of a fat deadbeat you'll think of me.
+I hope every time you take a shower, smoke a cigarette, eat a pizza or kick the shit out of a fat deadbeat you'll think of me.
+
+It's been real awesome, so thanks for reading.
 
 So until next time.
 
