@@ -16,7 +16,7 @@ If there's fanart, then she's a "-chan". And she needs more fanart.
   
 Eh. Not worth criticizing.  
   
-### 17459299 (OP) ###  
+### 17459299 (OP) 
   
 On a non-text related note, fanart of her, based on my description is welcome. I can give further details if necessary.  
   
@@ -32,7 +32,7 @@ Fuck I just realised the OP's pic is almost exactly like the girl he's describin
   
 Ever consider that he posted that picture because of that?  
   
-### 17452684 (OP) ###  
+### 17452684 (OP) 
   
 The picture was found on the internets when I was looking for something not-real but similar.  
   
@@ -50,7 +50,7 @@ OP, keep starting the thread with that amputee loli. If some faggots get their p
   
 Besides, that pic is cute. <3  
   
-### 17461210 (OP) ###  
+### 17461210 (OP) 
   
 I chose the OP picture because it was eyecatching, and, well, pretty close to her situation, disturbingly enough (she doesn't have such extensive scarring on her leg-stumps, and her right arm's is a much 'longer' trans-tibial amputation, rather than a disarticulation). I'm not sure if I should change it, since it's a reasonably good way to suggest that it's a genuine thread about her, though I guess that's easily enough faked. I'll think about it.  
   
@@ -72,7 +72,7 @@ This thread reminds me of this.
   
 WHO WOULD YOU CHOOSE /B/?  
   
-### /i/ 44658  ###  
+### /i/ 44658  
   
 Wow.  
   
@@ -82,7 +82,7 @@ She's seven years old, scandanavian father, japanese mother. I'm not a geneticis
   
 She was a physically active girl before the accident, involved in both general athletics and gymnastics, it seems...probably the main reason she's doing so well with her rehab. She's rather petite, average-little-japanese-girl sized, but not tiny. No particularly special innate physical characteristics from the neck down.  
   
-### /i/ 44665  ###  
+### /i/ 44665  
   
 _Continuation from the thread in /i/ described above_  
 Her right arm was amputated trans-tibially (through the upper arm), about four inches below the shoulder. Both her legs are trans-femur amputations (through the thigh), roughly halfway down. She doesn't have Bikko-style hypertrophic scarring at any of these locations, though the injuries only occured roughly three months ago, so they're still quite new, and still healing completely.  
@@ -93,17 +93,17 @@ Her right eye was lost, and has since been fitted with a prosthetic orb and a co
 She wears relatively simple sets of clothing...gowns, housecoats, etc. Shit, almost forgot: Her hair is somewhat short all-round, the original picture in this thread is actually not that far off...she hasn't been wearing it up in ribbons or barrettes or such much, since she doesn't like people helping her with it, and she can only do so much by herself.  
 Not entirely sure what I think about all this, but if people feel the need, who am I to object?  
   
-### /i/ 44677  ###  
+### /i/ 44677  
   
 Frankly, all my information about her parents is secondhand gossip from the hospital, and a bit from her records. It hardly included a family tree, or even pictures of what her parents actually looked like.  
   
-### 17465306  ###  
+### 17465306  
   
 OP here. I honestly have no problem with a clothed version. If I had the photoshopping skills, I would've done it myself. Anonymous isn't my personal army, though, if someone feels like doing so, it's good, if not, I can manage some black censor bars or something.  
   
 (To the edit below): Well, that would be the final distinguishing touch, all right. The hair is actually pretty damn close...good work there.  
   
-### /i/ 44766  ###  
+### /i/ 44766  
   
 > _PROTIP: the tibia is a bone in the lower leg. The right word for an amputation through the upper arm is transhumeral. I doubt the OP is a genuine registered nurse, he'd know at least this much._  
   
