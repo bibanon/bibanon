@@ -5,7 +5,7 @@
 
 ### 19530627 ###
 
-Hey, [/b/](//b/). Just a quick check-in as I get ready for work, having been busy all day running errands and meeting with various people to do various other things. I figure that some of you might care, so I'll drop off the tidbit, and let you see for yourselves.
+Hey, /b/. Just a quick check-in as I get ready for work, having been busy all day running errands and meeting with various people to do various other things. I figure that some of you might care, so I'll drop off the tidbit, and let you see for yourselves.
 
 Inspired by a few comments at the end of sunday's thread before I was called away and it disappeared, I thought to myself: Why not? And I went out on monday to pick up a book on origami, and a package of origami-specialized paper. I know, unoriginal.
 
@@ -41,5 +41,7 @@ The fact that she's come to be comfortable with me to this extent, moreso than t
 ### 19532378 ###
 
 Well, I need to get going now...sorry, like I said, it had to be a short one. Takes me at least 20 minutes on a good night to get from my place to my workplace, so, yeah. Have a good night, /b/, I'll see about updating earlier next time. Oh, and now that it's popped back into my head: To whoever posted on the wiki about going into a field in college related to prosthetics, you have my admiration. Good for you, and good luck. I'm not sure how I feel about having sort of inspired someone else like that, but...still, wow.
+
 See you, I'm out.
+
 {{nurse-kun|8|10}}
