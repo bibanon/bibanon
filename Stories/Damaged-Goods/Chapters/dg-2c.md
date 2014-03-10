@@ -12,7 +12,7 @@ If there's fanart, then she's a "-chan". And she needs more fanart.
   
 ### 17456133  
   
->>17456001  
+\>\>17456001    
   
 Eh. Not worth criticizing.  
   
@@ -28,7 +28,7 @@ Fuck I just realised the OP's pic is almost exactly like the girl he's describin
   
 ### 17452248  
   
->>17451794  
+\>\>17451794    
   
 Ever consider that he posted that picture because of that?  
   
@@ -40,7 +40,7 @@ I'm not a guro fan, so it wasn't much fun finding it.
   
 ### 17459132  
   
->>17457910  
+\>\>17457910    
   
 you might consider a different op pic next time. the naked amputee loli was apropos and good for attracting attention to your first post, but it does have a tendency to color everything you say. perhaps find a less erotic one for your next thread, and then post another thread with the loli and a link to the actual one.  
   
