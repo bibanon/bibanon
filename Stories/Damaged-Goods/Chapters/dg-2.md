@@ -136,7 +136,7 @@ Post the obituary of the parents blacking out any incriminating evidence (names 
 
 ### 17449271 (OP) ###
 
->>17449086
+\>\>17449086  
 
 Damnit Anonymous, I'm a nurse, not a newspaper archivist.
 
@@ -172,7 +172,7 @@ We're not dumb shits you know.
 
 ### 17447002
 
->>17446887
+\>\>17446887  
 
 Clearly nothing that happens in real life can be written creatively, which would explain how non-fictional books don't exist. Tard.
 
@@ -180,7 +180,7 @@ I'm liking the story OP, pasta or not. Looking forward to updates and good luck.
 
 ### 17447038
 
->>17446887
+\>\>17446887  
 
 I want to Habeeb. 
 
@@ -230,7 +230,7 @@ And good luck. If you get loli sex, *I will hate you forever.*
 
 ### 17447374
 
->>17447099
+\>\>17447099  
 
 To an extent I agree with you. Now that you've brought the whole scenario out of fantasy loli land and into reality, it's certainly... dramatic?
 
@@ -256,7 +256,7 @@ this story is epic fail. i can tell it by the lack of pictures,and not by readin
 
 > (After a bit of anti-pedo spam and anons duking it out about whether OP is a pedo, or the spammers are hated furries and gaiafags)
 
-This thread saddens me to no end. The OP has done a genuinely kind act for an unfortunate little girl, and gets spammed with this "DIE PEDO" bullshit. Underaged retards like >>17448059 are the cancer that is killing /b/
+This thread saddens me to no end. The OP has done a genuinely kind act for an unfortunate little girl, and gets spammed with this "DIE PEDO" bullshit. Underaged retards like \>\>17448059 are the cancer that is killing /b/  
 
 ### 17447653
 
@@ -313,9 +313,9 @@ But if you even molest her I swear to God I will track you down and turn you int
 
 ### 17448940
 
->>17448732
+\>\>17448732  
 
-True, Rape isn't the eventual outcome. But think of it like >>17447917 said.
+True, Rape isn't the eventual outcome. But think of it like \>\>17447917 said.  
 
 Do you honestly think anybody could love her but you, [OP]? I know this is a bit heavy, but think about it seriously.
 
@@ -327,7 +327,7 @@ Seriously though, keep up the good work!
 
 ### 17451161
 
->>17450973
+\>\>17450973  
 
 OFFICER? THERE'S A MAN ON THE INTERNET WHO SAYS HE'S GOING TO RAPE A LITTLE GIRL... NO, I DON'T KNOW WHAT HIS NAME IS... OR WHAT HE LOOKS LIKE... OR WHERE HE LIVES... OR WHERE HE WORKS. NO, I DON'T KNOW THE LITTLE GIRL'S NAME... OR WHERE SHE LIVES... OR WHAT SHE LOOKS LIKE... HELLO? HELLO?
 
@@ -339,7 +339,7 @@ I don't intend to proceed straight to 'visiting her room' all night every night 
 
 ### 17448862
 
->>17448212
+\>\>17448212  
 > Only issue with her body state is that within a few years her muscles will have degenerated enough to make her appear as a crippled old woman, unable to clean her vagoo, pooper, and whatnot.
 
 I wondered about that too but, when thinking about it, isn't she still able to do simple exercices? Like sit ups, for example. That would keep her body smooth and delicious. I, for one, do sit ups all the time and it works with me. If I had an amputee loli to keep cheerful, I'd do sit ups with her. Then I'd tickle her when she says she's tired :3
@@ -429,7 +429,7 @@ Also you best kick the shit out of anyone who ever makes a crack about the way s
 
 ### 17451742
 
->>17451104
+\>\>17451104  
 
 You think other people will treat a 1 armed 1 eyed no legged half-jap like an equal? No. Regardless of her intelligence, the majority of people will treat her like shit. Nobody will ever see her in her prosthetics and with her eye patch across the dance floor at the High School dance and think "Hey, that's the girl with whom I want to dance." 
 
@@ -479,7 +479,7 @@ Frankly, /b/ is my biggest danger here, but I'm a /b/tard, and a /b/tard I shall
 
 ### 17453007
 
->>17452812
+\>\>17452812  
 
 This is a terrible thing to do to /b/, but I suggest that you leave /b/ until the adoption process goes through. That would fucking suck because we all want to hear every day about your wonderful life. But in the end it might be the best.
 
@@ -489,7 +489,7 @@ whatever you do, befriend her. if adoption (by you) proves impossible, still kee
 
 ### 17452965 (OP) ###
 
->>17452817
+\>\>17452817  
 > This thread will be going overboard soon. What do we do after, wait for the next update, like yesterday?
 
 Well, I don't have anything too pressing this afternoon. I could start another thread and stick around a bit longer if people have further questions. It's not like I spend my off-hours curing cancer or something.
