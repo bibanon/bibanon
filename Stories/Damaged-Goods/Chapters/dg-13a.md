@@ -26,7 +26,8 @@ It's more rare for her to talk about her prosthetics at all, except for the occa
 
 ### 20496539  ###
 
-> _Im the guy who said to find out what shows she liked before the crash._ _Would it be feasible to get her some DVDs? I had to go and missed your reply._
+> _Im the guy who said to find out what shows she liked before the crash._ 
+> _Would it be feasible to get her some DVDs? I had to go and missed your reply._
 
 Well, it might be, but she doesn't really have anything to watch them on at the moment. Maybe if the other suggestion on a portable DVD player pans out, but not much for the time being. Could bring in my laptop some evening, but the home frowns on our bringing in electronics in general, laptops no exception at all, I'd assume.
 
@@ -66,21 +67,33 @@ Personally, I'd say good for you, and welcome to the fraternity (in a non-gender
 
 ### 20498678  ###
 
-> _I've been trying to catch a Nurse-kun thread for weeks!_ _Also, that GitS shit is awesome. I just finished watching it. That "I do, I do" song had me crying. Manly tears. ;_;_ _But I'd like to chime in on the pedo question. I'm inclined to think it was a sort of forced /b/ thing though. The first thing any /b/tard would think when they see a loli would be "rape plz ing hawt" from being on /b/ so much and never really dealing with kids, but when you realise the actual situation it become different._ _Eh, I can't explain that well._
+> _I've been trying to catch a Nurse-kun thread for weeks!_  
+> _Also, that GitS shit is awesome. I just finished watching it. That "I do, I do" song had me crying. Manly tears. ;_;_  
+> _But I'd like to chime in on the pedo question. I'm inclined to think it was a sort of forced /b/ thing though.  
+
+The first thing any /b/tard would think when they see a loli would be "rape plz ing hawt" from being on /b/ so much and never really dealing with kids, but when you realise the actual situation it become different._ _Eh, I can't explain that well._
+
 I get what you're saying. I admit that I probably had a few jokes and such that ran through my head that the 'normal' person wouldn't, just as a /b/flex. Still, I like to think it was mostly the /b/, and less the me.
 
 ### 20499408  ###
 
-> _As a writer, I got to say that as frustrating as it must be for you to field those sorts of questions, the slight hint of moral ambiguity adds a nice hook to your story. This is /b/, you look like a saint next to most of us fucked up slackers, so don't fret about it too much._ _-to which another anonymous replied- I agree, and I caught the satire in the supository story... almost like being Reese's puffed; but it had a bit more originality(as far as writing goes)._ _Someone suggested the improvised munitions handbook for her in the last thread? lol. Would be great hearing from you about how the 3rd-reich guy's bedroom blew up late one night and how bottles of cleaner and batteries are missing._ _The improvised munitions handbook sucks anyway, if you want to get her anything get her the Poor Man's James Bond. There are better booby traps than the suicide-wish-bombs in the improvised munitions handbook._
+> _As a writer, I got to say that as frustrating as it must be for you to field those sorts of questions, the slight hint of moral ambiguity adds a nice hook to your story. This is /b/, you look like a saint next to most of us fucked up slackers, so don't fret about it too much._  
 
--to which Nurse-kun replied to both of them in one post- Well, I'm glad someone did!
+---
+
+> _-to which another anonymous replied- I agree, and I caught the satire in the supository story... almost like being Reese's puffed; but it had a bit more originality(as far as writing goes)._  
+> _Someone suggested the improvised munitions handbook for her in the last thread? lol. Would be great hearing from you about how the 3rd-reich guy's bedroom blew up late one night and how bottles of cleaner and batteries are missing._  
+> _The improvised munitions handbook sucks anyway, if you want to get her anything get her the Poor Man's James Bond. There are better booby traps than the suicide-wish-bombs in the improvised munitions handbook._  
+
+Well, I'm glad someone did!
+
 Ah, yes, that may not be the best idea, considering the amount of chemicals scattered throughout the home. But, um, booby-traps, you say? I'm entirely sure I want to come in one night and hear about the morning shift nurse coming in to check on her and getting hoisted up to the ceiling by her ankle via improvised IV tubes-rope or something.
 
 ![ A valentine from anonymous for a very special girl. ](1171427149728.jpg)
 
 ### 20499834  ###
 
-> _Dear Nurse-kun_ _Could you print this out and give it to her?_
+> _Dear Nurse-kun_ _Could you print this out and give it to her?_  
 
 That seems unlikely, unfortunately, though I did lol. ...of course, if anyone else wants to give it a go at coming up with something for her, they are more than welcome to try! No deadline tonight, I can make a decision tomorrow?
 
@@ -88,7 +101,9 @@ God knows that /b/ and 4chan can come up with some creative shit when it feels l
 
 ### 20501600  ###
 
-> _no word from her parents huh?_ _how is she interacting with the rest of your staff? better, worse?_ _-anonymous corrected himself- damnit i mean grandparents_
+> _no word from her parents huh?_  
+> _how is she interacting with the rest of your staff? better, worse?_  
+> _-anonymous corrected himself- damnit i mean grandparents_  
 
 No, still no word from her family. Well, her relatives. And she's interacting about the same as she was before, though she had a small incident last week when one of her day nurses dropped her DS (well, bumped it off her desk), and she had a minor freakout about whether it was broken, which involved some insulting language.
 
@@ -104,7 +119,8 @@ No, still no word from her family. Well, her relatives. And she's interacting ab
 
 Wow. Um, on that note, I really need to get going for work. I'll sign back on tomorrow to see if there are any other entries of the valentineish sort, though I'm not sure how one could...top...this.
 
-> _-another anonymous posted just before Nurse-kun was leaving, so he responded quickly to them-_ _did she have any friends before the accident? do any of them try to visit her?_
+> _-another anonymous posted just before Nurse-kun was leaving, so he responded quickly to them-_  
+> _did she have any friends before the accident? do any of them try to visit her?_  
 
 Yes, she had friends, no, they don't visit her anymore. I've been told she lashed out a fair bit and burned a lot of bridges post-accident when they showed up, and kids don't tend to like dealing with disfigurations, even if they're gifted little angels, even if parents don't like to admit it, or that they don't particularly like such people either. I guess. Not a shrink myself. Gotta go now. Night, /b/!
 
