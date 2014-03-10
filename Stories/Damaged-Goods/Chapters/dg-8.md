@@ -164,7 +164,7 @@ And, well, she relieved herself. I'll spare you the details. I helped her clean 
 
 ### 19416456
 
-> _re: "nurse-kun is awesum! it's not a very interesting question but what's in that iPod? What does she listen to?" _
+> _re: "nurse-kun is awesum! it's not a very interesting question but what's in that iPod? What does she listen to?"_
 
 To answer this question rather late, she listens to a lot of different things; some japanese pop stuff, which I have no ideas the subtleties of, but I'm sure she does; classical music, mozart and beethoven in particular; a few videogame tracks; and some assorted miscellaneous stuff, including copies of the original songs from EBA, which she asked me for but hadn't had before, and I tracked up, eventually. She's a pretty eclectic little kid. 
 
