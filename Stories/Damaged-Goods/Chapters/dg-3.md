@@ -40,12 +40,14 @@ In the meantime, a billion comments and questions inbetween. Might take me a bit
 ### 17506825   
   
 > _re: "While she likes the teddy bear, she might not understand your intentions fully." etc._  
+
 Yes, I know that. I discussed that with our shrink, and she said I definitely needed to tell her that, yes, this was a special treatment meant just for her. She also said that this wouldn't necessarily be a bad thing, since it would help her feel, and understand, that she's cared about individually, not just as 'another patient'.  
 Of course, I'll probably be splitting any gift-credit with the rest of the staff, and at the same time, offering to be there if she needs me, wants to talk, etc, individually. I'm trying to do this in a somewhat transparent manner...  
   
 ### 17506970   
   
 > _re: "Anonynurse, if you DO adopt her, you can more or less kiss your current job goodbye. Taking care of an invalid, especially a young invalid, is a very time-intensive task for one person. It's also VERY expensive. Unless you have a very large amount of money and can afford to take a few years off work, it probably won't work out."_  
+
 This is a serious point, and I want to address it.  
 Believe me, I know. If it does happen, she's going to require full-time care, at least for the foreseeable future. I wouldn't just be a parent, I'd be a fulltime homecare nurse. Fortunately, I'm more qualified for that burden than any non-professional parent could be, though I will admit that I've probably never faced as stressful a situation as that before.  
 Someone in her situation, when adopted, comes with a compensation payment to help cover their medical costs...which should help somewhat. As her legal ward, I'd also be responsible for her 'assets', including the remainder of the life insurance from her parents, which would be a helpful backup fund for covering expenses.  
@@ -54,11 +56,13 @@ Finally, if it did happen, my family will probably help me out as well, they're 
 ### 17507114   
   
 > _re: "Well... do you still have the reciept for the bear or choco orange? "_  
+
 Damn, I tossed it...I'll keep something in mind in the future, perhaps, if I can find a store selling something I buy for her that isn't too region-obvious...maybe wal-mart or something...we'll see. Sorry?  
   
 ### 17507210   
   
 > _re: "You misused the word "taciturn," moron"_  
+
 I'm a Nurse, not a Writer, nigger.  
 _(This is a real post - Nurse-kun)_  
   
@@ -82,18 +86,22 @@ Thanks for the orange, again, you're welcome to believe or not believe, read or 
 ### 17508733   
   
 > _re: "he'll definitely groom her for the next 11 years to be the next big thing in amputee porn"_  
+
 I have a job already, and I don't know how to manage a porn star.  
   
 ### 17509002   
   
 _Note: As per Anonymous' request, the post Nurse-Kun is replying to has been included._  
+
 _When /b/ gives a relatively positive response to someones actions or intentions, people tend to act quicker than normal. (note to the OP: Congrats, but don't rush things too quickly. You probably already know this, but I doubt this little girl, who just had her life flipped upside down, would appreciate any other drastic changes.) Also, even though the OP may seem to have progressed quickly from our perspective, this isn't necessarily true. The OP is describing each minor detail to us, which has piled up to quite a bit of information over his collective posts. However, what has actually occured throughout this time is miniscule. In summary, the only thing he has done besides his job, is give a little lonely girl a small gift despite it being kinda against the hospital's rules and then chat about it with his co-workers. This seems perfectly believable to me, and even if it is fake, its not like lying on 4chan is exactly frowned upon._  
+
 You know, this guy is right. I mean, it's not like this is proceeding at the pace of an H-game or something.__  
 I won't be poopering her OR adopting her by the end of the week.  
   
 ### 17509044   
   
 > _re: HOUSE AM GOD_  
+
 Well, I'm not quite that old or shadowed or opiate-addicted or high-hairlined or cripply just yet, but...  
   
 ### 17509309   
@@ -105,12 +113,14 @@ And, um, I...well, it's complicated. All I know for sure is that I don't want to
 ### 17509447   
   
 > _registered nurse vs. nurse orderly_  
+
 Well, I kinda do both jobs, since I'm alone at night, and have to deal with a number of senile or otherwise mentally compromised and occasionally troublesome patients. It was just a layman shorthand of a general job description.  
 I am, in fact, a registered nurse. YES, A REGISTERED MALE NURSE. PLZ DO NOT DRAW ME IN CAP WHITE'S OUTFIT W/GIANT NEEDLE.  
   
 ### 17510719+17511021   
   
 > _re: "OBJECTION!" and poorly written phoenix wright dialogue. It was very well written you piece of shit(/B/tard)._  
+
 Your lack of knowledge cannot be disguised with bombastity alone. Clearly, while you believe you've spotted some sort of giant gaping hole (much like you are no doubt picturing at the end of her stumps) in my account, all that you've seen is an ignorant fool's picture in your own mind.  
 The average time it takes to heal to the point of entirely closed flesh after amputation is under a month, with variations based upon age, general health, and all the other things that determine how fast one heals any other cut or incision. When this initial healing is completed, and all sutures and staples removed, the result is a thin but coherent scar tissue joining the flesh that was knit together during the surgery. While it is 'healed', it remains fragile, and can be worried open again, thus necessitating careful treatment.  
 HOWEVER! Her legs had suffered serious burns, which was the main reason for the choice to amputate. While the point to amputate at was chosen at a site above the limit of the burns, the additional trauma caused via nerve damage by these burns has left her in considerable pain even after this 'healing' has occured.  
@@ -122,6 +132,7 @@ You should really hire an expert to brief yourself in these matters before launc
 ### 17511537    
   
 >  _In response to "Would you show her the fanart [/b/](//b/) has drawn?_  
+
 I've considered it, actually...it was such an idea that first inspired me to suggest people draw such fanart, though clearly, it's a bit of a sticky subject...because if I show it to her, even if she likes it, and it makes her feel better, I'd probably need to ask her to keep it a secret. Because other people learning that I gave descriptions of her to people to draw pictures of her on the internets would self-evidently, for anyone with half a brain, be a serious no-no.  
 Even if I tell her that people learned about her on their own and drew it on their own, it's still risky, because people learning I found it and directed it to her would likely trace it back here somehow, and, well.  
 I'm still thinking about it.  
@@ -129,6 +140,7 @@ I'm still thinking about it.
 ### 17511894   
   
 > _"Apart from the fact it's dangerous jobwise is it really such a great idea to go out of your way to deliberately remind her she's lost most of her limbs by showing her badly drawn pictures of herself minus them? Really doesn't strike me as a very good idea. Stick with generally supportive gifts."_  
+
 Well, yes, but this is /b/. I figured a less emotionally-charged reasoning would be more acceptable to the full audience. But yes, I certainly hadn't planned on throwing a handful of printouts at her any time soon.  
 Also: Afk for a bit, making some quick dinner.  
   
