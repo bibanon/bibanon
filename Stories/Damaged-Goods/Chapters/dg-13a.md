@@ -1,5 +1,4 @@
 > _This is Part Thirteen B of the story "_**_Damaged_**_ _**_Goods_**_"._
-{{RealTemplate2}}
 
 
 ## Part Thirteen B (February 13th)  ##
