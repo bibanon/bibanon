@@ -38,14 +38,14 @@ Ok, serious question. When are you actually going to approach them about adoptin
 
 ### 17455537
 
->>17455374
+\>\>17455374  
 
 Generally, any ward of the state that's under 18 is available for adoption...not necessarily adoption-likely but one can at least try.
 
 ### 17455608
 
->>17454864
->>17455374
+\>\>17454864  
+\>\>17455374  
 
 If she's up for adoption, I sure would like to try. You and your damned story are too heartwarming. In the words of /b/, "I'm detecting large amounts of win in this thread."
 
@@ -55,13 +55,13 @@ I probably wouldn't make a serious inquiry/request until at least the new year, 
 
 ### 17455743
 
->>17455652
+\>\>17455652  
 
 Yeah, that's what I figured. What are you going to try to accomplish with her in that time? (such as helping her open up, helping her find new hobbies, making friends with her, helping the other staff do the same, etc.)
 
 ### 17455711
 
->>17455670
+\>\>17455670  
 > What exactly do you have to prove to be approved as an adoptive parent?
 
 reasonable doubt that you won't rape and murder the child
@@ -78,20 +78,20 @@ KEEP IT SECRET. KEEP IT SAFE.
 
 ### 17455993
 
->>17455921
+\>\>17455921  
 
 I imagine you should hit up /g/ if they demand to check your computer so that you can totally wipe all evidence of 4chan or any other incriminating websites you might have in your cache.
 
 ### 17456134  ###
 
->>17455760
+\>\>17455760  
 > That Adam Walsh act stripped adoption agencies' ability to consider all factors prior to a criminal record check, so one thing you have to have is a totally clean criminal record. 
 > 
 > It's like if you've made a felonious mistake, you're automatically an unfit person to adopt, though you're still allowed to fuck like a bunny and produce massive quantities of Asian babies by saying hello to some Japanese-Americans in their native way. [basically; raep]
 
 My record is clean. Other than browsing /b/, I've never done anything illegal. I don't even have any CP to hide. Which has made my feelings for her, confused as they are, all the more extra-confusing.
 
->> 17455776
+\>\> 17455776  
 > Does the place where you work have any sort of rules against employees adopting current/post-patients? I'd guess not, as you said in the first thread that most people there are old as fuck, but it just seems like that could be an obstacle."
 
 Not that I'm aware of. But if it is a problem, and it's the deal breaker, the choice between success and keeping my job...I can get another job, even in my field. There's a health care crisis on, you know.
@@ -116,7 +116,7 @@ Believe me, I am VERY aware of this.
 
 ### 17456471
 
->>17456259
+\>\>17456259  
 
 Which is why I'm saying. Meeting her at the late hours of the night may turn on your feelings of wanting to protect and care for her, but if you make her a part of your life, you'll also have to deal with the not so favorable sides of her.
 
@@ -128,20 +128,20 @@ It's good to see that you seem to be taking a long look at things before jumping
 
 ### 17456265
 
->> 17456175
+\>\> 17456175  
 > What hospital are you working at?
 
 Come on, man, he can't tell where he works.
 
 ### 17456425
 
->>17456265
+\>\>17456265  
 
 Why not? Nobody gives a shit. I'm working as a pathologist assistant here and there is a somewhat similar situation, thought it might be the same girl.
 
 ### 17456541
 
->>17456425
+\>\>17456425  
 
 People want to fucking kill him because they think he's a pedo.
 
@@ -155,7 +155,7 @@ As I've already stated since the first post, I'm not working in a hospital.
 
 ### 17457033 (OP) ###
 
->>17456707
+\>\>17456707  
 > i'd suggest trying to get other workers together on doing things for her. you could be the clear ringleader, but it would be far less creepy and would give everyone context to your request for adoption.
 
 As I mentioned once before, I'm already planning ways to accomplish this. But friday nights, good luck finding anyone still around at 10 pm, and on the weekends, during the day? I'll schedule a meeting come monday, and present my proposal. We are allowed to make recommendations for the consideration of the treatment of patients; like I said, the head administrator isn't a COMPLETE bitch.
@@ -166,7 +166,7 @@ As I mentioned once before, I'm already planning ways to accomplish this. But fr
 
 #### 17462640
 
->>17462332
+\>\>17462332  
 > [talking about the first post]
 
 It's called the /b/ filter. This is an instance of how it works.
@@ -191,14 +191,14 @@ If any of you still doubt this, just keep in mind that this is the kind of man w
 
 #### 17457681
 
->>17457560
+\>\>17457560  
 > For the record, I think it's a terrible idea to even consider adopting someone you have lustful feelings for at any level. Caring for a girl in this situation full-time is hardly going to be easy and if the deicision to adopt is based on clouded judgement there's real potential for disaster.
 
 As a father and a paedophile I can happily inform you that your opinion is null and void. Just because you want to bone a chick who is in your care doesn't mean you can't take good care of her.
 
 #### 17457798
 
->>17457681
+\>\>17457681  
 
 Since when did one case = the norm? Just because you haven't fucked up your relationship with your daughter, doesn't mean the OP won't.
 
@@ -206,18 +206,18 @@ Consider also that a single-parent adopting a crippled girl is a considerably di
 
 #### 17457842
 
->>17457798
+\>\>17457798  
 
 So no one should ever have children or adopt or in fact do anything because they might fuck it up.
 
 #### 17457892
 
->>17457681
+\>\>17457681  
 
 it always makes me shudder to hear of /b/tards breeding. but i suppose it can't be helped
 
 #### 17456897
->>17456793
+\>\>17456793  
 
 OP is a fucking nigger pedophile who should kill himself. All the faggots that support him should die too.
 
@@ -225,7 +225,7 @@ P.S. This entire thread is fake. But it sure makes me mad.
 
 #### 17456827 + 17457930
 
->>17456725
+\>\>17456725  
 
 Playing devil's advocate here, you seem to be working under the false assumptions that:
 
@@ -248,7 +248,7 @@ Remember if this story is true, it is being viewed through the OP's eyes. Imagin
 
 #### 17457215
 
->>17457069
+\>\>17457069  
 
 Exactly. Everyone here has been jumping to conclusions: Either the OP is the lowest form of scum on Earth, a terrible, monstrous pedophile, or he's a gleaming golden god, upholding justice and truth in a messed up world.
 
@@ -264,7 +264,7 @@ I'm not saying he's the Second Coming, but these assholes proclaiming he should 
 
 #### 17457414 (OP) ###
 
->>17457215
+\>\>17457215  
 
 I'm no saint.
 
@@ -322,13 +322,13 @@ Your story actually made me think about what I'm doing to help people around me 
 
 ### 17458410
 
->>17458225
+\>\>17458225  
 
 This is true. Right now, she just thinks you are the nice nurse. It is going to take a long time for her to ever WANT to be adopted by you.
 
 ### 17462904 (OP) ###
 
->> 17462224
+\>\> 17462224  
 > OP, I think you should find her a good home, but not with you. No offense, you seem very nice, but how can you trust yourself not to raep your adopted daughter?
 
 Well, to be fair, I haven't raped anyone else so far. Perfect record!
@@ -350,7 +350,7 @@ On a sidenote, I won't be able to archive any threads tomorrow, anyone else goin
 
 #### 17458599
 
->>17458411
+\>\>17458411  
 
 If you mean for rapidshare, I can do this one.
 
@@ -358,13 +358,13 @@ You're probably several hours ahead of me (it's 7:15 PM, or EST, here)
 
 #### 17458488
 
->>17458411
+\>\>17458411  
 
 I'll edit the wiki for this thread tonight, but I can't promise anything about later
 
 #### 17458829 (Sarafan)
 
->>17458599
+\>\>17458599  
 
 Good... You think you handle tomorrow too?
 
@@ -378,14 +378,14 @@ OP here, how do i shot web? <spiderman pic here>
 
 #### 17459144 (Sarafan)
 
->>17458825
+\>\>17458825  
 
 Well, basically you just right-click on the page and choose "Save site as..." or something like that... and of course save as a complete page (.html)
 This of course isn't a perfect description since my copy of firefox is in danish... but it shouldn't be that hard to figure out...
 
 #### 17460572 (Sarafan)
 
-oh yeah, just remembered, make sure what you archive is http://img.4chan.org/b/res/17454864.html,; not 4chan.org.htm...
+oh yeah, just remembered, make sure what you archive is http://img.4chan.org/b/res/17454864.html ,; not 4chan.org.htm ...
 
 But now that I look at the thread I think it's safe to say that not much more is going to happen... You can have my latest archive?
 
