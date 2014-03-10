@@ -1,3 +1,5 @@
+![](http://i.imgur.com/8N3Z0XL.jpg)
+
 **The Liliad** was a story about a basement dweller, and his love for a girl, named Lily. The story is very, very feels-dense. It seemed to be deliberately written to induce hope, and then in the final installment, took a turn that was even worse than the very worst fears of its readers, inverting both the tone and message of the story within a few posts. 
 
 The Liliad was probably one of the most popular stories on /b/, ever. The threads in which OP posted new installments hit bump limits within a a few hours, and threads devoted to discussion of the story in between new installments rarely, if ever, died before the next installment. There were some pastas concerning the story, both of which are archived here.
