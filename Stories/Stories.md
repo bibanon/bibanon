@@ -11,7 +11,7 @@ Those anons became more than kind strangers; they became their child's mentors a
 
 ---
 
-These are the stories that the Bibliotheca Anonoma considers historically important; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
+These are the stories that the Bibliotheca Anonoma considers historically important; for their heartwarming (albeit surreal) tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
 * **[[Damaged Goods]]** (2006-2007) - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
   * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
