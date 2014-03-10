@@ -32,7 +32,7 @@ Each of them looked a little better than the previous one, and she seemed please
 
 ### 19531919 ###
 
-> _Im the guy who suggested the chocolate orange. Do you ever sneak in a longer touch when putting on her arm or is it purely proffessional and succinct? Maybe something she wouldn't notice but you would. Embrace a bit of pedo into your heart man! _
+> _Im the guy who suggested the chocolate orange. Do you ever sneak in a longer touch when putting on her arm or is it purely proffessional and succinct? Maybe something she wouldn't notice but you would. Embrace a bit of pedo into your heart man!_
 
 Too many questions to answer them all, but I will do this one: No, I haven't. I touch her enough while I'm helping her put them on as it is, let alone for other reasons, and touching her inappropriately would just be more trouble than it's worth, not to mention it being not good in general.
 
