@@ -36,6 +36,10 @@ This form of Anonymous begins with the DDoSing of [[Aiplex Software]] in 2009 an
 
 The icon of Payback Anonymous
 
+### Modern Era Anonymous
+
+With the collapse of Project Chanology and the increasinly massive popularity of 4chan, the old concept of raiding, hacking Anonymous no longer exists on 4chan. With popular media coverage and the breakout and commodification (for better or, as many claim, for worse) of memes into popular culture, the borderline illegal activities of Anonymous have migrated to less visible places. Communication typically occurs across private channels and IRC, but 4chan is no longer widely accepted as the "home" of Anonymous.
+
 ### AnonOps
 
 ## Raids
