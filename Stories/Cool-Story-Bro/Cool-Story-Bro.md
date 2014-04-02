@@ -4,7 +4,7 @@
 
 Dan tells a harrowing tale, about a day when he opened his door to see a woman begging him for help; one that betrayed his love, shattered his trust, and stole from his family. 
 
-He nearly throws her out, but the woman shows Dan her battered body; morbid proof that her new boyfriend has been abusing her for years, and is trying to hunt her down right now. 
+He nearly throws her out, but the woman shows Dan her battered body; morbid proof that her new boyfriend has been abusing her for years, and was still trying to hunt her down. 
 
 And despite the odds, Dan, conflicted between deep-seated hatred and lingering love, reluctantly gives a safe haven to a woman whose transgressions he once deemed "unforgivable".
 
