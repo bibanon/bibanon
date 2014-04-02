@@ -22,6 +22,28 @@ I peeled her clothes off of her, and put them on the ground for later burning. I
 
 After I got finished with him, I realized this was probably /b/'s specialty and decided to write it up. I don't really know what I should do with her. I was considering taking her to the police station, but I began wondering. Why would she run away from home? Maybe she has some physically or sexually abusive father at home who's just going to go and claim and her and beat her or molest her again. She said her parents were dead, but that might not be entirely true. And I began wondering if I technically kidnapped her. She could just be some kid that ran away and if her parents raise a ruckus could I get in trouble for doing a good deed? I hope not. I do need to get some sleep though, so I'll be going to bed soon. I've decided to take the day off tomorrow, to figure out who she is and I think she might have a little cold (I sound like a mother already!). So yeah, no pooper sticking, sorry for wasting your time /b/.
 
+### 06/21/07(Thu)05:18:52 No.30517898
+
+How can someone paste this whole thing, but combos get broken almost 100%
+
+### 06/21/07(Thu)05:19:23 No.30517931
+
+\>\>30517898  
+Nobody cares enough about me to break my combo
+
+### 06/21/07(Thu)05:22:12 No.30518113
+
+you know, shes probably a ghost.
+
+### 06/21/07(Thu)05:21:10 No.30518057
+
+good people? on my /b/?
+
+### 06/21/07(Thu)05:22:19< No.30518118
+
+\>\>30518057  
+It's more likely than you think. I don't know where I'm going to sleep, maybe I'll just crawl in bed with her. She's small, so we'd fit. She wouldn't mind (and I'm not sticking it anywhere), but Luke's going to make some snide comment in the morning. I could always crawl in bed with him though, he'd like that.
+
 # Thread 2  #
 
 The next day, he continued the story with this: (Note: These posts were copied to wikichan much after the post had died, so timestamps are unavailable)

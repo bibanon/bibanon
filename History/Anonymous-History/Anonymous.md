@@ -30,11 +30,17 @@ The form of Anonymous that catapulted the meme beyond the *chans. This form effe
 
 ### Payback-Era Anonymous
 
-The modern form of Anonymous. It is a mix of Golden Age and Chanology Era Anonymous, combining mass social movement for the greater good with the lulz and schaudenfreude we've all come to know them for.
+The transitional form of Anonymous. It is a mix of Golden Age and Chanology Era Anonymous, combining mass social movement for the greater good with the lulz and schaudenfreude we've all come to know them for.
 
 This form of Anonymous begins with the DDoSing of [[Aiplex Software]] in 2009 and the start of Operation Payback.
 
 The icon of Payback Anonymous
+
+### Modern Era Anonymous
+
+With the collapse of Project Chanology and the increasinly massive popularity of 4chan, the old concept of raiding, hacking Anonymous no longer exists on 4chan. With popular media coverage and the breakout and commodification (for better or, as many claim, for worse) of memes into popular culture, the borderline illegal activities of Anonymous have migrated to less visible places. Communication typically occurs across private channels and IRC, but 4chan is no longer widely accepted as the "home" of Anonymous.
+
+Modern Anonymous is also marked by a change in goals and behavior, which traces its roots to Project Chanology and subsequent raids. While "Old" Anonymous primarily focused on pointless raids, spam, and prank calls for fun, modern Anonymous has taken a stance on social issues. Notable examples include the DDOSing of PayPal after they stopped accepting Wikileaks donations, and various shutdowns of MPAA and RIAA websites in response to proposed SOPA and PIPA legislation. Anonymous now puts on a show of vigilante justice "for the greater good" - an attitude 4chan never had.
 
 ### AnonOps
 

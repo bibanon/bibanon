@@ -11,7 +11,7 @@ Those anons became more than kind strangers; they became their child's mentors a
 
 ---
 
-These are the stories that the Bibliotheca Anonoma considers our greatest treasures; for their heartwarming tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
+These are the stories that the Bibliotheca Anonoma considers historically important; for their heartwarming (albeit surreal) tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
 
 * **[[Damaged Goods]]** (2006-2007) - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
   * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
@@ -93,4 +93,10 @@ Links to good stories hosted outside of the Bibliotheca Anonoma.
 
 * [Danny Choo - How Discovering Japan Changed My Life](http://dannychoo.com/en/post/26094/How+Discovering+Japan+Changed+My+Life.html) - An inspirational story about how Danny Choo, a poor Chinese Malaysian kid in Britain, became obsessed with Japanese culture, and went to great lengths to learn Japanese and even just visit Japan. 
   * While Danny Choo drifted worldwide through a variety of admirable careers, he is most famous for a startup that created websites and translated English for Japanese companies. That startup evolved into today's well-connected [Culture Japan](http://dannychoo.com/en/post/25018/Danny+Choo.html); which he made to promote Japanese culture throughout the world, to reach people just as it had inspired him.
-  * He will soon be known for bringing about the enslavement of humanity by sexy robot dolls. hue hue hue
+  * \>He will soon be known for bringing about the enslavement of humanity by sexy robot dolls. hue hue hue
+* [Narcissu](http://narcissu.insani.org/) - A heartbreaking visual novel of a road trip by a man and a woman, both of whom die. Safe for Work.
+
+### Comics
+
+* [Kate Beaton](http://www.harkavagrant.com) - A comic artist whose simple anachronistic comics about literature and historical figures have become a staple of internet culture.
+* [The Perry Bible Fellowship](http://pbfcomics.com/) - Comics filled with outlandish surreal humor. Heavily referenced around the internet.

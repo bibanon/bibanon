@@ -1,5 +1,7 @@
 This wiki is based on Gollum, an open-source wiki built by Github, and uses a git repository with .md files to store wiki pages.
 
+You will need a Github account to edit the wiki.
+
 ## [[Content Policy]]
 
 We would prefer going without restrictions on what can be posted (it would be difficult to enforce anyway), but in the spirit of common decency, please follow the [[Content Policy]] while adding data to the wiki.
@@ -10,13 +12,7 @@ The web interface works just like any other wiki. Just click links to jump aroun
 
 To find websites with this feature, simply check the [[Mirrorlist]].
 
-## Downloading a local copy
-
-### [[BibAnon SDK]]
-
-The [[BibAnon SDK]] contains everything you need to get the entire wiki on a USB drive for Windows, with Ruby on Rails, Git, portable Firefox, and a portable Markdown editor. Just install and go.
-
-### Manual Install
+## Manual Install
 
 To manually download the whole wiki, just install [[Git]]. After that, run this command:
 

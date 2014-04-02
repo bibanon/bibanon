@@ -26,8 +26,6 @@ But why wait to become an internet archeologist? We can instead record history a
 
 This is why we have taken up the struggle, however fierce, however unloved or hated, to archive and analyze the history and the products of internet culture. One that I hope you too will be a part of. 
 
-This is our life's work. It's our gift to you. And to all mankind.
-
 *Welcome to the Bibliotheca Anonoma.*
 
 ### Internet Subcultures
