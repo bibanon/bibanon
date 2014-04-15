@@ -1,4 +1,3 @@
-
 And the official continuation for the 24-hour thread is here. Hi, I am original OP, and I approve this message.
 
 Original thread is here: [[510435461|Liliad Thread 1]]
@@ -349,4 +348,4 @@ I had the chance to go back down there to do the same internship as the summer p
 
 (Okay guys. Where do we go now?)
 
-[[Next Thread||Liliad Thread]]
+[[Next Thread||Liliad Thread 3]]
