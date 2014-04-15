@@ -348,4 +348,4 @@ I had the chance to go back down there to do the same internship as the summer p
 
 (Okay guys. Where do we go now?)
 
-[[Next Thread||Liliad Thread 3]]
+[[next thread|Liliad Thread 4]]
