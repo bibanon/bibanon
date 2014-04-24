@@ -1,6 +1,7 @@
 Original Story: http://www.reddit.com/r/AskReddit/comments/kkmm4/you_unexpectedly_timetravel_to_1985_you_have_no/c2l1ju0
 
-Created by Hornswaggle in response to an askreddit question: "You unexpectedly time-travel to 1985. You have no way back, ever. What do you do?"
+Created by reddit user /u/Hornswaggle in response to an /r/askreddit question: 
+"You unexpectedly time-travel to 1985. You have no way back, ever. What do you do?"
 
 # Sweet Home 1985
 
