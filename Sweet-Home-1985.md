@@ -1,8 +1,9 @@
 Original Story: http://www.reddit.com/r/AskReddit/comments/kkmm4/you_unexpectedly_timetravel_to_1985_you_have_no/c2l1ju0
 
-Created by Hornswaggle in response to an askreddit question: "You unexpectedly time-travel to 1985. You have no way back, ever. What do you do?"
+Created by reddit user /u/Hornswaggle in response to an /r/askreddit question: 
+"You unexpectedly time-travel to 1985. You have no way back, ever. What do you do?"
 
-
+---
 
 Well, let's suppose that I am walking home from work on a normal day and boom, I open my apartment door to find out it is 1985.
 
@@ -13,7 +14,6 @@ Sorry past apartment renters, but I gotta rob you. I search the apartment for an
 It's 1985. I am 11 in St. Louis. But 37 year-old me has a bag full of stolen goods in Chicago and is a block and half from my grandmother's house. Will my grandmother recognize the 11 year old in the 37 year old me? Is my youngest uncle currently around the corner at The Bubble having a drink? How can I get to St. Louis?
 
 It's 9/19 and in a few weeks the Royals will escape defeat at the hands of the Cardinals with some bullshit call in Game 6. Also, the Bears will win the Super Bowl. Aside from the stolen goods I have an Andriod LG phone, a 5-year old ipod nano and earphones and an USB drive with personal and business files in a file form that probably hasn't been invented yet.
-
 
 At this point, I've got to get to St. Louis. What will that take in 1985? I can't fly without ID, can I? I am trusting that my parents, will somehow know that I am, in fact, their time-traveling son. I am trusting that parental feeling. But will my grandmother? What if she doesn't... has she moved to Florida yet? I think back to a photo of me on the family station wagon with my sisters visiting my Grandmother in Fort Myers, FL. When was that? I look taller than 11 and I remember wearing a Led Zeppelin T, so probably older than 11. I think she is still on Granville. I'm going there, but first let's get rid of these stolen goods. I don't know hoe long I will be in this neighborhood, so I can't find a Pawn shop around here. I have some watches, jewelry and 36 more dollars. I have two gold coins from 1976 and an antique Mickey Mouse watch with moving hands. I should go downtown, the L is right here and I have 6 dollars in ones. I remember seeing older looking marqees for jewelers downtown north of the Mag Mile. I walk to the Bryn Mawr stop. Thankfully, someone else is getting tokens from this machine I've never seen before and I mimic her actions and get as many tokens as $6 will get me. I have a transit pass in my wallet, but it won't work until 1999 or so.
 
@@ -31,8 +31,7 @@ Bang my 25-year old boss (she meets her current 2011 husband in 3 months!)
 
 Get to St. Louis.
 
-First thigns first
-I wake up in Lincoln Park. It is Friday 9/20/1985 and NPR reminds me of this as my 25-year old 2011 boss is showering. I am making coffee as she emerges. I has used all the information 8 years of being colleagues and 5 seasons of How I met Your Mother to get her into bed. I shower and redress and we head down to the train together. I had lied and said I had a job at Leo Burnett, the only company i could remember being downtown that would surely already be there in 1985 (thanks Mad Men). I promise to call her after I get back from my weekend trip to St. Louis.
+First thigns first I wake up in Lincoln Park. It is Friday 9/20/1985 and NPR reminds me of this as my 25-year old 2011 boss is showering. I am making coffee as she emerges. I has used all the information 8 years of being colleagues and 5 seasons of How I met Your Mother to get her into bed. I shower and redress and we head down to the train together. I had lied and said I had a job at Leo Burnett, the only company i could remember being downtown that would surely already be there in 1985 (thanks Mad Men). I promise to call her after I get back from my weekend trip to St. Louis.
 
 I walk to Union Station and I am in luck. I can purchase a ticket without ID. I lurk in the Union Station gift shop, buying a TIME, Forbes and a Newsweek. I also get a Chicago Tribune and a New York Times. Also a Barron's. My Mom's Dad read Barron's religiously and I hope this will help. I expect I am going to have to pull one of those "I know things only I could know" routines. I have 6 hours to kill before the 3 o'clock train. I have $412 after the tickets and periodicals and 6 hours to read them on the train. I will arrive in St, Louis around 9 pm. I can take a cab to a hotel near my family's house, so maybe I should get some clothes.
 
@@ -70,8 +69,7 @@ She's showing property. My mother went back to work son after my youngest sister
 
 I remembered the Baskin Robbins had one, right next to the Pantera's Pizza (I LOL'd). I bought a shake and got some quarters and dialed my mom's office number by heart. Still the same in 2011 as it was in 1985. The receptionist informed my of the location of the showing and the time. I planned to show up when it was over, 1pm; and I would need all that time to walk there. 1926 High School Avenue, my old friend Mark Bassmens house. We had been close friends until his parents put him in a expensive private prep school in 6th grade, they moved further out into the suburbs of St. Louis County. Jesus, this had been my last summer with Mark, in 1985. When school started I went back to St. Mary's and he went to Loyola.
 
-I started walking, if I moved quickly I could get there by noon. I had an hour and more to plan how to do this.
-I really wish I had bought a watch. A watch would be handy right now. As far as I'm concerned my android power is sacred and who even knows if the clock would work. I've tried to judge the wisdom of turning it on and fiddling around to see what it says, versus conserving power. I've walked around the block three times. This time, I stand in front, across the street. I see the tree-house Mark and I played in, long gone by now in 2011. I see my Mother start to escort a couple out of the front door and I make my move. No need to make myself look any more odd. My dress has always been conservative, buttons down, slacks, etc. So I don't look too far removed from the stereotypical preppy guy, even the Chuck Taylors are around in 1985, but who knows. I have a messenger bag that is definitely NOT 1985 and glasses too, but who notices that?
+I started walking, if I moved quickly I could get there by noon. I had an hour and more to plan how to do this. I really wish I had bought a watch. A watch would be handy right now. As far as I'm concerned my android power is sacred and who even knows if the clock would work. I've tried to judge the wisdom of turning it on and fiddling around to see what it says, versus conserving power. I've walked around the block three times. This time, I stand in front, across the street. I see the tree-house Mark and I played in, long gone by now in 2011. I see my Mother start to escort a couple out of the front door and I make my move. No need to make myself look any more odd. My dress has always been conservative, buttons down, slacks, etc. So I don't look too far removed from the stereotypical preppy guy, even the Chuck Taylors are around in 1985, but who knows. I have a messenger bag that is definitely NOT 1985 and glasses too, but who notices that?
 
 "Hello! Welcome to the showing."
 
@@ -133,8 +131,7 @@ She looks right at it. Then I said what might have been the perfect thing.
 
 I move around the counter across from her and I slowly remove my ipod, the USB drive. I begin to empty my bag, newspapers and magazines I bought for the train, but also the WIRED I had from August. The Chicago Reader from earlier that week. I have folded up crossword puzzles I saved from the Chicago Red Eye to do on the train, all with dates all over them.
 
-"I'm from 2011. I'm Josh Carlisle from 2011, I'm 37 years old. All of this here is what I have and you can ask me any question you want until you are satisfied that I am who I say I am."
-"oh really..." she says. "This is all very interesting. Am I supposed to go through all of this and be convinced of something? You don't look like you need money, so I'm at a loss to uncover what you want form a real estate agent in the suburbs."
+"I'm from 2011. I'm Josh Carlisle from 2011, I'm 37 years old. All of this here is what I have and you can ask me any question you want until you are satisfied that I am who I say I am." "oh really..." she says. "This is all very interesting. Am I supposed to go through all of this and be convinced of something? You don't look like you need money, so I'm at a loss to uncover what you want form a real estate agent in the suburbs."
 
 "I can't say what I want. As you can imagine this is a rare situation to say the least. Of course, I don't expect you to believe me, not right away. I don't have a lot of choices, well, legal choices and I've never been one to dabble in illegal solutions... you taught me that."
 
