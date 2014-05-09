@@ -42,6 +42,9 @@ with his death.
 
 Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style.
 
+
+When asked about this, the author toys with words to respond with ambiguity, or uses alternating pronouns for him/herself in the same sentence. No gender has been confirmed and attempts to contact them via voice calls on skype have turned up female voices in the background, or none at all.
+
 ### The Woody
 
 During the posting of this story, the author punctuated each and every update with a recap of the previous update, often themed or with additional jokes. 
