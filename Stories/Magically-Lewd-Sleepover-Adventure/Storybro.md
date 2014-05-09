@@ -4,6 +4,8 @@
 
 Because of the Authors meticulous archiving, The full story is availible on this [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story.
 
+This story takes the current record as "Longest Greentext Ever Written" clocking in at over 400 pages. Many anons believe it's the beginning of the emergence of a completely new writing style, as it feels as if you're hearing a story from a friend the entire way through and is very personal.
+
 
 ### Posting History
 
@@ -15,6 +17,8 @@ Because of the slow speed of R9k, there was an active thread nearly every moment
 Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were thousands of users accessing the document. It actually managed to overload the server it's hosted on (which is rather impressive as its google.).
 
 
+
+
 ### The Girls
 
 Although Storybro never provided actual pictures of the women, he noted various anime characters they look like and anons made quick haste compiling images of all of them.
@@ -23,16 +27,19 @@ These are some of the better ones
 [2nd](http://i.imgur.com/P0hN9zJ.jpg)
 [3rd](http://i.imgur.com/ywU83MM.png)
 
-Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence, as Nisekoi was 
+Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence.
 
 ### Storybro
 
-
+Age: 22
+Gender: Female(?)
 
 The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost thier job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
 
 Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, and writing these stories is a way of coping
 with his death.
+
+Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style.
 
 ### Sources
 
