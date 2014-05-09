@@ -13,11 +13,17 @@ Because /v/ pretends to be a video game board, the author had to fight various b
 
 Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. The story was posted to reddit and various discussion groups formed to discuss various aspects of it. 
 Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were thousands of users accessing the document. It actually managed to overload the server it's hosted on (which is rather impressive as its google.).
+
+
 ### The Girls
 
+Although Storybro never provided actual pictures of the women, he noted various anime characters they look like and anons made quick haste compiling images of all of them.
+These are some of the better ones
+[1st](http://i.imgur.com/b2DoRRa.jpg)
+[2nd](http://i.imgur.com/P0hN9zJ.jpg)
+[3rd](http://i.imgur.com/ywU83MM.png)
 
-
-Many believe the characters are lifted directly from nisekoi but the differences leave that unconfirmed.
+Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence, as Nisekoi was 
 
 ### Storybro
 
