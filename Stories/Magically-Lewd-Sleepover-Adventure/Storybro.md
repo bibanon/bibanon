@@ -11,10 +11,13 @@ The author initially began posting this story to /v/ on a "Greentext Vidya Sleep
 
 Because /v/ pretends to be a video game board, the author had to fight various bans, mutes and thread deletions before threads were moved to the permanent home on R9k. The story was posted over the span of a month. With near nightly updates at 8:00 PM (pst). Threads consisted of single post updates every 8-10 minutes with discussion, shitstorms and usual reactions between each post. Because of the formatting of the threads it left the author with many chances to drop cliffhangers for the reading anons, and reading the threads was a completely different experience between simply reading it on the document. Most readers formed factions and argued between one another on which girl was best, and should end up with the main character at the end.
 
-Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. 
-
-Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were multiple thousands accessing the document.
+Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. The story was posted to reddit and various discussion groups formed to discuss various aspects of it. 
+Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were thousands of users accessing the document. It actually managed to overload the server it's hosted on (which is rather impressive as its google.).
 ### The Girls
+
+
+
+Many believe the characters are lifted directly from nisekoi but the differences leave that unconfirmed.
 
 ### Storybro
 
@@ -22,8 +25,8 @@ Throughout the story's writing time, it consistently had 100+ anons new and old 
 
 The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost thier job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
 
-Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms
-
+Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, and writing these stories is a way of coping
+with his death.
 
 ### Sources
 
