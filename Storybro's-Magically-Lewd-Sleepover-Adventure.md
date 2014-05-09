@@ -51,7 +51,7 @@ During the posting of this story, the author punctuated each and every update wi
 
 In addition to this, the author posted a new and different woody picture for each and every single post he made with story content, often relating to the content of the post directly. This collection of Revoltech woody images impressed anons when it was in the hundreds, but quickly entered the thousands as the story progressed.
 
-The OP, being a nice guy offered up two .rars of woody pictures at the end of the story. It was revealed 
+The OP, being a nice guy offered up two .rars of woody pictures at the end of the story. It was revealed that over 1422 different images were posted in the progress of this story. Which is a testament to the amount of time and effort the author put into it.
 
 ### Sources
 
