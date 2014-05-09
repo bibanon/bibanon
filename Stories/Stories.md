@@ -44,7 +44,8 @@ Stories told of trials and tribulations, faced by those anons whose love is not 
 ### Little Bit of Everything
 Feel like fapping, laughing and crying at the same time? These are for you.
 
-* **[[Storybro's Magically Lewd Sleepover Adventure]]** -
+* **[[Storybro's Magically Lewd Sleepover Adventure]]** - An anon tells a tale of a sleepover he was lucky enough to attend with five teenage women. Instead of it becoming a flat-out harem fest as anons would expect, the anon relays a true epic tale of pain, feels, lewd and laughter.
+
 
 ### WTF
 
