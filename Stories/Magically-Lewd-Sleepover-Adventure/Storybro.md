@@ -42,6 +42,14 @@ with his death.
 
 Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style.
 
+### The Woody
+
+During the posting of this story, the author punctuated each and every update with a recap of the previous update, often themed or with additional jokes. 
+
+In addition to this, the author posted a new and different woody picture for each and every single post he made with story content, often relating to the content of the post directly. This collection of Revoltech woody images impressed anons when it was in the hundreds, but quickly entered the thousands as the story progressed.
+
+The OP, being a nice guy offered up two .rars of woody pictures at the end of the story. It was revealed over 1422 different images were posted over the month. 
+
 ### Sources
 
 * [Storybro's Google Doc](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
