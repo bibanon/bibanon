@@ -15,8 +15,7 @@ The author initially began posting this story to /v/ on a "Greentext Vidya Sleep
 
 Because /v/ pretends to be a video game board, the author had to fight various bans, mutes and thread deletions before threads were moved to the permanent home on R9k. The story was posted over the span of a month. With near nightly updates at 8:00 PM (pst). Threads consisted of single post updates every 8-10 minutes with discussion, shitstorms and usual reactions between each post. Because of the formatting of the threads it left the author with many chances to drop cliffhangers for the reading anons, and reading the threads was a completely different experience between simply reading it on the document. Most readers formed factions and argued between one another on which girl was best, and should end up with the main character at the end.
 
-Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. The story was posted to reddit and various discussion groups formed to discuss various aspects of it. 
-Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were thousands of users accessing the document. It actually managed to overload the server it's hosted on (which is rather impressive as its google.).
+Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were thousands of users accessing the document. It actually managed to overload and crash the server it's hosted on (which is rather impressive as its a google server.).
 
 
 
@@ -29,7 +28,7 @@ These are some of the better ones
 [2nd](http://i.imgur.com/P0hN9zJ.jpg)
 [3rd](http://i.imgur.com/ywU83MM.png)
 
-Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence.
+Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence and important things like eye color, hair length, or chest size, don't match.
 
 ### Storybro
 
