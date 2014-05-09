@@ -41,6 +41,11 @@ Stories told of trials and tribulations, faced by those anons whose love is not 
 * **[[Tasha's Brother]]** - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
 * **[[Oral Hygiene]]** - What happens when an /a/non, at the encouragement of his fellows, takes an interest in his younger sister's teeth. 
 
+### Little Bit of Everything
+Feel like fapping, laughing and crying at the same time? These are for you.
+
+* **[[Storybro's Magically Lewd Sleepover Adventure]]** -
+
 ### WTF
 
 These stories will make you hurl.
