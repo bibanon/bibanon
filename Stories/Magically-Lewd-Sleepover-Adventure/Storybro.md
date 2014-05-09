@@ -1,12 +1,21 @@
-![](http://i.imgur.com/8N3Z0XL.jpg)
+![](http://i.imgur.com/4xxpU3q.jpg)
 
-**The Liliad** was a story about a basement dweller, and his love for a girl, named Lily. The story is very, very feels-dense. It seemed to be deliberately written to induce hope, and then in the final installment, took a turn that was even worse than the very worst fears of its readers, inverting both the tone and message of the story within a few posts. 
+**Storybro's Magically Lewd Sleepover Adventure** was a story about a single anon and his rather traumatic, erotic and soul-crushing experiences after being granted a once-in-a-lifetime chance at a sleepover with 5 teenage women from an anime club.  The story is rather informative, outlining exactly the sensations felt during many experiences that readers have, and in all likelyhood will only know once (such as dying.) as well as other more common experiences like different acts of sex. The story is often cited for having an immense amount of detailing and a first-hand perspective that accurately reflects the situations and experiences of a teenager growing up in 2005. Storybro continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional.
 
-The Liliad was probably one of the most popular stories on /b/, ever. The threads in which OP posted new installments hit bump limits within a a few hours, and threads devoted to discussion of the story in between new installments rarely, if ever, died before the next installment. There were some pastas concerning the story, both of which are archived here.
+Because of the Authors meticulous archiving, The full story is availible on this [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story.
 
-### Lily
 
-Lily was described as half-Asian, half-white, and as presenting with "the best of both sides". OP flatly refused to post any pictures of her, probably because it's stupid to post pictures to /b/. However, OP's signature picture was one of [Kiernan Shipka](http://fuuka.worldathleticproject.org/boards/b/image/1381/64/1381640412301.jpg), suggesting that Lily at least somewhat resembles her.
+### Posting History
+
+The author initially began posting this story to /v/ on a "Greentext Vidya Sleepovers" Thread. Started out nameless, and obviously didn't expect to tell the story past the bits where all the anons on the thread could fap. Due to overwhelming support and popularity it was continued through multiple chapters on /v/. The writing style reflects this and it quickly transitions between a rough greentext format, to a full first hand retelling of the experiences lavish with detail. The story and penname were chosen by anons. "Storybro" and "Storybro's Magically Lewd Sleepover Adventure" on an [open-discussion google document](https://docs.google.com/document/d/1JDJVFoV2liUOI0BPSMZVPUvT1PNUrTiSRMIQz6DTiT8/edit#heading=h.3p5440nfv9t6) that was only active for a short number of updates before it was deemed too much work.
+
+Because /v/ pretends to be a video game board, the author had to fight various bans, mutes and thread deletions before threads were moved to the permanent home on R9k. The story was posted over the span of a month. With near nightly updates at 8:00 PM (pst). Threads consisted of single post updates every 8-10 minutes with discussion, shitstorms and usual reactions between each post. Because of the formatting of the threads it left the author with many chances to drop cliffhangers for the reading anons, and reading the threads was a completely different experience between simply reading it on the document. Most readers formed factions and argued between one another on which girl was best, and should end up with the main character at the end.
+
+Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. 
+
+### The Girls
+
+
 
 ### The Story
 * [[First Installment|Liliad Thread 1]] - October 12
