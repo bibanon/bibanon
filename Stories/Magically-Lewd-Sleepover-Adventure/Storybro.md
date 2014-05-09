@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/4xxpU3q.jpg)
 
-**Storybro's Magically Lewd Sleepover Adventure** was a story about a single anon and his rather traumatic, erotic and soul-crushing experiences after being granted a once-in-a-lifetime chance at a sleepover with 5 teenage women from an anime club.  The story is rather informative, outlining exactly the sensations felt during many experiences that readers have, and in all likelyhood will only know once (such as dying.) as well as other more common experiences like different acts of sex. The story is often cited for having an immense amount of detailing and a first-hand perspective that accurately reflects the situations and experiences of a teenager growing up in 2005. Storybro continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional.
+**Storybro's Magically Lewd Sleepover Adventure** was a story about a single anon and his rather traumatic, erotic and soul-crushing experiences after being granted a once-in-a-lifetime chance at a sleepover with 5 teenage women from an anime club.  The story is rather informative, outlining exactly the sensations felt during many experiences that readers have, and in all likelyhood will only know once (such as dying.) as well as other more common experiences like different acts of sex. The story is often cited for having an immense amount of detailing and a first-hand perspective that accurately reflects the situations and experiences of a teenager growing up in 2005. In addition to being chock full of thousands of hidden pop-culture references to things from the time period, or common internet culture. Storybro continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional.
 
 Because of the Authors meticulous archiving, The full story is availible on this [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story.
 
@@ -13,23 +13,16 @@ Because /v/ pretends to be a video game board, the author had to fight various b
 
 Because of the slow speed of R9k, there was an active thread nearly every moment devoted to this story between April 1st and May 7th 2014. With mirrored active threads on /b/. Because /b/ is not archived consistently, only the r9k threads are readable. 
 
+Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were multiple thousands accessing the document.
 ### The Girls
 
 
 
 ### The Story
-* [[First Installment|Liliad Thread 1]] - October 12
-* [[Second Installment|Liliad Thread 2]] - October 13
-* [[Third Installment|Liliad Thread 3]] - October 14
-* [[Fourth Installment|Liliad Thread 4]] - October 15
-* [[Fifth Installment|Liliad Thread 5]] - October 16
-* [[Sixth Installment|Liliad Thread 6]] - October 17
-* [[The End|Liliad Thread 7]] - October 20
-* [[Liliad Pasta]]
+
 
 ### Sources
 
-* [Liliad Collaborative Google Doc](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
-* [marvinody's Tumblr - The Liliad](http://marvinody.tumblr.com/)
-* [Encyclopedia Dramatica - The Liliad](https://encyclopediadramatica.es/The_Liliad)
-* [Daily Dot - Review of The Liliad](http://www.dailydot.com/lifestyle/4chan-liliad-lolita-pedophile-fantasy/)
+* [Storybro's Google Doc](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
+* [Published Document (Secondary Backup)](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/pub)
+* [ASSTR Secondary text-only story host (For mobile devices)](http://www.asstr.org/files/Authors/Storybro/)
