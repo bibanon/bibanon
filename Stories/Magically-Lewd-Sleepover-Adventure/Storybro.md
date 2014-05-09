@@ -16,9 +16,13 @@ Because of the slow speed of R9k, there was an active thread nearly every moment
 Throughout the story's writing time, it consistently had 100+ anons new and old reading through the story. Near the finale it's estimated there were multiple thousands accessing the document.
 ### The Girls
 
+### Storybro
 
 
-### The Story
+
+The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost thier job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
+
+Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms
 
 
 ### Sources
