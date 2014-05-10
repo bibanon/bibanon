@@ -30,4 +30,4 @@
 <p>Thus, i'm going to leave it as is. Everything else is a lewd story for another time.<br />
 
 
-This is a direct copy paste of her ending story notes. If you wish to read more of her stories and its not on the Bibanon, go here and scroll to the end [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
+**This is a direct copy paste of her ending story notes. If you wish to read more of her stories and its not on the Bibanon, go here and scroll to the end** [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
