@@ -58,7 +58,7 @@ Its suggested you use the official [Document](https://docs.google.com/document/d
 
 [Magically Lewd Sleepover : Notes](https://github.com/bibanon/bibanon/wiki/Magically-Lewd-Sleepover-:-Notes)
 
-[[Magically Lewd Sleepover : 1 5]]
+[[Magically Lewd Sleepover : 1 5.html]]
 
 [Updates 6-10]
 
