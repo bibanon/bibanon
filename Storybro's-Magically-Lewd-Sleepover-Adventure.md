@@ -57,11 +57,16 @@ The OP, being a nice guy offered up two .rars of woody pictures at the end of th
 Its suggested you use the official [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#) assuming that still exists because it has features not available on the wiki. But for archival reasons here's the story in text-format.
 
 [Magically Lewd Sleepover : Notes](https://github.com/bibanon/bibanon/wiki/Magically-Lewd-Sleepover-:-Notes)
-[Updates 1-5]()
-[Updates 6-10]()
-[Updates 11-15]()
-[Updates 16-20]()
-[Updates 21-17]()
+
+[[Magically Lewd Sleepover : 1 5]]
+
+[Updates 6-10]
+
+[Updates 11-15]
+
+[Updates 16-20]
+
+[Updates 21-17]
 
 ### Sources
 
