@@ -9,25 +9,17 @@ Sorry for the rather high traffic anons. As far as google tells me, thousands of
 IF THIS DOCUMENT IS CRASHING, LOADING SLOWLY OR NOT-WORKING AND YOU DON'T MIND NOT SEEING THE COMMENTS OR BEING ABLE TO COMMENT. USE THIS LINK. if the document is in read-only mode, you're fine.
 https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/pub
 
-And here's a link for those of you running on toasters. This is Text-only
-
-http://www.asstr.org/files/Authors/Storybro/Storybro%27s%20Magically%20Lewd%20Sleepover%20Adventure/
-
 
   **  Notes: Read these first.**
 
 
-There’s four things you should know before you start reading,
+There’s three things you should know before you start reading,
 
 1). Each of these sections was posted roughly 5-11 minutes from one another on average, this plays heavily into the way the story was read for the anons who witnessed it firsthand. I don't expect you to read it as such, but because you know how it was posted, you can maybe enjoy the impact some of the story’s moments had on thread readers.
 
 2). Comments are enabled (To use them, select text and right click, then hit “Comment”), they’ll show up on the side of this document and won’t interfere with the reading of the story in any way. Because of the way 4chan works, commentary is almost an essential part of the story’s experience. Feel free to note down any humor, laughter, feels, even anecdotes and stories of your own. Anons will read them, the author will read them. Just don't be a dick with the system please like spamming the resolve button. Ill moderate that shit myself don't worry.
 
 3). Each update was punctuated with a Woody image (after a while), many hundreds of different ones were used in the writing of this story. Only the best and most relevant are posted here.
-
-4). I started re-telling this story on 4chan simply because, after losing my job, i had free time and i genuinely enjoyed bringing entertainment to anon's around the world; hearing your responses made me smile every day. It's been an actual full month of updates so far! Although we're more than halfway done with the story, i'm no closer to finding new employment. This is a great thing for you, i can update many more times a week than i would otherwise, but not so great for me. ): I've been asked dozens of times to supply a paypal, from gracious or otherwise well-off anons that are more than happy to pay for good entertainment. So here it is. Donate Via Paypal
-If you genuinely feel that this story is entertainment worth paying for then i'll graciously accept every penny. But do not consider this a ransom note, i will continue writing this story free-of-charge for all anons until it ends, or my fingers fall off. Even then i still have my toes.
-
 
 
 
