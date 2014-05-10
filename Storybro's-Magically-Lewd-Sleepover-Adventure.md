@@ -4,7 +4,7 @@
 
 Storybro continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional.
 
-Because of the Authors meticulous archiving, The **full story is available on this** [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story.
+Because of the Authors meticulous archiving, The **full story is available on this** [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story. This includes the thousands of woody images posted along with every thread.
 
 This story takes the current record as "Longest Greentext Ever Written" clocking in at over 400 pages. Many anons believe it's the beginning of the emergence of a completely new writing style. Although the storyteller initially writes in a very rough and casual greentext format, the later updates are exceptionally detailed and well versed.
 
