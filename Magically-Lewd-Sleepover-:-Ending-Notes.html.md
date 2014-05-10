@@ -28,27 +28,6 @@
 
 <br />
 <p>Thus, i'm going to leave it as is. Everything else is a lewd story for another time.<br />
-(But if you liked it you can do one of two things. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UEWK66QMEX3L4&amp;lc=US&amp;item_name=Storybro&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" >Donate</a> or leave a couple comments somewhere, i'll absolutely read every single one; and i definitely plan to tell more stories.)</p>
 
-<br />
-<br />
-<br />
-<p><br />
-As i promised, here are the Woody Archives<br />
-<a href="http://www.mediafire.com/download/62e71k31skdf2e5/Storybro_Woody.rar" >http://www.mediafire.com/download/62e71k31skdf2e5/Storybro_Woody.rar</a></p>
 
-<p><a href="http://www.mediafire.com/download/0y0k1y00wlboe98/Storybro_Woody2.rar" >http://www.mediafire.com/download/0y0k1y00wlboe98/Storybro_Woody2.rar</a></p>
-
-<p>1422 Woody images were harmed in the making of this story.<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-If i do any future work, ill leave a note here for ya. Don't worry. (It'll probably involve raven and the gals, we have tons of stories)<br />
-<br />
-I'm thinking the cross country trip we took when we were about 17 over the summer.</p>
-
-This is a direct copy paste of her ending story notes. If you wish to read more and its not on the Bibanon, go here and scroll to the end [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
+This is a direct copy paste of her ending story notes. If you wish to read more of her stories and its not on the Bibanon, go here and scroll to the end [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
