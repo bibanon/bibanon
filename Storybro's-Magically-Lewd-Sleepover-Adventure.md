@@ -6,7 +6,7 @@ Storybro continually echoed the sentiment that "Enough of it was true to matter,
 
 Because of the Authors meticulous archiving, The **full story is available on this** [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story.
 
-This story takes the current record as "Longest Greentext Ever Written" clocking in at over 400 pages. Many anons believe it's the beginning of the emergence of a completely new writing style, as it feels as if you're hearing a story from a friend the entire way through and is very personal.
+This story takes the current record as "Longest Greentext Ever Written" clocking in at over 400 pages. Many anons believe it's the beginning of the emergence of a completely new writing style. Although the storyteller initially writes in a very rough and casual greentext format, the later updates are exceptionally detailed and well versed.
 
 
 ### Posting History
