@@ -64,9 +64,9 @@ Its suggested you use the official [Document](https://docs.google.com/document/d
 
 [[Magically Lewd Sleepover : 11 to 15.html]] - April 14th to April 18th
 
-[[Magically Lewd Sleepover : 16 to 20.html]]
+[[Magically Lewd Sleepover : 16 to 20.html]] - April 19th to April 26th
 
-[[Magically Lewd Sleepover : 21 to 27.html]]
+[[Magically Lewd Sleepover : 21 to 27.html]] - April 28th to May 6th
 
 [[Magically Lewd Sleepover : Ending Notes.html]]
 
