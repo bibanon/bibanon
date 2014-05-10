@@ -58,15 +58,17 @@ Its suggested you use the official [Document](https://docs.google.com/document/d
 
 [Magically Lewd Sleepover : Notes](https://github.com/bibanon/bibanon/wiki/Magically-Lewd-Sleepover-:-Notes)
 
-[[Magically Lewd Sleepover : 1 5.html]]
+[[Magically Lewd Sleepover : 1 to 5.html]] - March 30th to April 6th
 
-[Updates 6-10]
+[[Magically Lewd Sleepover : 6 to 10.html]] - April 8th to April 13th
 
-[Updates 11-15]
+[[Magically Lewd Sleepover : 11 to 15.html]] - April 14th to April 18th
 
-[Updates 16-20]
+[[Magically Lewd Sleepover : 16 to 20.html]]
 
-[Updates 21-17]
+[[Magically Lewd Sleepover : 21 to 27.html]]
+
+[[Magically Lewd Sleepover : Ending Notes.html]]
 
 ### Sources
 
