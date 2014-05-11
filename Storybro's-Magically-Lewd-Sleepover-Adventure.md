@@ -1,5 +1,4 @@
 ![](http://i.imgur.com/4xxpU3q.jpg)
-![](http://www.pixelsite.info/track/t21753.gif)
 
 **Storybro's Magically Lewd Sleepover Adventure** (March 26th, to May 6th 2014) was a story about a single anon and his rather traumatic, erotic and soul-crushing experiences after being granted a chance at a sleepover with 5 teenage women. The story is often cited for having an immense amount of detailing and a first-hand perspective that accurately reflects the situations and experiences of a teenager growing up in 2005. In addition to being chock full of thousands of hidden pop-culture references to things from the time period, or common internet culture.
 
