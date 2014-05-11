@@ -38,8 +38,9 @@ Gender: Female(?)
 
 The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost their job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
 
-Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, and writing these stories is a way of coping
-with his death.
+Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. Some of these boards included the league of legends forums (not giving user ID due to wiki rules), where the user was renown for being female, and has various high profile and extremely liked threads with stories, and some fictional comical additions to the lore. It's widely agreed that the writing style between these stories seems to match.
+
+ This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, if not during this story than one in the futre, and writing these stories is her way of coping with his death.
 
 Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style.
 
