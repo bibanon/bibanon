@@ -14,17 +14,15 @@ The word "culture" holds a connotation of high culture; whatever the winners wri
 
 But many forget that culture also means the products, the influences, the memes that spring from interaction between any human to another. This interaction could occur on the street, in an organization, through mass media or pop culture, or through smaller subcultures. 
 
-Whether present-day or contemporary society considers such culture moral or immoral, out of fashion or in with the times is utterly irrelevant. Once recorded, that culture *gives us a rare insight into the common thoughts, behaviors, and traditions of the people of that era*; and for that reason alone it is worth saving.
+Whether present-day or contemporary society considers such culture moral or immoral, out of fashion or in with the times is irrelevant. Once recorded, that culture *gives us a rare insight into the common thoughts, behaviors, and traditions of the people of that era*; and for that reason alone it is worth saving. 
 
----
+For the Internet has become more than just another invention of man; it is an alternate reality where most of humanity's interaction and livelihoods take place, and thus influence the physical world. 
 
-Today we live in an era where the internet has become more than a tool of humanity; it is an alternate reality where most of humanity's interaction and livelihoods take place, and thus influence the physical world. 
-
-Despite this, the important legacy of internet culture is constantly overlooked as a passing fad by both their constituents and their creators. As the network evolves, new servers will supersede the old, inactive data will fall down the memory hole, and link rot shall destroy cultural context. And it won't be long before a future innovator, (probably your own self) sifting through humanity's library of knowledge, curses us for our complacency. 
+Despite this, the important legacy of internet culture is constantly overlooked as a passing fad by both constituents and creators. Soon, new servers will supersede the old, inactive data will fall down the memory hole, and link rot shall destroy cultural context. And it won't be long before a future archivist, sifting through humanity's library of knowledge, curses us for our complacency. 
 
 But why wait to become an internet archeologist? We can instead record history and cultural output as it happens, and analyze them from the perspective of a primary source. 
 
-This is why we have taken up the struggle, however fierce, however unloved or hated, to archive and analyze the history and the products of internet culture. One that I hope you too will be a part of. 
+This is why we have taken up the struggle, however fierce, however unloved or hated, to archive and analyze the history and the products of internet folklife. One that I hope you too will be a part of. 
 
 *Welcome to the Bibliotheca Anonoma.*
 
