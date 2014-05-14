@@ -28,6 +28,8 @@ This is why we have taken up the struggle, however fierce, however unloved or ha
 
 ### Internet Subcultures
 
-Internet subcultures have created communities resembling nation-states (many manifesting in websites); with rich traditions, storied history, administration issues, struggles with immigration and emigration, even peaceful and "violent" conflicts. Even more amazingly, internet subcultures evolve drastically within a matter of months, and can rise and fall in just a few years. Each subculture strongly influences any successor, as the given that most users are the same people. Thus, even the littlest events can become pivotal in the future through the Butterfly Effect.
+Internet subcultures have created communities resembling nation-states (many manifesting in websites); with rich traditions, storied history, administration issues, struggles with immigration and emigration, even peaceful and "violent" conflicts. Internet subcultures can evolve drastically, rise and fall in just a matter of months. 
+
+But most importantly, each subculture strongly influences any successor, given that their constituents are still alive and active. Even the tinest events can become pivotal in the future through the Butterfly Effect.
 
 Thus, the internet no longer merely collects ideas and cultural output, it's subcultures are initiating projects, concepts and events that have real world implications. Silicon Valley's Hacker Mentality (Google, Apple, Facebook), the Free/Libre Open Source Software Movement (creating Linux, Apache, Firefox, Android), internet memes, the modding community, Anonymous, the Arab Spring, all prove that internet history strongly affects the human condition in the Information Age. 
