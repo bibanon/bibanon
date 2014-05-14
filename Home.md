@@ -10,9 +10,9 @@ We need your help and contribution to succeed. Create a Github account to edit t
 
 ### Introduction to Internet Culture
 
-The word "culture" holds a connotation of high culture; whatever the winners write in the history books, the artwork in museums that few contemporaries enjoyed, or the literary achievements of an elite literate few. 
+The word "culture" holds a connotation of high culture; whatever the winners write in the history books, the artwork in museums that few contemporaries enjoyed, or the literary achievements of an aloof elite. 
 
-But many forget that culture also means the products, the influences, the memes that spring from interaction between any human to another. This interaction could occur on the street, in an organization, through mass media or pop culture, or through smaller subcultures. 
+But many forget that culture is also defined as the products, the influences, the memes that spring from interaction between any human to another; it manifests in the street, in an organization, through mass media or pop culture, or through smaller subcultures. 
 
 Whether present-day or contemporary society considers such culture moral or immoral, out of fashion or in with the times is irrelevant. Once recorded, that culture *gives us a rare insight into the common thoughts, behaviors, and traditions of the people of that era*; and for that reason alone it is worth saving. 
 
