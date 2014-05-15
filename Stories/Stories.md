@@ -1,17 +1,24 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
+## [[Something Awful]]
+
+Stories gleaned right out of SA's paywall.
+
+* **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
+* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
+
 ## [[4chan]]
+
+> **Disclaimer:** While no NSFW images are displayed, be warned that 4chan is a website where where rape jokes and pornographic subtext were par for the course. However, as Nurse-kun states, "4chan, at it's core, is simply humanity without it's formalities."
+
 ### The Father and his Daughter
 
-Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. 
-
-Two anons, inspired by the first, repeated that kindness again in their own lives. 
+Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Two anons, inspired by the first, repeated that kindness again in their own lives.
 
 Those anons became more than kind strangers; they became their child's mentors and adopted fathers.
 
----
-
-These are the stories that the Bibliotheca Anonoma considers historically important; for their heartwarming (albeit surreal) tale of a father and his daughter, and their immersive depiction of 4chan culture during the Civil War/Golden Age Era (2006-2008).
+These stories are also of significant historical importance for their immersive depiction of 4chan culture during the Civil War Era (2006-2008).
 
 * **[[Damaged Goods]]** (2006-2007) - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
   * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
@@ -56,14 +63,6 @@ These stories will make you hurl.
 * **[[The Bridgekeeper]]** - One man's tale of woe about his mistake of a life, and the hardships and wrongs he's faced.
 * **[[b-sides]]** - This is a collection of stories written by /b/, where writers, after looking at some strange pictures, decided to write up a crazy side story behind them. 
 * **[[Pools Closed Novel]]** - WTF is this? A mess of memes created as a copypasta by anons on /b/.
-
-## [[Something Awful]]
-
-Stories gleaned right out of SA's paywall.
-
-* **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
-* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
-* [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
 
 ## Technology
 
