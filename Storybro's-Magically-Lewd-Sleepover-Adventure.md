@@ -71,6 +71,9 @@ Its suggested you use the official [Document](https://docs.google.com/document/d
 
 [[Magically Lewd Sleepover : Ending Notes.html]]
 
+### Road Trip Adventure
+A second story was started, may 17th. The page can be found here [[Storybro's Magically Lewd Road Trip Adventure  ]]
+
 ### Sources
 
 * [Storybro's Google Doc](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
