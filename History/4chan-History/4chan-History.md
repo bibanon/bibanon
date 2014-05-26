@@ -29,15 +29,64 @@ Mind that the names of each age, while named considering the perceived posting q
 
 One of Bibanon's most precious resources. Many of the sites that talk about 4chan are close to 10 years old, most of them completely abandoned. If you want to help archiving 4chan's history, saving these sites would be the best thing to do.
 
+### Major Sources
+
+Wikis and sites dedicated to Internet culture and 4chan.
+
 * [[4chan History Timeline]] - Passed down from generation to generation, archived and lost on countless wikis, this is the famous timeline of 4chan's evolution through the years. The last one was maintained by a Redditor on the second [[Wikichan]], but it was lost with the site's downfall and saved out of chance.
 * [4chan - Jonathan's Reference Pages](http://www.jonnydigital.com/) . Johnny Digital, known as JDigital, was a member of 4chan's staff for a while. Here he gives crucial data about the earliest days of 4chan.
 * [[Everything Shii Knows]] - [Everything Shii Knows](http://shii.org/knows/) - Shii, also known as Menchi, was another member of the staff. He helped coding the early source of 4chan together with thatdog, specially the for the /dis/ textboards. He tried to build a personal wiki about the Internet with tongs of data about 4chan and the Japanese chanverse. He eventually forgot about the site and shut it down after a DMCA takedown request.
 * [[Encyclopedia Dramatica]] - [Encyclopedia Dramatica](https://encyclopediadramatica.es/) - The shithole of the Internet’s ever present buttock. While at first glance it seems to be entirely composed of bullshit, ED has loads of information on users and performed raids, including tidbits about the Internet in general, like the first Internet raid ever done and the biggest compilation of creepypasta on the Internet. If there’s one thing they excel at, it’s at archiving drama. They seem to roam the line between life and death nowadays.
 * [[The LURKMOAR wiki]] - [Lurkmore](http://www.lurkmore.com/) - The first chan culture wiki. It was an effort to compile and explain the crescent amounts of memes and culture 4chan was creating on 2005. Its population slowly shifted to ED, and eventually fell into obscurity and obsoletion. Nowadays it’s mainly used as a wiki for its own boards dedicated to camwhores. Still gets updated with 4chan-related information from time to time. To see: GET list , tripfag list , camwhores list  and some classic memes.
 * [[Vyrd.net]] - [Vyrd.net/576chan](http://tb.vyrd.net) - Originally http://576chan.org/4chan/ | http://dir.vyrd.net/ - A repository of links and info of 4chan. Barely active, it’s owner makes a great effort to archive any and all 4chan information possible.
-*
-*
+* [[Tanasinn]] - [Tanasinn](http://tanasinn.info/) – A mysterious wiki filled with Japanese textboard culture and self-referencing humour. It has an extremely useful timeline that’s still updated from time to time: http://tanasinn.info/wiki/Complete_History_of_4chan
+* [[Yotsuba Society]] - [Yotsuba Society](http://www.yotsubasociety.org/) - Run by jKid, 4chan oldfag and /cgl/ stalker, it has lots of archives threads and information about 4chan. Was inactive for a time because of jKid's personal problems
+* [[The Insurgency Wikis]] - [Insurg.in9](http://insurg.in9) and [an old archive](http://dnathe4th.porfusion.com/partyvan/07-31-08/index.php/Main_Page.html) - (Dead links: insurgen.info | partyvan.info, 2006-2011) Wikis founded during the heyday of raid culture and /i/ - Invasions boards in order to record and organize the various raids and campaigns Anonymous was carrying. They were down constantly due to unstable administration and were eventually forked and archived
+* [[world2ch]] - [The world2ch Historical Society](http://world2ch.org/wiki/doku.php?id=start) – A set of articles written by 0037, a user of world2ch and later 4chan. It contains information on its precursors: 2chan/2channel (The second original textboard, first being Ayashii Warudo, and its emergency imageboard 2chan), world2ch (first American textboard), Internet summaries, 4-ch, SA and 4chan/world4ch itself. WARNING: Very subjective.) - http://world2ch.org/dramabomb.html - Archived thread from October, 2 on world2ch. It was 4chan’s second day of life and the first Western Chan “war”.
 * [[Epic Win For Anonymous]] - A straighforward carpetbagger's point of view about the culture and workings of 4chan, by Cole Stryker.
+
+### Secondary Sources
+
+Individual pages and archives threads about 4chan.
+
+http://wakaba.c3.cx/s/web/wakaba_kareha.html - The source codes for Kareha and Wakaba, including extra info on Futaba and Futallaby.
+http://www.1chan.net/ and http://www.1chan.net/futallaby/ - thatdog’s 1chan net, that hosts his old code Futallaby.
+http://www.statemaster.com/encyclopedia/5chan - Generic info on imageboards and small tidbits about the old chans of 2004.
+http://www.chemistrydaily.com/chemistry/Imageboard#4chan – An archive 4chan’s old wikipedia page, comes along with http://www.chemistrydaily.com/chemistry/Talk:4chan and http://www.chemistrydaily.com/chemistry/Talk:4chan/delete.
+http://web.archive.org/web/20031202172011/world2ch.net/world2ch.html - Wayback Machine’s archived site of world2ch.
+http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm - Wayback Machine’s archived site of 4chan during 2003.
+http://wikiworld.com/wiki/index.php?title=4chan&oldid=5249 – An old article about 4chan, extremely detailed about it’s old 2004-2006 culture
+http://s3.invisionfree.com/Project_4chan/ar/t7.htm - Board addition/removal history.
+http://www.music.us/education/4/4chan.htm - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan.
+http://macrochan.org/tagTree.php - An astonishing amount of old memes separated by tags, some of which are pretty much forgotten. We could actually bring some of these back and start a retro trend in 4chan.
+http://images.mackanzoor.com/CHAN/1.html - A smaller Macrochan
+http://shimmie.4chanhouse.org/index.php?q=/post/list - Same as above, but dedicated to board-tans
+http://swfchan.com/ - 4chan .sfw’s archive. Closely related to the board /f/ You can find some classics here.
+
+### Overchans
+
+Overchans where sites dedicated to compiling lists of all know *chan sites on the Internet. The first Overchan was 1chan, ran by thatdog, who created Futallaby, 4chan's first source code.
+
+http://www.1chan.net/overchan/ - The original overchan. Most sites there are dead or in the process of dying, though some names do carry some nostalgia value. It was originally maintained by thatdog.
+http://shii.org/2ch/ - Overchan 2.0 – Maintained by Shii.  It died recently.
+http://allchans.org/ - Overchan 3.0 – The most complete overchan (of the two left standing) They also include a separate menu for furry-themed boards (lol, fursecution) and textboards.
+http://1ch.us/ - The other Overchan 3.0 – Dedicated to compiling almost all *chans on the net. It’s maintained by Izzy.
+http://dramatica.org.ua/Список_іміджбордів - An Ukrainian overchan, probably the most complete ever.
+http://meltingwax.net/text-overchan/ - Textboard overchan
+http://4chanarchive.org/ - Original 4chan archive: If you are interested in a blast from the past, come here for threads as early as 2006. It was discontinued some months ago.
+http://chanarchive.org/ - Current version of 4chan archive. Mantained by ED, now dead.
+
+### Other Sources
+
+http://pastebin.com/cDKwfJJV - Pastebin with all the login pages of 4chan-
+http://www.4chan.org/comics - This one is quite obvious, but doesn’t appear on the front page. Check if you want some nostalgia.
+http://www.4chan.org/flash - The same as above, but for .sfw. moot tries to keep it alive from time to time.
+http://www.4chanlink.org – Image resurrection site – Any image on 4chan can be recovered after 14 days of it’s deletion.
+http://halcy.de/kopipe/index.html.down - One of the biggest copypasta archives on the Internet, probably only dwarfed by Encyclopedia Dramatica’s
+http://dejavu.org/forsta.htm - Old page about internet history from 1992 to 1999.
+
+
+Special mention to [[Wikichan]]: it was by far the most popular and exhaustive compilation of 4chan information there was. However, as dedicated its userbase was, it was constantly DDoS’d, dropped by ISPs and hacked. It was known for not only compiling info on memes but also having an extensive list of 4chan user stories and creepypasta. On 2010 the admin decided to call it quits. Many attempts to restore the info on Wikichan where performed, but only partially successful.
 
 ## Annexes:
 
