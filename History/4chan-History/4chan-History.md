@@ -1,39 +1,52 @@
-[[4chan]] is hands-down one of the most interesting and influential websites ever created. It functions as the America of popular culture on the internet, the ultimate source for most internet memes, and a beacon of anonymity in a world that is becoming more socially invasive.
+[[4chan]] is hands-down one of the most interesting and influential websites ever created. It functions as the America of popular culture on the Internet, the ultimate source for most the Internet's memes and a beacon of anonymity, and honest discussion in a world that is becoming more socially invasive.
 
-The site influenced a new generation of major internet figures and coders, continues to birth to memes that are now common staples on most major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
+The site influenced a new generation of major Internet figures and coders, continues to birth to memes that are now common staples on most major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
 
-This book has the goal of detailing the complete history of 4chan in the format of a conventional college-level history book, with a touch of humor common to that site.
+This article has the goal of detailing the complete history of 4chan in the format of a conventional college-level history book. As of now, it includes a summary of the site's history down to it's foundation in October 1, 2003 and an extensive [[4chan Timeline|4chan History Timeline]].
 
-## Help
+## Ages of 4chan
+
+4chan's history can be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, ranging from old Internet communities such as [[Something Awful]] and "sister" sites like [[YTMND]] to Net Neutrality, anti-censorship activists and casual, Internet-oblivious Facebook users.
+
+Mind that the names of each age, while named considering the perceived posting quality of the era, is highly relative, and to some, the time period might not add up at all with the name.
+
+---
+
+
+* [[Prehistory|4chan - Prehistory]] _(1996-2003)_ - 4chan, in a way, was the result of Japanese Internet Culture and the Western Internet colliding. The background of the world that 4chan was started in, and was influenced by, was dominated by two closely related, extremely influencing sites on Japan and a handful of highly hostile, creative and retroactive American forums.
+* [[Genesis|4chan - Genesis]] _(Oct 1 2003 - Jun 20 2004)_ - 4chan is founded, borne out of #raspberryheaven, bringing the unique experience of anonymous imageboards to the English language world. It instantly finds supporters in Something Awful's ADTRW board. 4chan inherits it's traditions, and initial memes from 2channel, Something Awful, and the rest of the Internet and creates a powerful meme-based culture that stands out from the crowd, slowly surpassing it's predecessor.
+* [[The Golden Age|4chan - The Golden Age]] _(Aug 2004 - Aug 2006)_ - The classic 4chan years. All the content considered foundational and classic was created during these years, 4channers had a very absurd approach towards things, which culminated in highly creative and silly content. While most of it has been forgotten by now, it remains the quintessence of everything 4chan. The Golden Age waned as /b/ began to grow disproportionately and become uncontrollable.
+* [[The /b/ day|4chan - The /b/ Day]] _(Aug 2006)_ - 4chan's growing popularity comes with massive social change, caused by problematic subcultures, a new raid mentality, and romanticism for an idyllic depiction of /b/. These tensions culminate in /b/day, a mass revolt by /b/tards incited by moot's enforcement of rules on /b/ and with /b/'s userbase splintering into many minor sites.
+* [[The Shithole of The Internet|4chan - The Shithole of The Internet]] _(Sept 2006 - Jul 2007)_ - The growing size of the imageboard populations made 4chan culture spread to every corner of the Internet. These memes are quickly integrated into the rising giants of the Internet like Youtube and MySpace, inspiring interest in the website that started it all. Reception is mixed; 4chan becomes the focal site of the Internet, but at the cost of having it's memes monetized and mangled through cultural appropriation by outsiders. Population sharply increases, and so does the amount of interesting events from the era. This culminates in what is now known as 4chan's Eternal September
+* [[The Dark Age|4chan - The Dark Age]] _(Aug 2007 - Aug 2009)_ - The onset of the newfag summer was but the culmination of several growing pains 4chan went through. It's generally regarded by 4channers to be the worst years of 4chan, specially 2008, posting quality plummeted and moot was deep in debt. When Scientology takes down a ridiculous training video posted to Youtube, 4chan fights back in full force as [[Anonymous]] in [[Project Chanology]]. The attacks attain media attention and a new flock of users, interested in activism, arrive to the site. On an unprecedented course of action, /b/tards change tactics and turns from DDoS'ing and spamming into full brown protest. The sheer strength of the attack inaugurates a new era of organized Internet protest. Some months after the protests died down, a video of a strangely tantalizing teenager appears on the web, dividing the population of /b/ with one side crowning her as their Queen and the other wanting nothing to be with her. 
+* [[The Silver Age|4chan - The Silver Age]] _(Sept 2009 - Jun 2011)_ - Anonymous gets right back in action in Operation Payback when Aiplex Software was found to have DDoSed torrent sites under orders of the MPAA. While they succeed in destroying the company, the [[Wikileaks]] scandal greatly lengthens the operation, and the [[Arab Spring]] forces perpetual mobilization. Anonymous has become a force to be reckoned with, but it's former home 4chan, suspicious of their new face, motives, and organization, has long since disowned them.
+  * At this point, [[Anonymous]]'s history permanently divests itself of 4chan history, and it is treated as an independent community. It continues on [[Anonymous History]].
+* Back at 4, the population of 4chan mellows out in aggressively but not in interventionism. The would devise many pranks and small hacks all around the Internet, including getting moot named as Time's Person of the Year on 2009 and raiding Jessi Slaughter and getting her to go to Good Morning America!.
+* [[Meme Faces - The Second Newfag Summer|4chan - Meme Faces]] _(Late 2011 - Early 2012)_ - The Internet as a whole began to enter a new era, one where everyone is connected and constantly exposed to it. Internet culture, no longer a thing for a bunch of kids that spend too much time at home in their computers, became exposed to the masses and became massively popular. The golden age for content agreggators, the extreme commercialization of Internet - and 4chan's - culture led to a massive loss in content quality, no longer produced only at 4chan, and a complete outrage on the eyes of 4channers. With the Internet as a whole changing structure, seeing a revitalized use by companies and the government. These where crucial years where it's changes would change the face of the Internet for all.
+* [[The Facebook Age|4chan - The Facebook Age]] _(2012 - Present)_ With the Internet in the mainstream, 4chan saw its population change to a more relaxed people who preferred discussion and in house content rather than stepping in the toes of other websites. The change brought it's negative points, with people in general becoming much more sensible and incapable of ignoring things they didn't like - A completely radical attitude compared to the live and let live approach the Netizens have used since the early 90s. One of the greatest points of this age if perhaps the sheer amount of content created by 4channers.
+
+## Sources
+
+One of Bibanon's most precious resources. Many of the sites that talk about 4chan are close to 10 years old, most of them completely abandoned. If you want to help archiving 4chan's history, saving these sites would be the best thing to do.
+
+* [[4chan History Timeline]] - Passed down from generation to generation, archived and lost on countless wikis, this is the famous timeline of 4chan's evolution through the years. The last one was maintained by a Redditor on the second [[Wikichan]], but it was lost with the site's downfall and saved out of chance.
+* [4chan - Jonathan's Reference Pages](http://www.jonnydigital.com/) . Johnny Digital, known as JDigital, was a member of 4chan's staff for a while. Here he gives crucial data about the earliest days of 4chan.
+* [[Everything Shii Knows]] - [Everything Shii Knows](http://shii.org/knows/) - Shii, also known as Menchi, was another member of the staff. He helped coding the early source of 4chan together with thatdog, specially the for the /dis/ textboards. He tried to build a personal wiki about the Internet with tongs of data about 4chan and the Japanese chanverse. He eventually forgot about the site and shut it down after a DMCA takedown request.
+* [[Encyclopedia Dramatica]] - [Encyclopedia Dramatica](https://encyclopediadramatica.es/) - The shithole of the Internet’s ever present buttock. While at first glance it seems to be entirely composed of bullshit, ED has loads of information on users and performed raids, including tidbits about the Internet in general, like the first Internet raid ever done and the biggest compilation of creepypasta on the Internet. If there’s one thing they excel at, it’s at archiving drama. They seem to roam the line between life and death nowadays.
+* [[The LURKMOAR wiki]] - [Lurkmore](http://www.lurkmore.com/) - The first chan culture wiki. It was an effort to compile and explain the crescent amounts of memes and culture 4chan was creating on 2005. Its population slowly shifted to ED, and eventually fell into obscurity and obsoletion. Nowadays it’s mainly used as a wiki for its own boards dedicated to camwhores. Still gets updated with 4chan-related information from time to time. To see: GET list , tripfag list , camwhores list  and some classic memes.
+* [[Vyrd.net]] - [Vyrd.net/576chan](http://tb.vyrd.net) - Originally http://576chan.org/4chan/ | http://dir.vyrd.net/ - A repository of links and info of 4chan. Barely active, it’s owner makes a great effort to archive any and all 4chan information possible.
+*
+*
+* [[Epic Win For Anonymous]] - A straighforward carpetbagger's point of view about the culture and workings of 4chan, by Cole Stryker.
+
+## Annexes:
+
+### Help
 
 We've got a lot of information already, but we need hard facts and primary sources from people who actually experienced the era discussed. If you have anything to add, no matter how small, get in here and do it.
 
-The [[4chan History Timeline]] is a great source of information, though it thins out near the end of 2007. Cole Stryker's [[Epic Win For Anonymous]] is also awesome, though it comes from an carpetbagger's point of view.
-
-## Periods
-
-4chan's history is to be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, who imported the memes of their culture into the melting pot.
-
-* [[Prehistory|4chan-Prehistory]] _(1996-2003)_ - The background of the world that 4chan was started in, and was influenced by.
-* [[Genesis|4chan Genesis]] _(Sept 2003 - Mar 2004)_ - 4chan is founded, bringing the unique experience of anonymous imageboards to the English language world. It instantly finds supporters in Something Awful's ADTRW board, and slowly surpasses it's predecessor.
-* [[Mootxico Era|4chan Mootxico Era]] _(Apr 2004 - Sept 2005)_ - 4chan inherits it's traditions, and initial memes from 2channel, Something Awful, and the rest of the internet and creates a powerful meme-based culture that stands out from the crowd.
-* [[Civil War Era|4chan Civil War Era]] _(Oct 2005 - Nov 2006)_ - 4chan's growing popularity comes with massive social change, caused by problematic subcultures, a new raid mentality, and romanticism for an idyllic depiction of /b/. These tensions culminate in /b/day, a mass revolt by /b/tards incited by moot's enforcement of rules on /b/.
-* [[Golden Age|4chan Golden Age]] _(Dec 2006 - Dec 2007)_ - Users seeking refuge in other sites after /b/day take 4chan's memes and unique attitude with them, kicking off 4chan's Golden Age. These memes are quickly integrated into mainstream internet culture, inspiring interest in the website that started it all. Reception is mixed; 4chan becomes the focal site of the internet, but at the cost of having it's memes monetized and mangled through cultural appropriation by outsiders. Population sharply increases, and so does the amount of interesting events from the era.
-* [[Chanology Era|4chan Chanology Era]] _(Jan 2008 - Jan 2009)_ - When Scientologists take down a ridiculous training video posted to Youtube, 4chan fights back in full force as [[Anonymous]] in [[Project Chanology]]. The sheer strength of the attack inaugurates a new era of organized internet protest. 
-* [[Boxxy Era|4chan Boxxy Era]] _(Jan 2009 - )_ - By this time, Anonymous has largely reassimilated into 4chan, falling dormant until the next crisis. A new queen of /b/ arises, causing a second civil war that nearly brings 4chan to it's knees. The rise of [[Reddit]] fosters an uneasy, but symbiotic cultural relationship between the two similar, yet different sites. 
-* [[Payback Era|4chan Payback Era]] _(2010-2011)_ - Anonymous gets right back in action in Operation Payback when Aiplex Software was found to have DDoSed torrent sites under orders of the MPAA. While they succeed in destroying the company, the [[Wikileaks]] scandal greatly lengthens the operation, and the [[Arab Spring]] forces perpetual mobilization. Anonymous has become a force to be reckoned with, but it's former home 4chan, suspicious of their new face, motives, and organization, has long since disowned them.
-  * At this point, [[Anonymous]]'s history permanently divests itself of 4chan history, and it is treated as an independent community. It continues on [[Anonymous History]].
-* [[Pony Era]] _(2011 -)_ The pony apocalypse affects 4chan, leading to the creation of the pony board.
-* [[Modernization Era]] (2012 -)The 4chan image boards undergo a massive code redesign, leader to a better 4chan overall, and the addition of mobile versions of the site for phones and tablets.
-
-## Contributors
+### Contributors
 
 Full Article: [[Contributors]]
 
 If you've contributed and feel like getting some credit, put your name down on [[this page|Contributors]] to immortalize your work, and perhaps give us a way to contact you if you want to.
-
-## Sources
-
-* [[4chan History Timeline]] - Passed down from generation to generation, archived and lost on countless wikis, this is the famous timeline of 4chan's evolution through the years. The last one was maintained by a Redditor on the second [[Wikichan]], but it was lost with the site's downfall and saved out of chance.
-* [4chan - Jonathan's Reference Pages](http://www.jonnydigital.com/)
-* [Everything Shii Knows](http://shii.org/knows/)
