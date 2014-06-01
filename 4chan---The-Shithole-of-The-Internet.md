@@ -19,7 +19,7 @@ Many raids and chan wars happened, 2007 saw the BRB, compromised incident, where
 The period did not truly end up until late 2009, by that time most of the original splinter *chans died or diminished, becoming barely active, with 4chan returning as the sole place for anonymous imageboard culture, which was, however, changing drastically.
 
 ### The Newfag Summer:
-(Circa Jul 2007)
+_(Circa Jul 2007)_
  
 During 2007, 4chan's Internet presence reached the point where most Internet culture spawned from its womb. There wouldn't be a corner of the Internet that hasn't been touched by 4chan, be it in the form of memes or raids. Following an exponential growth, there was a massive surge of newcomers during the American summer. This time, quality of content dropped massively, many users came from notoriously annoying sites such as AnimeZuki and Gaia Online. Even more came in expecting to find a hacker paradise. The age median lowered, going underage. Many aspects of 4chan culture, like GETs, completely disintegrated. The Raid culture was severely distorted from coordinated raids to simple zerg rushes of spam and memes, losing an important part of their effectiveness. Though there was a considerable amount of high-quality content in a self-fulfilling cycle, the sheer number of pointless threads, repost and spam made /b/ the equivalent of having to swim though an ocean of shit, just to find the diamonds that glitter.
 
