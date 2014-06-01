@@ -1,4 +1,4 @@
-Claimed to be the true Golden Age of [[4chan]}, but this time the term "Golden Age" does not refer to a lost time of actually funny and original content or any sense of Victorian elegance, but to a time where 4chan became the center of the Internet, and even popular culture in the same manner as [[2channel]] in Japan.
+Claimed to be the true Golden Age of [[4chan]], but this time the term "Golden Age" does not refer to a lost time of actually funny and original content or any sense of Victorian elegance, but to a time where 4chan became the center of the Internet, and even popular culture in the same manner as [[2channel]] in Japan.
 
 ### Project Chanology
 _(2008 – 2009)_
