@@ -2,7 +2,7 @@
 
 **Storybro's Magically Lewd Sleepover Adventure** (March 26th, to May 6th 2014) was a story about a single anon and his rather traumatic, erotic and soul-crushing experiences after being granted a chance at a sleepover with 5 teenage women. The story is often cited for having an immense amount of detailing and a first-hand perspective that accurately reflects the situations and experiences of a teenager growing up in 2005. In addition to being chock full of thousands of hidden pop-culture references to things from the time period, or common internet culture.
 
-Storybro continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional.
+The Author, Storybro, continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional. The story is interesting in its own right because although it's told entirely from a first person standpoint, the main character shifts over the course of the story.
 
 Because of the Authors meticulous archiving, The **full story is available on this** [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story. This includes the thousands of woody images posted along with every thread.
 
@@ -30,6 +30,10 @@ These are some of the better ones
 
 Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence and important things like eye color, hair length, or chest size, don't match.
 
+Fan Groups emerged throughout the story such as Team Raven, Team Glasses, Team Blondie, and Team Sandwichbro. On threads and in the skype chat it was a common competition to weigh the girls on different merits and argue about which ones were best, and which ones the main character should eventually settle with.
+
+
+
 ### Storybro
 
 Age: 22
@@ -39,9 +43,9 @@ The author was happy to talk to the readers during the course of the story's wri
 
 Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. Some of these boards included the league of legends forums (not giving user ID due to wiki rules), where the user was renown for being female, and has various high profile and extremely liked threads with stories, and some fictional comical additions to the lore. It's widely agreed that the writing style between these stories seems to match.
 
- This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, if not during this story than one in the futre, and writing these stories is her way of coping with his death.
+ This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, if not during this story than one in the future, and writing these stories is her way of coping with his death.
 
-Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style.
+Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style. 
 
 
 When asked about this, the author toys with words to respond with ambiguity, or uses alternating pronouns for him/herself in the same sentence. No gender has been confirmed and attempts to contact them via voice calls on skype have turned up female voices in the background, or none at all.
