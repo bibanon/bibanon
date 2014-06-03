@@ -36,7 +36,7 @@ Fan Groups emerged throughout the story such as Team Raven, Team Glasses, Team B
 
 ### Storybro
 
-Age: 22
+Age: 22-25(?) at time of writing.
 Gender: Female(?)
 
 The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost their job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
