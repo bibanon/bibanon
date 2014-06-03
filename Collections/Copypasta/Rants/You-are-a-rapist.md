@@ -90,6 +90,6 @@ You are a rapist ##
 1. I guess that makes me a rapist. Oh, and you too.
 1. Fucking rapist.
 1. If you have an ego that's bigger than the size of your cock, you are a rapist.
-1. If your name is Chris Makosky and you are a pansy bitch that likes to destroy friendships, you sir, are a fucking rapist.
+1. If your name is Remmy Bucksaplenty and you are a pansy bitch that likes to destroy friendships, you sir, are a fucking rapist.
 1. You are a rapist if you do not yell suprise beforehand. SUPRISE!!!!!!!!.
 1. If you wrote 92, you are an unfunny rapist.
