@@ -2,7 +2,7 @@
 
 This is Storybro's Second story, which seems to involve a continuation of many of the characters from the previous story, two years into the future.
 
-She started writing update #1 on May 17th, 2014.
+They started writing update #1 on May 17th, 2014.
 
 
 
