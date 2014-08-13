@@ -1,6 +1,0 @@
-lanmap is a linux passive networking mapper program (page under construction)
-
-Lanmap simply listens to all traffic on any interface of your choice, in quick speaking, it maps out your network (ie: what computer is talking to which, which computers are heavily connected to the network and those that are not)
-It regularly maps out your network in a readable 2d graph.
-
-[[category:Tools]]

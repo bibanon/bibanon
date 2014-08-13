@@ -1,1 +1,0 @@
-Doxchan is a site owned by [[Janus_Zeal]] which focuses on doxing targets. It is not nearly as useful as [[Anonidox]], and is almost completely unused, but is the best [[doxing|Dox]] site we have until Anonidox comes back.
