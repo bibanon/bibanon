@@ -1,5 +1,0 @@
-F5 is a function key. AFAIK, there are F(x) keys on PC and Mac. If an Internet page is not loading correctly, hit F5 and wait. If you give it some time and it still doesn't load correctly, hit F5 again and wait some more. If that doesn't do it for you, there's always tabbed browsing + F5. Unless you suck.
-
-On 4chan, when threads are sufficiently interesting, it is customary to say F5F5F5 to depict the action of refreshing the page repeatedly, waiting for the next post.
-
-[[Category:Technology]]

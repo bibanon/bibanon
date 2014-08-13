@@ -1,8 +1,0 @@
-'''Futallaby''' is [[2chan]]'s [[imageboard]] software derivative used on [[4chan]]. Maintained by terra.
-
-== Related articles ==
-* [[2chan]]
-* [[4chan]]
-* [[Imageboard]]
-
-[[Category:4chan]][[Category:Memes and Terms]]
