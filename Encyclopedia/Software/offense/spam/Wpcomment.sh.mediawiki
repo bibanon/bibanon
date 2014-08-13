@@ -1,0 +1,19 @@
+wpcomment.sh is a Bash script made during the Tokio Hotel raids. It spams comments to posts on Wordpress blogs. It can be set to spam one blog post, or all blog posts at random. The script does not yet support posting with a registered account, but this feature should be easy to implement.
+
+The script avoids basic duplicate comment detection by posting random strings of spaces and encoded spaces (&amp;nbsp;) to the end of each comment.
+
+=Usage=
+Put the comment you want to spam into a text file (lyrics to a song, a longcat, etc.). To spam one post, just get the comment post ID from the source of the page or from the URL of the post. To spam all posts at random, get the comment post ID of the last post on the site. Pick an author name, email address, and website to use for posting. Also pick a user-agent to use (not very important, most of the time you should be able to just leave this blank).
+
+To spam one post:
+ ./wpcomment.sh mudkip_discussion.txt "Sir Mudkip" "mkip@mudkips.gov" "mudkips.gov" '''target''' 123 \
+ "Mozilla/4.0 (compatible) Firemudkip/1.3.37" "http://ihatemudkips.com/blog/wp-comments-post.php"
+
+To spam all posts:
+ ./wpcomment.sh mudkip_discussion.txt "Sir Mudkip" "mkip@mudkips.gov" "mudkips.gov" '''maximum''' 200 \
+ "Mozilla/4.0 (compatible) Firemudkip/1.3.37" "http://ihatemudkips.com/blog/wp-comments-post.php"
+
+=Mirrors=
+* [[Wpcomment.sh/code]]
+
+[[Category:Tools]]

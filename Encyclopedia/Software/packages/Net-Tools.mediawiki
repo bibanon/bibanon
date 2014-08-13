@@ -1,0 +1,183 @@
+Net Tools is a comprehensive set of host monitoring, network scanning, security, administration tools and much more, all with a highly intuitive user interface. It's an ideal tool for those who work in the network security, administration, training, internet forensics or law enforcement internet crimes fields. Net Tools is mainly written in Microsoft Visual Basic 6, Visual C++, Visual C# and Visual Studio .NET. You can download it here: http://users.pandora.be/ahmadi/nettools.htm
+
+
+==Contents==
+
+* 1) IP Address Scanner
+* 2) IP Calculator
+* 3) IP Converter
+* 4) Port Listener
+* 5) Port Scanner
+* 6) Ping
+* 7) NetStat (2 ways)
+* 8) Trace Route (2 ways)
+* 9) TCP/IP Configuration
+* 10) Online - Offline Checker
+* 11) Resolve Host & IP
+* 12) Time Sync
+* 13) Whois & MX Lookup
+* 14) Connect0r
+* 15) Connection Analysator and protector
+* 16) Net Sender
+* 17) E-mail seeker
+* 18) Net Pager
+* 19) Active and Passive port scanner
+* 20) Spoofer
+* 21) Hack Trapper
+* 22) HTTP flooder (DoS)
+* 23) Mass Website Visiter
+* 24) Advanced Port Scanner
+* 25) Trojan Hunter (Multi IP)
+* 26) Port Connecter Tool
+* 27) Advanced Spoofer
+* 28) Advanced Anonymous E-mailer
+* 29) Simple Anonymous E-mailer
+* 30) Anonymous E-mailer with Attachment Support
+* 31) Mass E-mailer
+* 32) E-mail Bomber
+* 33) E-mail Spoofer
+* 34) Simple Port Scanner (fast)
+* 35) Advanced Netstat Monitoring
+* 36) X Pinger
+* 37) Web Page Scanner
+* 38) Fast Port Scanner
+* 39) Deep Port Scanner
+* 40) Fastest Host Scanner (UDP)
+* 41) Get Header
+* 42) Open Port Scanner
+* 43) Multi Port Scanner
+* 44) HTTP scanner (Open port 80 subnet scanner)
+* 45) Multi Ping for Cisco Routers
+* 46) TCP Packet Sniffer
+* 47) UDP flooder
+* 48) Resolve and Ping
+* 49) Multi IP ping
+* 50) File Dependency Sniffer
+* 51) EXE-joiner (bind 2 files)
+* 52) Encrypter
+* 53) Advanced Encryption
+* 54) File Difference Engine
+* 55) File Comparasion
+* 56) Mass File Renamer
+* 57) Add Bytes to EXE
+* 58) Variable Encryption
+* 59) Simple File Encryption
+* 60) ASCII to Binary (and Binary to ASCII)
+* 61) Enigma
+* 62) Password Unmasker
+* 63) Credit Card Number Validate and Generate
+* 64) Create Local HTTP Server
+* 65) eXtreme UDP Flooder
+* 66) Web Server Scanner
+* 67) Force Reboot
+* 68) Webpage Info Seeker
+* 69) Bouncer
+* 70) Advanced Packet Sniffer
+* 71) IRC server creater
+* 72) Connection Tester
+* 73) Fake Mail Sender
+* 74) Bandwidth Monitor
+* 75) Remote Desktop Protocol Scanner
+* 76) MX Query
+* 77) Messenger Packet Sniffer
+* 78) API Spy
+* 79) DHCP Restart
+* 80) File Merger
+* 81) E-mail Extractor (crawler / harvester bot)
+* 82) Open FTP Scanner
+* 83) Advanced System Locker
+* 84) Advanced System Information
+* 85) CPU Monitor
+* 86) Windows Startup Manager
+* 87) Process Checker
+* 88) IP String Collecter
+* 89) Mass Auto-Emailer (Database mailer; Spammer)
+* 90) Central Server (Base Server; Echo Server; Time Server; Telnet Server; HTTP Server; FTP Server)
+* 91) Fishing Port Scanner (with named ports)
+* 92) Mouse Record / Play Automation (Macro Tool)
+* 93) Internet / LAN Messenger Chat (Server + Client)
+* 94) Timer Shutdown/Restart/Log Off/Hibernate/Suspend/ Control
+* 95) Hash MD5 Checker
+* 96) Port Connect - Listen tool
+* 97) Internet MAC Address Scanner (Multiple IP)
+* 98) Connection Manager / Monitor
+* 99) Direct Peer Connecter (Send/Receive files + chat)
+* 100) Force Application Termination (against Viruses and Spyware)
+* 101) Easy and Fast Screenshot Maker (also Web Hex Color Picker)
+* 102) COM Detect and Test
+* 103) Create Virtual Drives
+* 104) URL Encoder
+* 105) WEP/WPA Key Generator
+* 106) Sniffer.NET
+* 107) File Shredder
+* 108) Local Access Enumerater
+* 109) Steganographer (Art of hiding secret data in pictures)
+* 110) Subnet Calculater
+* 111) Domain to IP (DNS)
+* 112) Get SNMP Variables
+* 113) Internet Explorer Password Revealer
+* 114) Advanced Multi Port Scanner
+* 115) Port Identification List (+port scanner)
+* 116) Get Quick Net Info
+* 117) Get Remote MAC Address
+* 118) Share Add
+* 119) Net Wanderer
+* 120) WhoIs Console
+* 121) Cookies Analyser
+* 122) Hide Secret Data In Files
+* 123) Packet Generator
+* 124) Secure File Splitting
+* 125) My File Protection (Password Protect Files, File Injections)
+* 126) Dynamic Switch Port Mapper
+* 127) Internet Logger (Log URL)
+* 128) Get Whois Servers
+* 129) File Split&Merge
+* 130) Hide Drive
+* 131) Extract E-mails from Documents
+* 132) Net Tools Mini (Client/Server, Scan, ICMP, Net Statistics, Interactive, Raw Packets, DNS, Whois, ARP, Computer's IP, Wake On LAN)
+* 133) Hook Spy
+* 134) Software Uninstaller
+* 135) Tweak & Clean XP
+* 136) Steganographic Random Byte Encryption
+* 137) NetTools Notepad (encrypt your sensitive data)
+* 138) File Encrypter/Decrypter
+* 139) Quick Proxy Server
+* 140) Connection Redirector (HTTP, IRC, ... All protocols supported)
+* 141) Local E-mail Extractor
+* 142) Recursive E-mail Extractor
+* 143) Outlook Express E-mail Extractor
+* 144) Telnet Client
+* 145) Fast Ip Catcher
+* 146) Monitor Host IP
+* 147) FreeMAC (MAC Address Editor)
+* 148) QuickFTP Server (+user accounts support)
+* 149) NetTools Macro Recorder/Player (Keybord and Mouse Hook)
+* 150) Network Protocol Analyzer
+* 151) Steganographic Tools (Picture, Sounds, ZIP Compression and Misc Methods)
+* 152) WebMirror (Website Ripper)
+* 153) GeoLocate IP
+* 154) Google PageRank Calculator
+* 155) Google Link Crawler (Web Result Grabber)
+* 156) Network Adapter Binder
+* 157) Remote LAN PC Lister
+* 158) Fast Sinusoidal Encryption
+* 159) Software Scanner
+* 160) Fast FTP Client
+* 161) Network Traffic Analysis
+* 162) Network Traffic Visualiser
+* 163) Internet Protocol Scanner
+* 164) Net Meter (Bandwidth Traffic Meter)
+* 165) Net Configuration Switcher
+* 166) Advanced System Hardware Info
+* 167) Live System Information
+* 168) Network Profiler
+* 169) Network Browser
+* 170) Quick Website Maker and Web Gallery Creator
+* 171) Remote PC Shutdown
+* 172) Serial Port Terminal
+* 173) Standard Encryptor
+* 174) Tray Minimizer
+* 175) Extra Tools (nmap console & win32 version)
+
+{{tools}}
+[[Category:Tools]]

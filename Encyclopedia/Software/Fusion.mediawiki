@@ -1,0 +1,38 @@
+Fusion Script (or simply Fusion) is a script that can be used to merge WinRAR archives with several common file types. This is useful in sharing information over Imageboards (especially illegal/sensitive content). It is very simple to use, a copy of it can be found in the image on this page (just save and change the file from jpg to rar).
+
+The current version (v5.2) allows you to merge RARs, ZIPs, and 7Zs with JPGs, PNGs, GIFs, BMPs and SWFs! Enjoy and use it wisely Anonymous.
+
+=Fusion Without Script=
+
+Files may be merged without a script in two ways.
+
+Hard and '''secure''' way:
+# Move the two files you wish to merge into the C: drive.
+# Open the command prompt using Start > Run and entering cmd
+# If your prompt does not look like C:\ then enter cd \
+# Enter "copy /b [filenameone.extension] + [filenametwo.extension] [outputfile.extension] to create the merged file outputfile.extension. By renaming the extension it alters the way the file behaves.
+
+Easy but '''insecure''' way:
+# Move all your shit into a .rar file.
+# Change the extension of that .rar file to .jpg to disguise it, 
+# Change it back to .rar to access the files or you can simply Open With > WinRAR Archiver to access them.
+
+Easy way is more suspicious because the .jpg doesn't display an image but the hard way does,
+
+They are both suspicious in the fact that if your porn stash is big, your dad might find it strange that an image of your girlfriend is over 2Gb and you don't have to turn it into a .jpg, you can change it into whatever you want (but do it that your own risk).
+
+=Fusion on Linux=
+
+Similar to the Windows way.
+
+# Open up a terminal and go the directory where both files are located.
+# Enter cat picture.jpg archive.rar > result.jpg
+# The resulting file will function as a jpg or rar, depending on what the extension is and/or which program is opening it. 
+
+=Download=
+v5.2
+* <s>[http://anonym.to/http://www.mediafire.com/?b94jl5jth5z Mediafire],rename .jpg to .rar</s> <-- Invalid link. Someone upload kkthx
+v4.1
+* <s>[http://anonym.to/http://rapidshare.com/files/52334345/ImageRAR_Fusion.rar.html Rapidshare]</s> <-- Invalid link. Someone upload kkthx
+* <s>[http://anonym.to/http://image.bayimg.com/jafljaabd.jpg Bayimg], rename .jpg to .rar</s> <-- Can't extract archive?! Someone else confirm/edit please
+* [http://anonym.to/http://img248.imageshack.us/img248/6836/mergeke2.jpg Imageshack], rename .jpg to .rar

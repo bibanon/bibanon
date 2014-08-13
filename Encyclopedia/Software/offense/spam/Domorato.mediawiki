@@ -1,0 +1,14 @@
+'''Domorato''' is an SMS bomber written by Masterfabric. It is based on a script written by some anon on [[711chan]].
+It is written in PHP and unlike most SMS bombers, which send text messages via a service providers email gateway, Domorato relies on a flaw in anontext.com (a website which sends anonymous text messages). However, the obvious flaw with this software is that if anontext is fucking up, so will Domorato. It will send random garble to any number you tell it to, until you close out of your browser window/tab.
+
+==See also==
+*[[SMSRape]]
+
+==Latest version==
+* http://sharebee.com/79ff7d6f<br>
+* <s>http://anonym.to/http://www.rapidshare.com/files/296202514/domorato.rar</s><br>
+* http://anonym.to/http://www.megaupload.com/?d=9Y4GGH50<br>
+* <s>http://anonym.to/http://coryinthehouse.biz/domorato.zip</s>
+
+[[Category:Tools]]{{tools}}
+[[Category:Mailers]]

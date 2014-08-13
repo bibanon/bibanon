@@ -1,0 +1,8 @@
+This is an information grabbing tool written by Seisatsu during Operation Hackers on Spyroids. Unfortunately, the raid ended before it could be put to use. It is made to grab information about a user from their PhpBB profile, and output it as formatted dox. Although it was written especially for the layout of spyroforum.com, it was crafted to be easily adaptable to other forums. Also pythons.
+
+Current version is 0.4.2 (July 24, 2009)
+
+= Download =
+
+* http://anonym.to/http://b3net.info/files/projects/phpbbdox/
+[[Category:Tools]]{{tools}}

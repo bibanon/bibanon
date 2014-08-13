@@ -1,0 +1,65 @@
+[[File:Proxybot.png|lol hofmann|300px|thumb]]
+Proxybot is a php app that scrapes proxy sites, tests them if up or down, tests anonymity level, has a banned list, and outputs the proxies in a few formats.<br /><br />
+Requirements:  apache, php 5, curl
+<br /><br />proxybot readme: http://anonym.to/http://paste2.org/p/903963<br />
+pbot readme: http://anonym.to/http://paste2.org/p/970064<br />
+version history: http://anonym.to/http://paste2.org/p/903965<br />
+711chan thread: http://anonym.to/http://www.711chan.org/sc/res/405.html <br />
+808chan thread: http://anonym.to/http://808chan.org/scx/res/72.html<br /><br />
+
+= pbot =
+Pbot is a command line version of proxybot without any mysql support.  Pbot is divided up into two parts: grabproxy and testproxy. You can either scrape for a new proxy, check if existing proxies are up, or check the anonymity level of a proxy.<br />
+ Usage: php grabproxy.php [-option] [int]
+
+ Usage: php testproxy.php [-option] [hostname] [path]
+ Example: php grabproxy.php -n 100 > /tmp/pb.new && php testproxy.php -n -a alljewsintehovens.com/pbot /tmp/pb.new > /tmp/pb.good
+
+
+= Notes =
+ currently searches: hidemyass.com, samair.ru, aliveproxy.com, 2ch.net, atomintersoft.com, comp-info.ru, <br />cybersyndrome.net, freeproxy.ch, freeproxy.ru, freeproxylists.com, getfreeproxy.info, ip-adress.com,<br /> ipcn.org, j1f.net, my-proxy.com, proxiesthatwork.com, proxy-heaven.blogspot.com, proxy-list.net,<br /> proxygo.com.ru, proxyleech.com, proxylists.net, proxyserverfinder.com, rosinstrument.com, speedtest.at and xroxy.com
+
+After using this program a bit, note how few proxies are actually anonymous.
+
+= Online Copies =
+[http://anonym.to/http://proxybot.evinsic.com Gesichtslos' Mirror - v0.2]<br />[http://anonym.to/?http://pleasebanme.host22.com/ Shitty old 0.1 Mirror (No test)]
+
+= Download =
+Download from mirror, accept rar password suggestion, ???, profit!<br />
+rar pass for proxybot and pbot v0.3: iwilleatlsd<br />
+rar pass for proxybot and pbot v0.2: ishouldeatlsd<br /><br />
+
+'''proxybot v0.3'''
+mirrors:<br />
+http://anonym.to/http://www.multiupload.com/C9F7YXNLI1<br />
+http://anonym.to/http://www.uploadjockey.com/download/7434554/proxybot.rar<br />
+http://anonym.to/http://stashbox.org/944102/proxybot.rar.png - rename as rar!<br />
+ hysterix@mybox:~$ sha1sum proxybot.rar <br />37cefddb3b0dcabf453b3193a48af7a4ca5fa685  proxybot.rar
+<br />
+'''pbot v0.3'''
+mirrors:<br />
+http://anonym.to/http://www.multiupload.com/L4FF587QFM<br />
+http://anonym.to/http://www.uploadjockey.com/download/9999332/pbot.rar<br />
+http://anonym.to/http://stashbox.org/989953/pbot.rar.png - rename as rar!<br />
+ hysterix@mybox:~$ sha1sum pbot.rar <br />f064ae54b4dfcb913fb8ba7787aaaceb988ef7f2  pbot.rar
+<br />
+'''proxybot v0.2'''
+mirrors:<br />
+http://anonym.to/http://stashbox.org/619744/proxybot.rar<br />
+http://anonym.to/http://www.2shared.com/file/7543557/bc6f3a39/proxybot.html<br /><br />
+
+'''pbot v0.2'''
+mirrors:<br />
+http://anonym.to/http://stashbox.org/619779/pbot.rar<br />
+http://anonym.to/http://ul.to/loa3vg<br /><br />
+
+'''proxybot v0.1'''
+mirrors:<br />
+http://anonym.to/http://stashbox.org/534916/proxybot.rar<br />
+http://anonym.to/http://stashbox.org/534918/pbot.rar<br /><br />
+
+'''pbot v0.1'''
+mirrors:<br />
+http://anonym.to/http://stashbox.org/541505/pbot.rar<br />
+http://anonym.to/http://stashbox.org/541512/yafile.rar<br />
+
+[[Category:Tools]]{{tools}}

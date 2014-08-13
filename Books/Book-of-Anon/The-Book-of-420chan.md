@@ -1,0 +1,2 @@
+{{quote|Well one day I was sitting around and I noticed that my new hosting package allowed for a single free domain name registration. I was talking to some friends and one of them came up with "420chan", a stupid combination of my penis and drugs. I decide to use this suggestion, and register it as a joke domain many many moons ago. Since then a lot of people bitched at me to do something with the domain, so I did. And you're looking at it|Kirtaner}}
+

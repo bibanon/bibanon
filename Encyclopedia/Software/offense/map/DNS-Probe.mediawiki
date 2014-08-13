@@ -1,0 +1,29 @@
+'''Screenshot'''<br>
+[[File:PRobe2.png]]<br>
+
+'''Download'''<br>
+http://code.google.com/p/dnsprobe/downloads/list
+
+==Motivation==
+
+As the German government recently decided to follow other nations like Sweden, Denmark or Australia by enacting a law that forces all German access providers to setup a filter system in their nameserver system using a blacklist kept secret and composed by the federal police, we decided to created a program that can compare two nameserver results. 
+
+==FAQ==
+
+===How does the program work?===
+
+The program resolves a list of hostnames against two nameservers, one that is considered as open (not filtered) and one that is potentially filtered. It then compares those two results and shows the differences. This way, the secret list can be revealed partially.
+
+A list with filtered hostnames could be '''e.g.''' obtained from Wikileaks: http://www.google.com/search?q=wikileaks
+
+===But you cannot check the whole DNS against one nameserver!===
+
+Of course we can not (it is technically impossible, but even if we wanted to we would probably need several days and a huge amount of memory/disk space to retrieve every single A-Record from billions of hotnames), but thereby we hope to point out the rather ignorant attitude of German government delegates who think that such a list could be kept secret. Of course there are exceptionally people who kept up with the digital revolution, but those are a rarely minority. Also, leaked lists are apperaring in regular intervals at Wikileaks, users who thinks their nameserver are getting filtered can use this software to be really sure.
+
+===Fuck you, this software is a piece of shit and I hate all of you and your useless political activities!===
+
+Yes.
+
+----
+[[Category:Tools]]
+{{DEFAULTSORT:Dns Probe}}

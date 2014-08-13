@@ -1,0 +1,31 @@
+[[Image:Zenmap.png|320px|right]]
+
+Nmap is a port scanner. It identifies which services are running on a networked computer. This is useful for discovering and identifying points of attack in potential targets. Its ability to scan entire networks is very useful when combined with Whois information about organizations you may be targeting.
+
+The [[GUI]] version of Nmap is called Zenmap.
+
+=Example commands=
+Basic usage (see which ports are open/filtered/closed):
+ nmap 192.168.1.150
+
+Identify services running on one computer:
+ nmap -sV 192.168.1.150
+
+Identify services running on one computer, which does not respond to pings:
+ nmap -sV -PN 192.168.1.150
+
+Check to see if specific ports are open on one computer:
+ nmap -p T:21-25,80,443 192.168.1.150
+
+Check to see if specific ports are open on a range of computers:
+ nmap -p T:21-25,80,443 192.168.1.150-254
+
+=Download=
+* [http://anonym.to/?http://nmap.org/dist/nmap-4.76-setup.exe Windows self-installer]
+* [http://anonym.to/?http://nmap.org/dist/nmap-4.76.tar.bz2 Sauce code]
+
+=More info=
+* [http://anonym.to/?http://www.insecure.org/ Nmap homepage]
+* [http://anonym.to/?http://linux.die.net/man/1/nmap Nmap Man page (aka RTFM)]
+
+[[category:Tools]]
