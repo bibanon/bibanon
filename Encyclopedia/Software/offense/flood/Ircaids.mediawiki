@@ -1,0 +1,25 @@
+{{shit}}
+{{NonCleanCode}}
+[[Category:Tools]]
+ircaids is an [[IRC]] crapflooder for Windows, which runs from the command prompt. It spams the cock out of the specified channel via Socks5 [[Proxy|proxies]]. Along with the program, the download package includes two text files; a list of proxies (socks.txt) and a message list (messages.txt).
+
+When run by default, the following message is displayed:
+
+ircaids by efg
+syntax: ircaids.exe server channel [proxylist] [messages]
+
+Channel lists must be sorted line-by line, and proxies may
+only be SOCKS5. Tor is supported and is used by default
+if no proxy list is found. If a message list is not specified,
+ebaumsworld will be spammed into the targed channel.
+To run it using the included files, an example command would be: >ircaids.exe irc.cocks.com #cocks socks.txt messages.txt If all goes well, within 20-30 seconds, tons of random nicks will start popping up in the specified channel and spam it full of AIDS. Lulz for the whole family!
+
+As time goes by, the default list of proxies will become outdated. That's your cue to find moar and update the package, fgt.
+
+=Latest version=
+*http://anonym.to/http://rapidshare.com/files/53215784/ircaids.zip.html
+*http://anonym.to/http://www.megaupload.com/?d=KHR3LEFO
+*http://anonym.to/http://www.wikiupload.com/download_page.php?id=208599
+
+Note - FukkenSaved has made a Java program that also supports socks4 and SSL proxies and doesn't freeze while loading new bots. It is consummately better than ircaids. However, the proxy list is pretty out of date and it badly needs a rewrite. You can find it at:
+ http://rapidshare.com/files/219117062/OpenAIDS.1-12-2008.rar.html

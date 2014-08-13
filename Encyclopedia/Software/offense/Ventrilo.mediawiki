@@ -1,0 +1,24 @@
+Ventrillo is a shitty VOIP (Voice Over IP) program used by wowfags and various other geeks to share tales of how much they love to fap to men. Most often it is used by wowfags, making it a prime target for attacks by bored /b/tards. However, most of the people doing the raiding are either stupid or newfags, making lulz scarce. However, what made Ventrilo raids fail was the constant personal army requests constantly pushed onto 4chan. 
+
+=Tools=
+I rapidsharted a copy of [http://anonym.to/?http://rs241.rapidshare.com/files/159876248/AV_Voice_Changer_Software_6.0.10_-_vLcB___keygen.zip AV voice changer] so when you raid the vents, the assholes you're raiding won't have to hear your squeaky 10 year old voices.  Auto-Tune and other vocoders can do this as well.
+
+Use [http://software.muzychenko.net/eng/vac.html Virtual Audio Cable] and [http://www.videolan.org Videolan] or [http://www.foobar2000.org/ Foobar2000] to play sounds directly from the player to Ventrilo. If you don't know how to do this don't try newfag.
+
+=Methods=
+For this, we go to the master: VideoCompiler. [http://anonym.to/?http://encyclopediadramatica.com/VideoCompiler Here is his ED link.] Or you can go directly to his [http://anonym.to/?http://www.ventriloharassment.org/howto.htm how to.] 
+
+'''Tips:'''
+
+*Change your name to defeat mutes. To make yourself invulnerable to mutes, just rejoin the channel with a new name. Using the "clone" feature in Ventrilo, you can do this in seconds.
+*Avoid "G" mutes. To defeat a "G" mute, simply disconnect & reconnect. No name change required for this trick.
+*Copy user names in channels. Depending on how the server is set up, users may or may not be kicked off the server temporarily. This is useful for getting rid of admins. Very funny stuff. Please keep in mind, it is only temporary. So do your damage, and get out if you don't want to get banned.
+*Record/Playback voices. If you know how to do this, it's very fun to do. Requires a lot of skill & patience to wait for the right sounds.
+*Use binds. Using binds is easy once they are setup. Takes a few minutes to setup, but frees up your screen space & makes things less confusing when raiding with several vents.
+*Double Vent to avoid bans. If you double vent with 2 different names, & one of your vents get banned, the other one will stay connected. Enjoy this trick!
+*Copy user names in the channel. If you mimic the name of a user who has left the channel recently, you will be almost invulnerable to bans. An admin is almost never likely to ban a fellow member of their clan/guild/gay group of nerds.  If they do ban you - you are likely to be unbanned within the hour.
+
+
+[[Category:Stub]]
+[[Category:Methods]]
+[[Category:Tools]]

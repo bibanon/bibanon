@@ -1,0 +1,20 @@
+[[Image:Duckroll.jpg|thumb|All roads lead to Duckroll.]]
+A delightful [[:Category:Traps|trap]] (in the literal sense) in which someone starts a Duckroll thread and then inserts links to it in other threads, as if those links are quotes from posts earlier up in the thread. This causes victims to unintentionally end up at the Duckroll thread, often confused and angry. To troll [[/b/]] in this fashion is sometimes called duckrolling. If a user is  duckrolled, then the user is "required" to post a duckroll link in another thread.
+
+Duckroll first appeared in /b/ in mid-November 2006, where to many people's surprise, Duckroll took off and became very successful because /b/ took much glee in duckrolling each other.
+
+Duckroll has evolved as well, with a [[/v/]] spinoff called Psyduckroll (wheels on a Pokémon called Psyduck) and YouTube videos that are comprised solely of a stillshot of Duckroll<ref>{{cite web |url=http://4chanarchive.org/brchive/25947298/an+11+hour+duckroll/ |title=11 hour duckroll |publisher=4chan Archive}}</ref>. This in turn lead to [[#Rickroll|Rickroll]], [[/v/]]'s official answer to Duckroll, and from there to hybrid YouTube videos that combine a Duckroll still shot with Rickroll music (sometimes with Rick Astley's face also shooped onto the Duckroll image<ref>{{cite web |url=http://www.youtube.com/watch?v=J5c5p5lGi6Q |title=sage |publisher=YouTube |date=2007-05-03}}</ref><ref>{{cite web |url=http://www.youtube.com/watch?v=WT7Qo59zmi0 |title=Halo 3, GTA IV, SSB Brawl, E3 Clips |publisher=YouTube |date=2007-05-12}}</ref>, or with other images like Mukroll<ref>{{cite web |url=http://www.youtube.com/watch?v=Cg5k6L-gmaw |title=Mukroll. |publisher=YouTube |date=2007-05-06}}</ref>, another Pokémon-based variant). Some have dubbed this development "Dickroll".
+
+=== Duckroll Warning System ===
+A Greasemonkey script<ref>{{cite web |url=http://stashbox.org/7948/duckrollwarningsystem.user.js |title=duckrollwarningsystem.user.js |publisher=stashbox.org |date=2007-01-01}}</ref> that flags duckroll links with the text <nowiki>"[duckroll]"</nowiki>. Often posted in Duckroll threads.
+
+=== Rickroll ===
+
+See also: [[Rickroll]]
+
+The most famous variant of the duckroll.
+
+== References ==
+<references />
+
+[[Category:Memes and Terms]]

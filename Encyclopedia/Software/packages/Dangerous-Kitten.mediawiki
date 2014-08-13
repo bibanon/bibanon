@@ -1,0 +1,50 @@
+"Dangerous Kitten" got its name from how it was originally spread--a rar embedded in a jpg, with the picture of a kitten in a hand, and the subtitle "It's dangerous to go alone, take this". It is a set of tools, many of which already on here, but there are some new tools that are not anywhere else on the w/i/ki. 
+
+== Tool List (v3 update) ==
+* Windows (and Wine for Linux and Mac fags)
+** BWraep
+** BWRaeper.NET
+** Forum Proxy Leecher
+** LOIC
+** Longcat Flooder (distributed and standalone)
+** Ping Flood
+** rok/i/ts
+** SMAC
+** Sinflood
+** wgetraep
+** Some gay app to unlimit ip connectiosn
+** SMTP Server
+** All of the new DoS equipment
+* Linux/Unix/Mac  
+** pygetraep
+* Web-Based
+** Download links to webservers: WAMP (windows) XAMPP (windows/linux/mac/solaris) and MAMP (mac)
+** AnonProxy*
+** FormFlood Form Flooder*
+** Mail flooder
+** Miniloader
+** Myspace phisher
+** Vampire Raep script
+** Raid Imagery
+*** Hueg3.jpg
+*** EbaumsWorld.com watermarks
+*** Goatse
+* Moar new shit
+** /i/Kit + Hackerpackage included
+** General updates and a lot of shit added.
+
+Items marked with a * are new or updated in the most recent version.
+
+== Downloads ==
+[http://anonym.to/http://www.multiupload.com/6TQSE2E4R5 Version 3 Download] (JPG RAR)
+
+[http://anonym.to/http://rapidshare.com/files/96641548/DangerousKitten2.2.5.rar Version 2.2.5 Mirror 1](RAR)
+
+[http://anonym.to/http://rapidshare.com/files/96641647/DangerousKitten2.2.5.zip Version 2.2.5 Mirror 2](ZIP)
+
+[http://anonym.to/http://rapidshare.com/files/95516586/DangerousKitten2.2.4.rar Version 2.2.4 Mirror 1](RAR)
+
+[http://anonym.to/http://rapidshare.com/files/95516600/DangerousKitten2.2.4.zip Version 2.2.4 Mirror 2](ZIP)
+
+{{tools}}
+[[Category:Tools]]

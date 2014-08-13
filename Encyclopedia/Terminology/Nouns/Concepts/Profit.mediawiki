@@ -1,0 +1,21 @@
+This joke originated with episode 217 animated sitcom ''South Park'', titled "Gnomes". In this episode, the Underpants Gnomes are stealing everyone's underwear. When the main characters ask why the Gnomes are stealing everyone's underwear they show a chart: 
+{| border="1"
+! Phase 1 || Phase 2 || Phase 3
+|-
+|Collect<br>underpants
+|<span style="font-size:150%">'''?'''</span>
+|Profit
+|}
+None of the gnomes were aware of what the middle step was, though they each assumed that one of the other gnomes did.
+
+== Memes ==
+The quote was originally a large single question mark. In the process of becoming a [[meme]] on [[4chan]] and many other boards, it had multiple question marks added to it to compensate for the lack of font size control: 
+:# Do something 
+:# ??????? 
+:# PROFIT 
+
+== External links ==
+*[http://en.wikipedia.org/wiki/Gnomes_%28South_Park%29 "Gnomes" on Wikipedia]
+*[http://tvtropes.org/pmwiki/pmwiki.php/Main/StepThreeProfit Step 3: Profit on TV Tropes]
+
+[[Category:Memes and Terms]]

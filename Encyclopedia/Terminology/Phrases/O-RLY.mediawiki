@@ -1,0 +1,26 @@
+[[Image:O_RLY.jpg|thumb|right|"O RLY?" Owl]][[Image:Yarly.jpg|thumb|right|YA RLY]]
+'''O RLY?''' is a condensed phrase for "Oh, really?". Usually implies a sarcastic sense of disbelief that belies the cynicism typical of earlier [[4chan]] users.
+
+The textual phrase "oh really?" was first popularized on the [[Something Awful]] forums.<ref>{{cite web |url=http://forums.somethingawful.com/showthread.php?threadid=677909 |title=What was the weirdest/funniest answer you ever put on a test? |date=2003-08-30 |publisher=Something Awful}}</ref> The phrase was initially one of many used during the [[FYAD]] sub forum's fad of compressing words by removing unnecessary letters. While first image macros were created on the Something Awful Forums, these did not include the now ubiquitous Snowy Owl image macro. This came from 4chan in the spring of 2005 when the word "repost" had been [[wordfiltered]] to "Owl." Thus owl macros were constantly posted stating "every day is owl." This particular [[macro]] stood out, spread to [[Fark]] and [[YTMND]] (among others) and has become an infamous internet term. A recent WoW update has added a white owl called "O'Reily" flying around a house just north of Steamweedle Port.
+
+Sometimes replied to with "YA RLY." ("YA RLY" has a serious-looking brown and grey horned owl associated with it). At some point, "ysrly" was used instead of "yarly", lost in translation somewhere between SA, Fark, 4chan, the WoW forums, and the rest of the everloving internet armpits. If you look closely enough, you can still see the photoshopped cartridge of the SNES game "Ys" into "Ys Rly", much like the "NintendoDSFARGEG" macro (see DSFARGEG).
+
+The original photo was taken by nature photographer John White, and is now inextricably linked to "O RLY?".<ref>{{cite web |url=http://animalpicturesarchive.com/animal/ViewImg.cgi?img=a7/Snowy_Owl_Nyctea_scandiaca_005-by_John_White.jpg |title=Snowy Owl (Nyctea scandiaca)003 - Silly lookingface |date=2001-02-17 |publisher=Animal Pictures Archive}}</ref>
+
+== Computer Worm ==
+On May 10, 2006, anti-virus company Sophos discovered a computer worm known as "W32/Hoots-A", which sends a graphical image of the snowy owl to a print queue when it infects a Windows-based computer.<ref>{{cite web |url=http://www.crn.com.au/story.aspx?CIID=37699 |title=Sophos discovers hooting virus |date=2006-05-12 |publisher=crn.com.au}}</ref><ref>{{cite web |url=http://www.sophos.com/pressoffice/news/articles/2006/05/hoots.html |title=Crazy owl preys on network printers, Sophos reports on Hoots worm |date=2006-05-11 |publisher=Sophos}}</ref>
+
+== References ==
+<references />
+
+== External links ==
+* [http://www.hjo3.net/orly/ O RLY? Gallery]
+* [http://en.wikipedia.org/wiki/O_RLY Wikipedia entry]
+
+<gallery>
+File:Orly_bowie.jpg
+File:Orly azumanga.jpg
+File:Orly therock.jpg
+</gallery>
+
+[[Category:Memes and Terms]]
