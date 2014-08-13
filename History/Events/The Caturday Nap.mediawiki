@@ -1,0 +1,37 @@
+'''The Caturday Nap''' is a term used for the major [[4chan]] downtime beginning October 20th, 2007, so named because it occurred on a [[Theme Days|Caturday]]. Initially, it wasn't entirely clear what had happened, with many rumors circulating that [[moot]] had been [[4chan Party Van|V&]] or that [[Invasions#eBaum's World|eBaum's World]] was somehow responsible.
+
+Eventually, it was found that a group of wannabe-[[Anonymous|hackers on steroids]] had created an IRC server called "[[lulz]]net", and wanted all of the [[Imageboard|chans]] to move their official IRC channels to that server. moot, however, was less than enthusiastic about the idea:
+
+:<Locutus_of_Lulz> We are Locutus of Anonymous
+:<Locutus_of_Lulz> You will respond to our questions.
+:<Locutus_of_Lulz> Your use of a public IRC netowrk is less efficent for Anonymous and to you.
+:<Locutus_of_Lulz> We have established a large and stable network, just for Anonyous
+:<Locutus_of_Lulz> Lulznet.
+:<Locutus_of_Lulz> irc.lulz.net
+:<Locutus_of_Lulz> aka irc.partyvan.org aka irc.lulzhost.net
+:<Locutus_of_Lulz> It is the combined servers of many chans.
+:<Locutus_of_Lulz> 7chan has joind, fapchan as well; 420chan will when they update their server software.
+:<Locutus_of_Lulz> the /i/nsurgents built it off our several servers.
+:<Locutus_of_Lulz> The Patriotic Nigras have added their servers.
+:<Locutus_of_Lulz> Great things are afoot.
+:<Locutus_of_Lulz> We will await your return
+:<Locutus_of_Lulz> But we know that moving #4chan onto the central node is most efficent for all parties.
+:<moots> not happening
+:<moots> irc is stupid
+:<moots> go away
+
+The failures then started a DDOS attack against 4chan, revealing that their "request" was actually a demand and trying to force moot to comply. He still wasn't impressed:
+
+:<Locutus_of_Loli> We do not wish to hinder the progress of 4chan
+:<Locutus_of_Loli> But we must sadly attack until /b/ conforms to the will of Anonymous.
+:<Locutus_of_Loli> We shall double the dataforce.
+:<moots> uh okay
+:<moots> i am going to go make soup now
+
+Needless to say, these exchanges produced plenty of [[meme]] fodder.
+
+While 4chan was down, Anonymous refugees flooded into other English-language imageboards, none of which are equipped to handle the same level of traffic as 4chan. The most common destination was 7chan, because it's the largest of the 4chan immitators. But their servers were strained by the increased bandwidth consumption, and 7chan sufferred a lot of sporadic downtime. One of the 7chan admins responded by redirecting the entire site to [[Habbo Hotel]], thus starting an impromptu [[Invasions|raid]]. The DDoS was only an hour long, but moot had unplugged the servers and did not have them restored until October 23.  4chan was fully restored the next day after some minor problems, with several stickies by moot soon to follow: one noting that he had enjoyed his soup, and a second that there were new regulations on 4chan, such as increased limits between posts and the removal of [[fortune|#fortune]].
+
+[[Category:Invasions]]
+[[Category:Notable Events]]
+[[Category:Memes & Terms]]

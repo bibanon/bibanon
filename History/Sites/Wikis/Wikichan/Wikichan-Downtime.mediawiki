@@ -1,0 +1,66 @@
+'''The '''Downtime''' of '''Wikichan'''''' was an event where Wikichan's old host, [[1and1]], managed to completely crash Wikichan's MySQL database. Along with shutting off key export methods and dropping or adding random blank tables (probably a bug due to their pointless edits to the PHPMyAdmin administration system), they managed to destroy two months of '''Wikichan''' work, from January 2nd to around February 29th. This information is still being re-entered and edited into the system, and the problem generally irritates the hell out of most users, who contributed quite a bit during that period.
+
+
+__TOC__
+
+==  The Original Information Post  ==
+
+===  What the fuck happened  ===
+
+Our host, 1and1, managed to completely fuck up Wikichan's MySQL for absolutely no reason. MySQL, being our storage method for the entire wiki, is a very bad thing to fuck up. Long story short, they nearly destroyed '''Wikichan''', and virtually every part of it that actually mattered.
+
+For those of you who want a technical background on it, they just managed to do the following:
+
+* "Magically" make the MySQL quota use bigger than their limit, then turning it off saying it was "over quota"
+* Purposely removing importation features to restore any/all old backups
+* Purposely destroying GZIP compression methods for exportation, meaning that all MySQL had to be taken out in raw format in text files (which were up to 70 megabytes each)
+* Leaving a FTP limit up that crashed the FTP connection every time I tried to pull our images from the server.
+* The above GZIP compression error destroyed my auto-backup, meaning all of my backups read "0 bytes".
+
+As you can tell, I'm pissed, and I'm very close to making a complaint to the BBB or some shit like that, or at least trying to get my money back.
+
+===  What we have now  ===
+
+All articles are in the system, most of them being empty. I was able to salvage most of the database (all of the user accounts, all of the article names, about 7000 of 1200 text edits) but most of them are old revisions and whatnot, so we're still pretty much on square one. The translation is, we're fucked and back to square one.
+
+'''HOWEVER.'''
+
+Some of the history works. Meaning, our new job is going to be to hunt down and restore any and all old histories, as well as figure out ways to re-capture our stuff that was more recent, including Damaged Goods stuff. This is obviously one hell of an undertaking, especially when we worked so fucking hard to get it all up in the first place just for 1and1 to fuck it up.
+
+===  What we will do  ===
+
+I will personally be working on getting new hosting for '''Wikichan'''. In the mean time, this will be our "backup" database- if you have free time, look around and work on it. It's nowhere near as nice as our original and some of the templates may be dead, but everything is still here in SOME format.
+
+Until then, I will be hunting for shared hosting to dump 1and1. As well, it may require me threatening to sue to get the actual domain '''Wikichan'''.org directly off their servers, but it will be at some point in time in the future. The long story is simple: I will be working primarily to get the tech side of this fixed where I directly manage all MySQL settings. Your job is to look around and help where you can, filling in the missing gaps of where our stupid fucker hosting company dicked the entire thing up.
+
+Those who help will be noted in the future in some kind of thank-you page or something. I'm really sorry for the problems and I assure you this wasn't any fault of anyone's except those working at our (ex) hosting company. This wasn't a hackjob nor was it a bandwidth attack or anything- this was 100% bad hosting.
+
+And hey, we're an official [[*chan|<nowiki>*chan</nowiki>]] now!- we've had '''downtime'''<nowiki>! </nowiki>
+
+'''Update-''' it looks like [[User:Carcer]] and some of you guys are helping out to work this through. Thanks a ton.
+
+I'm actually working right now on purchasing something along the lines of reseller hosting of a shared server or something- unlimited bandwidth and whatnot. I'm going to use such a server to host '''Wikichan''' and other projects in one place, and basically monopolize the entire running of such operations. The translation to you means that I will be in entire control of the server operations, and will be able to prevent "help" from companies that think they're the shit.
+
+Anyway, once I finish up some random personal shit, I'll begin my own work on '''Wikichan''', trying to get things restored.
+
+'''Another Update:''' I'm working on finding a hosting company who actually allows nudity right now. While I still don't want '''Wikichan''' to turn into WikiPorn, I understand that a lot of you are chomping at the reins to put examples of famous Hentai pictures and whatnot up. As well, I'm looking for a hosting company that will "put up with our bullshit" as it were- I may even go so far as to looking in whoever hosts 4chan (I think it's cologuys or whatever).
+
+Also, many people have found that using Google Cache of the "old" '''Wikichan''' is helping building it back up. I'll help with that once I get some of this hosting stuff out of the way.
+
+===  Update: 1and1 Magically Loses Things  ===
+
+As of March 11th, 2007, [[1and1]] hosting has officially "lost" about 3 calls from the [[User:WikiSysop|Wikisysop]] and given false information in about three, then claiming their systems were broken so transfers were unable to complete. After about seven or so calls from the sysop (who uses Skype to continually call them until they fucking pick up), [[User:WikiSysop|Wikisysop]] eventually decided to emulate [[Hal Turner]] and see what would happen if he threatened to sue and began to file papers, while trying to hide laughter.
+
+1and1 internet quickly forwarded him to their supervisor (whom in other calls "didn't exist") who immediately contacted transfers, who are now currently petrified that [[User:WikiSysop|Wikisysop]] will indeed file papers (which he has on his desk "just in case"). It is unknown if [[1and1]] will actually do anything, though.
+
+== The Second Failure ==
+
+: ''Full article: [[WikiChan:Downtime the Second|'''WikiChan'''<nowiki>:</nowiki>'''Downtime''' the Second]]''
+
+But not by 1and1, THIS time. Unlike how [[1and1]] just managed to destroy our database, [[HostGator]] contacted me today saying that they had to shut off '''Wikichan''' (basically lock the directory) due to the fact it was running too heavy on our server.
+
+While that makes no fucking sense (and I find it hard to imagine that we used 25% of their resources as their contract stipulates), it's nonetheless a problem: either someone is running a vampire script, or we're just getting too big. Of course, much like 1and1, HostGator is simply giving me piss-poor answers and telling me about their "right" to do it, rather than actually bothering to prove anything happened. Of course, there are no records of anything in the database- I'm sure someone just "magically" found a way to crash MediaWiki, because people on Wikipedia do it all the time. At least, according to HostGator.
+
+=== Return ===
+
+'''WikiChan''' now has a home on a nice shiny new Dual Xeon 2.8Ghz box run by a [[/b/tard]] working at a hosting company with a personal server spare. Still got to iron out some flaws, though.

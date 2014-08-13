@@ -1,0 +1,31 @@
+The [[Insurgency Wiki]] is a collection of guides made by Anonymous from 2006-2011. This site was one of the primary wikis used by Anonymous to inform or call for raids outside of 4chan. It was a major component in the Partyvan network. It's been forked and mirrored multiple times, which at least kept it alive for later archival. This wiki has never been healthy, and it's seen some shit from DDoS attacks, lack of backups, and unclear, unreliable hosting. And it seems that the final mirror, http://partyvan.info, might not be coming back. To prevent disaster, the Bibliotheca Anonoma made a full XML dump, along with all page history and the pictures.
+
+Due to it's up and down status, it's ownership of one of the few records of Anonymous's raids, and the importance of the unorganized pages within, we've saved it here and implemented them into our [[Books]] and [[History]] articles.
+
+{{Infobox project
+| title = Insurgency Wiki (Partyvan.info)
+| image = partyvan.png
+| URL = [http://partyvan.info Partyvan.info]
+| project_status = {{offline}}
+| archiving_status = {{rescued}}
+}}
+
+== Description ==
+
+As the [[Encyclopedia Dramatica]] states:
+
+:The '''Insurgency Wiki''' is <s>insurgen</s> partyvan.info, a [[wiki]] specializing in [[raid]] coordination and documentation. It is home to many [[Anonymous|Anonymi]], [[raidfag]]s, [[i/|/i/nsurgents]], [[vandal]]s, and [[script kiddies]], and functions as a centralized hub for the aforementioned degenerates to use to reign [[terror]] on the [[Internets|webs]].  In their own words, "''Was put together and run so that the newfags can just read stuff here instead of it needing to be explained tons of times in the chat.'' At one point, there were two wikis ran at once: Insurgen.info and partyvan.info, and for a while purely insurgen.info due to Partyvan's [[shit|Titanic-like]] uptime, but now it is down to just partyvan.info.
+
+== Backups ==
+
+An XML and Image dump was made in 12/21/11 by the [http://github.com/bibanon/bibanon/wiki Bibliotheca Anonoma] while it was importing pages from Partyvan.info. This includes all pages and their histories, from User pages to Templates and Categories. It's only 50.5 megabytes.
+
+* [http://www.mediafire.com/?2shvlot1dt13l4u]
+
+== Git Repo ==
+
+The XML was split using Levitation to create a Git-revisioned repository with the history of all the pages on it.
+
+* [http://github.com/bibanon/Insurgency-Wiki/]
+
+[[Category:Wikis]]
