@@ -10,7 +10,7 @@ Bibliotheca Anonoma
 * [[Culturally Important Treasures]]
 * [Edit this Sidebar](https://github.com/bibanon/bibanon/wiki/_Sidebar/_edit)
 
-## [[Stories]]
+### Stories
 
 * [[Cool Story Bro]]
 * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
@@ -28,7 +28,7 @@ Bibliotheca Anonoma
 * [[more...|Stories]]
 
 
-## [[History]]
+### History
 
 * [[4chan Chronicle]]
 * [[4chan History]]
@@ -41,7 +41,7 @@ Bibliotheca Anonoma
 * [[People]]
 * [[more...|History]]
 
-## [[Books]]
+### Books
 
 * [[The Return of the Well Cultured Anonymous]]
 * [[The Uncultured Anonymous]]
@@ -51,7 +51,7 @@ Bibliotheca Anonoma
 * [[Netizens Netbook]]
 * [[more...|Books]]
 
-## [[Collections]]
+### Collections
 
 * [[Damedame ARG]]
 * [[Copypasta]]
