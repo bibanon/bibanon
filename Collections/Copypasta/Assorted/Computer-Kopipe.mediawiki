@@ -1,0 +1,579 @@
+<noinclude>{{Kopipe category|Computers|I'm majoring in something useful /sarcasm.}}</noinclude>
+
+== Airlines ==
+=== Operating Systems ===
+If operating systems ran airlines:
+
+Everybody pushes the airplane until it glides, then jump on and let
+<br>the plane coast until it hits the ground again, then push again, jump on
+<br>again and so on. This is the DOS airline.
+
+The same thing but with more leg room to push. The DOS with QEMM
+<br>airline.
+
+All the stewards, stewardesses, captains, baggage handlers, and ticket
+<br>agents look the same, act the same, and talk the same. Every time you
+<br>ask questions about details, you are told you don't need to know, don't
+<br>want to know, and everything will be done for you without you having to
+<br>know, so just shut up. This is the MAC airline.
+
+To board the plane, you have your ticket stamped ten different times by
+<br>standing in ten different lines. Then you fill out a form showing where
+<br>you want to sit and whether it should look and feel like an ocean liner,
+<br>a passenger train, or a bus. If you succeed in getting on board the
+<br>plane and the plane succeeds in getting off the ground, you have a
+<br>wonderful trip...except for the times when the rudder and flaps get
+<br>frozen in position, in which case you have time to say your prayers and
+<br>get yourself prepared before the crash. This is the OS/2 airline.
+
+The airport terminal is nice and colorful, with friendly stewards and
+<br>stewardesses, easy access to the plane, an uneventful takeoff...then
+<br>BOOM! the plane blows up without any warning whatsoever and you're dead.
+<br>This is the Windows airline.
+
+Everyone marches out on the runway, say the password in unison, and form
+<br>the outline of an airplane. Then they all sit down and make a whooshing
+<br>sound like they're flying. This is the Windows NT airline.
+
+Everyone brings one piece of the plane with them when they come to the
+<br>airport. They all go out on the runway and put the plane together piece
+<br>by piece, arguing constantly about what kind of plane they're building.
+<br>This is the Unix airline. 
+
+=== [[GNAA/Lunix|GNU/Linix]] ===
+Fedora Air: You fly for free in an experimental jet with parts being manufactured by a large corporation. Not everything works properly and sometimes your chair will break. The corporate backer doesn't really care since you aren't a paying cutomer.
+
+Debian Air: It's a smooth flight on an old plane. You've got the option of having a basic chair right away or building it yourself. You've got the choice of an attractive stewardess that will offer you suggestions, or a plain stewardess that will do what you say quickly, while reminding you of things you need. It doesn't work on new routes and airports, but it's got a wide array of destinations that many other airlines don't bother with. 
+
+Ubuntu Air: Uses the newer planes with a new paint job from Debian Air, which still experience a bit of turbulence. It's the busiest airport and is funded by a millionaire who used to work at Debian Air. You have a choice of an ditsy blond stewardess who just brings you what you ask for, or stewardesses just like Debian air had, but there are a lot more annoying teenagers on board.
+
+Slackware Air: Gives you a nice, comfortable seat, but there's not a full time stewardess and she makes you get all of the parts yourself if you want to make changes. Doesn't utilize the turbo jets on newer airplanes, but it's fast enough that most passengers don't complain.
+
+Arch Air: Gives you a pile of parts and a stewardess to help you sort through them. Also, has a thick manual for any questions you have. Any time you want, you can update your seat to use the newest parts.
+
+Gentoo Air: You are given a given a block of metal, an even thicker manual, and a blowtorch.
+
+Mint Air: Similar to Ubuntu Air but the aircraft is styled differently. Also halfway through the flight a group of terrorist hijacks the plane and screams "ALLAH ACKBAR!" and demands the flight be diverted to Palestine. A struggle ensues between an undercover air marshal and one of the hijackers who happens to have a bomb strapped to his body. The bomb goes off accidentally, tearing the jet in half and suddenly you find yourself tumbling through the air. You wake up suddenly from your nightmare, realizing you're safe and sound on an Ubuntu Air flight. The stewardess serves you green tea and mints, winking. 
+
+== GNU/Linux ==
+Installing GNU/Linux won't solve your computer woes. It's not going to magically remove the anguish of being a non-technical person in a technical world.
+
+Although neckbeards give the impression that GNU/Linux "just works," it's not quite as simple as that. You'll still experience incompatibility and those irritating nuances associated with all forms of desktop computing.
+
+What you won't experience, however, is a lack of attention to details with the user in mind.
+
+If you're switching to a GNU/Linux solely because you're ticked off with Windows, no desktop environment will please you.
+
+However, if you're willing to make a change that will first be bumpy, but will eventually pay off in terms of overall satisfaction and enlightenment while computing, then you're ready for GNU/Linux. You can even use your existing computer without having to buy additional hardware.
+
+You have to be willing to change your entire perception of how desktop computing should be.
+
+== JPEG ==
+[[Image:Computers_jpeg.jpg|thumb|right]]
+
+Because JPEGs are more heavily compressed than other image formats, their information is more volatile and likely to expand at high speed through an unchecked buffer, poorly allocated resource or any other available system space. I'd guess you're probably losing image data through one of these means.
+
+You see, when you load a JPEG into memory, the EXtra colour Information Format (EXIF) header is loaded into RAM in order to prepare the video prebuffer for the incoming high-speed flow of colour information from the uncorked JPEG. If your bus isn't ready for this information, the rapidly decompressing file information can flow through other parts of your system.
+
+Ordinarily this isn't a problem: as a matter of fact, JPEG was designed for this sort of thing. Older computers couldn't handle the explosive power behind the fledgeling image decompression algorithm, so rather than fight it, image experts invented the Jampacked Picture Extraction and Gathering (JPEG) protocol. They cleverly decided to allow the image data to spray wherever it would, knowing that after the extraction phase would send raw data all over the inside of the computer, the gathering phase would locate it all and reassemble it into an image. With the advent of faster computers the delay between spray and collection is so small as to be unnoticeable, while newer and bigger video cards are more capable of withstanding the onslaught of colours.
+
+Still, the primary weakness of this algorithm is the haphazard placement of decompressed data. There's just too much of it to channel through normal means, so any loss of data containment results in corrupted images. In your case, it would appear that you're losing image data through the empty hole where your goddamned shift key should be. 
+
+== JPG and PNG ==
+
+Now listen here, fuckers. Learn the difference between JPG and PNG ALREADY.
+
+- JPEG (pronounced jay-peg) is a most commonly used standard method of lossy compression for photographic images.
+
+- PNG (Portable Network Graphics) is a losslessly compressed bitmap image format.
+
+PNG is supposed to substitute GIF format, not JPG format you motherfuckers. For GIF, read "DRAWINGS, PAINTINGS, ICONS, etc" with a tiny palette. PNG IS LIKE A GIF WITH 65K COLOR, DUH.
+
+So stoping saving your shitty PHOTOGRAPHS in PNG. IT WILL NOT IMPROVE THE QUALITY AT ALL, NOR WILL MAKE YOU LOOK COOL OR INDIE. 
+
+== Life is like an FPS ==
+
+hay guys i was just thinking about ow everyone's all like "LIFE IS LIKE AN FPS WITHOUT A RESPAWN LOL" but sometimes the admin just sets respawn delay to be WAY TOO LONG, so it sorta seems like there's no respawn, and you kinda forgot you're playing the game until suddenly you're out in the open and soom AUG whore ganks you and I think this could be it because even if a bunch of cavemen did respawn and were all like "HOW I BUY CLUB" just now, we'd probably put them in insame asylums or they'd join up with terrorists or something so no one would really notice until we get, like, the black plague respawn in a billion years and on top of that sometimes nobody respawns until one team wins the match so maybe what we did wrong was breed too fast, so the match went on and on before one team could kill the other and now all we gotta do is finish off the other team and there'd be like A GOOGOPLEX RESPAWNS and everyone'd be all like "GG lol" but most of 'em would be sarcastic because they've been in observer mode with jesus for trillions of years and the whole time they were like "HE'S BEHIND THE FUCKING BOX". 
+
+== Most of You faggots are fucking n00bs @ the internet ==
+
+Ehhhh, most of you faggots are fucking noobs @ the internets.
+
+I use linux not because I hate microsoft (believe me, I do, but that's not why), not because I want to be a geek (I am), but because it fits my style. It's so much easier to accomplish things when you have the power of *nix commandline goodies ala GNU tools, etc. As well, I don't have to spend time searching for cracks and shit because /everything/ I use is free and I can build it from source if I need to.
+
+Not only that, but anything I don't like, I can crack open and change, usually without too much difficulty. Linux: The OS is /yours/.
+
+Get the fuck out, all of you. @ OP, unrar-free might work, as well as install rar and using rar x filename. (rar might be in multiverse repos, you should have those enabled anyway) 
+
+== My Mac sucks ==
+
+I don't want to start a holy war here, but what is the deal with you Mac fanatics? I've been sitting here at my freelance gig in front of a Mac (a 8600/300 w/64 Megs of RAM) for about 20 minutes now while it attempts to copy a 17 Meg file from one folder on the hard drive to another folder. 20 minutes. At home, on my Pentium Pro 200 running NT 4, which by all standards should be a lot slower than this Mac, the same operation would take about 2 minutes. If that.
+
+In addition, during this file transfer, Netscape will not work. And everything else has ground to a halt. Even BBEdit Lite is straining to keep up as I type this.
+
+I won't bore you with the laundry list of other problems that I've encountered while working on various Macs, but suffice it to say there have been many, not the least of which is I've never seen a Mac that has run faster than its Wintel counterpart, despite the Macs' faster chip architecture. My 486/66 with 8 megs of ram runs faster than this 300 mhz machine at times. From a productivity standpoint, I don't get how people can claim that the Macintosh is a superior machine.
+
+Mac addicts, flame me if you'd like, but I'd rather hear some intelligent reasons why anyone would choose to use a Mac over other faster, cheaper, more stable systems. 
+
+== naturally I knows the hacker ==
+i have been hacking seince i was 7 (im 13 now) my parents supported it, and it has helped many people, i have helped add security to sites by testing security, and there is a whole group of hackers im a part of at hackthissite.org hackers arnt bad, those are "crakers" who are mindless morons, you sir are the idiot, you trust the media, you didnt research you are the bad one. i have hacked many things but, for good. are you saying a site about killing people becuse of there race and supports it should stay up?? is that better than hacking?? i have hacked a site like that and shut it down. think im bad? F*ck you!!
+i have broken some laws but, for good reasons, the government makes you think hacking is bad because the govrnment fears us, but us hackers dont fear them, so the government uses people whot think there hackers and shows them on tv then, people think thats what a hacker is. hacker acually means "one who is experienced in computers and problem solving" i think i have done good, and that i dont hack like black hats who are morons (pretty much "crackers") i hope i will change your opinion. 
+
+== Opera ==
+
+''This is a reply to off-topic opera promotion on 4Chan's /comp/ and /g/ ''  
+
+Opera sucks sure there's an ebuild for opera but it just get dropped to /opt, it's statically linked, and it's CLOSED SOURCE, which means that it is a BINARY package.
+
+== Operating Systems ==
+
+The Mac is an majestic tower at sunset, hoarding scarlet from the setting sun. No apertures mar its austere beauty, and clouds of birds spiral around it, falling upward like scattering leaves.
+
+Windows is an aging geisha with honeyed lips and lilac tongue, whispering her delights to you with hushed voice a melody of clear song. She coyly blinks as if you were her first, but many before have discovered the secrets that lie beneath her kimono.
+
+Linux is a sheet of ice at the bottom of a jade vase. It is a whisper between the chirpings of crickets. It is the sunlight behind a gauzy cloud. It is a pearl nestled in the snow. 
+
+== Perl ==
+
+Perl is like being molested by your uncle. There's something off about him, but everyone regards him very highly, so you trust him, and then on a family camping trip out at Montauk Point he takes advantage of you. Years later, you accept and acknowledge what happened, but you still refuse to believe that he's scarred you, because that would put him in control, not you, and the last thing you want is a molester in control of your life -- but your denial doesn't make it the truth. You want to believe that deep down inside, Perl is a good person, and you see that Perl has very redeeming qualities, but you sit down to try and program Perl and all you can think of is that camel's hard, throbbing cock.
+
+== /prog/ ==
+[[Image:prog.jpg|250px|right]]
+HAHAHAHA
+<br>YOU THINK YOURE THOUGH UH ?
+<br>I HAVE ONE WORD FOR YOU
+<br>THE FORCED INDENTATION OF THE CODE
+<br>GET IT ?
+<br>I DONT THINK SO
+<br>YOU DONT KNOW ABOUT MY OTHER CAR I GUESS ?
+<br>ITS A CDR
+<br>AND IS PRONOUNCED ``CUDDER''
+<br>OK YOU FUQIN ANGERED AN EXPERT PROGRAMMER
+<br>THIS IS /prog/
+<br>YOU ARE ALLOWED TO POST HERE ONLY IF YOU HAVE ACHIEVED SATORI
+<br>PROGRAMMING IS ALL ABOUT ``ABSTRACT BULLSHITE'' THAT YOU WILL NEVER COMPREHEND
+<br>I HAVE READ SICP
+<br>IF ITS NOT DONE YOU HAVE TO
+<br>TOO BAD RUBY ON RAILS IS SLOW AS FUCK
+<br>BBCODE AND ((SCHEME)) ARE THE ULTIMATE LANGUAGES
+<br>ALSO
+<br>WELCOME TO /prog/
+<br>EVERY THREAD WILL BE REPLIED TO
+<br>NO EXCEPTION
+
+==== THE FORCED ISOLATION OF THE HIKKI ====
+HAHAHAHA
+<BR>YOU THINK YOURE THOUGH UH ?
+<BR>I HAVE ONE WORD FOR YOU
+<BR>THE FORCED ISOLATION OF THE HIKKI
+<BR>GET IT ?
+<BR>I DONT THINK SO
+<BR>YOU DONT KNOW ABOUT MY WAIFU I GUESS ?
+<BR>SHES 2D
+<BR>AND IS NAMED ``ALICE''
+<BR>OK YOU FUQIN ANGERED AN EXPERT NEET
+<BR>THIS IS /jp/
+<BR>YOU ARE ALLOWED TO POST HERE ONLY IF YOU HAVE ACHIEVED RONERY
+<BR>LONELINESS IS ALL ABOUT ``ABSTRACT BULLSHITE'' THAT YOU WILL NEVER COMPREHEND
+<BR>I HAVE 1CC'D EVERY TOUHOU
+<BR>IF ITS NOT DONE YOU HAVE TO
+<BR>TOO BAD IT'S SHIT, RIGHT?
+<BR>IT'S SHIT
+<BR>ALSO
+<BR>WELCOME TO /jp/
+<BR>EVERY NORMAL WILL BE SHUNNED
+<BR>NO EXCEPTION 
+
+=== Another Glitch in the Call ===
+We don't need no indirection
+<br>We don't need no flow control
+<br>No data typing or declarations
+<br>Hey! did you leave the lists alone?
+<br>Chorus:
+<br>Oh No. It's just a pure LISP function call.
+
+We don't need no compilation
+<br>We don't need no load control
+<br>No link edit for external bindings
+<br>Hey! did you leave that source alone?
+<br>(Chorus)
+
+We don't need no side-effecting
+<br>We don't need no flow control
+<br>No global variables for execution
+<br>Hey! did you leave the args alone?
+<br>(Chorus)
+
+We don't need no allocation
+<br>We don't need no special-nodes
+<br>No dark bit-flipping for debugging
+<br>Hey! did you leave those bits alone?
+<br>(Chorus)
+<br>-- "Another Glitch in the Call", a la Pink Floyd 
+
+=== Do You Believe In Magic ===
+"Please... please let me go ze~"
+
+The black-white pleaded to the rainbow magician; while battling the forceful urge within her, Marisa begged again. With tears in her eyes, her actions were simply ignored by an apathetic Alice; sitting not even five feet away and reading a book, peering out the corner of her eye at the witch's struggle. Her many dolls completely restricting Marisa's movement in her time of desperation.
+
+"You must..." the witch whined, "please, release your dolls! I can't take it much more..."
+
+Alice remained idle and flipped a page in her book. The pressure within the Marisa grew greater with every passing second, a force that she could never prevent merely with knowledge and wit.
+
+"I... beg of you... please..." a mixture of tears and sweat streamed from the witch's face and made its way to the magician's wooden floor.
+
+"I... I..." with her last shred of willpower, Marisa fell to the floor. With her face down, in a shameless admit of defeat, a puddle formed from under her; the liquid passing through the thin fabric and drenched her dress within mere seconds. A smirk appeared on Alice's face as the liquid expanded on her floor and made it's way up Marisa's body; the magician placed her book down and walked passed the witch, stepping in the shallow puddle of Marisa's urine.
+
+"I hate you... you damn bitch." With her head still facing the floor, tears multiplied in the witch's eyes and diffused with liquid she exerted moments ago. Whelps and sobs came from Marisa's mouth along with mumbles of "damn Alice..." and "I'll never forgive you."
+
+The magician walked back into the room and tapped the witch on the shoulder; looking up, she saw Alice's hand reaching out. Knowing she couldn't continue to wallow in her piss, she picked herself up and hung her head as Alice lead her to another room. 
+
+In Alice's bedroom with the door shut behind them, the magician began to remove the soiled dress of the witch; however, she was met with a forceful hand.
+
+"What are you doing ze~? I don't need your help," muddled Marisa with the slightest hint of red in her cheek. "I can do this myself. Also, what are those things..." she pointed to her bed. Alice picked up one of the white objects; "those can't be..." the magician nodded.
+
+Marisa signed with a hint of disgust, "You get weirder everyday, doll freak..." A thought occurred. "Hey, wait, why do you even have those things?" Hesitant, Alice lifted her skirt and revealed that she herself was wearing a diaper. Despite the humility that bestowed onto Marisa minutes ago, a smile came to her face. "So it is true, you do lea..."
+
+Alice forcefully grunted and a trio of dolls surrounded the witch. One quickly flew behind Marisa and untied her apron and the other two grabbed the straps of her dress and lifted it over her head; the dolls then flew off with the garments. Before the black-white had a chance to fight it, she stood in Alice's bedroom with nothing but her shirt and soaked bloomers.
+
+Alice, face redden, placed her hand on the witch's shoulders and led her to her bed. Marisa, unsure of what she should do, was forcefully seated on the edge and pushed back by the doll otaku. 
+
+Alice excitingly placed her fingers on the witch's waist; as she was about to pull down her bloomers, the magician was met with Marisa's grasp.
+
+"No, ze~. Don't you dare do that." Just then, a group of dolls flew onto Marisa and restrained her arms and legs once again. "Dammit, ze~; let me go!" Alice ignored the demand and pulled down the wet bloomers. Staring at what was now exposed, trickles of blood dripped from the magician's nose.
+
+"You sad, lonely freak." Marisa remarked as it was all she could do. Wiping the drippings of passion from her face, she slid the diaper under Marisa. Sprinkling a blot of powder onto the area, she quickly taped the garment into position before she fainted from blood loss.
+
+Regaining her composure, Alice witnessed what she had accomplished and let out a delightful smile. Flushed with redness, she placed her face next to Marisa's and gave her a quick kiss on the cheek. Then with a soft giggle, she slowly walked toward the door.
+
+"I'll make some tea and cakes." The dollmaster opened the door and exited the room; her minions release their grasp on the witch and followed.
+
+Marisa sat up, hearing the unfamiliar crinkle as Alice's success, and pondered what the magician really meant to her.
+
+Suddenly, a huge black snake head with retarded-looking eyes materialized in front of them, and in a loud booming hiss, asked "Have you read your SICP today?" 
+
+The surroundings faded into blackness and within a few moments the group found themselves seated in a lecture hall at MIT, amongst several dozen other students. "Welcome to 6.001" was written on the blackboard, and Professor Gerald Jay Sussman walked into the room, dressed in his robe and wizard hat.
+
+"Is this a hack?" he asked as he glanced around and saw the witch, the magician, Alice, and Marisa.
+
+"What...?" Marisa managed to say, all of the confused by what had just happened.
+
+"Nevermind, let's start the lecture." The Sussman said softly.
+
+"I'd like to welcome you to this course on computer science. ... Actually, it's a terrible way to start. Computer science is a terrible name for this business. First of all it's not a science." The Sussman lectured while the students sat and listened attentively.
+
+"What's going on?" Alice whispered to Marisa.
+
+"I have no idea. But this is getting interesting."
+
+"Or we'll actually see that computer... so-called science actually has a lot in common with magic." The Sussman continued. 
+
+"But... how can he do that? He's only a human, right?" the witch whispered.
+
+The Sussman, who up until now had paid no attention to the group, turned and stared at the witch with an astonished expression.
+
+"What did you just say?" he asked, pointing his wand at the witch.
+
+All of the other students turned in the direction of the group.
+
+"Nothing," she answered quietly.
+
+"I hope so," The Sussman said in stern tone, ending his pointing with the wand.
+
+"And... well I guess you know everyone needs a magical language and sorcerers, right, real sorcerers use ancient Arcadian, or Sumerian, or Babylonian or whatever. We're gonna control our spirits in a magical language called LISP, which is a language designed for talking about... for casting the spells that are procedures to direct the processes," the Sussman continued, waving his wand around as he spoke.
+
+"What a disappointment. I thought he was going to teach us magic," Marisa muttered almost inaudibly. 
+
+=== The Jungle Book ===
+The Sussman sat on his wizard throne, still donning his standard wizard hat and robe, which was still dripping from the shower in which he put them on. As he stroked his neckbeard he pondered the things which the [[Satori]] ponder. Beneath his feet lay the broken fragments of the python, the foul demon summoned by the Sussman’s nemesis and anticudder Abelson, then slain by the worthy and brave Haskell nomads.
+
+The nomads were not there on this dark day, however. There had been a rumors of Guido in the forests of the north, who was suspected to be developing a new, even more woesome and fail snake to do battle with the almighty Satori. They had pursued the Guido over 9000 times in the past, only to turn up nothing in each adventure. That fucking Guido was sneaky like a fucking snake.
+
+The Sussman stoked his wizard beard as he hummed the tune to SICP… today would be a well-balanced parenthesis. 
+
+Cons turned to Cudder, “Report?” Cudder was dressed in the standard garb of the Haskell nomads - relatively light armor gilded with the holy symbols of Haskell. The Nomads didn’t need much armor - they traveled fast and they traveled hard, almost as hard as the Sussman rides your sister’s ass every night when you’re alone in your room whacking off to the sacred tomes. And they were armed to the teeth. They provided a deterministic and constant effect to the battle, such that their arrival could almost be curried to optimize the battle’s execution speed and bring it to a quick close.
+
+“Nothing sir, the eastern quadrant appears to be empty. Not a thing could be found.”
+
+Cons, without even having to ponder this responded, “Excellent. check the other three quadrants; if anything is found recursively subdivide and search until we’ve harrowed the location down to a single square inch.”
+
+“Yessir!” 
+
+Discipline was tight in the Haskell nomads. If a given expression did not behave deterministically he had to be wrapped up in the shroud of the monad and returned to the homelands after a ritualistic suicide - they couldn’t afford to have monads in their tight-knit battle group. It just wasn’t acceptable.
+
+They had had to perform a ceremony just the previous week. One of their dear comrades, Reed, had begun to perform differently from usual. A cursory inspection revealed that he had was indeed infected with the deadly disease and dispatched accordingly. Cons stoked his neckbeard. Reed was gone, celebrating the afterlife with the Lambda of Plenty.
+
+His thoughts were interrupted suddenly by a bang!
+
+“THE CAMLS!”, someone shouted.
+
+“Damn,” Cons thought, “those fucking Camls and their fucking imperative features polluting the noble concept of functionality.” The Caml may have once been a noble race, but no one remembered such a time. Their syntactical swords were riddled with a chaotic mix of operators, a cacophony with few peers (Perl is among them).
+
+Cons drew his two beautifully forged parenthesizes from their sheathes, the air filling with a glorious ring. Normally a weapon not wielded by the nomads, he had been gifted the pair b the Sussman himself and learned to use them well.
+
+An Ocaml warrior suddenly jumped out and threw a malformed interrobang in an attempt to corrupt Con’s deterministic purity by destructively assigning his state with referential transparency (a black magic considered one of the darker evils from the depths of hell). Cons took up his parenthesis and swiped at the Caml with a quickly-crafted lambda function, but the Caml inferred the type of attack and was successfully able to evade any side effects. He didn’t notice, however, that Cons’ intention was not to slay him with the lambda but rather to incorporate the lambda into a foldl incantation to collapse the Ocaml’s state into a single return value. The Ocaml let out a scream as the tail-recursive function produced a single value from his state without any side-effects: -3.
+
+Quite a weak Ocaml, Cons thought to himself. He glanced around at his comrades; for the most part they handled themselves well. The attack, though sudden was fairly small, most of the remaining Ocamls not dead were either dying or attempting to exit the current execution context. His subordinates hadn’t taken much damage though, one had been expanded into an array and then operated on in-place. Cons shook his head; it was a terrible torturous way to die, but honorable nonetheless.
+
+Back at MIT, the Sussman was eating a tuna fish sandwich, something reserved for the aristocracy. The catchphrase on the can read, “You cannot tune a filesystem, but you can eat a tunafish sandwich!” It wasn’t very well-received, of course, but it was well-enough known at this point to remain.
+
+The Sussman munched on the delicious, moist tuna thoughtfully when all of a sudden he sensed behind hi a list comprehension. THE ABELSON! The Sussman leaped out of his seat, his wizard hat almost flying off his head (it was kept on by a quick (def (f x y) (f y x))).
+
+And just in time - the Abelson’s blow, intended to truncate the Sussman’s tuna-filled spleen his the wooden wizard chair, which shattered into a thousand pieces.
+
+“Well, well Sussman, I see you’ve maintained some of your skills from 6.001. You may have dodged that expression, but how long do you think you can hold out against my Python3000?”
+
+“THREE THOUSAND?!” the Sussman shouted in response, cackling. “You never understood, Hal; you couldn’t defeat me with PythonOver9000.”
+
+“What are you talking about Gerry. I’ve seen your powe–” he stopped, mouth agape as the sudden realization dawned over him. “NO, IT CANNOT BE!”
+
+“YES. YOUR SUSPICIONS ARE CORRECT, HAL. I’VE BEEN SUPPRESSING MY POWER LEVEL.”
+
+“HOW IS THAT POSSIBLE??!” Hal shouted. In desperation, the Abelson hurled a fury of list comprehensions, dictionaries and exceptions at the Sussman, but Gerry easily knocked aside the feeble incantations.
+
+“You never understood, Hal,” he chastised as he prepared his final attack, “it was always as simple as EVAL-APPLY!!!!!!!” he shouted as he unleashed the ultimate spell at the Abelson.
+
+The world froze.
+
+Few people have ever seen a spell of such power; few people could even wield it and even fewer were willing to use it. In this terrible, suspenseful moment, the world froze. Completely. This isn’t just a literary artifact, something had segfaulted.
+
+Sepples took a look at the screen. “Motherfucker!” he swore. Somebody had been running a fucking Ruby interpreter, which has exhausted not only the machine’s physical memory, but also used up all the allocated swap space. He’d have to reboot the system from the last savestate and re-run the computation another day.
+
+Shit. 
+
+=== Los Cuatro Ingenieros ===
+There are four engineers travelling in a car -- a mechanical engineer, a chemical engineer, an electrical engineer, and a computer scientist. The car breaks down.
+
+"Sounds to me as if the pistons have seized. We'll have to strip
+down the engine before we can get the car working again", says the mechanical engineer.
+
+"Well", says the chemical engineer, "it sounded to me as if the fuel might be contaminated. I think we should clear out the fuel system."
+
+"I thought it might be an grounding problem", says the electrical engineer, "or maybe a faulty plug lead."
+
+They all turn to the computer scientist, who up to then had reading his first edition SICP, and asked "Well, what do you think?"
+
+"..."
+
+"Ahem, Dr. Sussman?" 
+
+=== have you read your sicp today ===
+I had a strange dream the other day. I was riding the bus when all of a sudden this huge black snake head with retarded-looking eyes pops through the window and screams loudly "HAVE YOU READ YOUR SICP TODAY?" The bus had just stopped beside the library, and I ran inside as quickly as possible; the snake head was now chasing me around as I frantically searched for the legendary book among the shelves. I spotted the distinctive blue cover and ran toward it, the huge head inches from my ass. With great force I pulled the book from the shelf and instinctively directed it at the black head which by now was dripping with saliva at the mouth. It disappeared as it made contact with the book, disintegrating into a flurry of glowing parentheses.
+
+I just sat there dazed for a few seconds, watching the feathery parehtneses slowly become smaller and fade away into nothingness. Slowly, I stood up, still clutching the purple book. I wondered about what I should do with it, then decided to put it back on the shelf. After doing so, I walked back out to the exit and boarded a bus, for where I did not know. The bus driver looked strangely familiar as I dropped the coins into the farebox;
+
+"HAVE YOU READ YOUR SICP TODAY?" he suddenly yelled at me. Oh fuck, I thought to myself. Now I knew why he looked so familiar: He was The Sussman! 
+
+=== Thank you, SICP ===
+I am a computer programmer, which means I'm fat, nerdy, and have a tiny cock. I got AIDS from paying a cheap whore to fuck me, since I have no love in my life.
+<br>When the doctor told me, I went to the only thing I knew -- SICP.
+<br>I slammed my penis between two copies of SICP. It swelled up to twice normal size and fell off. I was worried.
+<br>I woke up the next day with incredible abs, a 14" rod of steel, and no HIV. I'm now an adult movie star, banging porn stars.
+<br>Thank you, SICP! 
+
+=== The Snake ===
+On one stormy night, the sky bright with thunder
+<br>knock knock at the door - who is that, I ponder
+<br>I dash to the gate, open it, I sunder
+<br>'tis a filthy snake, at my mat, down under!
+<br>I speak carefully, not to make a blunder:
+
+``who be thee, thou spawn of evil?
+<br>beast from before medieval
+<br>serpent! the tempter primeval!''
+<br>-- in my soul a great upheaval
+<br>``demon! how come you were tapping?
+<br>at my door so gently rapping?
+<br>limbless, cursed to move by wrapping!''
+
+The slimy beast hissed, and so before my eyes
+<br>I beheld a man - in appearance so wise
+<br>I recognised him, now without the disguise
+<br>My throat unleashing so desperate cries:
+
+``Infidel! Once a great wizard,
+<br>now a slimy tricky lizard
+<br>stealing through the flames and blizzard
+<br>what be thy business, ex-wizard?''
+
+Thus he spake, the voice bestowed:
+<br>``son, you walk the evil road
+<br>all what I have you once shown
+<br>all what you thanks to me own
+<br>now shall within you explode
+<br>and have I so forebode:
+<br>not through Scheme does point the road
+<br>in my mind had always flowed:
+<br>FORCED INDENTATION OF CODE'' 
+
+=== The Sussman ===
+I could feel Asakura lifting her knife up. Where would she start? The throat arteries, heart? If I knew how I was going to die, I could at least be prepared. At least let me close my eyes...what's this!?
+
+I suddenly felt the air shake. The knife began to fall upon me... At this moment, the ceiling gave out a loud cracking noise, followed by debris falling down. A loud booming hiss which seemed to sound like "Have you read your SICP today?" filled the air. I lifted my head and discovered... Standing in front, catching the blade with his crotch-snake, was the robed figure of The Sussman. 
+
+"You and your forced indentation." The Sussman said in his usual expressionless tone, "You think you can defy my power?"
+
+"You want to get in my way?" Asakura sounded calm. "Once I kill this person, Suzumiya Haruhi is bound to have some sort of reaction. Only then can we obtain more cudders."
+<br>"You are supposed to be my backup." The Sussman said in a mantra-like tone, "This sort of insubordination is forbidden; you must obey my commands."
+
+"What if I refuse?"
+<br>"Then I will send you to the land of Java."
+<br>"Would you like to try? I have the advantage here, since this classroom belongs to MIT."
+<br>The Sussman removed his wizard hat and set it on the floor before removing a wand from a pocket on his robe. He pointed it at the knife in her hand and murmured. Shortly after, it started glowing brightly. Then, like the sugar cube being placed into a cup of tea, it slowly crystallized and dissolved and fell towards the floor like powder. 
+
+Asakura released the knife and jumped five meters away. Opening up the distance in an instant, Asakura landed elegantly and continued smiling as usual. The Sussman raised his wand and pointed it directly at the ceiling, not taking his eyes off Asakura. The wand released a wave of glowing white parentheses and the space around The Sussman began to distort.
+
+"It's time for some ENTERPRISE QUALITY!" Asakura cheerfully cried as she conjured the spirits of the JVM, producing a flood of boiling-hot coffee that rushed its way towards The Sussman, who stood motionless, parentheses continuing to issue from his wand like electromagnetic radiation.
+"You think your turkey solutions can stop me?" The Sussman said calmly before lowering his wand, forming the pool of parentheses now gathered around him into a sharp pointed cone aimed at Asakura. Suddenly he shouted "LIIIIIIIIIIIIIIIISP!" and the parentheses shot forward into the waves of coffee, pushing the boiling hot liquid back towards where it came.
+
+"Nooooooo....." her cries became weaker as she became engulfed in the dark brown liquid. Everything turned black and I felt as though I had fainted. I awoke to a familiar voice.
+
+"...before we do that for the next couple of lectures we're gonna be talking about..."
+
+I opened my eyes and raised my head to find myself seated in a lecture theater. I glanced at the clock and found that I had missed most of the lecture. "Damnit! I was looking forward to the first lecture of the last semester of 6.001!" I thought to myself. 
+
+"Umm... no," I responded weakly. Suddenly his head looked a lot darker than it was a moment ago, and an evil grin appeared across his face. The bus's doors slammed shut and The Sussman's face turned an almost negroid black. His left hand shot at me and I could see that it was not a hand, but the head of a snake which protruded from its end. I turned around and ran towards the back of the articulated bus.
+"Let me show you the power of Satori," The Sussman said in a deep hiss. His snakelike arm extended from his body towards me as I continued to run for what seemed like eternity towards the longbus's rear door.
+
+"Longbus is loooooooooooooooooooooong", I thought to myself as I continued to run, the snake's head fast approaching. The bus seemed to go on forever. After a while, I passed the driver's seat. WTF, I thought. Ahead of me was The Sussman, standing in the aisle facing the same direction as me, with his left arm pointed forward. 
+
+I looked behind me, and saw the snake head was still approaching; I had managed to outrun it for a bit, and it was racing towards me. RECURSION! I jumped into the stepwell just as the head gained a sudden burst of speed, piercing through The Sussman and sending bright glowing parentheses everywhere. I watched first his body, then his hands disintegrate in the same manner that the head had earlier. The long black arm, floating in mid-air, slowly disappeared into a cloud of these glowing parentheses, and the snake's head, which I now noticed had come through the windscreen along with me, did the same after a few moments.
+
+I stepped over to the driver's seat, looking for the door release switch. I found what appeared to be the switch and toggled it, but the doors did not open. Shortly after, a low hissing sound emanated from the bus itself, followed by the loud booming cry of "HAVE YOU READ YOUR SICP TODAY?", which felt as if it was coming from inside my head. Suddenly everything turned black.
+
+I awoke to find myself still inside that mysterious bus, which was completely empty. The engine was still running, and it was still parked outside the library. "The library! Of course!" I thought to myself. As if my mind had been read, the front doors swung open and I ran from the bus toward the library, which also looked empty. I entered the building and frantically ran to where I had found the prized book earlier. The book was still there, and I grabbed it instinctively, then walked to the checkout. All but one counter was open, and there was a little Asian girl standing there; the place was deserted except for me and her. I put the book on the counter and she looked at it for a moment, then at me. "Have you read your SICP today?" she asked. 
+
+"You too?" I replied. "Have some tits and then GTFO and read your SICP!", she angrily shouted, then pulled up her shirt to show me her tits. She shoved the book into my hands and then disappeared spontaneously.
+
+I left the library, and waited at the bus stop. The previous bus was no longer there. The girl I saw earlier walked up to me and looked at the Wizard Book I was holding, then glanced down at my crotch.
+
+"WHAT DO YOU THINK YOU'RE DOING STANDING THERE LIKE AN IDIOT? READ IT!" she suddenly shouted. Astounded, I quickly opened the book and started to read the first chapter. I was so intrigued by the book that I didn't notice she had begun to give me a blowjob. When I looked down, she took her mouth from my cock to angrily shout "GO BACK TO READING YOUR SICP" and so I did. I didn't even notice that I came until after she told me to stop reading. A short while later, the bus arrived. 
+
+=== You have read your SICP today ===
+Suddenly, a huge black snake head with retarded-looking eyes materialized in front of them and stared menacingly. In a loud booming voice, it asked "HAVE YOU READ YOUR SICP TODAY?" and everything turned black.
+
+When they woke up, they found themselves sitting in a lecture hall at MIT, amonst several dozen other students. "Welcome to 6.001" was written on the board. Professor Gerald Jay Sussman walked into the room, wearing his robe and wizard hat. 
+
+"Is this a hack?" he asked as he glanced around and saw the strangely-dressed group, shocked and staring back at him.
+
+"What...?" Patchouli managed to say, all of them confused and unable to understand what had just happened.
+
+"Nevermind, let's start the lecture." The Sussman said softly.
+
+"I'd like to welcome you to this course on computer science. ... Actually, it's a terrible way to start. Computer science is a terrible name for this business. First of all it's not a science." The Sussman lectured while the students sat and listened attentively. 
+
+"What's going on?" Koakuma whispered to Patchouli.
+
+"I have no idea. But this is getting interesting."
+
+"Or we'll actually see that computer... so-called science actually has a lot in common with magic." The Sussman continued.
+
+"So procedures are the spells if you like that control these magical spirits that are the processes."
+
+The Sussman produced a wand and waved it in the air, muttering to himself. A bright flash of light filled the room, and a stream of glowing parentheses shot out the end of the wand, dissappearing into the air. The students applauded loudly.
+
+"But... how can he do that? He's only a human, right?" Koakuma whispered.
+
+The Sussman, who up until now had paid no attention to the group, turned and stared at her with an astonished expression.
+
+"What did you just say?" he asked, pointing his wand at her. 
+
+"And... well I guess you know everyone needs a magical language and sorcerers, right, real sorcerers use ancient Arcadian, or Sumerian, or Babylonian or whatever. We're gonna control our spirits in a magical language called LISP, which is a language designed for talking about... for casting the spells that are procedures to direct the processes," the Sussman continued, moving his hands in a series of complex movements as he spoke.
+
+"What a disappointment. I thought he was going to teach us magic," Patchouli muttered almost inaudibly.
+
+Once again, the Sussman quickly turned and stared at her, retrieving his wand and pointing at her with it.
+
+"Excuse me?" he asked, "What did you say again?"
+
+"Nothing," she replied, trying to avoid attention.
+
+"No, I'm pretty sure you said something. Please repeat it for us, so as not to miss a fine learning opportunity."
+
+"She said, 'What a disappointment. I thought he was going to teach us magic'," Koakuma exclaimed. At the sound of those words the Sussman's face turned a bright red.
+
+"HOW DARE YOU DOUBT ME!!" The Sussman shouted angrily. "By the power of the Y combinator I send thee to the land of Java!" 
+
+"Now perish!" The Sussman shouted, conjuring a huge pair of parentheses from his wand, which surrounded the group and enveloped them in a closure.
+
+"What do we do now?!?!" Koakuma screamed at Patchouli.
+"I don't know!" she shouted angrily in reply as the both of them hammered as hard as they could against the invisible, unyielding walls of the closure.
+
+"I hope you learned your lesson, freaks!" The Sussman exclaimed, as the closure rose up towards the ceiling with the two trapped inside, exploding into a shower of white parentheses as it hit the top. The Sussman returned the wand to his pocket and continued lecturing.
+
+...
+
+"Where... are we?" Koakuma whispered as she opened her eyes to find Patchouli lying next to her. 
+
+"I think that guy said something about the 'land of Java'" Patchouli said in a low voice as they both sat up to find themselves in an empty office cubicle. The sound of mouse clicks and typing could be heard coming from around them.
+
+They cautiously walked towards the opening of the cubicle, which lead to a long, brightly lit hallway that seemed to go on forever.
+
+"Let's find a way out of this place," Koakuma said.
+
+They walked into the cubicle beside the one they respawned in, but it wasn't empty; there was a desk, a computer, and an expressionless, bald man with startingly white skin sat there, staring into the monitor and pressing the keys frantically. They could see he was playing Perfect Cherry Blossom. 
+
+"Umm... excuse me? Could you ---" Koakuma began.
+
+The man remained focused on the game.
+
+"Hello?!?!" Patchouli screamed at him while waving her arms across his eyes. The man remained undisturbed, and continued to graze with astonishing accuracy. Even when she covered her eyes completely he did not miss at all.
+
+"WHAT THE HELL IS THIS?" she exclaimed, kicking him and then the monitor; but nothing refused to move --- it was as if there was a barrier surrounding him. 
+
+Seeing that nothing in the cubicle would respond to their attempts at moving or destroying it, they gave up and walked out into the hallway.
+
+"This place sure is wierd," Patchouli commented sadly, "let's see what's in the other ones."
+
+They visited several more cubicles, but the situation was the same; in each one was a man playing one of the Touhou series, and none of them could be disturbed by anything they did. After a while, it became apparent that almost every one of the cubicles was identical, and the hallway seemed to go on forever in either direction.
+
+They continued to walk in silence, looking into the cubicles on either side for any sign of escape. One of them seemed to be empty except for a single purple book lying exactly in the middle, and aligned perfectly with the four walls.
+
+"This one's different! But... what can we do?" Koakuma said as they entered it. 
+
+Patchouli reached for the book, and to their surprise it moved with her touch. She picked it up and turned it over.
+
+On the cover was a picture of a wizard and the words "Structure and Interpretation of Computer Programs".
+
+"Structure and Inter--- wait, is this the SICP that snake mentioned before we ---" Koakuma exclaimed.
+
+"I think I remember now!" Patchouli shouted excitedly. "It said something about reading SICP!" She opened it and turned to the first chapter. 
+
+They started reading the first chapter, and just as they finished the first section, the lights of the cubicle flickered and the two of them were once again immersed in darkness.
+
+"What now?" Koakuma asked, "didn't we read it?"
+
+A deep rumbling sound was heard, and the floor began to shake. They held onto each other as they felt themselves falling through it, then fainting.
+
+They woke up to find that they were back where they started, and the huge black snake head was still staring at them. Patchouli continued to hold the purple book tightly against her chest.
+
+"You have read your SICP today", the head hissed before disappearing into the air. 
+
+== Windows 7 ==
+Billy: Hey dad, whats an operating system supposed to do?
+
+Dad: Well Billy, an operating system is supposed to provide an environment where many different kinds of software can run well.
+
+Billy: But Linux, OSX, and Windows 7 do that well! How do I decide?
+
+Dad: Well Billy, you have to now assess what kind of software you're going to be using. Which OS looks the most appropriate now?
+
+Billy: Well, OSX is good for graphic design, but nearly all of its programs also run on Windows 7 or have comparable software also for Windows 7. Linux has a lot of great software, but just can't really compete really with the huge libraries of software for Macs and Windows.
+
+But in terms of number of software available, Windows 7 seems to have the most. It also runs new and upcoming games, and also runs classic PC games while XP is left in the dust without DX10.
+
+Dad: There you have it son, Windows 7, which is an operating system, runs FUCKING EVERYTHING!!!!
+
+SO STOP BITCHING UNTIL THE OTHER OPERATING SYSTEMS CAN COMPETE!!!!!!!!!!!!!! 
+
+== XBox vs. PC == 
+
+PCs are for sad geeks who have no life.
+
+Game consoles are for those who want to entertain themselves.
+
+I once tried using a PC - it was an absolute nightmare! (those who create these various versions don't exactly make them for the novice; they wrongly assume EVERYONE is a Geek) And using it was WORSE!!! Besides, I've ALWAYS used XBox, and it's too late to teach this old dog new tricks. And when PCs become as easy to use as XBox, games are as easy to load into PC as it is for XBox, and there's Halo 2 ported to PC (or better still, XBox games are compatible with PC), THEN I'll use it And You PC-ers DARE to accuse Bill Gates of being the 'Antichrist'?! At least he makes his game consoles EASY to buy & use!!!
+
+So, until then, I say:
+
+GET THEE BEHIND ME, PC-SATAN!!!

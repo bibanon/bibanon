@@ -1,0 +1,4 @@
+## Sony vs Nintendo ##
+
+The DS and the PSP were released at about the same time. The PSP promised great games with superior graphics and media capabilities. The DS promised great games. At first, the PSP vastly outsold the DS. But soon, it became noticed that the PSP would not deliver on it´s promises and the inclusion of great games to the DS library blew the PSP out of the water.
+The Wii and the PS3 were released at about the same time. The PS3 promised great games with superior graphics and media capabilities. The Wii promised great games and ´innovation´. At first, the Wii vastly outsold the PS3. But soon, it became noticed that the Wii would not deliver on it´s promises and the inclusion of great games to the PS3 library like ____ and ____ blew the Wii out of the water.

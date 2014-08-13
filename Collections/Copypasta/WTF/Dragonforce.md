@@ -1,0 +1,4 @@
+## Dragonforce ##
+
+Humans can only stand so much awesome, it's in our genetic code. Dragonforce, for example, taps into the unused portion of our brains and unravels a sixth sense to a new level of awesome that humans cannot normally experiance. When you listen to Dragonforce, you are not only listening to music, you are taking a journey to another place, another world that some can never hope to behold on their own. Like a scout sent into an unknown land, a voyager on a quest for the unknown, like a tribal Shaman on a spiritual journey...all society can hope for is that you bring back a piece of what you now have engraved upon your soul, and help free the repressed souls and minds of all civilization.
+And totally fucking rock out.

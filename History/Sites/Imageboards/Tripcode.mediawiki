@@ -1,0 +1,14 @@
+A tripcode is a hashed password used on [[anonymous]] [[imageboards]] for a person to show identity. A simple tripcode can be broken fairly easily and so '''secure tripcodes''' can be used by [[faggots]] who think it matters.
+
+== How to Tripcode ==
+To use a tripcode you need to type, in the name field, your name (optional), the trip character (usually # but defaults to ! on Wakaba without modification), and your trip phrase. After submitting a post using '''(name)#faggot''' in the name field the post itself will show '''(name)!Ep8pui8Vw2'''.
+* '''(name)#faggot''' = '''(name)!Ep8pui8Vw2'''
+
+=== Not that it matters ===
+It just so happens that [[moot]] uses ''#faggot'' as his tripcode. This used to equal a ban on [[4chan]]; it may or may not be so to this day.
+
+== How to Secure Tripcode ==
+To secure tripcode you just need to add a second trip character and trip phrase. The secure tripcode will not be the same from site to site and may not be the same from board to board because it is based on the secret salt in the board config.
+* '''(name)#faggot#jew'''
+
+[[Category:4chan]][[Category:Internet]][[Category:Memes and Terms]]

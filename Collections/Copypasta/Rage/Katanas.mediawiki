@@ -1,0 +1,26 @@
+A copypasta that appeared in [[/k/]] in summer 2007. It was presumably intended to troll, given /k/ommandos' anti-[[Weeaboo]] stance and [[/k/#Katana Vacuum|disdain for katana fanboys]], but instead was quickly adapted to a substitute a variety of other weapons for those in the original version.
+
+May have originated in /tg/.
+
+
+== Original Copypasta ==
+
+ That's it. I'm sick of all this "Masterwork Bastard Sword" bullshit that's going on in the d20 system right now. Katanas deserve much better than that. Much, much better than that. I should know what I'm talking about. I myself commissioned a genuine katana in Japan for 2,400,000 Yen (that's about $20,000) and have been practicing with it for almost 2 years now. I can even cut slabs of solid steel with my katana. Japanese smiths spend years working on a single katana and fold it up to a million times to produce the finest blades known to mankind. Katanas are thrice as sharp as European swords and thrice as hard for that matter too. Anything a longsword can cut through, a katana can cut through better. I'm pretty sure a katana could easily bisect a knight wearing full plate with a simple vertical slash. Ever wonder why medieval Europe never bothered conquering Japan? That's right, they were too scared to fight the disciplined Samurai and their katanas of destruction. Even in World War II, American soldiers targeted the men with the katanas first because their killing power was feared and respected. So what am I saying? Katanas are simply the best sword that the world has ever seen, and thus, require better stats in the d20 system. Here is the stat block I propose for Katanas:
+ 
+ (One-Handed Exotic Weapon)
+ 1d12 Damage
+ 19-20 x4 Crit
+ +2 to hit and damage
+ Counts as Masterwork
+ 
+ (Two-Handed Exotic Weapon)
+ 2d10 Damage
+ 17-20 x4 Crit
+ +5 to hit and damage
+ Counts as Masterwork
+ 
+ Now that seems a lot more representative of the cutting power of Katanas in real life, don't you think?
+ tl;dr = Katanas need to do more damage in d20, see my new stat block.
+
+
+[[Category:Copypasta]]

@@ -1,0 +1,49 @@
+[[Image:Anonymous Does Not Forgive - Transmetropolitan.jpg|right|300px]]
+'''Anonymous''' posting is one of the staple features of the code behind [[4chan]] and imageboards in general. Basically, by allowing anyone to post without first having to register, 4chan avoids the hassles and pitfalls of boards that require registration.
+
+The first big problem is the creation of meaningless e-personas. Such personas are undesirable because they lead users to prejudge a post and its content based on their impressions of the author. Therefore, one might be predisposed to criticize a perfectly legitimate comment or praise a stupid one simply because of preconceived notions about who wrote it. [[Anonymous]] posting attempts to avoid this situation by removing identity from the post, making any praise or criticism directly solely at the content.
+
+The second major issue is that by requiring registration, you drive away users who might have added valuable content and information but didn't want to be bothered registering for yet another website. The idea is that communication should be free and easy, and that registration is a needlessly invasive hassle.
+
+Some (particularly [[Fag#Tripfag|tripcode users]]) allege that Anonymous posters simply prefer to hide behind anonymity when posting. This idea implies, however, that named users (with or without tripcodes) are somehow more "responsible" for their posts than their Anonymous counterparts. This is obviously untrue since online identities can be jettisoned at will and virtually nothing a user could post on 4chan would carry any real world consequences. Regardless, 4chan wouldn't be 4chan without Anonymous.
+
+=== Anonyfag ===
+Disparaging term used mostly by [[Fag#Tripfag|tripcode fags]].
+
+=== Anonymous does not forgive ===
+[[Image:ADNF Anime Screen Cap.jpg|thumb|Anonymous does not forgive and he does not forget]]
+This was started by a tripfag in response to a flame from a random Anonymous poster. The flame has been lost to time, but the response, "WATCH OUT FOR Anonymous, HE DOES NOT FORGIVE" lived on. After being macroed several times over, it was shortened to "Anonymous does not forgive". It's become less popular these days (due to the long period of [[#Forced Anonymous|Forced Anonymous]]), but is still a part of any good [[/b/]]tard's vernacular. It also appears as "Anonymous never forgets."
+
+=== Anonymous-Tripfag Wars ===
+On 05 October, 2005, a mod posting with the tripcode "!3GpYIJ3Obs" stickied a topic with the message, "This thread is a safe haven for tripcode users. All non-tripfags posting in this thread will be banned". Anonymous did not take this well and one brave soul posted "Eat shit and die" within a minute of the topic's creation. That user was promptly banned, whereby a fierce battle between mod, tripfags, namefags and Anonymous alike began. Within the first ten minutes at least thirty posts by Anonymous were made with the message "Eat shit and die" and each one was banned. Tripfags or namefags saying the same were not spared by the mod's ire, and succumbed to a similar fate as well. 
+
+Within an hour, Anonymous set up another thread for Anonymous members only. The picture featured a screenshot of the original thread and first post which was "Eat shit and die". This topic was was also stickied, and any non-Anonymous users posting in the thread were banned to balance out the first thread. "Eat shit and die" became the war cry for many Anonymous hours into the night as they charged the tripfag stronghold and were promptly banned. During this time, there was no set ban system so all bans were indefinite.
+
+Because [[/b/]]'s server was much smaller than it is today, the Anonymous thread was broken after it reached a mere five hundred posts. Anonymous rejoiced at this, for he saw this as a victory by beating the tripfag topic in numbers, though the tripfag topic was taken down before the Anonymous one. During the period of [[/b/]]'s forced Anonymous, there were no battles in the Anonymous-Tripfag Wars.
+
+=== DISREGARD THAT, I SUCK COCKS ===
+A simple but effective trolling technique imported from bash.org.<ref>{{cite web |url=http://www.bash.org/?5775 |title=Quote #5775 |publisher=bash.org}}</ref> Frequently, after someone with [[Fag#Namefag|a name but no tripcode]] posts something, the next post in that thread consists of someone else posting "DISREGARD THAT, I SUCK COCKS" under the same name. While the meme became pointless on [[/b/]] between 7/21/05 and 3/26/2007 due to the institution of [[#Forced Anonymous|Forced Anonymous]], it continued to thrive on other boards and returned to /b/ when Forced Anonymous ended. The return of Forced Anonymous to /b/ on 6/17/07 again relegated "DISREGARD THAT, I SUCK COCKS" to other boards (and other chans), where it remains a standard part of any [[Anonymous]] troll's arsenal. 
+
+=== Forced Anonymous ===
+Beginning around 7-21-05, users were no longer allowed to enter their names or use tripcodes on [[/b/]]. There could be any number of reasons why the mods chose to do this, but the usage of so called Secure Tripcodes and the increased number of flamewars between Anonymous posters and tripcode users were probably chief among them. The term "forced Anonymous" is somewhat misleading because although no one gets to use a unique handle or tripcode, the nick Anonymous doesn't show up either. After the initial change, names and tripcodes have been re-enabled for short times on several occasions.
+
+On 2007/03/26, [[moot]] removed Forced Anon while posting a letter he got from a [[/b/tard]]. He also issued the following statement:
+: "im sorry for letting [[/b/]] destroy itself. while forced_anon was cool for a while, it definitely began to suck a while back. discouraging the public banning of faggots amongst the moderators was also a mistake. unfortunately i thought letting [[/b/]] run itself entirely was a good idea...
+: it wasn't.
+: from here on out, consider yourselves on notice. it's time to /b/egin anew and wipe out the shitheads that have been ruining this wonderful board."
+
+As of 2007/06/17, Forced Anon was reinstated on [[/b/]]. The impetus for this appears to have been a perceived increase in the number of [[namefags]] and [[tripfags]], and possibly the controversial phenomenon of posting "backwards" (using a Unicode control code in the name field to make text - including board generated headings - in the post be displayed right-to-left, instead of left-to-right). Forced Anon actually went away about a month later, but this only lasted a few days before it was reinstated yet again, possibly due to [[4chan GET Encyclopedia#34 Million|34MillionGET]] being posted by a tripfag. It was also removed again for a few more days during the Attack of the Show debacle, although all names used, even Anonymous, were replaced with names of hosts of G4 shows like Adam Sessler or Morgan Webb at random. Shortly after the Attack of the Show incident died down, Forced Anon was reinstated again. 
+
+However, on 2007/09/21, Forced Anon was removed yet again. No reason has been given (and indeed it may well have been done for no reason at all, other than that [[moot]] possibly just felt like it), and it has yet to be seen how long Forced Anon will stay away this time around.
+
+=== Same person ===
+A very common response to multiple posts by [[Anonymous]] users that express similar opinions, claiming that it's actually a single person trying to make his opinion seem more popular than it really is.
+
+== Related articles ==
+* [[/b/]]
+* [[LURK MORE]]
+
+== References ==
+<references />
+
+[[Category:4chan]][[Category:Memes and Terms]]

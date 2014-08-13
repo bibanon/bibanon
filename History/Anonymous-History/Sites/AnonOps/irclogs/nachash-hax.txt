@@ -1,0 +1,74 @@
+Some time last night, some random AnonOps losers hopped in #doxbin. Observe:
+
+04:47:36 -!- wtfux254 [c7309329@wtfux-2EB5C158.mibbit.com] has joined #doxbin
+04:47:43 < wtfux254> hi all
+04:47:44 < wtfux254> lol
+04:48:09 < wtfux254> sorry but doxbin is down
+04:48:22 -!- jihad- [j@wtfux-517B314C.com] has joined #doxbin
+04:48:43 < wtfux254> 502 Bad Gateway
+04:48:43 < wtfux254> lol
+04:49:11 < wtfux254> and oh wait?  http://pastebin.com/9SHwQ8Kk
+04:49:21 < wtfux254> stop doxing Anons
+04:49:26 < wtfux254> we know who you are doxbin
+04:50:03 < jihad-> lol check out this fag
+04:51:39 < wtfux254> oh wait is doxbin aka NameBase crying?
+04:51:41 < wtfux254> aka Daniel Brandt?
+04:51:42 < wtfux254> booo hooo
+04:52:18 < jihad-> what are you even talking about
+04:52:53 < wtfux254> doxbin aka Daniel was trying to dox some of the Anons the last few days
+04:53:19 < wtfux254> his little tor site now is defaced and down
+04:53:20 < wtfux254> lol
+04:53:21 < wtfux254> http://wn323ufq7s23u35f.onion
+04:54:21 < jihad-> do you know how many times the site has gone down and came back?
+04:54:34 < jihad-> and lol @ calling him daniel. you should keep doing that. it's good disinformation
+04:58:53 < jihad-> anything else, wtfux254 
+04:58:54 < jihad-> ???
+05:01:57 < wtfux254> lol okay
+05:01:57 < wtfux254> anyways i guess we Anon's are skiddies then
+05:02:55 < wtfux254> Anony`root of #opdarknet and #operationpayback claims responsibility for this doxbin outage.  Reason, for fucking with us Anons and the oper Power2All
+05:04:13 < jihad-> who cares
+05:04:42 < jihad-> why would anyone claim responsibility for anything ever
+05:05:24 < jihad-> only morons do that. morons and people trying to pin stuff on other people
+05:06:00 < wtfux254> cuz i'm a skiddie duuuh
+05:06:37 < jihad-> so then you're anony`root? why not just come in here as yourself
+05:07:14 < wtfux254> i'm just a messanger
+05:07:15 < wtfux254> duh
+05:08:32 < jihad-> so would you call this an anti-anti-antisec hack
+05:09:24 < wtfux254> isn't that a oxymoron?
+05:10:06 < jihad-> hmm i'm not sure that's how one would use the term oxymoron, but i'll just give that to you
+05:10:13 < jihad-> also
+05:10:18 < jihad-> if you guys know who runs doxbin
+05:10:22 < jihad-> you should drop his dox
+05:10:35 < jihad-> it would make a lot more sense than just temporarily fuxin his site
+05:11:20 < wtfux254> okay noted :)
+05:11:41 < jihad-> that aside, do you think that perpetuating some sort of silly e-battle is a good way to end an e-battle?
+05:12:14 < jihad-> seems like attacking someone and making requests at the same time is less diplomatic and more half-cocked and just done because it can be done
+05:12:42 < jihad-> which is in itself a worthy reason. why not do something if ou can do it? but there is politics to this so that doesnt cut it i guess :(
+05:12:58 < wtfux254> yep :) but noted.  thanks jihad
+05:13:03 -!- wtfux254 [c7309329@wtfux-2EB5C158.mibbit.com] has quit [client exited: http://www.mibbit.com ajax IRC Client]
+05:13:07 < jihad-> lol
+05:24:57 -!- wtfux033 [c7309329@wtfux-2EB5C158.mibbit.com] has joined #doxbin
+05:28:49 < wtfux033> hi Evan Mitchell
+05:29:19 < wtfux033> sorry i mean nachash @ 2600
+05:29:21 < wtfux033> xD
+05:58:21 -!- wtfux033 [c7309329@wtfux-2EB5C158.mibbit.com] has quit [client exited: http://www.mibbit.com ajax IRC Client]
+06:09:19 -!- wtfux688 [c7309329@wtfux-32B43070.mibbit.com] has joined #doxbin
+06:09:52 < wtfux688> hi jihad-: here is teh dox you want: http://pastebin.com/JypYwxBr
+06:12:49 -!- wtfux688 [c7309329@wtfux-32B43070.mibbit.com] has quit [client exited: http://www.mibbit.com ajax IRC Client]
+
+
+First of all, Daniel Brandt? SERIOUSLY? HAHAHAHAHAHAHAHAHAHAHAHHAAHHAAHOSDHSDIJDSFKMSDKLHJNKJF
+
+You guys are utterly worthless, even as a collective. I've put in more work on doxing Brandt and all his followers than everybody else combined. I refer you to doxbin #1, #4, and especially #5. Go ahead. The shit's both on my site (Which is back up, by the way) and pastebin. What actual proof do you have that I'm Brandt? The complaint number at the bottom of the page? I put his home number there because he tried getting me TOS'd through CloudFlare. It's my way of being a snarky fuck, but I suppose your collective autism prevents you from seeing the joke.
+
+Next point: Defaced? lol, no. I checked the configs, and all the pages. Everything is clean. My custom 404 page != defaced. Thanks for posting the text up, by the way. It's a good bit of copypasta I yanked from the canthack.us ddos a few months back. All you big heckers reading this can view my 404 page at: http://wn323ufq7s23u35f.onion/404.html It's gotten a couple of changes since #OpDarknet pasted its text. By the way, I'm sure the people who are actually packeting your fed honeypot are loling themselves to death right now, because you think I'm somehow responsible for the fact that Power2All is a failure of a sysadmin.
+
+Speaking of Power2All, I've decided that in honor of this momentous occasion, I should post the p2a research I've been sitting on since December: http://wn323ufq7s23u35f.onion/doxviewer.php?dox=Power2All It only differs slightly from what BR1CKSQU4D released, which is why I didn't dump it on 11/5. By the way, tell iowa_is_iowa on skype that I'm coming. It may not be today, or even this month, but the BFDC-9000 is being charged up. Nothing will be left but his shoes, when it's all said and done. Watch this space for impending dox-based ruin: http://wn323ufq7s23u35f.onion/doxviewer.php?dox=owen
+
+As for the actual attack: Congrats, you can right-click/view source/copy/paste my 502 errors. All you did was accidentally all the RAM with a bunch of POST requests. I'll be doing some performance tuning soon enough, and then I'll hop in #opdarknet myself (Since I'm not some punk bitch like root, I don't need "messengers") and ask you kids to test it out for me. How's that sound?
+
+Last point: You found dox on some dude who shares a shellbox with a few dozen people, and called it a day? This smells more like OpDarknet fail than CabinCr3w win to me. OpDarknet has proven itself utterly incompetent at every turn, and this does nothing except continue that pattern. OMGZ I CAN CTCP!!!!11oNE2iej3!!! Shut the fuck up. Leave the docs drops to people who know what they're doing, and go home. 
+
+As I sit atop my sky-fortress, I've come to realize how truly unassailable I am. Come at me, AnonOps. Try not to choke on the smoke, or break too many mirrors.
+
+- nachash

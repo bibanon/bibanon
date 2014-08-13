@@ -1,0 +1,11 @@
+Some people have created a JavaScript that, when running, spams itself across imageboards or forums. Originally it was in the form of text. Then it was flipped backwards to make it less obvious. Now it's in the form of a .gif image. Some anons have viewed the script in Notepad and discovered its full terrifying effects. It flushes your DNS, it puts copies in your system32 folder (which means that if you run it you must delete this folder), and it uses a host of infuriating tricks to get itself onto [[4chan]].
+
+== 4chan's JS Attack ==
+=== The Text ===
+My name is Anonymous. I am a survivor living on the internet. I am broadcasting on all [[/b/]] frequencies. I will be at the page 0 everyday at mid-day, when the GMT timezone reads 12:00. If you are out there... if anyone is out there... I can provide images, I can provide conversation, I can provide companionship. If there's anybody out there... anybody... please. You are not alone.
+
+=== The Perpetrators ===
+It is still unknown who has committed this crime and caused the apocalypse of [[/b/]]. Was it deluded oldfags, thinking it would eliminate the cancer? Was it one of [[/b/]]'s previous victims? Was it one of the other boards? Only they know.
+
+
+[[Category:4chan]][[Category:Internet]]

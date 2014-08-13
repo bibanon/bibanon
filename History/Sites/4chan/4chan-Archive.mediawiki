@@ -1,0 +1,160 @@
+{{Infobox project
+| title = 4chan
+| image = 4chan.png
+| URL = [http://4chan.org 4chan.org]
+| description = Content is not officially archived, but some sites take up the effort. However, those very sites are often themselves in danger of collapse.
+| project_status = {{online}}
+| archiving_status = **Special Case**
+}}
+
+4chan is said to be one of the most culturally significant and "interesting" websites in existence. And it holds that reputation well.
+
+It would be impossible to archive the entirety of 4chan, and the community usually frowns upon saving culture just as Ancient Greeks were skeptical of written works.
+
+However, numerous archive sites and wikis have taken up the task. Numerous others have fallen. We need to keep watch on these fragile, community supported archives, since they can easily collapse without warning.
+
+== Wikis ==
+
+* '''[[Wikichan]]''' - The first major 4chan wiki, holding tons of important stories and content. It is the model for many 4chan archive projects to come. The entire wiki collapsed spectacularly several times without recourse, and is the prime example of the problems that occur when a major 4chan archive goes down.
+* '''[[LURKMOAR Wiki]]'''
+* '''[[Encyclopedia Dramatica]]''' - The quintessential 4chan wiki.
+* '''[[Insurgency Wiki]]''' - Once, it was almost equal to ED in power and influence. Now, thousands of collapses and failures have reduced it to a broken mess. It would have been gone entirely if it was not for the Bibliotheca Anonoma, which happened to be examining Partyvan.info 2 days before it's collapse.
+* '''[https://github.com/bibanon/bibanon/wiki Bibliotheca Anonoma]''' - A wiki designed to save the greatest treasures from around the internet. It strives to provide an index to the archives below to assess their value and display great works to the public. Because what good is a massive mess of information without a guide? 
+* '''Yotsuba Society''' - A place dedicated to studying the culture of 4chan. Maintains a wiki that strives to restore Wikichan to it's former state.
+
+== Chanarchive ==
+
+{{Infobox project
+| title = Chanarchive (formerly 4chanarchive)
+| image = chanarchive.png
+| URL = [http://chanarchive.org Chanarchive.org], formerly [http://4chanarchive.org 4chanarchive.org]
+| project_status = {{offline}}
+| archiving_status = {{nosavedyet}}
+}}
+
+4chan's primary archive site. Since 2006, significant 4chan threads have been archived on the 4chanarchive, creating a database of over 500GBs.
+
+On 10/3/2012, Chanarchive shut down permanently without warning. On a 4chan thread, the owner stated that the site was banned from paypal and had their funds frozen, making it impossible to pay it's massive expenses.
+
+The owner is amenable to making backups available for other anons to continue on, but nothing has surfaced as of yet.
+
+== Fuuka-based Archivers ==
+
+Fuuka is a special imageboard backend that allows servers to archive entire boards on 4chan.
+
+=== Foolz Verbatim 4chan Board Archive ===
+
+{{Infobox project
+| title = Foolz.us 4chan Board Archive
+| image = foolz.jpg
+| URL = [http://archive.foolz.us Foolz.us]
+| project_status = {{online}}
+| archiving_status = {{nosavedyet}}
+}}
+
+The Foolz archive is the latest incarnation of a constant effort to archive entire 4chan boards, 24/7. This has not always gone smoothly; the archives on Foolz descend from another Fuuka-based archiver that went down and nearly lost all their threads.
+
+It would be a good idea to persuade them to upload content to the Internet Archive, just in the likely case that the same disaster will befall them.
+
+Due to archives being maintained by small groups or one person, and archive software being open-source, new archives may pop up and existing archives may change or disappear
+
+=== Suptg.thisisnotatrueending.com ===
+
+Status: '''Online'''
+
+A Fuuka archiver for 4chan's /tg/.
+
+=== List of Fuuka Archivers by board ===
+
+An incomplete list can be found [http://archive.easymodo.net/ here].
+
+*[http://archive.4plebs.org 4plebs.org]
+** /hr/
+** /tg/
+** /tv/
+** /x/
+
+*[http://archive.foolz.us Foolz.us]
+** /a/
+** /tg/
+** /co/
+** /jp/
+** /m/
+** /q/
+** /sp/
+** /tv/
+** /vr/
+** /wsg/
+
+*[http://archive.foolzashit.com foolzashit.com]
+** /adv/
+** /asp/
+** /cm/
+** /e/
+** /i/
+** /lgbt/
+** /n/
+** /o/
+** /p/
+** /s/
+** /s4s/
+** /t/
+** /trv/
+** /y/
+
+*[http://archive.heinessen.com heinessen.com]
+** /an/
+** /fit/
+** /k/
+** /mlp/
+** /r9k/
+** /toy/
+** /x/
+
+*[http://archive.installgentoo.net Installgentoo.net]
+** /diy/
+** /g/
+** /sci/
+
+* [http://archive.nyafuu.org nyafuu.org]
+** /c/
+** /w/
+** /wg/
+
+*[http://archive.rebeccablacktech.com Rebeccablacktech.com]
+** /cgl/
+** /g/
+** /mu/
+** /soc/
+** /w/
+
+*[http://archive.thedarkcave.org thedarkcave.org]
+** /c/
+** /int/
+** /out/
+** /po/
+
+*[http://fuuka.warosu.org Warosu.org]
+** /3/
+** /cgl/
+** /ck/
+** /fa/
+** /ic/
+** /jp/
+** /lit/
+** /lit/
+** /q/
+** /s4s/
+** /tg/
+** /vr/
+
+*[http://loveisover.me loveisover.me]
+** /v/
+** /h/
+** /d/
+
+*[http://nth.pensivenonsen.se pensivenonsen.se]
+** /vg/
+
+*[http://suptg.thisisnotatrueending.com Suptg.thisisnotatrueending.com]
+** /tg/
