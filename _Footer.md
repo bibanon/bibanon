@@ -1,1 +1,0 @@
-Bibliotheca Anonoma
