@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/UkgBKok.png" alt="BA Logo" height="200" width="200"> 
+[[traditional-square-kufic-ba-logo.png|alt="BA Logo"|height=200px|width=200px]]
 
 Bibliotheca Anonoma
 ===================
