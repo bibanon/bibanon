@@ -1,4 +1,4 @@
-> **Notice:** The full Bibliotheca Anonoma has been restored. Previously, crippling issues with Gollum caused strange bugs in large wikis.
+> **Notice:** The full Bibliotheca Anonoma has been restored. Previously, [crippling issues with Gollum caused strange bugs in large wikis.](https://github.com/bibanon/bibanon/issues/8)  
 > The plan for the future is to migrate the static content to [the new website](http://bibanon.github.io), with the wiki as a publicly editable workroom, where anyone can add in the latest stories.
 
 The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to collect, document, and safeguard the products and history of internet culture; which constitutes **the shared experience of mankind on a network that defines our lives**. 
