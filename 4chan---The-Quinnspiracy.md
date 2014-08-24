@@ -67,6 +67,160 @@ Quick and dirty timeline, imported every day from Google Docs.
 
 * **2013-02-14 **- Depression Quest, developed by The Quinnspiracy, is released. Praise from several vidya news outlets follow. Critics of the game are labelled misogynists by said outlets and journalists, and the shitstorm begins.
 
+## General Report
+
+*General description about the incident for people to get up to date; because things move fast*
+
+*(quick and dirty intro, needs more work)* 
+
+Five Guys. Zoe Quinn screwed with Five Guys. True, scandalous relationships is hardly anyone else's business. 
+
+But as proven from time immemorial: sex can be a potent force for manipulation. And what Zoe did was to use sly tactics to exploit the rampant corruption that exists in the game journalism industry.
+
+*(write something about the uncovering of rampant corruption in the game industry as a result. Make sure you have solid sources. 10/10 IGN)*
+
+This scandal is hardly an isolated incident... *(Insert words here)*
+
+*(write about Zoe's false and fabricated accusations of Wizardchan raiding her)*
+
+*(write about Zoe's suppression of TFYC in favor of her own non charity effort)*
+
+After discovering that Zoe tried to crush TFYC, /v/ and /pol/ launched Operation Chemo to fund the TFYC she hated so much; to bring attention to Zoe’s blatant hypocrisy; and most of all, to fight back against Zoe in a way that prevents 4chan from playing into her hands.
+
+When TFYC recommended that /v/ create a new game character for them as a token of support; /v/ came up with a bunch of unsavory designs, until they eventually decided on the one that looked the most normal; Vivian James. 
+
+The design of Vivian James gained resounding support for being utterly atypical of 4chan, and /v/ quickly adopted her as their musume (daughter).
+
+Operation Chemo has currently hit an unexpected rut after TFYC’s Indiegogo was hacked by unknown forces on 8/24, throwing the entire project into disarray. 
+
+*"United we stand. Divided we fall."*
+
+## Culprits
+
+*Who is directly linked to the incident and why.*
+
+*[http://i.imgur.com/yWRj13X.jp*g](http://i.imgur.com/yWRj13X.jpg)
+
+### Zoe Quinn
+
+"Zoe Quinn" is an alias; her real name is Chelsea van Valkenburg, descended from a Dutch merchant family that has connections to the Roosevelts. (/pol/ must have had a field day when they heard this)
+
+She gets tons of money from her patreon. Such loyal fans.
+
+### The Five Guys
+
+![image alt text](image_0.png)
+
+The Five Guys that Zoe had relations with. (need all their names, position, and quick descriptions)
+
+1. Nathan Grayson
+
+    1. Writer at Kotaku, 
+
+2. Robin Arnott
+
+3. Guy #3
+
+4. Guy #4
+
+5. Guy #5
+
+### Journalists
+
+*Journalists or other major people in power implicated in the incident.*
+
+* Kotaku - [http://i.imgur.com/AInvxeR.jpg](http://i.imgur.com/AInvxeR.jpg)
+
+* Zoe Quinn’s affiliates - [http://i.imgur.com/qTGiVcE.jpg](http://i.imgur.com/qTGiVcE.jpg)
+
+**## Reactions**
+
+*What communities, websites, or organizations have done in response.*
+
+### 4chan /v/
+
+* /v/ funds TFYC, a charity effort crushed by Zoe Quinn in the past
+
+    * SJW Backlash against TFYC for "collaborating with the enemy"
+
+* Unknown hacker calling himself "The top mod of /V/" closes the Indiegogo page
+
+### Vivian James
+
+![image alt text](image_1.png)
+
+* The Birth of Vivian James
+
+    * [http://www.reddit.com/r/4chan/comments/2ebnqt/v_makes_a_new_character_vivian_james/](http://www.reddit.com/r/4chan/comments/2ebnqt/v_makes_a_new_character_vivian_james/)
+
+* Image detailing the birth - [http://i.imgur.com/E7XZaKz.png](http://i.imgur.com/E7XZaKz.png)
+
+More info about this can be found at [http://knowyourmeme/memes/vivian-james](http://knowyourmeme/memes/vivian-james) (yes, seriously)
+
+#### Backlash on /v/
+
+* Obviously, not all of /v/ supports this campaign, and some hold suspicions of immigrants from Reddit and Tumblr. (but remember, divided we fall)
+
+* Whether Uppercase-/V/ is actually from 4chan’s /v/, or just the Five Guys trying to start shit (or both), will be seen.
+
+### 4chan /pol/
+
+* /pol/ is attempting to contact the Daily Mail to publish this scandal
+
+* Zoe Quinn’s real name is Chelsea Van Valkenburg, a family descended from Dutch merchants and with connections to the Roosevelt family (source)
+
+**### Others who spoke out**
+
+* Reddit /r/gaming
+
+* Funnyjunk
+
+* John "TotalBiscuit" Bain 
+
+* TFYC
+
+* Mundane Matt
+
+* Ken Ashcorp 
+
+* Internet Aristocrat
+
+* JonTron
+
+* Grant Kirkhope
+
+## Censorship
+
+A few moderators of major forums have deleted any threads relating to the Zoe Quinn incident.
+
+Various reasons could be at play, including white knighting, sincere belief in Zoe's accusations of wrongdoing, anti-spam bots gone wrong, or god knows what.
+
+Whatever the case, this incident has uncovered unsettling cases of heavy handed moderation, and revealed the moderators' unelected power as the gatekeeper of information.
+
+* Reddit /r/gaming
+
+    * Reddit mod admits to coercion [http://imgur.com/a/NLd8W/layout/blog](http://imgur.com/a/NLd8W/layout/blog) 
+
+* 4chan
+
+    * Not sure about censorship here, we can never really tell with all the spamming and automatic moderation bots.
+
+    * Some unsourced accusations of a policy to "protect individuals" (see under False Reports)
+
+### False Reports
+
+*It is important to differentiate the truth from the lies. Even a few misinterpretations will undermine the public’s support. If anything has been confirmed false, post it here.*
+
+* **Alleged YouTube DMCA by Zoe Quinn** - Maybe her, maybe not. Any idiot can launch a DMCA. That’s how screwed up the system is.
+
+    * MundaneMatt claims that it was the same email she uses on other sites [here](http://youtu.be/tJZPzke6fDo?t=2m).
+
+* **/d/ mod -**** **Some moderator of /d/ claimed that Moot instructed the moderation team to "defend" persecuted individuals by deleting threads. This is doubtful, for mods are not board specific. (also needs source)
+
+## Sources
+
+Please reference all important trustworthy sources regarding the incident (ie links to the Twitter posts, blog posts, etc).
+
 ## 4chan Threads
 
 Keep a record of 4chan project threads here, and read through them to gain more information to put into the report.
