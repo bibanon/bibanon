@@ -5,7 +5,8 @@ Bibliotheca Anonoma
 
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
-* [[Editing]]
+  * [[Editing]]
+  * [[Useful Tools]]
 * [[Current projects]]
 * [[Culturally Important Treasures]]
 * [Edit this Sidebar](https://github.com/bibanon/bibanon/wiki/_Sidebar/_edit)
