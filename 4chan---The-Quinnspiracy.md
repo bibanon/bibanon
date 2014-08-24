@@ -10,9 +10,15 @@ As the situation goes on, we are going to need a solid, well sourced report of a
 
 Quick and dirty timeline, imported every day from Google Docs.
 
-* **2014-08-24** - A thread on /v/ made by an anon is stickied and closed, where a mod claim "*Your threads aren't being deleted because of the content. Your threads are being deleted because they are being spammed. Check the catalog before making a new thread about this topic."  */v/259588169 is the sticky. Mods just doing what they’re supposed to. Maybe.
+* **2014-08-31 - **Possible protest at PAX (NOON)
 
-* **2014-08-24 -** TFYC’s Indiegogo account hacked and made to look like it was closed. The culprit is unknown, but their current name is *allegedly* /V/ (sic).
+* **2014-08-30 - **Possible protest at PAX (NOON)
+
+* **2014-08-29 - **Possible protest at PAX (5PM)
+
+* **2014-08-24 **- A thread on /v/ made by an anon is stickied and closed, where a mod claims "*Your threads aren't being deleted because of the content. Your threads are being deleted because they are being spammed. Check the catalog before making a new thread about this topic."  */v/259588169 is the sticky. Mods doing what they’re supposed to. Maybe.
+
+* **2014-08-24 -** TFYC’s Indiegogo account hacked and made to look like it was closed. The culprit is unknown, but their current name is *allegedly* Uppercase-/V/ (sic).
 
     * Screenshot before it was shut down: [http://i.imgur.com/ITgvUXB.jpg](http://i.imgur.com/ITgvUXB.jpg)
 
@@ -24,7 +30,7 @@ Quick and dirty timeline, imported every day from Google Docs.
 
     * TFYC is supposedly contacting support, but it’s Sunday in the USA, so it can take a while. Great timing for the fucking hackers.
 
-    * TFYC’s Twitter is also compromised soon after. /v/ also begins having doubts about TFYC after they *allegedly* announced that [Vivian James t-shirt](http://i0.kym-cdn.com/photos/images/original/000/817/256/b98.jpg) would go towards iFred, a charity that Zoe Quinn had supported. 
+    * TFYC’s Twitter might be compromised as well. too early to tell right now.  /v/ also begins having doubts about TFYC after they *allegedly* announced that [Vivian James t-shirt](http://i0.kym-cdn.com/photos/images/original/000/817/256/b98.jpg) would go towards iFred, a charity that Zoe Quinn had supported.  
 
 * **2014-08-23 - **With no new shitstorms on Twitter and with a new daughter to play with, /v/ spends the day circlejerking about Vivian. Discussions are also had.
 
@@ -52,7 +58,9 @@ Quick and dirty timeline, imported every day from Google Docs.
 
 * **2014-08-17** - A year and a half later, Zoe’s ex-boyfriend, Eron, makes "The Zoe Post" speaking out against her. Mundane Matt makes a video about the issue, which is later removed in a false DMCA claim by Zoe Quinn herself. Ouren reveals on Twitter that he was sexually harassed by Quinn, and is silenced by Phil Fish.
 
-* **2013-02-14** - Depression Quest, developed by The Quinnspiracy, is released. Praise from several vidya news outlets follow. Critics of the game are labelled misogynists by said outlets and journalists, and the shitstorm begins.
+* **<Wizard-chan gets blamed date, information, etc.>**
+
+* **2013-02-14 **- Depression Quest, developed by The Quinnspiracy, is released. Praise from several vidya news outlets follow. Critics of the game are labelled misogynists by said outlets and journalists, and the shitstorm begins.
 
 ## 4chan Threads
 
