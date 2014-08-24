@@ -1,6 +1,6 @@
-## General Report
-
 *General description about the incident for people to get up to date; because things move fast*
+
+### Introduction
 
 > **Corruption**  
 > _noun: **corruption**; plural noun: **corruptions**_  
@@ -15,13 +15,19 @@ Well, when you add greed with a pinch of dishonesty to a powerful position, you 
 
 This is what has happened to the Game Journalism Industry. One woman gave benefits to Five Guys _(Editor’s Note: literally five different men, not a burger joint)_, in exchange for backing her less than stellar game. When readers criticized the practice, they were shunned or silenced by the Five Guys.
 
-*(write something about the uncovering of rampant corruption in the game industry as a result. Make sure you have solid sources. 10/10 IGN)*
+### Zoe Quinn's History
 
 This scandal is hardly an isolated incident... *(Insert words here)*
 
 *(write about Zoe's false and fabricated accusations of Wizardchan raiding her)*
 
 *(write about Zoe's suppression of TFYC in favor of her own non charity effort)*
+
+### The Incident
+
+*(write something about the uncovering of rampant corruption in the game industry as a result. Make sure you have solid sources. 10/10 IGN)*
+
+### 4chan's Campaign to Back TFYC
 
 After discovering that Zoe tried to crush TFYC, /v/ and /pol/ launched Operation Chemo to fund the TFYC she hated so much; to bring attention to Zoe’s blatant hypocrisy; and most of all, to fight back against Zoe in a way that prevents 4chan from playing into her hands.
 
