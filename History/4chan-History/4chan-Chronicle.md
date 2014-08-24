@@ -4,7 +4,7 @@
 
 The site influenced a new generation of major Internet figures and coders, continues to birth to memes that are now common staples on most major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
 
-This article has the goal of detailing the complete history of 4chan in the format of a conventional college-level history book. As of now, it includes a summary of the site's history down to it's foundation in October 1, 2003 and an extensive [[4chan Timeline|4chan History Timeline]].
+This Chronicle is designed to create a serious, well sourced history book about this ephermeral community. As of now, it includes a summary of the site's history down to it's foundation in October 1, 2003 and an extensive [[4chan Timeline|4chan History Timeline]].
 
 ## Ages of 4chan
 
