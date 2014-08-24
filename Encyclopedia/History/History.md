@@ -34,9 +34,9 @@ The articles linked on this page is a fraction of the pages we actually have. Pl
 
 ### 4chan
 
+* [[4chan Chronicle]] - The epic story of one of the most interesting(ly controversial) communities ever to exist on the Internet.
 * [[4chan History Timeline]] - A nice, though somewhat incomplete timeline of how 4chan developed. Written by a random redditor, it was narrowly saved from being lost with the second [[Wikichan|Wiki#Wikichan]], and now resides here.
 * [[4chan]] - A better article on how and why 4chan and it's community grew, and how it became so influential to modern internet culture today.
-* [[4chan History]] - A blogger's take on the history of 4chan.
 
 ### Other Chans
 
