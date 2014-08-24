@@ -2,11 +2,16 @@
 
 *General description about the incident for people to get up to date; because things move fast*
 
-*(quick and dirty intro, needs more work)* 
+> Corruption
+> noun: **corruption**; plural noun: **corruptions**
+> 1. dishonest or fraudulent conduct by those in power, typically involving bribery.
+"the journalist who wants to expose corruption in high places"
 
-Five Guys. Zoe Quinn screwed with Five Guys. True, scandalous relationships is hardly anyone else's business. 
+Corruption has been with us since the dawn of civilization. It is the bane of our society, sowing the seeds of distrust, and robbing from the people. Some people believe that “money is the root of all evil”. Others look deeper and understand that “greed is the root of all evil”. 
 
-But as proven from time immemorial: sex can be a potent force for manipulation. And what Zoe did was to use sly tactics to exploit the rampant corruption that exists in the game journalism industry.
+Well, when you add greed with a pinch of dishonesty to a powerful position, you get a man who can tweak the systems of our society to give an unfair and undeserved advantage.
+
+This is what has happened to the Game Journalism Industry. One woman gave benefits to Five Guys _(Editor’s Note: literally five different men, not a burger joint)_, in exchange for backing her less than stellar game. When readers criticized the practice, they were shunned or silenced by the Five Guys.
 
 *(write something about the uncovering of rampant corruption in the game industry as a result. Make sure you have solid sources. 10/10 IGN)*
 
