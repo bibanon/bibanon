@@ -4,7 +4,7 @@ Under construction. [Check the Google Docs for now.](https://docs.google.com/doc
 
 Quick and dirty timeline, imported every day from Google Docs.
 
-* **2014-08-24 **- A thread on /v/ made by an anon is stickied and closed, where a mod claim "*Your threads aren't being deleted because of the content. Your threads are being deleted because they are being spammed. Check the catalog before making a new thread about this topic."  */v/259588169 is the sticky. Mods just doing what they’re supposed to. Maybe.
+* **2014-08-24** - A thread on /v/ made by an anon is stickied and closed, where a mod claim "*Your threads aren't being deleted because of the content. Your threads are being deleted because they are being spammed. Check the catalog before making a new thread about this topic."  */v/259588169 is the sticky. Mods just doing what they’re supposed to. Maybe.
 
 * **2014-08-24 -** TFYC’s Indiegogo account hacked and made to look like it was closed. The culprit is unknown, but their current name is *allegedly* /V/ (sic).
 
@@ -46,4 +46,4 @@ Quick and dirty timeline, imported every day from Google Docs.
 
 * **2014-08-17** - A year and a half later, Zoe’s ex-boyfriend, Eron, makes "The Zoe Post" speaking out against her. Mundane Matt makes a video about the issue, which is later removed in a false DMCA claim by Zoe Quinn herself. Ouren reveals on Twitter that he was sexually harassed by Quinn, and is silenced by Phil Fish.
 
-* **2013-02-14 **- Depression Quest, developed by The Quinnspiracy, is released. Praise from several vidya news outlets follow. Critics of the game are labelled misogynists by said outlets and journalists, and the shitstorm begins.
+* **2013-02-14** - Depression Quest, developed by The Quinnspiracy, is released. Praise from several vidya news outlets follow. Critics of the game are labelled misogynists by said outlets and journalists, and the shitstorm begins.
