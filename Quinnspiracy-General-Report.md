@@ -7,7 +7,9 @@
 > _1. dishonest or fraudulent conduct by those in power, typically involving bribery._  
 > _"the journalist who wants to expose corruption in high places"_  
 
-Corruption has been with us since the dawn of civilization. It is the bane of our society, sowing the seeds of distrust, and robbing from the people. Some people believe that “money is the root of all evil”. Others look deeper and understand that “greed is the root of all evil”. 
+Corruption has been with us since the dawn of civilization. It is the bane of our society, sowing the seeds of distrust, and robbing from the people. 
+
+Some people believe that “money is the root of all evil”. Others look deeper and understand that “greed is the root of all evil”. 
 
 Well, when you add greed with a pinch of dishonesty to a powerful position, you get a man who can tweak the systems of our society to give an unfair and undeserved advantage.
 
