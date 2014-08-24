@@ -2,7 +2,7 @@
 
 This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal has severe implications on the video game journalism industry, and even reveals a troubling insight into the power of forum moderators as gatekeepers of information. 
 
-In response to Zoe Quinn’s false smears about raids against her, and rampant systematic censorship; 4chan’s /v/ and /pol/ , along with other websites (yes, le Reddit) have launched united campaigns to protest the scandal, in a unique new way.
+In response, 4chan’s /v/ and /pol/ , along with other websites (yes, le Reddit) have launched united campaigns to protest the scandal, in a unique new way.
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
 
@@ -12,10 +12,16 @@ After this ordeal is over and done, people are going to want to know what happen
 
 ## Pages
 
-* [[General Report|Quinnspiracy General Report]]
-* [[Timeline of Events|Quinnspiracy Timeline]]
-* [[Quinnspiracy Culprits]]
-* [[Quinnspiracy Censorship]]
-* [[Quinnspiracy Reactions]]
+* [[General Report|Quinnspiracy General Report]] - (under construction) General description of the entire scandal and it's aftermath.
+* [[Timeline of Events|Quinnspiracy Timeline]] - Timeline of events, just like a news blog.
+
+### Dossier
+
+* [[Culprits|Quinnspiracy Culprits]] - The people behind the scandal.
+* [[Quinnspiracy Censorship]] - A few moderators on major internet forums have reacted to the scandal by deleting threads about the topic. It's not as far-fetched as it sounds, since there are a wealth of plausible, well sourced reasoning behind such actions. However, it really goes to show just how much moderators influence the flow of information on the internet. 
+* [[Community Reaction to the Quinnspiracy|Quinnspiracy Reactions]] - What internet communities have done in response.
+
+### Sources
+
 * [[Quinnspiracy Sources]]
 * [[Quinnspiracy 4chan Threads]]
