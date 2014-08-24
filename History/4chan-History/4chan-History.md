@@ -1,3 +1,5 @@
+![](http://i.imgur.com/JyBuRUP.png)
+
 [[4chan]] is hands-down one of the most interesting and influential websites ever created. It functions as the America of popular culture on the Internet, the ultimate source for most the Internet's memes and a beacon of anonymity, and honest discussion in a world that is becoming more socially invasive.
 
 The site influenced a new generation of major Internet figures and coders, continues to birth to memes that are now common staples on most major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
