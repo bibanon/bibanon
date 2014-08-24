@@ -6,7 +6,7 @@ This article has the goal of detailing the complete history of 4chan in the form
 
 ## Ages of 4chan
 
-4chan's history can be divided into concurrent periods, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, ranging from old Internet communities such as [[Something Awful]] and "sister" sites like [[YTMND]] to Net Neutrality, anti-censorship activists and casual, Internet-oblivious Facebook users.
+4chan's history can be divided into concurrent eras, like that of Japanese history. Each era was dominated by different immigrant groups from other websites, ranging from old Internet communities such as [[Something Awful]] and "sister" sites like [[YTMND]] to Net Neutrality, anti-censorship activists and casual, Internet-oblivious Facebook users.
 
 Mind that the names of each age, while named considering the perceived posting quality of the era, is highly relative, and to some, the time period might not add up at all with the name.
 
@@ -23,11 +23,12 @@ Mind that the names of each age, while named considering the perceived posting q
   * At this point, [[Anonymous]]'s history permanently divests itself of 4chan history, and it is treated as an independent community. It continues on [[Anonymous History]].
 * Back at 4, the population of 4chan mellows out in aggressively but not in interventionism. The would devise many pranks and small hacks all around the Internet, including getting moot named as Time's Person of the Year on 2009 and raiding Jessi Slaughter and getting her to go to Good Morning America!.
 * [[Meme Faces - The Second Newfag Summer|4chan - Meme Faces]] _(Late 2011 - Early 2012)_ - The Internet as a whole began to enter a new era, one where everyone is connected and constantly exposed to it. Internet culture, no longer a thing for a bunch of kids that spend too much time at home in their computers, became exposed to the masses and became massively popular. The golden age for content agreggators, the extreme commercialization of Internet - and 4chan's - culture led to a massive loss in content quality, no longer produced only at 4chan, and a complete outrage on the eyes of 4channers. With the Internet as a whole changing structure, seeing a revitalized use by companies and the government. These where crucial years where it's changes would change the face of the Internet for all.
-* [[The Facebook Age|4chan - The Facebook Age]] _(2012 - Present)_ With the Internet in the mainstream, 4chan saw its population change to a more relaxed people who preferred discussion and in house content rather than stepping in the toes of other websites. The change brought it's negative points, with people in general becoming much more sensible and incapable of ignoring things they didn't like - A completely radical attitude compared to the live and let live approach the Netizens have used since the early 90s. One of the greatest points of this age if perhaps the sheer amount of content created by 4channers.
+* [[The Reactionary Era|4chan - The Facebook Age]] _(2012 - 2014)_ With the Internet in the mainstream, 4chan saw its population change to a more relaxed people who preferred discussion and in house content rather than stepping in the toes of other websites. The change brought it's negative points, with people in general becoming much more sensible and incapable of ignoring things they didn't like - A completely radical attitude compared to the live and let live approach the Netizens have used since the early 90s. One of the greatest points of this age if perhaps the sheer amount of content created by 4channers.
+* [[Zoe Quinn Scandal - Vivian James Revolution|4chan - Vivian James Revolution]] _(2014 - Present)_
 
 ## Sources
 
-One of Bibanon's most precious resources. Many of the sites that talk about 4chan are close to 10 years old, most of them completely abandoned. If you want to help archiving 4chan's history, saving these sites would be the best thing to do.
+One of the BA's most precious resources. Many of the sites that talk about 4chan are close to 10 years old, most of them completely abandoned. If you want to help archiving 4chan's history, archiving these sites would be the best thing to do.
 
 ### Major Sources
 
