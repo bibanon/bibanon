@@ -2,10 +2,10 @@
 
 *General description about the incident for people to get up to date; because things move fast*
 
-> Corruption
-> noun: **corruption**; plural noun: **corruptions**
-> 1. dishonest or fraudulent conduct by those in power, typically involving bribery.
-"the journalist who wants to expose corruption in high places"
+> **Corruption**  
+> noun: **corruption**; plural noun: **corruptions**  
+> 1. dishonest or fraudulent conduct by those in power, typically involving bribery.  
+> "the journalist who wants to expose corruption in high places"  
 
 Corruption has been with us since the dawn of civilization. It is the bane of our society, sowing the seeds of distrust, and robbing from the people. Some people believe that “money is the root of all evil”. Others look deeper and understand that “greed is the root of all evil”. 
 
