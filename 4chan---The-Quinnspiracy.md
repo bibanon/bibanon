@@ -46,7 +46,3 @@ Whatever the case, this incident has uncovered unsettling cases of heavy handed 
     * MundaneMatt claims that it was the same email she uses on other sites [here](http://youtu.be/tJZPzke6fDo?t=2m).
 
 * **/d/ mod -**** **Some moderator of /d/ claimed that Moot instructed the moderation team to "defend" persecuted individuals by deleting threads. This is doubtful, for mods are not board specific. (also needs source)
-
-## Sources
-
-Please reference all important trustworthy sources regarding the incident (ie links to the Twitter posts, blog posts, etc).
