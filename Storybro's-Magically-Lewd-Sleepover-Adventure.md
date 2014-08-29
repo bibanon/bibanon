@@ -83,4 +83,4 @@ A second story was started, may 17th. The page can be found here [[Storybro's Ma
 * [Storybro's Google Doc](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
 * [Published Document (Secondary Backup: Use this if the first document is down)](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/pub)
 * [ASSTR Secondary text-only story host (For mobile devices)](http://www.asstr.org/files/Authors/Storybro/)
-* [TV Tropes Page](http://tvtropes.org/pmwiki/pmwiki.php/WebOriginal/StorybrosMagicallyLewdSleepoverAdventure)
+* [TV Tropes Page](http://tvtropes.org/pmwiki/pmwiki.php/Literature/StorybrosMagicallyLewdSleepoverAdventure)
