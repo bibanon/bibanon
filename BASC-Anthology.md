@@ -11,11 +11,17 @@ A "Let's Play" is a playthrough of a video game that is recorded and shared with
 * [Civilization 4](http://lparchive.org/Civilization-4/) - Extremely detailed historical narrative.
    * Civilization is a historical 4X game, where you can take control of a civilization as a famous leader, both of which gives certain advantages. However, because the game allows the player to control the course of human history for 6000 years, the historical narrative isn't as interesting as it real history. This LP brings in the military campaigns, revolutions, political intrigue, and cultural development that makes human history so interesting. Sadly, the LP stops in the early 1700's.
 
-*[Dwarf Fortress - Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/) - Even crazier than your average game of DF
+* [Dwarf Fortress - Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/) - Even crazier than your average game of DF
    * Dwarf Fortress is a game where you take 7 dwarfs and some meager supplies into the wilderness, and after braving every possible danger, from carp to giant colossi to goblins to miasma to insane dwarfs, you will have the greatest underground fortress in all the lands. Of course, it takes a lot of experience and just as much luck to even get a minor farming community running before you get overrun by kobolds. As the DF community knows though, _losing is fun_. This particular playthrough can be said to encompass everything that saying represents.
 
-*[Gazillionaire Deluxe](http://lparchive.org/Gazillionaire-Deluxe/) - The rise of a trading empire
+* [Gazillionaire Deluxe](http://lparchive.org/Gazillionaire-Deluxe/) - The rise of a trading empire
    * I honestly have no idea what Gazillionaire Deluxe is. It looks like a crappy Flash game or a simple game from the 90's. Regardless, this is still a great rags-to-riches story.
 
-*[Half Life 2](http://lparchive.org/Half-Life-2/) - I guarantee this is actually HL2
-   * So first off, this isn't actually Half Life 2, it's Half Life ~~Episode 3~~ 1.
+* [Half Life 2](http://lparchive.org/Half-Life-2/) - I guarantee this is actually HL2
+   * So first off, this isn't actually Half Life 2, it's Half Life ~~Episode 3~~ 1. 
+
+* [Oregon Trail](http://lparchive.org/Oregon-Trail-%28by-Chewbot%29/) - Get ready for your Mornin' Cornin'
+   * The Oregon Trail was a staple for children from the 90's. As the name suggests, it's about the Oregon Trail, and the hardships the travelers of it faced. However, it can be safely assumed that no family had to endure the hardships the Neckebard went through.
+
+* [Sid Meier's Alpha Centauri](http://lparchive.org/Sid-Meiers-Alpha-Centauri/) - A classic 4X Civ game
+   * Alpha Centauri is essentially Civilization II, but on another planet. However, the interesting narrative and characters, as well as the innovative setting for its time, helped to make it a popular game. Although its influence has faded as time passed, it was commonly referenced in the late 90's and early 00's. This particular LP adds a bit more narrative to the story.
