@@ -54,13 +54,13 @@ Bibliotheca Anonoma
 
 ### Collections
 
-* [[Damedame ARG]]
+* [[BASC Anthology]]
 * [[Copypasta]]
 * [[Lulz A Corruption of LOL]]
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
-* [[BATF Subcultures At-A-Glance]]
+* [[Damedame ARG]]
 * [[more...|Collections]]
 
 ## Website Archives
