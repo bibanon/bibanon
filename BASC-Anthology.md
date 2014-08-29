@@ -26,5 +26,5 @@ A "Let's Play" is a playthrough of a video game that is recorded and shared with
 * [Sid Meier's Alpha Centauri](http://lparchive.org/Sid-Meiers-Alpha-Centauri/) - A classic 4X Civ game
    * Alpha Centauri is essentially Civilization II, but on another planet. However, the interesting narrative and characters, as well as the innovative setting for its time, helped to make it a popular game. Although its influence has faded as time passed, it was commonly referenced in the late 90's and early 00's. This particular LP adds a bit more narrative to the story.
 
-* [Medieval II: Total War](http://lparchive.org/A-Scotsman-In-Egypt/) - The golden standard of narratives
+* [Medieval II: Total War](http://lparchive.org/A-Scotsman-In-Egypt/) - A Scotsman in Egypt: The golden standard of narratives
    * It is 1080. William the Conqueror rules England, the Dark Ages have just begun, and two Scottish princes are waking up from their hangovers, only to find that they are on an invasion fleet headed towards Egypt. The result will fill a 200 year chronicle and change the course of human history. Also has a sequel, [An Egyptian in Scotland](http://lparchive.org/An-Egyptian-in-Scotland/). 
