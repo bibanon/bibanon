@@ -22,7 +22,7 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 
 [The Feds have been mobilized](http://abcnews.go.com/Entertainment/fbi-addressing-massive-celebrity-photo-hack/story?id=25200140) to track down the leaker (extorting the IP from 4chan, probably), and is poised to use him as an informant to discover this secret nude-sharing ring. 
 
-The leaker will probably get 120 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
+The leaker will probably get 10 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
 What a disproportionate use of force, to "defend" the reputation of American Celebrities. Though I guess the incident does count as an Attack on American Culture; in the literal sense.
 
