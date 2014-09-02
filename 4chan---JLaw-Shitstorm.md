@@ -18,7 +18,7 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 
 ### What is going to happen to the Leaker?
 
-The Feds have probably been mobilized to track down the leaker (extorting the IP from 4chan, probably), and is likely to use him as an informant to discover this secret nude-sharing ring. 
+[The Feds have been mobilized](http://abcnews.go.com/Entertainment/fbi-addressing-massive-celebrity-photo-hack/story?id=25200140) to track down the leaker (extorting the IP from 4chan, probably), and is poised to use him as an informant to discover this secret nude-sharing ring. 
 
 The leaker will probably get 120 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
