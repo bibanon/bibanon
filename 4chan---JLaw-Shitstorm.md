@@ -1,4 +1,4 @@
-On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of American Celebrities Jennifer Lawrence and Kate Upton. The forum for it would have to be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
+On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of Jennifer Lawrence, Kate Upton, and other major American Celebrities. The forum for it would have to be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
 
 Needless to say, leaks of any sort involving the antics of celebrities are instant newsmakers (as those *disgusting celeb paparazzi magazines* at the supermarket checkout line will drill into you). The machines of yellow journalism were quick to finger the blame upon 4chan itself, and attempted; yet again, to make sense of the dark corners of the internet (in the vein of Fox News's "Hackers on Steroids").
 
@@ -19,6 +19,8 @@ The leak unleashed a grievous scandal, public outcry against 4chan itself (thoug
 There is a massive underground movement where users trade supposed nude photos of celebrities, and pay tons of money for the privilege. When you're talking about photos worth millions of dollars; well, it's a huge incentive for a hacker or two to make some easy money. Just like illegally obtained fine art, most users jealously guard their loot, and will never share it with anybody; knowing full well the bombshell scandal that will unfold if it does get out.
 
 [Here's a good GQ Article on the topic.](http://www.gq.com/news-politics/newsmakers/201205/chris-chaney-hacker-nude-photos-scarlett-johansson)
+
+The actual leak itself is inferred to be a breach in Apple's iCloud service; since that's where JLaw uploaded it. (Well, at least we understand the absurdity of the cloud.)
 
 But for some reason, one plucky anon just wanted to see the world burn. I could think of far better uses of that million dollars (probably paid in Bitcoins); but the world may never know.
 
