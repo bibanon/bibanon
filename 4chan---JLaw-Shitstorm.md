@@ -1,4 +1,4 @@
-On August 31th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of Jennifer Lawrence, Kate Upton, and other major American Celebrities. The forum for it would have to be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
+On August 31th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of Jennifer Lawrence, Kate Upton, and other major American Celebrities. The forum for it would have to be anonymous, public, and popular; he decided to post it on 4chan's /b/. Shitstorms ensued.
 
 Needless to say, leaks of any sort involving the antics of celebrities are instant newsmakers (as those *disgusting celeb paparazzi magazines* at the supermarket checkout line will drill into you). The machines of yellow journalism were quick to shoulder the blame upon an entire website, and attempted; yet again, to make sense of the dark corners of the internet (in the vein of Fox News's "Hackers on Steroids").
 
