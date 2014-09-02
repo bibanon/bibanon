@@ -1,8 +1,10 @@
-On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of American Celebrities Jennifer Lawrence and Kate Upton. The forum for it would be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
+On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of American Celebrities Jennifer Lawrence and Kate Upton. The forum for it would have to be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
 
 Needless to say, leaks of any sort involving the antics of celebrities are instant newsmakers (as those *disgusting celeb paparazzi magazines* at the supermarket checkout line will drill into you). The machines of yellow journalism were quick to finger the blame upon 4chan itself, and attempted; yet again, to make sense of the dark corners of the internet (in the vein of Fox News's "Hackers on Steroids").
 
 ### Negative Effects on 4chan
+
+![](http://i.imgur.com/coeTVXL.png)
 
 The incident launched massive hordes of immigration into 4chan by paparazzis, SJWs, alleged JLaw advisors, and (unsurprisingly) looky-loo fappers. 
 
@@ -35,6 +37,12 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 The leaker will probably get 10 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
 What a disproportionate use of force, to "defend" the reputation of American Celebrities. Though I guess the incident does count as an Attack on American Culture; in the literal sense.
+
+### How will this incident affect the world at large in the near future?
+
+![](http://i.imgur.com/OE7NkxR.jpg)
+
+[Narrated](https://www.youtube.com/watch?v=GgXQ9DUkifQ) 
 
 ### Sources
 
