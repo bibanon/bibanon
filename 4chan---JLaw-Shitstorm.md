@@ -32,6 +32,10 @@ Jennifer Lawrence was not pleased to hear about the incident, and broke down in 
 
 Many users decided to campaign to fund her favorite charity (The Pediatric Cancer Foundation) to make amends for the terrible shitstorm.
 
+### What did 4chan do in Response?
+
+* [4chan #leakforjlaw prank](http://www.dailydot.com/lifestyle/4chan-leakforjlaw-prank/) - 4chan's /b/, overwhelmed by the horde of newfags, gives up and decides to go for the lulz by inciting Twitter SJWs to "leak their pics" in "solidarity" with JLaw.
+
 ### What is going to happen to the Leaker?
 
 [The Feds have been mobilized](http://abcnews.go.com/Entertainment/fbi-addressing-massive-celebrity-photo-hack/story?id=25200140) to track down the leaker (extorting the IP from 4chan, probably), and is poised to use him as an informant to discover this secret nude-sharing ring. Let's hope this leaker used seven proxies.
