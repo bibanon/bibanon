@@ -10,7 +10,17 @@ The massive traffic increase and constant spam brought 4chan to it's knees once 
 
 The leak unleashed a grievous scandal, public outcry against 4chan itself, and a new wave of immigrants who were determined to bring 4chan's /b/ right back into a strange new age of cultural importance on the internet.
 
-### Timeline
+## Timeline
+
+### How the hell did the leaker get this stuff?
+
+There is a massive underground movement where users trade supposed nude photos of celebrities, and pay tons of money for the privilege. When you're talking about photos worth millions of dollars; well, it's a huge incentive for a hacker or two to make some easy money. Just like illegally obtained fine art, most users jealously guard their loot, and will never share it with anybody; knowing full well the bombshell scandal that will unfold if it does get out.
+
+But for some reason, one plucky anon just wanted to see the world burn. I could think of far better uses of that million dollars (probably paid in Bitcoins); but the world may never know.
+
+A few of the photos may be genuine, but not all of them are. This would not be a surprise, for there is a (it was documented in a famous expose article, probably on wired; need to find it)
+
+## Reactions
 
 ### What did the Internet do in response?
 
@@ -20,7 +30,7 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 
 ### What is going to happen to the Leaker?
 
-[The Feds have been mobilized](http://abcnews.go.com/Entertainment/fbi-addressing-massive-celebrity-photo-hack/story?id=25200140) to track down the leaker (extorting the IP from 4chan, probably), and is poised to use him as an informant to discover this secret nude-sharing ring. 
+[The Feds have been mobilized](http://abcnews.go.com/Entertainment/fbi-addressing-massive-celebrity-photo-hack/story?id=25200140) to track down the leaker (extorting the IP from 4chan, probably), and is poised to use him as an informant to discover this secret nude-sharing ring. Let's hope this leaker used seven proxies.
 
 The leaker will probably get 10 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
