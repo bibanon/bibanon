@@ -6,6 +6,8 @@ The incident launched massive hordes of immigration into 4chan by paparazzis, SJ
 
 The massive traffic increase and constant spam brought 4chan to it's knees once again. Anons attempted to deflect the accusations, others desperately spammed horrific gore pics, in a war of attrition to keep the looky-loos away. The shitstorm was a night that they would never forget.
 
+The leak unleashed a grievous scandal, public outcry against 4chan itself, and a new wave of immigrants who were determined to bring 4chan's /b/ back into a strange new age of cultural importance on the internet.
+
 ### Timeline
 
 ### What did the Internet do in response?
@@ -20,4 +22,6 @@ The Feds have probably been mobilized to track down the leaker (extorting the IP
 
 The leaker will probably get 120 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
-What a disproportionate use of force, to "defend" the reputation of American Celebrities. I guess it does count as an Attack on American Culture; quite literally.
+What a disproportionate use of force, to "defend" the reputation of American Celebrities. Though I guess the incident does count as an Attack on American Culture; in the literal sense.
+
+### Sources
