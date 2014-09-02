@@ -28,7 +28,9 @@ But for some reason, one plucky anon just wanted to see the world burn. I could 
 
 ### What did the Internet do in response?
 
-Jennifer Lawrence was not pleased to hear about the incident, and broke down in the strain. True; she is a celebrity in the public eye, and no one is able to control the thoughts of her onlookers; but come on, who deserves to be lumped in with the likes of Britney Spears or Lindsay Lohan?
+The celebrities in question were not pleased to hear about the incident. Some denied that they were real, some broke down in the strain. 
+
+True; they are celebrities in the public eye, and no one is able to control the thoughts of her onlookers; but come on, who deserves to be lumped in with the likes of Britney Spears or Lindsay Lohan?
 
 Many users decided to campaign to fund her favorite charity (The Pediatric Cancer Foundation) to make amends for the terrible shitstorm.
 
