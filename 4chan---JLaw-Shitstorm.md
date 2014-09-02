@@ -35,6 +35,7 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 ### What did 4chan do in Response?
 
 * [4chan #leakforjlaw prank](http://www.dailydot.com/lifestyle/4chan-leakforjlaw-prank/) - 4chan's /b/, overwhelmed by the horde of newfags, gives up and decides to go for the lulz by inciting Twitter SJWs to "leak their pics" in "solidarity" with JLaw.
+* [Change.org petition to Moot to "Shut down 4chan"](http://www.change.org/p/christopher-poole-shut-down-b-on-4chan-org) - A petition crops up for people to demand that 4chan be shut down due to this incident. However, in light of the fact that nobody listens to internet petitions, some anons may have attempted to  further the lulz by posting fake signatures from “Sir Barnacle Encrusted flopsacock “ and “chris chan”. 
 
 ### What is going to happen to the Leaker?
 
