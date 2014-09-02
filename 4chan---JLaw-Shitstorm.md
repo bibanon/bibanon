@@ -49,3 +49,4 @@ What a disproportionate use of force, to "defend" the reputation of American Cel
 ### Sources
 
 * [Reddit /r/thefappening](http://www.reddit.com/r/thefappening)
+* [Reddit Fappening Multireddit](http://www.reddit.com/user/thethrowawayiuse/m/fappeningpack)
