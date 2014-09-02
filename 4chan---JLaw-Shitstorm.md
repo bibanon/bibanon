@@ -2,6 +2,8 @@ On August 30th, 2014, an anonymous leaker decided it was a good idea to post one
 
 Needless to say, leaks of any sort involving the antics of celebrities are instant newsmakers (as those *disgusting celeb paparazzi magazines* at the supermarket checkout line will drill into you). The machines of yellow journalism were quick to finger the blame upon 4chan itself, and attempted; yet again, to make sense of the dark corners of the internet (in the vein of Fox News's "Hackers on Steroids").
 
+### Negative Effects on 4chan
+
 The incident launched massive hordes of immigration into 4chan by paparazzis, SJWs, alleged JLaw advisors, and (unsurprisingly) looky-loo fappers. 
 
 The massive traffic increase and constant spam brought 4chan to it's knees once again. Anons attempted to mount a desperate defense against the hordes, spamming horrific gore pics in a war of attrition to keep the looky-loos out. The shitstorm was a night that they would never forget.
