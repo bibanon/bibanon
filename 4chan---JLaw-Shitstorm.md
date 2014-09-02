@@ -18,11 +18,15 @@ The leak unleashed a grievous scandal, public outcry against 4chan itself (thoug
 
 ### How the hell did the leaker get this stuff?
 
+> *Some men... Just want to see the world burn.*
+
 There is a massive underground movement where users trade supposed nude photos of celebrities, and pay tons of money for the privilege. When you're talking about photos worth millions of dollars; well, it's a huge incentive for a hacker or two to make some easy money. Just like illegally obtained fine art, most users jealously guard their loot, and will never share it with anybody; knowing full well the bombshell scandal that will unfold if it does get out.
 
-But for some reason, one plucky anon just wanted to see the world burn. I could think of far better uses of those millions of dollars, probably paid in Bitcoins; but the world may never know.
-
 [Here's a good GQ Article on the topic.](http://www.gq.com/news-politics/newsmakers/201205/chris-chaney-hacker-nude-photos-scarlett-johansson)
+
+From what we can infer (the threads themselves have not been archived), [one plucky anon asked 4chan](https://coinreport.net/sex-sells-hacked-celebrity-pictures-next-bubble-catalyst) to submit a group buy in Bitcoins for a hacker's alleged celebrity nudes, claiming he could not afford the tremendous cost; he apparently bolstered it's legitimacy by posting a free sample of JLaw. 
+
+Most anons called him out as a scammer, but when a few guys decided to try their luck and deliver coins for the lulz, the leaker actually followed through, finding more celebs; and the shitstorm began.
 
 The actual leak itself is inferred to be a breach in Apple's iCloud service; since that's where JLaw uploaded it. (Well, at least we understand the absurdity of the cloud.)
 
