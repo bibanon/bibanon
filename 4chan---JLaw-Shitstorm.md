@@ -25,3 +25,5 @@ The leaker will probably get 120 years in prison maximum, [as previous prosecuti
 What a disproportionate use of force, to "defend" the reputation of American Celebrities. Though I guess the incident does count as an Attack on American Culture; in the literal sense.
 
 ### Sources
+
+* [Reddit /r/thefappening](http://www.reddit.com/r/thefappening)
