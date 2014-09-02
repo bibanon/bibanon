@@ -1,4 +1,4 @@
-On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of American Celebrity Jennifer Lawrence. The forum for it would be anonymous, public, and popular; 4chan's /b/. The nudes seemed to be all too genuine; for Jennifer Lawrence was extremely distraught upon hearing of the incident.
+On August 30th, 2014, an anonymous leaker decided it was a good idea to post one of his rarest clandestine "treasures" to the world; nude photos of American Celebrity Jennifer Lawrence. The forum for it would be anonymous, public, and popular; 4chan's /b/. Shitstorms ensued.
 
 Needless to say, leaks of any sort involving the antics of celebrities are instant newsmakers (as those *disgusting celeb paparazzi magazines* at the supermarket checkout line will drill into you). The machines of yellow journalism were quick to finger the blame upon 4chan itself, and attempted; yet again, to make sense of the dark corners of the internet (in the vein of Fox News's "Hackers on Steroids").
 
