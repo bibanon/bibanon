@@ -45,7 +45,7 @@ Many users decided to campaign to fund her favorite charity (The Pediatric Cance
 
 The leaker will probably get 10 years in prison maximum, [as previous prosecutions for leaks seem to imply.](http://www.wired.com/2011/10/nude-celeb-hacker-arrested/)
 
-What a disproportionate use of force, to "defend" the reputation of American Celebrities. Though I guess the incident does count as an Attack on American Culture; in the literal sense.
+What a disproportionate use of force, to "defend" the reputation of American Celebrities. Truthfully, the incident does count as an Attack on American Culture; in the very literal sense.
 
 ### How will this incident affect the world at large in the near future?
 
