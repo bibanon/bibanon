@@ -10,7 +10,7 @@ The incident launched massive hordes of immigration into 4chan by paparazzis, SJ
 
 The massive traffic increase and constant spam brought 4chan to it's knees once again. Anons attempted to mount a desperate defense against the hordes, spamming horrific gore pics in a war of attrition to keep the looky-loos out. The shitstorm was a night that they would never forget.
 
-The leak unleashed a grievous scandal, public outcry against 4chan itself, and a new wave of immigrants who were determined to bring 4chan's /b/ right back into a strange new age of cultural importance on the internet.
+The leak unleashed a grievous scandal, public outcry against 4chan itself (though luckily for anons, they failed to understand [whether 4chan was a person or website](https://www.youtube.com/watch?v=qz5i171h_no)), and a new wave of immigrants who were determined to bring 4chan's /b/ right back into a strange new age of cultural importance on the internet.
 
 ## Timeline
 
