@@ -40,7 +40,7 @@ Bibliotheca Anonoma
   * [[world2ch]]
   * [[Ayashii World]]
 * [[Something Awful]]
-* [[The People's History of Fansubbing]]
+* [[The People's History of Fansubs]]
 * [[People]]
 * [[more...|History]]
 
