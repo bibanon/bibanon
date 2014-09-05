@@ -15,7 +15,7 @@ ISIS is a complete affront to all that Anonymous represents; especially when man
 
 Since ISIS has a huge social media presence on Facebook and Twitter thanks to turncoat Westerners, which allows them to quickly and efficiently coordinate attacks and recruit more jihadists to their cause. Anonymous's strategy is crush this network in an attempt to cripple the airwaves of the Islamic State. 
 
-It is a grudging war of attrition, since, much like Anonymous itself, ISIS easily manages to repair their network, launch counterattacks, and create new accounts. There is no better foe for Anonymous to oppose.
+It is a grudging war of attrition, since, much like Anonymous itself, ISIS easily manages to repair their network, launch counterattacks, and create new accounts. Still, new strategies are constantly being devised and tested, and it might just work out. There is no better foe for Anonymous to oppose.
 
 * Source: [Vice Motherboard - Anonymous really wants a cyberwar with the Islamic State](http://motherboard.vice.com/read/anonymous-really-wants-a-cyberwar-with-the-islamic-state)
 
