@@ -58,12 +58,12 @@ A group of anons fashion together a new IRC network to coordinate a new weapon i
 
 In a nutshell:
 
-*1. Scientology Tom Cruise propaganda video leaks onto internet.
-*2. Scientology decide to censor the video and have it removed from the internet.
-*3. Anonymous dislikes this censorship and takes up arms, launching a crippling online assault against Scientology.
-*4. This raid draws vast media attention.
-*5. Thus raid becomes corrupted by newfags (of the moral kind) and mutates from online battle into a peaceful, worldwide protest.
-*6. Anonymous withdraws, leaving moralfags to carry on the fight alone.
+1. Scientology Tom Cruise propaganda video leaks onto internet.
+2. Scientology decide to censor the video and have it removed from the internet.
+3. Anonymous dislikes this censorship and takes up arms, launching a crippling online assault against Scientology.
+4. This raid draws vast media attention.
+5. Thus raid becomes corrupted by newfags (of the moral kind) and mutates from online battle into a peaceful, worldwide protest.
+6. Anonymous withdraws, leaving moralfags to carry on the fight alone.
 
 For more see [[Project Chanology]].
 
@@ -86,8 +86,8 @@ No organization has been more important to the history of Anonymous than AnonOps
 
 ### LulzSec
 
-A small elite splinter group of anons who launched
+A small elite splinter group of anons who launched daring offensive operations during Operation Payback.
 
-Unfortunately, most of their ranks were found out and put in jail by an infiltrated traitor
+Unfortunately, most of their ranks were found out and put in jail by an infiltrated traitor.
 
 ### AnonNews
