@@ -1,5 +1,3 @@
-[[images/cover.jpeg]]
-
 **Epic Win For Anonymous** by Cole Stryker is the most ambitious history book about 4chan that anyone has ever dared to print. It's sales are fast growing, and it's even on the syllabus for Gabriella Coleman's NYU Studies course. Although it offers little more than what could be found on [[Encyclopedia Dramatica]], Wikipedia, or our own [[4chan History Timeline]], Cole Stryker manages to show a fresh new perspective of it's ancestry mixed with his own experiences as a old internet nerd and modern meme carpetbagger.
 
 As a major secondary source for the [[4chan Chronicle]], we've archived the entire book in this library. Sorry, Cole. 
