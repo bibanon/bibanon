@@ -1,5 +1,7 @@
 Partially inherited from the Partyvan wiki article; needs cleanup
 
+Here's [a good article at the New Yorker to source from.](http://www.newyorker.com/magazine/2014/09/08/masked-avengers)
+
 Events
 ------
 
