@@ -2,7 +2,7 @@
 
 ### Rumors of conspiracy
 
-During the GamerGate shitstorm, some anons began to notice that their threads were being deleted. At best, the mods were trying to contain them in one thread. At worst, the mods were in cahoots with Zoe Quinn herself.
+During the GamerGate shitstorm, some anons began to notice that their threads were being deleted. At best, the mods were trying to contain them in one thread. At worst, the mods were in cahoots with Zoe Quinn herself. No one really knew what was going on.
 
 [An alleged /d/ mod made this statement:](http://i.imgur.com/G0eIGQx.jpg)
 
