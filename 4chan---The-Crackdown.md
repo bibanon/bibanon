@@ -1,4 +1,4 @@
-One day, moot decided that GamerGate threads had gone on for long enough on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. 
+One day, moot decided that GamerGate threads had gone on for long enough on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. GamerGate has since relocated [here](8chan.co/gg). 
 
 ### Rumors of conspiracy
 
@@ -17,6 +17,7 @@ On September 18th, 2014, Moot made this sticky on /v/:
 
 ### moot's Connections with the SJW
 **It's important to remember that as of now, there is nothing directly implicating that moot got orders from above to remove GamerGate threads.**
+The full page is here: https://8chan.co/gg/res/5743.html
 
 #### XOXO Fest
 moot has attended XOXO Fest 3 years in a row. He went to XOXO 2014 and 2013, and was a speaker at XOXO 2012. He was discussing his new start up at the time, Canvas. Leigh Alexander of Gawker media, along with other journalists working for Gawker, was also present. Anita Sarkeesian was also a speaker there.
@@ -30,3 +31,5 @@ Links:
 #### moot's Girlfriend
 As detailed here: https://twitter.com/yourpalmal/status/512608043146969088
 
+Mallory Blair is the founder of Small Girls PR, which is "the promotional arm for media companies like Flavorpill and Gawker."
+The site is here: http://www.smallgirlspr.com/#!our-clients/c1jo8
