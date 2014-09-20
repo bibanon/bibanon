@@ -10,6 +10,8 @@ One day, Yotsumoe disappeared, and it seems that the mystery was never solved. I
 
 There was apparently a small game by Erika, an anti-DameDame! spy, but that was probably a while ago.
 
+There is a timeline here: http://pastebin.com/9a6PuajT
+
 ### Background
 
 Damedame! are a subgroup who are currently subbing Log Horizon, as well as Kill la Kill. They are jokesubs (Again, think Duwang), and they contain numerous jokes that either come from /a/, relate to it, have reference to popular board culture/Japanese culture, or resound generally well with most people of /a/'s demographic. The thing that makes Damedame! different from not only other subgroups, but even other jokesub groups, is that there's something much deeper behind all of it, along with a few other discerning features.
