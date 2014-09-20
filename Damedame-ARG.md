@@ -6,6 +6,10 @@ With each new subtitle release, there is usually a locked rar within the video, 
 
 There is also a corpse game going on that will be explained later in the article.
 
+One day, Yotsumoe disappeared, and it seems that the mystery was never solved. It is rumored that the whole thing was just a college psychology experiment. It is also rumored that Yotsumoe was suffering from side-effects from time travel. Regardless of which one is true, the ARG seems to have ended. Allegedly Yotsumoe and Maddie are both floating around in hell somewhere. 
+
+There was apparently a small game by Erika, an anti-DameDame! spy, but that was probably a while ago.
+
 ### Background
 
 Damedame! are a subgroup who are currently subbing Log Horizon, as well as Kill la Kill. They are jokesubs (Again, think Duwang), and they contain numerous jokes that either come from /a/, relate to it, have reference to popular board culture/Japanese culture, or resound generally well with most people of /a/'s demographic. The thing that makes Damedame! different from not only other subgroups, but even other jokesub groups, is that there's something much deeper behind all of it, along with a few other discerning features.
