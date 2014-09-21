@@ -15,6 +15,8 @@ On September 18th, 2014, Moot made this sticky on /v/:
 > To those who actually want to use /v/ to discuss vidya and not a movement that has outgrown 4chan (a la Project Chanology) -- apologies for the inconvenience.  
 > [Moot's Public Statement](http://archive.moe/v/thread/264185884/)
 
+![](http://i.imgur.com/UIHLHVQ.png)
+
 ![](http://i.imgur.com/bdVQN29.jpg)
 
 ## Moot Conspiracy Theories
