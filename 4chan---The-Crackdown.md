@@ -15,6 +15,12 @@ On September 18th, 2014, Moot made this sticky on /v/:
 > To those who actually want to use /v/ to discuss vidya and not a movement that has outgrown 4chan (a la Project Chanology) -- apologies for the inconvenience.  
 > [Moot's Public Statement](http://archive.moe/v/thread/264185884/)
 
+![](http://i.imgur.com/bdVQN29.jpg)
+
+## Moot Conspiracy Theories
+
+After The Crackdown, 4chan anons were flooded with rumors of Moot's personal conspiracies against recent crises.
+
 ### moot's Connections with the SJW
 **It's important to remember that as of now, there is nothing directly implicating that moot got orders from above to remove GamerGate threads.**
 The full page is here: https://8chan.co/gg/res/5743.html
