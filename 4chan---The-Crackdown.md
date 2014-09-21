@@ -1,4 +1,4 @@
-One day, moot decided that GamerGate threads had gone on for long enough on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. GamerGate has since relocated [here](8chan.co/gg). 
+One day, the 4chan Moderation leadership decided that GamerGate threads had gone on for long enough on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. GamerGate has since relocated [here](8chan.co/gg). 
 
 ### Rumors of conspiracy
 
