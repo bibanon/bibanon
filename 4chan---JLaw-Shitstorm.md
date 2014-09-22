@@ -65,3 +65,9 @@ What a disproportionate use of force, to "defend" the reputation of American Cel
 * [Reddit /r/thefappening](http://www.reddit.com/r/thefappening)
 * [Reddit Fappening Multireddit](http://www.reddit.com/user/thethrowawayiuse/m/fappeningpack)
 * [DailyDot - 4chan's Leak4JLaw Prank](http://www.dailydot.com/lifestyle/4chan-leakforjlaw-prank/)
+
+## The Fappening: Part 2
+
+It's happening: again.
+
+* [Stokes Sentinel - Fappening 2](http://www.stokesentinel.co.uk/Fappening-2-Hundreds-images-naked-celebrities/story-22962462-detail/story.html)
