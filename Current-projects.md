@@ -7,7 +7,8 @@
 These are stories or webpages that need to be converted and added to the Bibliotheca Anonoma.
 
 * [iiichan Wiki](http://web.archive.org/web/*/http://wiki.iiichan.net/*) - Humblefool (David Ashby)'s personal wiki, made in the style of [[Shii]]'s wiki. Also deleted, but at least archives do exist.
-* [[Shii]]'s Wiki - Tons of interesting content was lost in Shii's wholesale destruction of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
+* [[Shii]]'s Wiki (Done!) - Tons of interesting content was lost in Shii's wholesale deletion of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
+  * Thanks to Sikmo, [the wiki has been restored in it's entirety, and is archived at the Bibliotheca Anonoma.](http://bibanon.github.io/everything-shii-knows/)
 * [The Oppressors and the Oppressed](https://drive.google.com/file/d/0B7WYx7u6HJh_NXBrSEoyTHcxcW8/edit?usp=sharing) - Downloaded before chanarchive went down. This is an AMA from a British military contractor who fought for Gaddafi during the Arab Spring in Libya; a brutal look at how the winners of war write the history.
 
 ---
