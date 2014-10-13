@@ -1,6 +1,6 @@
 This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal had severe implications on the video game journalism industry, and even revealed a troubling insight into the power of forum moderators as gatekeepers of information. 
 
-In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. Their opponents called up reactionaries to battle, and as extremists on both sides poisoned the well, the war began. 
+In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. Extremist reactionaries were called to battle to oppose them, and the war began. 
 
 ---
 
@@ -9,8 +9,6 @@ At first, 4chan tried something new to beat their opponents at their own game; n
 However, on 4chan, anons already nervous of censorship went berzerk when 4chan mods attempted to corral them into a single thread (inadvertently deleting threads in the process); it didn't help that The Fappening happened around the same time. The result was Moot's reiteration of [[old "Martial Law" policies from 2006|4chan - The Crackdown]], in an attempt to maintain order.  
 
 [After these and other incidents broke their nerve](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/), extremists from either side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals.
-
-![](http://i.imgur.com/H6nKwE6.jpg)
 
 The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. Each side also attempts to 
 
