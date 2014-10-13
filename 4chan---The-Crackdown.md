@@ -2,9 +2,9 @@ After anons went berzerk after 4chan Mods attempted to corral them into a single
 
 The situation was made worse when some anon [[decided to leak million-dollar nudes|4chan - The Fappening]] of American Actress Jennifer Lawrence and other celebrities on /b/; "just because". Shitstorms ensued.
 
-As a result, Moot also launched a public statement which reiterated the "Martial Law" policies that were enacted during /b/-day; **No Raids, No Personal Information, No Hacktivism**, and stuck by a policy to "bring 4chan back to normal" by purging the forums of these scandalous incidents. 
+As a result, Moot also launched a public statement which reiterated the "Martial Law" policies that were enacted during /b/-day; **No Raids, No Personal Information, No Hacktivism**, and stuck by a policy to "bring 4chan back to normal" by purging the forums of these scandalous incidents and divisive conflicts.
 
-A mass exodus; as well as an increased immigration rate (due to media coverage) ensued. 4chan's userbase had 
+A mass exodus; as well as an increased immigration rate (due to media coverage) ensued. 4chan's userbase was never the same. 
 
 GamerGate discussion has since relocated to [8chan.co](http://8chan.co/gg). 
 
