@@ -1,4 +1,4 @@
-After anons went berzerk after 4chan Mods attempted to corral them into a single thread (a canning policy which unfortunately involves deleting other thrads), the mods decided that GamerGate threads were now disturbing the peace on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. 
+After anons went berzerk after 4chan Mods attempted to corral them into a single thread (a canning policy which unfortunately involves thread deletion), the mods decided that GamerGate threads were now disturbing the peace on /v/, and had any discussion of them marked as "off-topic", and therefore bannable. 
 
 The situation was made worse when some anon [[decided to leak million-dollar nudes|4chan - The Fappening]] of American Actress Jennifer Lawrence and other celebrities on /b/; "just because". Shitstorms ensued.
 
