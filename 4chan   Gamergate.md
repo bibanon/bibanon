@@ -1,8 +1,8 @@
 This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal has severe implications on the video game journalism industry, and even reveals a troubling insight into the power of forum moderators as gatekeepers of information. 
 
-In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. Later on, extremists from either side of the conflict were marred in a grievious battle of attrition; launching destructive and wholly immoral attacks against each other and innocent individuals. 
+In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. 
 
-But no one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
+Later on, extremists from either side of the conflict were marred in a grievious battle of attrition; launching destructive and wholly immoral attacks against each other and innocent individuals. No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
 
