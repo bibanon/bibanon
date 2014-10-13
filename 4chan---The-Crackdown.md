@@ -18,26 +18,3 @@ On September 18th, 2014, Moot made this sticky on /v/:
 ![](http://i.imgur.com/UIHLHVQ.png)
 
 ![](http://i.imgur.com/bdVQN29.jpg)
-
-## Moot Conspiracy Theories
-
-After The Crackdown, 4chan anons were flooded with rumors of Moot's personal conspiracies against recent crises.
-
-### moot's Connections with the SJW
-**It's important to remember that as of now, there is nothing directly implicating that moot got orders from above to remove GamerGate threads.**
-The full page is here: https://8chan.co/gg/res/5743.html
-
-#### XOXO Fest
-moot has attended XOXO Fest 3 years in a row. He went to XOXO 2014 and 2013, and was a speaker at XOXO 2012. He was discussing his new start up at the time, Canvas. Leigh Alexander of Gawker media, along with other journalists working for Gawker, was also present. Anita Sarkeesian was also a speaker there.
-
-Links:
-* moot at XOXO 2014: http://instagram.com/p/s54iEwy8lN
-* moot speaking at XOXO 2012: https://www.youtube.com/watch?v=BxRNRi7bOSI
-* XOXO 2014: http://duncan.co/xoxo-2014-photos/ ; http://www.wordyard.com/2014/09/17/xoxo-and-the-fierce-urgency-of-nice/
-* Attendance list of XOXO 2014: http://2014.xoxofest.com/attendees/
-
-#### moot's Girlfriend
-As detailed here: https://twitter.com/yourpalmal/status/512608043146969088
-
-Mallory Blair is the founder of Small Girls PR, which is "the promotional arm for media companies like Flavorpill and Gawker."
-The site is here: http://www.smallgirlspr.com/#!our-clients/c1jo8
