@@ -1,8 +1,6 @@
-> Under construction. [Check out the Google Doc to edit.](https://docs.google.com/document/d/1SMLKR0jXRxvaBcug-inONGFR5GCJk9nyqksaLAGdPVw/edit)
-
 This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal has severe implications on the video game journalism industry, and even reveals a troubling insight into the power of forum moderators as gatekeepers of information. 
 
-In response, 4chan’s /v/ and /pol/ , along with other websites (yes, le Reddit) have launched united campaigns to protest the scandal, in a unique new way.
+In response, major communities launched united campaigns to protest the scandal, in a unique new way. Later on, extremists from both sides of the conflict launched destructive attacks against each other, attempting to bring public opinion on their side of the fence.
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
 
