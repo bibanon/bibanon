@@ -1,3 +1,5 @@
+> **Notice:** The tactics detailed here are archived content from the Insurgency Wiki, and in no way represents the work or opinions of the Bibliotheca Anonoma.
+
 ## Introduction
 
 Ruin Life Tactics are essential to know in order to push any unstable target to things which makes the attacker(s) piss themselves with glee. It is a combination of [[Trolling]], [[Stalking]], and sometimes [[IRL]] bullshit if the target lives close enough to other co-conspirators.
