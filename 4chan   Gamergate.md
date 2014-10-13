@@ -1,8 +1,16 @@
-This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal has severe implications on the video game journalism industry, and even reveals a troubling insight into the power of forum moderators as gatekeepers of information. 
+This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal had severe implications on the video game journalism industry, and even revealed a troubling insight into the power of forum moderators as gatekeepers of information. 
 
 In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. 
 
-Later on, extremists from either side of the conflict were marred in a grievious battle of attrition; launching destructive and wholly immoral attacks against each other and innocent individuals. No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
+At first, 4chan tried something new to beat their opponents at their own game; nonviolent protest, such as backing The Young Fine Capitalists (a group attempting to bring more women into game development; which Zoe Quinn tried to stop), and launching public campaigns to reveal the truth of the matter to the entire world. 
+
+However, on 4chan, anons already nervous of censorship went berzerk when 4chan mods attempted to corral them into a single thread (inadvertently deleting threads in the process); it didn't help that The Fappening happened around the same time. The result was Moot's reiteration of [[old "Martial Law" policies from 2006|4chan - The Crackdown]], in an attempt to maintain order.  
+
+After these and other incidents broke their nerve, extremists from either side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals.
+
+The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. Overreaction and one-sided sensationalism about the atrocities of one side blinds the viewer to those committed by the other.
+
+No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
 
