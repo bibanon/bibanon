@@ -10,7 +10,7 @@ GamerGate discussion has since relocated to [8chan.co](http://8chan.co/gg).
 
 ### Rumors of conspiracy
 
-During the GamerGate shitstorm, some anons began to notice that their threads were being deleted. At best, the mods were trying to contain them in one thread. At worst, the mods were in cahoots with Zoe Quinn herself. No one really knew what was going on.
+During the GamerGate shitstorm, some anons began to notice that their threads were being deleted. At best, the mods were trying to contain them in one thread. At worst, the mods had been convinced by Zoe Quinn's sob stories. No one really knew what was going on.
 
 [An alleged /d/ mod made this statement:](http://i.imgur.com/G0eIGQx.jpg)
 
