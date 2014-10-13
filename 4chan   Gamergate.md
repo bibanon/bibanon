@@ -6,9 +6,14 @@ In response, 4chan’s /v/ and /pol/ , along with other websites (yes, le Reddit
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
 
-It will also help anons stay up to date without having to ask the thread or read extremely long and dispatriate images.
+The report should help anyone in the future understand why there was a reform in video game journalism, or how things became the way they are; depending on how this all ends.
 
-After this ordeal is over and done, people are going to want to know what happened and why. The wiki should help anyone in the future understand why there was a reform in video game journalism, or why /v/ went to shit, depending on how this all ends.
+## Quick and Dirty Sources
+
+These sources have taken a neutral view on the madness, so read all about it and pick sides or whatever.
+
+* [Forbes - What is GamerGate?](http://www.forbes.com/sites/quora/2014/10/13/what-is-gamergate-and-how-did-it-blow-up-into-such-a-giant-conspiracy/)
+* [OGeeku - All Quiet on the 4chan Front](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/)
 
 ## TODO
 
