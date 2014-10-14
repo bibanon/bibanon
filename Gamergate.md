@@ -6,7 +6,7 @@ After incidents rampant censorship on blogs, Reddit and other forums broke the n
 
 ## The Revolution
 
-The GamerGate protests began as a justified movement backed by a diverse group of individuals (many of which were women), as well as other major names in the gaming and online community. They came together through Twitter hashtags, Reddit, and of course, 4chan threads. The reactionaries worked in opposition in the same way. It's important to note that none of the sides in this conflict are coordinated or united in any fashion; each individual acts out of their own accord, with their own goals in mind. That was a recipe for disaster.
+The GamerGate protests began as a justified movement backed by a diverse group of individuals (many of which were women), as well as other major names in the gaming and online community. They came together through Twitter hashtags, Reddit, and of course, 4chan threads. The reactionaries worked in opposition in the same way. It's important to note that none of the sides in this conflict are coordinated or united in any fashion; each individual acts out of their own accord, with their own goals in mind. [That was a recipe for disaster.](http://i1.kym-cdn.com/photos/images/original/000/846/070/24a.png)
 
 At first, 4chan tried something new to beat their opponents at their own game; nonviolent protest, such as backing The Young Fine Capitalists (a group attempting to bring more women into game development; which Zoe Quinn tried to stop), and working with other forums to make public campaigns that revealed the truth of the matter. 
 
@@ -21,8 +21,6 @@ In addition, The Young Fine Capitalists came under attack from hackers, other fe
 The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. The bad blood stirred up will remain a divisive topic for years to come. It doesn't help that sensationalism, which embellishes the atrocities of one side, is rampant in the media.
 
 No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
-
-* [GamerGate - Public Service Announcement: How to Respond to a Death Threat](http://i1.kym-cdn.com/photos/images/original/000/846/070/24a.png)
 
 ---
 
