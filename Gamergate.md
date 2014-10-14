@@ -16,7 +16,7 @@ In addition, The Young Fine Capitalists came under attack from hackers, other fe
 
 ## All Quiet on the 4chan Front
 
-[After these and other incidents broke their nerve](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/), extremists from both side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals. Some GamerGate backers
+[After these and other incidents broke their nerve](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/), extremists from both side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals.
 
 The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. The bad blood stirred up will remain a divisive topic for years to come. It doesn't help that sensationalism, which embellishes the atrocities of one side, is rampant in the media.
 
