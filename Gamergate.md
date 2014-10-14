@@ -18,6 +18,8 @@ In addition, The Young Fine Capitalists came under attack from hackers, other fe
 
 [After these and other incidents broke their nerve](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/), extremists from both side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals.
 
+Even after the gaming industry announced increased journalistic integrity guidelines (fulfilling the original goal of the protest), it did not heal the wounds created through conflict, and some demanded revenge against the other.
+
 The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. The bad blood stirred up will remain a divisive topic for years to come. It doesn't help that sensationalism, which embellishes the atrocities of one side, is rampant in the media.
 
 No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
@@ -36,6 +38,8 @@ These sources have taken a neutral view on the madness, so read all about it and
 * [OGeeku - No winners in the war over Zoe Quinn](http://ogeeku.com/blog/2014/08/31/war-over-zoe-quinn-nowinners/)
 * [OGeeku - All Quiet on the 4chan Front](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/)
 * [KnowYourMeme - Gamergate](http://knowyourmeme.com/memes/events/gamergate)
+* [The Escapist Forum - GamerGate Discussion Debate and Resources](http://www.escapistmagazine.com/forums/read/18.860762-GamerGate-Discussion-Debate-and-Resources)
+* [The Escapist Forum - ]()
 
 ## TODO
 
