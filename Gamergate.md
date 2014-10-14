@@ -40,7 +40,7 @@ These sources have taken a neutral view on the madness, so read all about it and
 * [OGeeku - All Quiet on the 4chan Front](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/)
 * [KnowYourMeme - Gamergate](http://knowyourmeme.com/memes/events/gamergate)
 * [The Escapist Forum - GamerGate Discussion Debate and Resources](http://www.escapistmagazine.com/forums/read/18.860762-GamerGate-Discussion-Debate-and-Resources)
-* [The Escapist Forum - ]()
+* [Gamergate Operation Git Repo](http://gitgud.net/gamergate/gamergateop)
 
 ## TODO
 
