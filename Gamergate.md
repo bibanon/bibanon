@@ -24,7 +24,7 @@ The report should help anyone in the future understand why there was a reform in
 
 ## Quick and Dirty Sources
 
-These sources have taken a neutral view on the madness, so read all about it and pick sides or whatever.
+These sources have taken a neutral view on the madness, so read all about it and discover all angles of the increasingly destructive conflict.
 
 * [Reason.com - Gamergate Report](http://reason.com/archives/2014/10/12/gamergate-part-i-sex-lies-and-gender-gam)
 * [OGeeku - No winners in the war over Zoe Quinn](http://ogeeku.com/blog/2014/08/31/war-over-zoe-quinn-nowinners/)
