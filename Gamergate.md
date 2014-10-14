@@ -10,7 +10,7 @@ The GamerGate protests began as a justified movement backed by a diverse group o
 
 At first, 4chan tried something new to beat their opponents at their own game; nonviolent protest, such as backing The Young Fine Capitalists (a group attempting to bring more women into game development; which Zoe Quinn tried to stop), and working with other forums to make public campaigns that revealed the truth of the matter. 
 
-However, on 4chan, anons already nervous of censorship went berzerk when 4chan mods attempted to corral them into a single thread (inadvertently deleting threads in the process); it didn't help that The Fappening happened around the same time. The result was Moot's reiteration of [[old "Martial Law" policies from 2006|4chan - The Crackdown]], in an attempt to maintain order.  
+However, on 4chan, anons already nervous of censorship went berzerk when 4chan mods attempted to corral them into a single thread (a process which unfortunately involves deleting threads); it didn't help that The Fappening happened around the same time. The result was Moot's reiteration of [[old "Martial Law" policies from 2006|4chan - The Crackdown]], in an attempt to maintain order.  
 
 In addition, The Young Fine Capitalists came under attack from hackers, other feminists who saw them as a "traitor to their cause", and shitstorms ensued. The protesters could no longer hold their fire under severe setbacks; many decided that it was time to strike.
 
