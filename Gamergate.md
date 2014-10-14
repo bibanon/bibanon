@@ -12,7 +12,7 @@ However, on 4chan, anons already nervous of censorship went berzerk when 4chan m
 
 [After these and other incidents broke their nerve](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/), extremists from either side of the conflict launched destructive and wholly immoral attacks against each other and innocent individuals.
 
-The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. It doesn't help that sensationalism, which embellishes the atrocities of one side, is rampant in the media.
+The two sides are now marred in a grievous battle of attrition that divides the gaming community and ruins the lives of bystanders. The bad blood stirred up will remain a divisive topic for years to come. It doesn't help that sensationalism, which embellishes the atrocities of one side, is rampant in the media.
 
 No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
 
