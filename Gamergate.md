@@ -12,7 +12,7 @@ At first, 4chan tried something new to beat their opponents at their own game; n
 
 However, on 4chan, anons already nervous of censorship went berzerk when 4chan mods attempted to corral them into a single thread (inadvertently deleting threads in the process); it didn't help that The Fappening happened around the same time. The result was Moot's reiteration of [[old "Martial Law" policies from 2006|4chan - The Crackdown]], in an attempt to maintain order.  
 
-In addition, The Young Fine Capitalists came under attack from hackers, other feminists who saw them as a "traitor to their cause", and shitstorms ensued. The protesters could no longer hold their fire; they decided it was time to strike.
+In addition, The Young Fine Capitalists came under attack from hackers, other feminists who saw them as a "traitor to their cause", and shitstorms ensued. The protesters could no longer hold their fire under severe setbacks; many decided that it was time to strike.
 
 ## All Quiet on the 4chan Front
 
