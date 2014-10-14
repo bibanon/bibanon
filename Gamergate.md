@@ -1,6 +1,6 @@
 This is a community-editable report on the shitstorm unleashed by the Zoe Quinn scandal. The scandal had severe implications on the video game journalism industry, and even revealed a troubling insight into the power of forum moderators as gatekeepers of information. 
 
-In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. Extremist reactionaries were called to battle to oppose them, and the war began. 
+In response, major online communities launched united campaigns to protest the scandal, in a unique new way; attempting to bring public opinion on their side of the fence. And once extremist reactionaries were called to battle to oppose them, the war began. 
 
 ---
 
