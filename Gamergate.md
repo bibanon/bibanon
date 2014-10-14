@@ -20,6 +20,8 @@ The two sides are now marred in a grievous battle of attrition that divides the 
 
 No one has their hands clean here. And as the war drags on, it's slated to be as controversial as the Israel-Palestine conflict, with nary a moral leg to stand on.
 
+* [GamerGate - Public Service Announcement: How to Respond to a Death Threat](http://i1.kym-cdn.com/photos/images/original/000/846/070/24a.png)
+
 ---
 
 As the situation goes on, we are going to need a solid, well sourced report of all that has happened; it’s truly an unprecedented event in internet history. 
