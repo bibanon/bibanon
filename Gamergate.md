@@ -34,6 +34,7 @@ The report should help anyone in the future understand why there was a reform in
 
 These sources have taken a neutral view on the madness, so read all about it and discover all angles of the increasingly destructive conflict.
 
+* [Al Jazeera - Gamergate Stream](http://stream.aljazeera.com/story/201409032102-0024126)
 * [Reason.com - Gamergate Report](http://reason.com/archives/2014/10/12/gamergate-part-i-sex-lies-and-gender-gam)
 * [OGeeku - No winners in the war over Zoe Quinn](http://ogeeku.com/blog/2014/08/31/war-over-zoe-quinn-nowinners/)
 * [OGeeku - All Quiet on the 4chan Front](http://ogeeku.com/blog/2014/09/15/gamergate-quiet-4chan-front/)
