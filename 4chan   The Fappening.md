@@ -16,6 +16,8 @@ The leak unleashed a grievous scandal, public outcry against 4chan itself (thoug
 
 ## Timeline
 
+A quick and dirty timeline can be found [at our Google Docs](https://docs.google.com/document/d/13Q0sbCt2AdX1xML2CZ2iGQ-TGeswFpehj_yu8qm1BWU/edit?usp=sharing), and will be posted to this page eventually.
+
 ### How the hell did the leaker get this stuff?
 
 > *Some men... Just want to see the world burn.*
