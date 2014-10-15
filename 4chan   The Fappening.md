@@ -20,6 +20,8 @@ The leak unleashed a grievous scandal, public outcry against 4chan itself (thoug
 
 > *Some men... Just want to see the world burn.*
 
+![](http://i0.wp.com/bitcoinist.net/wp-content/uploads/2014/09/vnd0H9J.jpg)
+
 There is a massive underground movement where users trade (usually photoshopped) nude photos of celebrities, and pay tons of money for the privilege. When you're talking about photos worth millions of dollars; well, it's a huge incentive for a hacker or two to make some easy money. Just like illegally obtained fine art, most users jealously guard their loot, and will never share it with anybody; knowing full well the bombshell scandal that will unfold if it does get out.
 
 [Here's a good GQ Article on the topic.](http://www.gq.com/news-politics/newsmakers/201205/chris-chaney-hacker-nude-photos-scarlett-johansson)
