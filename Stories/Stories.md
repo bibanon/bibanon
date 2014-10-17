@@ -46,7 +46,8 @@ Stories told of trials and tribulations, faced by those anons whose love is not 
 * **[[Uncle Anon]]** - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
 * **[[The Liliad]]** - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
 * **[[Tasha's Brother]]** - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
-* **[[Oral Hygiene]]** - What happens when an /a/non, at the encouragement of his fellows, takes an interest in his younger sister's teeth. 
+* **[[Oral Hygiene]]** - What happens when an /a/non, at the encouragement of his fellows, takes an interest in his younger sister's teeth.
+* **[[Amy-&-Cam]]** - A /b/tard ends up humoring his little sister's crush on him, fending off her jealousy and his own cheesy remarks to build a rather cuddly relationship. 
 
 ### Little Bit of Everything
 Feel like fapping, laughing and crying at the same time? These are for you.
