@@ -6,3 +6,7 @@
 
 * /pol teaches itself Somali
 ** http://archive.4plebs.org/pol/thread/37373872/
+
+## Other Chans
+
+* [AnonIB - A Likely Story](http://i.imgur.com/0A3etmj.jpg)
