@@ -28,3 +28,9 @@ A "Let's Play" is a playthrough of a video game that is recorded and shared with
 
 * [Medieval II: Total War](http://lparchive.org/A-Scotsman-In-Egypt/) - A Scotsman in Egypt: The golden standard of narratives
    * It is 1080. William the Conqueror rules England, the Dark Ages have just begun, and two Scottish princes are waking up from their hangovers, only to find that they are on an invasion fleet headed towards Egypt. The result will fill a 200 year chronicle and change the course of human history. Also has a sequel, [An Egyptian in Scotland](http://lparchive.org/An-Egyptian-in-Scotland/). 
+
+## Unique Subreddits
+
+* /r/Excel - Stuck at work with a Windows computer that is totally locked down? With the power of bloated Excel, you can create a GUI with Visual Basic to access the Win32 API, and create helpful tools, basic games, a Web Browser form, even a media player that streams movies from your SSH home server. And all processes are shown as subdivisions of Excel! It's the equivalent of a programmable calculator for cubicle workers.
+  * [/r/Excel VBA Training Thread](http://www.reddit.com/r/excel/comments/2e28s3/_/)
+  * [SSH Streaming Media Player in Excel](http://www.reddit.com/r/excel/comments/2jtd2f/worked_on_a_completely_locked_down_machine_time/)
