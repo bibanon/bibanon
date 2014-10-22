@@ -1,3 +1,5 @@
-TED talks, etc.
+## TED talks, Conference Panels etc.
 
-http://vimeo.com/95066828
+* [TED - Moot's Panel on Anonymity and 4chan]()
+* [Monitorama 2014 - Hilarious satirical panel on the horrors of the cloud](http://vimeo.com/95066828)
+* Reddit /r/nofap
