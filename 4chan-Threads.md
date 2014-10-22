@@ -4,6 +4,8 @@ Ironically, [Reddit's /r/4chan](http://www.reddit.com/r/4chan/) is the most accu
 * Madoka Cryptography - Most of the details and images were extracted from the threads through the hard work of [the Madoka Wiki.](https://wiki.puella-magi.net/)
 ** http://archive.moe/a/thread/44782290
 
+* http://boards.4chan.org/a/thread/115700333
+
 ## /pol/
 
 * /pol teaches itself Somali
