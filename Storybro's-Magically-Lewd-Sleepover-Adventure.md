@@ -4,14 +4,14 @@
 
 The Author, Storybro, continually echoed the sentiment that "Enough of it was true to matter, and the rest was simply artistic license to make it flow"; because of the realism of the characters, the accuracy to the time period and the consistent poor decisions of the main character it's well accepted the story is probably not completely fictional. The story is interesting in its own right because although it's told entirely from a first person standpoint, the main character shifts over the course of the story.
 
-Because of the Authors meticulous archiving, The **full story is available on this** [Google Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#), the author felt that commentary and discussion were an important part of the story and thus comments are enabled. There are also provided links to an archived version of every single thread of the story. This includes the thousands of woody images posted along with every thread.
+Because of the Authors meticulous archiving, The **full story is available on this** [Hub Page](http://storybroadventures.wordpress.com/about/storybros-magically-lewd-sleepover-adventure/), the author felt that commentary and discussion were an important part of the story and thus comments are enabled and encouraged. There are also provided links to an archived version of every single thread of the story. This includes the thousands of woody images posted along with every thread.
 
 This story takes the current record as "Longest Greentext Ever Written" clocking in at over 400 pages. Many anons believe it's the beginning of the emergence of a completely new writing style. Although the storyteller initially writes in a very rough and casual greentext format, the later updates are exceptionally detailed and well versed.
 
 
 ### Posting History
 
-The author initially began posting this story to /v/ on a "Greentext Vidya Sleepovers" Thread. Started out nameless, and obviously didn't expect to tell the story past the bits where all the anons on the thread could fap. Due to overwhelming support and popularity it was continued through multiple chapters on /v/. The writing style reflects this and it quickly transitions between a rough greentext format, to a full first hand retelling of the experiences lavish with detail. The story and pen name were chosen by anons. "Storybro" and "Storybro's Magically Lewd Sleepover Adventure" on an [open-discussion Google document](https://docs.google.com/document/d/1JDJVFoV2liUOI0BPSMZVPUvT1PNUrTiSRMIQz6DTiT8/edit#heading=h.3p5440nfv9t6) that was only active for a short number of updates before it was deemed too much work.
+The author initially began posting this story to /v/ on a "Greentext Vidya Sleepovers" Thread. Started out nameless, and obviously didn't expect to tell the story past the bits where all the anons on the thread could fap. Due to overwhelming support and popularity it was continued through multiple chapters on /v/. The writing style reflects this and it quickly transitions between a rough greentext format, to a full first hand retelling of the experiences lavish with detail. The story and pen name were chosen by anons. "Storybro" and "Storybro's Magically Lewd Sleepover Adventure" on an [open-discussion Google document](https://docs.google.com/document/d/1JDJVFoV2liUOI0BPSMZVPUvT1PNUrTiSRMIQz6DTiT8) that was only active for a short number of updates before it was deemed too much work.
 
 Because /v/ pretends to be a video game board, the author had to fight various bans, mutes and thread deletions before threads were moved to the permanent home on R9k. The story was posted over the span of a month. With near nightly updates at 8:00 PM (pst). Threads consisted of single post updates every 8-10 minutes with discussion, shitstorms and usual reactions between each post. Because of the formatting of the threads it left the author with many chances to drop cliffhangers for the reading anons, and reading the threads was a completely different experience between simply reading it on the document. Most readers formed factions and argued between one another on which girl was best, and should end up with the main character at the end.
 
@@ -22,33 +22,14 @@ Because of the slow speed of R9k, there was an active thread nearly every moment
 
 ### The Girls
 
-Although Storybro never provided actual pictures of the women, he noted various anime characters they look like and anons made quick haste compiling images of all of them.
-These are some of the better ones
-[1st](http://i.imgur.com/b2DoRRa.jpg)
-[2nd](http://i.imgur.com/P0hN9zJ.jpg)
-[3rd](http://i.imgur.com/ywU83MM.png)
+Although Storybro never provided actual pictures of the women, he noted various anime characters they look like and now has an official page outlining what they look like. [Girls - Sleepover](http://storybroadventures.wordpress.com/about/storybros-magically-lewd-sleepover-adventure/the-girls-sleepover/)
+ Further discussions with the author across the telling of the second story confirm the actual existence of the females involved.
 
-Many believe the characters are lifted directly from nisekoi but the author has stated time and time again that they no longer watch anime and haven't for years. This correlation is likely just a coincidence and important things like eye color, hair length, or chest size, don't match.
 
 Fan Groups emerged throughout the story such as Team Raven, Team Glasses, Team Blondie, and Team Sandwichbro. On threads and in the skype chat it was a common competition to weigh the girls on different merits and argue about which ones were best, and which ones the main character should eventually settle with.
 
 
 
-### Storybro
-
-Age: 22-25(?) at time of writing.
-Gender: Female(?)
-
-The author was happy to talk to the readers during the course of the story's writing. Through this we learned that they had recently lost their job for unknown reasons, had sunken into depression over past events and had taken to telling a story on 4chan. The skype name given at the top of the document should still work if you wish to contact him/her.
-
-Although the gender is ambiguous, the author accepted donations (reluctantly) because of the job situation, and the email address given links back to game accounts of Females across various forums and boards. Some of these boards included the league of legends forums (not giving user ID due to wiki rules), where the user was renown for being female, and has various high profile and extremely liked threads with stories, and some fictional comical additions to the lore. It's widely agreed that the writing style between these stories seems to match.
-
- This and other snippets of information gleaned through the last thread (such as the author saying that a specific girl and themselves would "always" be on good terms and mentioned that same girl was "Fine, ask her yourself") has brought multiple theorycrafting anons to conclude the author is most likely the "Raven" character from the story. From the way events play out, and the somewhat finalistic remarks made, it's possible the actual main character passed away, if not during this story than one in the future, and writing these stories is her way of coping with his death.
-
-Text analysis programs state the story is composed of 182,000 Words, and is predominantly female in writing style. 
-
-
-When asked about this, the author toys with words to respond with ambiguity, or uses alternating pronouns for him/herself in the same sentence. No gender has been confirmed and attempts to contact them via voice calls on skype have turned up female voices in the background, or none at all.
 
 ### The Woody
 
@@ -59,7 +40,7 @@ In addition to this, the author posted a new and different woody picture for eac
 The OP, being a nice guy offered up two .rars of woody pictures at the end of the story. It was revealed that over 1422 different images were posted in the progress of this story. Which is a testament to the amount of time and effort the author put into it.
 
 ### The Story
-Its suggested you use the official [Document](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#) assuming that still exists because it has features not available on the wiki. But for archival reasons here's the story in text-format.
+Its suggested you use the official [Blog](http://storybroadventures.wordpress.com/) assuming that still exists because it has features not available on the wiki. But for archival reasons here's the story in text-format.
 
 [Magically Lewd Sleepover : Notes](https://github.com/bibanon/bibanon/wiki/Magically-Lewd-Sleepover-:-Notes)
 
@@ -76,10 +57,11 @@ Its suggested you use the official [Document](https://docs.google.com/document/d
 [[Magically Lewd Sleepover : Ending Notes.html]]
 
 ### Road Trip Adventure
-A second story was started, may 17th. The page can be found here [[Storybro's Magically Lewd Road Trip Adventure  ]]
+A second story was started, may 17th. The page can be found here [Storybro's Magically Lewd Road Trip Adventure](http://storybroadventures.wordpress.com/about/magically-lewd-road-trip-adventure/)
 
 ### Sources
 
+* [Storybro Blog (New Home of Stories)](http://storybroadventures.wordpress.com)
 * [Storybro's Google Doc](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/edit#)
 * [Published Document (Secondary Backup: Use this if the first document is down)](https://docs.google.com/document/d/1KvjPwwYXYNMopylbhQNl5e3_UFvV8qP_We72xWYCmao/pub)
 * [ASSTR Secondary text-only story host (For mobile devices)](http://www.asstr.org/files/Authors/Storybro/)
