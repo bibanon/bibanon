@@ -4,7 +4,7 @@
 
 ## Fix this shit
 
-Currently this page is a horrible mess. Please help out and format it better for us, and keep it updated with the original page at the [Partyvan Wiki](http://partyvan.info/wiki/Lulz:_A_Corruption_of_LOL_(soundtrack)).
+Currently this page is a horrible mess. Please help out and format it better for us, and keep it updated with the original page at the [Partyvan Wiki](http://insurg.in/index.php?title=Lulz:_A_Corruption_of_LOL_%28soundtrack%29).
 
 ## Proposed Albums
 
