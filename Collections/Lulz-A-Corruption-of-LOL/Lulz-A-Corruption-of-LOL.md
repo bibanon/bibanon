@@ -10,9 +10,15 @@ Currently this page is a horrible mess. Please help out and format it better for
 
 Want to add your own new albums to this collection? See [[Proposed Albums]]. Also, why not check out [[the comments|Lulz Comments]] of the [[people who made|Insurgency Wiki]] these albums?
 
-## All Albums ##
+## The Download ##
+
+* [Disks: 1-16 + 4Chan Sountrack](https://mega.co.nz/#F!UY8zkKBC!Wmxsdf8VjQwYzfXycKut8Q)
+* [Torrent of same](https://thepiratebay.se/torrent/11469323)
 
 These are complete collections of all albums on this page.
+## Dead Links##
+
+Keeping these for... historical interest?
 
 * [Disks: 1-9, 11-13 FileServe](http://www.fileserve.com/list/MbZXgT9)
 
