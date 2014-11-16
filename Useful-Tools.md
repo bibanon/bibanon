@@ -12,3 +12,9 @@
 ## Regular Expressions
 
 * [Regexr](http://www.regexr.com/) - Create and share Regular Expressions for everyone to use. Great for learning how to make them.
+
+## Programming Guidelines
+
+* **Use the GPLv3 for programs/scripts.** - This ensures that the source code of our programs stay open-source, and any derivatives are open source.
+* **Use the LGPLv3 for libraries.** - This ensures that the source code of our libraries stay open source. Unlike the GPL, however, the LGPL allows statically linked (`import library`) programs to use any license they want.
+  * The only exception is the BASC-py4chan wrapper, which uses the WTFPL. This is a humorous tradition inherited in honor of Edgeworth E. Euler.
