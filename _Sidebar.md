@@ -68,7 +68,7 @@ Bibliotheca Anonoma
 
 ## Website Archives
 
-* [Insurgency/Partyvan Wiki](https://github.com/bibanon/Insurgency-Wiki/wiki)
+* [Insurgency/Partyvan Wiki](http://insurg.in/index.php?title=Main_Page)
 * [Tanasinn.info Kopipe (Copypasta)](https://github.com/bibanon/Tanasinn-Kopipe/wiki)
 * [Neglected Mario Characters](https://github.com/bibanon/Neglected-Mario-Characters/wiki)
 * [Twitch Plays (Pokemon)](http://github.com/bibanon/Twitch-Plays/wiki)
