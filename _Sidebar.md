@@ -59,6 +59,7 @@ Bibliotheca Anonoma
 * [[BASC Anthology]]
 * [[Copypasta]]
 * [[Lulz A Corruption of LOL]]
+* [[Information Library]]
 * [[Essays]]
 * [[Text Art]]
 * [[IRC Quotes]]
