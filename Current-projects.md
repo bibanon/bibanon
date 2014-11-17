@@ -1,5 +1,6 @@
-## 4chan /b/
+## 4chan
 
+* [A good story to add to the Father and Daughter collection.](http://imgur.com/gallery/Tw5mdfx)
 * [[Tasha's Brother]] - Story has finished. An archive is [here](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg), to be converted.
 
 ## Liquidation
