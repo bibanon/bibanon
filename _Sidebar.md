@@ -33,7 +33,6 @@ Bibliotheca Anonoma
 
 ### History
 
-* [[The People's History of Anonymous]]
 * [[4chan Chronicle]]
   * [[2ch History]]
   * [[2channel]]
@@ -42,6 +41,7 @@ Bibliotheca Anonoma
   * [[Ayashii World]]
 * [[Something Awful]]
 * [[The People's History of Fansubs]]
+* [[The People's History of Anonymous]]
 * [[People]]
 * [[more...|History]]
 
