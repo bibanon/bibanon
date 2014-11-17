@@ -63,7 +63,9 @@ And indeed, it was.
 
 Comment by J. Stone: *I believe I have found out the location of nurse-kun and ampu-tan I am 90% sure that they are located somewhere around Washington DC.*
 
-> For the first outing in chapter 16 they went to the Kennedy Center for Performing arts (Which in 1992 was renovated to be more handicapped accessible) The Smithsonian National Air and Space Museum I am not that sure about the library though. Next in chapter 19 for the hockey game they went to the Version center which hosts the Washington Capitols. And finally in chapter 21 when they went on their walk it was at the Tidal Basin and or West Potomac Park which as Nurse-kun stated is usually packed with people watching the cherry blossoms bloom. 
+> For the first outing in chapter 16 they went to the Kennedy Center for Performing arts (Which in 1992 was renovated to be more handicapped accessible) The Smithsonian National Air and Space Museum I am not that sure about the library though.  
+> Next in chapter 19 for the hockey game they went to the Version center which hosts the Washington Capitols.  
+> And finally in chapter 21 when they went on their walk it was at the Tidal Basin and or West Potomac Park which as Nurse-kun stated is usually packed with people watching the cherry blossoms bloom. 
 
 ## Characters
 
