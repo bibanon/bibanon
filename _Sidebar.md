@@ -21,6 +21,7 @@ Bibliotheca Anonoma
 * [[Tramp Anon]]
 * [[Sweet Home 1985]]
 * [[Blindmute Loli]]
+* [[Denko]] - (´･ω･`)
 * [[Storybro's Sleepover Adventure|Storybro's Magically Lewd Sleepover Adventure]]
 * [[Damaged Goods]]
 * [[The Bridgekeeper]]
