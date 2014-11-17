@@ -24,7 +24,7 @@ The original threads were uploaded to temporary download sites where they were s
 
 With the discovery of the original threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to. These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.
 
-## [[Chapters|Damaged Goods Chapters]] ##
+## [[Chapters|Damaged Goods Chapters]]
 
 Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
 
