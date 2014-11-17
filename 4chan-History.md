@@ -1,0 +1,1 @@
+Moved to [[4chan Chronicle]].
