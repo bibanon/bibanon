@@ -9,13 +9,14 @@ made this, and this is for us to share. So continue to share as we continue to s
 
 ## Transcription Project
 
-We will attempt to as many images into wiki pages as possible, so they will take up less space and become easier to update. That way, we could probably implement them into the [[Encyclopedia_Anonoma]].
+We will attempt to convert as many images into wiki pages as possible, so they will take up less space and become easier to update.
 
 The best way to convert images to text is with [[OCR]] programs. Run them through, edit any typos and format it with [[Markdown]], and just post them here.
 
 All pages should conform to the same directory structure as on the Information Library's downloads.
 
 ## Articles
+
 (Please transcribe some and post them here...)
 
 ## Images
