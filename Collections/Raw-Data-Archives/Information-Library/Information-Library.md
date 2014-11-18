@@ -18,7 +18,7 @@ All pages should conform to the same directory structure as on the Information L
 
 ## Images
 
-[[!img info-library.jpg size=800x]]
+[[info-library.jpg]]
 
 [[info-library-v21.jpg]]
 
