@@ -18,9 +18,9 @@ All pages should conform to the same directory structure as on the Information L
 
 ## Images
 
-[ [[info-library.jpg]] ](info-library.jpg)
+[ [[info-library.jpg]] ](https://raw.githubusercontent.com/wiki/bibanon/bibanon/Collections/Raw-Data-Archives/Information-Library/info-library.jpg)
 
-[[info-library-v21.jpg]]
+[ [[info-library-v21.jpg]] ](https://raw.githubusercontent.com/wiki/bibanon/bibanon/Collections/Raw-Data-Archives/Information-Library/info-library-v21.jpg)
 
 ## Downloads
 
