@@ -20,7 +20,7 @@ One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series
 
 ![](http://i.imgur.com/8hwgvrk.gif)
 
-Unsurprisingly, this outlandish theory enticed /a/nons to peer review it's credibility.
+Unsurprisingly, this outlandish theory enticed /a/nons to [peer review it's credibility.](https://commandoanime.wordpress.com/2012/05/14/my-high-school-psychology-teacher-on-nisemonogataris-toothbrush-scene/)
 
 ## October 3
 
