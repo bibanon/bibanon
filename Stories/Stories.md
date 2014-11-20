@@ -80,7 +80,8 @@ These stories will make you hurl.
 * **[[Rome Sweet Rome]]** - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
 * **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
 * **[[Sweet Home 1985]]** - A story of what happens when a man from 2011 wakes up in the year 1984, and is forced to seek help at his own childhood home. Due to a similar inception to RomeSweetRome, it was put into the subreddit [/r/1985Sweet1985](http://www.reddit.com/r/1985sweet1985/).
-  * We were unable to find the original Reddit threads of this story on our own, but a user named [Vestrideus](https://github.com/vestrideus) discovered that we had mistitled it 1984, rather than 1985. Many thanks, bro. 
+  * We were unable to find the original Reddit threads of this story on our own, but a user named [Vestrideus](https://github.com/vestrideus) discovered that we had mistitled it 1984, rather than 1985. Many thanks, bro.
+* [The Linguist](http://www.reddit.com/r/AskReddit/comments/u6ocu/whats_your_favorite_wtf_did_i_just_read/c4sscej) - "Ror grubburg, mossom non lil tomot dud. Ses nin?"
 
 ## [[Wikichan]]
 
@@ -103,6 +104,7 @@ Links to good stories hosted outside of the Bibliotheca Anonoma.
   * While Danny Choo drifted worldwide through a variety of admirable careers, he is most famous for a startup that created websites and translated English for Japanese companies. That startup evolved into today's well-connected [Culture Japan](http://dannychoo.com/en/post/25018/Danny+Choo.html); which he made to promote Japanese culture throughout the world, to reach people just as it had inspired him.
   * \>He will soon be known for bringing about the enslavement of humanity by sexy robot dolls. hue hue hue
 * [Narcissu](http://narcissu.insani.org/) - A heartbreaking visual novel of a road trip by a man and a woman, both of whom die. Safe for Work.
+* [The Hunt for the Death Valley Germans](http://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/) - spoopy
 
 ### Comics
 
