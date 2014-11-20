@@ -35,5 +35,3 @@ Many of Shii's essays, translations, and other projects contained interesting bi
 * [Zybourne Clock](http://zybourne.heroku.com/home.html)
 * [Bibliography of Michael Ende](http://archive.is/0198l)
 * [A History of Eroge - Satoshi Todome](http://archive.is/2p397) - It says "non-redistributable", but a good lot did that do for us.
-
-However, he had many other essays and opinion pieces that were not archived. Please help out and list out what he had, from internet archives.
