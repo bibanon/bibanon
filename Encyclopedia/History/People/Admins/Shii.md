@@ -4,7 +4,7 @@ He served as one of 4chan's original moderators, but was overthrown during the c
 
 ## Shii's Personal Wiki (DOWN)
 
-> *As of 2013, Shii has deleted/disabled his wiki. A partial(?) archive can be found here: <http://archive.is/shii.org>*
+> *As of 2013, Shii has deleted/disabled his wiki. The Bibliotheca Anonoma has released complete archive  here: <https://github.com/bibanon/everything-shii-knows>
 
 Shii's wiki, called ["Everything Shii Knows"](http://shii.org/knows/), was one of the first major personal wikis in existence. It was created in his disgust with the decisions Wikipedia had to make in a choice between editing anarchy and bureaucratic uselessness. He suggested that people should instead make their own personal wikis, which could then be synced together; an idea we adopted when basing the Bibliotheca Anonoma on a git-based wiki.
 
