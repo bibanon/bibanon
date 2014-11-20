@@ -12,7 +12,7 @@ The anon's tripcode was [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode
 
 One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series is the ["toothbrush scene".](http://www.youtube.com/watch?v=YlBvZ-GJqjc) It really proves the adage that *"metaphors can be dirtier than 'the act' itself."*
 
-> Araragi, in a last ditch attempt to dissuade his little sister Karen from visiting his friend (the deviant Kanbaru); challenges her to *last 15 minutes while he brushes her teeth.*  
+> Araragi, in a last ditch attempt to dissuade his little sister Karen from visiting his friend (the deviant Kanbaru); challenges her to *survive 15 minutes while he brushes her teeth.*  
 > Karen agrees to brave the seemingly easy challenge. But it only takes a few seconds for her to realize:  
 > That getting your chompers cleaned at the hands of another can be *an unbearably sensual experience.*  
 
