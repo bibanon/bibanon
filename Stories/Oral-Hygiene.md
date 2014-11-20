@@ -6,7 +6,7 @@ So one day, an /a/non decided to try it out for himself. And soon, he became dub
 
 The anon's tripcode was [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode/%21%215jOMMVk3LQU/), and later, [OHB !!dQ+KUKcTx4n.](https://archive.moe/a/search/tripcode/!!dQ%2BKUKcTx4n/)
 
-> **Note:** OHB has extra content on his second tripcode that has not been archived. Retrieve it when possible. Also grab the comments, which is a BASC tradition.
+> **Note:** It is a BASC tradition to archive the comments and Q&A discussions of a story, so try and grab those from the tripcodes above.
 
 ## Background
 
