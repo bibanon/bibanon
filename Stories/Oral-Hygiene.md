@@ -1,8 +1,23 @@
-At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. While hugging was the most common, there were also "tooth-brushing" threads, where the idea was for an anon to offer to brush their imouto's teeth.
+At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. While hugging was the most common, there were also "tooth-brushing" threads, where the idea was for an anon to offer to brush their imouto's teeth. So one day, an anon decided to try it out for himself. He then told his story over a period of several months. 
 
-One person did so, then told the story over a period of several months, being dubbed Oral Hygiene Bro.
+Thus, he became dubbed **The Oral Hygiene Bro**: *He who brushes his younger sister's teeth*. 
+
+The anon's tripcode is [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode/%21%215jOMMVk3LQU/).
+
+## Background
+
+One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series is the "toothbrushing scene". It really proves the adage that *"metaphors can be dirtier than 'the act' itself."*
+
+> Araragi, in a last ditch attempt to dissuade his little sister Karen from visiting his friend (the deviant Kanbaru); challenges her to *last 15 minutes while he brushes her teeth.*
+> Karen agrees to brave the seemingly easy challenge. But it only takes a few seconds for her to realize: 
+> That getting your chompers cleaned at the hands of another can be *an unbearably sensual experience.*  
+
+![](http://i.imgur.com/9nKZ2bi.gif)
+
+![](http://25.media.tumblr.com/tumblr_m5munfBTsi1ryqc1xo1_500.gif)
 
 ## October 3
+
 I have a tale for you, /a/.
 
 A few days ago, a thread was posted suggesting /a/ brush his sister's teeth. After some consideration, I offered and eventually did brush my younger sister's teeth for her. I thought it was fun, and she didn't seem to dislike it - though she also didn't think much of my technique. That's the backstory; here's the main event.
