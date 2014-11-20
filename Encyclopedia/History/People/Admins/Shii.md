@@ -22,9 +22,7 @@ Most of his collected stories were already saved and reorganized on the Biblioth
 
 ### Essays
 
-Unfortunately, the vast majority of Shii's personal essays were lost upon the deletion of his site. Also, his site was covered with wretched robots.txt files that prevented Archive.org from keeping any backups. These are the remnants that we can find.
-
-These remnants need to be moved to the Bibliotheca Anonoma.
+Many of Shii's essays, translations, and other projects contained interesting bits of wisdom and rare knowledge here and there. Scrap them from the archives, and move them to the Bibliotheca Anonoma.
 
 * [Shiichan Anonymous BBS](http://wakaba.c3.cx/shii/shiichan)
 * [harper's](http://mcdanesh.wordpress.com/2011/06/03/harpers-from-everything-shii-knows-the-only-reliable-source/)
