@@ -1,8 +1,12 @@
-At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. While hugging was the most common, there were also "tooth-brushing" threads, where the idea was for an anon to offer to brush their imouto's teeth. So one day, an anon decided to try it out for himself. He then told his story over a period of several months. 
+At one time, 4chan's /a/ board developed a trend of threads challenging users to do cute things with their sisters and post reports. 
 
-Thus, he became dubbed **The Oral Hygiene Bro**: *He who brushes his younger sister's teeth*. 
+While hugging was the most common, there were also "tooth-brushing" threads, where the idea was for an /a/non to offer to *brush their imouto's teeth.*
 
-The anon's tripcode is [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode/%21%215jOMMVk3LQU/).
+So one day, an /a/non decided to try it out for himself. And soon, he became dubbed **The Oral Hygiene Bro**: *He who brushes his younger sister's teeth*. 
+
+The anon's tripcode was [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode/%21%215jOMMVk3LQU/), and later, [OHB !!dQ+KUKcTx4n.](https://archive.moe/a/search/tripcode/!!dQ%2BKUKcTx4n/)
+
+> **Note:** OHB has extra content on his second tripcode that has not been archived. Retrieve it when possible. Also grab the comments, which is a BASC tradition.
 
 ## Background
 
@@ -15,6 +19,8 @@ One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series
 ![](http://i.imgur.com/9nKZ2bi.gif)
 
 ![](http://i.imgur.com/8hwgvrk.gif)
+
+Unsurprisingly, this outlandish theory enticed /a/nons to peer review it's credibility.
 
 ## October 3
 
