@@ -7,6 +7,11 @@
 * **I Am IT**
   * [thread 1](https://imgur.com/a/iJD8f) - [thread 2](https://imgur.com/a/B9wqU)
 
+## 4chan Information Thread Archives
+
+* [/a/ Buyfag Thread](https://docs.google.com/document/pub?id=1Y1U5YDGrvgFW-5H_cBnDoHwCfWjPDaQ6p05-HJMcVh4)
+* Daily Japanese Thread
+
 ## LP Archive
 A "Let's Play" is a playthrough of a video game that is recorded and shared with the public. Although no better known for the numerous Youtube LPs (and in fact many of the LPs on the archive are in video format), there are also LPs using screenshots and text, or even hybrids of both formats. The LP Archive saves interesting LPs from Something Awful. This is a collection of what we think is the cream of the crop. Obviously there are more than what we have here, so browse the catalog for yourself.
 
