@@ -9,8 +9,9 @@
 
 ## 4chan Information Thread Archives
 
-* [/a/ Buyfag Thread](https://docs.google.com/document/pub?id=1Y1U5YDGrvgFW-5H_cBnDoHwCfWjPDaQ6p05-HJMcVh4)
+* [/a/ Buyfag Thread](https://docs.google.com/document/pub?id=1Y1U5YDGrvgFW-5H_cBnDoHwCfWjPDaQ6p05-HJMcVh4) - How to buy figmas, pillowcase covers, and other NEET equipment.
 * Daily Japanese Thread
+* [LogicalIncrements](http://www.logicalincrements.com/) (former Falcon Guide from /g/) - All the best parts you need to build a desktop gaming rig PC.
 
 ## LP Archive
 A "Let's Play" is a playthrough of a video game that is recorded and shared with the public. Although no better known for the numerous Youtube LPs (and in fact many of the LPs on the archive are in video format), there are also LPs using screenshots and text, or even hybrids of both formats. The LP Archive saves interesting LPs from Something Awful. This is a collection of what we think is the cream of the crop. Obviously there are more than what we have here, so browse the catalog for yourself.
