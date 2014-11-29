@@ -7,6 +7,11 @@
 * **I Am IT**
   * [thread 1](https://imgur.com/a/iJD8f) - [thread 2](https://imgur.com/a/B9wqU)
 
+## 4chan YouTubers
+
+* [BrendanielReads](https://www.youtube.com/user/BrendanielReads) - Narrates terrible stories of all kinds in a hilarious manner.
+* [ForeverPandering](https://www.youtube.com/user/ForeverPandering2)
+
 ## 4chan Information Thread Archives
 
 * [/a/ Buyfag Thread](https://docs.google.com/document/pub?id=1Y1U5YDGrvgFW-5H_cBnDoHwCfWjPDaQ6p05-HJMcVh4) - How to buy figmas, pillowcase covers, and other NEET equipment.
