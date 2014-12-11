@@ -17,3 +17,4 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
   * [Screenshots](http://imgur.com/a/UZyVs)
 * **2014-12-07** /pol/ and /s4s/ - Moot starts the day by testing out **CAPTCHA-less posting on /pol/.** As a result, eager anons begin to flood the board, and /pol/ users evacuate to colonize /s4s/. By the end of the day, moot renames /pol/ to [The 8 steps of Cuckolding](https://www.youtube.com/watch?v=JPM6LKIaopk), and autoplays this linked youtube video in the background.
   * **2014-12-08** - (ongoing as of 12/09) /pol/ - /pol/ is still being flooded. It looks like the mods may be dead set on killing it. Though Moot has often had a change of heart, such as with /r9k/.
+  * Note: Anons are fairly happy about a much-hated containment board being destroyed, but bear in mind that when you have no trashcan, the trash tends to end up everywhere. Respect your trashcans.
