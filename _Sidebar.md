@@ -23,6 +23,7 @@ Bibliotheca Anonoma
 * [[Blindmute Loli]]
 * [[Denko]] - (´･ω･`)
 * [[Storybro's Sleepover Adventure|Storybro's Magically Lewd Sleepover Adventure]]
+* [[A Tsundere Christmas Carol]]
 * [[Damaged Goods]]
 * [[The Bridgekeeper]]
 * [[The Liliad]]
