@@ -10,9 +10,11 @@ Need to collect any fanart that was made about this...
 
 ### Visual Novel
 
-A Ren'Py visual novel rendition of this story [has been worked on since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the 2014 /a/ sticky, the author decided to rush and release a finalized 1.0 version. The author is anonymous, but seems to have named themselves **VNAnon**. Thanks a lot, man.
+The first Ren'Py [visual novel rendition](https://drive.google.com/file/d/0B7WYx7u6HJh_ZGZiTkJHeHg0YVU/view?usp=sharing) of this story [has been worked on since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) That one was not completely finished, probably due to lack of interest over the years.
 
-It has been archived by the Bibliotheca Anonoma as a [Github repository](https://github.com/bibanon/a-tsundere-christmas-carol), and can be downloaded from [Github Releases](https://github.com/bibanon/a-tsundere-christmas-carol/releases):
+However, after the huge publicity following the 2014 /a/ sticky, one anon updated that VN with a better mod, and released a finalized 1.0 version. The author is anonymous, but seems to have named themselves **VNAnon**. Thanks a lot, man.
+
+This version has been archived by the Bibliotheca Anonoma as a [Github repository](https://github.com/bibanon/a-tsundere-christmas-carol), and can be downloaded from [Github Releases](https://github.com/bibanon/a-tsundere-christmas-carol/releases):
 
 * [v1.0](https://github.com/bibanon/a-tsundere-christmas-carol/releases/tag/v1.0) by VNAnon
   * [Windows](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-win.zip)
@@ -31,7 +33,7 @@ It has been archived by the Bibliotheca Anonoma as a [Github repository](https:/
 The original thread where it all began.
 
 * 4chan Thread
-  * [Archive.moe - https://archive.moe/a/thread/a/58936586](58936586)
+  * [Archive.moe - /a/58936586](https://archive.moe/a/thread/a/58936586)
   * [Image Archive](https://drive.google.com/file/d/0B7WYx7u6HJh_VVhPQ04wS1kwUUU/view?usp=sharing)
 
 ### /a/118778767 : 2014-12-24 (Sticky)
