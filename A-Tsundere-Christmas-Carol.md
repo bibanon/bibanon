@@ -1,19 +1,23 @@
 **A Tsundere Christmas Carol** is a heartwarming anime parody comic posted every Christmas Eve to 4chan's /a/ since 2011. The author is unknown.
 
+## Original Story
+
+(needs to be archived and put into a website... maybe put it on the [Github VN repo](https://github.com/bibanon/a-tsundere-christmas-carol) as a special project... well, let's do it later)
+
 ## Fanart and Derivative Works
+
+Need to collect any fanart that was made about this...
 
 ### Visual Novel
 
 A Ren'Py visual novel rendition of this story [has been worked on since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the 2014 /a/ sticky, the author decided to rush and release a finalized 1.0 version. The author is anonymous, but seems to have named themselves **VNAnon**. Thanks a lot, man.
 
-It has been archived at the Bibliotheca Anonoma Google Drive (will probably upload to Internet Archive later) and can be downloaded from the links below.
+It has been archived by the Bibliotheca Anonoma as a [Github repository](https://github.com/bibanon/a-tsundere-christmas-carol), and can be downloaded from [Github Releases](https://github.com/bibanon/a-tsundere-christmas-carol/releases):
 
-(Maybe we will produce a Github repo and website for this... if we can contact the author about it... though then again we should just build one ourselves and present to him later, or post to /a/, like we did for Hydrus.)
-
-* **A Tsundere Carol v1.0 Visual Novel** (via Bibliotheca Anonoma Google Drive)
-  * [Windows]()
-  * [Mac OS X]()
-  * [Linux]()
+* [v1.0](https://github.com/bibanon/a-tsundere-christmas-carol/releases/tag/v1.0) by VNAnon
+  * [Windows](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-win.zip)
+  * [Mac OS X](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-mac.zip)
+  * [Linux](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-linux.tar.bz2)
 * 4chan Threads
   * [Archive.moe - /a/118813801](https://archive.moe/a/thread/118813801)
   * [Archive.moe - /a/118855818](https://archive.moe/a/thread/118855818)
