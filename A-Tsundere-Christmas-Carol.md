@@ -4,11 +4,11 @@
 
 ### Visual Novel
 
-A Ren'Py visual novel rendition of this story [has been worked on since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the 2014 /a/ sticky, the author decided to rush and release a finalized 1.0 version. The author is anonymous, but seems to have named themselves **VNAnon**. Thanks a lot 
+A Ren'Py visual novel rendition of this story [has been worked on since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the 2014 /a/ sticky, the author decided to rush and release a finalized 1.0 version. The author is anonymous, but seems to have named themselves **VNAnon**. Thanks a lot, man.
 
 It has been archived at the Bibliotheca Anonoma Google Drive (will probably upload to Internet Archive later) and can be downloaded from the links below.
 
-(Maybe we will produce a Github repo and website for this... if we can contact the author about it... though then again we should just build it like we did for Hydrus.)
+(Maybe we will produce a Github repo and website for this... if we can contact the author about it... though then again we should just build one ourselves and present to him later, or post to /a/, like we did for Hydrus.)
 
 * **A Tsundere Carol v1.0 Visual Novel** (via Bibliotheca Anonoma Google Drive)
   * [Windows]()
