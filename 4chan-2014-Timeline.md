@@ -20,3 +20,7 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
   * As of 2014-12-11, the 8 Steps of Cuckolding are gone, but the board still remains a smoldering wreck. One ironic result of all this is that [Gamergate threads are now technically allowed](http://i.imgur.com/pZpPBIx.png).
   * 2014-12-12: [/pol/ becomes a robot.](http://i.imgur.com/TTA3PT5.png) Some techno song that just repeats the phrase "I am a robot" is playing in the background.
   * Note: Anons are fairly happy about a much-hated containment board being destroyed. But bear in mind that without a trash can, garbage will simply pile up everywhere. Please respect your trash cans.
+
+### Epic Threads
+
+* **2014-12-24** - /a/ - [[A Tsundere Christmas Carol]] is reposted to 4chan's /a/, as per tradition since 2011. However, the mods are feeling some serious Christmas Spirit and make it a board sticky.
