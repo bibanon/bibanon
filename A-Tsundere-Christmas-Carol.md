@@ -1,4 +1,4 @@
-**A Tsundere Christmas Carol** is a heartwarming story posted every Christmas Eve to 4chan's /a/ since 2011. The author is unknown.
+**A Tsundere Christmas Carol** is a heartwarming story posted every Christmas Day to 4chan's /a/ since 2011. The author is unknown.
 
 ## Original Story
 
@@ -26,9 +26,17 @@ It has been archived by the Bibliotheca Anonoma as a [Github repository](https:/
 
 (find original threads where it has been posted... just search the title on Archive.moe I think)
 
+### /a/58936586 : 2011-12-25
+
+The original thread where it all began.
+
+* 4chan Thread
+  * [Archive.moe - https://archive.moe/a/thread/a/58936586](58936586)
+  * [Image Archive](https://drive.google.com/file/d/0B7WYx7u6HJh_VVhPQ04wS1kwUUU/view?usp=sharing)
+
 ### /a/118778767 : 2014-12-24 (Sticky)
 
 The 2014 reincarnation of this thread was stickied by the /a/ moderators, bringing the once little known story to the attention of all on 4chan. 
 
-* 4chan Thread Archives
+* 4chan Thread
   * [Archive.moe - /a/118778767](https://archive.moe/a/thread/118778767)
