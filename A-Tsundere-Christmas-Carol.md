@@ -2,7 +2,7 @@
 
 ## Original Story
 
-(needs to be archived and put into a website... maybe put it on the [Github VN repo](https://github.com/bibanon/a-tsundere-christmas-carol) as a special project... well, let's do it later)
+(needs to be archived and put into Github Pages and the [eBOOKGenerator](https://github.com/bibanon/BASC-eBookGenerator)... maybe put it on the [Github VN repo](https://github.com/bibanon/a-tsundere-christmas-carol) as a special project... well, let's do it later)
 
 ## Fanart and Derivative Works
 
