@@ -33,7 +33,7 @@ The man writing his tale is labeled OP, and the replies from [[2channel users|2c
 
 ### BrendanielReads: Denko
 
-A Youtube Indie Voice Actor named [BrendanielReads](http://www.youtube.com/user/BrendanielReads) has created an audiobook of this story, narrating the various personalities of the colorful 2channers with different accents, and thus the horrific ridiculousness of Denko's situation. Check it out below: (it's still ongoing)
+A Youtube Indie Voice Actor named [BrendanielReads](http://www.youtube.com/user/BrendanielReads) has created an audiobook of this story, narrating the various personalities of the colorful 2channers with different accents, and thus the horrific ridiculousness of Denko's situation. Check it out below:
 
 [Denko Audiobook](http://www.youtube.com/playlist?list=PLpNAl5zLZSMUcMfsUrHFGR_avA6Jql2bl)
 
