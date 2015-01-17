@@ -26,6 +26,7 @@ Websites that enshrine the legacy of the 1980s, as seen through childhood's rose
 * [i-Mockery - Hacked ROM Reviews](http://www.i-mockery.com/romhacks/)
 * [Platypus Comix](http://www.platypuscomix.net/) - A man whose father obsessively videotaped every single TV channel he could get a signal from in the 1980s, and he inherited a priceless collection of 1980s TV shows and commercials to critique.
 * [VGDC](http://www.videogamedc.com/) - In memory of Randy Solem, a man who made sprite flash movies into an art form.
+* [Mr Breakfast's Cereal Knowledgebase](http://www.mrbreakfast.com/cereal_home.asp) - In the 1980s, children were screaming for Chocolate Frosted Sugar Bombs, cereal puffs that were little more than candy for breakfast. 
 
 ## LP Archive
 
