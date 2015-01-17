@@ -18,11 +18,16 @@
 * Daily Japanese Thread
 * [LogicalIncrements](http://www.logicalincrements.com/) (former Falcon Guide from /g/) - All the best parts you need to build a desktop gaming rig PC.
 
-## Other Story Collections
+## Back to the 1980s
 
+Websites that enshrine the legacy of the 1980s, as seen through childhood's rose-tinted eyeglasses. These became popular as websites or flash animations in a retro chic during the 2000s, when such children became college students, discovered many people like them, and looked back fondly on those idyllic days. And now I myself look back fondly at the days when I could just surf the internet and hear these amazing stories, or just dirty language (which really does appeal to tweens).
+
+* [AVGN](http://cinemassacre.com/category/avgn/) - Still keeping the tradition of retro gaming alive to this day, with the Angry Video Game Nerd swearing like a sailor.
 * [i-Mockery - Hacked ROM Reviews](http://www.i-mockery.com/romhacks/)
+* [Platypus Comix](http://www.platypuscomix.net/) - A man whose father obsessively videotaped every single TV channel he could get a signal from in the 1980s, and he inherited a priceless collection of 1980s TV shows and commercials to critique.
+* [VGDC](http://www.videogamedc.com/) - In memory of Randy Solem, a man who made sprite flash movies into an art form.
 
-### LP Archive
+## LP Archive
 
 A "Let's Play" is a playthrough of a video game that is recorded and shared with the public. Although no better known for the numerous Youtube LPs (and in fact many of the LPs on the archive are in video format), there are also LPs using screenshots and text, or even hybrids of both formats. The LP Archive saves interesting LPs from Something Awful. This is a collection of what we think is the cream of the crop. Obviously there are more than what we have here, so browse the catalog for yourself.
 
