@@ -35,7 +35,7 @@ Websites that enshrine the legacy of the 1980s, as seen through childhood's rose
 
 ## Other Collections
 
-* [419Eater - Scambaiter Story Collection](http://www.419eater.com/html/letters.htm) - Stories of those who took it on themselves to scam the scammers that spam the airwaves. The Ethical Scammer, out to bankrupt those who prey on others. 
+* [419Eater - Scambaiter Story Collection](http://www.419eater.com/html/letters.htm) - Stories of those who took it on themselves to scam the scammers that spam the airwaves. The Ethical Scammer, out to bankrupt those who prey on others, to beat a scammer at his own game.
 
 ## LP Archive
 
