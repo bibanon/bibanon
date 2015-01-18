@@ -33,6 +33,10 @@ Websites that enshrine the legacy of the 1980s, as seen through childhood's rose
 * [Mr Breakfast's Cereal Knowledgebase](http://www.mrbreakfast.com/cereal_home.asp) - In the 1980s, children were screaming for Chocolate Frosted Sugar Bombs, cereal puffs that were little more than candy for breakfast. 
   * [A Tribute to Discontinued Cereals](http://grub.gunaxin.com/a-tribute-to-discontinued-cereals/11570) - All the strange and tasty cereals that have come and gone in the past decades.
 
+## Other Collections
+
+* [419Eater - Scambaiter Story Collection](http://www.419eater.com/html/letters.htm) - Stories of those who took it on themselves to scam the scammers that spam the airwaves. The Ethical Scammer, out to bankrupt those who prey on others. 
+
 ## LP Archive
 
 A "Let's Play" is a playthrough of a video game that is recorded and shared with the public. Although no better known for the numerous Youtube LPs (and in fact many of the LPs on the archive are in video format), there are also LPs using screenshots and text, or even hybrids of both formats. The LP Archive saves interesting LPs from Something Awful. This is a collection of what we think is the cream of the crop. Obviously there are more than what we have here, so browse the catalog for yourself.
