@@ -24,3 +24,8 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
 ### Epic Threads
 
 * **2014-12-24** - /a/ - [[A Tsundere Christmas Carol]] is reposted to 4chan's /a/, as per tradition since 2011. However, the mods are feeling some serious Christmas Spirit and make it a board sticky.
+
+## January 2015
+
+* **2015-01-18** - moot requires all mods and janitors to sign a contract. The contract includes an NDA for 4chan "Proprietary Information".
+** http://blog.4chan.org/post/108414215167/new-requirement-for-4chan-volunteers-going-forward
