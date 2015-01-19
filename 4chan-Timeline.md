@@ -28,4 +28,4 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
 ## January 2015
 
 * **2015-01-18** - moot requires all mods and janitors to sign a contract. The contract includes an NDA for 4chan "Proprietary Information".
-** http://blog.4chan.org/post/108414215167/new-requirement-for-4chan-volunteers-going-forward
+  * http://blog.4chan.org/post/108414215167/new-requirement-for-4chan-volunteers-going-forward
