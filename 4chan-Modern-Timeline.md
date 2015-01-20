@@ -29,3 +29,5 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
 
 * **2015-01-18** - moot requires all mods and janitors to sign a contract. The contract includes an NDA for 4chan "Proprietary Information".
   * http://blog.4chan.org/post/108414215167/new-requirement-for-4chan-volunteers-going-forward
+
+* **2015-01-20** - Crash at 6:11:49 AM EST
