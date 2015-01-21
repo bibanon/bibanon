@@ -31,3 +31,5 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
   * http://blog.4chan.org/post/108414215167/new-requirement-for-4chan-volunteers-going-forward
 
 * **2015-01-20** - Outage at 6:11 AM EST. Service restored at 11:07 AM EST.
+
+* **2015-01-21** - [Moot retires as the site admin.](https://www.4chan.org/news?all#118)
