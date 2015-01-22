@@ -10,7 +10,7 @@ This Chronicle is designed to create a serious, well sourced history book about 
 
 Timelines are essential to understanding the chronology and context of events in 4chan history.
 
-* [[4chan History Timeline]] (2004-2007 - An extensive timeline originating from Wikichan. Thins out around 2008.
+* [[4chan History Timeline]] (2004-2014) - An extensive timeline originating from Wikichan.
 * [[4chan Modern Timeline]] (2014-2015)
 
 ## Ages of 4chan
