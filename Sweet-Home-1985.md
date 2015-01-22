@@ -2,6 +2,9 @@ Original Story: http://www.reddit.com/r/AskReddit/comments/kkmm4/you_unexpectedl
 
 Created by reddit user /u/Hornswaggle in response to an /r/askreddit question: 
 "You unexpectedly time-travel to 1985. You have no way back, ever. What do you do?"
+---
+
+The original author seems to have "wrote himself into a hole". Another redditor has started a reboot of the series: http://www.reddit.com/r/1985sweet1985/comments/1yoivu/1985_reeboted_the_prologue/
 
 ---
 
