@@ -6,7 +6,7 @@ As a result, Moot also launched a public statement which reiterated the "Martial
 
 A mass exodus; as well as an increased immigration rate (due to media coverage) ensued. 4chan's userbase was never the same. 
 
-GamerGate discussion has since relocated to [8chan.co](http://8chan.co/gg). 
+GamerGate discussion has since relocated to [8chan](https://8ch.net/gamergate/). 
 
 ### Rumors of conspiracy
 
