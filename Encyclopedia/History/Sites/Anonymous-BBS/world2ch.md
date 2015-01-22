@@ -1,4 +1,4 @@
-[[bannerad01.jpg]]
+<!-- [[bannerad01.jpg]] -->
 
 world2ch was really a world of its own. It is the only place I know of where Japanese otaku were constantly and substantively talking with Americans. These otaku came from [[2ch]], the Japanese mega-BBS. world2ch was an attempt at recreating 2ch in English, and among 2chers it was well-known, but it never really took off. Thanks to its steady stream of free porn [[4chan]] quickly overtook world2ch and eventually became notorious among Japanese otaku as well.
 
