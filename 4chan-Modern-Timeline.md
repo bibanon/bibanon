@@ -32,6 +32,6 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
 
 * **2015-01-20** - Outage at 6:11 AM EST. Service restored at 11:07 AM EST.
 
-* **2015-01-21** - [Moot retires as the site admin.](https://www.4chan.org/news?all#118)
+* **2015-01-21** - [moot retires as the site admin.](https://www.4chan.org/news?all#118)
 
-* **2015-01-23** - [Moot holds a Q&A on Youtube.](https://www.youtube.com/watch?x-yt-ts=1421914688&x-yt-cl=84503534&v=XYUKJBZuUig)
+* **2015-01-23** - [moot holds a Q&A on Youtube.](https://www.youtube.com/watch?x-yt-ts=1421914688&x-yt-cl=84503534&v=XYUKJBZuUig)
