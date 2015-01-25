@@ -83,23 +83,23 @@ Individual pages and archives threads about 4chan.
 
 Overchans where sites dedicated to compiling lists of all know *chan sites on the Internet. The first Overchan was 1chan, ran by thatdog, who created Futallaby, 4chan's first source code.
 
-http://www.1chan.net/overchan/ - The original overchan. Most sites there are dead or in the process of dying, though some names do carry some nostalgia value. It was originally maintained by thatdog.
-http://shii.org/2ch/ - Overchan 2.0 – Maintained by Shii.  It died recently.
-http://allchans.org/ - Overchan 3.0 – The most complete overchan (of the two left standing) They also include a separate menu for furry-themed boards (lol, fursecution) and textboards.
-http://1ch.us/ - The other Overchan 3.0 – Dedicated to compiling almost all *chans on the net. It’s maintained by Izzy.
-http://dramatica.org.ua/Список_іміджбордів - An Ukrainian overchan, probably the most complete ever.
-http://meltingwax.net/text-overchan/ - Textboard overchan
-http://4chanarchive.org/ - Original 4chan archive: If you are interested in a blast from the past, come here for threads as early as 2006. It was discontinued some months ago.
-http://chanarchive.org/ - Current version of 4chan archive. Mantained by ED, now dead.
+* http://www.1chan.net/overchan/ - The original overchan. Most sites there are dead or in the process of dying, though some names do carry some nostalgia value. It was originally maintained by thatdog.
+* http://shii.org/2ch/ - Overchan 2.0 – Maintained by Shii.  It died recently.
+* http://allchans.org/ - Overchan 3.0 – The most complete overchan (of the two left standing) They also include a separate menu for furry-themed boards (lol, fursecution) and textboards.
+* http://1ch.us/ - The other Overchan 3.0 – Dedicated to compiling almost all *chans on the net. It’s maintained by Izzy.
+* http://dramatica.org.ua/Список_іміджбордів - An Ukrainian overchan, probably the most complete ever.
+* http://meltingwax.net/text-overchan/ - Textboard overchan
+* http://4chanarchive.org/ - Original 4chan archive: If you are interested in a blast from the past, come here for threads as early as 2006. It was discontinued some months ago.
+* http://chanarchive.org/ - Current version of 4chan archive. Mantained by ED, now dead.
 
 ### Other Sources
 
-http://pastebin.com/cDKwfJJV - Pastebin with all the login pages of 4chan-
-http://www.4chan.org/comics - This one is quite obvious, but doesn’t appear on the front page. Check if you want some nostalgia.
-http://www.4chan.org/flash - The same as above, but for .sfw. moot tries to keep it alive from time to time.
-http://www.4chanlink.org – Image resurrection site – Any image on 4chan can be recovered after 14 days of it’s deletion.
-http://halcy.de/kopipe/index.html.down - One of the biggest copypasta archives on the Internet, probably only dwarfed by Encyclopedia Dramatica’s
-http://dejavu.org/forsta.htm - Old page about internet history from 1992 to 1999.
+* http://pastebin.com/cDKwfJJV - Pastebin with all the login pages of 4chan-
+* http://www.4chan.org/comics - This one is quite obvious, but doesn’t appear on the front page. Check if you want some nostalgia.
+* http://www.4chan.org/flash - The same as above, but for .sfw. moot tries to keep it alive from time to time.
+* http://www.4chanlink.org – Image resurrection site – Any image on 4chan can be recovered after 14 days of it’s deletion.
+* http://halcy.de/kopipe/index.html.down - One of the biggest copypasta archives on the Internet, probably only dwarfed by Encyclopedia Dramatica’s
+* http://dejavu.org/forsta.htm - Old page about internet history from 1992 to 1999.
 
 
 Special mention to [[Wikichan]]: it was by far the most popular and exhaustive compilation of 4chan information there was. However, as dedicated its userbase was, it was constantly DDoS’d, dropped by ISPs and hacked. It was known for not only compiling info on memes but also having an extensive list of 4chan user stories and creepypasta. On 2010 the admin decided to call it quits. Many attempts to restore the info on Wikichan where performed, but only partially successful.
