@@ -73,7 +73,7 @@ Individual pages and archives threads about 4chan.
 * http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm - Wayback Machine’s archived site of 4chan during 2003.
 * http://wikiworld.com/wiki/index.php?title=4chan&oldid=5249 - [[WikiWorld 4chan Article]] – An old article about 4chan, extremely detailed about it’s old 2004-2006 culture. Archived at the Bibliotheca Anonoma.
 * http://s3.invisionfree.com/Project_4chan/ar/t7.htm - Board addition/removal history.
-* http://www.music.us/education/4/4chan.htm - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan.
+* http://web.archive.org/web/20130727073226/http://www.music.us/education/4/4chan.htm <!-- http://www.music.us/education/4/4chan.htm --> - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan.
 * http://macrochan.org/tagTree.php - An astonishing amount of old memes separated by tags, some of which are pretty much forgotten. We could actually bring some of these back and start a retro trend in 4chan.
 * http://images.mackanzoor.com/CHAN/1.html - A smaller Macrochan
 * http://shimmie.4chanhouse.org/index.php?q=/post/list - Same as above, but dedicated to board-tans
