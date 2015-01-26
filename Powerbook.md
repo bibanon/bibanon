@@ -10,4 +10,5 @@ While the PDF can basically be found anywhere, we are attempting to back up the 
 ## Sources
 
 * [Something Awful - P-P-Powerbook](http://forums.somethingawful.com/showthread.php?threadid=1016390)
+* [Encyclopedia Dramatica - P-p-p-powerbook](https://encyclopediadramatica.se/index.php?title=P-p-p-powerbook)
 * [PDF Outline](http://joi.ito.com/images2/thepowerbook.pdf)
