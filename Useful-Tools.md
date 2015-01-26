@@ -5,6 +5,13 @@
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos off of YouTube and other streaming sites.
 * [Wikiteam - Mediawiki Dump Generator](http://archiveteam.org/index.php?title=WikiTeam#Tools_and_source_code) - Archive an entire backup of a MediaWiki-based wiki, all pages, all history, and all images.
 
+### Quick and dirty archive snapshot
+
+Just click a bookmarklet to archive a page for later! Great for source links and Google Cache, because you can bet that they will be gone within 5 years.
+
+* [Webcite](http://webcite.org)
+* [Archive.today](http://archive.today/)
+
 ## Markdown Conversion
 
 * [Pandoc](http://johnmacfarlane.net/pandoc/) - The Swiss Army knife of markup language converters. Convert anything to Markdown, and convert markdown to anything. Great for turning HTML into a readable format.
