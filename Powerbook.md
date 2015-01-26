@@ -2,6 +2,10 @@ A SA goon tried to sell a Powerbook on eBay, but is contacted by a scammer inste
 
 While the PDF can basically be found anywhere, we are attempting to back up the original P-P-Powerbook site to the Bibliotheca Anonoma. It was heavily mirrored in it's heyday, but now only a few sites survive.
 
+## Website Mirrors
+
+* http://www.hot.ee/ppppowerbook/ - Only the Homepage works...
+
 ## Sources
 
 * [Something Awful - P-P-Powerbook](http://forums.somethingawful.com/showthread.php?threadid=1016390)
