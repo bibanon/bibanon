@@ -35,8 +35,9 @@ Bibliotheca Anonoma
 ### History
 
 * [[4chan Chronicle]]
-  * [[2ch History]]
   * [[2channel]]
+    * [[2ch History]]
+    * [[2ch History Timeline]]
   * [[Futaba Channel (2chan)|Futaba Channel]]
   * [[world2ch]]
   * [[Ayashii World]]
