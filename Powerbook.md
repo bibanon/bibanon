@@ -5,6 +5,7 @@ While the PDF can basically be found anywhere, we are attempting to back up the 
 ## Website Mirrors
 
 * [Archive.today Mirror](http://archive.today/1ya4X)
+* [Internet Archive Snapshot from 2004](http://web.archive.org/web/20040616185618/http://p-p-p-powerbook.com/)
 * http://www.hot.ee/ppppowerbook/ - Only the Homepage works...
 
 ## Sources
