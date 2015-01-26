@@ -6,6 +6,7 @@ Stories gleaned right out of SA's paywall.
 
 * **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
 * **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* **[[P-P-Powerbook|Powerbook]]** - A SA goon tried to sell a Powerbook on eBay, but is contacted by a scammer instead. He decides to play along with the scammer, and hilarity ensues. 
 * [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
 
 ## [[4chan]]
