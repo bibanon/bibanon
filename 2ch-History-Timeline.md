@@ -1,4 +1,4 @@
-A quick timeline of the evolution of the Japanese textboard community, and the English-language textboard community (which was dwarfed by [[4chan|4chan Chronicle]])
+A quick timeline of the evolution of the Japanese textboard community (needs more content after 2003), and the English-language textboard community (which was dwarfed by [[4chan|4chan Chronicle]]).
 
 * 1995 - A man named Masayuki Shiba creates a home party (Dedicated host website from Internet Service providers that you accessed via phone-line) on provider Nifty-Serve called Ayashii World (Ayashii Warudo - あやしいワールド - Strange World), dedicated to a popular Japanese underground game called Kasumigaseki, a game based on the Tokyo Subway Sarin gas attack. He closes it soon after.
 
