@@ -2,7 +2,7 @@
 
 * [BASC Archiver](https://github.com/bibanon/BASC-Archiver) - Tool that downloads an entire 4chan thread, it's JSON, and all images.
 * [Wget](http://github.com/baslqc/baslqc/wiki/Wget) - The internet archivist's swiss army knife. Grab any website, and all public data on it for offline viewing (or into WARC format).
-* [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos off of YouTube and other streaming sites.
+* [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos off of YouTube and other streaming sites. [[Here are some recommended commands.|Youtube-dl]]
 * [Wikiteam - Mediawiki Dump Generator](http://archiveteam.org/index.php?title=WikiTeam#Tools_and_source_code) - Archive an entire backup of a MediaWiki-based wiki, all pages, all history, and all images.
 
 ### Quick and dirty archive snapshot
