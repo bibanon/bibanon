@@ -1,6 +1,6 @@
 The 4chan timeline was originally from Wikichan and [JonnyDigital's](http://bibanon.org/everything-shii-knows/www.jonnydigital.com/4chan-history.html) timelines. With time the timeline would spread across many sites (from Partyvan to LURKMOAR), most of them contributing their own data to the timeline. This is an attempt to unify them all and update it to the current events.
 
-> **Note:** It looks like [the timeline I inadvertently saved to Tanasinn.info](http://tanasinn.info/wiki/Complete_History_of_4chan) after the fall of the Second Wikichan in 2012 is now the preferred version, so that one will be more up-to-date.  
+> **Note:** It looks like [the timeline I inadvertently saved to Tanasinn.info](http://tanasinn.info/wiki/Complete_History_of_4chan) after the fall of the Second Wikichan in 2012 is now the preferred version (after JonnyDigital started hotlinking to it), so that one will be more up-to-date.  
 > Still, we will keep [[an archive of that timeline here|4chan History Timeline#timeline]] just in case.  
 
 However, this page does have the only up-to-date list of board addition dates:
