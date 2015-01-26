@@ -1,0 +1,11 @@
+    youtube-dl "http://www.youtube.com/playlist?list=PL3634152194A90D8B&feature=mh_lolz" \
+        --write-thumbnail \
+        --write-description \
+        --write-info-json \
+        --write-annotations \
+        --write-sub \
+        --all-subs \
+        --add-metadata \
+        --embed-subs \
+        --restrict-filenames \
+        --user-agent "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27"
