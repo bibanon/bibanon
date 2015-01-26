@@ -1,9 +1,10 @@
 A SA goon tried to sell a Powerbook on eBay, but is contacted by a scammer instead. He decides to play along with the scammer, and hilarity ensues. 
 
-While the PDF can basically be found anywhere, we are attempting to back up the original P-P-Powerbook site to the Bibliotheca Anonoma. It was heavily mirrored in it's heyday, but now only a few sites survive.
+While the PDF can basically be found anywhere, we are attempting to back up the original P-P-Powerbook site, movies, and all updates to the Bibliotheca Anonoma. It was heavily mirrored in it's heyday, but now only a few sites survive.
 
 ## Website Mirrors
 
+* [Archive.today Mirror](http://archive.today/1ya4X)
 * http://www.hot.ee/ppppowerbook/ - Only the Homepage works...
 
 ## Sources
