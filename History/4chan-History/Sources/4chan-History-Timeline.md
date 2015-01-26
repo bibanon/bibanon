@@ -1,4 +1,283 @@
-The 4chan timeline was originally from Lurkmore wiki and later adopted by Wikichan. With time the timeline would spread across many sites, most of them contributing their own data to the timeline. This is an attempt to unify them all and update it to the current events.
+The 4chan timeline was originally from Wikichan and [JonnyDigital's](http://bibanon.org/everything-shii-knows/www.jonnydigital.com/4chan-history.html) timelines. With time the timeline would spread across many sites (from Partyvan to LURKMOAR), most of them contributing their own data to the timeline. This is an attempt to unify them all and update it to the current events.
+
+> **Note:** it looks like [the timeline our predecessors saved to Tanasinn.info](http://tanasinn.info/wiki/Complete_History_of_4chan) after the fall of the Second Wikichan in 2012 is now the preferred version of anons, so that one will be more up-to-date.  
+> We will be keeping an archive of that timeline just in case.  
+
+However, this page does have the only up-to-date list of board addition dates.
+
+## Dates of board additions:
+
+### 2003
+
+* October 1
+  * /b/ - random
+
+* October 2
+  * /h/ - Hentai
+
+* October 6
+  * /c/ - Anime/Cute
+  * /d/ - Hentai/Alternative
+  * /w/ - Wallpapers/Anime
+  * /y/ - Yaoi
+  * /i/ - oekaki BBS board
+
+* October 9
+  * /g/ - Guro
+  * /s/ - Sexy Beautiful Women
+
+* November 8
+  * /a/ - Anime
+  * /l/ - Lolikon
+
+* November 16 – 20
+* By this time, /b/ is renamed from Anime/Random to just Random, since /a/ was created.
+
+* November 22
+  * /n/ - TRAINZ is moved to 1chan, hosted by a friend of moot and mod
+
+* December 16
+  * /t/ - Torrents
+
+* December 29
+  * /l/ - Lolikon is taken down due to CP
+
+### 2004
+
+* January 8
+  * /l/ - Lolikon returns
+  * /r/ - Requests formed because of a problem with /t/
+
+* January 25
+  * /t/ removed
+
+* February 14
+* 4chan.net is suspended; 4chan.org is "temporary" home
+
+* February 19
+  * /t/ - Torrents returns,
+  * /f/ - Flash, hosted by cgi.4chan.org hosts /f/
+
+* February 21
+  * /amh/ - Anime-Manga-Hentai
+  * /bbs/ - 4chan Discussion – Suspected fakes
+
+* March 1
+  * /q/ - Questions
+
+* March 28
+* 4chan.org is made permanent
+  * /g/ - Guro removed
+* By this time /p/ - Photo already exists
+
+* March 30
+  * /dis/ - Discussion
+  * /sug/ - Suggestions
+
+* August 16
+  * By this point, /cm/ - Cute/Male, /m/ - Mecha and /n/ - Trains already existed.
+  * The discussion boards /anime/, /ascii/ and /game/ already existed.
+
+* September 8
+  * /k/ - Weapons
+  * /o/ - Auto
+  * /sm/ - Shota/Male
+"/b/ is severely lacking in quality...contribute better"
+
+* October 9
+  * /ip/ - Oekaki Proffesional
+  * /ib/ - Oekaki Random
+  * /i/ is removed after being split
+  * /v/ - Video Games
+  * /n/ - Trains is deleted
+  * /z/ - (????) created
+  * /tech/ - Techonology – Textboard.
+
+* October 31
+  * /l/ - Lolikon and /sm/ - Shotakon are deleted due to threats of legal action.
+
+* November 5
+* moot registers not4chan.org and moves /l/ and /sm/ there instead
+
+* November 15
+  * /g/ - Guro is deleted
+
+* November 1
+  * /z/ is deleted
+
+### 2005
+
+* January 19
+  * /e/ - Ecchi
+  * /g/ - Technology
+  * /n/ - Nature & Wildlife
+
+* January 27
+  * /ic/ - Artwork/Critique
+  * /p/ - Photography
+  * /x/ - General Photo
+* Although there was already a /p/ board for photography before, it is the replacement, with new features (such as EXIF data).
+
+* February 26
+  * /gif/ - Animated GIF
+  * /hr/ - High Resolution
+  * /wg/ - Wallpapers/General
+  * /x/ - General Photo is removed
+
+### 2006
+
+* February 6
+  * /5/ is deleted
+
+* April 6
+  * /co/ - Comics & Cartoons
+  * /po/ - Papercraft & Origami
+  * /sp/ - Sports
+
+* April 7
+  * /cgl/ - Cosplay & EGL
+  * /ck/ - Food & Cooking
+  * /mu/ - Music
+  * /n/ - News
+  * /tv/ - Television
+(I am assuming /m/, /an/, and /cm/ are up at this time also)
+  * /ss/ - Straight/Shota – Added to not4chan, hosted by Saber
+  * /yg/ - Yogurt
+
+* August 4
+  * /con/ - Conventions, so people could discuss the ongoing Otakon 2006. It was deleted soon after it ended.
+
+* October 1 - 4chan faggot hat day (3 years, baby!)
+
+### 2007
+
+* January 9
+* moot allows all of the trial boards created on April 6, 2006 to become full boards, except for /sp/ (Sports), which is deleted.
+
+* February 15
+  * /tg/ - Traditional Games
+  * /x/ - Paranormal, created due to the rise of creepypasta culture on /b/
+
+* September
+  * /rs/ - Rapidshares
+
+* October 1
+* 4chan faggot hat day again. Fun times. (FOUR CHAN FOUR YEARS)
+
+### 2008
+
+* February 19
+  * /fa/ - Fashion
+  * /fit/ - Health & Fitness
+  * /hc/ - Hardcore
+  * /n/ - becomes Transportation
+  * /sp/ - Sports
+  * /toy/ - Toys
+  * /trv/ - Travel
+  * /jp/ - Japan/General
+  * /r9k/ - ROBOT9000
+
+* By July 6, /ib/ and /ip/ were merged back into /i/ - Oekaki
+
+### 2010
+
+* January 25
+  * /adv/ - Advice
+  * /lit/ - Literature
+  * /new/ - News is also brought back
+  * /int/ - International
+  * /sci/ - Science & Math
+  * /3/ - 3DCG is brought back
+
+### 2011
+
+* January 17
+* Moot deletes /r9k/ and /new/
+
+* November 9
+  * /new/ is revived by accident
+
+* November 10
+  * /r9k/ is brought back as ROBOT9001
+  * /pol/ - Politically Incorrect, meant as a quarantine board for /new/ stormfags (Replacing /new/)
+  * /hc/ - Hardcore Is also brought back
+  * /diy/ - Do It Yourself. 
+
+### 2012
+
+* February 4
+  * /vg/ - Videogame Generals
+
+* February
+* Somewhere around this month moot add /hm/ - Handsome Men
+
+* February 17
+  * /mlp/ - My Little Pony is created, to contain the fandom
+
+* August 8
+  * /q/ - 4chan Discussion
+
+### 2013
+
+* March 18 
+  * /asp/ - Alternative Sports
+  * /gd/ - Graphic Design
+  * /lgbt/ - Gay, Lesbian, Bisexual and Transgender
+  * /out/ - Outdoors
+  * /vr/ - Retro Games
+* All boards added on trial.
+
+* April 1
+  * /s4s/ - Shit4chanSays
+
+* August 11
+* Following boards are renamed:
+  * /fit/ - Fitness
+  * /soc/ - Cam & Meetups
+  * /q/ - 4chan Feedbacks
+* September 9 - /s4s/ is renamed to [s4s]
+
+* September 18
+  * /q/ is removed
+  * /sg/ - Suggestion Box is announced, but yet to be opened.
+
+* September 29
+  * /con/ returns for the AWA panel
+
+* October 8
+  * /con/ is removed
+
+### 2014
+
+* February 13
+  * /biz/ - Business and Economy
+
+* April 10
+  * /rs/ removed
+  * /dis/ put on lock down as read only
+
+### Boards without dates
+
+  * /hm/ - Handsome Men, /fk/ - For Kidz, /rs/ - Rapidshares, /m/ - Mecha, /an/ - Animals and Nature, /cm/ - Cute/male and /tl/ - Torrents/loli (Possibly on not4chan), /u/ - yuri, /p/ - Photo
+
+### Notes
+
+* The following boards shared letters:
+  * /g/ - Guro, Technology
+  * /n/ - TRAINZ, Trains, Nature & Wildlife, News, Transportation
+  * /p/ - Photo, Photography
+  * /x/ - General Photo, Paranormal
+  * /q/ - Questions, 4chan Discussion
+
+* Secret and legendary boards:
+  * /z/ - ¿¿?? – A random board which whose rules where the ZOMG NONE!!!one that now resides on /b/’s rules. Users would select their mods via popular vote like the idiot kings of SA’s FYAD
+  * /5/ - 5 – Board created for the mod and WTSnacks’ friend 5. Only posts about 5 or about five objects where allowed.
+  * /fk/ - For Kidz – Joke board about making a 4chan for kids
+  * /n/ - TRAINZ – Early test board for trains, later moved to 1chan
+  * /yg/ - Yogurt and something about danimals.
+  * /j/ - Janitors. Later Janitor & Moderator Discussion. Secret HQ where all the world domination plans are schemed.
+
+## Timeline
 
 ### Pre-History
 
@@ -976,278 +1255,6 @@ The 4chan timeline was originally from Lurkmore wiki and later adopted by Wikich
 * May 6 – moot makes a blog posts regarding the hack and another hack on his app DrawQuest. He recounted the mistakes they made in coding and announced that DrawQuest was finally shut down due to the hack. He also started 4chan’s Vulnerability Disclosure Program, which aims to have user contribution help improve the security of the site.
 
 * June 1 – The “Download File" option is removed.
-
-## Dates of board additions:
-
-### 2003
-
-* October 1
-  * /b/ - random
-
-* October 2
-  * /h/ - Hentai
-
-* October 6
-  * /c/ - Anime/Cute
-  * /d/ - Hentai/Alternative
-  * /w/ - Wallpapers/Anime
-  * /y/ - Yaoi
-  * /i/ - oekaki BBS board
-
-* October 9
-  * /g/ - Guro
-  * /s/ - Sexy Beautiful Women
-
-* November 8
-  * /a/ - Anime
-  * /l/ - Lolikon
-
-* November 16 – 20
-* By this time, /b/ is renamed from Anime/Random to just Random, since /a/ was created.
-
-* November 22
-  * /n/ - TRAINZ is moved to 1chan, hosted by a friend of moot and mod
-
-* December 16
-  * /t/ - Torrents
-
-* December 29
-  * /l/ - Lolikon is taken down due to CP
-
-### 2004
-
-* January 8
-  * /l/ - Lolikon returns
-  * /r/ - Requests formed because of a problem with /t/
-
-* January 25
-  * /t/ removed
-
-* February 14
-* 4chan.net is suspended; 4chan.org is "temporary" home
-
-* February 19
-  * /t/ - Torrents returns,
-  * /f/ - Flash, hosted by cgi.4chan.org hosts /f/
-
-* February 21
-  * /amh/ - Anime-Manga-Hentai
-  * /bbs/ - 4chan Discussion – Suspected fakes
-
-* March 1
-  * /q/ - Questions
-
-* March 28
-* 4chan.org is made permanent
-  * /g/ - Guro removed
-* By this time /p/ - Photo already exists
-
-* March 30
-  * /dis/ - Discussion
-  * /sug/ - Suggestions
-
-* August 16
-  * By this point, /cm/ - Cute/Male, /m/ - Mecha and /n/ - Trains already existed.
-  * The discussion boards /anime/, /ascii/ and /game/ already existed.
-
-* September 8
-  * /k/ - Weapons
-  * /o/ - Auto
-  * /sm/ - Shota/Male
-"/b/ is severely lacking in quality...contribute better"
-
-* October 9
-  * /ip/ - Oekaki Proffesional
-  * /ib/ - Oekaki Random
-  * /i/ is removed after being split
-  * /v/ - Video Games
-  * /n/ - Trains is deleted
-  * /z/ - (????) created
-  * /tech/ - Techonology – Textboard.
-
-* October 31
-  * /l/ - Lolikon and /sm/ - Shotakon are deleted due to threats of legal action.
-
-* November 5
-* moot registers not4chan.org and moves /l/ and /sm/ there instead
-
-* November 15
-  * /g/ - Guro is deleted
-
-* November 1
-  * /z/ is deleted
-
-### 2005
-
-* January 19
-  * /e/ - Ecchi
-  * /g/ - Technology
-  * /n/ - Nature & Wildlife
-
-* January 27
-  * /ic/ - Artwork/Critique
-  * /p/ - Photography
-  * /x/ - General Photo
-* Although there was already a /p/ board for photography before, it is the replacement, with new features (such as EXIF data).
-
-* February 26
-  * /gif/ - Animated GIF
-  * /hr/ - High Resolution
-  * /wg/ - Wallpapers/General
-  * /x/ - General Photo is removed
-
-### 2006
-
-* February 6
-  * /5/ is deleted
-
-* April 6
-  * /co/ - Comics & Cartoons
-  * /po/ - Papercraft & Origami
-  * /sp/ - Sports
-
-* April 7
-  * /cgl/ - Cosplay & EGL
-  * /ck/ - Food & Cooking
-  * /mu/ - Music
-  * /n/ - News
-  * /tv/ - Television
-(I am assuming /m/, /an/, and /cm/ are up at this time also)
-  * /ss/ - Straight/Shota – Added to not4chan, hosted by Saber
-  * /yg/ - Yogurt
-
-* August 4
-  * /con/ - Conventions, so people could discuss the ongoing Otakon 2006. It was deleted soon after it ended.
-
-* October 1 - 4chan faggot hat day (3 years, baby!)
-
-### 2007
-
-* January 9
-* moot allows all of the trial boards created on April 6, 2006 to become full boards, except for /sp/ (Sports), which is deleted.
-
-* February 15
-  * /tg/ - Traditional Games
-  * /x/ - Paranormal, created due to the rise of creepypasta culture on /b/
-
-* September
-  * /rs/ - Rapidshares
-
-* October 1
-* 4chan faggot hat day again. Fun times. (FOUR CHAN FOUR YEARS)
-
-### 2008
-
-* February 19
-  * /fa/ - Fashion
-  * /fit/ - Health & Fitness
-  * /hc/ - Hardcore
-  * /n/ - becomes Transportation
-  * /sp/ - Sports
-  * /toy/ - Toys
-  * /trv/ - Travel
-  * /jp/ - Japan/General
-  * /r9k/ - ROBOT9000
-
-* By July 6, /ib/ and /ip/ were merged back into /i/ - Oekaki
-
-### 2010
-
-* January 25
-  * /adv/ - Advice
-  * /lit/ - Literature
-  * /new/ - News is also brought back
-  * /int/ - International
-  * /sci/ - Science & Math
-  * /3/ - 3DCG is brought back
-
-### 2011
-
-* January 17
-* Moot deletes /r9k/ and /new/
-
-* November 9
-  * /new/ is revived by accident
-
-* November 10
-  * /r9k/ is brought back as ROBOT9001
-  * /pol/ - Politically Incorrect, meant as a quarantine board for /new/ stormfags (Replacing /new/)
-  * /hc/ - Hardcore Is also brought back
-  * /diy/ - Do It Yourself. 
-
-### 2012
-
-* February 4
-  * /vg/ - Videogame Generals
-
-* February
-* Somewhere around this month moot add /hm/ - Handsome Men
-
-* February 17
-  * /mlp/ - My Little Pony is created, to contain the fandom
-
-* August 8
-  * /q/ - 4chan Discussion
-
-### 2013
-
-* March 18 
-  * /asp/ - Alternative Sports
-  * /gd/ - Graphic Design
-  * /lgbt/ - Gay, Lesbian, Bisexual and Transgender
-  * /out/ - Outdoors
-  * /vr/ - Retro Games
-* All boards added on trial.
-
-* April 1
-  * /s4s/ - Shit4chanSays
-
-* August 11
-* Following boards are renamed:
-  * /fit/ - Fitness
-  * /soc/ - Cam & Meetups
-  * /q/ - 4chan Feedbacks
-* September 9 - /s4s/ is renamed to [s4s]
-
-* September 18
-  * /q/ is removed
-  * /sg/ - Suggestion Box is announced, but yet to be opened.
-
-* September 29
-  * /con/ returns for the AWA panel
-
-* October 8
-  * /con/ is removed
-
-### 2014
-
-* February 13
-  * /biz/ - Business and Economy
-
-* April 10
-  * /rs/ removed
-  * /dis/ put on lock down as read only
-
-### Boards without dates
-
-  * /hm/ - Handsome Men, /fk/ - For Kidz, /rs/ - Rapidshares, /m/ - Mecha, /an/ - Animals and Nature, /cm/ - Cute/male and /tl/ - Torrents/loli (Possibly on not4chan), /u/ - yuri, /p/ - Photo
-
-### Notes
-
-* The following boards shared letters:
-  * /g/ - Guro, Technology
-  * /n/ - TRAINZ, Trains, Nature & Wildlife, News, Transportation
-  * /p/ - Photo, Photography
-  * /x/ - General Photo, Paranormal
-  * /q/ - Questions, 4chan Discussion
-
-* Secret and legendary boards:
-  * /z/ - ¿¿?? – A random board which whose rules where the ZOMG NONE!!!one that now resides on /b/’s rules. Users would select their mods via popular vote like the idiot kings of SA’s FYAD
-  * /5/ - 5 – Board created for the mod and WTSnacks’ friend 5. Only posts about 5 or about five objects where allowed.
-  * /fk/ - For Kidz – Joke board about making a 4chan for kids
-  * /n/ - TRAINZ – Early test board for trains, later moved to 1chan
-  * /yg/ - Yogurt and something about danimals.
-  * /j/ - Janitors. Later Janitor & Moderator Discussion. Secret HQ where all the world domination plans are schemed.
 
 ## Sources
 
