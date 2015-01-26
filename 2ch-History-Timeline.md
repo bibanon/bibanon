@@ -1,0 +1,62 @@
+A quick timeline of the evolution of the Japanese textboard community, and the English-language textboard community (which was dwarfed by [[4chan|4chan Chronicle]])
+
+* 1995 - A man named Masayuki Shiba creates a home party (Dedicated host website from Internet Service providers that you accessed via phone-line) on provider Nifty-Serve called Ayashii World (Ayashii Warudo - あやしいワールド - Strange World), dedicated to a popular Japanese underground game called Kasumigaseki, a game based on the Tokyo Subway Sarin gas attack. He closes it soon after.
+
+* Aug 21, 1996 - Masayuki Shiba recreates Ayashii World in the form of a BBS, inspired by a previous BBS called Japan Lolita Complex Graphics, run by Pedo Koushaku (Duke Pedo) that did not run on Nifty-Serve’s Posoko-Tsushin service but instead was hosted on the Internet through a variety of free web services. With the intention of sharing CP and discussing technology and warez, Ayashii World was entirely dedicated to Japanese Geek culture. 
+
+* Nov 30, 1996 - The first underground web portal called A Door to an Underground (地下道入口, Chikadou Iriguchi), dedicated exclusively to cracking, hacking and technology, died. Its user flocked to Ayashii World, and the discussion topics shifted from CP to less morally upsetting things. 
+
+* Dec 23, 1996 - Digital Eden, Ayashii World’s anonymous BBS provider closes and Shiba adopts Kenjinkai.
+
+* Dec 26, 1996 - Eventually, the shift in the populace led Shiba to divide Ayashii into two BBS, one called 97 for popular topics and another called 2000, for hacking and technology. 2000 would later become the Gesu (scum) board, where the Japanese Internet would see the birth of its raid culture. Gesus carried on invasions, mass trolling and hacking. 
+
+* March 1997 - Strife between Ayashii and 2000 about BBS host changes would lead the users of 2000 to create the Guess BBS, which signaled the birth of the legendary Japanese cracking/hacking group Guess. There a group of the same name discussed and conducted website hackings and invasions. By this time, many similar anonymous BBSes are formed, collectively called Nanashii Warudo (Nameless World), they develop a culture based on memes. Ayashii World functions as the hubsite of the Nanashii World in a similar way to how 4chan would later function as the hubsite of Anonymous. AW's popularity increases exponentially. 
+
+* March 26, 1997 – Kenjinkai shuts down, some claim Ayashii had something to be with it. Ayashii proceeds to use its own servers. By this point, Ayashii World becomes a household name and many other sites are created under its name.
+
+* Aug 5, 1997 – Mr. Amezou starts [[Amezou BBS]], at the time, a normal anonymous 1995 - A man named Masayuki Shiba creates a home party (Dedicated host website from Internet Service providers that you accessed via phone-line) on provider Nifty-Serve called Ayashii World (Ayashii Warudo - あやしいワールド - Strange World), dedicated to a popular Japanese underground game called Kasumigaseki, a game based on the Tokyo Subway Sarin gas attack. He closes it soon after.
+* Aug 21, 1996 - Masayuki Shiba recreates Ayashii World in the form of a BBS, inspired by a previous BBS called Japan Lolita Complex Graphics, run by Pedo Koushaku (Duke Pedo) that did not run on Nifty-Serve’s Posoko-Tsushin service but instead was hosted on the Internet through a variety of free web services. With the intention of sharing CP and discussing technology and warez, Ayashii World was entirely dedicated to Japanese Geek culture. 
+* Nov 30, 1996 - The first underground web portal called A Door to an Underground (地下道入口, Chikadou Iriguchi), dedicated exclusively to cracking, hacking and technology, died. Its user flocked to Ayashii World, and the discussion topics shifted from CP to less morally upsetting things. 
+* Dec 23, 1996 - Digital Eden, Ayashii World’s anonymous BBS provider closes and Shiba adopts Kenjinkai.
+* Dec 26, 1996 - Eventually, the shift in the populace led Shiba to divide Ayashii into two BBS, one called 97 for popular topics and another called 2000, for hacking and technology. 2000 would later become the Gesu (scum) board, where the Japanese Internet would see the birth of its raid culture. Gesus carried on invasions, mass trolling and hacking. 
+* March 1997 - Strife between Ayashii and 2000 about BSS host changes would lead the users of 2000 to create the Guess BBS, which signaled the birth of the legendary Japanese cracking/hacking group Guess. There a group of the same name discussed and conducted website hackings and invasions. By this time, many similar anonymous BBSes are formed, collectively called Nanashi Warudo (Nameless World), they develop a culture based on memes. Ayashii World functions as the hubsite of the Nanashi World in a similar way to how 4chan would later function as the hubsite of Anonymous. AW's popularity increases exponentially. 
+* March 26, 1997 – Kenjinkai shuts down, some claim Ayashii had something to be with it. Ayashii proceeds to use its own servers. By this point, Ayashii World becomes a household name and many other sites are created under its name.
+* Aug 5, 1997 – Mr. Amezou starts Amezou BBS, at the time, a normal anonymous BSS.
+* BSS.
+
+* Aug 1997 – The first imageboard, Licentious Notice Board, is created by Mr. Fujinami. Its userbase exceeds at image collages and the site becomes a fad on the Japanese Internet. However LNB is short lived and no new imageboards are created due to a split between its userbase.
+
+* Mar 1998 - Ayashii World enters a war with Guess BBS, due to Guess sysop Mr. Alice creating an auto-posting script and using it to spam Ayashii.
+
+* Apr 1998 – Despite Shiba’s attempts at stopping his enraged users, Ayashii Worlders overdo it and dox Guess’s administrator, manipulating a RL picture of him. The threat of lawsuit gets Shiba to shut the site down. 
+
+* Apr 24, 1998 – Shiba recreates Ayashii as Ayashii World Main BBS. The Ayashii World sites would grow exponentially, as the Japanese become more accepting of the Internet, and things become more chaotic.
+* Sept 3, 1998 – Shiba abruptly brings Ayashii World to an end, citing in his final posts that the site has grown too hostile to contain. 
+
+* Sept 6, 1998 - The Ayashii World is left core-less and in disarray. They need a replacement. They get their replacement with Amezo, the First Channel, ran by Amezou-shi. It starts off as a small BBS and a bunch of links to alternative BBSes for wayward Ayashii Worlders, but it changes it’s posting system from a pile-up BSS form to floating thread BBS, dependent on bumping and saging. Its popularity increases exponentially and it soon one of the main BBSs.
+
+* Sept 20, 1998 – Shiba announces he will be quitting the Ayashii World for good and leaves, with many sister sites to Ayashii closing their doors soon after.
+
+* Sept 29, 1998 – Shiba founds Magmania, one of the first Japanese personal review sites, a new start from scratch after Ayashii. However Mr. Alice, still angered at being doxed and ridiculed, pressures him declaring an official apology on the BBS and via phone. This would lead to Shiba to quit the Internet for good. Mr. Alice would continue to raid anyone who defending Shiba.
+
+* Dec 7, 1998 – Continued pressure from Alice made Shiba request to all Ayashii Worlders to stop using the Ayashii World suffix. Reluctantly, most Ayashii BBSs complied. Those who didn't would be constantly harassed by spammers and hackers. Alice has never admitting committing any kind of pressure towards Shiba, though the evidence was blatant. Mr. Alice becomes the equivalent of the devil to Ayashii Worlders
+
+* Jan 24, 1998 – The Ayashii World sites are reduced to one: Honten. Honten removes the tag after announcing that Alice had gotten hold of their password and access codes. Soon after that Hoten users created AyashiiWorld#REBIRTH.  REBIRTH endures several DDoSs and raids, but eventually manages to surpass Honten in size, mainly thanks to an ads campaign and the introduction of anime logo, which attracted several Otakus, previously shunned by Shiba and the userbase.
+
+* Apr 14, 1999 – REBIRTH’s admin turns out to be a tyrant, so many Ayashii Worlders flock to AyashiiWorld@familie. Its administrator, Mr. Kuhuza, allegedly a well-spoken female, was deemed “moe” by the userbase.
+
+* Apr 29, 1999 – REBIRTH closes. While it was a very important BBS to the Ayashii World, it came to a miserable end. This would be the last BBS whose influence would have any impact on the culture 2ch and 2chan would come to have. Rifts between Shiba fundamentalists and the other Ayashii Worlders would continue for a while.
+
+* May 30, 1999 - Mr. Hiroyuki (ひろゆき- Hiroyuki Nishimura) creates [[2channel]] (2ちゃんねる – Ni Channeru - The Second Channel). It used code based on the first, with enough servers this time to handle the exponential growth. Due to Hiroyuki's desire to create a more general discussion oriented userbase, 2ch attracts a sizable population of Otakus, and begins to separate from the Nanashii World. Even though Hiroyuki had FOX ★ and an army of janitor, threads were pretty much unmoderated and trolling ran rampant. Due to the differences between userbases, Ayashii Worlders, which remain mainly geeks regard 2channelers with animosity. Meanwhile, on the western hemisphere, Lowtax creates [[Something Awful]].
+
+* Oct 10, 1999 – Amezo BBS shuts down due to vandalism. It being one of the very few floating thread BBS, many users try to keep the system alive by creating other sites, but they eventually flock to 2ch. Later, Hiroyuki admits having raided Amezo persistently. Amezo, angry and jealous at 2ch, allies with Mr. Kazuhiko Nishi, founder of ASCII Corporation against 2ch, creating 1ch.tv. However it was not successful, as posting standards where strict and they would later charge a fee to post. There were also rumours that the Yakuza threatened Amezo RL. There’s a general rift between Ayashii Worlders and 2ch users.
+
+* Oct 2000 – Conflicts between 2ch and the Ayashii World reach their boiling point when both sites plan for mass raid campaigns. It is revealed at an AyashiiWorld@REMIX thread, 2ch Wipe Out (2ch抹殺), that 2ch users used Ayashii World uploaders without permission, stole Ayashii Memes and claimed them as their own and made threads about trolling Ayashii World, including The First Experience of Ayashii World, an untouchable sanctuary amongst Ayashii Worlders. Ayashii Worlders used a Phaser Script based on Perlduke Script in order to bring down 2ch. Hiroyuki, realizing how much he fucked up, appeared that the same thread and apologized. The raids and trolling slowly went down, but the animosity between Ayashii World and 2ch already turned into hate, and it was now taboo to speak about 2ch on Ayashii World sites. Currently, Ayashii Worlders and 2ch don’t hate each other anymore, but some friendly rivalry still exists.
+
+* Oct 16 2000 – Hiroyuki appears at Ayashii World II, panic ensues, and Mr. AGSstar comes to speak to him. Betraying most Ayashii Worlders’ expectations, AGS treats Hiroyuki with respect, disassociated himself from the incident and even told him how to restrict IP addresses, regarded as a coward’s move by most of the userbase, since AGS badmouthed 2ch constantly.
+
+* April/May 2001 - Lowtax creates the ADTRW (Anime Death Tentacle Rape Whorehouse) board on Something Awful.
+
+* Aug, 30, 2001 - 2ch is in danger of dying, so a backup forum is created, called Futaba or [[2chan]] (two-leaves). Futaba creates a board called /b/, for random content. The site supports images and develops a unique culture all its own, growing out of the seed culture brought by the 2channelers. 
+
+* 2002 - ADTRW creates Raspberry Heaven, a DC++ file sharing hub dedicated to anime, named after the ending of Azumanga Daioh. Raspberry Heaven is itself a spin-off of SADCHUB (The Something Awful Direct Connect Hub), hub created to separate anime from the rest of SA’s topics. Raspberry Heaven had an IRC, #rapsberryheaven, originally hosted at MircX and later Pyoko IRC. There, a 14 years old moot and several ADTRW members were regulars. Users of Raspberry Heaven would discover Futaba, and for a while interact with the site. Interaction is cut short when a massive Korean raid makes Futaba block all non-Japanese users.
