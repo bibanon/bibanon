@@ -3,7 +3,7 @@ The 4chan timeline was originally from Wikichan and [JonnyDigital's](http://biba
 > **Note:** it looks like [the timeline our predecessors saved to Tanasinn.info](http://tanasinn.info/wiki/Complete_History_of_4chan) after the fall of the Second Wikichan in 2012 is now the preferred version of anons, so that one will be more up-to-date.  
 > We will be keeping an archive of that timeline just in case.  
 
-However, this page does have the only up-to-date list of board addition dates.
+However, this page does have the only up-to-date list of board addition dates, as you can see below:
 
 ## Dates of board additions:
 
