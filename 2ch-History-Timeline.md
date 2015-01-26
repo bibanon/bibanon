@@ -21,8 +21,7 @@ A quick timeline of the evolution of the Japanese textboard community, and the E
 * Dec 26, 1996 - Eventually, the shift in the populace led Shiba to divide Ayashii into two BBS, one called 97 for popular topics and another called 2000, for hacking and technology. 2000 would later become the Gesu (scum) board, where the Japanese Internet would see the birth of its raid culture. Gesus carried on invasions, mass trolling and hacking. 
 * March 1997 - Strife between Ayashii and 2000 about BSS host changes would lead the users of 2000 to create the Guess BBS, which signaled the birth of the legendary Japanese cracking/hacking group Guess. There a group of the same name discussed and conducted website hackings and invasions. By this time, many similar anonymous BBSes are formed, collectively called Nanashi Warudo (Nameless World), they develop a culture based on memes. Ayashii World functions as the hubsite of the Nanashi World in a similar way to how 4chan would later function as the hubsite of Anonymous. AW's popularity increases exponentially. 
 * March 26, 1997 – Kenjinkai shuts down, some claim Ayashii had something to be with it. Ayashii proceeds to use its own servers. By this point, Ayashii World becomes a household name and many other sites are created under its name.
-* Aug 5, 1997 – Mr. Amezou starts Amezou BBS, at the time, a normal anonymous BSS.
-* BSS.
+* Aug 5, 1997 – Mr. Amezou starts Amezou BBS, at the time, a normal anonymous BBS.
 
 * Aug 1997 – The first imageboard, Licentious Notice Board, is created by Mr. Fujinami. Its userbase exceeds at image collages and the site becomes a fad on the Japanese Internet. However LNB is short lived and no new imageboards are created due to a split between its userbase.
 
