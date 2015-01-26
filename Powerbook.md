@@ -4,7 +4,7 @@ Much later, the scammer, who now realized he was being scammed himself, proceede
 
 While the PDF can basically be found anywhere, we are attempting to back up the original P-P-Powerbook site, movies, and all updates to the Bibliotheca Anonoma. It was heavily mirrored in it's heyday, but now only a few sites survive.
 
-> **Notice:** A complete backup of the story has been discovered at [Mortencb.cx](http://p-p-p-powerbook.mortencb.cx/). Thanks Morten!
+> **Notice:** A complete backup of the story has been discovered at [Mortencb.cx](http://p-p-p-powerbook.mortencb.cx/), which is hosted at the Universitetet i Bergen. Thanks Morten!
 
 ## Website Mirrors
 
