@@ -26,3 +26,4 @@ Originally, this anonymite's posts were archived by Sarafan and his other well-w
 
 * [[Blindmute Loli Characters]] - An amusing list of all the crazy people Jake meets in this story.
 * [Archived from Chanarchive - The very first Blindmute Loli thread](https://drive.google.com/file/d/0B7WYx7u6HJh_QVNKd04tOWRBQWc/view?usp=sharing)
+  * (Notice: The ads were NSFW) [Archive.org (Chanarchive) - The Second Blindmute Loli Thread](https://web.archive.org/web/20100614032155/http://4chanarchive.org/brchive/dspl_thread.php5?thread_id=30517672&x=blind+girl+story)
