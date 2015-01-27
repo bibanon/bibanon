@@ -101,7 +101,7 @@ The men who decided to do something impressive: To scam the scammers, to distrac
 * [419Eater Letters Archive](http://www.419eater.com/html/letters.htm) - The very best safaris and mad antics that scambaiters have sent scammers on.
   * [419Eater Letters Forum](https://forum.419eater.com/forum/viewforum.php?f=10) - Scambaiting is happening every week.
 * [Yeawhatever's Scambaiting Website](https://web.archive.org/web/20071208112917/http://yeawhatever.catholiccall.org/) - Yeawhatever's website was lost to time, unfortunately, but the Internet Archive has snapshots of it. Here are the stories that were lost:
-  * [The Road to Bwindi Impenetrable Forest](https://web.archive.org/web/20070402030412/http://yeawhatever.catholiccall.org/bwindi/safarihome.html)
+  * [The Road to Bwindi Impenetrable Forest](https://web.archive.org/web/20070402030412/http://yeawhatever.catholiccall.org/bwindi/safarihome.html) - [Forum Post Edition](https://forum.419eater.com/forum/viewtopic.php?t=77146&start=0)
   * [The Road to Abu Sunbul](https://web.archive.org/web/20080108020611/http://yeawhatever.catholiccall.org/abusunbul/index.html) - The scammer stopped replying after a while, but it was a great run.
   * [The Road to the Hot Zone](https://web.archive.org/web/20070402002127/http://yeawhatever.catholiccall.org/hotzone/index.html)
 
