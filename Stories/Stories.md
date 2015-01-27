@@ -95,6 +95,7 @@ These stories will make you hurl.
 
 The men who decided to do something impressive: To scam the scammers, to distract them from victims, to lead them to ruin; such that the scammers will feel what it is like to be a victim. These are the stories of the Scambaiters.
 
+* [NPR: This American Life - Interview of 419Eater Admins](http://m.thisamericanlife.org/radio-archives/episode/363/transcript) - An amazing introduction to the world of scambaiting.
 * [419Eater Letters Archive](http://www.419eater.com/html/letters.htm) - The very best safaris and mad antics that scambaiters have sent scammers on.
 * [Yeawhatever's Scambaiting Website](https://web.archive.org/web/20071208112917/http://yeawhatever.catholiccall.org/) - Yeawhatever's website was lost to time, unfortunately, but the Internet Archive has snapshots of it.
 
