@@ -25,3 +25,4 @@ Originally, this anonymite's posts were archived by Sarafan and his other well-w
 ### Bonus Content
 
 * [[Blindmute Loli Characters]] - An amusing list of all the crazy people Jake meets in this story.
+* [Archived from Chanarchive - The very first Blindmute Loli thread](https://drive.google.com/file/d/0B7WYx7u6HJh_QVNKd04tOWRBQWc/view?usp=sharing)
