@@ -73,6 +73,7 @@ These stories will make you hurl.
 * [[A Brief History of UNIX]] - A satirical history of UNIX, written in biography form.
 
 ## [[2channel]]
+
 * **[[Densha Otoko]]** - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
 * [The Story of Denko](http://github.com/bibanon/bibanon/wiki/Denko) - (´･ω･`)
 
@@ -96,7 +97,9 @@ These stories will make you hurl.
 The men who decided to do something impressive: To scam the scammers, to distract them from victims, to lead them to ruin; such that the scammers will feel what it is like to be a victim. These are the stories of the Scambaiters.
 
 * [NPR: This American Life - Interview of 419Eater Admins](http://m.thisamericanlife.org/radio-archives/episode/363/transcript) - An amazing introduction to the world of scambaiting.
+  * [419Eater - NPR Listening Thread](https://forum.419eater.com/forum/viewtopic.php?t=147822) - The thread where the 419Eater admins hear their own interview and make comments.
 * [419Eater Letters Archive](http://www.419eater.com/html/letters.htm) - The very best safaris and mad antics that scambaiters have sent scammers on.
+  * [419Eater Letters Forum](https://forum.419eater.com/forum/viewforum.php?f=10) - Scambaiting is happening every week.
 * [Yeawhatever's Scambaiting Website](https://web.archive.org/web/20071208112917/http://yeawhatever.catholiccall.org/) - Yeawhatever's website was lost to time, unfortunately, but the Internet Archive has snapshots of it.
 
 ### Stories from the Anarchist's Cookbook
