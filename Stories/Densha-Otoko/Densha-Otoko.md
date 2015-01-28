@@ -1,4 +1,4 @@
-This story, along with the corresponding TV drama is one of the [[Culturally Important Treasures]] from the Internet.
+This story, along with [the corresponding TV drama](https://www.youtube.com/channel/UCT_WS-Z0fxhuYg0-FZN9UjA/feed) is one of the [[Culturally Important Treasures]] from the Internet.
 
 "[Densha Otoko, or 'Train Man'](https://en.wikipedia.org/wiki/Densha_Otoko) is the name of a very popular book published in Japan in early 2005, which tells the true story of a nerdy guy who falls in love with a girl who he saved from a drunk on a train. This entire story takes place on a Japanese bulletin board system called [[2channel]], or 'ni-channel', particularly in a thread called 'Men Being Shot from Behind', where single men get together and gripe about being single.
 
@@ -15,9 +15,9 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 ## Densha Otoko TV Drama
 
-The [[Densha Otoko]] TV Drama takes the story from the book and fills in the blanks, turning it into one of the greatest TV shows ever made. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause Japanese people to end up on the internet all day. Few other media has depicted so well the surprisingly familial bond and support that users feel, even as they talk on an anonymous BBS.
+The [[Densha Otoko TV Drama]] takes the story from the book and visually fills in the blanks. It gives viewers a boatload of awesome jokes and the signature drama tearjerker. The drama also provides a rare insight into the difficulties in life that cause Japanese people to end up on the internet all day. Few other media has depicted so well the surprisingly familial bond and support that users feel, even as they talk on an anonymous BBS.
 
-See [[Densha Otoko TV Drama]] for more info and subtitles.
+* [Watch the English-subbed TV Drama on YouTube](https://www.youtube.com/channel/UCT_WS-Z0fxhuYg0-FZN9UjA/feed)
 
 ## Characters
 
