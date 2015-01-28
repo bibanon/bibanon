@@ -20,6 +20,10 @@ Come in [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3Gw
 
 **This wikipage will only hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
 
+## Table of Contents
+
+[[_TOC_]]
+
 ## Hour 0
 
 ### 0:00 - 0:10
