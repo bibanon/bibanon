@@ -5,7 +5,7 @@ On the 21st of January, moot announced his retirement as admin of 4chan, and han
 Moot's 8-hour Livestream holds information on the early days of 4chan, farewell recommendations for anons, details about how the new 4chan administration will function, and comments on issues from around internet history.
 
 * [Archived YouTube Livestream](https://www.youtube.com/watch?v=XYUKJBZuUig)
-  * [[Moot's Final Q&A Transcript]] - A project by the anons of /qa/ to transcribe and condense Moot's ramblings, to extract the poignant meaning of his final speech.
+* [[Moot's Final Q&A Transcript]] - An ambitious project by the anons of /qa/ to transcribe and condense Moot's 8 hour ramblings, to extract the poignant meaning and historical importance of his final speech.
 
 ## /qa/ - Moot's Livestream Questions and Answers
 
