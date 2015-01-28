@@ -8,11 +8,10 @@ However, it's an excellent read, and well written. /b/ waited with bated breath 
 
 OP posted more every two weeks or so, which was then typeset into a PDF file and posted to a [Jumpshare](https://jumpshare.com/v/46jrYryVmDXbEkcKv3Mb). After taking a break from August to October, OP began updating again, revealed that his name was Peter, and rewrote the first, greentexted entry into actual paragraphs.
 
-Note: Not all the updates are on Bibanon. Please use the Jumpshare until they are.
-
-
-
 ## The Story
+
+Note: Not all the updates have been uploaded to the wiki yet. Please [use the PDF](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE&usp=sharing) until they are posted.
+
 * [[Update 1|Tasha Update 1]]
 * [[Update 2|Tasha Update 2]]
 * Update 3
