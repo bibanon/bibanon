@@ -14,9 +14,9 @@ Most of all, Moot's speeches are the end-all be-all primary sources for the [[4c
 
 ## How to Contribute
 
-This transcript is in dire need of your contributions. Robots just don’t cut it. Come in [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#),  find an empty slot in the Progress Report and start editing as you wish.
+This transcript is in dire need of your contributions. We're currently only 1 hour in. And robots just don’t cut it. Come in [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#),  find an empty slot in the [Progress Report](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#heading=h.98wmfct427ht) and start editing as you wish.
 
-**This wikipage is only designed to hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
+**This wikipage will only hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
 
 ## Hour 0
 
