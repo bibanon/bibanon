@@ -34,7 +34,7 @@ Bibliotheca Anonoma
 
 ### History
 
-* [[4chan Chronicle]]
+* **[[4chan Chronicle]]**
 * [[2channel]]
   * [[2ch History]]
   * [[2ch History Timeline]]
