@@ -2,7 +2,7 @@
 
 Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. 
 
-This 8-hour Livestream holds **new information on the early days of 4chan, farewell recommendations for anons, and comments on issues from around internet history.** 
+This 8-hour Livestream holds **new information on the early days of 4chan**, **farewell recommendations for anons**, and discussion on issues from around internet history.
 
 A transcript is critical for anons who require text access (visual or auditory impairments), anons who want to skim 8 hours of rambling speech in a condensed document (with the power of Ctrl-F) or even translation to other languages. (at least through google translate)
 
