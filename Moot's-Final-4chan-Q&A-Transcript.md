@@ -221,3 +221,5 @@ probably talk enough about it to actually drive enough traffic to it to maybe ac
 * **00:59:17** 4chan is really the only website I would say on the entire internet that forwards you an opportunity to get a  message in front of just a gazillion people without anything, without building that following. That was the beauty of anonymous posting. I mean that’s what I’ve given talks about. Contrary to everybody screaming about free-speech, my point in all of my talks, and verbatim basically quoting myself, Is that anonymous speech enables people to be equal and to say things that they might not otherwise be comfortable sharing on a  platform with identity. So that coupled with an ability to reach
 
 ## 1 Hour
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and edited for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
