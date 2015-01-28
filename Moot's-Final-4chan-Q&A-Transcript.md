@@ -56,4 +56,90 @@ This transcript is in dire need of your contributions. Robots just don’t cut i
 
 ### 0:10 - 0:20
 
+* **00:10:43** Who is going to be the new head admin replacing you? # 573 Are there any other chans other than 4chan that you visit? Why did you stop lifting?
+* **00:10:51** New admin? I kinda answered this in the news post that I posted. There is no head admin per se replacing me. I mean I've more or less been the only real “administrator” as far as the only decision-maker/leader/manager/whatnot 4chan has ever had. That's not a role that is going to be filled immediately. In the interim there are three people that I didn’t name by name but I described their roles in that post.
+* **00:11:26** So, one is the lead developer. Most people know this person already if you dig around for it but he's been helping out for about two years now and and he wrote the native extension, the javascript extension. 
+* **00:11:43** It’s more of the less all the backend development what not for the better part of two years now and he is excellent when he runs the catalog there or the unofficial catalog rather. He made our [???] and he’s great.
+* **00:11:54** The other is the server admin, out of every man who has been helping out for actually over 10 years. Well maybe not [all time] but he’s the oldest volunteer that’s still serving. He's been incredible over the years, he was once the lead developer and [even as] we all have a real life and real job now, he always continued to pitch in and help with the servers and stuff  so we're very lucky to have him.
+* **00:12:31** And the last is that managing moderator, who is the person that I delegated a lot of the HR roles to over the past year. Believe it or not there is a very real orientation process, in terms of going through the janitor applications and doing orientation, and rule clarifications and being present on the team channel and on the Janitor channel and you know on 4chan, blablabla...
+* **00:13:04** He's taking a very active role in the day-to-day management of the team volunteers that we have  He surfaces the problems that needed my attention to me, so he's also done a really a excellent job. [In the long-term], there’s not some group of [people] that are the “end all be all” administrators.
+* **00:13:36** I haven’t named those people yet [or] decided what to do about that. In the short term, nothing should change from a user's perspective., [Classifying them] isn't fair to the other team members, The three core team members, who are the three minimum set of  people I need to ensure a smooth transition, have all decided to pitch in .
+* **00:13:57** Are there any other chans you visit? Actually, because people ask me this a lot: Obviously I visit other websites. I visited other imageboards over the years but I don't actively use any, because 4chan is a handful, [it] already has all of my interest represented on it. There's not really a compelling reason to use other web sites. 
+* **00:14:23** I'm sure I’ll have an opportunity to do this later but, I actually did want to give a shout out to kirtainer (who runs 420chan) [who sent me an email that said] ‘hey, it's been forever’, a day or two ago. To single out 420chan, it’s actually one of the imageboards that I have actually respected over the years. I think that what's kind of defined a lot of image boards, even going back to the first kind of spin off from 4chan (which was 5Chan), 7chan and all these others. They tend to spin out based on a decision I make, or they don’t like me, or they don’t like 4chan, or they don’t like 4chan culture or whatever. More or less over the years, most of those sites have kind of fizzled out.
+* **00:15:10** While 420Chan started similarly to 5chan, (the admin didn’t like me), I really respect that he wanted to have a bunch of topics that 4chan didn’t have but 420Chan  essentially [made] into being because it was like:
+* **00:15:24** “Hey, 4chan is never  gonna have a drugs board, or a wrestling board, or all these other boards that I want, and so we may as well create a site that caters to that.” 
+* **00:15:33** I really respect the fact that he really took it in its  own direction, it doesn't look like 4chan. The other sites [based on] Kusaba X (SP) created a whole era of open source clones of 4chan that offered 4chan in a box and emulated our front page and everything. People, for whatever reason wanted to make 4chan that wasn’t 4chan.
+* **00:15:55** He really kind of made it his own. (I think he had another administrator at one point.) So i’ve actually been a huge fan [of 420chan].
+* **00:16:03** Although I've never done a narcotic drug, I’ve never smoked weed or anything like that (I never really had a reason to use it), I don’t watch wrestling either (sorry
+/sp/ or /asp/), I’ve always actually really respected that site. So, it’s good to see that there are people trying to do neat things out there. 
+* **00:16:23** Why did I stop lifting? I stopped lifting probably about a year ago. But I actually stopped going to the gym last September. I think I have it in my phone, actually my last like update on my note was like in September 9th or 10th. 
+* **00:16:40** That was a result of The Fappening, because of the emotional and kind of physical toll that that took on me. I mean September was a really rough month. I mean we started it with The Fappening, (you’d have to be under a rock to not know what that is)
+* **00:16:58** One day, August 30th or 31st. or September 1st, I think we served about 93 million page views in one day. Over the month of September (which
+doesn't include late August traffic) we served 45
+million unique visitors and about 980 or so million page views, the closest we ever got to doing a billion page views. 
+In a normal month 4chan will serve about 20 to 22 million unique visitors and about 500 million page views a month (now it's actually closer
+to 610-615.)
+* **00:17:28** Actually we probably did do a billion just given that so many people, like all of our friends on /g/ block Google Analytics (aka Google botnet). Analytics is not always the best [statistic]. So that month we probably did break a billion page views.
+* **00:17:57** I was just completely overwhelmed. We got many a legal nastygram from obviously all the firms representing the actresses. We spent a shit load of time on the phone with lawyers, and it cost us tens of thousands of dollars in legal bills. I'm so glad that I’ve done such a good job saving over the years because that on a bad day could have easily bankrupted the site. 
+* **00:18:25** What else did we have that month? That was when /pol/ was doing the ebola jam too. [And] I guess that was when Gamergate began to find its mainstream audience.
+* **00:18:43** Anyway, September was this long, long, long month. I just was so
+overwhelmed dealing with all that stuff that I stopped lifting then and I actually haven’t been back to the gym since.
+* **00:18:54** Have you installed Gentoo? # 574. I actually did install Gentoo a long
+time ago on a really old laptop. I believe it finished compiling but I never actually really used it for anything.
+* **00:19:09** I’m just gonna start skimming through
+these ‘cause there are probably already thousands of questions already. 
+* **00:19:13** Is /s4s/ still your favorite board? /jp/ is actually my favorite board according to what I said at the 10th anniversary panel a year and a half ago. [sarcasm] 
+* **00:19:26** But [anyway], I really like /s4s/ a lot. I mean, I like all the boards. I’ve actually been spending a lot of time on /o/. DBT is one of my favourite threads these days, even though they’re pretty silly.
+* **00:19:37** Trying to think of what else.
+* **00:19:41** Yeah, I actually browse /a/ a lot (despite that they all flip their shit when I post) but it’s still actually a fun board. I mean, I would say again, for all the people that complain about /a/’s quality and blah blah blah, and Naruto threads, /a/ is really actually
+truly one of the best boards.
+
+### 0:20 - 0:30
+
+* **00:20:00** I’ll look at the stats really quickly but /a/ is huge. I mean, it has historically been the third largest board, but maybe it's the fourth largest now.
+* **00:20:10** You know, /a/ is very large. And despite the fact that it receives a lot of
+posts, its quality tends to be quite high.
+* **00:20:21** So let's see. The first sticky is already dead and I'm only like two questions in. I
+guess we will be here for eight hours today.
+* **00:20:28** /a/ is used by 850 or so thousand users alone per month and
+serves about 23.5 million page views. For everybody who uses /a/, you now know that you have almost a million buddies.
+* **00:20:47** #589 When did you decide to quit? It feels like you made a decision a while ago, at least a year or two ago. There are a lot of questions in here. But, I mean, I’ve said that in interviews and I think I said that on the news post, but again the announcement that I made on Wednesday is a long time coming. I mean it really wasn’t so much a matter of ‘if’ but rather ‘when’.
+* **00:21:10** It had been on my mind for a long time and it really kinda entered
+my [mind] probably about eight or nine months before the 10th [anniversary of 4chan].
+* **00:21:22** I actually had this in my news post but I took it out.
+* **00:21:26** You know, one of the questions I've gotten over the years (besides, ‘fuck you’, which really isn’t a question) is “What happens to 4chan if you die?”
+* **00:21:37** I used to joke that, “Oh well I guess. My mother is next of kin so it would go to
+her, and you’d have Mama Moot baking you some cookies,” or whatnot. (I’m kidding my mom doesn’t bake)
+* **00:21:49** All joking aside, the prospect for the site would be very grim. I am the, again, sole owner, sole manager, sole administrator. I own the company. I own all the hardware. I have every single password, 
+* **00:22:05** It’s always really funny to see conspiracy theories that exist about moderators and leaks and whatnot. Or how people seem to think that there's this cabal of SJW moderators managing the site, but 4chan’s hierarchy is essentially
+completely flat.
+* **00:22:27** Volunteer Moderators (Janitors) are at the bottom, then the Moderators, General Managers, and then myself. The General Manager position didn't exist until about a year or so ago, as a result of kind of my succession planning.
+* **00:22:42** But… that's it. Whenever I see there’s been some really funny fake chat logs over the years and it’s always hilarious because I don't actually talk in the IRC channels that often. I don't consult moderators or janitors. I don’t share my thinking. 
+* **00:23:01** In that sense I've been a pretty bad people manager. It's not a committee, it's not consensus driven at all. It’s really just I make decisions and sometimes communicate to them. A lot of the time they’re pretty much completely in the dark. I barely use IRC these days.
+* **00:23:17** So every time I see those chat logs I laugh because… Nothing could be further from the truth. Most of the channels are silent a lot of the time.
+* **00:23:26** Anyway, the organisation is basically flat with me on top. That’s really unhealthy [once I consider] what should happen to [4chan] if I were to become incapacitated, if I were to get hit by a bus and die, or get a new job, get married, have kids, get burnt out, whatever.
+* **00:23:46** All of those things would take me away from the site, [and by] a certain point in time, probably would have ensured 4chan’s death.
+* **00:23:59** I've kind of joked in these interviews that… it's the opposite of that saying, ‘the captain shall go down with his ship’.
+* **00:24:09** But this was like ‘The ship goes down with the captain.’ The second I take a step off the ship, the ship would implode. [Clearly], no ship should be designed that way.
+* **00:24:17** So that's what kind of got me thinking about, well, how do I… how do I change that. And actually as it turns out, I wrote a news post in February of last year that I never posted (I just discovered it a few days ago), when I was about to publish the Wednesday announcement. 
+* **00:24:36** [It] alluded to this very directly. “Next year, what I'm focused on is finding out how to make 4chan outlast me.” I had realized that the site would basically die without me. Long term planning came to my mind after 4chan hit our 10th anniversary, just because I never expected… no, nobody expected 4chan to make it 10 years, much less continue chugging on.
+* **00:25:02** When 4chan turned five or six, I would think only about the year ahead. I’d think ‘Okay, what do I want to do next year?’ Are we gonna make it to six or seven?’
+* **00:25:16** Once you hit ten, your frame of reference completely changes. It’s so inconceivable, that you make it to ten you begin to think, ‘Well, maybe it's not inconceivable that we’ll make it to twenty.’
+* **00:25:29** And… I can’t... it's hard to name any website that I use that are twenty years, even ten years old. It really is an unprecedented milestone. And even then… for as many people who claim ‘4chan is kill’, [our traffic statistics show that] 4chan still has as much traffic its ever done. Its actually held that amount of traffic for about four or five 
+years.
+* **00:25:54** It's hard for communities to maintain that standard ‘cause they, you know, [fall apart someday]. So 4chan has peaked, it’s been a 4 or 5 year peak, which i think is actually quite, quite impressive.
+* **00:26:08** I’m rambling so I lost my train of thought. But anyway, you know it just became clear to me that if I wanted to make it another ten or twenty years, something needs to change, and that something was me. So I spent the better part of the past year or two just thinking about what needs to change. I wanted to ensure that 4chan makes enough money to support itself.
+* **00:26:32** [Just for example, look at] the servers. We've had some issues these past few days, but we upgraded a bunch of the servers. Even though I made this decision so long ago and I was really imminently going to leave weeks ago I mean we spent thousands of dollars upgrading the servers. That’s why he had that down time, you know it wasn’t a DDOS a few weeks ago. People thought it was. We upgraded all the servers and they all have much faster processors now and more RAM.
+* **00:26:52** When the site isn't kind of having the hiccups that we've had the past few days it’s blazing fast. I released it's a lot faster and more
+stable than it's ever been. For those of you who have been browsing 4chan for
+more than a few years, I mean you probably remember how slow and unstable the site would be and it would go down for hours or days at a time and it would just be like you were using a dial up modem, it was that slow.
+* **00:27:13** So that's in a good place and again like the team is kind of in its best place now more than ever. I really truly actually feel that it's in the best place to survive without me and so that's why I decided to step down and kind of allow for that to happen, because again it had to happen at some point.
+* **00:27:30** Have you ever wanted say something but you couldn’t because of
+your position as admin? Um, no not particularly. I guess that’s a pretty simple answer. Let me skim through these now because I’m only like 5 in.
+* **00:27:48** What makes a good poster? I guess that’s a pretty good question. We’ve had this thing in the rules, maybe it’s in the FAQ, for a really long time that just said we haven’t accepted donations, and it’s something that people often kind of forget, but you know we used to take donations early in the site’s history from 2003 to 2005, haven't taken a single penny in donation since 2005. I fucking hate donations. Again go to the historical news pages, the news post is titled ‘If only it grew on trees’ where I wrote about the 4chan passes, but I explain some of my logic for hating donations. And I think there’s actually one before that from 2012 that kind of touched on it.
+* **00:28:26** Anyway so we've always said because you can’t contribute money, what you contribute is posting right, posting quality threads, uploading images, you know, helping people find the source of something, which I guess you shouldn’t do outside of /r/. I don’t know and I mean it’s just like anything that especially in recent months, it's the people that sit around and whine about how bad 4chan is. Again if you want to say how much I suck, great, so be it. I wish you would do that over email because it really just kind of shits up the board and for as many people that believe we delete all that, we really don’t.
+* **00:29:04** The people who kind of complain about how much a board sucks, or a thread sucks, or a user sucks, I mean really aren’t contributing anything. I mean it really just kind of mucks things up far more than just shutting your mouth. The way you address that is [to] drown out the shit post with quality posts or submit feedback or if there's like a real problem that we can actually address as the administration, email it to me.
+* **00:29:30** I think it’s like sage, you know, back in the day, the sage or sage bombing threads and spamming and dubs and all of that. The quote unquote user moderation really hasn't worked on 4chan for the better part of the past 10 years once we reached a certain scale. I really kind of dislike the fact that people think that, again, complaining and shitting things up further is somehow better than just either zipping it or again deleting or ignoring, reporting and whatnot.
+
+
 ## Hour 1
