@@ -20,11 +20,7 @@ Come in [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3Gw
 
 **This wikipage will only hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
 
-## Table of Contents
-
-[[_TOC_]]
-
-## Hour 0
+## 0 Hours
 
 ### 0:00 - 0:10
 
@@ -224,4 +220,4 @@ probably talk enough about it to actually drive enough traffic to it to maybe ac
 * **00:58:40** I mean you have communities obviously like Reddit, you know our favourite, that sure you can get something in front of a lot of people on Reddit if you get on the front page, but what percentage of content makes it there? And it requires upvoting and karma, and all this hierarchy bullshit and whatnot, whereas 4chan is completely egalitarian in that sense. Other platforms like, say, Twitter. If you want to get a message in front of people on Twitter you have to have a lot of followers. How do you get a lot of followers? You have to have influence. If you upload a video on YouTube, five people will see it unless you have some way of getting on the front page and that usually requires you to have a following.
 * **00:59:17** 4chan is really the only website I would say on the entire internet that forwards you an opportunity to get a  message in front of just a gazillion people without anything, without building that following. That was the beauty of anonymous posting. I mean that’s what I’ve given talks about. Contrary to everybody screaming about free-speech, my point in all of my talks, and verbatim basically quoting myself, Is that anonymous speech enables people to be equal and to say things that they might not otherwise be comfortable sharing on a  platform with identity. So that coupled with an ability to reach
 
-## Hour 1
+## 1 Hour
