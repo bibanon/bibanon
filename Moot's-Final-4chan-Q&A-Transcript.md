@@ -1,10 +1,16 @@
 > **Note:** _This ambitious document was made possible by the hard work of [many nameless anons at this Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#); who gave their time to slog through 8-hours of transcripts from YouTube's robot-automated speech recognition system._
 
-Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. This 8-hour Livestream holds information on the early days of 4chan, farewell recommendations for anons, and comments on issues from around internet history.
+Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. This 8-hour Livestream holds new information on the early days of 4chan, farewell recommendations for anons, and comments on issues from around internet history.
 
-A transcript is critical for for those who require text access, anons who want to skim 8 hours of speech (with the power of Ctrl-F), or even translation to other languages. *Because hey, anyone can anon too, even your dog.* 
+A transcript is critical for: 
 
-> \>and the day will come when a newfag asks, "who is moot"?
+* Those who require text access (visual or auditory impairments)
+* Anons who want to skim 8 hours of rambling speech in a condensed document (with the power of Ctrl-F)
+* Or even translation to other languages. (at least through google translate)
+
+*Because hey, anyone can anon too, even your dog.* 
+
+> _\>and the day will come when a newfag asks, "who is moot"?_
 
 Most of all, Moot's speeches are the end-all be-all primary sources for the [[4chan Chronicle]], as the first and longest-serving anon in it's history.
 
