@@ -1,4 +1,4 @@
-> **Note:** This ambitious document was made possible by the hard work of [many nameless anons at this Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#); who slogged through 8-hours of transcripts from YouTube's robot-automated speech recognition system.
+> **Note:** _This ambitious document was made possible by the hard work of [many nameless anons at this Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#); who gave their time to slog through 8-hours of transcripts from YouTube's robot-automated speech recognition system._
 
 Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. This 8-hour Livestream holds information on the early days of 4chan, farewell recommendations for anons, and comments on issues from around internet history.
 
