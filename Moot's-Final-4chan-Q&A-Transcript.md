@@ -222,4 +222,4 @@ probably talk enough about it to actually drive enough traffic to it to maybe ac
 
 ## 1 Hour
 
-Automatically generated YouTube transcripts (for the next 7 hours) can be read, and edited for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
