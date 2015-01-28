@@ -1,3 +1,7 @@
+A series of crippling scandals rocks 4chan, and the rest of the internet; forcing public and legal pressure against 4chan mods; from the general public, the media, the FBI, even it's own anons. 
+
+Moot notes in his farewell speech that 4chan was in danger of shutting down, from the legal fees alone. But thanks to frugal spending and a spare $30,000 of revenue from 4chan Passes, the site managed to live to another day. 4chan even found spare funds to upgrade server infrastructure, allowing it withstand the website's highest viewership to date: nearly 1 billion pageviews.
+
 Check the [[4chan History Timeline]] for a full list of events.
 
 ## Events
