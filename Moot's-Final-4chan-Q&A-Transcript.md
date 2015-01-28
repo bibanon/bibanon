@@ -20,7 +20,7 @@ This transcript is in dire need of your contributions. Robots just don’t cut i
 
 ## Hour 0
 
-### 0:00-0:10
+### 0:00 - 0:10
 
 * **00:00:41** Alright, now we get to learn why I’m not a radio announcer. Mic check in front of  24 thousand people, so yeah.
 * **00:00:54** Thanks for joining for what is going to be the final Q&A or PMQ as we used to call them with 4chan, and y’know hopefully I think it’s an opportunity for you all to roast me or... oh god, I hear myself in the background now.
@@ -53,5 +53,7 @@ This transcript is in dire need of your contributions. Robots just don’t cut i
 * **00:10:00** But these types of things are kind of hard to resolve, so I don’t know if I’ll be able to please you. 
 * **00:10:05** So /tv/, for example, is visited by 476,000 people in a month or the last 30 days at least, and served 13.7 million page views. And so again if you can find consensus among those 450,000+ people then be my guest. You know, you could probably do a better job with it than I could.  
 * **00:10:28** Do you still hate /pol/? # 567? No I don't hate /pol/, I don't hate anything on 4chan, I don’t hate anybody. I find that it is a lot of work to hate strangers on the internet and don’t tend to spend my time doing that.
+
+### 0:10 - 0:20
 
 ## Hour 1
