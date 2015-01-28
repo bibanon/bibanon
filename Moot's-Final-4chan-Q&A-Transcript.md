@@ -18,5 +18,10 @@ This transcript is in dire need of your contributions. Robots just don’t cut i
 
 **This wikipage is only designed to hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
 
-## Hour 1
+## Hour 0
 
+### 0:00-0:10
+
+
+
+## Hour 1
