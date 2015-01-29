@@ -54,6 +54,7 @@ Check out the comic series, and the equally impressive flash adaptation in the l
 Three Angled Blue is now MIA, long gone now and probably never to return. But there are those who evoke his legacy. 
 
 * Three Angled Blue's works popularized [the concept of Board-tans](http://1d4chan.org/wiki/Board-tans), personifications of the 4chan Boards that fought against each other and were the symbolic personas of it's hivemind.
+* Not surprisingly, 4chan's [10th Anniversary Panel](http://www.fybertech.com/4get/13806043354777.png) commemorative print is deeply influenced by 3-Angled-Blue's engraved style. 
 
 ### Artists
 
