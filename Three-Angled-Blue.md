@@ -1,6 +1,6 @@
 [[http://i.imgur.com/hndkuyb.jpg|height=300px|width=500px]]
 
-**Three Angled Blue** is 4chan's most influential, most beloved artist. He's got a distinctive style: expressive faces, many details, a shading style. 
+**Three Angled Blue** is 4chan's most influential, most beloved artist. He's got a distinctive style: expressive faces, fine engraved details, a masterful shading style. 
 
 Despite what you may believe, once upon a time, there was an age when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
@@ -29,7 +29,7 @@ Most of Three-Angled-Blue's works were posted anonymously on 4chan during 2008, 
 If you can find a work, upload it and place a link here. Chances are, they're about to disappear forever as hard drives crash and websites shut down.
 
 * Rare, never-before-archived Works discovered from `cdn.uber.it`
-  * [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png) - [uber.it]()
+  * [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292104_tower_of_games_by_3_angled_blue.png)
   * [The Average /v/ Goer](http://i.imgur.com/C3kCe9k.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292058_average_v_goer_1_by_3_angled_blue.png)
 
 ---
