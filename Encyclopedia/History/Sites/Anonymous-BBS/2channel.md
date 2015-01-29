@@ -64,4 +64,5 @@ Additionally, 2ch was a major feature of the anime Nurse Witch Komugi-chan. *[Of
 
 ## Sources
 
+* [New York Times - 2channel Report](http://www.nytimes.com/2004/05/09/international/asia/09toky.html?pagewanted=2)
 * [Shii's article on 2channel](http://shii.org/knows/2channel)
