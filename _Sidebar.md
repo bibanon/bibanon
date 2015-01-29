@@ -33,7 +33,7 @@ Bibliotheca Anonoma
 
 ### Art
 
-* [[Three Angled Blue]]
+* **[[Three Angled Blue]]**
 
 ### History
 
