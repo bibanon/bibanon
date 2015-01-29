@@ -1,6 +1,6 @@
-[[http://i.imgur.com/Nk5Dc9r.png|height=300px|width=400px]]
+[[http://i.imgur.com/hndkuyb.jpg|height=300px|width=500px]]
 
-**Three Angled Blue** is 4chan's most influential artist. 
+**Three Angled Blue** is 4chan's most influential, most beloved artist. 
 
 Despite what you may believe, once upon a time, there was an age when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
