@@ -2,11 +2,11 @@
 
 Once, there was a time when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
-![](http://fc02.deviantart.net/fs34/f/2008/291/8/2/King_is_not_pleased_by_3_Angled_Blue.png)
+[[http://fc02.deviantart.net/fs34/f/2008/291/8/2/King_is_not_pleased_by_3_Angled_Blue.png|alt="The King is not pleased"|float|height=400px|width=450px]]
 
 They contained parables that warned anons of the dangers of ironic shitposting, or satirized the inane discussions by trolls who troll the trolls.
 
-[[http://fc00.deviantart.net/fs36/f/2008/260/5/0/Nobody_is_Right_by_3_Angled_Blue.pn|alt="Nobody is Right"|float|height=600px|width=200px]]
+[[http://fc00.deviantart.net/fs36/f/2008/260/5/0/Nobody_is_Right_by_3_Angled_Blue.png|alt="Nobody is Right"|float|height=600px|width=400px]]
 
 The rage faces of today are a pale mockery of his legacy. 
 
