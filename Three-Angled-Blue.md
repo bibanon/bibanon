@@ -1,6 +1,6 @@
 [[http://i.imgur.com/hndkuyb.jpg|height=300px|width=500px]]
 
-**Three Angled Blue** is 4chan's most influential, most beloved artist. He's got a distinctive style: expressive faces, fine engraved details, a masterful shading style. 
+**Three Angled Blue** is 4chan's most influential, most beloved artist. He's got a distinctive style: expressive faces, fine engraved details, a masterful shading style. Somehow he manages to make masterpieces... with nothing more than MS Paint.
 
 Despite what you may believe, once upon a time, there was an age when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
@@ -80,6 +80,7 @@ Three Angled Blue is now MIA, long gone now and probably never to return. But th
 
 Artists who continue the legacy of his detailed engravings.
 
+* [Tumblr - Things That Suck Ass](http://thingsthatsuckass.tumblr.com/) - Not enough 3-Angled-Blue for you? This person was masterfully close enough [to be accused of being him.](http://thingsthatsuckass.tumblr.com/post/40369000784/funny-thing-mitsjol-i-recieved-this-a-while-back)
 * [SantanaDVX](http://knowyourmeme.com/photos/112479-trollbait-nobody-is-right) - Created this magnificent work of satire at [the Strongside of Facepunch Studio Boards.](http://www.facepunch.com/showthread.php?t=909314)
 
 ### Project Hate Machine
