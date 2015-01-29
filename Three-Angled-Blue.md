@@ -1,12 +1,20 @@
-**Three Angled Blue** was one of 4chan's most influential artists.
+**Three Angled Blue** is 4chan's most influential artist. 
 
-Once, there was a time when rage comics were good. They were detailed prints that distilled powerful action scenes and dramatic faces of anger, reminiscent of Jojo's Bizarre Adventure. And of all the artist, Three Angled Blue defined the standard:
+Once, there was a time when rage comics were good. They were detailed prints that distilled powerful action scenes and dramatic faces of anger, reminiscent of Jojo's Bizarre Adventure. 
+
+They contained parables that warned anons of the dangers of ironic shitposting, or satirized the inane discussions And out of all of them, Three Angled Blue defined the standard:
+
+![](http://fc00.deviantart.net/fs36/f/2008/260/5/0/Nobody_is_Right_by_3_Angled_Blue.png)
 
 The rage faces of today are a pale mockery of his legacy. 
 
-Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. And thus, we built this art collection with the purpose of highlighting the artists behind the art.
+Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. And thus, we built this art collection, with the purpose of highlighting the artists behind the art.
 
 ## Collection / Gallery
+
+### Comic Dub Adaptations
+
+Some anons have created some amazing voiceovers for his comics, 
 
 ## EPIC FRUSTRATION
 
@@ -21,8 +29,9 @@ EPIC FRUSTRATION is the Bayeux Tapestry of 2006's /b/day, where floods of anons 
 
 Three Angled Blue is now MIA, long gone now and probably never to return. But there are those who evoke his legacy. 
 
-* [](https://docs.google.com/document/d/1I4rRCwuolxegQRNYqtw8koYV7aczBfYXqaag9nxO514/)
+* [Project Hate Machine - Google Doc](https://docs.google.com/document/d/1I4rRCwuolxegQRNYqtw8koYV7aczBfYXqaag9nxO514/)
 
 ## Sources
 
-* [](http://www.funnyjunk.com/I+lost+my+repel/funny-pictures/5028276/3)
+* [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/)
+* [FunnyJunk - Remembering Three Angled Blue](http://www.funnyjunk.com/I+lost+my+repel/funny-pictures/5028276/3)
