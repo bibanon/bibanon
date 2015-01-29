@@ -1,4 +1,4 @@
-[[http://i.imgur.com/Nk5Dc9r.png|height=400px|width=450px]]
+[[http://i.imgur.com/Nk5Dc9r.png|height=300px|width=400px]]
 
 **Three Angled Blue** is 4chan's most influential artist. 
 
