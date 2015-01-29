@@ -20,9 +20,13 @@ And thus, we built this art collection, with the purpose of highlighting the art
 
 Most of Three-Angled-Blue's works were posted anonymously on 4chan during 2008, and are at threat of being lost forever as link rot sets in. The loss of the Chanarchive is a bitter blow against the record of his work.
 
-Help us collect every single work by 3-angled-blue that you can find. Chances are, they're starting to disappear as hard drives crash and websites shut down.
+If you can find a work, upload it and place a link here. Chances are, they're about to disappear forever as hard drives crash and websites shut down.
 
-* [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contain a small percentage of his works.
+* [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png)
+
+---
+
+* [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contains a small percentage of his works.
 * [4chanhouse - Anybody Remember the artist Three Angled Blue?](http://dis.4chanhouse.org/gen/res/117.html)
 * [4chanhouse - Collection of 3-Angled-Blue Comics](http://dis.4chanhouse.org/comic/res/21.html)
 * [Archaises.rssing.com - 3-Angled-Blue Gallery](http://archaises.rssing.com/chan-2070190/all_p1.html)
