@@ -32,6 +32,7 @@ If you can find a work, upload it and place a link here. Chances are, they're ab
   * [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292104_tower_of_games_by_3_angled_blue.png)
   * [The Average /v/ Goer](http://i.imgur.com/C3kCe9k.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292058_average_v_goer_1_by_3_angled_blue.png)
   * [The Ideal /v/ Goer](http://i.imgur.com/xSJwfay.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292059_average_v_goer_2_by_3_angled_blue.png)
+* [Juvie](http://i.imgur.com/SRPw4BG.jpg)
 
 ---
 
