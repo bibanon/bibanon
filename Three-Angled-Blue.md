@@ -64,5 +64,6 @@ Project Hate Machine is a fighting game collaboratively produced by anons that p
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/)
 * [4chanhouse - Anybody Remember the artist Three Angled Blue?](http://dis.4chanhouse.org/gen/res/117.html)
+* [4chanhouse - Collection of 3-Angled-Blue Comics](http://dis.4chanhouse.org/comic/res/21.html)
 * [Know Your Meme - Trollbait: Nobody is Right](http://knowyourmeme.com/memes/trollbait-nobody-is-right)
 * [FunnyJunk - Remembering Three Angled Blue](http://www.funnyjunk.com/I+lost+my+repel/funny-pictures/5028276/3)
