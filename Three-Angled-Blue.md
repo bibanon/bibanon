@@ -32,12 +32,17 @@ If you can find a work, upload it and place a link here. Chances are, they're ab
   * [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292104_tower_of_games_by_3_angled_blue.png)
   * [The Average /v/ Goer](http://i.imgur.com/C3kCe9k.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292058_average_v_goer_1_by_3_angled_blue.png)
   * [The Ideal /v/ Goer](http://i.imgur.com/xSJwfay.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292059_average_v_goer_2_by_3_angled_blue.png)
+* [Peace and War](http://3-angled-blue.deviantart.com/art/Peace-and-War-98169621)
+* [Goodbye Honey](http://3-angled-blue.deviantart.com/art/Goodbye-Honey-98253343)
+* [A Tattoo](http://fc02.deviantart.net/fs36/f/2008/270/0/5/A_Tatoo_by_3_Angled_Blue.png)
 * [Juvie](http://i.imgur.com/SRPw4BG.jpg)
+* [Giving Blood](http://3-angled-blue.deviantart.com/art/Giving-Blood-99004813)
+* [Security Jaguar](http://3-angled-blue.deviantart.com/art/SECURITY-JAGUAR-99907456)
 
 ---
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contains a small percentage of his works.
-  * [Deviantart Search](http://www.deviantart.com/browse/all/?q=by%3A3-angled-blue&offset=34&order=24)
+  * [Deviantart Search](http://www.deviantart.com/browse/all/?order=24&q=by%3A3-angled-blue)
 * [4chanhouse - Anybody Remember the artist Three Angled Blue?](http://dis.4chanhouse.org/gen/res/117.html)
 * [4chanhouse - Collection of 3-Angled-Blue Comics](http://dis.4chanhouse.org/comic/res/21.html)
 * [Archaises.rssing.com - 3-Angled-Blue Gallery](http://archaises.rssing.com/chan-2070190/all_p1.html)
