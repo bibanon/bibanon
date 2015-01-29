@@ -11,6 +11,10 @@ Bibliotheca Anonoma
 * [[Culturally Important Treasures]]
 * [Edit this Sidebar](https://github.com/bibanon/bibanon/wiki/_Sidebar/_edit)
 
+### Art
+
+* [[Three Angled Blue]]
+
 ### Stories
 
 * [[Cool Story Bro]]
@@ -30,10 +34,6 @@ Bibliotheca Anonoma
 * [[Romeo-san and Juliette]]
 * [[Uncle Anon]]
 * [[more...|Stories]]
-
-### Art
-
-* [[Three Angled Blue]]
 
 ### History
 
