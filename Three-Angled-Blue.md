@@ -40,6 +40,8 @@ EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [[2006's /b/
 
 /v/ fought back.
 
+Check out the comic series, and the equally impressive flash adaptation in the links below.
+
 * [EPIC FRUSTRATION - Original Comic Series](https://encyclopediadramatica.se/RAGE#Epic_Frustration_Comic)
 * [/v/-rage - Flash Adaptation](http://swfchan.com/9/43253/?V-rage.swf) - [YouTube](http://www.youtube.com/watch?v=YVys7jcCJDs) - Created by NCH.
 
