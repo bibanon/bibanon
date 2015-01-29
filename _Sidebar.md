@@ -31,6 +31,9 @@ Bibliotheca Anonoma
 * [[Uncle Anon]]
 * [[more...|Stories]]
 
+### Art
+
+* [[Three Angled Blue]]
 
 ### History
 
