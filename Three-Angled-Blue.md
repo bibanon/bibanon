@@ -35,13 +35,26 @@ EPIC FRUSTRATION is the Bayeux Tapestry of 2006's /b/day, where floods of anons 
 * [EPIC FRUSTRATION - Original Comic Series](https://encyclopediadramatica.se/RAGE#Epic_Frustration_Comic)
 * [/v/-rage - Flash Adaptation](http://swfchan.com/9/43253/?V-rage.swf) - [YouTube](http://www.youtube.com/watch?v=YVys7jcCJDs) - Created by NCH.
 
-## Project Hate Machine
+## Influence
 
 Three Angled Blue is now MIA, long gone now and probably never to return. But there are those who evoke his legacy. 
 
+### Artists
+
+Artists who continue the legacy of his detailed engravings.
+
+* [SantanaDVX](http://knowyourmeme.com/photos/112479-trollbait-nobody-is-right) - Created this magnificent work of satire at [the Strongside of Facepunch Studio Boards.](http://www.facepunch.com/showthread.php?t=909314)
+
+### Project Hate Machine
+
+Project Hate Machine is a fighting game collaboratively produced by anons that pits 4chan boards against each other (inspired by EPIC FRUSTRATION).
+
+* [Project Hate Machine - Introduction](http://hatemachineproject.blogspot.com/)
 * [Project Hate Machine - Google Doc](https://docs.google.com/document/d/1I4rRCwuolxegQRNYqtw8koYV7aczBfYXqaag9nxO514/)
 
 ## Sources
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/)
+* [4chanhouse - Anybody Remember the artist Three Angled Blue?](http://dis.4chanhouse.org/gen/res/117.html)
+* [Know Your Meme - Trollbait: Nobody is Right](http://knowyourmeme.com/memes/trollbait-nobody-is-right)
 * [FunnyJunk - Remembering Three Angled Blue](http://www.funnyjunk.com/I+lost+my+repel/funny-pictures/5028276/3)
