@@ -37,6 +37,7 @@ If you can find a work, upload it and place a link here. Chances are, they're ab
 ---
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contains a small percentage of his works.
+  * [Deviantart Search](http://www.deviantart.com/browse/all/?q=by%3A3-angled-blue&offset=34&order=24)
 * [4chanhouse - Anybody Remember the artist Three Angled Blue?](http://dis.4chanhouse.org/gen/res/117.html)
 * [4chanhouse - Collection of 3-Angled-Blue Comics](http://dis.4chanhouse.org/comic/res/21.html)
 * [Archaises.rssing.com - 3-Angled-Blue Gallery](http://archaises.rssing.com/chan-2070190/all_p1.html)
