@@ -18,14 +18,19 @@ And thus, we built this art collection, with the purpose of highlighting the art
 
 ## Collection / Gallery
 
-Most of Three-Angled-Blue's works were posted anonymously on 4chan, and need to be listed in a showcase.
+Most of Three-Angled-Blue's works were posted anonymously on 4chan during 2008, and are starting to get lost in history as link rot sets in. The loss of the Chanarchive is a bitter blow against the record of his work.
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contain a small percentage of his works.
 * [Archaises.rssing.com - 3-Angled-Blue Gallery](http://archaises.rssing.com/chan-2070190/all_p1.html)
 
 ### Comic Dub Adaptations
 
-Some anons have created some amazing voiceovers for his comics, 
+Some anons have created some amazing voiceovers for his comics.
+
+* [Commander Douche](https://www.youtube.com/user/ObnoxiousDoucheAlt/videos) - Dubs various comics created as biting satire against 4chan shitposting.
+  * [Every Thread on /k/](https://www.youtube.com/watch?v=fBa7FdEmb0g&index=10&list=PLA79076D54D257F0A)
+* GeneralIvan - Began the trend of comic dubbing, and hosted a great big community on Skype and IRC. Almost all his videos are now lost forever, except for two :
+  * [The Truth Revealed](https://www.youtube.com/watch?v=NaIjew_OPjk&index=15&list=PLA79076D54D257F0A)
 
 ## EPIC FRUSTRATION
 
