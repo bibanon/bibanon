@@ -1,6 +1,6 @@
 [[http://i.imgur.com/hndkuyb.jpg|height=300px|width=500px]]
 
-**Three Angled Blue** is 4chan's most influential, most beloved artist. 
+**Three Angled Blue** is 4chan's most influential, most beloved artist. He's got a distinctive style: expressive faces, many details, a shading style. Occasionally a new drawing in his style will pop up, but the source will be untracable. You'll never know for sure it's him, but if you look carefully enough and have enough knowledge of the drawfriend cabal and their various styles, you could hazard a guess.
 
 Despite what you may believe, once upon a time, there was an age when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
@@ -12,6 +12,11 @@ They contained parables that warned anons of the dangers of ironic shitposting, 
 
 The rage faces of today are a pale mockery of his legacy. 
 
+> 3-angled-blue has a deep-seated fear of online fame. Rightfully so, I think.  
+> Like many other drawfriends he creates multiple personas over time, but 3-angled-blue creates and discards them before they can really be noticed by a large number of people.  
+> Simply put, he doesn't want to be found. I don't blame him. If you want to look at his work, look at reposts by anonymous, but you're not guaranteed anything.  
+> [Source: 4chanhouse](http://dis.4chanhouse.org/gen/res/117.html#122)
+
 Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. 
 
 And thus, we built this art collection, with the purpose of highlighting the artists behind the art, such that their works shall not perish from the earth.
@@ -22,7 +27,9 @@ Most of Three-Angled-Blue's works were posted anonymously on 4chan during 2008, 
 
 If you can find a work, upload it and place a link here. Chances are, they're about to disappear forever as hard drives crash and websites shut down.
 
-* [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png)
+* Rare, never-before-archived Works discovered from `cdn.uber.it`
+  * [Why Climb When It Can Fall?](http://i.imgur.com/B6swGZp.png) - [uber.it]()
+  * [The Average /v/ Goer](http://i.imgur.com/C3kCe9k.png) - [uber.it](http://cdn.uber.lt/ng/humour.binaries/1256292058_average_v_goer_1_by_3_angled_blue.png)
 
 ---
 
