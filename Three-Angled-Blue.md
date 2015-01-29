@@ -21,6 +21,7 @@ And thus, we built this art collection, with the purpose of highlighting the art
 Most of Three-Angled-Blue's works were posted anonymously on 4chan, and need to be listed in a showcase.
 
 * [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contain a small percentage of his works.
+* [Archaises.rssing.com - 3-Angled-Blue Gallery](http://archaises.rssing.com/chan-2070190/all_p1.html)
 
 ### Comic Dub Adaptations
 
@@ -38,6 +39,8 @@ EPIC FRUSTRATION is the Bayeux Tapestry of 2006's /b/day, where floods of anons 
 ## Influence
 
 Three Angled Blue is now MIA, long gone now and probably never to return. But there are those who evoke his legacy. 
+
+* Three Angled Blue's works popularized [the concept of Board-tans](http://1d4chan.org/wiki/Board-tans), personifications of the 4chan Boards that fought against each other and were the symbolic personas of it's hivemind.
 
 ### Artists
 
