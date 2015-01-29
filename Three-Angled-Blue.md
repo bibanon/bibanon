@@ -1,16 +1,24 @@
 **Three Angled Blue** is 4chan's most influential artist. 
 
-Once, there was a time when rage comics were good. They were detailed prints that distilled powerful action scenes and dramatic faces of anger, reminiscent of Jojo's Bizarre Adventure. 
+Once, there was a time when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
-They contained parables that warned anons of the dangers of ironic shitposting, or satirized the inane discussions And out of all of them, Three Angled Blue defined the standard:
+![](http://fc02.deviantart.net/fs34/f/2008/291/8/2/King_is_not_pleased_by_3_Angled_Blue.png)
 
-![](http://fc00.deviantart.net/fs36/f/2008/260/5/0/Nobody_is_Right_by_3_Angled_Blue.png)
+They contained parables that warned anons of the dangers of ironic shitposting, or satirized the inane discussions by trolls who troll the trolls.
+
+[[http://fc00.deviantart.net/fs36/f/2008/260/5/0/Nobody_is_Right_by_3_Angled_Blue.pn|alt="Nobody is Right"|float|height=600px|width=200px]]
 
 The rage faces of today are a pale mockery of his legacy. 
 
-Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. And thus, we built this art collection, with the purpose of highlighting the artists behind the art.
+Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. 
+
+And thus, we built this art collection, with the purpose of highlighting the artists behind the art, such that their works shall not perish from the earth.
 
 ## Collection / Gallery
+
+Most of Three-Angled-Blue's works were posted anonymously on 4chan, and need to be listed in a showcase.
+
+* [Deviantart - 3-Angled-Blue](http://3-angled-blue.deviantart.com/gallery/) - Only contain a small percentage of his works.
 
 ### Comic Dub Adaptations
 
