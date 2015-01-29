@@ -34,7 +34,9 @@ Some anons have created some amazing voiceovers for his comics.
 
 ## EPIC FRUSTRATION
 
-EPIC FRUSTRATION is the Bayeux Tapestry of 2006's /b/day, where floods of anons from /b/ revolted against new rules imposed by the moderation team, and raided other 4chan boards, such as /trv/, and most of all, /v/.
+[[http://i.imgur.com/jVBpzAN.png|float|height=450px|width=600px]]
+
+EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [[2006's /b/day|4chan---The--b--Day]], where floods of anons from /b/ revolted against new rules imposed by the moderation team, and raided other 4chan boards, such as /trv/, and most of all, /v/.
 
 /v/ fought back.
 
