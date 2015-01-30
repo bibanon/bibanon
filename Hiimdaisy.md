@@ -16,7 +16,8 @@ Hiimdaisy now produces a new comic called Cucumber Quest.
 
 ### Comic Archives
 
-* Archived by [Conspicuous](http://sir-argues-a-lot.tumblr.com/post/49051606880/hiimdaisy-comic-archive), [Imgur Gallery](http://conspicuous.imgur.com/)
+* Archived by [Conspicuous](http://sir-argues-a-lot.tumblr.com/post/49051606880/hiimdaisy-comic-archive) and [Swamphunter](
+http://www.reddit.com/r/metalgearsolid/comments/ylw2i/all_of_hiimdaisys_original_lets_destroy_parody/) - [Imgur Gallery](http://conspicuous.imgur.com/)
   * [The Great Big Long Persona 4 Comic](http://imgur.com/a/AuVmJ)
   * [Ryojiventures](http://imgur.com/a/ynvL8)
   * [Professor Layton](http://imgur.com/a/PxT1Y)
@@ -27,8 +28,6 @@ Hiimdaisy now produces a new comic called Cucumber Quest.
   * [Let's Destroy Metal Gear Again](http://imgur.com/a/o3D4D)
   * [Let's Destroy The Shagohod](http://imgur.com/a/xActg)
   * [Metal Gear Bonus Comics](http://imgur.com/a/pVXrn) - [Other Metal Gear Bonus Comics](http://imgur.com/a/DHqCB#umJ5g)
-
-http://www.reddit.com/r/metalgearsolid/comments/ylw2i/all_of_hiimdaisys_original_lets_destroy_parody/)
 
 ### Comic Dubs
 
