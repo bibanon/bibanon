@@ -24,7 +24,7 @@ Here's a [Typeset PDF for eReaders.](https://drive.google.com/file/d/0B5HBpeA6UU
 ### Bonus Content
 
 * [[Liliad Soundtrack]] - A recommended playlist of songs to listen to while reading The Liliad.
-* [Archived /b/ Threads](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview) - Needs to be uploaded to the Internet Archive.
+* [Archived /b/ Threads](https://drive.google.com/folderview?id=0B7WYx7u6HJh_RGVmRFZCa1VuYUU&usp=sharing) - The story in all it's original glory. Unfortunately, the first thread is lost to history and only screencaps were available.
 
 ### Sources
 
