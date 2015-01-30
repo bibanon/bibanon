@@ -10,9 +10,10 @@ Many of Hiimdaisy's work was adapted into amazing comic dubs by the Comic Dubber
 
 Because Hiimdaisy deleted her all old comics on Photobucket and Livejournal, we are scraping together what little we can find. Why are artists so prone to let their masterpieces burn?
 
-Hiimdaisy now produces a new comic called Cucumber Quest.
+Hiimdaisy now produces a new comic called Cucumber Quest, and blogs on Tumblr under the username Gigi D. G.
 
 * [Cucumber Quest](http://cucumber.gigidigi.com/)
+* [Tumblr - Gigi D. G.](http://gigidigi.tumblr.com/)
 
 ### Comic Archives
 
@@ -92,6 +93,7 @@ Hiimdaisy's Comic Dubs have constantly been imported into other cultures in the 
 * [Tumblr - Hiimdaisy](http://gigidigi.tumblr.com/archive)
 * [Tumblr - Hiimdaisy Comic Archive](http://sir-argues-a-lot.tumblr.com/post/49051606880/hiimdaisy-comic-archive)
 * [MGS Full Resolution Archive](http://www.reddit.com/r/metalgearsolid/comments/ylw2i/all_of_hiimdaisys_original_lets_destroy_parody/)
+* [The Games of Chance - 2009 Hiimdaisy Review](http://thegamesofchance.blogspot.com/2009/12/comic-hiimdaisys-video-game-comedy.html)
 * [Zerochan - Hiimdaisy](http://www.zerochan.net/Hiimdaisy)
 * [Photobucket - Hiimdaisy](http://photobucket.com/images/hiimdaisy?page=1)
 * [Facebook - Hiimdaisy Comics](https://www.facebook.com/pages/Hiimdaisy-comics/138674589535267)
