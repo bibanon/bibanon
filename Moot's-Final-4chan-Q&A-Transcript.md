@@ -251,6 +251,22 @@ This is unfortunate. 4chan is a large community and we have a bunch of different
 * **02:10:24** [Unfortunately], as we've all learned, in the absence of [an explanation], people fill that vacuum with the most hilarious, bizarre shit. 99.99% of the time, it's completely wrong. When other people parrot [that shit], it becomes accepted as a fact. And then people will immediately ignore what I say if it's not exactly what they were looking to hear. I think my lack of communication has allowed that to happen. 
 * **02:10:40** But, again, that lack of communication came as a result of this dynamic that exists in the community. and so it's kind of this weird trichromatic [Editor’s note: means to possess three independent channels for conveying information, usually color] problem so I really was less visible after starting my startup until
 
+## 3 Hours
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+
+### 3:00 - 3:10
+
+### 3:10 - 3:20
+
+### 3:20 - 3:30
+
+### 3:30 - 3:40
+
+### 3:40 - 3:50
+
+### 3:50 - 4:00
+
 ## 4 Hours
 
 ### 4:00 - 4:10
@@ -302,6 +318,34 @@ This is unfortunate. 4chan is a large community and we have a bunch of different
 * **04:10:25** Although it was a fancier slice of pizza - it was three fifty. Because it wasn't just a plain slice, so no, I have not spent lavishly on my retirement, nor do I expect to.
 * **04:10:37** I did have a really good ice cream sundae, though, on Wednesday night, and I'm still paying the price for it because I still feel sick from eating it. That was my retirement, I guess. Celebratory meal.
 
+### 4:10 - 4:20
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+
+### 4:20 - 4:30
+
+### 4:30 - 4:40
+
+### 4:40 - 4:50
+
+### 4:50 - 5:00
+
+## 5 Hours
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+
+### 5:00 - 5:10
+
+### 5:10 - 5:20
+
+### 5:20 - 5:30
+
+### 5:30 - 5:40
+
+### 5:40 - 5:50
+
+### 5:50 - 6:00
+
 ## 6 Hours
 
 ### 6:00 - 6:10
@@ -324,7 +368,31 @@ This is unfortunate. 4chan is a large community and we have a bunch of different
 * **06:08:42** So, there are all of these different options that exist and what I’ve tried to do is kind of highlight that, yes there’s options, we should continue to use those options and not limit ourselves to just the one, the type of identity that in vogue right now which is, y’know, for a long time it has been Facebook identity and  I think we’re seeing things kind of pull away from that a bit, so again, anonymity or anonymous contribution as an alternative to that and uh, is a valid and also desirable alternative and people should build products that incorporate the flexibility and identity rather than this one concept of it.
 * **06:09:20** So that’s what I’ve tried to be an advocate for over the years, just having options and highlighting what some of those options are, and my feelings there haven’t changed. But you know if you look at it I haven’t really given any talks for the last year or two, I really stopped doing press for 4chan a while ago, because I’ve already said all this, I’ve already put it out there and think that it’s.. There’s nothing new that I really have to contribute on this subject, at least not now. I mean last year people reached out for comment on all of these anonymous apps but  I don’t really use them or really care about them so I didn’t have a lot to say.  
 
+### 6:10 - 6:20
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+
+### 6:20 - 6:30
+
+### 6:30 - 6:40
+
+### 6:40 - 6:50
+
+### 6:50 - 7:00
+
 ## 7 Hours
+
+Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
+
+### 7:00 - 7:10
+
+### 7:10 - 7:20
+
+### 7:20 - 7:30
+
+### 7:30 - 7:40
+
+### 7:40 - 7:50
 
 ### 7:50 - 8:00
 
