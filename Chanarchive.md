@@ -1,4 +1,4 @@
-The Chanarchive (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers.
+The Chanarchive (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It contained somewhere from 15,000-20,000 threads.
 
 Users could request and vote that a thread be archived, and it worked for every single board on 4chan. This made it an incredibly important repository of 4chan's threads from 2006-2013.
 
@@ -16,9 +16,9 @@ The Bibliotheca Anonoma is attempting to catalogue the threads that were on this
 
 ## Restoration
 
-However, there is a possible way to restore a significant portion (if not all) of the archives. Archive.org extensively crawled the site during all 7 years of it's existence, so the older threads will definitely have at least one snapshot. 
+However, there is a possible way to restore a significant portion (if not all) of the archives. [Archive.org extensively crawled the site](https://web.archive.org/web/20120511204219/http://4chanarchive.org/) during all 7 years of [it's existence](https://web.archive.org/web/20120328160130/http://chanarchive.org/4chan/), so the older threads will definitely have at least one snapshot. 
 
-However, images might not have survived the move well. The odds get thinner as we get to the new threads as well.
+However, images might not have survived the move well, even thumbnails might be scarce. The odds get thinner as we get to the new threads as well.
 
 And it is not enough to just sift through the mess of snapshots. We need to be able to gather a list of links to the threads that still exist, otherwise nobody can find them.
 
