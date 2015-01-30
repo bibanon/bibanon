@@ -43,3 +43,9 @@ Take these into the Bibliotheca Anonoma as articles.
 * [Stanleyrr - An elderly YouTuber Declared as Uncle /b/](https://web.archive.org/web/20120208160451/http://www.chanarchive.org/4chan/b/35665/so-you-wanna-change-the-world-we-do-it-one-view-at-a-time-www-youtube-com-user-stanleyrr)
   * [Know Your Meme](http://knowyourmeme.com/memes/uncle-b)
   * [Blogspot - Baltazar2](http://baltazar2.blogspot.com/)
+
+## 4archive
+
+A modern successor to the Chanarchive, saving threads since 2014.
+
+* [Best of 4chan Thread](http://www.4archive.org/b/thread/581131414)
