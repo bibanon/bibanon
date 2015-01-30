@@ -1,6 +1,8 @@
 ![](http://imgur.com/7CxX4xn.png)
 
-On the 21st of January, moot announced his retirement as admin of 4chan, and handed over administration to 3 Senior Moderators. Moot made a farewell livestream, and opened a /qa/ board for anons to ask him questions or pay him homage. Farewell Moot. It's been an amazing 11 and a half years.
+On the 21st of January, moot announced his retirement as admin of 4chan, and handed over administration to 3 Senior Moderators. Moot made a farewell livestream, and opened a /qa/ board for anons to ask him questions or pay him homage. 
+
+Farewell Moot. It's been an amazing 11 and a half years.
 
 ## Moot's Final 4chan Q&A
 
@@ -8,6 +10,12 @@ Moot's 8-hour Livestream holds information on the early days of 4chan, farewell 
 
 * [Archived YouTube Livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) - Almost 8 hours of answering questions from anons.
 * [[Moot's Final 4chan Q&A Transcript]] - An ambitious project by the anons of /qa/ to transcribe and condense Moot's 8 hour ramblings, to extract the poignant meaning and historical importance of his final speech.
+
+## Moot's Farewell Thread on /a/
+
+![](http://i.imgur.com/vZ0JyNS.png)
+
+The most replied post of all time on 4chan.
 
 ## /qa/ - Moot's Livestream Questions and Answers
 
