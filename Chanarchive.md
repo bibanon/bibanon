@@ -1,4 +1,6 @@
-The Chanarchive (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It contained somewhere from 15,000-20,000 threads.
+> **Notice:** The modern successor to the Chanarchive is [the 4archive.](http://4archive.org) Nowhere near as good, but it's something where you can submit threads to be slurped down.
+
+**The Chanarchive** (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It contained somewhere from 15,000-20,000 threads.
 
 Users could request and vote that a thread be archived, and it worked for every single board on 4chan. This made it an incredibly important repository of 4chan's threads from 2006-2013.
 
