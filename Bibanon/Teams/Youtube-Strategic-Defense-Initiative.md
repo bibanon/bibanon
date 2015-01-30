@@ -33,15 +33,15 @@ This is a subset of the Let's Play (LP) Archive.
 ### Internet Shows
 
 | Series	| Type & Link	| Saved yet? By who?	| # of Videos	| Playlist link	|
-|:-------------|:--------------|:--------------------:|--------------:|: ------------	 |
+|:-------------|:--------------|:--------------------:|--------------:|:-----------|
 | Ashens	| Channel	| Not Archived 		| unknown	| [link](http://www.youtube.com/user/ashens/videos) |
-| Gman Squad 	| Series	| Archived (iruel)	| 9		| [link]() |
+| Gman Squad 	| Machinima	| Archived	| 9 + 2		| [link](https://www.youtube.com/playlist?list=PL15095545B65CDF68) |
 | WKUK		| Channel	| Not Archived		| unknown	| |
 
 ### Other
 
 | Series	| Type & Link	| Saved yet? By who?	| # of Videos	| Playlist link	|
-|:-------------|:--------------|:--------------------:|--------------:|: ------------	 |
+|:-------------|:--------------|:--------------------:|--------------:|:------------|
 | Buffalax     | Channel       | All archived but some aren't viewable | ??? | [link](https://www.youtube.com/user/BuffalaxFanboy/videos) |
 
 ### Individual Videos
