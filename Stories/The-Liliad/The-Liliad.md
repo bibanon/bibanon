@@ -9,6 +9,9 @@ The Liliad was probably one of the most popular stories on /b/, ever. The thread
 Lily was described as half-Asian, half-white, and as presenting with "the best of both sides". OP flatly refused to post any pictures of her, probably because it's stupid to post pictures to /b/. However, OP's signature picture was one of [Kiernan Shipka](http://fuuka.worldathleticproject.org/boards/b/image/1381/64/1381640412301.jpg), suggesting that Lily at least somewhat resembles her.
 
 ### The Story
+
+Here's a [Typeset PDF for eReaders.](https://drive.google.com/file/d/0B5HBpeA6UUoST3NCOFBXZjNEUXM/view) EPUB/MOBI incoming.
+
 * [[First Installment|Liliad Thread 1]] - October 12
 * [[Second Installment|Liliad Thread 2]] - October 13
 * [[Third Installment|Liliad Thread 3]] - October 14
