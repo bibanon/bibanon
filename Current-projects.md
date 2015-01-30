@@ -8,7 +8,8 @@
 
 These are stories or webpages that need to be converted and added to the Bibliotheca Anonoma.
 
-* [Chanarchive](https://web.archive.org/web/*/https://chanarchive.org/download_zip/*) - RIP Edgeworth E. Euler. He went MIA and thus, all data from Chanarchive died with him. I deeply regret failing to convince him to send a copy to the Internet Archive... After all he did to try and save it...
+* [[Chanarchive]] - RIP Edgeworth E. Euler. He went MIA and thus, all data from Chanarchive died with him. I deeply regret failing to convince him to send the backup somewhere safe... After all he did to try and save it, it is lost forever...
+  * At least a significant fraction has been saved by archive.org, so we can attempt to reconstruct it and at least catalogue what was lost.
 * [iiichan Wiki](http://web.archive.org/web/*/http://wiki.iiichan.net/*) - Humblefool (David Ashby)'s personal wiki, made in the style of [[Shii]]'s wiki. Also deleted, but at least archives do exist.
 * [[Shii]]'s Wiki (Done!) - Tons of interesting content was lost in Shii's wholesale deletion of a personal wiki that pretty much inspired the work of the Bibliotheca Anonoma.
   * Thanks to Sikmo, [the wiki has been restored in it's entirety, and is archived at the Bibliotheca Anonoma.](http://bibanon.github.io/everything-shii-knows/)
