@@ -1,6 +1,6 @@
 ![](http://imgur.com/7CxX4xn.png)
 
-Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. 
+Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan, answering questions from the purpose-built /qa/ board.
 
 This 8-hour Livestream holds **new information on the early days of 4chan**, **farewell recommendations for anons**, and discussion on issues from around internet history.
 
