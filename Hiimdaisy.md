@@ -1,4 +1,4 @@
-![](https://web.archive.org/web/20120304085225im_/http://l-userpic.livejournal.com/99272830/3529594)
+![](http://media.tumblr.com/tumblr_lwtqqgvXdR1r0adsh.png)
 
 Hiimdaisy is an artist who created long, satirical, and entertaining comics about popular video games.
 
