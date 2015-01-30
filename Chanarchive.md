@@ -4,7 +4,7 @@ Users could request and vote that a thread be archived, and it worked for every 
 
 Unfortunately, it was lost when Edgeworth E. Euler, the final owner, became MIA (he may have been arrested for his connections to LulzSec). The site eventually shut down when one hard drive got busted, and the admins could do nothing, as the data access passwords were taken by Edgeworth to his grave.  
 
-The Bibliotheca Anonoma is attempting to catalogue the threads that were on this Library of Alexandria, and perhaps resurrect a significant portion from the many snapshots at the Internet Archive. But we can't bring back everything, especially not the images.
+The Bibliotheca Anonoma, in a new attempt at Internet Archeology, is attempting to catalogue the threads that were on this Library of Alexandria, and perhaps resurrect a significant portion from the many snapshots at the Internet Archive. But we can't bring back everything, especially not the images.
 
 ## Timeline
 
