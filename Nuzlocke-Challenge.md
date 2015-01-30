@@ -2,7 +2,7 @@ The **Nuzlocke Challenge** is a challenge on /v/ to play a Pokemon game, where y
 
 This results in much closer relationships with the user's Pokemon, when every battle is a matter of life and death (rather than just "whiting out").
 
-[Website](http://www.nuzlocke.com)
+The original author has made [an impressive webcomic dramatizing his experiences.](http://www.nuzlocke.com)
 
 ## Original 4chan Threads
 
