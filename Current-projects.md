@@ -5,6 +5,7 @@
 * [[Tasha's Brother]] - Story has finished. An archive is [here](https://jumpshare.com/b/Yx5JQp8LQO5TrlegPXMg), to be converted.
 * [/r9k/ - Horrible Monster Greentext](http://i.4cdn.org/qa/1422518532908.png) - [Archive.moe](https://archive.moe/r9k/thread/12829018/)
 * (Complete!) [Longest Lasting 4chan Thread (on /i/)](http://bibanon.org/archives/4chan/i/384891/384891.html) - Born: 01/20/12(Fri)00:52:21, Died: 01/29/15(Thu)19:42:22. Lasted 3 years, 10 days. Goodnight Sweet Prince. - [Download ZIP](http://bibanon.org/archives/4chan/i/384891/i.384891.4chan.zip)
+  * [Another ancient thread, on Archive.moe](https://archive.moe/po/thread/477604/#477604)
 * (Complete!) - [4GBs of 4chan threads from 2009-2012.](https://archive.org/details/4chan-threads-2009-2012) Uploaded to the Internet Archive, since the torrent was dead.
 * [Cyberlife](http://jinteki.tk/index.html) - Awesome cyberpunk archive that links back to this wiki. What treasures are found there?
 
