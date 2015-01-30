@@ -1,13 +1,8 @@
-## Great Webcomics
-
-* Neglected Mario Characters
-* [nedroid](http://nedroid.com)
-* [Gunshow](http://www.gunshowcomic.com/)
-* Kate Beaton
-
-## Hiimdaisy
-
 ![](https://web.archive.org/web/20120304085225im_/http://l-userpic.livejournal.com/99272830/3529594)
+
+Hiimdaisy is an artist who created long, satirical, and entertaining comics about popular video games.
+
+Many of Hiimdaisy's work was adapted into amazing comic dubs by the Comic Dubber community.
 
 ### What Happened to Hiimdaisy?
 
@@ -20,7 +15,7 @@ Hiimdaisy now produces a new comic called Cucumber Quest. Because she deleted he
 The crowning achievements of Hiimdaisy are enshrined in these incredible comic dubs.
 
 * [StrawberryCreme](http://www.youtube.com/user/StrawberryCreme26)
-  * Persona 4 Comic Dub
+  * [Persona 4 Comic Dub](http://www.youtube.com/watch?v=w7lj9qI8VFc)
     * [Spanish Subtitles](http://www.youtube.com/user/shigum/videos)
     * [Korean Subtitles](http://www.youtube.com/user/curseleopard/videos)
     * [Review](http://www.youtube.com/watch?v=FUKO4KCCaV4)
