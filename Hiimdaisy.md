@@ -14,6 +14,22 @@ Hiimdaisy now produces a new comic called Cucumber Quest.
 
 * [Cucumber Quest](http://cucumber.gigidigi.com/)
 
+### Comic Archives
+
+* Archived by [Conspicuous](http://sir-argues-a-lot.tumblr.com/post/49051606880/hiimdaisy-comic-archive), [Imgur Gallery](http://conspicuous.imgur.com/)
+  * [The Great Big Long Persona 4 Comic](http://imgur.com/a/AuVmJ)
+  * [Ryojiventures](http://imgur.com/a/ynvL8)
+  * [Professor Layton](http://imgur.com/a/PxT1Y)
+  * [Assorted Ace Attorney Comics](http://imgur.com/a/Z6dw2)
+  * [Zak Gramarye is a Jerk](http://imgur.com/a/8QVtO)
+  * [The King of Hyrule is a Jerk](http://imgur.com/a/lkIHI)
+  * [Let's Destroy Metal Gear](http://imgur.com/a/z69p6)
+  * [Let's Destroy Metal Gear Again](http://imgur.com/a/o3D4D)
+  * [Let's Destroy The Shagohod](http://imgur.com/a/xActg)
+  * [Metal Gear Bonus Comics](http://imgur.com/a/pVXrn) - [Other Metal Gear Bonus Comics](http://imgur.com/a/DHqCB#umJ5g)
+
+http://www.reddit.com/r/metalgearsolid/comments/ylw2i/all_of_hiimdaisys_original_lets_destroy_parody/)
+
 ### Comic Dubs
 
 ![](http://media.tumblr.com/tumblr_lwtqtxhZtz1r0adsh.png)
@@ -65,8 +81,14 @@ Hiimdaisy's Comic Dubs have constantly been imported into other cultures in the 
 
 * [NicoNicoDouga Hiimdaisy Translations](http://www.nicovideo.jp/tag/hiimdaisy)
   * [NicoNicoDouga Translation Service](http://ex.nicovideo.jp/translator_info)
+
+## Influence
+
+### Fanmade Tributes
+
+* [If Hiimdaisy Drew P3 Comic](http://dodomir23.deviantart.com/art/If-Hiimdaisy-Drew-P3-Comic-pt1-197978946)
   
-### Sources
+## Sources
 
 * [Tumblr - Hiimdaisy](http://gigidigi.tumblr.com/archive)
 * [Tumblr - Hiimdaisy Comic Archive](http://sir-argues-a-lot.tumblr.com/post/49051606880/hiimdaisy-comic-archive)
