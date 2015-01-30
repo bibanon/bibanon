@@ -37,6 +37,7 @@ Bibliotheca Anonoma
 * [[Hiimdaisy]]
 * [[Nuzlocke Challenge]]
 * [[Webcomics]]
+* [[YouTube Strategic Defense Initiative]]
 
 ### History
 
