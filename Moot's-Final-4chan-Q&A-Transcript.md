@@ -1,5 +1,3 @@
-> **Note:** _This ambitious document was made possible thanks to the hard work of [countless anons at this Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#); who gave their time to slog through 8-hours of transcripts from YouTube's robot-automated speech recognition system._
-
 ![](http://i.imgur.com/u09IZNP.png)
 
 Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. 
@@ -16,11 +14,11 @@ Most of all, Moot's speeches are the end-all be-all primary sources for the [[4c
 
 ## How to Contribute
 
+> **Note:** _This ambitious document was made possible thanks to the hard work of [countless anons at this Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#); who gave their time to slog through 8-hours of transcripts from YouTube's robot-automated speech recognition system._
+
 This transcript is in dire need of your contributions. **We're currently only 1 and a half hours in.** And robots just don’t cut it. 
 
 Come in [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#),  find an empty slot in the [Progress Report](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#heading=h.98wmfct427ht) and start editing as you wish.
-
-**This wikipage will only hold finished transcripts**, to reduce pagecount/strain on the Google Doc and make things more readable.
 
 ## 0 Hours
 
