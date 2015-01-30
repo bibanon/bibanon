@@ -1,6 +1,6 @@
 ![](http://media.tumblr.com/tumblr_lwtqqgvXdR1r0adsh.png)
 
-Hiimdaisy is an artist who created long, satirical, and entertaining comics about popular video games.
+Hiimdaisy is an artist who created long, satirical, and entertaining comics that point out all the frustrations or plot holes in popular video games.
 
 Many of Hiimdaisy's work was adapted into amazing comic dubs by the Comic Dubber community.
 
