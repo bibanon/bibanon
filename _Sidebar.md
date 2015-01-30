@@ -34,6 +34,7 @@ Bibliotheca Anonoma
 ### Art
 
 * **[[Three Angled Blue]]**
+* [[Hiimdaisy]]
 
 ### History
 
