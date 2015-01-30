@@ -24,10 +24,12 @@ Here's a [Typeset PDF for eReaders.](https://drive.google.com/file/d/0B5HBpeA6UU
 ### Bonus Content
 
 * [[Liliad Soundtrack]] - A recommended playlist of songs to listen to while reading The Liliad.
+* [Archived /b/ Threads](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview) - Needs to be uploaded to the Internet Archive.
 
 ### Sources
 
 * [Liliad Collaborative Google Doc](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
+* [Imgur - Liliad Screencap Gallery](http://imgur.com/a/Ypfub#0)
 * [marvinody's Tumblr - The Liliad](http://marvinody.tumblr.com/)
 * [Encyclopedia Dramatica - The Liliad](https://encyclopediadramatica.es/The_Liliad)
 * [Daily Dot - Review of The Liliad](http://www.dailydot.com/lifestyle/4chan-liliad-lolita-pedophile-fantasy/)
