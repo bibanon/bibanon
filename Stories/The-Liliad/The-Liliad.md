@@ -21,6 +21,10 @@ Here's a [Typeset PDF for eReaders.](https://drive.google.com/file/d/0B5HBpeA6UU
 * [[The End|Liliad Thread 7]] - October 20
 * [[Liliad Pasta]]
 
+### Bonus Content
+
+* [[Liliad Soundtrack]] - A recommended playlist of songs to listen to while reading The Liliad.
+
 ### Sources
 
 * [Liliad Collaborative Google Doc](https://docs.google.com/document/d/1l9SOPQQpuFHLWZfSPmzNczBTxhLGhplr7fSyGlKMUAQ/preview)
