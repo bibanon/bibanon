@@ -6,4 +6,10 @@ Hilarious comics that lampoon plot holes in modern fiction.
 
 * [Kate Beaton - Hark, a Vagrant](http://www.harkavagrant.com) - Satire about history or literary works.
 * [Brawl in the Family](http://brawlinthefamily.keenspot.com/)
+
+## Vintage
+
+Webcomics from the 1990s or early 2000s.
+
+* [VGCats](http://www.vgcats.com/) - The quintessential video game webcomic.
 * [Neglected Mario Characters](http://bibanon.org/Neglected-Mario-Characters) - The first sprite comic series, from 1998.
