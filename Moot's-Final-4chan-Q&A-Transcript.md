@@ -224,6 +224,57 @@ probably talk enough about it to actually drive enough traffic to it to maybe ac
 
 Automatically generated YouTube transcripts (for the next 7 hours) can be read, and fixed up for import at [the Google Doc](https://docs.google.com/document/d/1pL3LmKIb6Q25LGzO3GwNqgGOAjQnrCasdMULVpwF4vw/edit#). Please help out.
 
+## 4 Hours
+
+### 4:00 - 4:10
+
+* **04:00:00** Again, I read this and I get a lot of projection.
+* **04:00:03** I mean, it's true - 4chan was, in a lot of ways, a freak accident, as most successes are.
+* **04:00:12** Again I think that people who say this and kind of try to discredit the accomplishments of the site are kind of doing a disservice to the community, and also, the dozens to hundreds of volunteers who have pitched in over the years, myself included.
+* **04:00:28** For whatever reason, their genesis story of 4chan tends to be "it just got shat out overnight in its existing form and was just magically popular and has all the features and all that" and don't appreciate, again, that obviously it took people and took community, but it also took, for me personally, over ten thousand hours and, I mean, probably like a hundred thousand plus hours of volunteering and really hard work to get to where it is today.
+* **04:00:54** And that's the case for any business, so, I mean, sure, let's call it a happy accident, but I think you're kind of deluding yourself, kind of misguiding yourself to believe that a lot of people, especially the community, including volunteers, didn't work very hard to get the site to where it is today and maintain it where it is today. 04:01:24
+* **04:01:41** "What if they make Asuka a lesbian? - 1796". I would be so sad - Asuka is my 2D waifu.
+* **04:01:46** Asuka is best girl.
+* **04:01:49** I guess Usaka is best girl.
+* **04:02:23** Hold on one second guys, I need to...
+* **04:02:29** [Transformers sound effect]
+* **04:02:42** Heh.
+* **04:02:46** "4chan won't stop straight after this stream, will it? - 1843". Uh, I don't think so. I don't see why  it would. I guess I haven't been posting so I don't know how the servers are running right now. But hopefully everything's fine.
+* **04:03:00** 1844 said "Is 4chan still growing? I remember during the 2010 4chan panel--" You're mistaken, you're probably referring to the 2013 one. "-- you showed a ridiculous growth during the whole decade it was alive - will it ever end? Do you think it'll get even faster while you're gone?"
+* **04:03:13** You know, 4chan is growing very slightly. I mean, it's grown mostly in terms of its pageviews.
+* **04:03:26** My lips are chapped. Ow. I'm just gonna be drinking, Mark.
+* **04:03:30** So it's not growing -- I mean, it's actually incredible that it's gotten to where it is today and it's actually maintained a similar level of traffic -- actually, it's grown...
+* **04:03:45** We changed the tracking tag a little bit - where we displayed it -  so we don't display it on 404 pages anymore, so we saw kind of a dip in traffic and kind of a rebalancing of traffic - kind of this new floor as a result of where we put the Google Analytics tag.
+* **04:03:59** Again, more or less, the site has not really declined nor grown dramatically over the years, but really just maintained a respectable amount of traffic, so who knows?
+* **04:04:17** And also, I don't know which graph you're referring to - I think it might've just been the year-to-date - sorry, the history-to-date graph of the traffic, but 4chan, I think, spiked in about 2010 - it kind of accelerated, then kind of slowed down and levelled out, but 4chan has never really had a hockey stick or any sort of...
+* **04:04:42** Really, the one time that stands out - sorry, now two times - the one time that stands out as sort of a big drive of traffic was when we were featured on the front page of Wikipedia.
+* **04:04:52** No other press really sent a meaningful amount of traffic, no other event really sent a meaningful amount of traffic before last September, outside of the Wikipedia "Featured Page of the Day".
+* **04:05:06** And then, last September obviously. I mean, it was a gigantic surge in traffic as a result of The Fappening. Funny thing is, we have lost money on that because our hosting costs went up and, you know, we barely make money and people didn't really purchase more ads and so we didn't benefit from all that traffic.
+* **04:05:24** Some of that traffic, I think, stuck on a little bit, but again we've never seen ridiculous growth.
+* **04:05:29** It really has been kind of "The Tortoise and the Hare" and we've definitely been the tortoise.
+* **04:05:35** Which I think in the case of the community is actually very healthy.
+* **04:05:37** I think it's... if we had seen sudden growth like that, kind of a spike...
+* **04:05:46** That would be... it's very hard for a community to adjust to a sudden influx in traffic.
+* **04:05:53** Both kind of architecturally, in terms of scaling, and socially, like the social dynamics and the culture to kind of keep up with rapid growth like that and more often than not I think you see a lot of problems being attributed to this.
+* **04:06:04** And so the fact that 4chan has grown slowly over time is a good thing, so hopefully it will continue to grow, but kind of slowly.
+* **04:06:31** "Hey moot, you mentioned last panel that we were working on a solution to the /v/ problem - too much (sic) boards for one topic - what was your solution and will we ever see it? - 1863"
+* **04:06:39** I kind of alluded to that earlier... we're thinking about, you know, categories, or sub-boards or tags or [???] and we'd played with so many different kinds of thread types and we'd played with so many ideas there and fleshed them out and I would go to our developer and say "can we do this?" and we'd poke holes in it.
+* **04:07:03** So we never really got there. I mean, I played around with a lot of things and got to a point where I was just like "it's not worth shaking the uh... rocking the boat here".
+* **04:07:22** And sure, the current system isn't ideal, but I think that making a major change to the way the site is structured is probably going to do more harm than good at this point.
+* **04:07:34** And so I don't have any plans outside of the brainstorming over the past year or two, but that's not to say that it's not going to change in the future going forward - it's out of my hands at that point...
+* **04:07:51** So I don't know, unfortunately the stuff that I alluded to a year and a half ago at that panel are kind of no longer in the works.
+* **04:08:03** "Why is Bella Thorne so perfect?" That's an Asuka... cosplayer. 1883.
+* **04:08:09** She is pretty perfect. Based Asuka and 3DPD. Maybe we can set us up on a McDonald's date.
+* **04:08:32** "Are you a virgin?" [???]
+* **04:08:35** I am not a wizard, I'm very sorry. I've never posted on Wizardchan, I don't think they would accept me.
+* **04:08:59** Alright, so 48000 people listening. Geez. And I'm still at the point in the thread before this even begun (sic). I guess I haven't seen all the wonderful replies screaming about my responses. Now, let's see...
+* **04:09:20** "Are you gonna take a retirement vacation? 2034". Honestly, I haven't planned anything yet. I really should go to Mootxico. I was going to make that joke in that post. Hopefully if I do I'll get a good picture and I'll upload it somewhere so you all can see it and I'll be sipping a Corona - which is a terrible beer.
+* **04:09:38** Sipping hopefully a craft beer of some kind on the beach in glorious Mootxico, but I don't have any vacation plan. In fact, I joked to a reporter on Wednesday that I spend most of the morning after I post my posts lounging around unshowered in my pajamas on my couch, and I...
+* **04:09:58** I don't know if I've showered at that point. I guess I've showered at that point. I donned pants and I went outside and I ate a dollar slice - ate a $4 lunch at - I guess it was a $2 slice and a can of seltzer - I guess $2.50, damn, pizza's getting expensive.
+* **04:10:15** Yeah, two hundred... two dollar fifty slice of pizza, one dollar fifty can of seltzer. Times are a'changing. So that was my retirement lunch. And I actually, also, had a slice of pizza today.
+* **04:10:25** Although it was a fancier slice of pizza - it was three fifty. Because it wasn't just a plain slice, so no, I have not spent lavishly on my retirement, nor do I expect to.
+* **04:10:37** I did have a really good ice cream sundae, though, on Wednesday night, and I'm still paying the price for it because I still feel sick from eating it. That was my retirement, I guess. Celebratory meal.
+
 ## 6 Hours
 
 ### 6:00 - 6:10
