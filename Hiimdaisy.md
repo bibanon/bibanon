@@ -16,6 +16,8 @@ Hiimdaisy now produces a new comic called Cucumber Quest.
 
 ### Comic Dubs
 
+![](http://media.tumblr.com/tumblr_lwtqtxhZtz1r0adsh.png)
+
 The crowning achievements of Hiimdaisy are enshrined in these incredible comic dubs.
 
 * [StrawberryCreme](http://www.youtube.com/user/StrawberryCreme26)
