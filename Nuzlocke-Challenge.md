@@ -8,7 +8,7 @@ This results in much closer relationships with the user's Pokemon, when every ba
 
 The author posted his webcomics to /v/ for a while, before moving on to his own website.
 
-He then came back in a reunion thread, but I'll have to look for that.
+He then came back in a reunion thread, but I'll have to look for that. Unfortunately, it seems to have been Chanarchive, and thus irrevocably lost.
 
 ## Sources
 
