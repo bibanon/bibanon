@@ -6,7 +6,11 @@ Many of Hiimdaisy's work was adapted into amazing comic dubs by the Comic Dubber
 
 ### What Happened to Hiimdaisy?
 
-Hiimdaisy now produces a new comic called Cucumber Quest. Because she deleted her old comics on Photobucket and Livejournal, these are the few that people have archived.
+![](http://media.tumblr.com/tumblr_lwtqqamxiC1r0adsh.png) 
+
+Because Hiimdaisy deleted her all old comics on Photobucket and Livejournal, we are scraping together what little we can find. Why are artists so prone to let their masterpieces burn?
+
+Hiimdaisy now produces a new comic called Cucumber Quest.
 
 * [Cucumber Quest](http://cucumber.gigidigi.com/)
 
