@@ -1,10 +1,12 @@
-Created through the work of anons from [this Google Doc](https://docs.google.com/document/d/1kZDHJIDoqwy1FHge_L7k2xsHnTLpiVODBwRsYnyI4wA/edit#heading=h.vsw3h3dckse1).
+> _Created through the work of generous anons from [this Google Doc](https://docs.google.com/document/d/1kZDHJIDoqwy1FHge_L7k2xsHnTLpiVODBwRsYnyI4wA/edit#heading=h.vsw3h3dckse1)._
 
-Story Song: Aria di Mezzo Carratere
+This is a playlist of recommended songs to listen to while reading The Liliad.
 
-YouTube links needed. We will probably create a playlist on YouTube.
+The mp3 collection [can be downloaded from here.](https://drive.google.com/file/d/0B5HBpeA6UUoScHFIQzA2VGs1Smc/edit) YouTube links needed. We will probably create a playlist on YouTube.
 
 ## PART 1
+
+Story Song: Aria di Mezzo Carratere
 
 * OP's First Theme: “Creep” - Radiohead
 * New Friend: “Midnight Snow” - Derlee
