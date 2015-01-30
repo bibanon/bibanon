@@ -35,6 +35,9 @@ The next part is to gather links from the homepage snapshots on Archive.org, and
 
 ## Known Epic Threads
 
+Take these into the Bibliotheca Anonoma as articles.
+
 * [Bayeux Creepypasta](https://web.archive.org/web/20100613041710/http://4chanarchive.org/brchive/dspl_thread.php5?thread_id=4216791&x=Moar+Bayeux+Creepypasta) - Creepypasta of Medieval Times.
 * [Stanleyrr - An elderly YouTuber Declared as Uncle /b/](https://web.archive.org/web/20120208160451/http://www.chanarchive.org/4chan/b/35665/so-you-wanna-change-the-world-we-do-it-one-view-at-a-time-www-youtube-com-user-stanleyrr)
   * [Know Your Meme](http://knowyourmeme.com/memes/uncle-b)
+  * [Blogspot - Baltazar2](http://baltazar2.blogspot.com/)
