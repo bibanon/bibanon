@@ -32,3 +32,7 @@ We must categorize and make a list of all that was lost. The featured threads on
 * [New Chanarchive Twitter](https://twitter.com/chanarchive)
 
 The next part is to gather links from the homepage snapshots on Archive.org, and see which ones have the thread saved.
+
+## Known Epic Threads
+
+* [Bayeux Creepypasta](https://web.archive.org/web/20100613041710/http://4chanarchive.org/brchive/dspl_thread.php5?thread_id=4216791&x=Moar+Bayeux+Creepypasta) - Creepypasta of Medieval Times.
