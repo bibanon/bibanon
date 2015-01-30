@@ -12,9 +12,9 @@ Use [[Youtube-dl]] to download any YouTube, or even Vimeo videos with all metada
 
 | Series		| Type	  | Saved yet? By who?	| # of Videos 	| Playlist link	|
 |:---------------------|:--------|:------------------:|--------------:|:-------------|
-| Team ROOMBA		| Channel | Archived (iruel)	| 		| [link]() |
-| Team Avolition	| Channel | Archived (iruel)	| 57		| [link]() |
-| Fourteam		| Channel | Archived (iruel)	|		| [link]() |
+| Team ROOMBA		| Channel | Archived	| 		| [link](https://www.youtube.com/user/TEAMROOMBA/videos) |
+| Team Avolition	| Channel | Archived. Since some older videos got removed due to music, we should see what's up.	| 57		| [link](https://www.youtube.com/user/TeamAvolition/videos) |
+| Fourteam		| Channel | Archived	|		| [link](https://www.youtube.com/user/Fourteam14/videos) |
 
 #### Let's Play (LP) Game Playthroughs
 
