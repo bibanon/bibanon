@@ -1,4 +1,4 @@
-![](http://imgur.com/7CxX4xn.png)
+![](http://i.imgur.com/u09IZNP.png)
 
 On the 21st of January, moot announced his retirement as admin of 4chan, and handed over administration to 3 Senior Moderators. Moot made a farewell livestream, and opened a /qa/ board for anons to ask him questions or pay him homage. 
 
