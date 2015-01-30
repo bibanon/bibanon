@@ -1,4 +1,4 @@
-![](http://i.imgur.com/u09IZNP.png)
+![](http://imgur.com/7CxX4xn.png)
 
 Moot made a historically significant [farewell livestream](https://www.youtube.com/watch?v=XYUKJBZuUig) about the Past, Present, and Future of 4chan. 
 
