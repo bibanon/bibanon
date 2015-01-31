@@ -16,6 +16,10 @@ Many of these were expunged. Must recover them somehow.
 
 ## The Aftermath
 
+In a show of force, the anon posted as Moot ## Admin, causing immediate shitstorms all over 4chan.
+
+* [Imgur - Fake Moot Posts](http://imgur.com/ZK2HGxZ,DDN8cHq,sroNBbH,Pr4JP9S,jjhABbI,TVdFvfD,CZ4tZZi,I896eBS,9iWxJX2,0aazexm)
+
 Moot was particularly angry, especially as a similar breach of security had destroyed his startup, Drawquest and Canv.as. This was just one of a trifecta of tumultuous crises that would strike the heart of 4chan, and may have factored in his later retirement. 
 
 ## Sources
