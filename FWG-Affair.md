@@ -4,11 +4,9 @@ The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG
 
 ## The Context
 
-**FWG** was a female attentionwhoring tripfag on /int/. The strayan guy that introduced her to /int/ got mad with her, because she stopped writing to him. 
-
-He than hacked 4chan to get her IP, and it turns out she was massively samefagging and then all her personal information was thrown out on the street.
-
-(I don't have screens of those ebin breads though)
+> _**FWG** was a female attentionwhoring tripfag on /int/. The strayan guy that introduced her to /int/ got mad with her, because she stopped writing to him._  
+> _He than hacked 4chan to get her IP, and it turns out she was massively samefagging and then all her personal information was thrown out on the street._
+> - [/qa/66911#p70168](http://archive.moe/qa/thread/66911#p70168)
 
 ## The Hack
 
