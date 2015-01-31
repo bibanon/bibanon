@@ -34,6 +34,10 @@ Moot was particularly angry, especially as a similar breach of security had dest
 
 ### Moot's Livestream Reference
 
+Moot made a reference to the large proportion of Australians on 4chan, and how probably because Australia is in the exact opposite timezone as the US, the night in New York effectively becomes the Australia hours on 4chan. While we're not sure if it was the Australian or Moot who did this, it is pretty darn interesting:
+
+![](http://i.imgur.com/2ADMLUG.jpg)
+
 One of Moot's final recommendations for anons to take away from the events of 2014 is the following:
 
 > _After all the leaks of the /j/ board, I am still appalled at how people miss the giant sticky on /j/ stating that janitors and moderators should "take it easy", and give people the benefit of the doubt before making bans or deletions._  
