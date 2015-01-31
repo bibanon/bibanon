@@ -22,7 +22,11 @@
 
 * [Food in Literature](http://foodinliterature.com/) - Cook the greatest foods ever written about, that the rest of the world can only dream of.
 
-## Back to the 1980s
+## Internet History
+
+* [Gawker - Finding Goatse: The Mystery Man Behind the Most Disturbing Internet Meme in History](http://gawker.com/finding-goatse-the-mystery-man-behind-the-most-disturb-5899787) - Who is this man, whose ass has conquered the internet?
+
+### Back to the 1980s
 
 Websites that enshrine the legacy of the 1980s, as seen through childhood's rose-tinted eyeglasses. These became popular as websites or flash animations in a retro chic during the 2000s, when such children became college students, discovered many people like them, and looked back fondly on those idyllic days. And now I myself look back fondly at the days when I could just surf the internet and hear these amazing stories, or just dirty language (which really does appeal to tweens).
 
