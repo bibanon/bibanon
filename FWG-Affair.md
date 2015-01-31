@@ -34,6 +34,10 @@ Moot was particularly angry, especially as a similar breach of security had dest
 
 ![](http://i.imgur.com/2ADMLUG.jpg)
 
+### Based Greece
+
+
+
 ### Moot's Livestream Reference
 
 One of Moot's final recommendations for anons to take away from the events of 2014 is the following:
