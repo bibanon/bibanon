@@ -32,11 +32,9 @@ In a show of force, the anon posted as Moot ## Admin, causing immediate shitstor
 
 Moot was particularly angry, especially as a similar breach of security had destroyed his startup, Drawquest and Canv.as. This was just one of a trifecta of tumultuous crises that would strike the heart of 4chan, and may have factored in his later retirement. 
 
-### Moot's Livestream Reference
-
-Moot made a reference to the large proportion of Australians on 4chan, and how probably because Australia is in the exact opposite timezone as the US, the night in New York effectively becomes the Australia hours on 4chan. While we're not sure if it was the Australian or Moot who did this, it is pretty darn interesting:
-
 ![](http://i.imgur.com/2ADMLUG.jpg)
+
+### Moot's Livestream Reference
 
 One of Moot's final recommendations for anons to take away from the events of 2014 is the following:
 
