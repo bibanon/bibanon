@@ -27,3 +27,4 @@ Moot was particularly angry, especially as a similar breach of security had dest
 Thanks to the anons who posted these sources, or we would not have been able to recover the posts.
 
 * [/qa/66911#p70367 - Best of Homeboards Thread: Repost of Screencaps](http://archive.moe/qa/thread/66911#p70367)
+* [Reddit /r/4chan - Someone on /int/ got Moot's Account](http://www.reddit.com/r/4chan/comments/23ri4w/someone_on_int_got_moots_account/)
