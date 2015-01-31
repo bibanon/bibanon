@@ -1,0 +1,3 @@
+On April 23 an Australian anon manages to get admin access and starts posting as moot. He posts the location of FWG, a french /int/ tripfag, ip's of mods and janitors and the password to the moderator IRC channel. Subsequently, 4chan was frozen for about 6 hours. 
+
+The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG Affair, since many of the Imgur galleries and DarkCave archive threads were expunged.
