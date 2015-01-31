@@ -6,39 +6,58 @@ The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG
 
 > _**FWG** was a female attentionwhoring tripfag on /int/. The strayan guy that introduced her to /int/ got mad with her, because she stopped writing to him._  
 > _He than hacked 4chan to get her IP, and it turns out she was massively samefagging and then all her personal information was thrown out on the street._
-> - [/qa/66911#p70168](http://archive.moe/qa/thread/66911#p70168)
+> - [/qa/66911#p70168](http://archive.moe/qa/thread/66911/#70168)
 
 ## The Hack
 
 * The hacker **obtained admin access on 4chan** and uses it to find all possible data on FWG, as well as ban her 18 times (effective permaban).
+  * There is a possibility that the infamous Heartbleed OpenSSL exploit was used to accomplish this. Make sure you keep your servers up to date.
+  * On the other hand, since [4chan was coded so poorly over the years](https://archive.rebeccablacktech.com/g/thread/41542034#p41542190_14), it was bound to happen. Moot significantly upped the security of the site as a result. You can also report exploits to the team for a cash reward.
 * The hacker **also leaked IP addresses** of FWG, revealing that she was samefagging on the French threads.
 * The hacker **banned certain users** that he had some kind of beef with.
 * The hacker **took control of Moot's capcode**, renamed it to "Moot loves dicks", and starts posting on 4chan with it for all leaks.
-* The hacker **leaked new photos of /j/**, a special discussion board on 4chan for janitors and moderators. Since the password to the IRC channel was a sticky on the board, anons rush into the IRC Channel. 
+* The hacker **leaked new photos of /j/**, a special discussion board on 4chan for janitors and moderators. [Here is a pastebin,](http://pastebin.com/JrGU9p5L) and it was added to [Vryd's archive.](http://j.vyrd.net/) Since the password to the IRC channel was a sticky on the board, anons rush into the IRC Channel. 
 * The hacker **posted an image of several janitors' IPs and identities**, as well as their passwords. This included the /sp/ janitor. According to the leaks, the janitor goes by the name of "Cadfael".
   * The hacker publicly announced that _he would attempt a second hack of 4chan_, this time getting more information on the /sp/ janitor and deleting his account, but it never happened. 
 
+[[1422729000925.jpg]]
+[[1422729091283.jpg]]
+
 ### Archived 4chan Threads
 
-Many of these were expunged. Must recover them somehow.
+Many of these were expunged, and archive.org failed to capture them. We have the screenshots archived, though.
 
-* [/int/23490553 - The original hack thread](https://archive.thedarkcave.org/int/thread/23490553/)
-* https://archive.thedarkcave.org/int/thread/23492211/
-* https://archive.thedarkcave.org/int/thread/23493156/
+If you happened to create an archive of these threads, grab a Github account, edit this page, and paste the link in.
+
+* <s>[/int/ 23490553 - The original hack thread](https://archive.thedarkcave.org/int/thread/23490553/)</s> - Sadly lost to history, as it was expunged due to personal info. It is the source of most of the screencaps and the hacker's explanation of his motive.
+* <s>[/int/ 23492211](https://archive.thedarkcave.org/int/thread/23492211/)</s> - Baleeted.
+* [/int/ 23492483 - >thread deleted by Rapeape](https://archive.moe/int/thread/23492483/)
+* [/int/23493156 - TIP TOP LEL](https://archive.thedarkcave.org/int/thread/23493156/) - The only archived original thread that's still around.
+* [/g/ 41542034](https://archive.rebeccablacktech.com/g/thread/41542034) - Thankfully, this thread has a few screencaps of threads.
+* [/pol/ 29176410](https://archive.4plebs.org/pol/thread/29176410/)
 
 ## The Aftermath
 
 In a show of force, the anon posted as Moot ## Admin, causing immediate shitstorms all over 4chan.
 
-* [Imgur - Fake Moot Posts](http://imgur.com/ZK2HGxZ,DDN8cHq,sroNBbH,Pr4JP9S,jjhABbI,TVdFvfD,CZ4tZZi,I896eBS,9iWxJX2,0aazexm)
+[[ZK2HGxZ.png]]
+[[DDN8cHq.png]]
+[[sroNBbH.png]]
+[[Pr4JP9S.png]]
+[[jjhABbI.png]]
+[[2ADMLUG.jpg]]
+[[TVdFvfD.png]]
+[[CZ4tZZi.png]]
+[[I896eBS.png]]
+[[9iWxJX2.png]]
+[[0aazexm.png]]
 
 Moot was particularly angry, especially as a similar breach of security had destroyed his startup, Drawquest and Canv.as. This was just one of a trifecta of tumultuous crises that would strike the heart of 4chan, and may have factored in his later retirement. 
 
-![](http://i.imgur.com/2ADMLUG.jpg)
 
 ### Based Greece
 
-
+[[1422698372120.jpg]]
 
 ### Moot's Livestream Reference
 
@@ -52,5 +71,5 @@ One of Moot's final recommendations for anons to take away from the events of 20
 
 Thanks to the anons who posted these sources, or we would not have been able to recover the posts.
 
-* [/qa/66911#p70367 - Best of Homeboards Thread: Repost of Screencaps](http://archive.moe/qa/thread/66911#p70367)
+* [/qa/66911#p70367 - Best of Homeboards Thread: Repost of Screencaps](http://archive.moe/qa/thread/66911/#70367)
 * [Reddit /r/4chan - Someone on /int/ got Moot's Account](http://www.reddit.com/r/4chan/comments/23ri4w/someone_on_int_got_moots_account/)
