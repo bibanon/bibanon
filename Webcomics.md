@@ -6,6 +6,7 @@ Hilarious comics that lampoon plot holes in modern fiction.
 
 * [Kate Beaton - Hark, a Vagrant](http://www.harkavagrant.com) - Satire about history or literary works.
 * [Brawl in the Family](http://brawlinthefamily.keenspot.com/)
+* [Nedroid](http://nedroid.com/) - Mad Animal Antics.
 
 ## Vintage
 
