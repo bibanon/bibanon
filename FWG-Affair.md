@@ -6,6 +6,10 @@ The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG
 
 ## The Hack
 
+* The hacker **obtained admin access on 4chan** and uses it to find all possible data on FWG, revealing some odd behavior, and also IP addresses of not just FWG: but even some moderators and janitors.
+* The hacker **took control of Moot's capcode** and starts posting on 4chan with it for all leaks.
+* The hacker **leaked new photos of /j/**, a special discussion board on 4chan for janitors and moderators. Since the password to the IRC channel was a sticky on the board, anons rush into the IRC Channel. 
+
 ### Archived 4chan Threads
 
 Many of these were expunged. Must recover them somehow.
