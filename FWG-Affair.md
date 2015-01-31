@@ -13,7 +13,7 @@ The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG
 * The hacker **obtained admin access on 4chan** and uses it to find all possible data on FWG, as well as ban her 18 times (effective permaban).
 * The hacker **also leaked IP addresses** of FWG, revealing that she was samefagging on the French threads.
 * The hacker **banned certain users** that he had some kind of beef with.
-* The hacker **took control of Moot's capcode** and starts posting on 4chan with it for all leaks.
+* The hacker **took control of Moot's capcode**, renamed it to "Moot loves dicks", and starts posting on 4chan with it for all leaks.
 * The hacker **leaked new photos of /j/**, a special discussion board on 4chan for janitors and moderators. Since the password to the IRC channel was a sticky on the board, anons rush into the IRC Channel. 
 * The hacker **posted an image of several janitors' IPs and identities**, as well as their passwords. This included the /sp/ janitor. According to the leaks, the janitor goes by the name of "Cadfael".
   * The hacker publicly announced that _he would attempt a second hack of 4chan_, this time getting more information on the /sp/ janitor and deleting his account, but it never happened. 
