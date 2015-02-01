@@ -57,7 +57,7 @@ Moot was particularly angry, especially as a similar breach of security had dest
 
 ### Based Greece
 
-[[1422698372120.jpg]]
+[![](History/4chan-Chronicle/2014/FWG Affair/1422698372120.jpg)](History/4chan-Chronicle/2014/FWG Affair/1422729091283.jpg)
 
 ### Moot's Livestream Reference
 
