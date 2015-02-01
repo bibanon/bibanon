@@ -40,17 +40,17 @@ If you happened to create an archive of these threads, grab a Github account, ed
 
 In a show of force, the anon posted as Moot ## Admin, causing immediate shitstorms all over 4chan.
 
-[![](History/4chan-Chronicle/2014/FWG Affair/ZK2HGxZ.png)](History/4chan-Chronicle/2014/FWG Affair/ZK2HGxZ.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/DDN8cHq.png)](History/4chan-Chronicle/2014/FWG Affair/DDN8cHq.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/sroNBbH.png)](History/4chan-Chronicle/2014/FWG Affair/sroNBbH.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/Pr4JP9S.png)](History/4chan-Chronicle/2014/FWG Affair/Pr4JP9S.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/jjhABbI.png)](History/4chan-Chronicle/2014/FWG Affair/jjhABbI.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/2ADMLUG.jpg)](History/4chan-Chronicle/2014/FWG Affair/2ADMLUG.jpg)
-[![](History/4chan-Chronicle/2014/FWG Affair/TVdFvfD.png)](History/4chan-Chronicle/2014/FWG Affair/TVdFvfD.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/CZ4tZZi.png)](History/4chan-Chronicle/2014/FWG Affair/CZ4tZZi.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/I896eBS.png)](History/4chan-Chronicle/2014/FWG Affair/I896eBS.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/9iWxJX2.png)](History/4chan-Chronicle/2014/FWG Affair/9iWxJX2.png)
-[![](History/4chan-Chronicle/2014/FWG Affair/0aazexm.png)](History/4chan-Chronicle/2014/FWG Affair/0aazexm.png)
+* [IP Address Leaks](History/4chan-Chronicle/2014/FWG Affair/ZK2HGxZ.png)
+* [Ban User Dox](History/4chan-Chronicle/2014/FWG Affair/DDN8cHq.png)
+* [FWG IS A WHORE Thread](History/4chan-Chronicle/2014/FWG Affair/sroNBbH.png)
+* [FWG ARGUING WITH HERSELF](History/4chan-Chronicle/2014/FWG Affair/Pr4JP9S.png)
+* [Ban Australians](History/4chan-Chronicle/2014/FWG Affair/jjhABbI.png)
+* [All Hail Australians](History/4chan-Chronicle/2014/FWG Affair/2ADMLUG.jpg)
+* [TIP TOP LEL](History/4chan-Chronicle/2014/FWG Affair/TVdFvfD.png)
+* [Samefagging](History/4chan-Chronicle/2014/FWG Affair/CZ4tZZi.png)
+* [/j/ board](History/4chan-Chronicle/2014/FWG Affair/I896eBS.png)
+* [More Samefagging](History/4chan-Chronicle/2014/FWG Affair/9iWxJX2.png)
+* [Impersonator](History/4chan-Chronicle/2014/FWG Affair/0aazexm.png)
 
 Moot was particularly angry, especially as a similar breach of security had destroyed his startup, Drawquest and Canv.as. This was just one of a trifecta of tumultuous crises that would strike the heart of 4chan, and may have factored in his later retirement. 
 
