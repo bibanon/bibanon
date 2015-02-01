@@ -3,6 +3,7 @@
 * [BASC Archiver](https://github.com/bibanon/BASC-Archiver) - Tool that downloads an entire 4chan thread, it's JSON, and all images.
 * [Wget](http://github.com/baslqc/baslqc/wiki/Wget) - The internet archivist's swiss army knife. Grab any website, and all public data on it for offline viewing (or into WARC format).
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos off of YouTube and other streaming sites. [[Here are some recommended commands.|Youtube-dl]]
+* [Imgur Album Downloader](https://github.com/alexgisby/imgur-album-downloader) - To save choice albums for later viewing.
 * [Wikiteam - Mediawiki Dump Generator](http://archiveteam.org/index.php?title=WikiTeam#Tools_and_source_code) - Archive an entire backup of a MediaWiki-based wiki, all pages, all history, and all images. You can use Special:Import to restore this XML backup.
 * [Plowshare](https://code.google.com/p/plowshare/) - Oh no! Was OP a faggot and gave you 10 split Mediafire links? Not to worry, you can use this automated download script to obtain them in an automated manner. Though sometimes, you'll still have to solve captchas.
 
