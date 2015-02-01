@@ -20,7 +20,7 @@ The Bibliotheca Anonoma is attempting to record exactly what happened in the FWG
 * The hacker **posted an image of several janitors' IPs and identities**, as well as their passwords. This included the /sp/ janitor. According to the leaks, the janitor goes by the name of "Cadfael".
   * The hacker publicly announced that _he would attempt a second hack of 4chan_, this time getting more information on the /sp/ janitor and deleting his account, but it never happened. 
 
-[[1422729000925.jpg|float|alt=hack 1]]
+![](History/4chan-Chronicle/2014/FWG Affair/1422729000925.jpg)
 [[1422729091283.jpg]]
 
 ### Archived 4chan Threads
