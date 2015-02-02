@@ -41,6 +41,13 @@ Websites that enshrine the legacy of the 1980s, as seen through childhood's rose
 
 * [419Eater - Scambaiter Story Collection](http://www.419eater.com/html/letters.htm) - Stories of those who took it on themselves to scam the scammers that spam the airwaves. The Ethical Scammer, out to bankrupt those who prey on others, to beat a scammer at his own game.
 
+## Weird Japan
+
+While Japan is attempting to promote "Cool Japan" in it's latest Tokyo Olympics, it will always be haunted by the spectre of "Weird Japan", a strange side of it's culture that is an effect of it's uniqueness, and age advancement (in terms of both technology and aging population).
+
+* [Japangasm - Cats vs water Bottles](https://japangasm.wordpress.com/2012/01/26/cats-vs-bottles-part-1/) - [Danny Choo - Don't Cat](http://www.dannychoo.com/en/post/26447/Japan+Cat+Repellent.html) - Cat repelling Water Bottles? Who believes in this? Anyway, it's not like any cat cares at all.
+* [Spike Japan - Phoenix Seagaia: Look on my works, ye mighty](https://spikejapan.wordpress.com/2010/10/10/phoenix-seagaia-look-on-my-works-ye-mighty/) - In Miyazaki Province, one of Japan's poorest mainland prefectures, investment groups were on a roll, creating the Three Great Structural Legacies of the Bubble (三大バブルの構造物遺産). But all bubbles will pop, and these wonderous tourist destinations now sit overgrown by vines.
+
 ## LP Archive
 
 A "Let's Play" is a playthrough of a video game that is recorded and shared with the public. Although no better known for the numerous Youtube LPs (and in fact many of the LPs on the archive are in video format), there are also LPs using screenshots and text, or even hybrids of both formats. The LP Archive saves interesting LPs from Something Awful. This is a collection of what we think is the cream of the crop. Obviously there are more than what we have here, so browse the catalog for yourself.
