@@ -45,6 +45,7 @@ Websites that enshrine the legacy of the 1980s, as seen through childhood's rose
 
 While Japan is attempting to promote "Cool Japan" in it's latest Tokyo Olympics, it will always be haunted by the spectre of "Weird Japan", a strange side of it's culture that is an effect of it's uniqueness, and age advancement (in terms of both technology and aging population).
 
+* [Wikipedia - Honne and Tatemae](http://en.wikipedia.org/wiki/Honne_and_tatemae) - The Japanese maintain a dual persona for public and private, and as a result have developed a unique concept of Honne and Tatemae. That inner meaning is often suppressed while in society, and only bubbles to the surface when drunk, shameless, or in anonymous textboards (such as 2channel).
 * [Japangasm - Cats vs water Bottles](https://japangasm.wordpress.com/2012/01/26/cats-vs-bottles-part-1/) - [Danny Choo - Don't Cat](http://www.dannychoo.com/en/post/26447/Japan+Cat+Repellent.html) - Cat repelling Water Bottles? Who believes in this? Anyway, it's not like any cat cares at all.
 * [Spike Japan - Phoenix Seagaia: Look on my works, ye mighty](https://spikejapan.wordpress.com/2010/10/10/phoenix-seagaia-look-on-my-works-ye-mighty/) - In Miyazaki Province, one of Japan's poorest mainland prefectures, investment groups were on a roll, creating the Three Great Structural Legacies of the Bubble (三大バブルの構造物遺産). But all bubbles will pop, and these wonderous tourist destinations now sit overgrown by vines.
 
