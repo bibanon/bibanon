@@ -758,6 +758,8 @@ Newfag
 Fuck off retard 
 
 
+###12832914
+why in the ever loving fuck are you guys still here? 
 
 
 ###dick smasher No.12832917 
@@ -835,3 +837,560 @@ Fuck off newfag
 
 cont
 
+
+###12832926 
+[image](http://2ch-b.ru/i/5e7d93724987aa920f60bcd9fd382e49.gif)
+>>12832914
+
+I just found the thread, it was most definitely bait
+
+Still, good /x/-esque story 
+
+
+###12832941 
+>>12832925
+>>"Those things are... unpleasant. To look at."
+>>wuh
+>>she slid her hand up my shirt
+>>no, not my moobs
+Fuckin' losing it OP. You waited like 20 minutes fuck off and finish it up. 
+
+
+###12832953
+[image](http://2ch-b.ru/i/0c474e57e3a2a3d4f4aa4e83fd84cb2d.gif)
+>>12832925
+yes finially he gets to touch the boob 
+
+
+###12833058
+Come the fuck on OP it's 5:40am and you're all that's keeping me awake 
+
+
+###OP !!JxolZxw8/sx 12833119
+>>12832925
+>they're beautiful
+>little milky white hand-fulls with little pink nipples
+>my dick is on fire
+>how to grab boob without being an idiot about it...
+>grab them like I'm picking out oranges at a grocery store
+>I can hear bear laugh at my inexperience
+>she's actually a good sport about it and just grins a little
+>she takes her bra the rest of the way off and lays down
+>I sort of sit on my feet in between her legs
+>touch the boob again
+>that is a nice boob
+>totally worth it
+>she's eye-balling the d through my boxers
+>wait, what did she say about "those things"?
+>keep touchin that boob, we'll deal with that when we get there
+>she says, "I don't really want to see it. If you could just... get it in there, that would be good."
+>"...Like now?"
+>"Not right now."
+>"Okay. Just let me know."
+>boob, ass, hips, waist, soft skin, legs
+>so much good in the world
+>what was I worried about again?
+>she says, "Okay."
+>huh?
+>"I'm ready now."
+>oh right, that
+>"O-Okay..."
+>...
+>"So, do you want me to just...?"
+>"Yeah, just get it in there. I don't wanna look at it."
+>"Okay..."
+>I take off her panties
+>oh god, please last long enough to get it in there
+>it's just a little pink mound with a little pink crease in the middle
+>so modest
+>spread it
+>it's all hot and wet inside
+>no worries, no fear, this is a happy place
+>I position myself as un-awkwardly as I can above her
+>trying to get my dick in
+>every time I think I'm about to get it, she flinches and it slides out
+>"A-Are you nervous? We can stop..."
+>no we can't, you can't stop this dick, not now
+>"No, it's fine. I'm sorry, I'll try harder."
+>thank god
+>line it up one more time
+>start to push it
+>she flinches, but it stays in
+>slides in a little further
+>she makes a pained sound
+>suddenly it slides all the way in
+>she yelps and digs her nails into my shoulders
+>my dick
+>I want to give her a minute, but if I don't start now, I'm just gonna cum all over the place
+>start thrusting awkwardly
+
+cont 
+
+
+###12833131
+>>12833119
+FUCK YOU OP CAN'T YOU SEE WE'RE HAVING A FIGHT
+
+>>12833102
+>living in canada
+>living in the caribbean
+>living in south america
+lel 
+
+
+###12833132
+>>12833119
+>inb4 cotton eye joe :^) 
+
+
+###12833135
+>>12833119
+>muh nofap gains 
+
+
+###12833144
+[image](http://i2.kym-cdn.com/photos/images/facebook/000/416/103/8ac.jpg)
+>>12833119
+OP DID IT HE FINIALLY DID IT! 
+
+
+###12833153
+[image](http://i.imgur.com/LCGeUdT.jpg)
+>>12833144 
+
+
+###OP !!JxolZxw8/sx 12833220 
+>>12833119
+>she keeps making little whiny noises
+>trying as hard as I can not to cum
+>my dick burns
+>she wraps her arms and legs around me
+>"I'm ready."
+>"bwuh"
+>"You can finish now."
+>oh thank god
+>cum with the force of an atomic bomb
+>I am properly subdued
+>you can kill me now
+>I touched the boob
+>she rolls me off of her
+>she lays there for a second
+>then she snuggles up to me with her head on my chest
+>fall asleep
+>when I wake up
+>probably an hour or so later
+>she's dressed again
+>"Hey. I need to take you home. My parents are coming back soon."
+>"Okay."
+>get dressed
+>bear shakes his head in disgust
+>she takes me home
+>when we roll into the driveway, the door are still locked
+>she sits there for a bit
+>then she says, "I love you."
+>she looks over at me like she's curious
+>"I love you too."
+>she sighs and nods
+>"Alright. Well I will see you tomorrow."
+>she unlocks the door
+>I get out
+>watch her drive away
+>go back in my house
+>go to my room without saying anything to my parents
+>get in bed
+>stare at the ceiling
+>suddenly realize I didn't use a condom
+>bwuh
+
+
+The end.
+She didn't get pregnant, luckily, but it was a horrible realization at the time.
+Oh, and also,
+
+[spoiler]We're moving in together in two weeks.[/spoiler]
+
+Good night, /r9k/. 
+
+
+###12833230
+>>12833220
+>bwuh
+DAMN IT BOBBY 
+
+
+###12833249
+>>12833220
+All that foreshadowing for nothing. I guess she kept tools in an abandoned house for fun
+
+
+###12833250
+[image](http://www.rusechan.org/jp/src/139447299685.png)
+good shit OP 
+
+
+###12833255
+>>12833249
+yeah what's up with the plot hole 
+
+
+
+###OP !!JxolZxw8/sx 12833296 
+>>12833249
+>>12833255
+I actually still wonder if what she does with that shit. I don't have proof of anything, though. But there's no way she keeps that shit out there for no reason.
+Also she accidentally killed two girls on two separate occasions, both of which were during fights, and both of which she served time for in juvy. Those stories just weren't really interesting enough to include.
+Also I know she's doing something horrible out there in the woods.
+I'm kind of hoping that if I turn up missing after we move in, the police will search my internet history, fin this, and know what's up.
+
+For real though, good night.
+
+
+###12833350
+>tfw waiting 4 hours for this shit
+>got excited for final part
+>laugh like fuckingfaggot retard reading old greentext while waiting op to comeback
+>dat cute ending
+>cant stop smile
+>tfw realize I got no gf
+>tfw no gf
+
+Should I commit suicide? 
+
+##Fanfiction
+It wouldn't be a 4chan story without a hijack or two.
+
+###12831335 
+>>12830217
+>get home 
+>parents know I'm hammered
+>tell me I'm never seeing that girl again
+>get grounded
+>baby texts me the next day asking if I want to come over
+>think hard long, finally reply yes
+>wait till about 1230 and sneak out
+>show up at babies house
+>she seems strangely excited and happier than usual
+>her patents are asleep so we quietly go up to her room
+>she tells me she had a secret that she wants to reveal
+>I nervously ask yes..,
+>she says turn around
+>I do
+>I turn back and she has her pants down
+>she's a raging hard cock
+>she says what do you think?
+>I contemplate everything from suinning her dick to punching her in the face... 
+I'm getting back to it right now, thank you for being patient with me. 
+
+
+###12831350
+>>12831335
+>suinning
+oh baby yeah
+I love a good cock suinning 
+
+
+###12831377
+>>12831335
+Wow I got rused pretty hard m8 :^) 
+
+
+###12831398
+>>12831335
+>I tell her "um im not gay"
+>try slowly moving towards the door
+>she freaks out and tackles me
+>her dick is rubbing against my chin
+>she yells suck my cock!
+>I don't know what to do, she has me pinned down 
+>I start sucking her cock
+>I start coughing and choking
+>her parents wake up and find us 
+>her dad starts smacking both our shit
+>kicks me out
+
+To be continued 
+
+
+###12831451
+>>12831429
+This is an imposter
+
+I am the real op
+>>12831335
+>>12831398 
+
+
+###12831458
+>>12831451
+Fuck off faggot, you have already been exposed, kindly return to the dark corner from whence you came, you are just embarrassing yourself at this point. 
+
+
+###12831490
+>>12831458
+Dude I'm really op, baby has a cock and she made me suck it, I'm op! 
+
+
+###12831632
+>>12831398
+>I contemplate telling the whole school that baby has a dick
+>don't know how I couldn't see it before
+>remember that baby is my only friend even tho she made me suck her dick
+>the next week I'm sitting alone at my table
+>baby walks up blushing and asks if she can sit down
+>she asks if I'm mad or angry and pleads not to tell anyone
+>I agree
+>the next couple weeks go by and we continue eating lunch
+>one day she shyly asks if I liked sucking her dick
+>I quietly say...yes
+€she says meet me in the bathroom in 10 minutes
+>looking back I had no idea what I was getting into 
+
+
+###12831647
+>>12831632
+>euro symbol typo
+You can't explain that one away, you're definitely not OP, OP is an amerifat. 
+
+
+###12831685
+>>12831647
+It was a typo, sorry
+
+>think about going to the bathroom, at the worst I could possibly lose my virginity
+>finish my pizza slice and apple
+>immediately head to the bathroom
+>enter the bathroom and it's empty
+>have to take a shit do I enter a stall
+>see babies pink flats tapping underneathe my stall
+>baby..,is that you? I ask
+>she says yes silly
+>she tells me to come into her stall
+>I go into her stall and her dick is our and she is grinning
+>drop to your knees and suck, she says
+>I immediately comply and start sucking her dick
+
+To be continued.,. 
+
+###12831692
+>>12831685
+Amerifat keyboards don't have the euro symbol, you stupid limey.
+Go fuck around in another thread, you blew your cover in this one already. 
+
+
+###12831724
+>>12831685
+>Sucking girly dick is pretty cash, son
+>Oh fuck yeah make me gag on your gonads girl guy
+>Suddenly notice Baby isn't forcing my head forward into her erection anymore.
+>Pop my mouth off her dick and look up to see what's up
+>She's bleeding from her eyes
+>At that moment a person starts frantically knocking on the door of the stall
+>Tell him to fuck off
+>Look back at Baby too see what she's doing
+>She's turning blue
+>Start freaking out
+>Suddenly the person outside the stall grabs my legs from under the divider and in one swift motion drags me out
+>It's fucking Adrien Brody
+
+To be continued... 
+
+
+###12831755 
+>>12831692
+I'm using a god tier iPhone, do yes there is this symbol €€€€€€
+
+Anyways going to continue
+
+>I'm sucking babies dick
+>never sucked a dick before but by the look of babies face I'm not doing to bad
+>suddenly I hear the door to the bathroom open and someone walk over to the urinal
+>I start going crazy on babies dock trying to make her moan
+>she starts moaning I heard the guy pissing say wtf?
+>I start deep throating babies dock whole fondling her balls
+>she says, I can't take it anymore!
+>I stop sucking her dick and she blows her load on my face
+
+Continue... 
+
+
+###12831792 
+>>12831755
+>The jism burns my skin like holy water
+>I curse her in the language of hell for her stunt
+>She begins to glow angelically 
+>No! I have to get away
+>Wings rip my shirt open and I blast a hole in the ceiling with my hell fire breath
+>Dude in the bathroom filming on his iphone
+>Baby begins to float serenely, cock out, softly dripping semen on the tile
+
+Continue... 
+
+
+###12831796
+>>12831755
+>the guy pissing walks over to our stall and kicks open the door
+>he sees babies dick and um all over my face
+>he looks completely shocked
+>I recognize this guy as he's in a class with me and baby
+>thinking fast I push him into the wall
+>his head slams into the cement and gets knocked out
+>I start smashing his head into the concrete floor
+>blood starts point from his head
+>pretty sure he's dead so I lead baby by the hand out of the bathroom 
+
+
+###12831800
+>>12831796
+>>12831792
+The fake-plot thickens. 
+
+
+###12831831
+>>12831796
+>Baby suddenly howls in pain, her head caving in before my eyes
+>One of her eyes is hanging out limply
+>Much in the same manner her penis is
+>What the fuck!
+>I-I'm an empath, she whispers
+>Her legs collapse from under her
+Continue....
+
+
+###12831836
+>>12831796
+>I did this for you baby I said while kissing her long and deep
+>she says thanks
+>the next period I get called out of class to the office
+>I'm Obviously nervous but I start walking towards the front office
+>I see several cops there do I start to run
+>they see me and start chasing
+>they corner me in the dead end outside my classroom
+>I see baby looking at me from my classroom door 
+>tell them baby, tell them I'm innocent, I yelled!
+>she shook her head
+>the police then tazed me
+
+Continue...
+
+
+###12831878
+>>12831836
+>Suddenly the state senator walks up
+>Stop hasslin' the boy, he works for me
+>I had been a junior aide in the state legislator as part of an program in the school
+>I had provided him hours of oral delight
+>Here he was to save me!
+>Baby looks shocked
+>And cold, it was a windy day and her dick was shriveling up rapidly. 
+
+Continue... 
+
+
+###12831894
+>>12831836
+>get tazed until I'm unconscious, which took at least 3 charges
+>wake up in a room with bars
+>start freaking out
+>I shouldn't be here up yelled!
+>no one listened
+>come court day baby testified that I killed the guy in the bathroom
+>spend next 15 years in jail
+>got out two years ago
+>finally have enough confidence to post my story
+
+Still don't know how to get back at baby 
+
+
+###12831913
+>>12831836
+>Then I woke up in a prison
+>Fucking niggers everywhere
+>One of them shoves his gorilla dick in front of my face
+> "It ain't gonna suck it self white boi"
+>I push him off and his nigger instincts flare up, he starts going wild and trying to punch me
+>All of the sudden my dad shows up, who also happens to be the police chief
+>He's yelling it at me asking me why would I push a nigger with fully knowing the pain that would come
+>I tell him about how I got in one little fight ,and my momma got scared
+>And she sent me to live with my auntie and uncle in Bel-air 
+
+##Fanfiction 2: Electric Boogaloo
+
+###12832014 
+>>12831953
+>she leads me inside
+>the inside of the house is old and the interior is rotted
+>see shadows moving but don't see any figures
+>ok
+>I wander away from baby and walk into the kitchen
+>a shadow shoots across the room and all of a sudden I see a little girl crouching on too of the fridge
+>she's wearing glasses but they're broken
+>mama...she mutter
+
+Continue 
+
+
+###12832037
+>>12832014
+>Suddenly everything goes dark
+>I feel an uneasy fear in the pit of my stomach
+>Suddenly I feel the sensation like I've been yanked back with a fishing rod
+>I'm in front of my computer
+>Wha..?
+>Realize I had another hallucinatory episode and this whole time I was shitposting on 4chan
+>Reach for my shotgun
+
+Continue.... 
+
+
+###12832049
+>>12832014
+
+>Im not mama little girl
+>little girl tears her clothes off in a rage yelling "WHERES MAMA WHERES MAMA"
+>babe comes in and comforts the insane naked kid
+>gives the kid whiskey
+>she quietens down 
+>Babe leads me into the family room
+>lets watch something jake
+>theres a tree inside the tv but ok Baby
+>i sit next to her, she smells like booze and cigarettes
+>ima get me some boob oga booga where da white women at?
+>she takes her panties off
+>i take my pants off
+> just as penetration occurs, the naked kid runs in and donkey punches my nutsack
+>oh the pain
+
+Continue.... 
+
+
+###12832074
+>>12832014
+>d-do you need help I say?
+>she screeches and jumps on my head
+>she starts scratching at my eyes and I throw her against a wall
+>where the fuck are you baby?
+>what the fuck is this place?
+>all of a sudden the girl gets up and starts laughing manically 
+>insects and spiders start surrounding me
+
+Continue.., 
+
+
+###12832139 
+>>12832037
+>Grab my lube
+>Lube up the barrel of the shotgun
+>Pull down my pants
+>Pull down my long underwear
+>Unlock my chastity belt
+
+Continue.... 
+
+
+###12832174 
+>>12832139
+>At this moment I am reminded of the immortal words of Rock Hudson
+>I'm notorious for giving a bad interview. I'm an actor and I can't help but feel I'm boring when I'm on as myself.
+>Crying, I snap a selfie, and post in on r9k along with the rest of my shitposts
+>Pull the trigger
+Continue... 
