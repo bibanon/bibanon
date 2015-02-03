@@ -457,3 +457,381 @@ I am going to start tripping though for the sake of clarity.
 >I take her hand
 
 cont... 
+
+
+###12831971
+>>12831953
+Oh shit when will the skeleton pop out? 
+
+
+###12831988 
+>>12831953
+>>she says, "We're here."
+Oh fuck nigga pls let it be a door that you have to open to get on the floor 
+
+
+###12831999
+[image](http://i.imgur.com/kJvvZJp.jpg) 
+>>12831953
+Its over.
+OP got brutally rape-murdered in an abandoned house in the woods by a mentally unstable yandere.
+Its his ghost posting. 
+
+
+### OP !!JxolZxw8/sx 12832053 
+Maybe I should actually put the trip on, in that case.
+
+>>12831953
+>she shines the flashlight at the floor and leads me in
+>I think it's an old farmhouse
+>she leads me in almost a circle through the house
+>to two staircases side by side
+>one goes up, one goes down
+>"Which one do you want to follow?"
+>whichever one leads the fuck out of here
+>"Whichever one you want."
+>she lets go of my hand and step in front of me
+>she just stares at me for a while, not smiling
+>"I'm glad I found you."
+>she turns away and starts to disappear down the stairs
+>I follow
+
+cont 
+
+###12832083
+>>12832053
+She is going to sacrifice you to eldricht gods 
+
+
+###12832198
+>>12832175
+>believing that's op
+
+I didn't know r9k consisted of retards... 
+
+
+###12832215 
+>>12832198
+>>12832161
+Just go back to shitposting about sucking her dick, no need to be [spoiler]____rude____[/spoiler] 
+
+
+### OP !!JxolZxw8/sx 12832313 
+>>12832053
+>the basement really shows how ancient this house is
+>the stairs are made of stone
+>they're slippery with what feels like mud
+>the flashlight hits the walls occasionally, from what I can tell, they're mostly just dirt
+>please don't let me die having a god damn farm house fall on me in the woods
+>actually, please don't let me die here at all, this has gotten way out of my control
+>we get to the bottom
+>it smells wet and coppery
+>the floor is just dirt
+>this is a Saw movie, isn't it
+>she says, "I'm going to show you something. You won't tell anyone."
+>"Okay."
+>she shines the light at the far wall
+>it's full of tools
+>saws, hammers, things I don't recognize, saws, sharp things, saws
+>this is literally a Saw movie now, I was just being a pussy before
+>I stare in horror for a very long time
+>I finally look at her
+>she's staring at me
+>her eyes are wide
+>she's breathing hard
+>"Well? What do you think?"
+>"I-I..."
+>"Tell me what you think about what you're seeing right now."
+>"I-I'm scared."
+>she keeps staring and huffing for a while
+>she finally stops and regains her normal blank face
+>she walks over to me slowly
+>I back away
+>"Stop. Don't run from me."
+>I try to stop
+>she wraps her arm around my waist
+>she turns the flashlight off
+>please god no
+>no
+I don't deserve this
+>I never even touched the boob
+>she says, "I am so very fond of you. I don't want you to be afraid of me."
+>asdgfsgasdfv
+>"You never question me. You don't argue or disagree. You do everything I ask of you. You must really trust me."
+>I just wanted to touch the boob you crazy bitch
+>"You're better than all of the others. You deserve more. I want you to be mine. Would you like that?"
+>well, if the other option is get murder in a cabin in the woods
+>"Y-Yes."
+>"Wonderful."
+>she turned the flashlight back on
+>she led me upstairs
+>and back through the woods
+>and to the car that thankfully hadn't been stolen or towed
+>we said nothing on the entire drive back to my house
+
+And so it really begins. 
+
+
+###12832328
+>>12832313
+I bet it turns out she's secretly a wood worker who steals tools. 
+
+
+###12832345
+>>12832313
+from what we know so far, there is literally no interpretation of this that could lead to the belief that she wasn't going to kill you if you said no
+
+>don't stick your dick in crazy 
+
+
+###12832347 
+>>12832313
+>retards actually believing this is op
+
+Ayy lmao 
+
+
+###12832353
+[image](http://www.myfacewhen.net/uploads/2693-oberving-pc.png)
+>>12832313
+>>I just wanted to touch the boob you crazy bitch 
+
+
+12832363 
+[image](https://i.warosu.org/data/cgl/img/0078/54/1412324931424.jpg)
+>>12832313
+OP, you fucking imbecile. You had prime opportunity to rape the ever loving burando off of this lolita whore and you pussied out. 
+
+
+###12832372 
+>>12832347
+Fuck it I don't care if it's him or not, because it's the only post of any length we've actually seen and that's good enough for me.
+>Thinking this story ever really happened. 
+
+
+###12832378
+>>12832347
+I honestly don't care as long as I can enjoy the story.
+
+Stuff like this is how I got through writing classes in hgihschool and college. I just rewrote greentexts off of /r9k/ since I'm too much of an autist to write about myself or make something up since I'm shit and it would be bad. 
+
+
+###12832393
+>>12832378
+>>12832372
+You guys didn't like my baby dick story? That was way more creative and entertaining than "op," implying it's actually op shit. 
+
+
+###12832413 
+>>12832378
+Oh shit nigga I remember when I realize you could make up stories in high school.
+
+I was a huge writefag in school too but never left the house. Once I realized I could write about whatever I wanted people stopped thinking I was going to go all Supreme Gentleman on them and I had a blast in my last two years of school.
+>Used to piss off a new English teacher at our school by reading the entire chapter without stopping to let anyone else have a turn
+>Put several allusions to my cock that the new teacher we had the next year never picked up on because she was from New Zealand
+Ah, good times.
+
+>>12832393
+You don't even sound like you speak English, and the only thing I hate more than a foreigner is a closeted queer.
+>inb4 I'm just fantasizing about dicks IRONICALLY 
+
+
+###12832415
+>>12832393
+It writes like op, it takes forever like op, if it isn't op, it may as well be. 
+
+
+###12832459
+>>12831953
+>>>"Are you afraid of me?"
+>>...
+>>"No..."
+>>"Then you shouldn't be afraid of anything."
+That's almost sweet. But mostly terrifying. 
+
+
+###12832618 
+Well OP is kill here's the end of the story:
+>Baby asks me to get in her car again
+>we drive out to the woods
+>"I'm very fond of you, and I would like to have your penis."
+>fuckyesnigga.jpg
+>"O-okay let me put the c-condom on..."
+>Baby wasn't having none of that shit
+>bust in her, make a fucking meta-baby inside her womb
+>she castrates me so I can't have any more sex
+>the one vice she allows me is talking to a bunch of virgins once a day who also know what it is to know they will never have a girl touch their penis.
+
+I have to go now, she's coming upstairs to smack my nads around again. 
+
+
+### OP !!JxolZxw8/sx 12832692 
+Well, I'd give you my word that I'm OP, but I know that doesn't mean shit here.
+
+>>12832363
+Hahahahahaha, no.
+No no no.
+No I did not.
+
+Anyway.
+
+>>12832313
+>lunch the following Monday
+>Baby asks if I'll come over to her house that afternoon, although now we both know I don't really have a choice
+>I agree
+>I quickly say that I'll have my dad drive me, so she doesn't have the opportunity to take me back to whatever the fuck that shit was
+>she says that's fine
+>that afternoon
+>mom says she doesn't want me to stay out as late as I did last time
+>yeah me neither, mom
+>dad drives me over and congratulates me on having a girlfriend
+>he says he was worried I might be a fancy lad since I went so long without interest in girls
+>dad can you not
+>he pulls somethign out of his wallet and gives it to me
+>he says, "Don't say anything, it's just in case. I don't want you to ruin your life getting a girl pregnant so young."
+>dad maybe you should be worried about serial killers or cat stranglers, turns out there's way worse shit teenage girls can do than get pregnant
+>"Th-Thanks"
+>get out
+>go to her door
+>door pops open before I knock
+>"Hello, please come in."
+>why bother being so polite all the time, a polite kidnapper is still a kidnapper
+>upstairs
+>she closes the door behind us
+>"Don't your parents make you keep the door open?"
+>"It's fine, they won't say anything."
+>why, did you cut their tongues out
+>"Okay."
+>we sit at the little table
+>the bear from before now has matching giant friend
+>nothing much has changed in here except the addition of many stuffed animals and a new computer
+>"Are you feeling alright?"
+>"Y-Yeah..."
+>she stares
+>"You're upset about it, aren't you?"
+>"Yeah..."
+>"Tell me why."
+>"Because... you're apparently killing people out in a shed somewhere, I thou-"
+>"No. No. I have never killed anyone in my entire life. Don't say that. Don't think that. I do not kill people."
+>"Okay..."
+>"Believe me."
+
+cont 
+
+
+###12832725 
+>>12832692
+She seems like a nice girl I don't why you were so scared 
+
+
+###12832726
+>>12832692
+Just stop imposter, your posts equate to nails screeching on chalk board 
+
+
+###12832751
+>>12832692
+god dammit just fuck already 
+
+
+###12832771
+>>12832692
+
+Aw, you hurt her feelings. You asshole. 
+
+
+###12832872
+how the fuck do you even take 6 hours to write up a story 
+
+
+
+###cunt destroyer 12832887 
+>>12832872
+Newfag
+
+
+###12832889
+>>12832867
+>namefag virgin going by cunt destroyer
+>not a newfag
+
+Fuck off retard 
+
+
+
+
+###dick smasher No.12832917 
+>>12832889
+Fucking newfag
+
+
+
+###Ass Rammer 12832924 
+Quoted By: >>12832936
+>>12832917
+
+Fuck off newfag
+
+
+###OP !!JxolZxw8/sx 12832925
+>>12832692
+>"How am I supposed to believe you when you took me out there and showed me all of that?"
+>she looked angry.
+>her little pink lips pouted
+>"You always believe me. You trust me. You don't argue."
+>I want to respond, but...
+>she gets up and comes over to me, pushing white bear out of the way
+>brown bear gasps
+>she stands above me with her petticoats brushing my chin as I look up at her
+>"You have to trust me. Okay? You're mine now. You don't need to be afraid."
+>she holds my face with one hand
+>"Trust me. Put your faith in me."
+>fuck it, we all die someday anyway
+>"Okay."
+>she kept holding my face for a long time
+>then she tipped me back on the floor
+>she sat down on me
+>"Those things are... unpleasant. To look at."
+>wuh
+>she slid her hand up my shirt
+>no, not my moobs
+>you don't want to touch the moob
+>"I feel so silly. They call it "making love," you know. What do you think that means?"
+>I am silent
+>I think my boner says everything I need to
+>"Could it be that that's what makes you feel love? Do you think?"
+>"y-ye..."
+>she quietly rubs my chest for awhile
+>"I think if I could feel love, I would feel it for you. I want to try."
+>wow what the fuck
+>I mean
+>okay, but like 
+>wow
+>"R-Really?"
+>"Don't worry, my parents aren't home, I lied."
+>well you sure put up a good argument 
+>"Okay"
+>bear turned away in disgust
+>Baby stood
+>she took off her socks
+>she unlaced her dress
+>she took off her blouse
+>and petticoats
+>and undershirt
+>and bloomers
+>she was so much smaller without all those layers of clothes
+>delicate, even
+>I ripped my shirt and pants off in a about two seconds
+>she backed over to the bed and sat down
+>I'd never seen her act awkward before
+>I tried not to seem extremely nervous and gross
+>that's not easy to do as a dumpy little fat virgin
+>how do I get the bra off
+>I am gonna touch that boob, god damn it, I've earned it
+>it has snaps in the front
+>oh good, she was prepared I guess
+>pop it open
+>release the breasts
+
+cont
+
