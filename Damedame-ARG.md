@@ -6,7 +6,7 @@ With each new subtitle release, there is usually a locked rar within the video, 
 
 There is also a corpse game going on that will be explained later in the article.
 
-One day, Yotsumoe disappeared, and it seems that the mystery was never solved. It is rumored that the whole thing was just a college psychology experiment. It is also rumored that Yotsumoe was suffering from side-effects from time travel. Regardless of which one is true, the ARG seems to have ended. Allegedly Yotsumoe and Maddie are both floating around in hell somewhere. 
+One day, Yotsumoe disappeared, and it seems that the mystery was never solved. It is rumored that the whole thing was just a college psychology experiment. It is also rumored that Yotsumoe was suffering from side-effects from time travel. It's also possible that /a/ had lost the game. Regardless of which one of these stories is true, the ARG has ended. Allegedly Yotsumoe and Maddie are both floating around in hell somewhere. 
 
 There was apparently a small game by Erika, an anti-DameDame! spy, but that was probably a while ago.
 
