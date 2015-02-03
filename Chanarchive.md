@@ -12,7 +12,7 @@ The Bibliotheca Anonoma, in a new attempt at Internet Archeology, is attempting 
 
 * 2006 - The 4chanarchive is founded.
 * 2011-02-17 - [4chanarchive is transformed](https://web.archive.org/web/20120511204219/http://4chanarchive.org/) into the Chanarchive.
-* 2012-02-11 - The original owner of Chanarchive [announces that it must shut down](http://imgur.com/zd0Pj), due to lack of funding. [Edgeworth E. Euler](http://www.reddit.com/r/4chan/comments/12iptp/4chanarchive_and_chanarchiveorg_is_dead/) and other members of Anonymous and the ED Archival Team convince him to provide them with backups of the site.
+* 2012-02-11 - The original owner of Chanarchive [announces that it must shut down](http://imgur.com/zd0Pj), due to lack of funding. [Edgeworth E. Euler](http://www.reddit.com/r/4chan/comments/12iptp/4chanarchive_and_chanarchiveorg_is_dead/) and other members of Anonymous and the ED Archival Team [convince him to provide them with backups of the site.](https://archive.moe/q/thread/264159/#q264667)
 * **2012** - Edgeworth E. Euler and the rest of the ED Archival Team take full ownership of Chanarchive and restores it to working order. The Bibliotheca Anonoma attempted to request an archive be backed up somewhere safe, but does not succeed (lacking a place to put it).
 * **2014-06-02** - A moderator of Chanarchive [announces that the website has been lost entirely](https://www.facebook.com/chanarchive/posts/865975716765277). Because the owner of the hard disks, Edgeworth E. Euler [with his SRSVPS account](http://www.ripoffreport.com/r/srsvpscom/internet/srsvpscom-A-letter-forwarded-to-me-from-Sweden-Dedicated-indicates-Encyclopedia-Dramatica-904557), is MIA, the hard drives cannot be legally accessed and are presumed to have been scrapped or wiped.
 
