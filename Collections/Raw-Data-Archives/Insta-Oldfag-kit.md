@@ -162,3 +162,8 @@ All files are either .jpg .png .gif .txt or .swf (.swf files only in the flash m
 There are no .exe, .js, .zip or .rar files in this kit. The kit is NOT archived and you will be able to see every item before downloading, and each item will appear on your drive as it is downloaded. This distribution is virus free... check for yourself! >>>/g/ recommends Commonsense 2011 Special Edition and MSE. Enjoy your aids!
 
 * Since this is a large open directory and not a single file, it is not practical to include a MD5 sum.
+
+## Sources
+
+* [Intro Pastebin](http://pastebin.com/3k1QFWvN)
+* [Listing Pastebin](http://pastebin.com/tiiahjyG)
