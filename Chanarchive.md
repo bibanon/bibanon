@@ -1,10 +1,12 @@
 > **Notice:** The modern successor to the Chanarchive is [the 4archive.](http://4archive.org) Nowhere near as good, but it's something where you can submit threads to be slurped down.
 
-**The Chanarchive** (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It contained somewhere from 15,000-20,000 threads.
+**The Chanarchive** (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It was created by an anon known as **capsized**, and contained somewhere from 15,000-20,000 threads.
 
 Users could request and vote that a thread be archived, and it worked for every single board on 4chan. This made it an incredibly important repository of 4chan's threads from 2006-2013.
 
-Unfortunately, it was lost when Edgeworth E. Euler, the final owner, became MIA (he may have been arrested for his connections to LulzSec). The site eventually shut down when one hard drive got busted, and the admins could do nothing, as the data access passwords were taken by Edgeworth to his grave.  
+**Capsized** eventually decided to close the site on 2012, but a group of anons that recovered Encyclopedia Dramatica, including **Edgeworth E. Euler**, convinced him to transfer the 500GB archive to them. Unfortunately, it was permanently lost when **Edgeworth E. Euler**, the final owner, became MIA around June 2014 (he may have been arrested for his connections to LulzSec). 
+
+The site eventually shut down when one hard drive got busted, and the admins could do nothing, as the data access passwords were taken by Edgeworth to his grave.  
 
 The Bibliotheca Anonoma, in a new attempt at Internet Archeology, is attempting to catalogue the threads that were on this Library of Alexandria, and perhaps resurrect a significant portion from the many snapshots at the Internet Archive. But we can't bring back everything, especially not the images.
 
