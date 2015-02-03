@@ -494,3 +494,203 @@ The entire album can be downloaded [here](http://www.mediafire.com/?n8r9efgxdcuy
 1. I don't know what album, but this remix of songs already on the list: anoNymous - Copy Pasta, Link:  <http://www.youtube.com/watch?v=M0diab9LNJ0&NR=1&feature=fvwp>
 1. Conspicuous lack of misogyny.
 1. Double Rainbow!!! - <http://www.youtube.com/watch?v=MX0D4oZwCsA>
+
+## 4chan: Glory to the Internet Machine
+
+4chan Mix-Tape
+
+*= /a/-sides
+**= /b/-sides
+
+Google Docs:
+
+```
+/a/     *-Code Geass Lost Colors (JJJIIIIBBBBBAAAANNN WWWWWOOOOOO)
+        **-3D Can't Beat A Waifu
+        
+/b/     *- El Mudo - Macarron Chacarron
+        **- Noobdaddy Plays the Cello
+        
+/c/     *-Sweets Parade ~ CV: Hanazawa Kana ~ Inu X Boku SS ED 3 
+        **- M.O.E.
+        
+/d/     *-Mason vs. Princess Superstar - Perfect (Exceeder) 
+        **- Transphobic Techno (Bitch Got a Penis)
+
+/e/     *sora no otoshimono ed 2
+        **- Royal Republic - Underwear
+
+/f/     *-DMX- Where Da Hood At?-  
+        **-Loli Catgirls [Infected Mushroom - I Wish (Skazi Remix)]
+
+/g/     *-Richard Stallman - Free Software Song 
+        **-GNU/Stallmanquest
+        
+/gif/ *-Jiffy Lube Commercial 
+        ** Gorillaz - Feel Good Inc ft. De La Soul 
+
+/h/     *-Don't Be Afraid To...
+        **-A HEAT FOR ALL SEASONS" Hentai Anime OST~ Closing Theme
+
+/hr/*-Poco - I Can See Everything 
+        **-4u2nV feat. Nokturnal - Pictures Worth A Thousand Words
+
+/k/ *-WH - Violating OPSE/k/ 
+        **-roland the headless thompson gunner 
+
+/m/     *-Ragtime Revolutionaries-Chicks Dig Giant Robots
+        **-TROMBE! (Remix) 
+
+/o/     *-Initial D - Running in The 90s
+        **-Rad Racer
+
+/p/     *-KAMON!!! feat. Richard Gorn - Camera
+        **-Def Leppard - Photograph 
+
+/r/     *-Whatta Ya Buyin?
+        **- Eve - Got What You Need
+
+/s/     *- Yung Berg Ft. Junior & T.I. - Sexy Lady (Reggaeton Remix)
+        ** - LEMME SMANG IT
+
+/t/     *-You are a Pirate
+        **-Don't Download This Song
+
+/u/     *-Magnet
+        **-agony : KOTOKO Kannazuki no Miko ED
+
+/v/     *-Row Row Fight The Power
+        **-galo sengen
+
+/vg/*-Dream Theater - Octavarium (Full Circle)
+        **-G4M38L0RG
+
+/w/     *-Gumi - Route Sphere
+        **- 02-Distant Everyday Memories 
+
+/wg/*-Turnabout Jazz Soul - Track 8 - Godot - The Fragrance of Dark Coffee
+        **-'The Eagle's Journey of the Sorcerer' by the Eagles
+
+/i/     *-Hidamari Sketch OP
+        **-Scribblenauts main theme
+
+/ic/*-Two Steps From Hell- Strength of A Thousand Men
+        **-Aye! for Killing in the Name of.
+
+/r9k/*-Slaid Cleaves: One Good Year 
+         **-Youth - Daughter 
+
+/cm/*-TVXQ! Balloons
+        **-Panic! at the Disco - London Beckoned Songs About Money Written By Machines 
+
+/hm/*-ELECTRIC SIX - Gay Bar 
+        **-Fuck You Fuck You Fuck
+
+/y/     *-gay boyfriend by the hazzards
+        **-Tatu- Malchik Gay:
+
+/3/     *-Architecture In Helsinki - One Heavy February 
+        **- State of Mind & Sacha Vee - Three Dimensions (Neonlight Remix)
+
+/adv/*-99 Problems
+         **-Parappa the Rapper- Instructor Mooselini Rap
+
+/an/*-Govinda - Comfortable Zone
+        **- Silent Hill 2 Secret Ending
+
+/cgl/*-[MMD] Gumi - Be Myself 
+        **-Koolfox's remix of Throw It In The Bag.
+        
+/ck/*- Hot Drinks
+        **-Jet Set Radio Future (Birthday Cake)
+
+/co/*-BTAS Theme
+        **-This Vicious Cabaret 
+
+/diy/*Weird-Al- the hardware store
+         **- Gloria Gaynor - Do It Yourself (1975)
+
+/fa/*-Being a Dickhead's Cool
+        **-Sébastien Tellier - Look 
+
+/fit/*-Luke Million - Arnold
+         **-Deshi Basara - The Dark Knight Rises Soundtrack - BANE Theme - Hans Zimmer
+
+/hc/*-Fuck the Pain Away by Peaches
+        **-  E-rotic-Sexmachine 
+
+/int/*-Remove kebab / tupac serbia 
+         **-Defending Kebab Theme
+
+/jp/*- /jp/ Themesong 2
+        **-Hikonin Sentai Akibaranger ED Ashita wa Akiba no Kaze ga Fuku (Akiba's Wind will Blow Tomorrow) 
+
+/lit/*-William Burroughs - Did I Ever Tell You About The Man That Taught His Asshole To Talk?
+         **-LAURIE ANDERSON - LANGUAGE IS A VIRUS
+
+/mlp/*- The Lovin' Spoonful- Do You Believe In Magic?
+         **-Voltaire - Riding a Black Unicorn
+
+/mu/*Neutral Milk Hotel-King of Carrot Flowers (pt.2&3)
+        **Psycocis- King of Jesus Walks (pt. 2&3)
+
+/n/     *-The Mixtures - Pushbike Song
+        **-I LIKE TRAINS
+
+/po/*-Stuart Dempster - Conch Calling 
+        **-The Paper Kites - Featherstone
+
+/pol/*-Waffen SS - Erika 
+         **-If I were a Rothschild 
+
+/sci/*-Carl Sagan - 'A Glorious Dawn' ft Stephen Hawking (Symphony of Science) 
+         **-DJ Abunai - Bill Nye (Original Mix)
+
+/soc/*-Petey Pablo-Show Me Dat Body You Got
+         **-XV - T.A.L.K (They Act Like Kids)
+
+/sp/*-Space Jam Theme Song 
+        *-Wave Your Flag: K'naan & Nancy Ajram: world cup 2010 
+        **- Slamdoka Magicjam - Quad City DJs vs Kalafina
+
+/tg/*-Mark Silverman - Medieval People
+        **-We are his Hammer - Warhammer 40K 
+
+/toy/*You've Got a Friend in Me
+         **- Stan Bush - You've Got The Touch (Transformers 1986)
+
+/trv/*-Avalanches -Since I Left You
+         **-Oasis - Half The World Away
+
+/tv/*-"real human bean" song
+        **- Experimental Film
+
+/vp/*-Pokemon XD- Miror B Battle Theme
+        **-Pokemon R/S/E Champion theme: Every instrument replaced with trumpets
+
+/wsg/*-Ready to Die- Andrew W.K
+         **Psy - Gangnam Style
+
+/x/     *-Yume Nikki - Ghost town theme.
+        **-XpookyXcaryXkeletons.avi 
+
+/rs/*-Queen - I Want It All 
+        **-OoT Shop Theme
+
+/q/     *-Groucho Marx - I'm Against It 
+        **-It's Okay To Not Like Things
+
+/j/     **-Doctor Who -  The Dalek Theme
+        
+/mod/**Slayer - God Hates Us All - God Send Death
+
+/admin/**Händel Messiah - Hallelujah Chorus (m00t's theme)
+
+/skit/*-The Pacific - Meet Tojo.
+          **-/v/ never changes 
+
+/other/ *-Bye, Bye, to the 4chan Website
+                **-Eminem - Lose Yourself
+                **-Super Mario Bros. 2 Theme
+                **Lulz A Corruption of LOL - 02 - Corruption
+```
