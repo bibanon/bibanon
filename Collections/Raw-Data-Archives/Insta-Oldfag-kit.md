@@ -1,5 +1,7 @@
 A zipped up file of various images of importance from 4chan.This collection can be downloaded at [[Torrents]].
 
+[This project](https://warosu.org/g/thread/19412104) was announced on /g/ in 2011.
+
 ## Letter from the Author
 
 The Insta-Oldfag Kit TM (version 1.0)*
