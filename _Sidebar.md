@@ -20,6 +20,7 @@ Bibliotheca Anonoma
 * [[Cheerios]]
 * [[Tramp Anon]]
 * [[Sweet Home 1985]]
+* [[Horrible Monster]]
 * [[Blindmute Loli]]
 * [[The Liliad]]
 * [[Damaged Goods]]
