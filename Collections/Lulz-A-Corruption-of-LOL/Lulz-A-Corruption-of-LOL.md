@@ -495,7 +495,7 @@ The entire album can be downloaded [here](http://www.mediafire.com/?n8r9efgxdcuy
 1. Conspicuous lack of misogyny.
 1. Double Rainbow!!! - <http://www.youtube.com/watch?v=MX0D4oZwCsA>
 
-## 4chan: Glory to the Internet Machine
+## 4chan: Glory to the Internet Hate Machine
 
 4chan Mix-Tape
 
