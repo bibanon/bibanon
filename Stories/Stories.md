@@ -76,6 +76,7 @@ These stories will make you hurl.
 ## [[2channel]]
 
 * **[[Densha Otoko]]** - A sentimental love story of a fashionable businesswoman and an awkward nerd, who posted his story real time to the users of [[2channel]] (a direct ancestor to [[4chan]]). With the steadfast support of these users, he manages to get the courage to break out of his shell and go out with the girl. There's a good reason why it became 2005's most popular book, movie, and TV Drama in Japan.
+* [[Chikan Otoko]] - An innocent 2ch user accidentally gets mistaken for a Train molester, though he survives the experience with a bit of charm.  
 * [The Story of Denko](http://github.com/bibanon/bibanon/wiki/Denko) - (´･ω･`)
 
 ## [[Reddit]]
