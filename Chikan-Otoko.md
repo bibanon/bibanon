@@ -1,4 +1,4 @@
-In 2005, an innocent 2ch user is mistaken for a 痴漢 (Train Molester), but manages to survive the accusation with a bit of charm. He becomes unfittingly dubbed the 痴漢男 (Chikan Otoko), or "Molester Man" (in a reference to [[Densha Otoko]]), and the woman (Miss Understanding), or Miss Undies for short (wtf).
+In 2005, an innocent 2ch user is mistaken for a 痴漢 (Train Molester), but manages to survive the accusation with a bit of charm. He becomes unfittingly dubbed the 痴漢男 (Chikan Otoko), or "Molester Man" (in a reference to [[Densha Otoko]]), and the woman is named (Miss Understanding), or Miss Undies for short (wtf).
 
 Longer description incoming as this is researched, but it had a manga adaptation.
 
