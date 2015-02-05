@@ -37,7 +37,7 @@ This is a subset of the Let's Play (LP) Archive.
 
 | Series	| Type & Link	| Saved yet? By who?	| # of Videos	| Playlist link	|
 |:-------------|:--------------|:--------------------:|--------------:|:------------|
-| Buffalax     | Channel       | All archived but some aren't viewable | ??? | [link](https://www.youtube.com/user/BuffalaxFanboy/videos) |
+| Buffalax     | Channel       | All archived | ??? | [Internet Archive](https://archive.org/details/buffalax) |
 
 * [[Gaming Out Loud]] - An amazing podcast series that went viral on Digg. Not a YouTube video, but we will upload it for future generations to listen to.
 
