@@ -80,6 +80,7 @@ Bibliotheca Anonoma
 ## Website Archives
 
 * [Everything Shii Knows](http://bibanon.org/everything-shii-knows/shii.org/knows/Everything_Shii_Knows.html)
+* [List of 4chan Thread Archive Sites](http://archiveteam.org/index.php?title=4chan)
 * [[Chanarchive]]
 * [Insurgency/Partyvan Wiki](http://insurg.in/index.php?title=Main_Page)
 * [Tanasinn.info Kopipe (Copypasta)](https://github.com/bibanon/Tanasinn-Kopipe/wiki)
