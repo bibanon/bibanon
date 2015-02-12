@@ -8,6 +8,8 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
 
+You can also talk to us at our IRC channel at `irc.rizon.net #bibanon` . And an anonymous textboard is in the works.
+
 ### Introduction to Internet Culture
 
 The word "culture" holds a connotation of high culture; whatever the winners write in the history books, the artwork in museums that few contemporaries enjoyed, or the literary achievements of an aloof elite. 
