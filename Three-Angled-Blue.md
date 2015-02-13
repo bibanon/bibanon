@@ -71,6 +71,8 @@ EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [[2006's /b/
 Check out the comic series, and the equally impressive flash adaptation in the links below.
 
 * [EPIC FRUSTRATION - Original Comic Series](https://encyclopediadramatica.se/RAGE#Epic_Frustration_Comic)
+* [EPIC FRUSTRATION - Alternate Ending](http://dis.4chanhouse.org/comic/res/21.html#38) - You might have the first 15 pages of V-rage. But did you know there was an alternate ending, where he fought W.T. Snacks?
+  * [Bullshit ending to V-rage](http://swfchan.com/9/43315/?Bullshit_ending_to_V_vs_AR_by_3_Angled_Blue.swf) - The author probably gave up on continuing the alternate ending, and released this unfinished Flash instead.
 * [/v/-rage - Flash Adaptation](http://swfchan.com/9/43253/?V-rage.swf) - [YouTube](http://www.youtube.com/watch?v=YVys7jcCJDs) - Created by NCH.
 
 ## Influence
@@ -101,3 +103,4 @@ Project Hate Machine is a fighting game collaboratively produced by anons that p
 * [4chanhouse - Collection of 3-Angled-Blue Comics](http://dis.4chanhouse.org/comic/res/21.html)
 * [Know Your Meme - Trollbait: Nobody is Right](http://knowyourmeme.com/memes/trollbait-nobody-is-right)
 * [FunnyJunk - Remembering Three Angled Blue](http://www.funnyjunk.com/I+lost+my+repel/funny-pictures/5028276/3)
+* [4chanhouse Shimmie - EPIC FRUSTRATION Complete Series](http://shimmie.4chanhouse.org/index.php?q=/post/list/frustration/)
