@@ -95,6 +95,7 @@ Project Hate Machine is a fighting game collaboratively produced by anons that p
 
 * [Project Hate Machine - Introduction](http://hatemachineproject.blogspot.com/)
 * [Project Hate Machine - Google Doc](https://docs.google.com/document/d/1I4rRCwuolxegQRNYqtw8koYV7aczBfYXqaag9nxO514/)
+* [4chanhouse Project Thread](http://dis.4chanhouse.org/gen/res/331.html)
 
 ## Sources
 
