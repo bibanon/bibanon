@@ -4,7 +4,7 @@
 
 Despite what you may believe, once upon a time, there was an age when rage comics were good. They were detailed prints that distilled powerful action scenes and striking faces twisted in anger, reminiscent of Jojo's Bizarre Adventure. 
 
-[[http://i.imgur.com/9GOY3kw.png|height=400px|width=400px]]
+[[http://i.imgur.com/9GOY3kw.png|height=400px|width=550px]]
 
 They satirized the inane discussions by trolls who troll the trolls.
 
