@@ -12,27 +12,25 @@ As the events unfold, the magic of the story somehow enchanted the cold heart of
 
 It does more than just tell a riveting tale about one guy and a girl; it gives a window into what 4chan was, what this influential community became, and what the site truly meant to the users who lurked and posted at the time. 
 
+## [[Chapters|Damaged Goods Chapters]]
+
+With the discovery of the original 4chan threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to, creating a **Remastered Edition** that brings a new angle of the story. *These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.*
+
+There are 23 chapters/threads in this story. These have been completely restored and granted addenum chapters from the Remastering Project. Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
+
+Click the link below to start reading.
+
+[[Damaged Goods (Remastered Edition)|Damaged Goods Chapters]]
+
 ## Saving the story
 
 A (non)Danish anon known as [[Sarafan]] followed the threads in real time as the story unfolded, and worked tirelessly to save the story for future generations.
 
-The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entirety of the wikipages beforehand.
+The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entirety of the wikipages beforehand, until his website was itself shut down.
 
-The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve, which the Bibliotheca Anonoma discoverd 2 days before Megaupload's infamous takedown.
+The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve.
 
-### Bibliotheca Anonoma Remastering Project
-
-With the discovery of the original threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to. These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.
-
-## Chapters
-
-Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
-
-There are 23 chapters/threads in this story. These have been throughly restored and granted addenum chapters from the Remastering Project.
-
-Click the link below to start reading.
-
-[[Damaged Goods Chapters]]
+The Bibliotheca Anonoma discovered this complete 4chan thread archive out of serendipity, 2 days before Megaupload's infamous takedown. 
 
 ## Reactions
 
