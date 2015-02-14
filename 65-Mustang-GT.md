@@ -1,4 +1,4 @@
-A story about a 24-year old classic car restorer, who is given the responsibility of looking after a neighbor's kid, Rachel. They eventually become the best of friends, working together to rebuild a '66 Mustang GT Coupe. But time stops for no man, and those nostalgic days simply can't last forever.
+A story about a 24-year old classic car restorer, who is given the responsibility of looking after a neighbor's kid, Rachel. They eventually become the best of friends, working together to rebuild a '65 Mustang GT Coupe. But time stops for no man, and those nostalgic days simply can't last forever.
 
 ## The 8 Year-old Girl Next Door Just Broke My Heart
 
