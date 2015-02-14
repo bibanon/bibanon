@@ -37,6 +37,7 @@ Bibliotheca Anonoma
 * **[[Three Angled Blue]]**
 * [[Hiimdaisy]]
 * [[Nuzlocke Challenge]]
+* [[Jon Rafman]]
 * [[Webcomics]]
 * [[YouTube Strategic Defense Initiative]]
 
