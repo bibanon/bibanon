@@ -80,8 +80,7 @@ You could ask if you could still babysit... If the parents aren't moving far awa
 
 This.  It might be easiest to stay in her life if you can keep in touch with her parents.  **Friend Mom on Facebook before she moves** and keep in touch.  You'll probably have to put in most of the legwork to do it, but do what you can to stay visible in Mom's life -- she trusts you, clearly, and if you can stick around in her life it'll make it that much easier to stay in touch with Rachel.
 
-### 
-
+### [OG_Ace](http://www.reddit.com/r/offmychest/comments/2c6qiq/the_8_year_old_girl_next_door_just_broke_my_heart/cjcv1a9)
 
 Make sure you ask both parents where you can send her details on the progress on the car. No matter how shitty of a parent one can be, I cannot imagine they would refuse that. If worst comes to worse, you could make a blog dedicated to her and both of you guys' project. Everyday or every week, you take meaningful pictures of the car or parts and tools with your dirty hands. Have the date. Include the outside of the garage with the sun or lack of sun, the rain, or whatever she would see on that day. Try to keep it natural, like she was already there and you didn't have to emphasis much, because she would already understand your jokes, and you can be instructive as if she was there. Teach her a tool she hasn't learned yet. Car parts. Try not to be obsessive about loving her, though.
 
@@ -89,3 +88,6 @@ Just be yourself.
 
 One of these days, she'll look online to learn more about this passion of cars, or whatever, and she will most likely find your blog. Maybe not for a decade, but then she'll email you and you can be a slab of solid ground again. The earlier she gets in contact with you the better. I feel probably what you feel: neither parent of hers is competent. You have to be like that awesome uncle, that will probably be hard to see because her parents won't let her go and see you. Tough situation. Beyond me. Good luck, bro.
 
+### [Upvoters for Truth](http://www.reddit.com/r/offmychest/comments/2c6qiq/the_8_year_old_girl_next_door_just_broke_my_heart/cjcxcvh)
+
+This is a fantastic idea. So unintrusive but let's her know she's still part of something.
