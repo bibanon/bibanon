@@ -4,7 +4,7 @@ His art brings us the true horror of a digital cyberpunk hell that many fellow p
 
 And that... is what art is all about.
 
->fear the hikkomori, the hoarder, the unkempt and the despairing
+>fear the hikkomori, the hoarder, the unkempt and the despairing  
 >for you are only a few steps away from stepping into their position
 
 ## Sources
