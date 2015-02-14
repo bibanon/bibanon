@@ -1,4 +1,4 @@
-The **[[Bibliotheca Anonoma]]** is a Github [[Gollum]]-based wiki designed to collect, document, and safeguard the products and history of internet culture; which constitutes **the shared experience of mankind on a network that defines our lives**. 
+The **Bibliotheca Anonoma** is an organization tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife:*  The shared experiences of mankind in a wonderous network, that has bore civilizations, culture, trade... and warfare.
 
 ---
 
