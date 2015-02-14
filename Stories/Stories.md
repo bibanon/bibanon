@@ -81,7 +81,7 @@ These stories will make you hurl.
 
 ## [[Reddit]]
 
-* [[66 Mustang GT]] - A story about a 24-year old classic car restorer, who is given the responsibility of looking after a neighbor's kid, Rachel. They eventually become the best of friends, working together to rebuild a '66 Mustang GT Coupe. But time stops for no man, and those nostalgic days simply can't last forever.
+* [[65 Mustang GT]] - A story about a 24-year old classic car restorer, who is given the responsibility of looking after a neighbor's kid, Rachel. They eventually become the best of friends, working together to rebuild a '65 Mustang GT Coupe. But time stops for no man, and those nostalgic days simply can't last forever.
 * [[The iPhone Scalper]] - Marc Rebillet happens to be first in line for an iPhone, when an eBay scalper offers him $800 for his spot, planning to buy out the entire store's $100,000 worth of iPhones and sell them at extreme markup. But she probably should have read that only one iPhone should be sold per customer. And Marc happened to be have friends who were 10th in line, so they got 2 iPhones and were $800 richer. 
 * **[[Rome Sweet Rome]]** - A story of what happens when an American Battalion suddenly finds themselves in the Roman Empire. It got a huge following in it's initial release, and even a movie deal.
 * **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
