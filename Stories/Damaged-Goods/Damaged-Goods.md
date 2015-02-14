@@ -28,9 +28,9 @@ A (non)Danish anon known as [[Sarafan]] followed the threads in real time as the
 
 The threads were documented in real time on [[Wikichan]], where it was dubbed "Damaged Goods". However after a server crash, all of the fanart was lost and the story was almost lost forever. Thankfully, [[Shii]] managed to save the entirety of the wikipages beforehand, until his website was itself shut down.
 
-The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve.
+The original threads were uploaded to temporary download sites where they were soon lost, but Sarafan had a long-lost archive with everything in it up his sleeve. The Bibliotheca Anonoma discovered [Sarafan's complete 4chan thread archive](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z) out of serendipity, 2 days before Megaupload's infamous takedown. 
 
-The Bibliotheca Anonoma discovered this complete 4chan thread archive out of serendipity, 2 days before Megaupload's infamous takedown. 
+And from there, we have created the **Remastered Edition**, restoring the story to it's original glory.
 
 ## Reactions
 
