@@ -12,9 +12,9 @@ As the events unfold, the magic of the story somehow enchanted the cold heart of
 
 It does more than just tell a riveting tale about one guy and a girl; it gives a window into what 4chan was, what this influential community became, and what the site truly meant to the users who lurked and posted at the time. 
 
-## [[Chapters|Damaged Goods Chapters]]
+## Chapters
 
-With the discovery of the original 4chan threads that Sarafan transcribed the story from, we can fill in the blanks as to exactly who and what Nurse-kun was replying to, creating a **Remastered Edition** that brings a new angle of the story. *These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.*
+With the discovery of the [all the original 4chan threads](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z), we can fill in the blanks as to exactly who and what Nurse-kun was replying to, creating a **Remastered Edition** that brings a new angle of the story. *These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.*
 
 There are 23 chapters/threads in this story. These have been completely restored and granted addenum chapters from the Remastering Project. Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
 
