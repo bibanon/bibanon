@@ -16,7 +16,7 @@ It does more than just tell a riveting tale about one guy and a girl; it gives a
 
 With the discovery of the [all the original 4chan threads](https://dl.dropboxusercontent.com/u/22186524/Wikichan-Damaged-Goods-Archive.7z), we can fill in the blanks as to exactly who and what Nurse-kun was replying to, creating a **Remastered Edition** that brings a new angle of the story. *These had previously been omitted, due to Wikichan's mad rush to winnow out the story from the trolling.*
 
-There are 23 chapters/threads in this story. These have been completely restored and granted addenum chapters from the Remastering Project. Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
+There are 23 chapters/threads in this story. Nurse-kun's first post on [[4chan]]'s /b/ appeared on the 17th of December, 2006, and had been updated regularly thereafter until June 2nd of 2007, when the posting stopped abruptly. 
 
 Click the link below to start reading.
 
