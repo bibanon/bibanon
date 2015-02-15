@@ -37,6 +37,8 @@ Stories that will leave you crying.
   * He faces tremendous pain and struggle in a vicious cycle of poverty, relying only on his will to survive. But one day, an immigrant girl decides to cut him some slack when no one else would, and bring him back to a normal life.
 * **[[Cool Story Bro]]** - When an anon from /r9k/ opens his door one fine day, he sees a woman on her knees, begging him for help; one that betrayed his love, shattered his trust, and stole from his family. 
   * And despite the odds, Dan, conflicted between deep-seated hatred and lingering love, reluctantly gives a safe haven to a woman whose transgressions he once deemed "unforgivable".
+* **[[Ella]]** - In high school, an anon and a bro is instantly mesmerized by the "girl next door": Ella. The bro, named Pete, enrolls in a fashion class to have something to talk about with her,  and ends up knowing more about fashion than most seniors do about economics. But fearing that they might be perceived as a "gay couple" for spontaneous interest, they develop some kind of "manly handshake": A douchebag version of Cirque du Soleil. It was embarrassing, but she caught on to his unrequited love... and decided to ask him out on a date, and they hit it off.
+  * It's one of these amazing Hollywood/HBO-quality stories with temptations, love triangles, twists and turns, drama, tragedy, and obviously intercourse. But at the end of it all, it's better to have loved... than to never have loved at all.
 
 ### The Forbidden Fruit
 
@@ -51,6 +53,7 @@ Stories told of trials and tribulations, faced by those anons whose love is not 
 * **[[Amy-&-Cam]]** - A /b/tard ends up humoring his little sister's crush on him, fending off her jealousy and his own cheesy remarks to build a rather cuddly relationship. 
 
 ### Little Bit of Everything
+
 Feel like fapping, laughing and crying at the same time? These are for you.
 
 * **[[Storybro's Magically Lewd Sleepover Adventure]]** - An anon tells a tale of a sleepover he was lucky enough to attend with five teenage women. 
