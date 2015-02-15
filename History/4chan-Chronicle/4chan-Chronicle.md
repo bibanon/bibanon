@@ -1,8 +1,8 @@
 ![](http://i.imgur.com/JyBuRUP.png)
 
-[[4chan]] is hands-down one of the most interesting and influential websites ever created. It functions as the wellspring of modern internet culture; the ultimate source for most the Internet's memes. It also works as a beacon of anonymity and honest (but not to goodness) discussion in a world that is ever more socially invasive.
+[[4chan]] is hands-down one of the most interesting and influential websites ever created. It functions as the wellspring of modern internet culture; an unexpected production center for many of the Internet's memes. It also works as a beacon of anonymity and honest (but not to goodness) discussion in a world that is ever more socially invasive.
 
-The site influenced a new generation of major Internet figures and coders, continues to birth to memes that are now common staples on most major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
+The site influenced generations of major Internet figures and coders, continues to give birth to memes that are staples of major websites and even common speech, and cultivated a flock of loosely organized people led only by a common goal, known as [[Anonymous]].
 
 This Chronicle is designed to create a serious, well sourced history book about this ephermeral community. As of now, it includes a summary of the site's history down to it's foundation in October 1, 2003.
 
