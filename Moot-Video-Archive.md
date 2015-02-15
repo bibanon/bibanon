@@ -42,8 +42,8 @@ Some of them have been uploaded to the Internet Archive, thankfully. But others 
 
 ### Time 100
 
-* 99.09MB Time 100/When 4Chan Gamed the Time 100.mp4
-* 58.98MB Time 100/The 2009 TIME 100 Red Carpet.mp4
+* [99.09MB Time 100/When 4Chan Gamed the Time 100.mp4](http://content.time.com/time/video/player/0,32068,79177365001_1983486,00.html)
+* [58.98MB Time 100/The 2009 TIME 100 Red Carpet.mp4](http://www.youtube.com/watch?v=n0XAT4gQk1M)
 
 ### Other Stuff
 
@@ -51,7 +51,7 @@ Some of them have been uploaded to the Internet Archive, thankfully. But others 
   * [Part 1](https://www.youtube.com/watch?v=PtTR7hbR3tM) - Might be missing some stuff...
   * [Part 2](https://www.youtube.com/watch?v=BM63uMBpUNQ) - Nice of him to provide subtitles.
 * [176.53MB TED/moot at TED2010 - The Case for Anonymity Online.mp4](https://www.youtube.com/watch?v=a_1UEAGCo30)
-* 16.95MB CNN/Anonymity Is a 'moot' Point.flv
+* [16.95MB CNN/Anonymity Is a 'moot' Point.flv](https://www.youtube.com/watch?v=F0OQPLtZdeU)
 
 ### Reupload
 
@@ -60,7 +60,7 @@ Some of them have been uploaded to the Internet Archive, thankfully. But others 
 * 76.32MB Paraflows/Paraflows 09 - moot - How NOT to Create a Meme.flv
   * [Photos](https://www.flickr.com/photos/eselat/sets/72157624660465074/)
 * [3.14MB Anime Central/ACen06 - moot Raves!.mp4](https://www.youtube.com/watch?v=LrC4Hr9_VSQ)
-* 788.39KBBerkman@10/The Future of the Internet.mp4
+* [788.39KBBerkman@10/The Future of the Internet.mp4](https://www.youtube.com/watch?v=vG5pxYv4Wp4)
 
 This was the most downloaded video at the Yotsuba Society back in the day. Wonder why it was never sent back up. Thankfully, someone had the same idea.
 
