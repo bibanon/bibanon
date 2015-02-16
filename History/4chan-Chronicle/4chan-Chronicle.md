@@ -67,7 +67,7 @@ Individual pages and archives threads about 4chan.
 
 * http://wakaba.c3.cx/s/web/wakaba_kareha.html - The source codes for Kareha and Wakaba, including extra info on Futaba and Futallaby.
 * http://www.1chan.net/ and http://www.1chan.net/futallaby/ - thatdog’s 1chan net, that hosts his old code Futallaby.
-* http://www.statemaster.com/encyclopedia/5chan - Generic info on imageboards and small tidbits about the old chans of 2004.
+* [Statemaster - 5chan](https://archive.today/ivsMg) - Generic info on imageboards and small tidbits about the old chans of 2004.
 * http://www.chemistrydaily.com/chemistry/Imageboard#4chan – An archive of 4chan’s old wikipedia page, comes along with http://www.chemistrydaily.com/chemistry/Talk:4chan and http://www.chemistrydaily.com/chemistry/Talk:4chan/delete.
 * http://web.archive.org/web/20031202172011/world2ch.net/world2ch.html - Wayback Machine’s archived site of world2ch.
 * http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm - Wayback Machine’s archived site of 4chan during 2003.
