@@ -1430,6 +1430,8 @@ pic related, letter and the cd case
 and this is the end of my story...
 
 ## Sources
+* Pastebin
+ * (http://pastebin.com/7H7SJwNd)
 
 * Screencaps
   * [ella](https://cloud.githubusercontent.com/assets/7390577/6205365/50393e9a-b520-11e4-8bdc-155a4615f5e7.jpg)
