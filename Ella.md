@@ -1,6 +1,11 @@
+  * [Greentext Screencap](https://cloud.githubusercontent.com/assets/7390577/6205364/50269f4c-b520-11e4-87ba-a1dcd59d25a8.jpg)
+
+
+
 [[http://i.imgur.com/5l98Qw2.jpg|height=300px|width=500px]]
 
 *pic is unrelated random chick.*
+
 
 this is my story /b/...
 
