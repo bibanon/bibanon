@@ -1,5 +1,6 @@
-http://i.imgur.com/5l98Qw2.jpg
+[[http://i.imgur.com/5l98Qw2.jpg|height=300px|width=500px]]
 
+*pic is unrelated random chick.*
 
 this is my story /b/...
 
@@ -40,7 +41,6 @@ fast forward a couple of months
 > \>sitting just a couple feet away from us  
 > \>yeah... so.. "fuck me..." was the correct response in that situation  
 
-pic is unrelated random chick.
 > \>after the class  
 > \>to this day i cant for the life of me remember what the fuck it was about  
 > \>we were already orbiting her like some lousy asteroids stuck to a massive black hole  
