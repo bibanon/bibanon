@@ -68,12 +68,12 @@ Individual pages and archives threads about 4chan.
 * http://wakaba.c3.cx/s/web/wakaba_kareha.html - The source codes for Kareha and Wakaba, including extra info on Futaba and Futallaby.
 * http://www.1chan.net/ and http://www.1chan.net/futallaby/ - thatdog’s 1chan net, that hosts his old code Futallaby.
 * [Statemaster - 5chan](https://archive.today/ivsMg) - Generic info on imageboards and small tidbits about the old chans of 2004.
-* http://www.chemistrydaily.com/chemistry/Imageboard#4chan – An archive of 4chan’s old wikipedia page, comes along with http://www.chemistrydaily.com/chemistry/Talk:4chan and http://www.chemistrydaily.com/chemistry/Talk:4chan/delete.
-* http://web.archive.org/web/20031202172011/world2ch.net/world2ch.html - Wayback Machine’s archived site of world2ch.
-* http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm - Wayback Machine’s archived site of 4chan during 2003.
+* [Chemistry Daily - Imageboard](https://web.archive.org/web/20120502135140/http://www.chemistrydaily.com/chemistry/Imageboard) – An archive of 4chan’s old wikipedia page, comes along with http://www.chemistrydaily.com/chemistry/Talk:4chan and http://www.chemistrydaily.com/chemistry/Talk:4chan/delete (now lost?).
+* [World2ch.net](http://web.archive.org/web/20031202172011/world2ch.net/world2ch.html) - Wayback Machine’s archived site of world2ch.
+* [4chan.net](http://web.archive.org/web/20031008225412/http://img.4chan.net/b/imgboard.htm) - Wayback Machine’s archived site of 4chan during 2003.
 * [[WikiWorld 4chan Article]] – [An old article about 4chan](http://wikiworld.com/wiki/index.php?title=4chan&oldid=5249), extremely detailed about it’s old 2004-2006 culture. Archived at the Bibliotheca Anonoma.
 * http://s3.invisionfree.com/Project_4chan/ar/t7.htm - Board addition/removal history.
-* http://web.archive.org/web/20130727073226/http://www.music.us/education/4/4chan.htm - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan.
+* [Music.us - 4chan](http://web.archive.org/web/20130727073226/http://www.music.us/education/4/4chan.htm) - Not a source I used in this .doc, though related. It essentially explains all the memes that were present during 2003 and 2004, both from 4chan and those imported from its parent sites. Further research shows that it was an early (Probably the earliest) article on wikipedia about 4chan.
 * http://macrochan.org/tagTree.php - An astonishing amount of old memes separated by tags, some of which are pretty much forgotten. We could actually bring some of these back and start a retro trend in 4chan.
 * http://images.mackanzoor.com/CHAN/1.html - A smaller Macrochan
 * http://shimmie.4chanhouse.org/index.php?q=/post/list - Same as above, but dedicated to board-tans
