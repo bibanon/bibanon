@@ -1,4 +1,5 @@
-![ella 2](https://cloud.githubusercontent.com/assets/7390577/6205364/50269f4c-b520-11e4-87ba-a1dcd59d25a8.jpg)
+http://i.imgur.com/5l98Qw2.jpg
+
 
 this is my story /b/...
 
@@ -1428,5 +1429,11 @@ pic related, letter and the cd case
 
 and this is the end of my story...
 
-![ella](https://cloud.githubusercontent.com/assets/7390577/6205365/50393e9a-b520-11e4-8bdc-155a4615f5e7.jpg)
+## Sources
 
+* Screencaps
+  * [ella](https://cloud.githubusercontent.com/assets/7390577/6205365/50393e9a-b520-11e4-8bdc-155a4615f5e7.jpg)
+  * [ella 2](https://cloud.githubusercontent.com/assets/7390577/6205364/50269f4c-b520-11e4-87ba-a1dcd59d25a8.jpg)
+* Thread Archives
+  * [4archive - /b/595592516](https://4archive.org/b/thread/595592516)
+  * [fgts.jp - /b/595592516](https://fgts.jp/b/thread/595592516/) - IRC login required.
