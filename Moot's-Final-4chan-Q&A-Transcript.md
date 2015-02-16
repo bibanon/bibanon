@@ -386,6 +386,51 @@ Automatically generated YouTube transcripts (for the next 7 hours) can be read, 
 
 ### 3:00 - 3:10
 
+(...)see how things goes.
+*drinks*
+
+* **03:00:08** Now >>1097 asked, "So what are you going to do with /jp/ now? Who is even in charge of it? It's in a mess and they have no idea how to blahblahblah."
+
+* **03:00:16** I mean people have been angry about /jp/ for, since day one, so I don't really know, what to do about that, uh, if you have concrete, again, specific suggestions, they're not quote unquote 'Fix it!', which really doesn't help anybody, feel free to submit them on /feedback or email them to me and I can pass them along but uh, /jp/ as far as I understand, I get far fewer complaints by email now about it or have in the past few months and so to my knowledge it's, y'know, it's fine and I do apologize to you /jp/ for the hordes, the countless people that the (???) 10th anniversary post but uh, it'll(??) clear out within, in a few hours, so I apologize for that though. I hope we can all have a good sense of humor about stuff like that.
+
+* **03:01:36** 'When the inevitable 4chan book gets written, how do you want to be remembered as an administrator? *laughs* When the inevitable 4chan movie gets greenlit, what haircut do you want your portrayer Jesse Eisenberg to wear?" number >>1121.
+
+* **03:01:50** Uh, y'know I kinda pushed against(??) a book for at least, like, 5, 6, 7 years now. I've always said no. If you actually look at it I haven't really given that many talks for the past few years, and uh, if you look at our press page, I haven't really done much press over the past 3½ to 4 years now. The last of there I think (???) live in essentially ignored I mean every press inquiry I've gone about 4chan, I did do press that kinda included 4chan when I was promoting Canvas and DrawQuest because I mean, y'know, that's what journalists were interested in(??) '4chan founder does X', uh and so, I used that as a, to help, y'know, promote the new things I was working on, but um, I haven't done any true 4chan specific press up until Wednesday when I made the announcement, and, y'know, I figured, and the reason for that is, I hate, I actually never done an on-camera, I mean it's not entirely true, I mean I've never done like an on-camera, like on-air interview. I did a half-post live thing for DrawQuest and uh I did, I was kinda duped into doing something for CNN after my TED Talk, but generally, like, I fucking hate being uh, recorded, y'know, audio, I mean, this is like, painful for me to do this, just I hate being recorded, y'know, video, I hate being photographed, like I just don't have any interest in seeing my face in places or on the television, that's why I did really, again I've never done an on-air, y'know, an TV interview, I've declined, I mean, more than one or two hundred opportunities to do so, uh, and, y'know for the most part I haven't really done any interviews because, I just ignore them, because again I think that I've said more or less everything I've had to say about 4chan except for now I guess kinda looking back, but in the past years like, I've talked about it, I've said everything I had to say, there's nothing new to say, 4chan hasn't changed that much and so, there's no point in doing press and so, same thing for a book. I've always just said that I don't have anything to say. And if I did write something it would be something more I think, academic, more kind of a sociological, kind of a y'know this kind of introspective, kind of look back and using y'know social sciences to kind of think back on the evolution of this gray internet community rather than like a lolcats book or something stupid. Uh, and the movie, I don't think that 4chan movies would be even get written, and again I don't think it's the nearly compelling a story as Facebook's founding and so I don't think there's gonna be The Anti-Social Network anytime soon and uh, I would be terrified to see what that movie was like, get it, it's not that interesting- it's kind of a bore, y'know it's just a derpy 15-year-old kid made a website and managed to hang out for 11 years so I don't really see that as the most compelling movie, again if you believe all the crackpot conspiracy theories about 4chan and maybe you'd have an interesting movie but the actual honest you got behind-the-scenes management of the site and all that is not been that gripping, it's just been a long, kind of slow slog.
+
+*drinks*
+
+* **03:04:45** "Have you thought about selling the site to Kim Dotcom?" >>1130.
+
+* **03:04:49** He'd probably make a great owner. You should all petition him to take over the site. I think MEGA plus 4chan would actually be pretty awesome. I like MEGA alot and I'm sure you all do, so feel free to petition him to become your new overlord. He'd certainly make a very flamboyant, I mean that in like the best possible way. He is way more of a person now than I am, so maybe he's the hero that you all need. Based Kim Dotcom. He can deliver you from DDOSes against Xbox LIVE and Playstation Network. Maybe he can deliver 4chan.
+
+* **03:05:33** "Do you see yourself getting married in the next 5 years?" >>1136.
+
+* **03:05:36** I've had the worst luck dating. That's not true, I mean, I've dated some really great people but I've never been in a relationship for longer than maybe like 9 months? And I very very very very rarely date, so I think I'm destined to be a, and I'm very actually, very happy, well and again I have a lot of really close friends in my life. But, you know, maybe it will all be again, we'll all be Ken(??) and I'll be posting on /r9-, I'm not a wizard, but I'll probably be posting on /r9k/ 10 years from now, bemoaning the fact that I'm not married and blahdyblahblahblah. So, we will be fo- together alone. I've always really enjoyed that meme because I identify with it. *pause*
+
+It'll probably more likely that, a platonic life partner at this point than I am a, a wife.(???)
+[It'll probably be more likely that I'll get a platonic life partner at this point than I'll get a wife.]
+
+*drinks*
+
+* **03:07:01** *laughs* >>1156, "I'm the one who has been posting massive amounts of interracial porn on /pol/ and /new/. I'm the reason for the cuckolding meme. I'm so sorry moot."
+
+* **03:07:09** Thoroughly better than not(??), it's been ah, it's been fun. Again, I learned a whole lot about a fetish that I once knew nothing about. So, thank you for educating us all about the virtues of cuckoldry.
+
+* **03:07:27** "Moot, have you ever been to a Turkish prison?" >>1160.
+
+* **03:07:30** No, but I've seen the movie 'Airplane'.
+
+* **03:07:53** "Moot, have you ever gotten dubs naturally? No admin hacks," number >>1183.
+
+* **03:07:56** Yeah, I mean, we actually, there's no way for a moderator to *pause*
+
+There's no way for a moderator to get a get. Uh, actually no, maybe with like one of the /b/ gets, one of the million gets a long time ago we did something so we could kind of like fa-
+Ah y'know actually, I don't we did. I know a moderator did get one of the earliest gets, but natura- before he's a moderator, naturally, but um I mean, it's not worth it, the coding resources, to do that so we've never done that, and I mean all of my dubs and trips and quints- I got quints once for real, or maybe it was ah, quads. I got quads or quints on like, /lit/. I think it was a like /lit/ sticky or something, and I left it up for- it was excellent, I was so proud of myself. Dubs is another thing where I mean, reaction faces and all that stuff and dubs and we kinda, it's just became such a pain in the ass for a long time, we tried to squash it but clearly again the community prevailed. But I've gotta say I'm a huge dubs fan, so thank you based /s4s/.
+
+* **03:09:06** "Where will you go now moot? Do you have enough money to live a comfortable life? Good luck my friend," >>1196
+
+* **03:09:11** Thank you, George. Again, I really look forward to writing about the finances, I just hate writing and so I have to get up my butt to do this, but 4chan has not by any means made me wealthy. It really is represented pretty shoddy business for the longest time and again took, it really wasn't breaking even reliably until about 2009, 2010, kinda after the great, before and after the Econopocalypse, so 4chan has definitely not made me wealthy by any means and again it's usually kinda teetering, I mean it's doing better than teetering on the brink but it is a, it's very rarely had much profit and all of that profit, for the most part, just stays in the business and for good reason because again in September last year(...)
+
 ### 3:10 - 3:20
 
 ### 3:20 - 3:30
@@ -515,7 +560,47 @@ Automatically generated YouTube transcripts (for the next 7 hours) can be read, 
 
 ### 7:00 - 7:10
 
+* **07:00:17** Let's see. 'Will you continue shitposting about Usuka' (#4298)
+Yes, but as anon.
+* **07:00:32** *beep*
+One second, I'm about to eat food, hold on. -07:00:45-
+* **07:01:27** Okay so my friend brought me food to eat now! As it turns out, it's 9 o' clock. Looks delicious.
+* **07:02:06** I'm so excited to eat this, to eat in peace with you guys, and you could criticize my chewing technique. -07:02:20-
+* **07:02:53** It's amazing, I was so hungry. I wish you guys could critique my chewing technique, I don't know if that's a thing.
+* **07:03:26** I’ve always wanted /tv/ to critique my bane voice. Haha-
+* **07:03:44** THE FIRE RISES! WHY WOULD YOU SHOOT A MAN BEFORE THROWING HIM OUT OF A PLANE?  Let's see.
+* **07:04:26** HA. 'So Moot, Why did you wait until everyone calls you "luggage Lad" and laughs at you for being a cuck for you to retire?' #4380
+I fucking love the luggage lad meme, I really, really enjoy that meme, that's why I changed the word filter from "the C.E.O. Troll Inc" to "luggage lad", because I actually love that meme. So I'm glad that I stickied out for as long as I did because that's one of the better things to come out of 4chan about- Oh I almost throw my food. I'm going to mute again, sorry. I'm going to eat my food.-07:05-10-
+* **07:07:20** SPEAK OF THE DEVIL AND HE SHALL APEAR! That wasn't very good.
+YOU THINK SHITPOSTING IS YOUR ALLY? BUT YOU MERELY ADOPTED THE SHITPOSTING. I WAS BORN INTO IT, MOLDED BY IT. I DIDN'T SEE THE LIGHT UNTIL I WAS ALREADY A MAN, AND BY THEN IT WAS NOTHING TO ME BUT BLINDING!
+* **07:07:53** Bane posting can be my legacy.
+* **07:08:17** I made it to the thread number 2! That thread was 2671 posts long. It took me seven and a half hours to read that! But alright, thread number 2.
+* **07:08:56** (reading #4521)'WHAT'S THE NEXT STEP OF YOUR MASTERPLAN?'
+CRASHING THIS, BOARD WITH NO SURVIVORS.
+* **07:09:19** We're all gonna make it, /qa/, we're all gonna make it. 'How did you found out about 2chan?' (#4545) I found out about Futaba in 2003.
+
 ### 7:10 - 7:20
+
+* **07:10:58** Alright, so… I found the Futaba Channel in 2003 from Something Awful and 4chan came to being this a few months later when I decided to register the domain 4chan.net. And actually there are these two softwares on it. Futaba, which is based on another piece of software called Gazau BBS. I basically took the Gazau BBS software that I found online. It was all in Japanese so I sort of translated that. And I was later informed after all that work that the imageboard Futaba php script was available on their website, so I wasted a few days sewing that and then I implemented that on 4chan.net and the rest is history.
+
+* **07:12:17** A lot of people seem to be reposting their questions.
+
+* **07:12:38** 'moot! Treat yourself to a bubble tea!' (#4619)
+I'm drinking regular tea right now and I do love tea. Thank you for remembering that I do love bubble tea though.
+
+* **07:13:06** HA. Somebody posted, #4660, a screenshot of a tweet that says 'Chris Poole, or as he is known "moop", is the head of a racist website known as "anonymous pol". Just learning of this anti-Semite.' There isn't even a date on it but that's a wonderful tweet.
+
+* **07:13:29** #4467, 'What do you think of people who hide behind "board culture" to post off topic shit?'
+I wrote a whole News post about this a year and a half ago, so you can go back to the News page, go to the bottom, click View All News and it's called "FULL HOUSE"
+
+* **07:13:57** Haha, is /tg/- /tv/ on fire right now? Hopefully the fire rises.
+
+* **07:14:36** Here's one, #4716: 'Why haven't you used the infamy of 4chan to your advantage? It felt like in all of your start ups you attempted to distance yourself from this site rather than use it as a spring board. There is most certainly a market for the 'anonymous' sort of service/product in a post NSA age.'
+I didn't really distance myself from 4chan, like I have my persona. But I was in fact very deliberate about not crossing those streams, sort of speak. People ran rampant with their speculation and conjectures, like when canv.as was still around people said fuck you for using 4chan's money to host canv.as or why can't you use that investment to host 4chan-4chan is running slow thanks to canv.as and that sort of shit. A lot of people asked me back then 'why didn't you just turn 4chan into something else or why aren't you using 4chan as a springboard?' and the reason is, from my knowledge, that 99% of those things failed. So that would have exposed 4chan, putting it in danger of going under business.
+So I was very deliberate about 'I can't miss when I take that investment'. I mean, it was a separate entity, it was legally completely separate for both liability and tax purposes, it was a separate company. That took an investment also with the later Drawquest, which was a drawing app for iOS. And again none of those people, financials and servers, nothing, were related to 4chan. I mean it would have been illegal, a violation to the canv.as corporation policies. I have been very deliberate the one time I did start a company to not cross those streams with 4chan, even then again most people would have, as it would have made sense in terms of promoting it and whatnot, all the different sorts of benefits to that but the biggest downside was that it could have potentially compromised 4chan. If the other company were to fall, 4chan would probably fall too. So 4chan doesn't have anything to do with this company, they were not tied up in any way. As it turned out, that was the right thing to do, because canv.as and drawquest failed in these last years.
+Again I didn't really promote either. I mean I ran some ads for Drawquest at one point on 4chan but, although it could have been use as a springboard, I never thought that was something I should do. 4chan is in now way someone's personal army, so I shouldn't use it as such. It's not for activism, and it isn't for promoting my own projects.
+
+* **07:19:22** Hahaha, I like this image. It contains moot's final Q&A quotes.
 
 ### 7:20 - 7:30
 
