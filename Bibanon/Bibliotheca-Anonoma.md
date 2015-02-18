@@ -1,4 +1,14 @@
-This article is about the Bibliotheca Anonoma itself.
+The **Bibliotheca Anonoma** is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of mankind in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare.
+
+---
+
+Click on the links in the sidebar to the right -> to check out our collection. Under each section, you can click **More...** for an even larger list and longer descriptions that could not fit on the sidebar.
+
+### Contribute
+
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
+
+You can also talk to us at our IRC channel at `irc.rizon.net #bibanon` . And an anonymous textboard is in the works.
 
 ## Inspirations and Forerunners
 
