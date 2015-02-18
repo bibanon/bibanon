@@ -22,8 +22,6 @@ For the Internet has become more than just another invention of man; it is an al
 
 Despite this, the important legacy of internet culture is constantly overlooked as a passing fad by both constituents and creators. Soon, new servers will supersede the old, inactive data will fall down the memory hole, and link rot shall destroy cultural context. And it won't be long before a future archivist, sifting through humanity's library of knowledge, curses us for our complacency. 
 
-But why wait to become an internet archeologist? We can instead record history and cultural output as it happens, and analyze them from the perspective of a primary source. 
-
 This is why we have taken up the struggle, however fierce, however unloved or hated, to archive and analyze the history and the products of internet folklife. One that I hope you too will be a part of. 
 
 *Welcome to the Bibliotheca Anonoma.*
