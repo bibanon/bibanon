@@ -20,6 +20,7 @@
 * [[Rape Kopipe]]
 * [[Religion Kopipe]]
 * [[Sex Kopipe]]
+* [[Twitch Chat Copypasta]]
 
 ## 4chan
 
