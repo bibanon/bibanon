@@ -16,15 +16,17 @@ And they contained parables that warned anons of the dangers of ironic shitposti
 
 The rage faces of today are a pale mockery of his legacy. 
 
+Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. 
+
+And thus, we built this art collection, with the purpose of archiving as much of their works as we can find; such that their legacy shall not perish from the earth.
+
+## Where is 3-Angled-Blue Now?
+
 > 3-angled-blue has a deep-seated fear of online fame. Rightfully so, I think.  
 > Like many other drawfriends he creates multiple personas over time, but 3-angled-blue creates and discards them before they can really be noticed by a large number of people.  
 > Occasionally a new drawing in his style will pop up, but the source will be untracable. You'll never know for sure it's him, but if you look carefully enough and have enough knowledge of the drawfriend cabal and their various styles, you could hazard a guess.  
 > Simply put, he doesn't want to be found. I don't blame him. If you want to look at his work, look at reposts by anonymous, but you're not guaranteed anything.  
 > [Source: 4chanhouse](http://dis.4chanhouse.org/gen/res/117.html#122)
-
-Today, very few people, even anons struggle to recall his name. But all will recognize his creations from a mile away. 
-
-And thus, we built this art collection, with the purpose of archiving as much of their works as we can find; such that their legacy shall not perish from the earth.
 
 ## Collection / Gallery
 
