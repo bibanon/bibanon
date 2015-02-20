@@ -11,7 +11,7 @@ This chat is awful, literally ass, except ass can bring pleasure, and this chat 
 I'm sorry, but did /sp/ already lose? Oh, that's right. The game isn't even over yet. In fact, it's only halftime. Does not having the lead at halftime count as a loss? Is that what you're saying? Because if you're saying that I can assure you that you're wrong. Why would you make this topic when the game is still on?
 
 ### Serious Trouble
-ᶦ ˢʷᵉᵃʳ ᵗᵒ ᵍᵒᵈ ᶦᶠ ᵃᶰʸ ᵒᶠ ʸᵒᵘ ᵐᵒᵗʰᵉʳʳᶠᵘᶜᵏᵉʳˢ ᶜᵒᵖʸ ᵃᶰᵈ ᵖᵃˢᵗᵉ ᵗʰᶦˢ ʸᵒᵘ ʷᶦᶫᶫ ᵇᵉ ᶦᶰ ˢᵉʳᶦᵒᵘˢ ᵗʳᵒᵘᵇᶫᵉ ᶦ ˢʷᵉᵃʳ ᵗᵒ ᵍᵒᵈ ᶦᶠ ᵃᶰʸ ᵒᶠ ʸᵒᵘ ᵐᵒᵗʰᵉʳʳᶠᵘᶜᵏᵉʳˢ ᶜᵒᵖʸ ᵃᶰᵈ ᵖᵃˢᵗᵉ ᵗʰᶦˢ ʸᵒᵘ ʷᶦᶫᶫ ᵇᵉ ᶦᶰ ˢᵉʳᶦᵒᵘˢ ᵗʳᵒᵘᵇᶫᵉ
+ᶦ ˢʷᵉᵃʳ ᵗᵒ ᵍᵒᵈ ᶦᶠ ᵃᶰʸ ᵒᶠ ʸᵒᵘ ᵐᵒᵗʰᵉʳʳᶠᵘᶜᵏᵉʳˢ ᶜᵒᵖʸ ᵃᶰᵈ ᵖᵃˢᵗᵉ ᵗʰᶦˢ ʸᵒᵘ ʷᶦᶫᶫ ᵇᵉ ᶦᶰ ˢᵉʳᶦᵒᵘˢ ᵗʳᵒᵘᵇᶫᵉ
 
 ### Juan Pastoroni
 ༼ ▀̿Ĺ̯▀̿ ̿ ༽Hello, my name is Juan Pastoroni, CEO of Copy Pasta Industries. I'd like to let you know that we've just gained copyrights on a lot of copy pastas seen in this chat. If you are using them right now, please refrain from doing so, or risk being fined under copyright infringement. Thank you, and don't be funny and copy and paste this. This is business, kid.༼ ▀̿Ĺ̯▀̿ ̿ ༽
