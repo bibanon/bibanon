@@ -13,8 +13,8 @@
 
 Just click a bookmarklet to archive a page for later! Great for source links and Google Cache, because you can bet that they will be gone within 5 years.
 
-* [Webcite](http://webcite.org)
-* [Archive.today](http://archive.today/)
+* [Archive.today](http://archive.today/) - An improved version of WebCite, optimized for pesky "Web 2.0" sites that dump a lot of extra CSS and other content that is tricky to archive.
+* [Webcite](http://webcite.org) - The original tried-and-true website snapshot archiver, for research paper citations.
 
 ## Markdown Conversion
 
