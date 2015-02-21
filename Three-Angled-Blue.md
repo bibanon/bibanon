@@ -66,7 +66,7 @@ Some anons have created some amazing voiceovers for his comics.
 
 [[http://i.imgur.com/jVBpzAN.png|float|height=450px|width=600px]]
 
-EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [[2006's /b/day|4chan---The--b--Day]], where floods of anons from /b/ revolted against new rules imposed by the moderation team, and raided other 4chan boards, such as /trv/, and most of all, /v/.
+EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [2008's Positron Uprising](https://encyclopediadramatica.se/ROW_ROW_FIGHT_THE_POWAH). Floods of anons from /b/ escaped from another of Moot's garish CSS hacks, escaping to and raiding other 4chan boards in the process, such as /trv/, and most of all, /v/.
 
 /v/ fought back.
 
