@@ -66,14 +66,14 @@ Some anons have created some amazing voiceovers for his comics.
 
 [[http://i.imgur.com/jVBpzAN.png|float|height=450px|width=600px]]
 
-EPIC FRUSTRATION is the Bayeux Tapestry of the tumultuous events of [2008's Positron Uprising](https://encyclopediadramatica.se/ROW_ROW_FIGHT_THE_POWAH). Floods of anons from /b/ escaped from another of Moot's garish CSS hacks, escaping to and raiding other 4chan boards in the process, such as /trv/, and most of all, /v/.
+EPIC FRUSTRATION + Rage vs. Cancer is the Bayeux Tapestry of the tumultuous events of [2008's Positron Uprising](https://encyclopediadramatica.se/ROW_ROW_FIGHT_THE_POWAH). Floods of anons from /b/ escaped from yet another one of Moot's garish CSS hacks, raiding other 4chan boards in the process: such as /trv/, and most of all, /v/.
 
 /v/ fought back.
 
 Check out the comic series, and the equally impressive flash adaptation in the links below.
 
-* [EPIC FRUSTRATION - Original Comic Series](https://encyclopediadramatica.se/RAGE#Epic_Frustration_Comic)
-* [EPIC FRUSTRATION - Alternate Ending](http://dis.4chanhouse.org/comic/res/21.html#38) - You might have the first 15 pages of V-rage. But did you know there was an alternate ending, where he fought W.T. Snacks?
+* [EPIC FRUSTRATION + Rage vs. Cancer - Original Comic Series](https://encyclopediadramatica.se/RAGE#Epic_Frustration_Comic)
+* [Rage vs. Cancer - Alternate Ending](http://dis.4chanhouse.org/comic/res/21.html#38) - You might have the first 15 pages of V-rage. But did you know there was an alternate ending, where /v/ fought W.T. Snacks?
   * [Bullshit ending to V-rage](http://swfchan.com/9/43315/?Bullshit_ending_to_V_vs_AR_by_3_Angled_Blue.swf) - The author probably gave up on continuing the alternate ending, and released this unfinished Flash instead.
 * [/v/-rage - Flash Adaptation](http://swfchan.com/9/43253/?V-rage.swf) - [YouTube](http://www.youtube.com/watch?v=YVys7jcCJDs) - Created by NCH.
 
