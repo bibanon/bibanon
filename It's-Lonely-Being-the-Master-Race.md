@@ -33,6 +33,7 @@ Before the comic idea was pitched, there were already established personas for P
 * [What does PC-tan do with all that power?](http://i.imgur.com/45uslLp.jpg)
 * [PC MASTER RACE](https://data.archive.moe/board/v/image/1404/59/1404596375815.jpg)
 * [How does he dew](https://gfycat.com/WarmheartedScientificJabiru)
+* [HOENN CONFIRMED](https://data.archive.moe/board/v/image/1403/55/1403552164732.jpg)
 * [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
 * [Glorious PC](http://i.imgur.com/qjcJJii.png)
 * [Tablet In-home Streaming](http://imgur.com/b1g3IfW)
