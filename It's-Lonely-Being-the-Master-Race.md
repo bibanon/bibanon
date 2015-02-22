@@ -11,6 +11,13 @@ From that point on... artists from around the internet worked to make that comic
 > In the pictures we see consoles in all stages of life, from young to old. PC is their parent, since essentially, all game consoles use a computer chip. PC guides them through the walks of life, teaching them the ways of gaming wisdom (though they never attain his divine nirvana).  
 > And he creates new children to teach... [for he outlives all of his students.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobmqxm)
 
+---
+
+> From the PC they come, to the PC they return.  
+> We are the enlightened few who have seen the light of truth shimmering behind the console curtain, and so have been rewarded.  
+> And yet, there is a sadness to immortality. An eerie cloud that looms before us, always knowing the fate of each console that spawns from our forest. We give them birth, and so [we curse them with death.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobv3tq)
+
+
 ## Prelude
 
 Before the comic idea was pitched, there were already established personas for PC-tan and the other modern game consoles.
