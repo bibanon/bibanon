@@ -70,6 +70,7 @@ Bibliotheca Anonoma
 ### Collections
 
 * [[BASC Anthology]]
+* [[Greentext]]
 * [[Copypasta]]
 * [[Lulz A Corruption of LOL]]
 * [[Information Library]]
