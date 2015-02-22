@@ -1,8 +1,8 @@
 ![](https://static.fjcdn.com/pictures/Pc_7d85c2_5371662.png)
 
-In 2007, a thread was posted on 4chan's /v/ [that proposed a comic idea](http://i.imgur.com/bjao8iF.png): _Imagine, "PC", the timeless immortal, doomed to watch his consoles... his progeny... rise and fall with the passage of time._
+On July 6th, 2014, [a thread was posted on 4chan's /v/](https://archive.moe/v/thread/251948898/#251964684) that [proposed a comic idea](http://i.imgur.com/bjao8iF.png): _Imagine, "PC", the timeless immortal, doomed to watch his consoles... his progeny... rise and fall with the passage of time._
 
-This thread screencap was lost to time, until [it was rediscovered by a Tumblr user](http://planetofjunk.tumblr.com/post/91107928083/you-did-this-you-started-this-all) who (mistakenly) believed that [PlanetOfJunk](http://planetofjunk.tumblr.com/) (an artist known for drawing [Xbone-tan](http://imgur.com/a/PdSva)) drew the legendary SNES-tan OC.
+This thread [was rediscovered by a Tumblr user](http://planetofjunk.tumblr.com/post/91107928083/you-did-this-you-started-this-all) who (mistakenly) believed that [PlanetOfJunk](http://planetofjunk.tumblr.com/) (an artist known for drawing [Xbone-tan](http://imgur.com/a/PdSva)) drew the legendary SNES-tan OC.
 
 From that point on... artists from around the internet worked to make that comic idea a reality. And the depiction of the PC as an anonymous strongman became ingrained in /v/'s imagination.
 
@@ -41,6 +41,7 @@ From that point on... artists from around the internet worked to make that comic
 
 ## Sources
 
+* [4chan /v/251948898 #251964684 - PC-tan Comic Idea](https://archive.moe/v/thread/251948898/#251964684)
 * [Reddit /r/PCMasterRace - Sometimes it can be lonely in the master race](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/)
 * [Reddit /r/consoletan](http://www.reddit.com/r/consoletan)
 * [Funnyjunk - PC-tan Comp](https://www.funnyjunk.com/Pc+tan+comp/funny-pictures/5372106/)
