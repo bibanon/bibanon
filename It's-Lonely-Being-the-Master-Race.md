@@ -15,11 +15,15 @@ From that point on... artists from around the internet worked to make that comic
 
 Before the comic idea was pitched, there were already established personas for PC-tan and the other modern game consoles.
 
+* [Console Barfight](http://i.imgur.com/G6ASn5m.png)
 * [GTA5 CONFIRMED FOR PC](https://static.fjcdn.com/pictures/Pc+tan+comp+_0081d4_5371662.png)
 * [What does PC-tan do with all that power?](http://i.imgur.com/45uslLp.jpg)
 * [PC MASTER RACE](https://data.archive.moe/board/v/image/1404/59/1404596375815.jpg)
 * [How does he dew](https://gfycat.com/WarmheartedScientificJabiru)
 * [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
+* [Glorious PC](http://i.imgur.com/qjcJJii.png)
+* [Tablet In-home Streaming](http://imgur.com/b1g3IfW)
+* [She's just eating a tac-](http://i.imgur.com/5dP3jyb.png)
 * [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 * [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
 
@@ -39,6 +43,21 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 
 [![](http://i.imgur.com/skuiewb.png)](http://i.imgur.com/skuiewb.png)
 
+> Someone in a darker mood might try PC-tan being his unemotional self and choosing not to go to a console-tan's funeral because he can emulate them now, completely failing to understand why them disappearing is bad when he can still play their games.  
+> Or PC-tan being a badass and pulling double duty for his fallen family while everyone else finds their feet, and the reason he's so insensitive is he works himself so hard to support his huge library of games and orphaned titles that it's consumed everything that isn't working as efficiently as possible to [keep things afloat.](https://archive.moe/v/thread/251948898/#251967196)
+
+### Always Online Until They're Not
+
+> \> pc-tan always being there with the consoles of old  
+> \> growing with them, but he always outlives them  
+> \> they live on forever in pc-tan's memory  
+> \> his memory of them is much better than they actually were, filters are his rose-tinted goggles  
+> 
+> \> he tries his hardest to remember, but he has difficulty remembering them as time passes  
+> \> the newer faces he can hardly remember or recreate at all, from n64 onward  
+> 
+> \> today, because all of the systems are always online, when they die, [they are gone forever](https://archive.moe/v/thread/251948898/#251966570)  
+
 ### Avalon
 
 > \> the end of videogames    
@@ -55,9 +74,10 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 
 ## Sources
 
-* [4chan /v/251948898 #251964684 - PC-tan Comic Idea](https://archive.moe/v/thread/251948898/#251964684)
+* [4chan /v/251948898 #251964684 - PC-tan Comic Idea](https://archive.moe/v/thread/251948898/#251964684) - Many thumbnails and original images lost in transition, unfortunately.
 * [Reddit /r/PCMasterRace - Sometimes it can be lonely in the master race](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/)
 * [Reddit /r/consoletan](http://www.reddit.com/r/consoletan)
 * [Funnyjunk - PC-tan Comp](https://www.funnyjunk.com/Pc+tan+comp/funny-pictures/5372106/)
 * [Related: The Immortal Matchmaker, Blitzcrank](http://i.imgur.com/yYTGJp2.png)
 * [Related: Windows XP-tan End-of-Life Support](http://i.imgur.com/iW9S6yw.jpg)
+* [Related: /v/ bromance](https://data.archive.moe/board/v/image/1400/11/1400113448658.png)
