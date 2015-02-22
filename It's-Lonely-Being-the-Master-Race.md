@@ -8,6 +8,12 @@ From that point on... artists from around the internet worked to make that comic
 
 ## Explanation
 
+> My computer is like [The Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus).
+> I change out components as they break or become obsolete, and I have changed cases a couple of times to keep up with current fashions and changes to motherboard layouts.
+> But, essentially, [it is the same computer](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobsgeu) I have always had since I got my first 486. 
+
+---
+
 > In the pictures we see consoles in all stages of life, from young to old. PC is their parent, since essentially, all game consoles use a computer chip. PC guides them through the walks of life, teaching them the ways of gaming wisdom (though they never attain his divine nirvana).  
 > And he creates new children to teach... [for he outlives all of his students.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobmqxm)
 
