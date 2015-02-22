@@ -2,8 +2,6 @@ As of now, these are all taken from the [[4chan Cup]] chat. Some may only be pas
 
 For added fun, you can also copy the name of the person who started the pasta, leading to even longer strands of pasta.
 
-### Raise your dongers
-
 ### Literally Ass
 This chat is awful, literally ass, except ass can bring pleasure, and this chat is the goddamn antithesis of pleasure. This chat takes life from children and kittens and puts that pure innocence into phallic cancer pus. This chat is disappointment and hate of humanity funneled into barely literate text that takes intelligence and shits all over it before making a shit sculpture out of the souls of everyone watching this whore of a stream. Everyone in this chat is the dregs of humanity, if even that, content with postulating whatever ass talk they can squeeze out of the withered rectum of their wasted lives.
 
