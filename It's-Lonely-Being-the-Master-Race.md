@@ -37,6 +37,7 @@ Before the comic idea was pitched, there were already established personas for P
 * [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
 * [Glorious PC](http://i.imgur.com/qjcJJii.png)
 * [Tablet In-home Streaming](http://imgur.com/b1g3IfW)
+* [Ouya-tan: How the Mighty Have Fallen](http://www.funnyjunk.com/channel/videogames/Ouya+tan+showcase/vqvMLid/)
 * [She's just eating a tac-](http://i.imgur.com/5dP3jyb.png)
 * [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 * [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
