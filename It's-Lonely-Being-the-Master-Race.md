@@ -12,6 +12,10 @@ From that point on... artists from around the internet worked to make that comic
 * [PC-tan caught emulating SNES-tan](http://planetofjunk.tumblr.com/post/91107928083/you-did-this-you-started-this-all)
 * [PC-tan sends off Dreamcast-tan](http://i.imgur.com/l86E4nb.jpg)
 
+### Emulation
+
+[![](http://i.imgur.com/skuiewb.png)](http://i.imgur.com/skuiewb.png)
+
 ### Avalon
 
 > \> the end of videogames    
