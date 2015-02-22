@@ -74,7 +74,7 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 
 ### Avalon
 
-> \> the end of videogames    
+> \> [the end of videogames](https://archive.moe/v/thread/251948898/#251971810)    
 > \> PC is an old man    
 > \> stronger than ever, but still a relic of previous time    
 > \> the last videogame stops being made    
