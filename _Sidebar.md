@@ -36,6 +36,7 @@ Bibliotheca Anonoma
 
 * **[[Three Angled Blue]]**
 * [[Hiimdaisy]]
+* [[It's Lonely Being the Master Race]]
 * [[Nuzlocke Challenge]]
 * [[Jon Rafman]]
 * [[Webcomics]]
