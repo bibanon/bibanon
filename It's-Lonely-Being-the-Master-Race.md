@@ -19,7 +19,7 @@ Before the comic idea was pitched, there were already established personas for P
 * [What does PC-tan do with all that power?](http://i.imgur.com/45uslLp.jpg)
 * [PC MASTER RACE](https://data.archive.moe/board/v/image/1404/59/1404596375815.jpg)
 * [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
-* [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for Xbone-tan sketches.
+* [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 
 ## Episodes
 
