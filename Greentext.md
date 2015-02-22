@@ -21,7 +21,7 @@ Greentexts that will make you cry.
 
 ### We are two of soul
 
-![](http://i3.kym-cdn.com/photos/images/original/000/528/879/f7c.png)
+[![](http://i3.kym-cdn.com/photos/images/original/000/528/879/f7c.png)](http://i3.kym-cdn.com/photos/images/original/000/528/879/f7c.png)
 
 ### Doctor is Credit to Team
 
