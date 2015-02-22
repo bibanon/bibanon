@@ -25,14 +25,14 @@ Greentexts that will make you cry.
 
 ### Doctor is Credit to Team
 
-![](http://i.imgur.com/MkUleYM.png)
+[![](http://i.imgur.com/MkUleYM.png)](http://i.imgur.com/MkUleYM.png)
 
 * 4chan /b/ 535908768
 * [Reddit /r/4chan - DOCTOR! You are good doctor!](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/coby11w)
 
 ### Golden Cross Necklace
 
-![](http://i.imgur.com/QfMtIh8.jpg)
+[![](http://i.imgur.com/QfMtIh8.jpg)](http://i.imgur.com/QfMtIh8.jpg)
 
 * original thread: check 4chan archives
 * [Source: Reddit /r/4chan - Anon Knows a Killer](http://www.reddit.com/r/4chan/comments/1w6ftp/anon_knows_a_killer/)
