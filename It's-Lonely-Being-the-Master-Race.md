@@ -92,6 +92,7 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 * [4chan /v/251948898 #251964684 - PC-tan Comic Idea](https://archive.moe/v/thread/251948898/#251964684) - Many thumbnails and original images lost in transition, unfortunately.
 * [Reddit /r/PCMasterRace - Sometimes it can be lonely in the master race](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/)
 * [Reddit /r/consoletan](http://www.reddit.com/r/consoletan)
+* [Tumblr - OctoConsole-tans](http://octoconsoletans.tumblr.com/)
 * [Funnyjunk - PC-tan Comp](https://www.funnyjunk.com/Pc+tan+comp/funny-pictures/5372106/)
 * [Related: The Immortal Matchmaker, Blitzcrank](http://i.imgur.com/yYTGJp2.png)
 * [Related: Windows XP-tan End-of-Life Support](http://i.imgur.com/iW9S6yw.jpg)
