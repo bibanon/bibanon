@@ -11,6 +11,16 @@ From that point on... artists from around the internet worked to make that comic
 > In the pictures we see consoles in all stages of life, from young to old. PC is their parent, since essentially, all game consoles use a computer chip. PC guides them through the walks of life, teaching them the ways of gaming wisdom (though they never attain his divine nirvana).  
 > And he creates new children to teach... [for he outlives all of his students.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobmqxm)
 
+## Prelude
+
+Before the comic idea was pitched, there were already established personas for PC-tan and the other modern game consoles.
+
+* [GTA5 CONFIRMED FOR PC](https://static.fjcdn.com/pictures/Pc+tan+comp+_0081d4_5371662.png)
+* [What does PC-tan do with all that power?](http://i.imgur.com/45uslLp.jpg)
+* [PC MASTER RACE](https://data.archive.moe/board/v/image/1404/59/1404596375815.jpg)
+* [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
+* [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for Xbone-tan sketches.
+
 ## Episodes
 
 > Why are they discontinuing daddy? [He has so many games to play.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobraou)
@@ -47,3 +57,4 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 * [Reddit /r/PCMasterRace - Sometimes it can be lonely in the master race](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/)
 * [Reddit /r/consoletan](http://www.reddit.com/r/consoletan)
 * [Funnyjunk - PC-tan Comp](https://www.funnyjunk.com/Pc+tan+comp/funny-pictures/5372106/)
+* [Related: The Immortal Matchmaker, Blitzcrank](http://i.imgur.com/yYTGJp2.png)
