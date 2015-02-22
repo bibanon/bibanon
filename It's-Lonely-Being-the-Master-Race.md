@@ -14,6 +14,11 @@ From that point on... artists from around the internet worked to make that comic
 
 ---
 
+> \\>PC having PTSD about other consoles, felling directly responsible for their deaths  
+> \\>covers it up by obsessively upgrading his body and playing train simulators
+
+---
+
 > In the pictures we see consoles in all stages of life, from young to old. PC is their parent, since essentially, all game consoles use a computer chip. PC guides them through the walks of life, teaching them the ways of gaming wisdom (though they never attain his divine nirvana).  
 > And he creates new children to teach... [for he outlives all of his students.](http://www.reddit.com/r/pcmasterrace/comments/2ut3oj/sometimes_it_can_be_lonely_in_the_master_race/cobmqxm)
 
