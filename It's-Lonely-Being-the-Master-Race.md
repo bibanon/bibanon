@@ -18,8 +18,10 @@ Before the comic idea was pitched, there were already established personas for P
 * [GTA5 CONFIRMED FOR PC](https://static.fjcdn.com/pictures/Pc+tan+comp+_0081d4_5371662.png)
 * [What does PC-tan do with all that power?](http://i.imgur.com/45uslLp.jpg)
 * [PC MASTER RACE](https://data.archive.moe/board/v/image/1404/59/1404596375815.jpg)
+* [How does he dew](https://gfycat.com/WarmheartedScientificJabiru)
 * [Be strong for Nintendo](http://i.imgur.com/Fg2z2KP.png) - [Context](http://i1.kym-cdn.com/photos/images/original/000/627/705/07a.jpg) - The one on the left is [the 2DS.](http://www.reddit.com/r/pcmasterrace/comments/27s17w/consoletan_comics_are_pretty_nice/ci4m9fn)
 * [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
+* [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
 
 ## Episodes
 
@@ -58,3 +60,4 @@ Thanks to it's ever increasing graphical muscle, the PC is famous for it's abili
 * [Reddit /r/consoletan](http://www.reddit.com/r/consoletan)
 * [Funnyjunk - PC-tan Comp](https://www.funnyjunk.com/Pc+tan+comp/funny-pictures/5372106/)
 * [Related: The Immortal Matchmaker, Blitzcrank](http://i.imgur.com/yYTGJp2.png)
+* [Related: Windows XP-tan End-of-Life Support](http://i.imgur.com/iW9S6yw.jpg)
