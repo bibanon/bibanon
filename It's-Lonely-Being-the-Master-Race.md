@@ -23,6 +23,8 @@ From that point on... artists from around the internet worked to make that comic
 
 ### Emulation
 
+Thanks to it's ever increasing graphical muscle, the PC is famous for it's ability to emulate classic game consoles. Unfortunately, emulation... isn't always perfect.
+
 [![](http://i.imgur.com/skuiewb.png)](http://i.imgur.com/skuiewb.png)
 
 ### Avalon
