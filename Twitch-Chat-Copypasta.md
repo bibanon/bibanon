@@ -42,3 +42,11 @@ I'm sorry, but did /sp/ already lose? Oh, that's right. The game isn't even over
 ░░░░░░has░░░░░░░░▀▄▄████████████████▄ 
 ░░░░░arrived░░░░░░░░░░░░█▀██████
 ```
+
+### Carbonara Recipe
+That's not the correct way to do carbonara, the proper way is eggs, cream, parmesan, salt, and pepper into the sauce, all whisked together, then chop up the pancetta and a few cloves of garlic nice and small, then when it's ready to go get the spaghetti into the water and shortly after start the pancetta, no oil (the fat is enough) in a wok, then when that's getting there add in the garlic and once they're done turn off the heat and let them sit in the wok until the pasta's done, at which point strain the pasta then add to the wok, mix it up and pour in the sauce, mix it in and in the likely event that there's liquid in the bottom then put the heat on low and continue mixing it in until the sauce has been reduced to the correct amount, not congealed but not pooling either, then serve while still warm and top with salt, not pepper or parmesan (that's just barbaric!).Really, what would italians know about carbonara anyway?
+
+### Attack-Helicopter-kin
+I sexually Identify as an Attack Helicopter ever since I was a boy I dreamed of soaring over the oilfields dropping hot sticky loads on disgusting foreigners. People say to me that a person being a helicopter is impossible and I'm fucking retarded but I don't care, I'm beautiful. I'm having a plastic surgeon install rotary blades, 30 mm cannons and AGM-114 Hellfire missiles on my body. From now on I want you guys to call me "Apache" and respect my right to kill from above and kill needlessly. If you can't accept me you're a heliphobe and need to check your vehicle privilege. Thank you for being so understanding
+
+  * I'm pretty sure this one originates off the chat
