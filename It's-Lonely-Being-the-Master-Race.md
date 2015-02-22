@@ -1,12 +1,12 @@
-In 2007, a thread was posted on 4chan's /v/ [that proposed a comic idea](http://i.imgur.com/bjao8iF.png): _Imagine, PC the timeless immortal, doomed to watch consoles rise and fall with the passage of time._
+![](https://static.fjcdn.com/pictures/Pc_7d85c2_5371662.png)
+
+In 2007, a thread was posted on 4chan's /v/ [that proposed a comic idea](http://i.imgur.com/bjao8iF.png): _Imagine, "PC", the timeless immortal, doomed to watch consoles rise and fall with the passage of time._
 
 This thread screencap was lost to time, until [it was rediscovered by a Tumblr user](http://planetofjunk.tumblr.com/post/91107928083/you-did-this-you-started-this-all) who (mistakenly) believed that [PlanetOfJunk](http://planetofjunk.tumblr.com/) (an artist known for drawing [Xbone-tan](http://imgur.com/a/PdSva)) drew the legendary SNES-tan OC.
 
 From that point on... artists from around the internet worked to make that comic idea a reality. And the depiction of the PC as an anonymous strongman became ingrained in /v/'s imagination.
 
 ## Episodes
-
-![](https://static.fjcdn.com/pictures/Pc_7d85c2_5371662.png)
 
 * [/v/'s PC-tan comic idea](http://i.imgur.com/bjao8iF.png)
 * [PC-tan caught emulating SNES-tan](http://planetofjunk.tumblr.com/post/91107928083/you-did-this-you-started-this-all)
