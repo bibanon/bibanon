@@ -14,8 +14,8 @@ From that point on... artists from around the internet worked to make that comic
 
 ---
 
-> \\>PC having PTSD about other consoles, felling directly responsible for their deaths  
-> \\>covers it up by obsessively upgrading his body and playing train simulators
+> \>[PC having PTSD](https://archive.moe/v/thread/251948898/#251970180) about other consoles, felling directly responsible for their deaths  
+> \>covers it up by obsessively upgrading his body and playing train simulators
 
 ---
 
