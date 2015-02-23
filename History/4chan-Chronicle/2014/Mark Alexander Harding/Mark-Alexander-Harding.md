@@ -2,7 +2,7 @@ Around August 2014, an anon named **Mark Alexander Harding** from the Channel Is
 
 On October 3, /int/ anons undertook an operation to dox and report the funposting tripfag to Jersey Police. Takbir, motherfucker.
 
-[[1422654001585.jpg]]
+[![](History/4chan-Chronicle/2014/FWG Affair/1422654001585.jpg)](History/4chan-Chronicle/2014/FWG Affair/1422654001585.jpg)
 
 ## Justification for Doxxing
 
