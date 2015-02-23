@@ -1,4 +1,10 @@
-Around August 2014, an anon named **Mark Alexander Harding** from the Channel Island of Jersey began shitposting on /int/ as an alleged member of ISIS. 
+Around August 2014, an anon named **Mark Alexander Harding** from the Channel Island of Jersey began shitposting on /int/ as an alleged member of ISIS. He claimed to be a convert to the Islamic State, stated that he would "assasinate Obama" and fly to Syria, and posted his disgusting vilitrol on every thread he could. 
+
+While it's not known whether he was trolling or not, the strangest things in life are often true. He had thousands of posts throughout the entire year, with very detailed information and understanding about ISIS's methods, beliefs, and tactics.
+
+* ["Spare Muslims, Slaughter Christians"](https://archive.moe/int/thread/31052781/#31053724)
+* ["I luv Sharia Law"](https://archive.moe/int/thread/30852829/#30861816)
+* ["Wish me luck in the Islamic State"](https://archive.moe/int/thread/30855435/#30859272)
 
 On October 3, /int/ anons undertook an operation to dox and report the funposting tripfag to Jersey Police. Takbir, motherfucker.
 
