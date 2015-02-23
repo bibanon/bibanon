@@ -4,7 +4,7 @@ On October 3, /int/ anons undertook an operation to dox and report the funpostin
 
 [![](History/4chan-Chronicle/2014/Mark Alexander Harding/1422654001585.jpg)](History/4chan-Chronicle/2014/Mark Alexander Harding/1422654001585.jpg)
 
-![ISIS's Most Valuable Member](http://i.imgur.com/8gAWjpe.png)
+[![ISIS's Most Valuable Member](http://i.imgur.com/8gAWjpe.png)](http://i.imgur.com/8gAWjpe.png)
 
 ## Justification for Doxxing
 
