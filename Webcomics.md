@@ -8,6 +8,11 @@ Hilarious comics that lampoon plot holes in modern fiction.
 * [Brawl in the Family](http://brawlinthefamily.keenspot.com/)
 * [Nedroid](http://nedroid.com/) - Mad Animal Antics.
 
+## Parody
+
+* [[Poohdickery]] - If you've ever read the original Winnie the Pooh comic strip by Don Ferguson, you'll start to notice that Pooh and his friends are total dicks. No joke, this was actually printed.
+* [[Troll Seuss]]
+
 ## Vintage
 
 Webcomics from the 1990s or early 2000s.
