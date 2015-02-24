@@ -4,7 +4,7 @@ This is the actual Winnie the Pooh comic strip published by Disney.
 
 ## Parodies
 
-![The hardest thing](http://i.imgur.com/7ZnB7.jpg)
+![The hardest thing](http://i.imgur.com/6LGTdxx.jpg)
 
 The original version was not much better:
 
