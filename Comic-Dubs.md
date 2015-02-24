@@ -40,4 +40,4 @@ Segments of text should fade-in as the dialogue is spoken (much like subtitles),
 
 Transitions also give a feeling of progression. Where there is no movement, don't use it. If you've reached the end, fade to black. If something profound was stated, zoom into the face. If you're feeling ironic, make spins.
 
-Most of all, print out the comic, cut out the panels, and make a storyboard showing what to say, and what transitions to make. It keeps things organized and makes life easier.
+Most of all, print out the comic, cut out the panels, and make a storyboard showing what to say, underline which chunks of words to fade in, and draw which transitions to make. It keeps things organized and makes life easier.
