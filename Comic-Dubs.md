@@ -22,11 +22,11 @@ Voice actors strongly associated with 4chan.
 
 ## Team Fourstar
 
-A team of dubbers who created gems such as Dub of the North Star, as well as various other DBZ voiceovers.
+A team of dubbers who created gems such as Dub of the North Star, as well as various other DBZ voiceovers. Technically, these are parody fandubs made from existing TV Shows, but they fit well into the tradition.
 
-* [http://www.youtube.com/user/WeeklyTubeShow2 WeeklyTubeShow2]
-* [https://www.facebook.com/WTShow Facebook - WeeklyTubeShow Fanpage]
-* [http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/WeeklyTubeShow TVTropes - WeeklyTubeShow]
+* [WeeklyTubeShow2](http://www.youtube.com/user/WeeklyTubeShow2)
+* [Facebook - WeeklyTubeShow Fanpage](https://www.facebook.com/WTShow)
+* [TVTropes - WeeklyTubeShow](http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/WeeklyTubeShow)
 
 ## How to Make a Comic Dub
 
