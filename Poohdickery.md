@@ -16,5 +16,6 @@ The original version was not much better:
 
 * [4chan /qa/ - Winnie the Pooh is a Hero](http://boards.4chan.org/qa/thread/77501/winnie-the-pooh-is-a-hero)
 * [Comic Book Resources - Poohdickery](http://goodcomics.comicbookresources.com/category/poohdickery/)
+* [Comic Book Legends Revealed](http://goodcomics.comicbookresources.com/2012/10/05/comic-book-legends-revealed-387/)
 * [Reddit /r/funny - Whoa, Pooh is an Asshole](http://www.reddit.com/r/funny/comments/10cvqd/whoa_pooh_is_an_asshole/)
 * [Cracked](http://www.cracked.com/article_21404_6-shockingly-adult-episodes-kid-friendly-franchises.html)
