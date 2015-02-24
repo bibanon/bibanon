@@ -30,7 +30,9 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 
 ## How to Make a Comic Dub
 
-[[http://i.imgur.com/PFSfQ4e.jpg|alt="Comic Dub Storyboard"|height=400px|width=600px]]
+[[http://i.imgur.com/PFSfQ4e.jpg|alt="Comic Dub Storyboard"|height=300px|width=600px]]
+
+[Pictured: Reconstruction of GeneralIvan's "The Truth Revealed"](https://www.youtube.com/watch?v=dmiMXBxLhY8)
 
 A comic dub has the power to turn a static image into an amazing TV show. Usually, the audio is created first, and the visual effects are made to match. Key to a comic dub is the illusion of movement.
 
