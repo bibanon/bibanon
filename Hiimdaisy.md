@@ -84,6 +84,10 @@ Hiimdaisy's Comic Dubs have constantly been imported into other cultures in the 
 
 ## Influence
 
+### Similar Artists
+
+* [Shizima Daichi](http://shizimadaichi.deviantart.com/) - Draws in a similar style to Hiimdaisy, specifically for her Devil Survivor II comic. A comic dub was created for it by [ShadowPuppyVA](https://www.youtube.com/watch?v=hkaLh5MokRY).
+
 ### Fanmade Tributes
 
 * [If Hiimdaisy Drew P3 Comic](http://dodomir23.deviantart.com/art/If-Hiimdaisy-Drew-P3-Comic-pt1-197978946)
