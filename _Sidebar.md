@@ -36,11 +36,11 @@ Bibliotheca Anonoma
 
 * **[[Three Angled Blue]]**
 * [[Hiimdaisy]]
+* [[Comic Dubs]]
 * [[It's Lonely Being the Master Race]]
 * [[Nuzlocke Challenge]]
 * [[Jon Rafman]]
 * [[Webcomics]]
-* [[YouTube Strategic Defense Initiative]]
 
 ### History
 
@@ -78,6 +78,7 @@ Bibliotheca Anonoma
 * [[Text Art]]
 * [[IRC Quotes]]
 * [[Damedame ARG]]
+* [[YouTube Strategic Defense Initiative]]
 * [[more...|Collections]]
 
 ## Website Archives
