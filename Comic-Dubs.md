@@ -12,7 +12,7 @@ Nowadays, comic dubs are a dying art. Keep it alive, it's one of the Internet's 
 
 Voice actors strongly associated with 4chan.
 
-* [Commander Douche](https://www.youtube.com/user/ObnoxiousDoucheAlt/videos) - [Old](https://www.youtube.com/user/Donkeypunch740/videos) - A longtime 4chan comic dubber who has a distinctive high-pitched grating voice, and has his art down to a science.
+* [Commander Douche](https://www.youtube.com/user/ObnoxiousDoucheAlt/videos) - [Old](https://www.youtube.com/user/Donkeypunch740/videos) - A longtime 4chan comic dubber who has a distinctive high-pitched grating voice (probably filtered through a voice changer), and has his art down to a science.
 * [Ken Ashcorp](https://www.youtube.com/user/kenashcorp) - A beloved voice actor who sings amazingly, and makes impressive songs. He also commentates the 4chan Cup when he has free time.
   * [ForeverPandering](https://www.youtube.com/user/ForeverPandering2) - Ken Ashcorp's previous account. He uploaded satirical criticism against various vices and idiots on the internet. While he deleted his entire account, all of his videos have been restored.
 * **Kimi ni Mune Kyun** - A trifecta of girls with moe voices that set anons' hearts aflutter.
@@ -30,7 +30,7 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 
 ## How to Make a Comic Dub
 
-[[http://i.imgur.com/PFSfQ4e.jpg|alt="Comic Dub Storyboard"|height=300px|width=600px]]
+[[http://i.imgur.com/PFSfQ4e.jpg|alt="Comic Dub Storyboard"|height=350px|width=600px]]
 
 [Pictured: Reconstruction of GeneralIvan's "The Truth Revealed"](https://www.youtube.com/watch?v=dmiMXBxLhY8)
 
