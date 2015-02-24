@@ -118,3 +118,4 @@ Embarrassing moments in an anon's everyday life. _spaghetti everywhere_
 > \> "Great idea!" [s4s] agreed. "We can't stay long, /cgl/ and /fa/ want your clothes back by eight."  
 
 * [4chan /qa/76733 - Board-tans](http://boards.4chan.org/qa/thread/76733/boardtans-thread#p77618)
+* [/pol/ invades /s4s/](http://i.imgur.com/HUftgqe.png)
