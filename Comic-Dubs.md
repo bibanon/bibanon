@@ -7,6 +7,7 @@ Nowadays, comic dubs are a dying art. Keep it alive, it's one of the Internet's 
 ## Epics
 
 * [[Hiimdaisy]] - Almost all of Hiimdaisy's long satire comics have been dubbed into hour-long shows. Incredible.
+* [BrendanielReads](https://www.youtube.com/user/BrendanielReads) - Reads terrible stories and greentexts. Epically. He sounds like Duke, but he claims he isn't. Or is he?
 
 ## 4chan 
 
@@ -27,6 +28,14 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 * [WeeklyTubeShow2](http://www.youtube.com/user/WeeklyTubeShow2)
 * [Facebook - WeeklyTubeShow Fanpage](https://www.facebook.com/WTShow)
 * [TVTropes - WeeklyTubeShow](http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/WeeklyTubeShow)
+
+## Vocaroos
+
+Vocaroo is a service where any person can just make and post a short recording of their voice. Unfortunately, it deletes files after 6 months, so the vast majority of them are now lost for good. We saved what we could find.
+
+* [Duke](http://archive.org/details/dukes-vocaroos) - A voice actor who made a fuckton of short vocaroos on 4chan. While the threads are long gone, we've discovered an archive of [all his Vocaroos](https://archive.today/rX5Pi), and uploaded it to the Internet Archive.
+* Ken Ashcorp - For the 4chan Cup, when /sp/ got kicked to the babbies, he made an amazing song clip singing: "/sp/ can get... FUUUUUUUUCKED!" Unfortunately, it is now lost.
+* Vocaroo Blogs - Blogs that attempted to collect links to the best vocaroos around. Unfortunately, as it's been over 3 years, the links are now dead.
 
 ## How to Make a Comic Dub
 
