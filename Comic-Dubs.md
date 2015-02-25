@@ -56,7 +56,7 @@ Vocaroo is a service where any person can just make and post a short recording o
 
 These are great audio clips to make animations off of.
 
-* [Duke](http://archive.org/details/dukes-vocaroos) - A voice actor who made a fuckton of short vocaroos on 4chan. While the threads are long gone, we've discovered an archive of [all his Vocaroos](https://archive.today/rX5Pi), and uploaded it to the Internet Archive.
+* [Duke](http://archive.org/details/dukes-vocaroos) - [Twitter](https://twitter.com/DukeLovesYou/) - A voice actor who made a fuckton of short vocaroos on 4chan. He's still active on [Twitter](https://twitter.com/DukeLovesYou/), actually. While the threads are long gone, we've discovered an archive of [all his Vocaroos](https://archive.today/rX5Pi), and uploaded it to the Internet Archive.
 * Ken Ashcorp - For the 4chan Cup, when /sp/ got kicked to the babbies, he made an amazing song clip singing: "/sp/ can get... FUUUUUUUUCKED!" Unfortunately, it is now lost.
 * Vocaroo Blogs - Blogs that attempted to collect links to the best vocaroos around. Unfortunately, as it's been over 3 years, the links are now dead.
 
