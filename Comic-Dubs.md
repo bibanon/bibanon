@@ -29,9 +29,26 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 * [Facebook - WeeklyTubeShow Fanpage](https://www.facebook.com/WTShow)
 * [TVTropes - WeeklyTubeShow](http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/WeeklyTubeShow)
 
-## Vocaroos
+## Voiceover Visualizations
+
+There's an inverse of the comic dub: when you have the audio voiceover already, and just need to make visuals for it, you create a Voiceover Visualization. Here's a few examples
+
+### Streamers
+
+Sometimes, streamers say the darnest things. A few animators have have put their skills to the test with these visualizations.
+
+* [Game Grumps](https://www.youtube.com/user/GameGrumps) - The Game Grumps, Egoraptor and Arin, playing strange games.
+  * [Source Filmmaker - Game Grumps Animations](https://www.youtube.com/playlist?list=PLi7nig-aocg-xBAc9YFP0NdBROT7AFYtH) - Amazing movie-quality animations made off of the Game Grumps' VN playthroughs.
+* [Vinesauce](http://vinesauce.com) - A team of streamers who play strange video games.
+  * [Mario Tells Luigi the Truth](https://www.youtube.com/watch?v=GGWs8WYUp8c) - "Luigi, do you think... I actually go to some Mushroom Kingdom? I don't. I just trip really hard... on LSD."
+  * [Joel and Rev: A family Moment](https://www.youtube.com/watch?v=AdydYWA9yHk)
+  * [Joel and Bran: Dubstep Crane](https://www.youtube.com/watch?v=4OPM3neKObo)
+
+### Vocaroos
 
 Vocaroo is a service where any person can just make and post a short recording of their voice. Unfortunately, it deletes files after 6 months, so the vast majority of them are now lost for good. We saved what we could find.
+
+These are great audio clips to make animations off of.
 
 * [Duke](http://archive.org/details/dukes-vocaroos) - A voice actor who made a fuckton of short vocaroos on 4chan. While the threads are long gone, we've discovered an archive of [all his Vocaroos](https://archive.today/rX5Pi), and uploaded it to the Internet Archive.
 * Ken Ashcorp - For the 4chan Cup, when /sp/ got kicked to the babbies, he made an amazing song clip singing: "/sp/ can get... FUUUUUUUUCKED!" Unfortunately, it is now lost.
