@@ -33,7 +33,8 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 
 There's an inverse of the comic dub: when you have the audio voiceover already, and just need to make visuals for it, you create a Voiceover Visualization.
 
-* [Lt. Eddy](https://www.youtube.com/user/LieutenantEddy) - Movie quality Source Filmmaker Masterpieces.
+* [Lt. Eddy](https://www.youtube.com/user/LieutenantEddy) - Source Filmmaker Voiceover Visualizations.
+* [Hypo](https://www.youtube.com/channel/UCYc9UG9q8UxMZKUfGpwrR7Q) - Award-winning Source Filmmaker Short Film Masterpieces.
 * [DietStab](https://www.youtube.com/user/DietStab/videos) - Interesting animations of various audio clips.
 
 ### Streamers
