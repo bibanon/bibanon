@@ -31,7 +31,10 @@ A team of dubbers who created gems such as Dub of the North Star, as well as var
 
 ## Voiceover Visualizations
 
-There's an inverse of the comic dub: when you have the audio voiceover already, and just need to make visuals for it, you create a Voiceover Visualization. Here's a few examples
+There's an inverse of the comic dub: when you have the audio voiceover already, and just need to make visuals for it, you create a Voiceover Visualization.
+
+* [Lt. Eddy](https://www.youtube.com/user/LieutenantEddy) - Movie quality Source Filmmaker Masterpieces.
+* [DietStab](https://www.youtube.com/user/DietStab/videos) - Interesting animations of various audio clips.
 
 ### Streamers
 
@@ -41,6 +44,8 @@ Sometimes, streamers say the darnest things. A few animators have have put their
   * [Source Filmmaker - Game Grumps Animations](https://www.youtube.com/playlist?list=PLi7nig-aocg-xBAc9YFP0NdBROT7AFYtH) - Amazing movie-quality animations made off of the Game Grumps' VN playthroughs.
 * [Vinesauce](http://vinesauce.com) - A team of streamers who play strange video games.
   * [Mario Tells Luigi the Truth](https://www.youtube.com/watch?v=GGWs8WYUp8c) - "Luigi, do you think... I actually go to some Mushroom Kingdom? I don't. I just trip really hard... on LSD."
+  * [Vinny's Best Moments Pt.1](https://www.youtube.com/watch?v=dUl_ijnAqvA) - [Pt. 2](https://www.youtube.com/watch?v=VM8roRaHNgw)
+  * [Joel's Best Moments - Animated by DietStab](https://www.youtube.com/watch?v=-A6J8c1DSX)
   * [Joel and Rev: A family Moment](https://www.youtube.com/watch?v=AdydYWA9yHk)
   * [Joel and Bran: Dubstep Crane](https://www.youtube.com/watch?v=4OPM3neKObo)
 
