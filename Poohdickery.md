@@ -4,7 +4,7 @@ This is the actual Winnie the Pooh comic strip published by Disney.
 
 ## Parodies
 
-![](http://i2.kym-cdn.com/photos/images/facebook/000/539/570/3b2.jpg)
+[[http://i2.kym-cdn.com/photos/images/facebook/000/539/570/3b2.jpg|alt="Top Gun Depressed Pooh "|height=400px|width=350px]]
 
 ![The hardest thing](http://i.imgur.com/6LGTdxx.jpg)
 
