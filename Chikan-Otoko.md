@@ -24,3 +24,19 @@ Longer description incoming as this is researched, but it had a manga adaptation
 * [Geocities.jp - Chikan Otoko 2005](http://www.geocities.jp/chikan_otoko_2005/)
 
 # SPOILERS AHEAD
+
+
+
+
+## Plot Summary
+After the issue is cleared up with the police, Molester tries to get closer to Miss Understanding, using the pretense of helping her with her stalker problem (though he does express that he does genuinely care about her situation). Kansai, now friends with Molester after they find some common interests, easily sees through him and tries to ship him with Miss Understanding. However, eventually she tells him that Miss Understanding has no real interest in him, so he gives up on her. 
+[Keep chasing Miss Understanding]
+>[Give up on her]
+After consulting with 2ch, he realizes that his love of Miss Understanding was fairly shallow. His new-found love of Kansai, however, is not. He now continues to help Miss Understanding with her stalker problem, but this time with the intention of getting closer to Kansai.
+
+[some shit happens, Molester ends up in Loli Jugs' room] While in apartment, he starts wavering in his love for Kansai. He suspects that Loli might be trying to seduce him. When she goes to take a shower, he can't help himself and tries to peep. The frosted glass prevents him from seeing anything more than the vague outline of a person. However, he realizes too late that this also means she can see him. He quickly jumps back under the kotatsu (literally jumps under it, with his ass sticking out) when she leaves the shower. He sits up normally and starts watching TV, but to his surprise, Loli sits next to him instead of on the other side of the kotatsu. He's nervously wondering why she would sit there, when she says, "Normally, when a girl and a guy are sitting like this, the guy would do something. Aren't you going to do something?"
+[Do something]
+>[No, I won't]
+They sit awkwardly for a while before he leaves.
+
+kansai wins lol
