@@ -50,3 +50,6 @@ That's not the correct way to do carbonara, the proper way is eggs, cream, parme
 I sexually Identify as an Attack Helicopter ever since I was a boy I dreamed of soaring over the oilfields dropping hot sticky loads on disgusting foreigners. People say to me that a person being a helicopter is impossible and I'm fucking retarded but I don't care, I'm beautiful. I'm having a plastic surgeon install rotary blades, 30 mm cannons and AGM-114 Hellfire missiles on my body. From now on I want you guys to call me "Apache" and respect my right to kill from above and kill needlessly. If you can't accept me you're a heliphobe and need to check your vehicle privilege. Thank you for being so understanding
 
   * I'm pretty sure this one originates off the chat
+
+### Remove Boris
+REMOVE BORIS remove borisyou are worst cocksucker. you are the cocksucking idiot you are the soup smell. return to detroit. to our detroit monkeys you may come our contry. you may live in the zoo….ahahahaha ,boris cocksucker we will never forgeve you. homosexuality rascal FUck but fuck asshole boris cocksucker stink soup sqhipere shqipare..boris anal rape best day of my life. take a bath of salty boris tears..ahahahahah
