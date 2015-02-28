@@ -56,3 +56,7 @@ I sexually Identify as an Attack Helicopter ever since I was a boy I dreamed of 
 
 ### Remove Boris
 REMOVE BORIS remove borisyou are worst cocksucker. you are the cocksucking idiot you are the soup smell. return to detroit. to our detroit monkeys you may come our contry. you may live in the zoo….ahahahaha ,boris cocksucker we will never forgeve you. homosexuality rascal FUck but fuck asshole boris cocksucker stink soup sqhipere shqipare..boris anal rape best day of my life. take a bath of salty boris tears..ahahahahah
+
+
+### 48 Year Old Man
+H ＥＬＬＯ ＡＭ ４８ ＹＥＡＲ ＭＡＮ ＦＲＯＭ /Ａ/． ＳＯＲＲＹ ＦＯＲ ＢＡＤ ＥＮＧＬＡＮＤ． Ｉ ＳＥＬＬＥＤ ＭＹ ＷＡＩＦU ＦＯＲ ＩＮＴＥＲＮＥＴ ＣＯＮＮＥＣＴＩＯＮ ＦＯＲ ＷＡＴＣH ＂4 CHAN CUP＂ ＡＮＤ Ｉ ＷＡＮＴ ＴＯ ＢＥＣＯＭＥ ＴＨＥ ＧＯＯＤＥＳＴ ＲＩＧＧＥＲ ＬＩＫＥ ＹO U
