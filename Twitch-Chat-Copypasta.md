@@ -24,6 +24,9 @@ I'm sorry, but did /sp/ already lose? Oh, that's right. The game isn't even over
 
 `ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ`
 
+### Nachos
+` ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼Sorry, I've dropped my bag of NACHOS™▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ► ▼ ◄ ◄ ▲▲ ► ▼ ◄▼ ◄ ◄ ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ ► ▼ ◄ ▲ `
+
 ### Ultra Variety Pack™ of Dongers
 
 ` ヽ༼ຈل͜ຈ༽ﾉ ༼ ºل͟º ༽ ୧༼ ͡◉ل͜ ͡◉༽୨ (ง ͠° ل͜ °)ง ヽ༼ʘ̚ل͜ʘ̚༽ﾉ୧༼ಠ益ಠ༽୨乁( ◔ ౪◔)ㄏ─=≡Σ((( つ◕ل͜◕)つ (ง •̀_•́)ง┌(° ͜ʖ͡°)┘(ง ͠ ͠° ل͜ °)งᕙ༼◕ل͜◕༽ᕗ Sorry, I dropped my Ultra Variety Pack™ of Dongers. ヽ༼ຈل͜ຈ༽ﾉ ༼ ºل͟º ༽ ୧༼ ͡◉ل͜ ͡◉༽୨ (ง ͠° ل͜ °)ง ヽ༼ʘ̚ل͜ʘ̚༽ﾉ୧༼ಠ益ಠ༽୨乁( ◔ ౪◔)ㄏ─=≡Σ((( つ◕ل͜◕)つ (ง •̀_•́)ง┌(° ͜ʖ͡°)┘(ง ͠ ͠° ل͜ °)งᕙ༼◕ل͜◕༽ᕗ `
