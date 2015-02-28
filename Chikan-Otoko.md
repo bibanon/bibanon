@@ -33,7 +33,7 @@ After the issue is cleared up with the police, Molester tries to get closer to M
 
 [Keep chasing Miss Understanding]
 
->[Give up on her]
+`>[Give up on her]
 
 After consulting with 2ch, he realizes that his love of Miss Understanding was fairly shallow. His new-found love of Kansai, however, is not. He now continues to help Miss Understanding with her stalker problem, but this time with the intention of getting closer to Kansai.
 
@@ -41,7 +41,7 @@ After consulting with 2ch, he realizes that his love of Miss Understanding was f
 
 [Do something]
 
->[No, I won't]
+`>[No, I won't]
 
 They sit awkwardly for half an hour before he leaves.
 
