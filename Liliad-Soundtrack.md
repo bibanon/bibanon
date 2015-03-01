@@ -2,8 +2,7 @@
 
 This is a playlist of recommended songs to listen to while reading The Liliad.
 
-The mp3 collection [can be downloaded from here.](https://drive.google.com/file/d/0B5HBpeA6UUoScHFIQzA2VGs1Smc/edit) YouTube links needed. We will probably create a playlist on YouTube.
-
+The mp3 collection [can be downloaded from here.](https://drive.google.com/file/d/0B5HBpeA6UUoScHFIQzA2VGs1Smc/edit) Youtube playlist [here](http://www.youtube.com/playlist?list=PL8wXGJ1ZX90drBfHaEawC1BdgQPfqwx7-).
 ## PART 1
 
 Story Song: Aria di Mezzo Carratere
