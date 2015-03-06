@@ -4,7 +4,7 @@
 
 Users could request and vote that a thread be archived, and it worked for every single board on 4chan. This made it an incredibly important repository of 4chan's threads from 2006-2013.
 
-**Capsized** eventually decided to close the site on 2012, but a group of anons that recovered Encyclopedia Dramatica, including **Edgeworth E. Euler**, convinced him to transfer the 500GB archive to them. Unfortunately, it was permanently lost when **Edgeworth E. Euler**, the final owner, became MIA around 2013 (he may have been arrested for his connections to LulzSec). 
+**Capsized** eventually decided to close the site on 2012, but a group of anons that recovered Encyclopedia Dramatica, including **Edgeworth E. Euler**, convinced him to transfer the 500GB archive to them. Unfortunately, it was permanently lost when **Edgeworth E. Euler**, the final owner, became MIA around 2013 (he may have been imprisoned following raids on LulzSec, or died). 
 
 The site eventually shut down when one hard drive got busted, and the admins could do nothing, as the data access passwords were taken by Edgeworth to his grave.  
 
