@@ -22,6 +22,10 @@ The Bibliotheca Anonoma, in a new attempt at Internet Archeology, is attempting 
 
 However, there is a possible way to restore a significant portion (if not all) of the archives. [Archive.org extensively crawled the site](https://web.archive.org/web/20120511204219/http://4chanarchive.org/) during all 7 years of [it's existence](https://web.archive.org/web/20120328160130/http://chanarchive.org/4chan/), so the older threads will definitely have at least one snapshot. 
 
+* [Wayback Machine - 4chanarchive.org (2006-2012)](https://web.archive.org/web/20120301000000*/http://4chanarchive.org/)
+* [Wayback Machine - Chanarchive.org (2012-2013)](https://web.archive.org/web/20130515000000*/http://chanarchive.org/)
+  * [Wayback Machine - Chanarchive.org, direct link](https://web.archive.org/web/*/http://chanarchive.org/4chan/)
+
 However, images might not have survived the move well, even thumbnails might be scarce. The odds get thinner as we get to the new threads as well.
 
 And it is not enough to just sift through the mess of snapshots. We need to be able to gather a list of links to the threads that still exist, otherwise nobody can find them.
