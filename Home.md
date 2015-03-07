@@ -8,7 +8,7 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
 
-You can also talk to us at our IRC channel at `irc.rizon.net #bibanon` . And an anonymous textboard is in the works.
+You can join in at [our imageboard thread at tb.vyrd.net.](http://tb.vyrd.net/net/res/46.html#46) Or check out our IRC channel at `irc.rizon.net #bibanon` .
 
 ### Introduction to Internet Culture
 
