@@ -40,6 +40,11 @@ Stories that will leave you crying.
 * **[[Ella]]** - In high school, an anon and a bro is instantly mesmerized by the "girl next door": Ella. The bro, named Pete, enrolls in a fashion class to have something to talk about with her,  and ends up knowing more about fashion than most seniors do about economics. But fearing that they might be perceived as a "gay couple" for spontaneous interest, they develop some kind of "manly handshake": A douchebag version of Cirque du Soleil. It was embarrassing, but she caught on to his unrequited love... and decided to ask him out on a date, and they hit it off.
   * It's one of these amazing Hollywood/HBO-quality stories with temptations, love triangles, twists and turns, drama, tragedy, and obviously intercourse. But at the end of it all, it's better to have loved... than to never have loved at all.
 
+### Rage
+
+* **[[The Tale of Fionn]]** 
+
+
 ### The Forbidden Fruit
 
 > The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
