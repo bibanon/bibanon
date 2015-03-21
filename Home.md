@@ -4,11 +4,15 @@ The **Bibliotheca Anonoma** is a research library tasked with collecting, docume
 
 Click on the links in the sidebar to the right -> to check out our collection. Under each section, you can click **More...** for an even larger list and longer descriptions that could not fit on the sidebar.
 
+### Contact Us
+
+* [BAnonoma Twitter](https://twitter.com/BAnonoma) - We usually post quick announcements here.
+* [Bibanon General Thread](http://tb.vyrd.net/net/res/46.html#46) - You can anonymously join in, talk to us, or submit content in this General Thread at vyrd.net. We'll migrate to our own textboard sooner or later.
+* IRC channel: `irc.rizon.net #bibanon` .
+
 ### Contribute
 
 We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
-
-You can join in, talk to us, or paste links at [the Bibanon imageboard thread at tb.vyrd.net.](http://tb.vyrd.net/net/res/46.html#46) Or check out our IRC channel at `irc.rizon.net #bibanon` .
 
 ### Introduction to Internet Culture
 
