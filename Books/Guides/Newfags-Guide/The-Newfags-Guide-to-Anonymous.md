@@ -30,7 +30,7 @@ We need to organize the mess below into a readable, coherent book. Place the res
 
 ### Programming
 
-[[Python]] -> [[Java]] -> [[C++|C Tutorial]]
+[[Python]] (or [[Ruby]]) -> [[Java]] -> [[C++|C Tutorial]]
 
 See the [[Programming]] Guide.
 
