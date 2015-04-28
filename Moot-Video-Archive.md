@@ -26,8 +26,8 @@ Later panels were recorded and livestreamed via 4chan's YouTube account (those s
 * [733.26MB Otakon/4chan_The_Otakon_2006_Panel_(HQ).avi](https://archive.org/details/4chan_The_Otakon_2006_Panel)
 * [564.68MB Otakon/4chan_The_Otakon_2007_Panel.avi](https://archive.org/details/4chan_The_Otakon_2007_Panel)
 * [834.35MB Otakon/The_Appeal_of_the_Anonymous_BBS_(Otakon_2006_Panel)_(HQ).avi](https://archive.org/details/Anonymous_BBS_Otakon_2006)
-* 370.8MB Otakon/4chan_The_Otakon_2006_Aftermath_(HQ).avi
-* 522.7MB Otakon/4chan_The_Otakon_2007_Aftermath.avi
+* [370.8MB Otakon/4chan_The_Otakon_2006_Aftermath_(HQ).avi](https://archive.org/details/4chanTheOtakon2006Aftermath)
+* [522.7MB Otakon/4chan_The_Otakon_2007_Aftermath.avi](https://archive.org/details/4chan_The_Otakon_2007_Aftermath)
 
 ### TechCrunch
 
