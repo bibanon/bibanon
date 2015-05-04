@@ -178,7 +178,7 @@ TL:DR my brother gave me the green light to fuck my sexually confused niece
 
 ![anon's niece in animu form](http://i.imgur.com/zDJDB4L.jpg)
 
-**_OP'S STATS_**
+**_OP'S STATS_**<br>
 &gt;Age, 22<br>
 &gt;Weight: 194lb.<br>
 &gt;Height: 5'9" inb4 manlet<br>
@@ -188,7 +188,7 @@ TL:DR my brother gave me the green light to fuck my sexually confused niece
 &gt;Dick: 6.5in. inb4 OP has micropenis<br>
 &gt;Goes to: /pol/, /v/, and /b/ when he needs <s>terrible</s> advice<br>
 
-**_CASSIE'S STATS_**
+**_CASSIE'S STATS_**<br>
 &gt;Age: 13<br>
 &gt;Weight: 120lb.~<br>
 &gt;Height: 4'11"in.<br>
@@ -368,7 +368,7 @@ I'll post some more tomorrow around the same time. I have to drop Cassie off at 
 Thanks for sticking around guys.
 
 # Sources 
-[Thread 1 (Archive.is)](https://archive.is/TZjH2)
-[Thread 1 (8archive)](http://8archive.moe/b/thread/2545659/)
-[Thread 2 (Archive.is)](https://archive.is/HRonn)
-[Thread 2 (8archive)](http://8archive.moe/b/thread/2556308)
+* [Thread 1 (Archive.is)](https://archive.is/TZjH2)
+* [Thread 1 (8archive)](http://8archive.moe/b/thread/2545659/)
+* [Thread 2 (Archive.is)](https://archive.is/HRonn)
+* [Thread 2 (8archive)](http://8archive.moe/b/thread/2556308)
