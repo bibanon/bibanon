@@ -10,7 +10,7 @@ OP posted more every two weeks or so, which was then typeset into a PDF file and
 
 ## The Story
 
-Note: Not all the updates have been uploaded to the wiki yet. Please [use the PDF](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE&usp=sharing) until they are posted.
+Note: Not all the updates have been uploaded to the wiki yet. Please [use the PDF](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE&usp=sharing) or the [Reddit archive](reddit.com/r/TashasBro/new/) until they are posted.
 
 * [[Update 1|Tasha Update 1]]
 * [[Update 2|Tasha Update 2]]
