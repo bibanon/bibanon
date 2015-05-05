@@ -640,7 +640,7 @@ I doubt the night is over.
 She's asleep. Not sure for now long. Typing with one hand on the phone. I won't be making more posts tonight. I release you. Just know we talked for a while. We made a pinkie promise that I'd never leave her. No romantic stuff, but I did kiss her forehead. She will probably have nightmares and wake up. Night isn't over.
 
 # Sources 
-* [Thread 1 (Archive.is)](https://archive.is/TZjH2)
-* [Thread 1 (8archive)](http://8archive.moe/b/thread/2545659/)
-* [Thread 2 (Archive.is)](https://archive.is/HRonn)
-* [Thread 2 (8archive)](http://8archive.moe/b/thread/2556308)
+* Thread 1: [Archive.is](https://archive.is/TZjH2) [8archive](http://8archive.moe/b/thread/2545659/)
+* Thread 2: [Archive.is](https://archive.is/HRonn) [8archive](http://8archive.moe/b/thread/2556308/)
+* Thread 3: [Archive.is](https://archive.is/ew4F3) [8archive](http://8archive.moe/b/thread/2563158/)
+* Thread 4: [Archive.is](https://archive.is/P74tm) [8archive](http://8archive.moe/b/thread/2566758/)
