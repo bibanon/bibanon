@@ -4,6 +4,7 @@
 * [Part One](#part-one)
 * [Part Two](#part-two)
 * [Part Three](#part-three)
+* [Part Four](#part-four)
 * [Sources](#sources)
 
 ***
@@ -576,6 +577,67 @@ loldamagecontrol
 
 We're almost at the bump limit so I'm starting a new thread. Also, I'm incredibly emotional, mostly angry, considering what happened.
 
+# Part Four
+
+## OP
+The past 3 days have been insane for me. I'm no longer telling a story here. I'm not sugar coating it. Either I win at life here or I leave with nothing.
+
+I got Cassie to talk to me. I have a little metal rod-key that opens my door from the outside. I forget what they are called. She cried again as soon as she saw me and she hugged me for comfort. Not bad, I guess.
+
+I talked to her about Mike. This is intense shit. I of course explained that it definitely wasn't her fault. I told her I would prove it with the note. I hadn't read it yet, like I said, but I had a feeling what it would say. Here it is word for word. It's a little short, but…
+
+>FOR THE EYES OF [MY NAME] AND THOSE WHO WILL HANDLE MY WILL:
+>The Eagle is dead. My dream is dead. I want out. I want anon to look after Cassie for now on, I trust him. Anon, I'm sorry if this is a burden. I'm so sorry. Forgive me. You're a good caretaker. I also give posession of everything I own to Anon. He will know what to do with it.
+>Please keep Cassie happy.
+
+## Anon
+That's it, or more?
+
+## OP
+More. This is "posting as it's happening". Right now, Cassie is making a decision and I'm waiting. What decision? Well… Let me post.
+
+## OP
+So the will said nothing about Mike hating what we did. She still isn't happy, though. Neither of us are. But she's finally talking to me again. I explained to her the enormity of our relationship. She isn't stupid, she already knew. I would be her legal guardian.
+
+So I asked her what she is comfortable with. Being together, or being a child. She doesn't know. I told her I understand, and this is a terrible time. I said if she wants to make anything work, she needs to have a clear goal in her mind. She has to decide this is what's right for her. Before she went to think, we had both broken out crying. My eyelids are thick with tears and so are hers.
+
+I usually am the decision maker, but this is what I did. And now I wait. If she doesn't want to, I'm turning her to someone else and turning myself in. If she still believes I'm her soulmate, I'll do what I can to make this work. Cause my desire was always there. I had just repressed it until now.
+
+I love her.
+
+## Anon
+You just dumped all the issues onto a 13 year old child instead of yourself.
+
+_You have so much fucking responsibilies toward "Cassie" now Anon. There is no easy way in this situation. Her happinness and even her life is between your hand. You can't fuck up this time OP._
+
+&gt;turning myself in<br>
+Don't you dare, anon. I know you'd be crushed if she said she didn't want to be with you, but you're her only family left. If she tells you that she wants to be your daughter and not your lover, then you just need to suck it up. Don't turn yourself in, no matter what, or she'll become a ward of the state and that never, ever ends well for children.
+
+## OP
+&gt;there was clearly a point where we had to stop and we passed it<br>
+&gt;let's not keep going and see what happens.<br>
+Or, can I even do that? The awkwardness would be hell.
+
+Okay well I'm not turning myself in. (It didn't take that much convincing, jail sucks.) Did I fuck up for having her choose? Maybe. I won't apologize for it. I want to hear that she wants to move forward with me.
+
+That sounded incredibly selfish. Holy shit. I'm fixing this right now.
+
+## OP
+We're at my house. Sorry for confusion. She locked herself in my bedroom but I have a key-like thing that opens that door. I decided to be there and help her make a decision. I don't know what I'm doing is right. I just hope it works out. Right now she's trying to sleep. I doubt the night is over. This is about what happened.
+
+I came in and apologized for not thinking straight. this is a bad time to force a decision upon her like that. I explained that for now, I'm going to try and get custody, and I'll be her guardian, and we can figure this out when we're stable. She relented. She told me that she still loved me and the only reason she can't make a decision, is because she's scared I'll get in trouble.
+
+This is fucking heavy.
+
+I insisted that she wait until our emotions are in check and we can figure this out together, and assured her I'll always be with her when she needs help. No matter what. More tears, this is the worst day of my life.
+I told her she can sleep in my bed if she wants, I don't have a guest room and it's a big bed. I can sleep on the couch.
+
+She insisted that she can't be alone tonight. So I'm trying to post this update asap and I'm going to have a platonic nights sleep with my niece. Try to.
+
+I doubt the night is over.
+
+## OP
+She's asleep. Not sure for now long. Typing with one hand on the phone. I won't be making more posts tonight. I release you. Just know we talked for a while. We made a pinkie promise that I'd never leave her. No romantic stuff, but I did kiss her forehead. She will probably have nightmares and wake up. Night isn't over.
 
 # Sources 
 * [Thread 1 (Archive.is)](https://archive.is/TZjH2)
