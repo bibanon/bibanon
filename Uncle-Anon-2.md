@@ -367,6 +367,210 @@ I'll post some more tomorrow around the same time. I have to drop Cassie off at 
 
 Thanks for sticking around guys.
 
+# Part Three
+### OP
+Hello /b/. I'm just a normal dude who happened to enter a sexual relationship with my niece yesterday. To prove how new I am, I don't even know how to into tripfagging, so I resort to screencaps to prove I'm the OP. Pic related. I promised I'd retell what happened, starting from watching the Avengers with her. This is because I was way too busy having romantic moments to really post. Here's the full story.
+
+So Cassie wanted to watch the new Avengers Movie. I don't like the Avengers, Especially Captain Cuckmerica, worlds greatest goy. But Cassie loves Thor. It's all she cares about. She'll watch just about anything with Thor in it. I can hardly say no to her tonight. I shilled out a couple bucks and rented The Avengers. We laid down on the couch, her back in my chest and my arms around her waist. We were spooning on the couch while watching this kike movie. I did well to hide my powerlevel this time. I didn't want to overwhelm her tonight.
+
+The movie ended up being a waste of money. Not even 20 minutes in I noticed her breathing was ragged again. It was like she wasn't paying attention at all. At first, I figured she was just flushed. I decided to just rub her arm a bit and kiss her neck, to be soothing and maybe calm her down.
+
+While I was rubbing her arm I noticed she was moving, just slightly. And I didn't sooth her at all, she was still breathing  pretty heavily. I suspected she was doing something down there. I checked it out with my hand, and found that I was right. She was fingering herself while watching the movie.
+
+I stopped, for just a moment. I didn't ever realize how brave and horny my little niece was. I wondered if she had only wanted to see another movie so we could cuddle again. I'm not sure. Either way I had to act on this. I kept kissing her neck, I slipped my hand around her hips and met her hand. I pushed down on it and rubbed it with her. She whispered something when that happened. I couldent hear it, but I'm almost certain it was my name. I spoke up, "You can tell me if you ever feel hot like this. I'll come and make you feel better."
+
+Now that my fingers were in the fray, Cassie's hand had retreated as she entrusted her pleasure to me. We weren't was paying attention to the movie at all. I shifted a little to make my arm more comfortable, and I noticed my powerlevel wasn't hidden anymore. ]Insert 20 boners joke here.] I decided I would make her feel really good this time. I asked her to move so I can get my other hand in there. She did, and so I began. With one hand I was rubbing her clit, and with the other I was fingering her. This was a little hard in our position, granted. My left arm fell asleep. "Yes…! *shriek*"
+
+She was into it. And I wish I could record that little shriek, it did things to me I can't even describe. She was being a little louder then the first time I fingered her. Then I realized, I didn't have to do anything to get her to relax this time. It was still tight, of course, but she didn't clamp her pussy shut like earlier. I took it as a sign that she trusted me. As I was contemplating this, Cassie murmured something again: "I… I…!"
+
+"Are you almo-"
+
+"I love you!" and she was cumming, saying "I love you! I love you!" Do I deserve such words? She shook around in my arms, and I felt the her lovely juices race past my fingers and out her pussy.
+
+When she was done squirming from my touches, my hands retreated, and I kissed her neck again, then whispered, "I love you too."
+
+She never saw this part, but my inner-degenerate came out a bit. I licked my fingers clean. I'm pretty sure this tiny girl has some pretty strong pheromones, that shit tasted like honey. She began to flip around to face me on the couch. I panicked, and my finger flew out of my mouth faster than Sanic on crack. Because I was almost caught I blushed a bit, thank god she didn't notice. "It's my turn now, right? I have to…" she stopped, embarrassed it seemed.
+
+"It's my turn now, right? I have to…" This girl is too honest. She was very close, and she smelled of sex and sweat. It was driving me nuts. I closed the gap between our lips and we embraced for a while. She's picking up this kissing thing pretty quick.
+
+I decided there that I wasn't letting the night end without getting that cunny. I separated from her, and asked "Do you want to watch the movie, or try something new?"
+
+"What do you mean Anon?"
+
+"New ways to be an adult." I kissed her again, reinforcing that.
+
+"I want to do whatever you want me to do," she said. So honest. My head was felt light the whole night. It was so surreal. But after hearing those last words, I was high on desire. I spared few words after that. We got up, and she held my hand. She knew we were going to my bedroom, no doubt. I paused this cuck-ass movie and took her there.
+
+"We're taking off all our clothes this time, Kay-Kay."
+
+"What? Why? I want to keep my shirt..."
+
+"Kay-Kay, you're the most beautiful girl I know. If anyone should be proud of their body it's you."
+
+"B-But…"
+
+ALPHA MODE ENGAGED
+
+"Besides, you're my little kitty now, right?"
+
+"M-Mhm…"
+
+"You can do it… I'll cheer you on!"
+
+"O-Okay… But kiss me one more time?"
+
+I shrugged, of course I'll kiss her. And soon after… I was stark naked with my niece. I think my consciousness tried to scream _**HOLY SHIT NIGGER WHAT ARE YOU DOING**_, but I ignored it. Cassie was covering herself up with her hands, she must still be nervous being naked. From this view though, I could see her pussy was red and wet still, probably from fingering her. I stopped looking at her pussy and my eyes went to hers. She was staring straight at my crotch, mouth agape.
+
+"What's wrong Kay?" I posture myself, perking it up
+
+"You want to put him in me?"
+
+"Yes, that's how lovers like us show how much we love each other."
+
+"I don't think it will fit…" Okay, I'm not THAT big, just barely above average. But she has a very tiny figure. Her concerns aren't wrong… But the female anatomy is flexible.
+
+"It's a little scary… But I know anon would never hurt me. I'll be brave."
+
+She really is brave. She climbed into bed and I followed her. "What do I do…?" 
+
+"Just lay down, rest on the pillow like you're taking a nap."
+
+"Okay…" She crawled over to the big pillow in the middle, laid in her back and placed her head on it. And I soon hovered over her, getting ready to fulfill this destiny. I felt bad, I knew first times always hurt. I had to prepare her. I explain, that a girls first time with a real man will hurt, but it goes away. To put a sweet taste on it, I said, "It's how your body tells you you've found your soul mate."
+
+I promised I would'nt let her go, no matter what. I'll give her as many kisses as she needs. She trusted me. As promised, I start raining kisses on her neck, and rubbing her pussy again so she'll loosen up. I kissed her chest too, tasting her tiny nipples. I went all around, but eventually found my way to her mouth. I think she likes being kissed there the best. Her breathing is soft and relaxed. _It's time._
+
+I stop kissing her for only a moment to position myself correctly. I lie over her, my face above hers, and push my dick toward the entrance. But before I go all Genghis Kahn on her Walls of China, she needs to hear it again. "I love you, Kay-Kay. Will you try to relax for me?"
+
+"Me too… I'll try." I had never taken someone's virginity before. I had no idea what to expect here. So, we locked fingers in my left hand, and I pushed. It was tight. REALLY tight. She's already wet though, that helped considerabley. And before I even realized it, I felt it snap.
+
+"Owww… Owwwwwww!"
+
+I stopped dead in my tracks "Relax Kay-Kay," I said, and stroked her hair. 
+
+"Y-you said you'd kiss me… Mmph!" I did. Dhe really likes to kiss. Just keeping it accurate.
+
+She either has a high pain tolerance or is just very brave. We kissed for about 10 minutes, still locking our fingers which I held tight. By the end of that, she had stopped moaning in pain, and the bleeding stopped. She let me know, "I think I'm okay now."
+
+"Really? Good. I was so worried."
+
+"Did you lie to me when you said this makes us soulmates?"
+
+"Uh… Maybe a little. But it's still kinda true, don't you think?"
+
+"I know but… It helped me relax. I wanted to believe it was true so bad and it helped. Thank you so much." She's thanking me?
+
+"I'm going to start now. Let me know if it hurts."
+
+"Okay, Anon… Pplease don't let go of my hand." Slowly. I give her one small thrust to test the waters. She seemed okay. I was scared to hurt her, but there's no point in just sitting here. I start a rhythm, back and forth, in and out. "Mmm…" Sounds okay. A little more. "Mmm… ah!"
+
+"Is it really okay?"
+
+"It's okay… more…" More it is. I gave her a medium paced humping. It's still too tight to do anything wild I think, this was a little hard. I try to keep it interesting, I try thrusting in different angles to see how she reacts. It seemed like there was still a little pain, but she was definitely enjoying herself.
+
+"Nnnahhh! Mmm! MMM!" She's louder than I am. Maybe it's hormones, I think. All of a sudden… I realized that I was starting to get close. I had been so foccused on her well-being I didn't detect my rising libido. I became aware of the sounds I was making with my beautiful niece, the smell on the air, and the lust on her face. It got to me.
+
+"Guh… Fuck!" She opened her mouth to say something back to me, but nothing but pleasure came out.
+
+"A-Ahhh! Y-Ahhh! Oh!" This snuck on me too fast. I might cum early. I have to focus. I begin thinking of less sexy things. Grannies? That migh- "Aaaaaaaahhhhhhnnnn!!" Oh thank god, she came. No holding back.
+
+"Guhh!" I pulled out and let it out on her tummy. And it was way more than usual. That was great, I had never felt anything that tight before. I lay next to her and we relax for a bit. She's still trying to catch her breath.
+
+I just stroke her hair, admiring this once in a lifetime afterglow. Suddenly she takes her finger and… Scoops some semen up. Before I could ask what she's doing, she licks it off her finger, then makes a sour face. "That tastes bad… Ew."
+
+"What the? Why did you do that?"
+
+"Well… You did it to me… I thought it's what you're supposed to do?"
+
+Oh. Damn.
+
+## Anon
+I've been reading it since first thread, at first I was like: ok, random dude wanna get some pedo/wincest, usual /b/. Then the second thread came and man I wasn't ready for were this shit was going. Now Im here, and this is truly one of the most wtf thing I've wtf in a long time on /b/.<br>
+&gt;It's obvious that the story is fake
+
+## OP
+Nigga, I put in all the lousey details so you could enjoy yourself. I did you a favor. 
+
+Now that I'm done with the sexytimes, I'll explain everything else we did, man to man. With a less dramatic story telling effect. So basically, we went to bed after that. She rested on my shoulder that night. I had made a few more posts on my phone with my free arm, and that was it. The morning after I took her to school, and that's where it left off.
+
+I told her not to tell anyone in school, obviously. And if she absolutely HAD to say something, she would say she has a boyfriend from another school. She understands the gravity of our new relationship.
+I had also tried calling my brother in the morning, but he never picked up. I left him a message saying we got to talk about things, and left it at that. 
+
+I have her a final kiss before she left. She's probably home now, school's over.
+
+## Anon
+Has anyone sent you any flowers by Irene yet?
+
+_don't forget to post how you got v& when you do. at least help other anons avoid your mistakes pedo fag_
+
+## OP
+At some point tonight I need to make a call to Mike. I'll post results. No idea what I'm gonna say.
+
+## OP
+_**OH MY GOD V&**_
+
+It's been nice knowing you. While I have my sanity here I'll post the call
+
+&gt;[Last name]'s Residence<br>
+_Huh? Is Mike there?_<br>
+&gt;Are you a family member?<br>
+_Yeah… I'm anon, his brother?_<br>
+&gt;Oh, ok. This is the police. Do you think you get over here? We need someone to take temporary custody of his daughter.<br>
+_Uh, What the hell happened?_<br>
+&gt;It might be better if you get over here asap<br>
+_O-Okay… I'll head over._<br>
+&gt;Please hurry *click*<br>
+FUUUUUUUUUUUUUUCK
+
+## OP
+I really got no choice but to go. I'm finishing the ice cream in the fridge. If this is my last post, I want my last words to be: /pol/ is always right. That will always be my home.
+
+## Anon
+LOOK OUT, IT'S THE HAPPENING TRAIN. CHOO CHOO MOTHERFUCKERS.
+_Damn. Fucking hebe fags. Incest, too. Totally disgusting. I hope you get v&, OP. And hard. Enjoy the inside of the flower van._
+
+## OP
+No time to make a detailed post
+
+Anons were right. He suicided. More details later 
+
+I have to handle this and mourn.
+
+I'm op. Pic related. [Screencap]
+
+## Anon
+[HAPPENINGposting intensifies]
+
+## OP
+I'm not feeling to well. This isn't the first death in the family. My sister died when I was 11. She slid on black ice, also wasn't wearing a seatbelt. She flew out the front window when colliding with a tree. And now my brother. I already cried twice trying to type this out. He's a veteran. I can guess why he did what he did, he got married and knocked up Holly, his wife, before he went off to South Korea. I don't know what he did there, other than he had confirmed kills.
+
+Holly died of Breast Cancer before he came home. There was a period of time where I looked after Cassie before Mike came home. I was 18 when she moved in, and I was almost 20 when she left. My brother only knew his daughter for two years. He chose to die by gunshot to the temple. What's worse, is that Cassie came home to find him like that in the kitchen when she came home from school. She apparently hopped through a window because the house was locked.
+
+And she thinks he killed himself because of what we did. She won't speak to me. I also have a suicide note. With all due respect, don't make me read it yet.
+
+## Anon
+Read it when you can, it could bring comfort to you and your niece.
+
+## OP
+That's good advice if I ever heard it. I'll do that. Promise. But I'm not touching the note until I get her to talk to me. I'm reading it with her, with virgin eyes.
+
+## OP
+I'm doing to just ignore all this shit for a bit. everything in this thread is pissing me off. I'm going to Cassie right now because she's more important.
+
+## Anon
+[hole-picking]
+
+## OP
+Okay fags. I may have spruced up the sex scenes. While they are accurate in how they transpired over time, I made it extra cute cause you guys like to fap. Shit's too real right now. Give me a while to post.
+
+## Anon
+loldamagecontrol
+
+## OP
+8chan went down. Anyfuckingwho. So apparently my brother lied about kills. Or maybe he didn't. Do you trust the USA when they say shit anyway? "Your story is fake" - I don't give a fuck anymore. I'm finishing it. I considered turning myself in, but I'm already in this too deep. Guys, I'm going for ::Happy End::.
+
+We're almost at the bump limit so I'm starting a new thread. Also, I'm incredibly emotional, mostly angry, considering what happened.
+
+
 # Sources 
 * [Thread 1 (Archive.is)](https://archive.is/TZjH2)
 * [Thread 1 (8archive)](http://8archive.moe/b/thread/2545659/)
