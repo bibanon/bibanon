@@ -1,5 +1,11 @@
 **Uncle Anon 2 <s>Electric Boogaloo</s>** is a story about an anon and his 13-year-old niece and how he boned her. The first installment was posted on 8chan /b/ on 5 May 2015, with OP posting a new thread daily. Despite its name, this Uncle Anon has no relation to [[that|Uncle Anon]] Uncle Anon, except in that he's read the story. Part One was in greentext, with a bit of question-and-answer format akin to [[Nurse-kun|Damaged Goods]], with Part Two and subsequent installments being a hybrid of prose and greentext.
 
+# Contents
+* [Part One](#part-one)
+* [Part Two](#part-two)
+* [Part Three](#part-three)
+* [Sources](#sources)
+
 ***
 
 # Part One
