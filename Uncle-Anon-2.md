@@ -639,8 +639,244 @@ I doubt the night is over.
 ## OP
 She's asleep. Not sure for now long. Typing with one hand on the phone. I won't be making more posts tonight. I release you. Just know we talked for a while. We made a pinkie promise that I'd never leave her. No romantic stuff, but I did kiss her forehead. She will probably have nightmares and wake up. Night isn't over.
 
+# Part 5
+### OP
+tl:dr:<br>
+&gt;niece falls in love with uncle<br>
+&gt;uncle is autistic and reciprocated her love<br>
+&gt;brother is fucked up and ok with it<br>
+&gt;uncle fuggs niece<br>
+&gt;next day brother suicides and I still have no idea why<br>
+&gt;uncle has temporary custody<br>
+&gt;emotional wreck<br>
+Naturally I'm going to be really busy today.
+
+I took a paid leave from work. I can't leave Cassie alone. Also, I said before I work as a manager at radioshack. Since my store was due to close, you can say I pretty much quit.
+
+"Why are you posting more details about yourself, you're gunna get doxxed!" Because I already said this in the first thread. Too bad, I just have to hope no one decides to fuck this poor girls life any further.
+
+Browsing on mobile helps, I can type whenever I have a moment anywhere. I'll spare the details. I decided to get a move on and figure out what to do with my brothers stuff. I also already had to make tons of calls to the family to make them aware of his death. Luckily, my brother owns his home. When the will gets pushed through, maybe I can rent it.
+
+I'll try not to leave /b/ out of the loop. At first I thought I would just take you all guys for the ride with me, and share my experiences with my niece with you in a writefag kind of style. Things have changed. I'm not going to dramatize my life anymore. I won't writefag my life anymore unless it's needed.
+As far as updates on Cassie goes, she's an emotional wreck, and barely speaks. She's not going to school for a while. She's clung to me most of the day. Our eyes are still swollen with tears, hers more than mine. I hugged her while we rested last night, if you can call it resting. We barely slept. She would keep waking up in fits of hysteria and all I could do was cry with her and hold her tighter. I think I'm lucky she trusts me so much. I was certain she would be pushing me away by now. Also, I'm keeping these updates a /b/ a secret. 
+
+I've breached her trust by posting intimate details about our relationship. The dream is over. This isn't a sweet cunny quest. I have to be a parent. I'm most likely going to get custody. She's lived with me before and that's what my brother wanted. Soon I imagine she will start having to see a child psychologist, this is my worst nightmare obviously. Cassie has shown a sincere desire to not get me busted, but that doesn't mean he/she won't find something odd.
+
+I'm open to any kind of advice. I don't have much parental experience, or how to deal with young girls who are scarred for life. I don't think I mentioned it last thread, but Cassie was the first to see Mike's body.
+
+_The only way out is through_. Either I get ::Happy End:: or I get anally raped by musclemeat in jail. I remember how in the first thread I said, "I feel like my life just became episode one of a lolicon anime".
+
+Monster is a magic elixir keeping me alive right now btw.
+
+### Anon
+I missed the earlier threads. How old is the loli?  Do you still fuck?
+
+_Accept the situation as quick as you can, that will give you some common sense to act.
+Decision and maturity go hand in hand._
+
+### OP
+She's 13, I'm 22. We're not fucking because reasons. I don't know what our future holds. That's comforting advice. I never thought I'd have kids anytime soon. This is the worst way to get them. I can't post too often because I have to keep moving forward. I'm swallowing my tears for now. Keep going for ::Happy End::.
+
+Right now I'm taking Cassie to a radioshack so I can buy her a cell phone. I can't be with her all the time, and I want her to be able to talk to me whenever she wants. Maybe a phone will cheer her up and distract her too.
+
+I don't regular /b/ often. Is there a better time to post updates?
+
+### Anon
+Post her number.
+
+_If you have to cry, don't let her see you. If you have to break down, do it where she can't watch it._
+
+### OP
+Not all bad news. My buddy at the other radioshack just handed me a galaxy s5 and marked it as "missing". He heard what happened. Her phone's better than mine now… After I activate this phone I'm going over to my brother's house to sort out his possessions. Cassie isn't coming with me. Also I am confirming that she is going to see a psych this Thursday. God help me.
+
+### OP
+![Emi from KS, "do it for her"](http://i.imgur.com/HP7UitM.jpg)
+
+/b/ doesn't care unless lolis are being fucked. Heh. Either way I'll keep everyone up to date.
+Something interesting did happen. Cassie gave me a call while I was at my brothers house.
+
+>I can't be alone
+
+I came home immediately. As soon as I opened the door she hugged me. So for a while we just laid on the couch for a while hugging. I took the advice and tried not to cry, and let her get it all out. During that time she kissed me. You know, not-platonic-kind-of-kissing. She told me she made her "decision", even though I told her we were talking about this later. She wants to be mine. I don't know if it's healthy for her to say that at this time, but that's how it went down. I didn't reject her. I told her just like before, she can kiss me whenever she wants,  **_but no sex until she's feeling better._**
+
+I'm onto other things now and she seems happier we re-stated our feelings, though I was hoping that'd come later. I'm not gunna complain though. I **do** love her.
+
+### Anon
+I thought this story was over but damn son, this is like fucking soap opera rollecroaster of emotion and feels, I hope things work out okay for you and your new daughterfu OP.
+
+### OP
+Appreciated. And to the guy asking for her number, I was incredibly tempted to post the number of a police department in a random state. Count yourselves lucky.
+
+### Hermit
+I'm writing this more for my son, but I think this will help you too.
+A funeral's purpose is to make people understand the past is the past and after that they must move on. Dwelling in the past only causes depression and hopelessness. Right now you are her present, keep her looking at the present and both will heal.
+
+### Anon
+Please explain. I'm interested. Just how old are you and why are you telling your son this? Also, why on /b/? 
+
+### Hermit
+I'm 78. But age and social standing doesn't matter here, don't you think so? I'm dying of lung cancer, already gone to my spine. I'm too drugged, but aware enough to type. Sorry if I'm too slow. 
+
+My grandson gave me his old laptop to be in check, he himself brought me here and taught me some tricks. He loves me and trust me like no one else, and somehow I felt the same love in those kids. 
+
+I'm not impressed for the contents of this site. The same topics were before you and me, they were just further from the other in the past. It's the same conversation I'd hear in a bar in any city. At least some of you make me chuckle a little.
+
+My son is a person who doesn't let go of his feelings. He gets easily upset about minimal things. I'm writing a letter to him to guide him and my grandson. I just got here by chance and read the entire story. In another time I would have done some regretful things to them, but gladly with age comes humility, perspective and understanding. Now I know I'm not the one to judge his actions, but to guide and support, to have compassion for them. Compassion saves another people and at the same time, saves yourself.
+
+### OP
+Mom's here to visit.
+
+### Anon
+Based Hermit. Thank you for your service, insight, and compassion. One obvious question everyone here is wondering. What do 78 year old's fap to? 
+
+### Hermit
+Hahaha, I like you. At this age, all desire is gone. I won't lie to you, looking down there to see an unfeeling soggy noodle doesn't even feel funny at all. I blame alcohol.
+
+### OP
+Mom came and we had a good family cry. My brother, her son, just died. I'm sure you all understand the extent of a parent's despair when they outlive their offspring. Especially suicide.
+
+I'm just going to call her Mom. Also, it's unrelated, but I never met my Dad. He didn't die too. He's an alcoholic. My mother decided he wasn't going to be a good influence in my life and divorced him while she was still pregnant with me.
+
+Also, Mom still has no idea my relationship with my new lover, and she won't. I have faith in Cassie. Mom's going to stay the night, so I might be sleeping on the couch tonight. She can't be alone at this time either, but she's going home tomorrow.
+
+I just realized I need to turn one of my rooms into a room for her. Even if it's just for show. Goodbye, gymset. Also, Mom just gave me some money to help out with taking care of Cassie. God bless her.
+
+Hermit, I very much appreciate having a intelligent man like you here. I know you don't agree with what I'm doing. I'm not convinced I am yet. Even if it's wrong, I do truly love this girl.
+
+### Hermit
+Sorry to read about your father. I know by experience she did the right thing. As I said before, I'm not the one to judge. I did my share of bad things in the past and I respect your resolve.
+
+### Anon
+&gt;I have faith in Cassie<br>
+And here on the left we can see OP's demise.
+
+### OP
+&gt;faith<br>
+I should have said, trust but clarify. She's also not an idiot. I already had the talk with her about secrecy. Obviously no kissing in front of grandma.
+
+Also, if I didn't trust her to begin with I wouldent be in this deep. I would have bailed. I told stupid white lies too. Also, to be specific, she didn't say "I'm dating my uncle", she said "I'm dating someone named [My Name Here]".
+
+Sleeping arrangements are yet to be seen. I'm cooking spaghetti cause I'm too tired to make anything else.
+
+### Anon
+![shigcaster](http://i.imgur.com/L6dNVIK.jpg)<br>
+&gt;cooking spaghetti<br>
+&gt;not having it pre-prepared and ready to pull out from your pockets<br>
+
+### OP
+I didn't even realize, first smile I had all day.
+
+### Anon
+Eldritch hermit, Have any stories to tell? From those mad days before the internet when dinosaurs roamed, maybe?
+
+### Hermit
+I won't tell you my times were better, my elders used to drive me crazy with their "in my time things were better", I'll save you that crap. It was a different kind of thinking maybe, we were the post-war generation, with a whole world to remake. Sad thing the world we made wasn't what we expected. But things alone follow their own course, and I'm optimistic, even with death at my door.
+
+### OP
+&gt;wasn't what we expected<br>
+Dem Zionists got you good, didn't they elder?
+
+### Hermit
+Ha, sure they did.
+
+### Anon
+&gt;op is a Nazi pedophile<br>
+&gt;still cheering him on<br>
+WHAT A WORLD
+
+### Hermit
+Paraphrasing that image of Ron Paul, this is the world you chose.
+
+### OP
+I went to the bathroom mid meal just to post this one. Elder, I highly reccomend that in your spare time you watch The Greatest Story Never Told.
+
+>tgsnt.tv
+
+It's free to watch. It's a 6 hour documentary about the WW2 from the other point of view. They cite all their sources. I urge you to take hear both sides of the story. If it won't convince you, it will still help you understand why the Germans were so inspired to do what they did. And it would improve your understanding of 8chan culture.
+
+### Anon
+&gt;child psych<br>
+Not even once OP. 
+
+### Hermit
+I hope the nurses don't catch me, they are Jewish and surely will take my computer or euthanize me impaling me with a menorah, ha.
+
+### OP
+Tabletalk, it happened. Mom supports me being her caretaker. She's 53 believe it or not. She also talked about how her money was to be spent. Cassie mostly stayed quiet, since mom was just in lecture mode. She wants me to call her if I ever have questions.
+
+Bed arrangements, turns out I'm sleeping with Cassie. She told Mom that's what she wanted. And while I'm perfectly okay with mom sleeping with us, there just isn't enough room. It's not too bad. My couch is also a foldout bed. It was really convenient when I was a bachelor in college. Parties and what not.
+
+Away from Cassie, my mom had told me one more thing. I was her first male role model. Because Mike wasn't here when she was born, I had a huge impact on her life and who she became. "You better keep being a good man, you hear me?"
+
+I never thought of this before.
+
+### OP
+>psyche is optional
+I was told it was mandatory. Wat?
+
+### Anon
+Which retard told you that? You should only let her go once then pull her out of it unless they make it mandatory.  That quack will fuck up Cassie for sure.
+
+### OP
+I think I misunderstood. My mother said it was mandatory before she got here. But she didn't mean mandatory because it's the law. She meant mandatory because she was my mother and I ought to do what she says or else.
+
+&gt;tfw /b/ just saved my Ass from eternal Tyrone
+
+/b/ thank you so much, I actually feel a lot better talking to you guys. Of course I'm not in the best shape right now, but your advice and help has already changed my life dramatically. For the better. This keeps my mind focused too, typing. So I don't think of other sad things.
+
+I wonder, if I didn't agree to babysit, would Mike still be alive?
+
+&gt;fingerbang your niece<br>
+This was either the best or worst advice /b/ has ever given.
+
+### Anon
+Don't go down that road. Focus on the now. On what is, not what could have been. Focus on your family.
+
+### Hermit
+As I told you before, you are the man now. Just keep being the man. Digest that well and calmly. Use all the advice we all gave you and you will advance in life.
+
+### OP
+Thanks for the frugal advice too. I already had that idea, but I didn't think of the "use the rent money to buy and rent more houses idea".
+
+Right now Mom and Cassie are talking. I'm not sure what about. Mom loves to have 1 on 1 lectures and be a bitch sometimes, but I'm sure she's being gentle with her. I'm just waiting for them to finish.
+
+### Anon
+Definititely behind being frugal and the whole renting scheme. If you can support your new family well, and help KayKay to do well in school and grow up to be a winrar, she'll /b/ a story for the ages.
+
+### OP
+It's bedtime /b/. I'm going to do my duty and give my absolute best to comforting Cassie tonight. I release you. I feel like we're a whole lot closer to ::Happy End:: today.
+
+### Anon
+_**I WANT TO FUCKING BELIEVE**_
+
+_**PLEASE ETERNAL LOLI CATGIRL WIFE END**_
+
+### Anon
+*two fags start ERPing with a therapist-patient theme*
+
+### OP
+I may fuck my niece but I think you're a fucking faggot. Definitely not taking her to a psyche now.
+
+My angel is asleep.
+
+### Anon
+What position will/would you do with your niece next OP? 69?
+
+### OP
+Was about to go to bed but trips deserves an answer. I always wanted a titjob but that's not going to happen for a few years.
+
+I didn't choose the loli life, it chose me. Phones off. Night guys. Praying for no more nightmares.
+
+### Anon
+Drawfag delivers.<br>
+![eh-tier rendition of op and cassie](http://i.imgur.com/Rml1ey2.jpg)
+
+### Anon
+At least he tried.
+
 # Sources 
 * Thread 1: [Archive.is](https://archive.is/TZjH2) [8archive](http://8archive.moe/b/thread/2545659/)
 * Thread 2: [Archive.is](https://archive.is/HRonn) [8archive](http://8archive.moe/b/thread/2556308/)
 * Thread 3: [Archive.is](https://archive.is/ew4F3) [8archive](http://8archive.moe/b/thread/2563158/)
 * Thread 4: [Archive.is](https://archive.is/P74tm) [8archive](http://8archive.moe/b/thread/2566758/)
+* Thread 5: [Archive.is](https://archive.is/lNDxC) [8archive](http://8archive.moe/b/thread/2574051/)
