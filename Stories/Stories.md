@@ -88,6 +88,10 @@ These stories will make you hurl.
 * [[Chikan Otoko]] - An innocent 2ch user accidentally gets mistaken for a Train molester, though he survives the experience with a bit of charm.  
 * [The Story of Denko](http://github.com/bibanon/bibanon/wiki/Denko) - (´･ω･`)
 
+## [[Progrider]]
+
+* **[[Neurotypical idiots]]** - a story about neurotypicals and how relationships aren't all that important at all.
+
 ## [[Reddit]]
 
 * [[65 Mustang GT]] - A story about a 24-year old classic car restorer, who is given the responsibility of looking after a neighbor's kid, Rachel. They eventually become the best of friends, working together to rebuild a '65 Mustang GT Coupe. But time stops for no man, and those nostalgic days simply can't last forever.
