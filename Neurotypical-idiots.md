@@ -1996,6 +1996,32 @@ A couple of weeks after that: "Sorry for asking this, are you single?". "No, I'm
 
 And so my calm days stayed calm.
 
+```
+　　　 　,-∧,,∧-- ､
+　　　/ (-ω-｀ )　/
+　　 r-くっ⌒cｿ､ /
+　 ノ '､ , ､ _, ' / /　　
+.（_,. 　　　 　 ././　　　　
+,(.,_ ｀'ｰ-､_,,..ノ/
+　　~`''ー--‐'
+
+　　 　, --∧,,,∧--- ､ 　
+　　　/ (Ξ´-ω) /　　
+　　 r-くっ⌒cｿ､ /　
+　 ノ '､ , ､ _, ' / /　　
+.（_,. 　　　 ././
+,(.,_ ｀'ｰ-､_,,..ノ/
+　　~`''ー--‐'
+
+.:|　.　:|　　☆　　 ! .l .l .i::l
+.:|　.　:|　　　　 。 ! .l .l .i::l
+.:| .＿_|　　　　　 :| .i .i .|.:!
+.:|::||□|￣￣￣￣～～～
+└ｌ[￣]-――――
+:::::::~＜⌒／⌒ヾ-、_　…Zzz…
+::::／＜_/＿＿＿＿ノ
+```
+
 ### 2015-05-03 00:17
 
 There's no reason to settle for the first girl that jumps at you unless your life is absolute shit. Yet some of my old friends from uni married or are dating landwhales, single mothers, crazy girls or retards. The fear of dying alone, I guess.
@@ -2541,3 +2567,27 @@ Had I not been with real girls, I would still be wetting my pants from dreaming 
 I guess this is the end of this shitty story. Thank you for reading.
 
 _I know none of you actually read this wall of text, but thank you anyway._
+
+_me on the right_
+
+```
+　 　　　 __」｀ヽｧ'7`
+　　　　`ヽ::::::;!ゝ'''"´二二｀"'ヽ､`
+　　　　　 `Y　 ,　´　　　　 ｀ヽ.　', 　　　　 /＼_________／＼`
+　　　　　 `i　 / ﾊ_i　i　ﾊ__ i ヽ!　 i　　 　/　　　　　　　　　｀ヽ.`
+　　　　　 `|　i /ｧ;､|_ﾊ,ｧ;‐!､ﾊ　|.　|.　　 ,'　／　　　　　 ｀ヽ　　',`
+　　　　　 `|_ﾊ」| ﾄj　 　 ﾄ_j 〉|,_」　|.　 　|　　●　　　　 ●　　　i`
+　　　　　　 `|'7"´ 　　　　｀" | .|　| 　　 ', 　 　（__人__）　　　　ﾉ`
+　　　　 `,. -.| ゝ､　　‐ 　 ,.イ|,ﾊ| ,|　　　 ヽ､ 　　　　　　　　／`
+　`.　　/　　└'"´｀,ｲT7´ >､-'└'　　　　　　｀' ｰｧ　　　く´`
+　　　`|　　　　 　　/ }><{'"/ ｀ヽ.　　　　　　　　/　　　　 ヽ.`
+　　　`ヽ､____,. '"´i__7Y〒〈　　,ﾉ 　 　　　　　　 i　,　 　/ 　i`
+　　　　　　　 　　`| ゝ,!___7｀'/ 」　　　 　　 　　 |　|　 ./　 /|`
+　`__________________.|　|7-/　/'"i',__________________,|　|　/　 /　|________`
+　　　　　　　　 `,.ﾉ J,.!/　/ 　ハ　　　　　　　　,し'　(_ノ 　　|`
+　　　　`旦~　rく ヽ-'ヽ-‐'　　　 ',　　　旦~ ／　 ,.-‐ｧ 　 　ﾉ`
+　`二二二二'ｧ'ｰ,ｧ-､ｧ-､__/_ｒ_ン>二二ﾆ7　　/二/　　 ／二二二`
+　　　　`|　| | [二7￣[二7　　　 　|　| |　 |　　/　　| 　 /　　　|　| |`
+　　　　`|　| | !__ノ　　!__ノ　 　 　 .|　| |　 |__ノ　　 .|__ノ　 　　 |　| |`
+　　　`/￣Tヽ.　　　　　　　　　　/￣Tヽ.　　　　　　　　　　 /￣Tヽ. 
+```
