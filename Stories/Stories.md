@@ -90,7 +90,7 @@ These stories will make you hurl.
 
 ## [[Progrider]]
 
-* **[[Neurotypical idiots]]** - a story about neurotypicals and how relationships aren't all that important at all.
+* **[[Neurotypical idiots]]** - a story about neurotypicals and how relationships aren't that important at all.
 
 ## [[Reddit]]
 
