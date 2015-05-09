@@ -876,7 +876,7 @@ Drawfag delivers.<br>
 ### Anon
 At least he tried.
 
-# Part 6
+# Part Six
 ### OP
 There's a really bad mix of embarrassment and panic today, but I'm thankful it happened. Cassie and I got out a lot of negative emotions today, and as a result we're even closer than before. It's safe to assume now, yes, Cassie and I are lovers. No more doubts.
 
@@ -976,56 +976,55 @@ More on my plate. I had to go to Domestic Court anyway to finalize my custody. I
 
 Lunch was leftover spaghetti. I need to go food shopping. I managed to keep a conversation going with Cassie. Here's the part that you need to hear.
 
->Anon, tell me a secret.
->Like what?
->Tell me things you like about me.
->Easy. I already thought of 10. You want compliments on your body or your personality?
->No not compliments… Um…
-I wait for her
->Tell me why you love me?
+&gt;Anon, tell me a secret.<br>
+&gt;Like what?<br>
+&gt;Tell me things you like about me.<br>
+&gt;Easy. I already thought of 10. You want compliments on your body or your personality?<br>
+&gt;No not compliments… Um…<br>
+I wait for her<br>
+&gt;Tell me why you love me?<br>
 
 I recognized the weight of that question, but honestly it wasn't hard to answer at all. I didn't even hesitate.
 
->You got a good head on your shoulders, Kay. No doubt. You share with me a love for your fatherland. You always want to hear German history. You're in touch with your culture. That's not even the tip of the iceberg.
-She's listening very intently
->Your ability to care for others is astounding. Remember when you helped me make dinner your first night here? You made me eat my vegetables when I clearly won't do it on my own. You'd make an excellent mother.
-(She blushed at mother)
->You're devoted. I don't think I'd ever going to see a day where you betray me. Your moral compass is excellent and we'll defined.
->You're what I call traditional.
->And… also a very attractive and desirable young lady.
+&gt;You got a good head on your shoulders, Kay. No doubt. You share with me a love for your fatherland. You always want to hear German history. You're in touch with your culture. That's not even the tip of the iceberg.<br>
+She's listening very intently<br>
+&gt;Your ability to care for others is astounding. Remember when you helped me make dinner your first night here? You made me eat my vegetables when I clearly won't do it on my own. You'd make an excellent mother. (She blushed at mother)<br>
+&gt;You're devoted. I don't think I'd ever going to see a day where you betray me. Your moral compass is excellent and well defined.<br>
+&gt;You're what I call traditional.<br>
+&gt;And… also a very attractive and desirable young lady.<br>
 
 There it was. A smile. The first smile she had since the incident, accompanied by tears. I was hoping she'd detect the confidence and honesty of my answer. I think this is the first time I ever made a girl speechless. But, I had to know too.
 
->Why do you love me, Kay-Kay?
+&gt;Why do you love me, Kay-Kay?
 
 She thought of what to say. I know she isn't as articulate as I am. She looked down when speaking, fidgeting her fingers.
 
->I think you'd make a good daddy…
->And um… You smell really nice all the time… And…
->You always took care of me, and cared about me. Especially in school.
+&gt;I think you'd make a good daddy…<br>
+&gt;And um… You smell really nice all the time… And…<br>
+&gt;You always took care of me, and cared about me. Especially in school.<br>
 
 I wasn't really involved in her school life much. So I ask,
 
->What do you mean?
->Well…Remember Mary?
->Sorry Kay, I don't.
->She was a bully. She would always call me ugly and other names. I was scared every day because of her.
->You shouldn't care about people like that. They are a waste of time. You should focus on you.
->T-that's what you said last time too.
->Really?
->Mhm… Ah so, I decided to not care about her. And you were right. You're always right. She left me alone after a while and then, I started to be popular. But all the popular kids I met were mean to other kids too, and I realized what you meant.
->What's that?
->If people aren't honest, they aren't worth your time. You're honest, anon. That's why I love you.
-I was speechless
->And I think anybody who won't accept that I love you is a bully, and they aren't honest. So I get that it has to be secret for now but… Anon?
->Y-yeah?
->One day I wanna go somewhere where I can love you as much as I want and not be scared anymore.
+&gt;What do you mean?<br>
+&gt;Well…Remember Mary?<br><br>
+&gt;Sorry Kay, I don't.
+&gt;She was a bully. She would always call me ugly and other names. I was scared every day because of her.<br>
+&gt;You shouldn't care about people like that. They are a waste of time. You should focus on you.<br>
+&gt;T-that's what you said last time too.<br>
+&gt;Really?<br>
+&gt;Mhm… Ah so, I decided to not care about her. And you were right. You're always right. She left me alone after a while and then, I started to be popular. But all the popular kids I met were mean to other kids too, and I realized what you meant.<br>
+&gt;What's that?<br>
+&gt;If people aren't honest, they aren't worth your time. You're honest, anon. That's why I love you.<br>
+I was speechless.<br>
+&gt;And I think anybody who won't accept that I love you is a bully, and they aren't honest. So I get that it has to be secret for now but… Anon?<br>
+&gt;Y-yeah?<br>
+&gt;One day I wanna go somewhere where I can love you as much as I want and not be scared anymore.
 
 This girl was probably more honest than me.
 
->Oh! And um… You're really good with your hands.
+&gt;Oh! And um… You're really good with your hands.
 
-Omg.
+OMG.
 
 I recalled one last thing the from the last thread. I can't dwell on the past anymore. My future is right here with Cassie.
 
