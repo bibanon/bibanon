@@ -5,6 +5,8 @@
 * [Part Two](#part-two)
 * [Part Three](#part-three)
 * [Part Four](#part-four)
+* [Part Five](#part-five)
+* [Part Six](#part-six)
 * [Sources](#sources)
 
 ***
@@ -639,7 +641,7 @@ I doubt the night is over.
 ## OP
 She's asleep. Not sure for now long. Typing with one hand on the phone. I won't be making more posts tonight. I release you. Just know we talked for a while. We made a pinkie promise that I'd never leave her. No romantic stuff, but I did kiss her forehead. She will probably have nightmares and wake up. Night isn't over.
 
-# Part 5
+# Part Five
 ### OP
 tl:dr:<br>
 &gt;niece falls in love with uncle<br>
@@ -874,9 +876,257 @@ Drawfag delivers.<br>
 ### Anon
 At least he tried.
 
+# Part 6
+### OP
+There's a really bad mix of embarrassment and panic today, but I'm thankful it happened. Cassie and I got out a lot of negative emotions today, and as a result we're even closer than before. It's safe to assume now, yes, Cassie and I are lovers. No more doubts.
+
+I believe after this thread, I will start doing updates weekly. It's been absolutely wild the past few days, but I don't think happenings will happen fast enough to warrant a thread every day. That way you guys have suspense too. I'll try to post every Wednesday around 4-6pm EST. The healing process for Cassie and I will be slow. However, if a particular event happens that must be shared immediately, like "I've been v&!" then I'll post early. 
+
+Let's get down the the update.
+
+Busy day. I have to keep my head in the game and take care of what was left to me by Mike. /b/ was critical to my success this far. I won't abandon you guys. Still, trying to handle everything while tapping away on a phone is hard. Weekly updates will definitely be better.
+
+Mom decided to stay with Cassie while I sorted through Mike's stuff, so maybe I can get something done today. I'm completely avoiding the kitchen. It's already been cleaned, but I can't. Fun fact, Mike has a fleshlight hidden in his sock drawer. I had rented a truck so I can haul some of Cassie's stuff, like her bed. My best buddy Jon is here too helping me with some heavy lifting. It's good to have him here now, it doesn't matter if he sees me cry.
+
+I also found a notepad on Cassie's dresser. I flipped it open and realized it was a diary. I still didn't read it. Not going to. I'm taking it back to her. It will be good if she starts writing again. Going through her room was actually a bit relaxing. She kept every single toy I've given her since she was like, 7 or 8. Funny to mention, in her closet I found Rainbow Dash plushie.
+
+I got a text: "I love you, come back soon."
+
+I have to get a move on. We get the essentials for Cassie's new room and head back. I have a few family members who need furniture, so I'm letting them take picks, but I want to keep as much as I can for future renters. It takes about 2 hours to drive back, get my gym equipment in Jon's pickup (who wants to use it), and get her furniture in there. I had cleaned the room this morning cause it stunk of my BO. I even emptied two cans of febreeze on it.
+
+After that I went and settled the will and testament. My brother had almost 30k to his name. Not bad. I decided to pay off some familial medical bills (when I get the chance) and keep the rest for Cassie's college fund. I also have an annoying cousin who called me up begging for money. He said he needed it to get by for the month, but he wouldent have a problem doing that if he wasn't on drugs. He called me a terrible cousin. 
+
+He can go fuck a cactus.
+
+Pretty productive, I got two things done today. Mom had to go home, so I was suddenly reluctant to leave Cassie be again. Any advice on this? I don't want to leave her alone to cry, but I'm scared she might be overly attached.
+
+Before I moved on I had got a call from Holly's parents. Mike's in-laws. They are your typical 2 holy 4 u Catholics with four other kids (other than Holly), one of them being an adopted black kid. This call was today's panic. I'll green text it.
+
+&gt;Hello?<br>
+&gt;Is this anon? It's Rich.<br>
+&gt;Hey Rich. Do you want to talk to her?<br>
+&gt;No, we need to talk. Do you got time?<br>
+&gt;Sure, what do you need?<br>
+&gt;We need to talk custody.<br>
+
+* small heart attack *
+
+&gt;Excuse me? (I had unintentionally sounded offended.)<br>
+&gt;Excuse you? What do you mean?<br>
+&gt;Why do you want custody? Mike had left her in my care.<br>
+&gt;You're too young. You don't know how to raise a proper young lady. Sorry to be blunt, but if you're going to talk to me like that I'm not going to spare you pity. I'm prepared to get a lawyer.
+
+I was about to string insult after insult to this guy. Every curse word I knew was about to ring in his ear for days. But the image of a kind old hermit appeared in my mind and I remember something he said. "Compassion saves another people and at the same time, saves yourself."
+
+I returned to the call.
+
+&gt;Forgive me, I was irritated by something else and unintentionally took it out on you. Please understand I am not willing to up custody of Cassie.<br>
+&gt;Are you sure about that, anon?<br>
+&gt;Positive.<br>
+&gt;Hm.<br>
+
+**long pause**
+
+&gt;Can I speak to my granddaughter?<br>
+&gt;Absolutely.<br>
+
+I explain that her grandparents want to talk to her and I hand her the phone. All I heard was Cassie speak.
+
+&gt;Hello?<br>
+&gt;Hi Grandpop.<br>
+&gt;Okay<br>
+&gt;I don't know<br>
+&gt;What?<br>
+&gt;No I don't wanna do that<br>
+_Long pause / Muffled voice of Rich_<br>
+&gt;Okay but…<br>
+
+_**NO BUTS**_
+
+He shouted at her, and I heard it.
+
+&gt;No I don't wanna do that, don't tell me I have to.<br>
+&gt;Uncle Anon will look after me! No!<br>
+**She's getting hysterical**<br>
+&gt;NO! I DON'T WANT YOU! I WANT TO BE WITH UNCLE ANON!<br>
+
+She dropped my phone ran out of the house. I'm pissed off again, and panicking. I picked up the phone and spoke to Rich before hanging up and chasing her.
+
+I'll call you back.<br>
+&gt;What ar- *click*<br>
+
+By the time I get outside I have no idea where she went. A car is driving by and I wave at him to stop, asking if he just saw a girl. He pointed down the road, and I just bolted in that direction. I should have thanked that guy. As I run past the houses I look left and right, trying to find her. She can't be far, but she isn't on the road right now. I get to the end of the block and I spot her, crying on a bench and lying down. I get there, sit down and pick her up, resting her on my chest. I hold her tight.
+
+Whenever I see her like this I want to vomit. It aches me physically. It took it all out of me to not cry right now, because I have to support her. So I speak, "No one's taking you away Cassie. I won't let anyone ever take you away! I promised you! We pinkie promised that I'd never leave you." She just sobbed.
+
+I pick her up in my arms. Not as easy as it used to be when she was little, but I managed to carry her home and lie her on the bed. She didn't stop crying for the next hour, and I never left her side until she was done. 
+
+When she was stable again, I had called Rich back, to state my intentions.
+
+&gt;So what happened?<br>
+I spoke bluntly.<br>
+&gt;She became hysterical. I calmed her down. And I stand by my decision to keep Cassandra here. If you're getting a lawyer, then so am I.<br>
+&gt;You can't afford a lawyer. Stop brickwalling this and give me back my granddaughter!<br>
+&gt;No.<br>
+&gt;Then we'll settle it in Domestic Court. *click*<br>
+
+More on my plate. I had to go to Domestic Court anyway to finalize my custody. I decided I've had enough for the day. I just want to stay home and be with Cassie. She overheard my conversation with Rich. "Are you going to protect me, Anon?" I love how she uses my first name only.
+
+"Yes. A promise is a promise. I love you. Never forget." We shared a kiss on that notion. And for a while we just laid there in the dark of my room, holding eachother, but lunch time came around and people gatta eat. 
+
+Lunch was leftover spaghetti. I need to go food shopping. I managed to keep a conversation going with Cassie. Here's the part that you need to hear.
+
+>Anon, tell me a secret.
+>Like what?
+>Tell me things you like about me.
+>Easy. I already thought of 10. You want compliments on your body or your personality?
+>No not compliments… Um…
+I wait for her
+>Tell me why you love me?
+
+I recognized the weight of that question, but honestly it wasn't hard to answer at all. I didn't even hesitate.
+
+>You got a good head on your shoulders, Kay. No doubt. You share with me a love for your fatherland. You always want to hear German history. You're in touch with your culture. That's not even the tip of the iceberg.
+She's listening very intently
+>Your ability to care for others is astounding. Remember when you helped me make dinner your first night here? You made me eat my vegetables when I clearly won't do it on my own. You'd make an excellent mother.
+(She blushed at mother)
+>You're devoted. I don't think I'd ever going to see a day where you betray me. Your moral compass is excellent and we'll defined.
+>You're what I call traditional.
+>And… also a very attractive and desirable young lady.
+
+There it was. A smile. The first smile she had since the incident, accompanied by tears. I was hoping she'd detect the confidence and honesty of my answer. I think this is the first time I ever made a girl speechless. But, I had to know too.
+
+>Why do you love me, Kay-Kay?
+
+She thought of what to say. I know she isn't as articulate as I am. She looked down when speaking, fidgeting her fingers.
+
+>I think you'd make a good daddy…
+>And um… You smell really nice all the time… And…
+>You always took care of me, and cared about me. Especially in school.
+
+I wasn't really involved in her school life much. So I ask,
+
+>What do you mean?
+>Well…Remember Mary?
+>Sorry Kay, I don't.
+>She was a bully. She would always call me ugly and other names. I was scared every day because of her.
+>You shouldn't care about people like that. They are a waste of time. You should focus on you.
+>T-that's what you said last time too.
+>Really?
+>Mhm… Ah so, I decided to not care about her. And you were right. You're always right. She left me alone after a while and then, I started to be popular. But all the popular kids I met were mean to other kids too, and I realized what you meant.
+>What's that?
+>If people aren't honest, they aren't worth your time. You're honest, anon. That's why I love you.
+I was speechless
+>And I think anybody who won't accept that I love you is a bully, and they aren't honest. So I get that it has to be secret for now but… Anon?
+>Y-yeah?
+>One day I wanna go somewhere where I can love you as much as I want and not be scared anymore.
+
+This girl was probably more honest than me.
+
+>Oh! And um… You're really good with your hands.
+
+Omg.
+
+I recalled one last thing the from the last thread. I can't dwell on the past anymore. My future is right here with Cassie.
+
+I'm spending the rest of the day with her. This is both the happiest and saddest time of my life. It's only 3pm so the day is still young. If anything else neat happens, I'll que you in. We might screw at this rate.
+
+### Anon
+ur a faget
+
+### OP
+Then why am I into niece? 
+
+### Anon
+Plot twist, she's actually a trap. GL, HF. 
+
+**show her /pol/
+
+### OP
+&gt;showing anyone 8chan<br>
+&gt;ever<br>
+
+I'll teach her myself. 
+
+_much later
+
+### OP
+I got some rather embarrassing news. Remember I mentioned my birthday, and I got drunk and laid on the couch? And Cassie laid with me there and watched Shrek? The same couch I fingered my niece on in part 3?
+
+I had a ton of Jagermeister that night. 3/4 of the bottle. I just hit 22 and she was 12 still. She brought it up and told me something disturbing. I fingered her while drunk on my birthday while watching shrek.
+
+Which explains a lot. She thought I knew. 
+
+### Anon
+[shitstorms]
+
+### OP
+*cough* Well, she's okay with it. Only way out is through. 
+
+### Anon
+[shitstorm intensifies]
+
+### OP
+This is bad. Really bad. I bet everything on this.
+
+I need to ask her how long she's loved me. I'll be gone for a bit. 
+
+### OP
+&gt;Since you taught me about honesty<br>
+&gt;When was that<br>
+&gt;When I was 11<br>
+
+OK GUYS MY HEART IS STRAINED ENOUGH. 
+
+### Anon
+[shitstorm subsides]
+
+### OP
+ I know my last post was vague. According to her, she liked me way before that day. She only laid next to me because she was into me already.
+
+And then called me a dirty perv, ironically.
+
+### Anon
+cassie = best girl
+
+### OP
+I'm going to stop worrying about shrek night and just continue making the best decisions for Cassie. 
+I've spent quite a bit a time on /b/. I'm going to go relax with her for a while. She's just been watching tv. I'll post later.
+
+### OP
+"Anon… hold on, let me use the bathroom."
+
+Happening. Keep in mind it takes a while to writefag sex. I might not have the time for a while.
+
+### Anon
+did u sex, pls tell me u sexed
+
+### OP
+Yeah and it's not over. She's in way better spirits for sure. Only reason we're doing it.
+
+### Anon
+DETAILS DETAILS DETAILS GIVE US LOLI SEX STORY
+
+### OP
+Listen… I'm not going to type up the sex every time I have intimacy with my lover. I can do it one more time, but that's it. "Parent" is what I'm labeled for now. But in reality I'm just a very helpful boyfriend. I already posted my update. Sorry my life isn't 24/7 interesting. But I agree, I need to start posting later. I got b8'd into replying to shitposters because they were the only ones here. If you have to know, first I ate her out because in a pussy juice fanatic. Then missionary twice. 
+
+Listen here. I keep making threads because /b/ helped me out a lot with this. Disaster. It started as one thing, but now it's another. I'm not gunna jerk you off every time you ask for it. I don't care about Being some dank meme or an internet celeb. I care about Cassie.
+
+If you're just here because you need to get off then leave. I don't have to keep posting. Look, I'm sure if this was a perfect world where whatever I typed became true, I'd have no problems. Truth is I'm pretty autistic. Just like the rest of /b/. I'm just another anon. And right now I'm just counting my blessings. 
+
+### Anon
+[contrition]
+
+### OP
+ Thanks guys. I'll do the update on Wednesday. I'll accompany it with what we did today. Or maybe something else we did if it's better. I'm just tired. My anger was misdirected toward /b/. I need to log off for tonight. Cassie and I might be up to some more shenanagins.
+
+The more time I'm on this damn phone the less I'm getting done for her. 
+
+
 # Sources 
 * Thread 1: [Archive.is](https://archive.is/TZjH2) [8archive](http://8archive.moe/b/thread/2545659/)
 * Thread 2: [Archive.is](https://archive.is/HRonn) [8archive](http://8archive.moe/b/thread/2556308/)
 * Thread 3: [Archive.is](https://archive.is/ew4F3) [8archive](http://8archive.moe/b/thread/2563158/)
 * Thread 4: [Archive.is](https://archive.is/P74tm) [8archive](http://8archive.moe/b/thread/2566758/)
 * Thread 5: [Archive.is](https://archive.is/lNDxC) [8archive](http://8archive.moe/b/thread/2574051/)
+* Thread 6: [Archive.is](https://archive.is/w9ply) [8archive](http://8archive.moe/b/thread/2587755/)
