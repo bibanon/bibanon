@@ -41,6 +41,13 @@ Greentexts that will make you cry.
 
 Embarrassing moments in an anon's everyday life. _spaghetti everywhere_
 
+### South American Nisekoi
+
+![](http://i.imgur.com/LV94no3.png)
+
+* original thread: check 4chan archives
+* [Source: Reddit /r/4chan - Anon Attends a South African Prom](http://www.reddit.com/r/4chan/comments/37ni2k/anon_attends_a_south_african_prom/)
+
 ## Misc.
 
 ### /v/ x /s4s
