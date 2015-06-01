@@ -1121,6 +1121,253 @@ If you're just here because you need to get off then leave. I don't have to keep
 
 The more time I'm on this damn phone the less I'm getting done for her. 
 
+# Thread 7
+Uncle returned as promised on Wednesday 1 week after his last posting and updated the situation:
+
+### Uncle!r.FBKlEt3A (now with tripcode to prevent imposters)
+May 7th 2015
+I got a cold and fever from fatigue. Not to mention, '’shrek night’‘ worried me a whole lot. It kept bothering me to think that this whole relationship could be a farse. Cassie may only '’love me’‘ because I had done something stupid while drunk. I kept thinking about how it would all eventually fall apart, and I would be arrested or worse. I knew I could never escape either. I started contemplating suicide, even if it was to tease the idea. I could not move around much that day, but I resolved not to waste the day. I decided to go shopping since I have a new person living in the house. I even had to go to the woman’s hygiene section. I was about to get catfood for Duckey, my cat, but I suddenly realized that with Cassie in the house I can’t afford luxuries like a cat in the house. Later that day I decided to call Mom and ask if she wanted my cat. She accepted, much to Cassie’s dismay. She really liked Duckey, but I suppose it’s better this way. Before I had went home, I had also made a withdrawal from an ATM so I could buy condoms in cash. Can’t be too careful I guess.
+When I did get home though, fatigue got to me as soon as I was done putting everything away, and I crashed on my couch. Everything hurt. I had got some easy meals for Cassie because I knew I would not be able to cook today, or eat. I ended up falling asleep.
+I suddenly woke up from the smell of something hot and a blanket over me. I opened my eyes to see some Progresso chicken noodle soup that I had just bought on the coffee table, with Cassie kneeling right next to me. I don’t even know how to write down my reaction to this here. Overjoyed? Full of love? I felt so incredibly loved. My vocabulary failed me here.
+>You made that for me?
+>Mhm. You have to eat or you won’t feel better anon. Don’t get out of your blanket.
+>I won’t…
+>Can you open your eyes?
+>Okay.
+Suddenly she had got a spoonful of chicken noodle soup and started bringing it to my mouth. That was kinda weird to me, but I took the spoonful, once. Just once.
+>Uh… *clear throat* thank you Cassie. I think I can eat the soup by myself though.
+>No, don’t you move. I want to do this for you.
+>Are you sure?
+>Mhm.
+She urges me to lay on my back, head standing up on the arm rest. She spoonfed me chicken noodle soup. The whole bowl. It was really, really weird at first, but I gave up since she seemed to look happy. She was smiling, which is precious right now. I spent the rest of the day drifting between sleep and browsing /b/. People seem to be talking about me, which is nice.
+
+### Uncle!r.FBKlEt3A
+May 8th, 2015
+Cassie had to sleep in her new room that night to avoid getting sick, but thankfully I didn’t hear her cry much. Mom came and picked up Duckey, but not before Cassie gave him one last hug. I had decided today was the day I would talk to a lawyer, and protect my custody of Cassie. I went through the motions of the morning sluggishly, with a headache that kept calling me to retire to bed again. Willpower kept me going. I had to make a couple of un-related calls about my brother’s death again, they aren’t worth talking about. Around noon I put on on some nice clothes and talk to the Lawyer I had made an appointment with. Before I left, I decided to give Rich a call, to see if he was still as serious as he was last time about taking Cassie away from me.
+>Hello?
+>It’s Anon. Can you talk?
+>I’m at work, no.
+>But it’s your lunch hour, isn’t it?
+>Fine. What do you want?
+>I want to know if you’re still serious about taking Cassandra from me. You know, before I get a lawyer.
+>Hmph. Well…
+‘’‘He paused’‘’
+>I am dead serious, but my wife is not. I was planning on calling you after work, but I’ll do it now. I’m going to make a deal with you, and you must accept.
+>That depends on what I hear Rich.
+>My wife insists that Cassie’s happiness is important, and she should stay with who she wants. I’ll be honest Anon, I don’t trust you. Something’s off about you. You and Cassie are ‘’too’‘ close.
+>Really? OH SHIT INTENSIFIES
+>So this is my deal. I won’t get a lawyer, but you must promise that if you fail as her parent you will return her to her real family as soon as possible. No second chances.
+>I appreciate that, Rich. More than you could know.
+>I’m not doing it for you. I don’t like you. I will also visit her whenever I please. Is this understood?
+I did have to say one thing first…
+>I’ll agree to the deal, but Cassie is a [Last Name Here]. You don’t know a damn thing about her Rich.
+>You little brat… if my wife wasn’t so adamant on Cassie’s happiness this would be over by now!
+>I guess that’s where you failed, you’re not the leader of your household.
+>Uh… GAH! *click*
+I just took away his man card. I felt a little proud about that. But I had to call him back.
+>WHAT DO YOU WANT, KID?
+>So the thing about the lawyers?
+>Forget about it! *click*
+Wow. Mad? But… I guess that means I’m in the clear!
+I cancel my appointment, fall out of my clothes, put something relaxed on, and take the rest of the day resting and making some calls. Considering all goes well, Cassie will be officially under my care on Monday. Somehow being this happy made me forget I was sick, even though I was still torn apart inside that the fact that Cassie’s love for me might just be false, or of lust. I still had no idea. Either way, Cassie didn’t leave my side until I fell asleep. I can’t ask for much more.
+
+### Uncle!r.FBKlEt3A
+May 9th, 2015
+I feel a lot better today. I can finally get stuff done. I got together a team of friends and family to help clean up my brother’s house. I decided to do the kitchen first, which was hard. It was the room that my brother shot himself in. Not anything important to mention about cleaning, other than it took most of the day. I also found a shard of bone while cleaning. It made me vomit. Since I’m here all day, I worry that Cassie might need me to rush home, if she got hysterical again. Instead she settled for texting me, some texts I had to hide, just incase anyone was looking over my shoulder. I had also got a call from my Uncle, who had graciously decided to do the funeral planning for me. Which is a great burden off my shoulders, trust me. The goal today is to get the house looking nice for renters. A pre-furnished home for rent is attractive. During the cleaning of the master bedroom, my buddy Jon had found some adult toys, tucked away in a box. I said before I was into S&M, so I knew what most of that crap was. I guess my brother and Holly were into it too at some point before he left for the army. Jon asked if I should “trash it”.
+I decided I was going to take it and “sell it” on ebay.
+*cough*
+I might never use them, but a man can dream.
+I got home around 8pm, and I was in shape to finally make a real meal for Cassie and I. She decided to help me, just like last time. She’s doing better, but I still know she’s crying. She has a desire to move forward from this, at least. As someone mentioned in the last thread, this girl is ’‘’based’‘’ as hell. She had decided that my vegetable would be broccoli tonight. Who’s the parent here? Well, neither of us are. I’m just a guy who has a wonderful girlfriend. I started telling myself that. Even so, shrek night still haunted me. As a result, I had gotten a little distant. I coulden’t help myself but to think about it. Suicidal thoughts crept across my mind again. Cassie is extremely keen on other’s feelings, and she didn’t hesitate to ask.
+>What’s wrong Anon?
+My first thought was to say it’s nothing… but I know how much honesty means to her. I thought about how to say it.
+>I’m just worried about us. I’m scared to think that one day we might not love eachother.
+Saying it out loud, I thought it wasn’t really a manly thing to say.
+>That won’t happen! No. Never. Stop worrying.
+Even though she’s right, it still lurks in the back of my mind. I need to get over this, I’m not being very alpha right now. Even so, we spent the night cuddling in bed.
+
+### Uncle!r.FBKlEt3A
+May 10th, 2015
+Today brought another life-changing moment I think.
+Shrek night was still getting to me. I feel the rest of the day isn’t worth mentioning here. I’ll just leave you with some green text.
+>Anon, tell me a secret.
+>Hm? What kind of secret Kay-kay?
+>Um… you know. The secret.
+>What do you mean?
+>The one where… you won’t tell me what’s bothering you.
+>A lot is bothering me Kay.
+>Anon… be honest, please? Tell me.
+‘’‘She can see through me like butter, and knows when I’m hiding my feelings’‘’
+>I… okay okay. Okay. I’ll spill the beans.
+>You should have told me yesterday, dummy. I love you.
+>I love you too. Uhm… let’s go sit.
+‘’‘She grabs my hand suddenly and drags me to the couch’‘’
+>Tell me everything.
+>Well, it’s hard to describe.
+>It’s only hard to describe when you’re not being honest, Anon.
+>Okay okay. Remember my last birthday?
+>I knew it!
+>You did, huh?
+>Keep telling me.
+>Alright. When you told me I touched you when I was drunk, I started to wonder if you only fell in love with me because of uh… technique.
+>Technique?
+>You know, with, my hands. I’m nervous that you didn’t have feelings for me before that day, and this is all the result of a sloppy drunken mistake.
+>You never made any mistakes that day Anon.
+‘’‘She kissed me’‘’
+>Stop doubting yourself, I don’t like it. I love you, and I’ll prove it.
+‘’‘She went to get her diary from her room, then returned and flopped on my lap. She started turning the pages…’‘’
+>I can’t keep secrets from you either, so I’ll show you everything here. This one…
+’‘’This page was dated Nov. 22nd, the week before thanksgiving, and before my last birthday.’‘’
+‘’‘There’s a paragraph, and a picture of me proposing to her.’‘’
+‘’‘It reads:’‘’
+>Uncle Anon came for the weekend! The first thing he did was hug me and say he missed me! I missed him too. I wish he could stay forever. Daddy never plays with me, he just keeps drinking and playing Xbox. But Uncle anon will take care of me! One day he will save me and make me his bride! I can’t wait! I just wish Daddy would let me see him more. He’s always in the way. Everything will be okay though, my heart knows it. I fixed the typos in that a bit
+‘’‘She continues showing me different pages in her diary, stopping at the ones where I’m involved.’‘’
+>Kay… I love you. No more doubts. I promise.
+>I love you too. Don’t you feel silly now?
+>Yes, I feel silly.
+After that, we had sex again. I thought having sex too early would be bad for her mental health, but that doesn’t seem to be the case, so I stopped worrying about that too. I decided to use this night as my part 2, since it was extra romantic that night. I’ll write it up for you guys.
+
+### Uncle!r.FBKlEt3A
+May 11th, 2015
+I started speculating the thought of home schooling. No, not to have her all to myself whenever I want, but because as a /pol/itician I know she’s going to be taught how to be a good goy in school. I don’t know if I can do it. Maybe /b/ has some advice on this?
+Today I had to finalize all the details of my custody of Cassie. And since it was uncontested, the whole ordeal was over pretty quickly. They had saw that Cassie was in relatively high spirits, considering her situation, and I didn’t hear the words “‘’she needs to see a shrink’‘“ at all that day. Cassie and I celebrated with a little love-making, but that’s all was important to share. I spent the rest of the day catching up on chores and continuing the endless needs of my brothers possessions.
+
+### Uncle!r.FBKlEt3A
+May 12th, 2015
+I decided to start looking for a job today. I’m starting out trying to apply to Phone Retail stores like Verizon/AT&T/Sprint Etc. The commission is good, and I sold phones before at Radioshack. I’m also applying to stores that need management positions. Since most applications can be done at home, I spent the day at home with Cassie, which she enjoys. She keeps smiling more and more. My brother’s house is officially available for rent. I also stopped crying at this point. I still mourned, but considering my new life with this perfect girl, you can’t be sad forever. Cassie wants to learn how to cook, so I’m teaching her some stuff I know. She even started helping my do laundry and folding clothes. I remember the day she told me she wants to be a housewife.
+This was also the day I had decided something major. Once this is all over, and I have the funds, I’m going to leave the US and go somewhere where I can marry her. It’s the only way. The longer we are here in the US, the more likely we will be caught. I had made that promise to her too.
+>One day I want to go somewhere where I can love you as much as I want and not be scared.
+Anyone got advice on where to run to? Also, I want kids of my own one day. I never really mentioned it. I don’t mind having them with her in the slightest.
+
+### Uncle!r.FBKlEt3A
+May 13th
+Looks like I know when Cassie’s menstrual cycle starts. She’s having cramps. Which means no more sexytime for a bit. I guess she’s been ovulating for a while, which explains her nymphomania. Or does that happen after a period? I don’t know the female anatomy very well.
+Luckily it doesn’t seem like her cramps are like other horror stories I heard. She seems to be able to handle it, and her mood swings are manageable. Our family has great genes. We only have to blame our brown hair on one Italian ancestor. I guess a little Mussolini doesn’t hurt. It’s hard to be pure when you’re grown in America. She’s kissing me a lot today, which I don’t mind.
+I started the day running around and asking for a job. I like to follow up on my applications and actually show my face. It’s how I got into Radioshack after all. Using up the vacation time has really saved me here, but tomorrow I have to show up to my store because my time is up. I’m sure I’ll have a lot on my plate there, my workers got lazy no doubt. It’s closing next week. I can’t wait to be rid of it. Two of my workers are young men, and I just hope to god they don’t browse 8ch/b/. They are gamers so I know they surf the web. I spent a bit of time typing this up today as well. I’m wondering if I’m not being honest by not sharing ‘’my’‘ diary with her too. I shiver to think how she would react if she read the bibanon herself. Maybe one day I can show her, but the last thing I want to do is scare her.
+Anyway… Cassie’s off the hook for school for the rest of the year. Considering what happened to her, they decided to just push her into the next grade since school is almost over anyway. So if nothing goes wrong after this… I think I’ve managed to achieve it guys. I think I got
+::Happy End::
+Though it won’t really be over until we get married. I’ve already started thinking of ways to purpose, though I doubt it won’t be for a while. I have /b/ to thank for all of this too. I have no idea why I decided to outlet on /b/ about this, but it was clearly the right decision. One final thought, there really is no conflict left here, other than the fear of being caught. I’m not sure what the point of doing another weekly update would be. The only thing worth posting might only be weekly sexual encounters with my niece, unless something terrible like getting v& happens. Also, really good advice to get a keyboard. I was able to type each part as the days passed, and have time to do more important stuff.
+I’ll be lurking the thread for a while after I post the second part.
+On an unrelated note, I heard Pepe became real. Maybe there’s magic in this world after all?
+
+### Uncle!r.FBKlEt3A
+Sexy Bedtime Stories With Uncle
+This starts right after Cassie had shown me her diary. She was absolutely right that I had to stop doubting myself. I’m scared she’ll be smarter than me when she grows up.
+Still, she had corrected my way of thinking. While I am thankful, I have to retake my position as alpha in the house. It’s embarrassing that a 13 year old girl had to get me to stop doubting myself. She had thrown her diary on the coffee table, and never really left my lap. For a while we just cuddled and chatted about stuff I had to do, responsibilities, our future. Cassie seemed confident in our relationship, which relaxed me to hear. The less burdens she has on her mind the better. I turned the T.V. off so we could fully enjoy eachother’s closeness. She started yawning, since sleep was hard to come by these days. It affected me too, and my eyes started to droop. I suggested that maybe we skip lunch and rest for a while. We held hands and left for my bedroom. At this point, Cassie and I had started wearing less to bed. We go down to our underwear right before sleeping. I closed the blinds and turned the AC a little higher, the heat is killer. We sank into our covers and got close again. She likes to rest on my shoulder instead of the pillow. Although I miss my freedom of movement in bed, I bear through it. There’s also something about being able to feel the faint heartbeat of someone so close to you in bed. It’s like a lovely constant reminder that you’re no longer alone.
+I was content with this, and I would have drifted into sleep already, but Cassie had been running her hand along my chest for a couple of minutes. She traced her finger along my pectoral muscles. It was a small sign, I thought, that she didn’t want to fall asleep just yet. I responded by running my hands through her inner thigh. Her breath was getting a little thicker, just barely enough to detect. I decided that I wanted it too, especially since I wanted to get my alpha back. I got up and moved above her, flipping her on her back. She spoke with drowsiness in her voice.
+>Anonnn…
+>Just relax, Kay.
+>O…kay…
+I was fluid and decisive as I moved, and put my arm on her shoulder to pin her. Cassie closed her eyes and waited, expecting me to act. Before I began violating her, I placed a small kiss on her forehead, then took my hand and started rubbing her clit through her panties. I knew they would get wet, and I wanted it to embarrass her.
+>O-oh!
+>Is this what you wanted?
+>Mm… yeah, no, hold on!
+>I’m not done yet.
+My hand became more aggressive. I started rolling the middle finger around on her clit, pressing it down like a button. She’s not leaving until I’m satisfied. I moved rhythmically and confidently, trying to get her excited as possible. My dick had rustled it’s way out from my boxers from the movement, which I didn’t notice until she tried to touch it.
+>Not yet.
+>W-Why?
+>Because I’m not done with you.
+My conquest is starting to run high. I’m going to show her that I make the rules in bed, and I was determined.
+>Anon, please…! Hold on!
+>If you tell me to stop again I’ll do it harder.
+>Nm!
+That little moan was the first sign of submission,
+>I need to take off my panties!
+>You’re keeping them on until I’m finished, Kay.
+>O… Okay…!
+As her resistance started to fall, she grew equally as wet. I could feel it, I could smell it.
+>You’re going to get these soaked for me.
+>Okay… okay! I’ll try…
+She’s naturally submissive I guess. She’s on board with dirtying her panties now, just as I told her. To reward her, I gave her a quick kiss, and went back to get her to pour out as much juice as possible.
+>Ahh! Thank you!
+>Meow for me.
+>Huh?
+Yeah, I’m going there. I’m going down the dark side, the low path.
+>I just told you to meow. If you don’t, I’ll stop.
+>Uh..- Ahn!
+To interrupt her thoughts, I stuck my middle and ring fingers in her roughly. It was easy considering how wet she had gotten. There was no hesitation to be rough with her. I want something, and she’s going to give it to me.
+>Stop thinking. When you’re on this bed you’re my kitty, remember?
+>Nnn… I… don’t know… aaaaah!
+>If you don’t meow right now we’re going to bed.
+>Ahh! Ahhhhn! Okay! Mmm-Meow!
+>Perfect. I love you, Kay-Kay.
+She was rewarded her with another kiss, but I didn’t stop fingering her. This to submission has to end in pleasure for her, so I waited for her to be on the edge of coming. It shoulden’t take long, since she’s so sensitive and new at this. Her hands fidget around, not knowing what do, grabbing and touching anything they can find. She does this when she feels helpless, and right before she’s about to come.
+>Go ahead Kay. Make you panties wet for me.
+>Mmmmmm! You’re embarrassing me!
+>Are you going to come?
+>I-I don’t knowww…
+>I asked you a question, Kay.
+To clarify that point, I started fingering her as hard as I could. Some speed was sacrificed, but I could feel her spasm inside every time I thrusted them in.
+>I-… You’re embarrassing me! Anon~nn!
+>There’s nothing embarrassing about being honest. Are you going to come?
+>Honest?
+That word stopped her for a moment, but I didn’t want her to think.
+>If you’re honest, Kay, I’ll use my dick to make you come instead.
+>O-Ohkay… Ahh… Ahh… I’m really close…
+>What else?
+>Huh? Oh… and… my… underwear is all wet…
+>And?
+>And…? Uhm…
+>What else do you want?
+>Oh… Uhm… Okay… I…
+She paused for a moment.
+>I really really want to come with your dick?
+>Perfect.
+I removed my hand from her groin and started licking the juice on my fingers in front of her. I’m a fanatic for this, I love the smell and taste so much.
+>You really like the taste that much?
+>Absolutely.
+Once I was satisfied, I grabbed her panties and quickly pulled them off. I coulden’t wait anymore either, I need release. They were completely unusable and soaked. I showed them to her.
+>Look at what you can do when you’re honest, Kay.
+>Mmm…
+I relieved myself of my boxers, and wasted no time to put my condom on. She can’t lose her lust, not until she comes in submission. Not to mention my lust was already screaming to be sated. I moved on top of her, pinned her down, positioned, and plunged my dick inside with one forceful motion.
+>Aaaaoooh! Ah!
+>Oh my God!
+Just like every other time, we lock our fingers together with one hand. She’s taking it a little harder every time I do it to her. I haven’t found her limit yet. My room already reeks of sex and sweat again. Not even ten seconds pass until she speaks again.
+>Anonnnn! I-I-I’m going to do it!
+This is my chance to really set it in.
+>Meow for me!
+>Nnnn- Why? Ah! I’m!
+>Do it!
+>I… I…! Ah! Ahhhh! Me-eeeaaaaah!!! Ahhhnnn!
+God damnit the neighbors are going to hear her.
+>Good job, Kay.
+>Haaahh…
+>…But I’m still not done.
+>That’s… okay… use me to feel better.
+I’m ready to wrap this up and finish too. Fighting off the fatigue to do this was already challenging. So I keep going, to which she occasionally moans. There’s no need to hold back, so pretty soon I’m ready. No need to pull out this time either, I’m protected.
+>Ahhgg…! Hah!
+>Anonnn… Anonnn…
+>Holy shit! I’m about to come Kay!
+>Anonnn!
+>Gaaaah!! Uh!
+I finished hard. Getting her to do what as I say in bed had been putting me over the limit. I let it all out inside, not holding anything back. It was perfect heaven, and then eventually, it stopped. My strength slowly left my body, and I had flopped down on top of her exhausted.
+>T-Thank you, Anon.
+She hugged me now that our chests were connected, and I returned her embrace lovingly. We stayed that way for a while, just kissing and enjoying our closeness again. Soon after we got back to the reason we were in my bedroom in the first place, to rest. She placed her head on my shoulder again, and the both of us fell asleep almost instantly. Except this time, we slept naked. It lasted for about three hours, because I had woken up to the sound of Cassie’s stomach growling. I felt refreshed enough to get up and start cooking, but this time she stayed in bed. I’ll wake her up when I’m finished.
+
+# The revelation
+After this posting Uncle went on to post 2 pictures. As it was already known that he used a smartphone for browsing anons already expected the pics to have exif data on them. This turned out to be true and uncle effectively doxed himself by posting those pictures. The pics even had GPS data and his house was positioned exactly via google maps. Anons posted pictures of his house from google maps with texts like "hello OP".
+Uncle later panicked and claimed the whole story was a fake (autistic works of fiction confirmed, anons who posted about the "confirmed kills", "spaghetti" and "nevar forget" were right). Uncle later continued and explained that he was sad that he ruined it and in the end he wanted to go for a Yandere end where it would be revealed that Cassie has killed her father herselft to be with Uncle. In the same thread his trip got cracked too and he had to create a new one.
+
+# The aftermath
+Later Uncle started new threads (after he claimed he would never be tripping again). The first thread was a thread about a guy who was blackmailed by his underage sex partner and asked for help. It was posted as anonymous but in later postings Uncle claimed he was the OP in that thread too. Uncle entered that thread and claimed someone shat into the (physical) mailbox of his house and he had to clean it up. The thread became a Uncle themed OC posting thread and totally derailed. We got uncle'd again.
+
+blackmail thread:
+https://archive.is/RQSI7
+https://archive.is/OoFtY
+
+Later a dedicated Uncle OC thread was made on /b/ and various photoshops of the original Uncle artwork was created. A few days later a second thread was made because the old one 404'd. This second thread was particulary legendary for 2 reasons. Firstly, Uncle posted IRL pics of himself as he was doxed already and secondly; as it turned out, legendary caricaturist Ben "Zyklon Ben" Garrinson was lurking the uncle threads.
+He created a sketch of Uncle and posted it with the comment "you earned it Uncle". Another reason why this thread was legendary was because Uncle had a fanboy who collected various OC and printed it out. He later posted that he will send a letter to Uncle containing all of it (this will be important later)
+
+OC thread 1
+https://archive.is/Rj8Rh
+OC thread pt.2
+https://archive.is/FfsoB
+
+The next thread about Uncle was about the fanboy who wanted to send the OC IRL mail. He claimed his mother found the letter and opened it before he could send it. She was shocked about the images there (many of them not normalfag-friendly) and she later said she will have a serious discussion about it with OP. OP later stated he can now go bury himself as his family is very religious and he is now officially done. Later anons posted that once again someone got "uncled" and Uncle entered the thread and claimed it was all planned from the beginning. All the "unclings". Anons could not believe this and later the one who shat into his mailbox also came and asked whose mailbox it was that he devasted. Uncle posted it was the house of a religious family with 8 children and apparently anons got uncled once again. Uncle and the term "uncled" officially became memes and staple terms on 8chan during that time.
+"it was all planned" thread
+https://archive.is/3eyo8
+
+# Actual situation
+Uncle started a tripfag crew on 8chan. They even got a cyclical "tripfag circlejerk" thread and he and various other fellow tripfags post there, often creating OC and discussing future projects like raids. They successfully organized the 2015/May/29 Habbo raid for example. Many anons don't like them and they spam their threads with "REMOVE TRIPFAG" postings. It is a war that is still going on on 8ch.
 
 # Sources 
 * Thread 1: [Archive.is](https://archive.is/TZjH2) [8archive](http://8archive.moe/b/thread/2545659/)
@@ -1129,3 +1376,4 @@ The more time I'm on this damn phone the less I'm getting done for her.
 * Thread 4: [Archive.is](https://archive.is/P74tm) [8archive](http://8archive.moe/b/thread/2566758/)
 * Thread 5: [Archive.is](https://archive.is/lNDxC) [8archive](http://8archive.moe/b/thread/2574051/)
 * Thread 6: [Archive.is](https://archive.is/w9ply) [8archive](http://8archive.moe/b/thread/2587755/)
+* Thread 7: [Archive.is](https://archive.is/y4vfM) [8archive](http://8archive.moe/b/thread/2678462/)
