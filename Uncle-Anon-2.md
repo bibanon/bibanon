@@ -8,6 +8,9 @@
 * [Part Five](#part-five)
 * [Part Six](#part-six)
 * [Part Seven](#Thread 7)
+* [The revelation](#The revelation)
+* [Aftermath](#The aftermath)
+* [Actual situation](#Actual situation)
 * [Sources](#sources)
 
 ***
