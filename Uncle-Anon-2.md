@@ -7,6 +7,7 @@
 * [Part Four](#part-four)
 * [Part Five](#part-five)
 * [Part Six](#part-six)
+* [Part Seven](#Thread 7)
 * [Sources](#sources)
 
 ***
