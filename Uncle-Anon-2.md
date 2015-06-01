@@ -1371,7 +1371,9 @@ The next thread about Uncle was about the fanboy who wanted to send the OC IRL m
 https://archive.is/3eyo8
 
 # Actual situation
-Uncle started a tripfag crew on 8chan. They even got a cyclical "tripfag circlejerk" thread and he and various other fellow tripfags post there, often creating OC and discussing future projects like raids. They successfully organized the 2015/May/29 Habbo raid for example. Many anons don't like them and they spam their threads with "REMOVE TRIPFAG" postings. It is a war that is still going on on 8ch.
+Uncle started a tripfag crew on 8chan. They even got a cyclical "tripfag circlejerk" thread and he and various other fellow tripfags post there. Sena and Redanon were among the first ones to join as they were some of the first posters in his threads at the beginning. They are often creating OC and discussing future projects like raids. They successfully organized the 2015/May/29 Habbo raid for example. Many anons don't like them and they spam their threads with "REMOVE TRIPFAG" postings or Frodo pictures as they see them as cancerous attentionwhoring kiddies. It is a war that is still going on on 8ch (just check the current tripfag circlejerk thread on /b/).
+tripfag thread #1: https://archive.is/8Zvx4
+tripfag thread #2: https://archive.is/qLrdf
 
 # Sources 
 * Thread 1: [Archive.is](https://archive.is/TZjH2) [8archive](http://8archive.moe/b/thread/2545659/)
