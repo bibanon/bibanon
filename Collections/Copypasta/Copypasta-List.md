@@ -2,14 +2,14 @@
 
 *Large collections containing multiple copypasta, from the [Tanasinn.info Kopipe Collection](https://github.com/bibanon/Tanasinn-Kopipe/wiki).*
 
-* [[b-sides]] - This is a collection of stories written by /b/, where writers, after looking at some strange pictures, decided to write up a crazy side story behind them. 
+* [b-sides](https://github.com/bibanon/bibanon/wiki/b-sides) - This is a collection of stories written by /b/, where writers, after looking at some strange pictures, decided to write up a crazy side story behind them. 
 * [[4chan Kopipe]]
 * [[Amerikkka Kopipe]]
 * [[Assorted kopipe]]
 * [[Compendium of Maddy McCann Copypasta]]
 * [[Computer Kopipe]]
 * [[Corea Kopipe]]
-* [[Creepypasta]]
+* [Creepypasta](https://github.com/bibanon/bibanon/wiki/Creepypasta)
 * [[Etherchan]]
 * [[Etherchan Contents]]
 * [[Fresh Prince Kopipe]]
