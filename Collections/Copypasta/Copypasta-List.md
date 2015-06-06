@@ -8,6 +8,7 @@
 * [[Assorted kopipe]]
 * [[Compendium of Maddy McCann Copypasta]]
 * [[Computer Kopipe]]
+* [[Copypasta.info Collection]]
 * [[Corea Kopipe]]
 * [Creepypasta](https://github.com/bibanon/bibanon/wiki/Creepypasta)
 * [[Etherchan]]
