@@ -48,6 +48,7 @@ Misaki Ito, the actress who played the role of Hermes in the [[Densha Otoko TV D
 ## Sources
 
 * [Wikipedia Article](https://en.wikipedia.org/wiki/Densha_Otoko)
+* [Dorama Addicts Wiki - Densha Otoko](http://wiki.d-addicts.com/Densha_Otoko)
 * [Archived posts from 2channel](http://www.geocities.co.jp/Milkyway-Aquarius/7075/trainman.html)
 * [Project Densha: English Translation](http://web.archive.org/web/20150112005945/http://www.rinji.tv/densha/)
 * [Densha Otoko Movie Trailer](https://www.youtube.com/watch?v=mdW6V40E1SQ&feature=related)
