@@ -1,3 +1,5 @@
+> **Notice:** The `http://bibanon.org` domain is currently in the process of transferring between owners and DNS records. Don't panic! Everything is still there and will be in working order sooner or later.
+
 The **Bibliotheca Anonoma** is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of mankind in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare.
 
 ---
