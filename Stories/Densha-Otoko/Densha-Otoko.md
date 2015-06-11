@@ -10,10 +10,19 @@ In typical Japanese fashion, after the tremendous success of the book, both a mo
 
 ## English Translation
 
-> Message from the Translator: Translation is a very personalized process and I would greatly appreciate it if you'd refrain from reproducing these translations. But please feel free to link to the Project - it is totally LINK FREE.
-
-* Lindsay's English Translation can [be found here.](http://www.rinji.tv/densha/)
+* Lindsay's English Translation can [be found here.](http://web.archive.org/web/20150112005945/http://www.rinji.tv/densha/) (Rescued by the Internet Archive)
 * The original Japanese threads [are found here.](http://www.geocities.co.jp/Milkyway-Aquarius/7075/trainman.html)
+
+<!--
+* [[Mission.1 - dinnerwhere help|dsotk1]]
+* [[Mission.2 - I've got you|dsotk2]]
+* [[Mission.3 - She gently takes my hand|dsotk3]]
+* [[Mission.4 - The time to use the cups has arrived|dsotk4]]
+* [[Mission.5 - Please don't put me in that kind of mood|dsotk5]]
+* [[Mission.6 - The miraculous final chapter|dsotk6]]
+* [[Congratulations!|dsotk7]]
+
+-->
 
 ## Densha Otoko TV Drama
 
