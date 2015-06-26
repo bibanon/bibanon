@@ -1,4 +1,4 @@
-[This now dead torrent](https://kickass.to/moot-a-video-archive-of-4chan-s-founder-t5735298.html) from the Yotsuba Society contained every single panel ever given by Moot. (We're working with them to restore the few videos that slipped through the archives.) Moot's panels over the years are incredibly important to the study of 4chan history (since he is the first anon and the longest running anon) Some of them have been uploaded to the Internet Archive, thankfully. But others haven't.
+[This reposted archive](https://twitter.com/YotsubaSociety/status/612719116571529216) from the Yotsuba Society contained every single panel ever given by Moot. (We're working with them to restore the few videos that slipped through the archives.) Moot's panels over the years are incredibly important to the study of 4chan history (since he is the first anon and the longest running anon) Some of them have been uploaded to the Internet Archive, thankfully. But others haven't.
 
 They also need to have transcriptions made, to make long 2 hour rambling panels more accessible for future archivists (and translators).
 
