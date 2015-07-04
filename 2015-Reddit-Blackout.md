@@ -4,6 +4,8 @@ To edit this page, sign up for a GitHub account, return to this page, and click 
 
 ## Quote of the Year:
 
+![](https://i.imgur.com/fCjv2JK.png)
+
 > Popcorn is good.  
 > \- /u/kn0thing, Reddit Admin
 
