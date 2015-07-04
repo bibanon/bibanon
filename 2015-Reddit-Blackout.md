@@ -25,7 +25,7 @@ To edit this page, sign up for a GitHub account, return to this page, and click 
 * When did /r/IAMA switch to private?
 * When did all the other subreddits switch to private?
 * What responses have the Reddit admins? (Popcorn is good)
-* When was /r/pics repossessed and forcibly taken online? What happened to the original mods?
+* [What is going on with /r/pics?](https://www.reddit.com/r/Blackout2015/comments/3bz0fz/uallthefoxes_cannot_make_rpics_private_again/)
 
 ## Sources
 
