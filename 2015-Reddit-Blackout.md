@@ -1,8 +1,6 @@
 > Organized for the purpose of /r/blackout2015, and [this 2015 Reddit Blackout tracking thread.](http://www.reddit.com/r/blackout2015/comments/3c311t/_/)
 
-To edit this page, sign up for a GitHub account, return to this page, and click Edit. This wiki uses the same markup as Reddit: Markdown.
-
-
+To edit this page, sign up for a GitHub account, return to this page, and click Edit on the top right. This wiki uses the same markup as Reddit: Markdown.
 
 ## Quote of the Year:
 
@@ -13,7 +11,7 @@ To edit this page, sign up for a GitHub account, return to this page, and click 
 
 > Write down the reasons why this Blackout started, and what redditors demand from their admins. The media and most redditors have no idea and will not accept abnormal function of the site without reason.
 
-* Victoria fired without warning to /r/IAMA
+* [Victoria fired without warning to /r/IAMA](http://www.reddit.com/r/outoftheloop/comments/3bxduw/_/)
   * A decision made with no warning to /r/IAMA mods, which were forced to cancel all AMA services, as losing her was a crippling service disruption.
   * /r/science also stopped operation similarly since they made AMAs that depended on her. A domino effect occurred as other subreddits went private in solidarity.
   * Why is this a big deal? This event was only the spark of a revolution that had much deeper causes.
