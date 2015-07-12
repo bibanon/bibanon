@@ -41,6 +41,7 @@ Bibliotheca Anonoma
 * [[Nuzlocke Challenge]]
 * [[Jon Rafman]]
 * [[Webcomics]]
+* [ASCII Art Academy](http://www.roysac.com/learn/default.html)
 * [Taiwanese ANSI Art](http://ansi.loli.tw/) - [PTT BBS](https://www.ptt.cc/bbs/asciiart/) - [Intro](http://www.asiadigitalmap.com/2011/09/about-taiwanese-bbs/)
 
 ### History
