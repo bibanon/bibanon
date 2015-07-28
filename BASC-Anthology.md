@@ -26,6 +26,7 @@
 
 * [Gawker - Finding Goatse: The Mystery Man Behind the Most Disturbing Internet Meme in History](http://gawker.com/finding-goatse-the-mystery-man-behind-the-most-disturb-5899787) - Who is this man, whose ass has conquered the internet?
 * [Wi-Fi Planet - The Open Source WRT54G Story](http://www.wi-fiplanet.com/tutorials/article.php/3562391) - Nowadays, every single $60 Wi-Fi router worth it's salt runs some form of embedded Linux, and most of them can be modified to provide amazing new features once restricted to $600 corporate routers. But how did that happen? It began when Linksys was forced to open-source the firmware of the WRT54G Router family: and the most beloved router of all time, and an embedded codebase for the ages, was born.
+  * [Cisco Newsletter on the WRT54G](http://www.ozcableguy.com/blog/?p=426)
   * [PracticallyNetworked - WRT54G Variants](http://www.practicallynetworked.com/networking/010308choosing_a_router.htm) - Unfortunately, many variants of the WRT54G was made, and not all of them are good. Make sure you have the right one.
 
 ### Back to the 1980s
