@@ -2,7 +2,7 @@
 
 Bibliotheca Anonoma
 ===================
-
+* [[About this Logo|Bibliotheca Anonoma Logo]]
 * [[Home]]
 * [[About this Wiki|Bibliotheca Anonoma]]
   * [[Editing]]
