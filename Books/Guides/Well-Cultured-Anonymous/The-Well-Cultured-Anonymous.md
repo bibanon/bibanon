@@ -36,6 +36,6 @@ This book will teach 15 year old WoW players who live in their mother's basement
 * [Social Site](http://www.wellcultured.com) --BEEN FAGGOTIZED
 The book is in .PDF form, enjoy.
 
-* [MegaUpload](http://anonym.to/?http://www.megaupload.com/?d=WTPQS4IM) --BROKE(aka taken offline during megaupload raid)
+* [MegaUpload](http://anonym.to/?http://www.megaupload.com/?d=WTPQS4IM) --BROKE(aka taken offline during [Megaupload Raid](http://en.wikipedia.org/wiki/Seizure_of_Megaupload))
 * <http://anonym.to/?http://www.mediafire.com/?21mnyn2nbnf> --BROKE 
 
