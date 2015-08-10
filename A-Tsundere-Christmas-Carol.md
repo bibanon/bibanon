@@ -3,7 +3,7 @@
 ## Original Story
 
 * Read [the original story here.](https://github.com/bibanon/a-tsundere-christmas-carol/wiki)
-* Or check out [the visual novel rendition.(https://github.com/bibanon/a-tsundere-christmas-carol/releases)
+* Or check out [the visual novel rendition.](https://github.com/bibanon/a-tsundere-christmas-carol/releases)
 
 ## Fanart and Derivative Works
 
