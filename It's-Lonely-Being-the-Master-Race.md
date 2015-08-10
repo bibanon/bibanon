@@ -47,7 +47,8 @@ Before the comic idea was pitched, there were already established personas for P
 * [She's just eating a tac-](http://i.imgur.com/5dP3jyb.png)
 * [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 * [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
-* [Joseph Valdez's Imgur Collection](http://josephvaldez.imgur.com/)
+* [Planet of Junk - Joseph Valdez](http://planetofjunk.tumblr.com)
+  * [Joseph Valdez's Imgur Collection](http://josephvaldez.imgur.com/)
   * [RocketNews24 - Joseph Valdez's Gaming Console Personifications](http://en.rocketnews24.com/2015/03/25/amateur-comic-strip-perfectly-captures-personalities-of-moe-fied-gaming-consoles/)
 
 ## Episodes
