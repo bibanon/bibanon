@@ -5,9 +5,12 @@ These are the folk stories of the internet, sometimes stretching into long, spra
 Stories gleaned right out of SA's paywall.
 
 * **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
-* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+  * [[Cubicle Jungle]] - A tale of a plucky worker stuck in a horrid savanna of office blocks, where a herd of white collar workers are constantly tormented by the fear of a supervisor looking over the walls, licking their chops, and going in for the kill. But one day, he grabs a Nerf gun, the predator becomes the prey, and life changes forevermore. It's all fun and games until _everything bursts into flames_, apparently.
 * **[[P-P-Powerbook|Powerbook]]** - A SA goon tried to sell a Powerbook on eBay, but is contacted by a scammer instead. He decides to play along with the scammer, and hilarity ensues. 
 * [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
+* [Something Awful - Comedy Goldmine](http://www.somethingawful.com/comedy-goldmine/) - _"The Comedy Goldmine examines the funniest and most creative threads from the Something Awful Forums. Includes hilarious Photoshops, amusing work stories, parodies, and other types of oddball humor."_
+  * Many of the most famous Something Awful tales ever told over it's storied history end up here. True to it's title, it's a massive goldmine, a decade of content and counting. Though they don't have _everything_.
 
 ## [[4chan]]
 
