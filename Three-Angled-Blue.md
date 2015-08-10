@@ -90,6 +90,7 @@ Three Angled Blue is now MIA, long gone now and probably never to return. But th
 Artists who continue the legacy of his detailed engravings.
 
 * [Tumblr - Things That Suck Ass](http://thingsthatsuckass.tumblr.com/) - Not enough 3-Angled-Blue for you? This person was masterfully close enough [to be accused of being him.](http://thingsthatsuckass.tumblr.com/post/40369000784/funny-thing-mitsjol-i-recieved-this-a-while-back)
+  * [Signoff Vocaroo](https://www.dropbox.com/s/kxv0suinob9ni3p/Vocaroo_s1Qp7ydQ5m3r.flac?dl=0) - The author gives a short monologue about what happened to him and why he stopped drawing recently.
 * [SantanaDVX](http://knowyourmeme.com/photos/112479-trollbait-nobody-is-right) - Created this magnificent work of satire at [the Strongside of Facepunch Studio Boards.](http://www.facepunch.com/showthread.php?t=909314)
 
 ### Project Hate Machine
