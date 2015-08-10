@@ -1,8 +1,7 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
-Our [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of stories we're still reviewing. You can comment on it, track our progress, even help out. 
-
-If you just need to **drop off new stories/content**, toss it in [our thread at Vyrd.net](http://tb.vyrd.net/net/res/46.html#46), we can help put it as a wikipage.
+* The Bibliotheca Anonoma's [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of stories we're still reviewing. You can comment on it, track our progress, even help out. 
+* If you just need to **drop off new stories/content**, toss it in [our thread at Vyrd.net](http://tb.vyrd.net/net/res/46.html#46), the team can build a page for it here.
 
 ## [[Something Awful]]
 
