@@ -11,6 +11,8 @@ Stories gleaned right out of SA's paywall.
 * [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
 * [Something Awful - Comedy Goldmine](http://www.somethingawful.com/comedy-goldmine/) - _"The Comedy Goldmine examines the funniest and most creative threads from the Something Awful Forums. Includes hilarious Photoshops, amusing work stories, parodies, and other types of oddball humor."_
   * Many of the most famous Something Awful tales ever told over it's storied history end up here. True to it's title, it's a massive goldmine, a decade of content and counting. Though they don't have _everything_.
+  * [Something Awful - Frontpage Directory](http://www.somethingawful.com/directory/) - Other compilations of content.
+* [The Let's Play Archive](http://lparchive.org/) - "The Let's Play Archive is a collection of entertaining video game playthroughs of all genres and styles."
 
 ## [[4chan]]
 
