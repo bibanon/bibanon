@@ -539,6 +539,8 @@ The old man still lurks in the abyss.
 
 ## Sources
 
+If you were a fan of The [[American Dream]], boy, do we have a story for you: The [[Cubicle Jungle]].
+
 * Original thread on Something Awful (If you know the link, please put it here)
 * [Shii's archive of American Dream](http://shii.org/knows/American_Dream)
 * [The Forgotten Employee](https://sites.google.com/site/forgottenemployee/)
