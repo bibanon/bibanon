@@ -7,7 +7,7 @@ which constitutes
 
 ## The Wiki
 
-This is *the source code viewer* for the Bibliotheca Anonoma Wiki.
+This is *the source code viewer* for the Bibliotheca Anonoma Wiki.  
 To **actually view and edit the Wiki** follow one of the links below:
 
 * [Wiki Homepage](https://github.com/bibanon/bibanon/wiki)
