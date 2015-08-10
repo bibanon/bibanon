@@ -12,7 +12,13 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 ### Contribute
 
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] section if you'd like to start somewhere.
+
+The Bibliotheca Anonoma uses a [Kanban Board system](http://trello.com/bibanon), to coordinate our projects. It's publicly viewable (and commentable), so check our [current progress there.](http://trello.com/bibanon) 
+
+There's also a massive stack of new stories that we still haven't read through in [the Workroom](https://trello.com/b/ohziwjHI/content-to-import). You can comment on it, or toss us any new stories/content in [our thread at Vyrd.net.](http://tb.vyrd.net/net/res/46.html#46)
+
+> We're trying to migrate to [Libreboard](http://libreboard.com) as an alternative to Trello. That way, we can modify it so anonymously toss in a story for us to check out, or even work on it collaboratively.
 
 ### Introduction to Internet Culture
 
