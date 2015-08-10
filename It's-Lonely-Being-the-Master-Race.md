@@ -47,6 +47,7 @@ Before the comic idea was pitched, there were already established personas for P
 * [She's just eating a tac-](http://i.imgur.com/5dP3jyb.png)
 * [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 * [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
+* [Joseph Valdez's Imgur Collection](http://josephvaldez.imgur.com/)
 
 ## Episodes
 
@@ -57,6 +58,7 @@ Before the comic idea was pitched, there were already established personas for P
 * [PC-tan's Upgrades](http://i3.kym-cdn.com/photos/images/original/000/788/482/783.png)
 * [I do it for them](https://static.fjcdn.com/pictures/Pc_7d85c2_5371662.png) - [Original Greentext on /v/](https://archive.moe/v/thread/251994278/#252002397)
 * [PC-tan sends off Dreamcast-tan](http://i.imgur.com/l86E4nb.jpg)
+* [The Eternal Master Race](http://i0.kym-cdn.com/photos/images/original/000/909/236/cc4.png)
 
 ### Emulation
 
