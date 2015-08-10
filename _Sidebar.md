@@ -4,6 +4,7 @@ Bibliotheca Anonoma
 ===================
 
 * [[Home]]
+* [[Contribute|Home#Contribute]]
 * [[About this Wiki|Bibliotheca Anonoma]]
   * [[Editing]]
   * [[Useful Tools]]
