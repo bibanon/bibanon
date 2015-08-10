@@ -17,7 +17,7 @@ We need your help and contribution to succeed. Create a Github account to edit t
 * If you just need to **drop off new stories/content**, toss it in [our thread at Vyrd.net](http://tb.vyrd.net/net/res/46.html#46), we can help put it as a wikipage.
 * The Bibliotheca Anonoma uses a [Kanban Board system](http://trello.com/bibanon), to coordinate our projects. It's publicly viewable (and commentable), so monitor our [progress there.](http://trello.com/bibanon)
   * We're trying to migrate to [Libreboard](http://libreboard.com) to replace Trello. That way, we can modify it to work as an anonymous dropbox for effortless contribution or community collaboration. Stay tuned.
-* Our [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of stories we're still reviewing. You can comment on it, track our progress, even help out.
+* The [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of **stories we're still reviewing.** You can comment on it, track our progress, even help out.
 
 ### Introduction to Internet Culture
 
