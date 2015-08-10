@@ -1,3 +1,5 @@
+> **Note:** This project is still in progress. Check out the BA [Fansub Evolution](https://trello.com/b/s3eNd4zD/fansub-evolution) Kanban Board to see a preliminary draft.
+
 Fansubbing refers to the process through which a Japanese manga is edited or anime is subtitled to become understandable to viewers outside of Japan. This history is going to focus on fansubbing in the English speaking world, but it is critical to remember that there are other places in the world, such as France or the Middle East, that enjoy manga and anime and also have translation groups.
 
 ## Before Fansubs
