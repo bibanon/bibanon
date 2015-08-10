@@ -44,10 +44,10 @@ Before the comic idea was pitched, there were already established personas for P
 * [Glorious PC](http://i.imgur.com/qjcJJii.png)
 * [Tablet In-home Streaming](http://imgur.com/b1g3IfW)
 * [Ouya-tan: How the Mighty Have Fallen](http://www.funnyjunk.com/channel/videogames/Ouya+tan+showcase/vqvMLid/)
+* [The Many Faces of PC](http://ci.memecdn.com/872/7907872.jpg)
 * [She's just eating a tac-](http://i.imgur.com/5dP3jyb.png)
-* [Tumblr - PlanetOfJunk](http://planetofjunk.tumblr.com/) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
 * [PC Shipping](https://i.imgur.com/F6ZVILF.jpg)
-* [Planet of Junk - Joseph Valdez](http://planetofjunk.tumblr.com)
+* [Planet of Junk - Joseph Valdez](http://planetofjunk.tumblr.com) - A drawfag famous for [Xbone-tan](https://imgur.com/a/0MjQ1) sketches.
   * [Joseph Valdez's Imgur Collection](http://josephvaldez.imgur.com/)
   * [RocketNews24 - Joseph Valdez's Gaming Console Personifications](http://en.rocketnews24.com/2015/03/25/amateur-comic-strip-perfectly-captures-personalities-of-moe-fied-gaming-consoles/)
 
