@@ -21,6 +21,8 @@ Stories gleaned right out of SA's paywall.
 
 > **Disclaimer:** While no NSFW images are displayed, be warned that 4chan is a website where where rape jokes and pornographic subtext were par for the course. However, as Nurse-kun states, "4chan, at it's core, is simply humanity without it's formalities."
 
+* [Bob Anderson's 4chan Story Collection](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE#) - An anon known as Bob Anderson has been archiving original literature and greentext from 4chan since 2013.
+
 ### The Father and his Daughter
 
 Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Two anons, inspired by the first, repeated that kindness again in their own lives.
