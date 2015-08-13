@@ -147,8 +147,8 @@ She continued her feather light stroke for another 20 or so seconds after I stop
 “Well, that happened” I blurted out due to having nothing else better to say.
 
 “Eh.
-.
-.
+
+
 yeah” Looking down at her twisted up t-shirt, still on her knees on my matress.  
 The mood on the air was palpable; I was in disbelief but couldn’t get a read on my sister.  
 
@@ -164,9 +164,9 @@ I must have stayed looking a few seconds too long while thinking about it becaus
 I came over all dominant and got up onto my knees with the intent of pulling her to me and holding her, but as I did.  
 
 “wait-wait…eh.
-.
+
 gross.
-.
+
 ” she points down to my semen sodden t-shirt and looked at me like I was stupid and shook her head with a grin.
 I take off my tee, fling it to the corner of the room and go to pull her too me  
 “wait, get another t-shirt, just in case” she holds up hers that she still has bunched up by her side.
@@ -399,14 +399,14 @@ I jump in and Amy gets right in and sinks into my arms resting her back on my ch
 "How was I" I say kind of smugly, think back to her little voice straining as she tell me she's cumming.
 
 Well.
-.
-.
+
+
 I'd always imagined how being with a boy for the first time would be"  
 "You know we haven't BEEN with each other" I interject.
 
 "Yeah yeah, but.
 I imagined how being intimate with a boy would be and I'd imagined what I'd want him to do to me and how he'd make me feel and I kinda felt like that just now.  
-.
+
 She squirms to turn around to face me and places her hands softly on my bare chest.  
 
 "You turn me on so much" she whispers as her mouth almost touches mine.
@@ -417,21 +417,21 @@ I kiss her on the lips gently.
 "So" I break away and turn onto my back and she plants her head on my chest, bringing her leg up over mine
 "What DOES turn you on?" I ask even though I think I have a fair idea
 "Ermmm.
-.
-.
+
+
 Pauses, a little embarrassed "you know how I said I liked that you overpowered me?"  
 "Yeah"
 "That, I love knowing that you're so much stronger than me and can dominate me and.
-.
+
 There's nothing I can do to stop it.  
-.
-.
+
+
 Not in a rapey way.  
 I just like that feeling of just having someone else be completely in control of me" she explains, my dick twitches, but is still a little too shell shocked to reach 100%  
 "Plus I love being picked up, when you had me earlier standing up, I love that so much.
 You looked so.  
-.
-.
+
+
 manly" she suddenly heard herself and turns her head to hide it in my chest with a little snigger.
 
 "I sound so cornyyy" she whines
@@ -441,16 +441,16 @@ Her gorgeous big grey eyes staring at me widely "ohh" she seems surprised.
 I lean down to kiss her, can't help it when she looks that dam cute.  
 
 "But yeah, I have no idea where the picking up thing comes from, but I always think about things like that when I.
-.
-.
+
+
 She trails off  
 "When you what?" I snarkily ask knowing exactly when she's going to say
 "When I.
-.
-.
+
+
 mas.
-.
-.
+
+
 turbate" she says under her breath.
 Hearing her say it was hot, imagining my 14 year old sister diddle that little slit of hers (that I'm yet to see) was so hot.  
 I've always loved the idea of girls masturbating, that thought of my sister doing it a door down from me was enough for me to get fully erect again  
@@ -490,7 +490,7 @@ Not much" Amy says and fires a knowing look over to me.
 "Saying that, Haven't you got work you should be doing anyway?" a tone of accusation in his voice.
 
 "Yeah.
-.
+
 A bit" Amy said defiantly.  
 
 "Well go and do it then, I'm not paying for your education for you to spend it watching bloody soap oprahs" Dad is clearly in a bad mood
@@ -545,8 +545,8 @@ She turns around and gets up with a little grin and launches her hands into mine
 "Come sleep in here with me tonight?" She asks bright eyed.
 
 ".
-.
-.
+
+
 oookay" I contemplate the difficult journey across to the next door.
 
 "You better, I did.
@@ -609,7 +609,7 @@ Suddenly I feel a gentle grab of my arm from where it was, I was right by the be
 “What took you so long?!” Amy whispered in a hiss as she pulled away from me.  
 
 "Sorry, I was just waiting for.
-.
+
 "
 "Shut up and get in bed" Amy said still hissing with an insistent whisper.
 She didn't need to tell me twice, I threw off my t-shirt and jeans (and my socks, sock are a faux pas) Now that I'm just in my boxers.  
@@ -713,7 +713,7 @@ She puts her head back and she’s panting shallow breaths, I just leave her wit
 “Tell me” I say in her ear  
 “Make me cum, please, oh god, please” the desperation and helplessness in her voice apparent.  
 She managed one more shallow breath as I began bating her, which knocked her breathing out of rhythm and she let out a “OHh.  
-.
+
 ” she quickly closed her mouth and her moan became a straining grunt.
 My pace quickened, my fingers teasing the hood of her clit, using that to stimulate her, so to not be too much for her sensitive little pussy.  
 I felt a tiny little spasm and tightened my arm around her body and up to her neck (again, not choking just pinning her to me) she whipped her hand off my arm and grabbed the pillow across from her and stuffed it in her mouth as the contractions turn from tiny flutters to pinching squeezes of her tight little walls.  
@@ -726,7 +726,7 @@ I go to pull my arm away from across her and currently being incapable of words 
 I hold her as she comes down from her orgasm.  
 She gets her breath back after 30 or so seconds  
 “Fuck!” She exhales and barely contains her voice to a whisper “I have.  
-.
+
 NEVER done that before.  
 I couldn’t control myself” She says in disbelief, look” She holds up the hand that was digging into my wrist and its shaking.  
 I’m so smug right now, I felt accomplished and manly, but didn’t let it show.  
@@ -738,7 +738,7 @@ I covertly wiped the pussy juice off my hand on her bed sheet.
 
 She groaned satisfied and put both her hands gently over my arm  
 “That was so.  
-.
+
 Good” mhmm half moan half laugh she snuggled into me.  
 
 “I love this, I love you holding me like this” Her voice is steadier now as she whispered  
@@ -793,7 +793,7 @@ As the last few little drops came out of my dick Amy sucked on my dick hard with
 The feeling was almost painful on the head as she came off it, but she left no cum behind  
 “mm” her mouth full, but the noise sounded like she wasn’t enjoying the cum in her mouth, she quickly leapt over me on her knees and jumped out of bed, ran to the sideboard and whipped out some sheets from a box of tissues and spit the load out into them  
 “ergh.  
-.
+
 uhhk” she made disapproving noises as she discarded the cum filled tissue and used another to wipe her tongue.
 
    
@@ -811,11 +811,11 @@ Now covered in the duvet.
 “That’s better” she said contently “Whats wrong with you?” She looks up asking  
 “You didn’t have to-“ I begin  
 “No no, I wanted too” She looked me dead in the eye “I’ve never done that with a boy before.  
-.
+
 You know that, I wanted to do it all right.  
-.
+
 I wanted to try everything, but IIII didn’t like the taste at all” she sniggered placing her head down on my chest “I don’t really know what I expected it to taste like to be honest.  
-.
+
 ” she said as she lay on my chest.
 
 “Salty milk” I thought to myself sarcastically (fucking /b/ has corrupted my mind) but of course never said it out loud.  
@@ -823,7 +823,7 @@ I wanted to try everything, but IIII didn’t like the taste at all” she snigg
 “How was I?” she said as she squeezed me a little bit.  
 
 “You were amazing.  
-.
+
 ” I started “I lasted about a minute what does that tell you?”
 She looks up shocked  
 “Was I good?” with a broadening smile  
@@ -933,7 +933,7 @@ Becky walked up to the car and jumped in the back wearing the same sort of get u
 “Hiiii, hi Mrs xxxx” Becky grinned  
 “Hello love, you alright?” Moms ‘for the guests’ voice rears it’s head  
 “Yeahhh I’m alright.  
-.
+
 Hi!” she says hello to Amy and they hug sitting down very awkwardly.  
 Amy and Becky natter at the speed of sound all the way to the Ice Rink.  
 We get there and as we jump out mom Beckons  
@@ -1021,7 +1021,7 @@ We jump on and end up in town (city centre) fast.
 
 “Where’d you wanna go?” Becky asks  
 “Zara.  
-.
+
 Oh then Miss Selfridge” Amy answers quickly  
 “Oh god” I groan  
 “Shut uuuuup, you’ve got amazing company you’ll be fine” Amy says then springs to jump on my back.  
@@ -1035,7 +1035,7 @@ Becky and Amy both clucking away and picking things out as I limp along losing m
 I'm quickly losing my will to live as we enter what seems like the 100th identical shop when Becky calls me over "Cam what dyu think of this" as she holds up some long sweater against her, I can't tell the difference between this long sweater and the past 5 that have come in and out of the changing room.  
 
 "Yeah it's nice.  
-.
+
 I guess" I just can't fane interest  
 "Bloody hell, we aren't boring you that much are we" Becky comes across as a joker, but I can see why Amy thinks she has a Crush on me.  
 
@@ -1235,7 +1235,7 @@ I feel kind of evil but it’s exciting at the same time.
 I stay up as mom and dad both go bed I keep typing.  
 And once I have a few thousand words down, I start a thread.  
 The rest is history I guess.  
-.
+
 I stay up until 3AM talking to you faggots and fall into bed, exhausted.  
 The thread hadn’t 404’d but I was shocked by how many people responded! (I guess this is a thank you to you faggots, who’re reading)  
    
@@ -1371,7 +1371,7 @@ I freeze and say nothing, my brain tells me to speak but I’ve never been dildo
 “Looking for something forrr…someone?” she senses my awkwardness and handles it, must be used to it I think.  
 
 “Yeah, after one of these for my.  
-.
+
 Girlfriend” The pause was barely negligible.  
 
 “Okay, what do you want for her? A vibrator? Jelly toy? Bullet?” She reams off a few names of things like ice cream flavours.  
@@ -1387,7 +1387,7 @@ But I have no problem with that)
 “this is one of the bigger vibrators though, will that be okay for her?” she talks as if she’s continuing from a point she made in the previous sentence.  
 
 “Ah, well she’s rather.  
-.
+
 Small”  
 “Saay no more, I know just what you two will love” She springs over to the other side of the display and pulls out another similar shaped one, but in light blue.  
 
@@ -1698,7 +1698,7 @@ She is soaking as I slip in a finger and appreciative pussy eats it up, and Amy 
 I slip in a second finger, slower as I don’t want to go too fast without her opening up.  
 I get my finger wet first obviously and this helps because after a minute or so, I’m knuckle deep in my sister again.  
 She enjoys that for 5 or so minutes and gets close to cumming but stops.  
-.
+
 
    
 She grabs my head with both hands under my ears and indicates me to come up.  
@@ -1873,7 +1873,7 @@ She is soaking as I slip in a finger and appreciative pussy eats it up, and Amy 
 I slip in a second finger, slower as I don’t want to go too fast without her opening up.  
 I get my finger wet first obviously and this helps because after a minute or so, I’m knuckle deep in my sister again.  
 She enjoys that for 5 or so minutes and gets close to cumming but stops.  
-.
+
 
    
 She grabs my head with both hands under my ears and indicates me to come up.  
@@ -1972,7 +1972,7 @@ I lean down to kiss her and lifts her head to meet mine, landing back down the b
 "Do what?" I say as I quickly suck at her neck and shoulder.  
 
 "Turn me on this much.  
-.
+
 aaaAAAHH" She lets out a half surprised moan as I slip in one finger into her still sopping wet, hot pussy.
 
 "Oh god I'm so -- sensitive" she gasps mid sentence and jolts.  
@@ -2021,7 +2021,7 @@ I go down to say hi and dad has the glint in his eye that indicates a few too ma
 
 "My son" Dad says putting his arms round me resting a little too much weight around my neck  
 "Your mom came and got me.  
-.
+
 As I am not of sound mind or body to operate a car" not slurring but definitely pissed up.  
 Dad wants no answer from me and walks into the front room  
 "Terry text me, told me he'd need picking up" mom explained  
@@ -2040,8 +2040,8 @@ I follow 5 minutes later as I now have someone to talk to down there.
 "Yeah I'm alright" Amy says brightly "was tired, got a real work out earlier" she must have sensed that I was in the doorway as She said that, I got 1 second of butterflies and the hair stood up on the back of my neck, because Amy definitely just alluded to the ridiculously hot sex me and her had had hours previous.  
 
 "Oh.  
-.
-.
+
+
 Hi Cam" the tone of sarcasm and look of the devil on my sisters face as I walk into the kitchen  
 "Alright" I nonchalantly shrug, acting as normal as possible while imagining my sisters little pussy cumming on my dick.  
 
@@ -2082,11 +2082,11 @@ I continued about my business and I hear the odd squeal/laugh/chatty girl noise 
 As I head down to drop off my plate in the kitchen.  
 Amy and her friend, who I now realize is her friend Rose, come down the stairs and Amy hugs her bye  
 "Bye Mrs xxx.  
-.
-.
+
+
 Bye Cameron.  
-.
-.
+
+
 As I walk out of the kitchen.  
 
 "See ya" I say to the uniform clad Rose as she leaves, not really thinking twice or even break my stride.  
@@ -2110,9 +2110,9 @@ I go in to kiss her and she reciprocates in a little peck on the lips
 
 "Oh yeah" I say kind of smug  
 "Yeah, next time they're all round.  
-.
+
 Maybe let them catch a glimpse of you with no shirt on or something.  
-.
+
 I want to watch them squirm" she giggles.  
 
 "I'll see what I can do” I laugh and kiss her again, Amy follows me into my room as I get some proper clothes on  
@@ -2127,7 +2127,7 @@ Even though I have no job and my relationship between myself and my mother conti
    
 I shout bye through to mom and leave not waiting for a response but get called back  
 “CAM…Remember, we’re all going out to dinner tomorrow night at 7.  
-.
+
 Don’t forget!” Mom shouts from the kitchen.
 
 “Kay” I shout through, close the door and go to start up the car.  
@@ -2146,7 +2146,7 @@ I'm woken up at noon by the sound of mom vacuuming the hallway outside my room.
 I don't answer, I look at the clothes strewn room and realize that there are 1 or 2 of Amy's things dotted around.  
 So I pick up a tiny pair of panties and a T-shirt and stash them, but can't be bothered to clean my room.  
 So I just bum around downstairs, make some breakfast and boot up the laptop, dad had managed to crash firefox again.  
-.
+
 and the pages to restore were for the bookings for a restaurant.  
 Then I remembered that we’re going out for dinner tonight.  
 I’m never too good at the whole etiquette thing, but dad always picks places with boss steaks and stuff for us, he knows good eating.  
@@ -2170,8 +2170,8 @@ The one from mine an Amy's little escapade, the one that I shot my cum over, the
 Then I realized I hadn't spoke for like 30 seconds, but I don't think mom has even blinked yet.  
 
 "That's.  
-.
-.
+
+
 I trail off  
 "There's not much that smells and stains like that Cameron, are you covering for your sister?" my heart stops "has she had boys in the house?" Mom is speaking calmly at this point, my heart continues to beat, but she still has no clue that it's my DNA squirted over that tiny grey Tee.  
 
@@ -2185,7 +2185,7 @@ Trying to hide my pounding heart with insolence.
 
 "What?" I say  
 "If your sister is doing stuff with boys it's not happening until me and your father had have spoken to her about it with her.  
-.
+
 Oh god Cam why now? She's only a baby" her angry raised eyebrows shrug down in sad defeat after she hears herself speak.  
 
 "Let her speak before you jump to conclusions.  
@@ -2202,16 +2202,16 @@ A thousand excuses and things to cover up this situation for Amy to through my h
 "What's wrong?" Her little voice over the phone unaware of the shit storm raging in my head about what's going to happen.  
 I'm well out of earshot in my room but still keep my voice down  
 "Remember a few days ago when used your T-shirt to.  
-.
-.
+
+
 clean up some stuff" I say hinting to it
 "Yyeeahhh" she says curiously  
 "Moms just found it, she's going a bit mental"  
 "Oh god.  
-.
-.
+
+
 She suddenly sounds mortified "does she.  
-.
+
 -"
 "No she doesn't know about us" I say calmly.  
 "But expect to be given a proper good talking to tonight.  
@@ -2223,14 +2223,14 @@ Replaced by the sense of being a million miles away thinking.
 "Yeah, moms now convinced that you're bringing boys into the house.  
 And wants to talk to you about it, And will most likely give you talks on protection and shit, dad did it with me" I say  
 "Oh goddd.  
-.
+
 Amy's voice deep with dread.  
 
 "Could be worse" I say with an inflection, to let her know that mom or dad could just have easily caught us in the act.  
 
 "I know.  
-.
-.
+
+
 god I'm so embarrassed" she says a bit brighter, but still obviously reeling from the situation.
 
 "Just get it over with and next time we'll be more careful" I reassure her.  
@@ -2251,7 +2251,7 @@ I go back up to mom, who's carried on and finished the vacuuming now.
 "What you gonna do about it all?" I say to her.  
 
 "I'm not going to go mad at her, I’m shocked Cam.  
-.
+
 She’s been my baby for so long, she is my baby.  
 She sits down on the bed and clutches the yellow duster in her hand.  
 
@@ -2356,7 +2356,7 @@ I do a quick scan around to see what angle people possible see me at, consider i
 Both my parents stop talking, my hand freezes  
 “You alright love? Dad says  
 “Oh.  
-.
+
 yeah fine” Amy brushes hair with her 2 fingers
 “You sure? Seen a ghost?” Dad says  
 “No, just got a bit of cramps” Amy drops something slightly menstrual related and dad immediately cuts conversation.  
@@ -2474,8 +2474,8 @@ The restaurant is by the canal with a bunch of nice bars and stuff and its quite
 She leans in, you wait until we get home tonight.  
 "Oh yeah? what have I got to wait for?" I say smiling  
 "You'll just have to see won't you.  
-.
-.
+
+
 She starts "That was so fucking hot" She looks up at me over hair kind of embarrassed as she said it.  
 
 "Right kids!" A slightly louder more boozey dad comes over.  
@@ -2484,7 +2484,7 @@ She starts "That was so fucking hot" She looks up at me over hair kind of embarr
 
 "Cam, you're driving mate.  
 I hope you're aware of that.  
-.
+
 Dad says over his shoulder  
 "What!" I protest.  
 Your mother and I are a bit three sheets to the wind, no good to drive.  
