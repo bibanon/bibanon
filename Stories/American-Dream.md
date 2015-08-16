@@ -1,3 +1,5 @@
+![American Dream Header](http://i.imgur.com/RBOZlXV.jpg)
+
 > [Click here to return to the Bibliotheca Anonoma.](https://github.com/bibanon/bibanon/wiki)
 
 This is a story posted to [[Something Awful]] in 2003, about a user named "Moonshine". He told an unforgettable tale about his experience climbing the corporate ladder to greatness, only to be left behind as a manager without a team.
