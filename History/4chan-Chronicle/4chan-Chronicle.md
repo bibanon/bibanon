@@ -106,6 +106,8 @@ Special mention to [[Wikichan]]: it was by far the most popular and exhaustive c
 
 ## Annexes:
 
+* [[4chan Chronicle Wikibook]] - Archived version of our wikibook that's still in progress.
+
 ### Help
 
 We've got a lot of information already, but we need hard facts and primary sources from people who actually experienced the era discussed. If you have anything to add, no matter how small, get in here and do it.
