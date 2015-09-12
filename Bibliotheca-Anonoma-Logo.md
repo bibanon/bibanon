@@ -83,6 +83,8 @@ That way, four characters can pack quite a lot of meaning, as shown from these b
 
 ### BA Compendium Logo
 
+![BA Compendium Logo](http://i.imgur.com/yJsMc3V.png)
+
 * **Designer** - Amersel (Justin Wu)
 * **Application** - BA Compendium
 * **CJK Script** - 虛擬書架
@@ -117,17 +119,22 @@ After finishing the seal and adding some stylistic changes (such as cutting corn
 
 The two bright colors were applied in a checkerboard pattern on the four characters. The brightest color of the set was used to highlight two significant glyphs: 擬書 [draft] + [document].
 
-As an added bonus, a compact logo was created by taking one character from the name representative of the entire product: 架 (shelf), and using it as a small seal emblem. This would be great as a favicon,
+As an added bonus, a compact logo was created by taking one character from the name representative of the entire product: 架 (shelf), and using it as a small seal emblem.
 
-(compact logo)
+![Compact logo](http://i.imgur.com/egctXW8.png)
 
 Finally, after the logo was drawn and colored, it had to be scaled up to a viewable size: we chose 400x400 to stay consistent, accomplished by disabling subpixel handling on GIMP's Scale tool. The logo was exported as uncompressed PNG, as JPEG would introduce unsightly artifacts.
 
 ### BASLQC Logo
 
+![BASLQC Logo](http://i.imgur.com/1RFJhJ8.png)
+
 * **Designer** - Antonizoon (Lawrence Wu)
 * **Tools** Piskel was used to draw this logo, on a Thinkpad X230 tablet.
 
+A compact logo was also created for the BASLQC
+
+![BASLQC Compact logo](https://imgur.com/PP0WokC.png)
 ### Extra Large Bibliotheca Anonoma Logo
 
 An alternate set of logos based upon Seal Script could possibly be used as a Large Bibliotheca Anonoma logo.

@@ -692,3 +692,5 @@ Hardhead targets Nightfreeze. They both sit in the dead of space, frozen in time
 
 * [http://forums.somethingawful.com/showthread.php?s=&threadid=1118444](Original thread on Something Awful)
 * [http://www.wirm.net/nightfreeze/part1.html](Wirm's mirror of the story)
+
+[http://www.youtube.com/watch?v=LmS9vcVNr5A](EVE is serious business)

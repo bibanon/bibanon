@@ -4,6 +4,7 @@ Bibliotheca Anonoma
 ===================
 
 * [[Home]]
+* [[Contribute|Home#Contribute]]
 * [[About this Wiki|Bibliotheca Anonoma]]
   * [[Editing]]
   * [[Useful Tools]]
@@ -14,10 +15,13 @@ Bibliotheca Anonoma
 
 ### Stories
 
+Check the [Workroom](https://trello.com/b/ohziwjHI/content-to-import) for content we're still reviewing.
+
 * [[Cool Story Bro]]
 * [[Lee Won and the Korean Pop Robots 9000|Lee Won]]
 * [[The Great Scam]]
 * [[American Dream]]
+  * [[Cubicle Jungle]]
 * [[Cheerios]]
 * [[Tramp Anon]]
 * [[Sweet Home 1985]]
@@ -31,7 +35,7 @@ Bibliotheca Anonoma
 * [[The Bridgekeeper]]
 * [[Romeo-san and Juliette]]
 * [[Uncle Anon]]
-* [[more...|Stories]]
+* Click here for [[more...|Stories]]
 
 ### Art
 

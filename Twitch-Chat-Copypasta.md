@@ -60,3 +60,12 @@ REMOVE BORIS remove borisyou are worst cocksucker. you are the cocksucking idiot
 
 ### 48 Year Old Man
 H ＥＬＬＯ ＡＭ ４８ ＹＥＡＲ ＭＡＮ ＦＲＯＭ /Ａ/． ＳＯＲＲＹ ＦＯＲ ＢＡＤ ＥＮＧＬＡＮＤ． Ｉ ＳＥＬＬＥＤ ＭＹ ＷＡＩＦU ＦＯＲ ＩＮＴＥＲＮＥＴ ＣＯＮＮＥＣＴＩＯＮ ＦＯＲ ＷＡＴＣH ＂4 CHAN CUP＂ ＡＮＤ Ｉ ＷＡＮＴ ＴＯ ＢＥＣＯＭＥ ＴＨＥ ＧＯＯＤＥＳＴ ＲＩＧＧＥＲ ＬＩＫＥ ＹO U
+
+### In Celebration of /mlp/ winning a cup
+```
+░▄▀▀▄░█░█▀▀▄░█▀▀▄░█░█░░█░░█░█▀▄░
+░█░▄▄░█░█░░█░█░░█░░█░░░█░░█░█▀░░
+░▀▄▄▀░█░█▄▄▀░█▄▄▀░░█░░░▀▄▄▀░█░░░
+```
+
+Alternatively, spam GD^

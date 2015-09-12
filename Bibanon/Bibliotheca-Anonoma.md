@@ -1,14 +1,8 @@
-The **Bibliotheca Anonoma** is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of mankind in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare.
+> _The Bibliotheca Anonoma is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of mankind in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare._
 
----
+The **Bibliotheca Anonoma** was founded in 2010 by a small, closely knit task force focused on saving the Internet Folklife we've enjoyed. Since then, it has grown significantly as we've adopted content from Shii's Wiki, rescued significant amounts of data for the [Internet Archive](http://archiveteam.org/index.php?title=Bibliotheca_Anonoma#Saved_Websites), and carried on the legendary legacy of [[Wikichan]] and its monitors. We can't do this alone, though: [[contribution is how we grow.|Home#Contribute]]
 
-Click on the links in the sidebar to the right -> to check out our collection. Under each section, you can click **More...** for an even larger list and longer descriptions that could not fit on the sidebar.
-
-### Contribute
-
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
-
-You can also talk to us at our IRC channel at `irc.rizon.net #bibanon` . And an anonymous textboard is in the works.
+This library has been based on the [Github Gollum](http://github.com/gollum/gollum) Wiki engine since 2011. [It's more impressive than you might imagine](http://alblue.bandlem.com/2011/05/git-tip-of-week-gollum.html): the wiki is Git-based, so anyone can [back up _the entire wiki, images, and all edit history_ for offline view in minutes.](http://flummox-engineering.blogspot.com/2014/01/how-to-download-github-wiki.html) It's editable by anyone that has a Github account. Most of all, we don't have to worry about hosting, DDOS, and spam protection (which killed Wikichan).
 
 ## Inspirations and Forerunners
 
@@ -22,17 +16,15 @@ You can also talk to us at our IRC channel at `irc.rizon.net #bibanon` . And an 
 
 ## Installation and Editing
 
-* [[Hosting]] - Want to host a mirror of the Bibliotheca Anonoma? Follow this guide and you'l have one up easily.
-* [[Editing This Wiki]] - If you're mystified by how ikiwiki works and how to edit it, (it is a pretty unique wiki), never fear! Just read this guide and all will be fine and dandy.
+* [[Hosting]] - Want to back up or host a mirror of the Bibliotheca Anonoma? Follow this guide and you'll have one up easily.
+* [[Editing This Wiki]] - If you're mystified by how Github Gollum works and how to edit it, (it is a very unique wiki), never fear! Just read this guide and all will be fine and dandy.
 
-## Design and Possible Modifications
+## Improvements and Possible Modifications
 
-* [[Help]] - details what needs to be done in this wiki.
-* [[Fully Decentralized Wiki]] - A design specification for a fully distributed wiki, based on Gollum, a Web of Trust, a DVCS, and a p2p layer for that DVCS. It's similar to what [[Project Mayhem]] suggests with [[TYLER]]. The difference here is that we present and explore actual methods of making this wiki a reality, rather than simply focusing on the implications.
+* [[Fully Decentralized Wiki]] - A design specification for a fully distributed wiki, based on Gollum, a Web of Trust, a DVCS, and a p2p layer for that DVCS. [Recently, Gitorrent has finally been invented](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/), so this might just be able to become a reality.
 
 ## Tools
 
 *Stuff that we use to maintain the wiki. They need lots of work and attention.*
 
-* [[BibAnon SDK]] - A set of portable tools that gives users a portable version of our wiki
 * [[Mediawiki2Markdown]] - Our crappy little Mediawiki converting scripts. It's not perfect, and it causes a few problems with links, but it's the only thing we got.
