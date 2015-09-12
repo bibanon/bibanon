@@ -1,17 +1,27 @@
 These are the folk stories of the internet, sometimes stretching into long, sprawling epics. They're pretty much books in themselves, and gripping reads at that.
 
+* The Bibliotheca Anonoma's [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of stories we're still reviewing. You can comment on it, track our progress, even help out. 
+* If you just need to **drop off new stories/content**, toss it in [our thread at Vyrd.net](http://tb.vyrd.net/net/res/46.html#46), the team can build a page for it here.
+
 ## [[Something Awful]]
 
 Stories gleaned right out of SA's paywall.
 
 * **[[The Great Scam]]** - A tale of Nightfreeze's investment scam in EVE Online. It shows how people are forced to turn to evil when everything goes wrong, and showcases the immateriality of video gaming in contrast with the zealotry of its players.
-* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources  and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+* **[[American Dream]]** - A once-hardworking forgotten manager gets paid doing absolutely nothing except browse the internet. This is a tale of his struggle to maintain his lifestyle against the forces of Human Resources and jealous bosses. As time goes on, he realizes that he has achieved what few others have experienced: The American Dream.
+  * [[Cubicle Jungle]] - A tale of a plucky worker stuck in a horrid savanna of office blocks, where a herd of white collar workers are constantly tormented by the fear of a supervisor looking over the walls, licking their chops, and going in for the kill. But one day, he grabs a Nerf gun, the predator becomes the prey, and life changes forevermore. It's all fun and games until _everything bursts into flames_, apparently.
 * **[[P-P-Powerbook|Powerbook]]** - A SA goon tried to sell a Powerbook on eBay, but is contacted by a scammer instead. He decides to play along with the scammer, and hilarity ensues. 
 * [[AOHell]] - How a man started out as a 15-year-old AOL hacker, growing up to become a powerful spam king. 
+* [Something Awful - Comedy Goldmine](http://www.somethingawful.com/comedy-goldmine/) - _"The Comedy Goldmine examines the funniest and most creative threads from the Something Awful Forums. Includes hilarious Photoshops, amusing work stories, parodies, and other types of oddball humor."_
+  * Many of the most famous Something Awful tales ever told over it's storied history end up here. True to it's title, it's a massive goldmine, a decade of content and counting. Though they don't have _everything_.
+  * [Something Awful - Frontpage Directory](http://www.somethingawful.com/directory/) - Other compilations of content.
+* [The Let's Play Archive](http://lparchive.org/) - "The Let's Play Archive is a collection of entertaining video game playthroughs of all genres and styles."
 
 ## [[4chan]]
 
 > **Disclaimer:** While no NSFW images are displayed, be warned that 4chan is a website where where rape jokes and pornographic subtext were par for the course. However, as Nurse-kun states, "4chan, at it's core, is simply humanity without it's formalities."
+
+* [Bob Anderson's 4chan Story Collection](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE#) - An anon known as Bob Anderson has been archiving original literature and greentext from 4chan since 2013.
 
 ### The Father and his Daughter
 

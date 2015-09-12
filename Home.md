@@ -12,7 +12,14 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 ### Contribute
 
-We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] or [[Teams]] section if you'd like to start somewhere.
+We need your help and contribution to succeed. Create a Github account to edit this wiki. Then check out the [[Current Projects]] section if you'd like to start somewhere. 
+
+* If you just need to **drop off new stories/content**, toss it in [our thread at Vyrd.net](http://tb.vyrd.net/net/res/46.html#46), we can help put it as a wikipage.
+* The Bibliotheca Anonoma uses a [Kanban Board system](http://trello.com/bibanon), to coordinate our projects. It's publicly viewable (and commentable), so monitor our [progress there.](http://trello.com/bibanon)
+  * We're trying to migrate to [Libreboard](http://libreboard.com) to replace Trello. That way, we can modify it to work as an anonymous dropbox for effortless contribution or community collaboration. Stay tuned.
+* The [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of **stories we're still reviewing.** You can comment on it, track our progress, even help out.
+  * The [Storehouse](https://drive.google.com/drive/u/0/folders/0B7WYx7u6HJh_Z3FjU2F0NFNyQWs) contains files deemed critical for archival, but still under review. We tossed them into Google Drive for now.
+  * The [Internet Archive](https://archive.org/search.php?query=subject%3A%22Bibliotheca+Anonoma%22) holds most of our critically important treasures, from entire website backups to a Git backup of this wiki. 
 
 ### Introduction to Internet Culture
 

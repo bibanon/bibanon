@@ -1,3 +1,5 @@
+![American Dream Header](http://i.imgur.com/RBOZlXV.jpg)
+
 > [Click here to return to the Bibliotheca Anonoma.](https://github.com/bibanon/bibanon/wiki)
 
 This is a story posted to [[Something Awful]] in 2003, about a user named "Moonshine". He told an unforgettable tale about his experience climbing the corporate ladder to greatness, only to be left behind as a manager without a team.
@@ -538,6 +540,8 @@ And to this day... somewhere, someplace...
 The old man still lurks in the abyss.
 
 ## Sources
+
+If you were a fan of The [[American Dream]], boy, do we have a story for you: The [[Cubicle Jungle]].
 
 * Original thread on Something Awful (If you know the link, please put it here)
 * [Shii's archive of American Dream](http://shii.org/knows/American_Dream)
