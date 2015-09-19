@@ -6,7 +6,7 @@ This story, along with [the corresponding TV drama](https://www.youtube.com/chan
 
 In typical Japanese fashion, after the tremendous success of the book, both a movie version and a TV drama series were released. 'Densha Otoko' is really the "it" book of 2005 for Japan. It's a really great story and I hope that this translation helps you enjoy it, too." 
 
--- [Lindsay, English Translator](http://www.rinji.tv/)
+-- [Lindsay, English Translator](http://web.archive.org/web/20150112005945/http://www.rinji.tv/densha/)
 
 ## English Translation
 
