@@ -1,0 +1,96 @@
+{{db-web}}
+{{Use mdy dates|date=April 2014}}
+{{pp-move-indef}}
+{{Infobox website
+| name           = WikiChan
+| logo           = [[File:Ed logo.png|100px|Official site logo]]
+| screenshot     = 
+| collapsible    = yes
+| caption        = WikiChan's front page on April 10, 2011.
+| url            = [http://wikichan.org/ wikichan.org]
+| commercial     = Yes
+| type           = Satirical wiki
+| language       = English
+| registration   = Optional (required to edit pages)
+| author         = Kirk
+| launch date    = {{Start date and age|2006|12}} 
+| revenue        = Advertising and donations
+| slogan         = 
+|software=[[Mediawiki]]
+|status=Dead
+}}
+
+''deleted by Wikipedia, so we recovered a copy.''
+
+[[Image:Wikichan Front Page.png|thumb|270px|Wikichan front page]]
+'''Wikichan.net<ref>{{cite web |url=http://1d4chan.org/wiki/Wikichan}}</ref>''' (previously '''Wikichan.org'''?) was the logical extension of what are known as the "*chan" boards. These boards, primarily that of 4chan, have generated a kind of culture and demographic that has never been represented in any kind of documented form. Wikichan is the answer to that problem- Wikichan is a website dedicated to documenting *chan culture. With that, Wikichan has two purposes. One, to be a kind of collaboration of everything good from the *chan community- [[Copypasta]], [[Stories]], that sort of thing. Secondly, to serve as a basin for those who want to fag off on a Wiki, but really have no easy way to do so lest they be banned on other wikis (within reason). Its content, which was all lost on the .org to .net switch.
+
+The most likely reason for its founding was so the dumbasses at [[4chan]]<ref>{{cite web |url=http://1d4chan.org/wiki/Wikichan}}</ref>'s [[b|/b/]] wouldn't have to make such a [[Pokemon|fantastic]] effort to find the [[old meme|tired old jokes]] they seem to love so much.
+
+Apparently the writers of Wikichan have some [[Butthurt|kind of grudge]] against ED, just like the rest of the Internets. Also, every week the entire website [[9/11|falls apart]] because the owner doesn't know how to run a website at all. [[Last Thursday|As of this week]], the site was suspended for failure to fork over  in hosting bills. They have since changed hosts, which is, naturally, almost twice.
+
+==History==
+There was '''etherchan.org''', then '''wikichan.org''', which both called themselves Wikichan. Wikichan was originally started in late 2006 as a kind of joke, a unique little way to document all sorts of *chan culture. While it has survived approximately three major downtimes and two losses of data (to the point where dedicated members have had to restore the database from [[Google]]'s cache and Archive.org enough to make bots to do so), it has nonetheless carved itself popularity on the internet, scaring off most hosting companies except the ones with the balls to try hosting it.
+
+*Wikichan Downtime
+*Wikichan Second Downtime
+
+The amount of blanking raid and DDoSes against Wikichan by [[420chan]], [[Encyclopedia Dramatica]], and other no fun sites eventually caused it's demise. By the end of 2010, Wikisysop gave up on the site and converted it into a men's self-help blog that few people read (based on The Well-Cultured Anonymous). What remains of Wikichan's most important content survives on [[Encyclopedia Dramatica]], the [[Internet Archive]], the [[LURKMOAR Wiki]], and of course, the [[Bibliotheca Anonoma]].
+
+In January 2012, the [[Yotsuba Society]] announced a plan to restore Wikichan's content to it's original state on their own wiki. 30% of it was already been added, but the Yotsuba Society site had to be dissolved due to personal funding issues. At first, people hated and DDoS'd wikichan.org for copying etherchan. Then etherchan closed and people had to deal with wikichan.org which never backed up its database and lost the database every 2 months. Eventually wikichan.org closed and there's only some one site about the well cultured anonymous, some manners guide.
+
+[[Shii]] had this good thing on his site where he gave specific, simple instructions on how to back up the database and said, "If only wikichan knew how to do this..." The ironic thing is that 1000s of people came out and nowhere and would just rebuild that database each time it crashed while these 1000s ignored other sites like lurkmoar wiki that have stayed up.
+
+ It died one death due to hard drive crash, in which all data was lost because the admin had not thought of making backups. Then, it nearly died again, and there were again no backups. Then, it finally died for real, and the Owner and founder redirected all traffic to some "I give people styling tips" website he runs, because that is even more useful for ego-inflation, after all. He let the domain expire and now it hosts a lot of ads. [[Shii]] archived some of the better things from that website, but then deleted it again in 2012.
+Today, the [[Bibliotheca Anonoma]] has archived nearly all of [[Shii]]'s collected stories, remastered them, and discovered previously lost Wikichan stories with the help of it's former sysops.
+
+==Where did Wikichan go?==
+*[[Nurse-kun]] and [[Blindmute Loli]] have been rehosted at the [https://github.com/bibanon/bibanon/wiki Bibliotheca Anonoma] 
+*Much of the [[4chan]] crap is now at [[The LURKMORE wiki]]. 
+*What remains of the [[pedophile]] incest stories.
+
+==Fun Facts==
+*Wikichan is a ripoff of [[ED]]. 
+*[[Common knowledge|Wikichan used to cataloging memes]]. 
+
+==Vandalism==
+Wikichan was very easy to vandalize because nobody actively monitored it. 
+
+==Staff==
+
+The owner of Wikichan is the Wikisysop <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>, who created the original Wikichan wiki and hosted it on his own servers (which eventually fried). Wikichan was hosted by Carcer and his associates, who seemed to have a godlike ability to put up with all of the contents that Wikichan generated on a day-to-day basis. As well, there were approximately 10 Sysops, who managed the board and ensure the quality of all articles (and protect them from harassment from users angry at Wikichan).
+
+Members in no particular order
+
+Bot <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Carcer <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Halcy <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Jack Phoenix <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Mr Saturn <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Nakamura <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Palejewel509 <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Raad <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Rembrant <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Wikisysop <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Sarafan <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+Sources <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+
+Wikichan Article  <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080220064533/http://wikichan.org/index.php/Wikichan}}</ref>
+Wikichan Staff <ref>{{cite web |url=https://github.com/bibanon/bibanon/wiki/Wikichan}}</ref><ref>{{cite web |url=http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff}}</ref>
+
+==See Also==
+*[[4chan]]
+*[[The LURKMORE wiki]]
+*[[Encyclopedia Dramatica]]
+*[[Uncyclopedia]]
+*[[Copypasta/Archive 4|Blindmute loli]]
+*[[Wikichan/A Collection Of Incest Confessions|Pedophile incest stories archive]]
+
+==External Links==
+
+
+
+{{Wikichan}}
+{{Chans}}{{Wikis}}
+[[Category:Chans]][[Category:Sites]][[Category:Wikichan| ]]
+{{wikipedia-deleted|Arijit dey}}
