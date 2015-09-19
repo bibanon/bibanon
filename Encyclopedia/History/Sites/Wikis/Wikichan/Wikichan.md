@@ -44,3 +44,4 @@ The owner of Wikichan is the [[Wikisysop]], who created the original Wikichan wi
 
 * [Wikichan Article](http://web.archive.org/web/20080220064533/http://wikichan.org/index.php/Wikichan)
 * [Wikichan Staff](http://web.archive.org/web/20080302122350/http://wikichan.org/index.php/Category:Wikichan_Staff)
+* [[Wikichan Wikipedia Article]] - Retrieved from [Speedy Deletion Wikia](http://speedydeletion.wikia.com/wiki/Wikichan)
