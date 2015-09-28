@@ -5,7 +5,7 @@
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos off of YouTube and other streaming sites. [[Here are some recommended commands.|Youtube-dl]]
 * [Imgur Album Downloader](https://github.com/alexgisby/imgur-album-downloader) - To save choice albums for later viewing.
 * [Wikiteam - Mediawiki Dump Generator](http://archiveteam.org/index.php?title=WikiTeam#Tools_and_source_code) - Archive an entire backup of a MediaWiki-based wiki, all pages, all history, and all images. You can use Special:Import to restore this XML backup.
-* [Plowshare](https://github.com/plowshare/plowshare) - Oh no! Was OP a faggot and gave you 10 split Mediafire links? Not to worry, you can use this automated download script to scrape from any download site in an automated manner. Though sometimes, you'll still have to solve captchas.
+* ~~~[Plowshare](https://github.com/plowshare/plowshare) - Oh no! Was OP a faggot and gave you 10 split Mediafire links? Not to worry, you can use this automated download script to scrape from any download site in an automated manner. Though sometimes, you'll still have to solve captchas.~~~404'ed
 * [Bdom's Tumblr Backup](https://github.com/bdoms/tumblr_backup) - This python script backs up an entire Tumblr blog with all posts and images. Just in case the author decides to delete their blog...
   * Unfortunately, it doesn't grab a list of reblogs/comments or the Tumblr theme. Might be a good project to work on.
 
