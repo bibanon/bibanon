@@ -35,3 +35,9 @@ Unfortunately, we haven't been very adept at keeping up the timeline. But starti
 * **2015-01-21** - [moot retires as the site admin.](https://www.4chan.org/news?all#118)
 
 * **2015-01-23** - [moot holds a Q&A on Youtube.](https://www.youtube.com/watch?x-yt-ts=1421914688&x-yt-cl=84503534&v=XYUKJBZuUig)
+
+## October
+
+* **2015-10-01** - Birthday hats once again.
+  * /aco/ - Adult Cartoons was created. As of now it's still unlisted and there hasn't been a news announcement about it yet.
+  * /b/ raids tumblr by posting gore and dragon dildos with tags like #feminism, #black lives matter, #one direction, #dr. who, #steven universe, and #homestuck, among others. There is a lot of confusion, with people claiming it's 4chan/reddit or 4chan/8chan, but that may be intentional disinformation.
