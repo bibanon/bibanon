@@ -67,6 +67,3 @@ Around the same time that this story was concieved, a bunch of people from 4chan
 The visual novel is [available for free download](http://katawa-shoujo.com/) at their site.
 
 [Leigh Alexander of Kotaku](http://kotaku.com/katawa-shoujo/) hints that 4chan's love of "Damaged Goods" (girls with disabilities) began not as another creepy fetish, but as a wave of empathy that anons felt after reading Nurse-kun's story.
-
-> **[[!toggle id="trivia" text="Hide Trivia"]]**
-"""]]
