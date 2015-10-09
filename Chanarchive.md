@@ -1,4 +1,4 @@
-> **Notice:** The modern successor to the Chanarchive is [the 4archive.](http://4archive.org) Nowhere near as good, but it's something where you can submit threads to be slurped down.
+> **Notice:** The modern successor to the Chanarchive is [the 4archive.](http://4archive.org) - (archived at http://4chanarchives.cu.cc) Nowhere near as good, but it's something where you can submit threads to be slurped down.
 
 **The Chanarchive** (formerly 4chanarchive) was the first, the largest, and the most important 4chan archive site ever built, until the dawn of the Fuuka archivers. It was created by an anon known as **capsized**, and contained somewhere from 15,000-20,000 threads.
 
