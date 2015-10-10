@@ -20,6 +20,7 @@ We need your help and contribution to succeed. Create a Github account to edit t
 * The [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of **stories we're still reviewing.** You can comment on it, track our progress, even help out.
   * The [Storehouse](https://drive.google.com/drive/u/0/folders/0B7WYx7u6HJh_Z3FjU2F0NFNyQWs) contains files deemed critical for archival, but still under review. We tossed them into Google Drive for now.
   * The [Internet Archive](https://archive.org/search.php?query=subject%3A%22Bibliotheca+Anonoma%22) holds most of our critically important treasures, from entire website backups to a Git backup of this wiki. 
+  * Stay on the lookout for pages that may have fallen by the wayside, are in need of maintenance, or are orphaned. Place pages [here](https://github.com/bibanon/bibanon/wiki/Maintenance).
 
 ### Introduction to Internet Culture
 
