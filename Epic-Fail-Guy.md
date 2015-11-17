@@ -7,7 +7,10 @@ Most [[Fag#Newfag|newfag]]s only recognize EFG with his mask (the Guy Fawkes mas
 Epic Fail Guy is the creation of The Weaver, a contributor of 4chan OC since 2006. In addition to EFG he is also responsible for Boxdog, Chain-Chomp-chan, RubyQuest, DiveQuest, NanQuest (on /tg/), Player One (on /v/) and countless amounts of fanart. Oh, and porn - tons of porn.
 
 [TGWeaver's Tumblr](http://tgweaver.tumblr.com/)
+
 [TGWeaver on TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/TheWeaver)
+
 [EFG as seen by Encyclopedia Dramatica](https://encyclopediadramatica.se/Epic_Fail_Guy)
+
 [ED also has some of Weaver's other characters catalogued.](https://encyclopediadramatica.se/Drawhore)
 [[Category:Memes & Terms]]
