@@ -11,5 +11,3 @@ The symbols used in Japanese, Chinese, and Korean (and sometimes also other lang
 While Moonspeak is the universal term for a different language, Spanish has been dubbed Taco Speak.
 
 A reference to the term appears in the videogame Disgaea 2, the description of the rune staff item claims "Some crazy moon language is carved in it"
-
-[[Category:4chan/a/]][[Category:Memes and Terms]]
