@@ -9,9 +9,8 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 > _The best way to contact the Bibliotheca Anonoma is at our [IRC channel.](http://qchat.rizon.net/?channels=bibanon&uio=d4)_
 
 * [**IRC channel**](http://qchat.rizon.net/?channels=bibanon&uio=d4) - `irc.rizon.net #bibanon` - The IRC channel is the primary control room for the Bibliotheca Anonoma, where our members meet pseudoanonymously daily. Feel free to drop in, contribute anything, or even join our team anytime.
+* [Bibliotheca Anonoma BBS](http://bbs.bibanon.org) - Drop in any interesting data you've got here, post in the threads, or track a certain story/project in this textboard.
 * [BAnonoma Twitter](https://twitter.com/BAnonoma) - We usually post quick announcements here.
-
-<!-- * [Bibanon General Thread](http://tb.vyrd.net/net/res/46.html#46) - You can anonymously join in, talk to us, or submit content in this General Thread at vyrd.net. We'll migrate to our own textboard sooner or later. -->
 
 ### Contribute
 
