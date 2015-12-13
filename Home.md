@@ -1,4 +1,4 @@
-The **Bibliotheca Anonoma** is a research task force collecting, documenting, and safeguarding *Internet Folklife*.
+The **Bibliotheca Anonoma** is a research task force archiving, documenting, and safeguarding *Internet Folklife*.
 
 ---
 
