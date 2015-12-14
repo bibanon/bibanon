@@ -110,7 +110,6 @@ These stories will make you hurl.
 * **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
 * **[[Sweet Home 1985]]** - A story of what happens when a man from 2011 wakes up in the year 1984, and is forced to seek help at his own childhood home. Due to a similar inception to RomeSweetRome, it was put into the subreddit [/r/1985Sweet1985](http://www.reddit.com/r/1985sweet1985/).
   * We were unable to find the original Reddit threads of this story on our own, but a user named [Vestrideus](https://github.com/vestrideus) discovered that we had mistitled it 1984, rather than 1985. Many thanks, bro.
-* [The Linguist](http://www.reddit.com/r/AskReddit/comments/u6ocu/whats_your_favorite_wtf_did_i_just_read/c4sscej) - "Ror grubburg, mossom non lil tomot dud. Ses nin?"
 
 ## [[Wikichan]]
 
