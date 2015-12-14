@@ -18,6 +18,11 @@
 * Daily Japanese Thread
 * [LogicalIncrements](http://www.logicalincrements.com/) (former Falcon Guide from /g/) - All the best parts you need to build a desktop gaming rig PC.
 
+## Reddit
+
+* [The Linguist](http://www.reddit.com/r/AskReddit/comments/u6ocu/whats_your_favorite_wtf_did_i_just_read/c4sscej) - "Ror grubburg, mossom non lil tomot dud. Ses nin?"
+* [The Dagobah Story](https://www.reddit.com/r/AskReddit/comments/xo41d/doctorsnursesredditors_what_has_been_your_most/c5o66p2) - Those in the medical field often deal with some nasty diseases and conditions. Few however, have dealt with anything quite like this.
+
 ## Amazing Projects
 
 * [Food in Literature](http://foodinliterature.com/) - Cook the greatest foods ever written about, that the rest of the world can only dream of.
