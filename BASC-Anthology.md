@@ -1,4 +1,5 @@
-[description]
+This is a collection of various interesting stories, articles, videos, and other miscellaneous things on the internet. This page differs from the story page in that these links generally go to other sites.
+
 * [Link to article](http://website.com) - Quick description
    * Longer description
 
