@@ -23,6 +23,7 @@ This is a collection of various interesting stories, articles, videos, and other
 
 * [The Linguist](http://www.reddit.com/r/AskReddit/comments/u6ocu/whats_your_favorite_wtf_did_i_just_read/c4sscej) - "Ror grubburg, mossom non lil tomot dud. Ses nin?"
 * [The Dagobah Story](https://www.reddit.com/r/AskReddit/comments/xo41d/doctorsnursesredditors_what_has_been_your_most/c5o66p2) - Those in the medical field often deal with some nasty diseases and conditions. Few however, have dealt with anything quite like this.
+* [Kevin](https://www.reddit.com/r/AskReddit/comments/219w2o/whos_the_dumbest_person_youve_ever_met/cgbhkwp) - In the author's own words, "god exists and he's laughing uncontrollably"
 
 ## Amazing Projects
 
