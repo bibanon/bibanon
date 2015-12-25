@@ -33,13 +33,20 @@ This version has been archived by the Bibliotheca Anonoma as a [Github repositor
 
 The original thread where it all began.
 
-* 4chan Thread
-  * [Archive.moe - /a/58936586](https://archive.moe/a/thread/58936586)
+* 4chan Thread - Unfortunately lost along with the rest of archive.moe. A copy didn't manage to make its way to desustorage
+  * [Archive.moe] - /a/58936586](https://archive.moe/a/thread/58936586)
   * [Image Archive](https://drive.google.com/file/d/0B7WYx7u6HJh_VVhPQ04wS1kwUUU/view?usp=sharing)
 
 ### /a/118778767 : 2014-12-24 (Sticky)
 
 The 2014 reincarnation of this thread was stickied by the /a/ moderators, bringing the once little known story to the attention of all on 4chan. 
 
-* 4chan Thread
+* 4chan Thread - Unfortunately lost along with the rest of archive.moe. A copy didn't manage to make its way to desustorage
   * [Archive.moe - /a/118778767](https://archive.moe/a/thread/118778767)
+
+### /a/135163437 : 2015-12-24 (Sticky)
+
+Once again, someone posted the story and mods stickied it again.
+
+* 4chan Thread
+  * [Desustorage](http://desustorage.org/a/thread/135163437/)
