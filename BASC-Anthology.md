@@ -91,6 +91,9 @@ A "Let's Play" is a playthrough of a video game that is recorded and shared with
 * [Minesweeper](http://lparchive.org/Minesweeper/) - What's yours is minesweeper
    * Canada must always be ready in case of an American invasion. To prepare their peacekeeping troops for the horrors of war, they are put through the toughest training exercise known to man: sweeping for live mines. Many lives are lost, and many Maple Hearts given out, but this ragtag band of recruits will stop at nothing to protect their country.
 
+* [Simcity 3000](http://lparchive.org/SimCity-3000/) - Being the mayor has its benefits
+    * A man is shipped out to a tree-less, empty plot of land, and is charged with building a city out of it. Times are tough at the beginning, and the city's residents are not the most accommodating (or logical) to work with, but the city slowly but surely grows into the shining jewel of the region.
+
 ## Unique Subreddits
 
 * /r/Excel - Stuck at work with a Windows computer that is totally locked down? With the power of bloated Excel, you can create a GUI with Visual Basic to access the Win32 API, and create helpful tools, basic games, a Web Browser form, even a media player that streams movies from your SSH home server. And all processes are shown as subdivisions of Excel! It's the equivalent of a programmable calculator for cubicle workers.
