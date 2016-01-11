@@ -1,4 +1,4 @@
-Rome Sweet Rome is a story written by a redditor by the name of Prufrock451, who was responding to a question about what it would be like if a modern US Marine unit faced all of Rome's legions. It gathered a large following, and currently there is a movie being made with this concept.
+Rome Sweet Rome is a story written by a redditor by the name of Prufrock451, who was responding to a question about what it would be like if a modern US Marine unit faced all of Rome's legions. It gathered a large following, and currently there is a movie being made with this concept. The story was purchased before the entire story was posted, so unfortunately it's unavailable. In addition, as of 2013 the script is being re-written, which means the original story may never be seen in the lifetime of anyone who cares.
 
 #Original Post
 So I've been watching HBO's Rome and Generation Kill simultaneously and it's lead me to fantasize about traveling back in time with modern troops and equipment to remove that self-righteous little twat [Octavian (Augustus)](http://en.wikipedia.org/wiki/Augustus) from power. 
