@@ -15,7 +15,8 @@ This is a collection of various interesting stories, articles, videos, and other
 
 ## 4chan Information Thread Archives
 
-* [/a/ Buyfag Thread](https://docs.google.com/document/pub?id=1Y1U5YDGrvgFW-5H_cBnDoHwCfWjPDaQ6p05-HJMcVh4) - How to buy figmas, pillowcase covers, and other NEET equipment.
+* [/a/ Buyfag Thread](https://docs.google.com/document/d/1wPgUiUBP2aXaQ9N0YKNaML7-EAUgC0iQ3FvooNOJ_pM/pub) - How to buy figmas, pillowcase covers, and other NEET equipment.
+  * Note that after the [deletion](http://buyfags.moe/My_wiki:About#History) of the old document, the guide has been moved to a [wiki](http://buyfags.moe/).
 * Daily Japanese Thread
 * [LogicalIncrements](http://www.logicalincrements.com/) (former Falcon Guide from /g/) - All the best parts you need to build a desktop gaming rig PC.
 
