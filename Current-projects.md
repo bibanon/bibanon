@@ -14,7 +14,7 @@
 
 Other archival institutes or link pages.
 
-* [Cyberlife](http://jinteki.tk/index.html) - Awesome cyberpunk archive that links back to this wiki. What treasures are found there?
+* [Cyberlife](http://jinteki.industries/) - Awesome cyberpunk archive that links back to this wiki. What treasures are found there?
 * [United Chans Wikia](http://unitedchans.wikia.com) - Tons of great history articles on 4chan.
 
 ## Liquidation
