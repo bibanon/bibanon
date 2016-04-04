@@ -145,10 +145,11 @@ This allows us to draw larger declarations stating our intents for the organizat
   * Alt. Favicon Logo
 * **2x1** `成存` (Chéng cún, せいぞん) - Achievement Archive,
 * **3x1** `成存館` ((Chéng cún guan, せいぞんかん))
+*　（dang an guan）檔案館 - Archive Department/Museum
   * Official Chinese/Japanese name.
 * **2x2** `成, 史, 詩, 術` - Achievements, History, Poetry/Stories, Technology
   * Alt. Logo
-* **4x4** `習, 存, 網上祖知 成, 史, 詩, 術, 廣記 之 圖書館` - Library for the Archival of Internet Folklife and Study of Internet Anthropology,
+* **4x4** `習, 存, 網史, 詩, 術, 廣記, 傳，賦，真鑒， 史記檔案` - Learning, Saving, Internet History, Poem, Tech, Folklore, Tell,  Library for the Archival of Internet Folklife and Study of Internet Anthropology,
   * **8x4** `有收集, 不讓消失, 有長壽存` (unfinished, expand to 16) - Such that the achievements, history, lessons, and technology of our effective ancestors shall not perish from this earth
 
 ## Names of the Bibliotheca Anonoma
