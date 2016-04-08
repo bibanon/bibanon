@@ -11,8 +11,8 @@ This is what happens when you musically inclined anons come together and try to 
 ## /v/ Musicals
 Larger in scope, and likely better organized than /a/'s music corps. Has released three sets of four albums to date.
 
-[/v/ the Musical](mega:#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E)
+/v/ the Musical: mega:#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E
 
-[/v/ the Musical 2](mega:///#!mMp3iBYJ!mro6G0sdhM3sBAtbpLCypxlRStRvNmb2m9q-yddJQjY)
+/v/ the Musical 2: mega:///#!mMp3iBYJ!mro6G0sdhM3sBAtbpLCypxlRStRvNmb2m9q-yddJQjY
 
-[/v/ the Musical 3](mega:///#!DRpAHZZI!Hq67tJ2kn0AjuieDyxPpG-ZhobcsUdcjeQCWfjjzm0Q)
+/v/ the Musical 3: mega:///#!DRpAHZZI!Hq67tJ2kn0AjuieDyxPpG-ZhobcsUdcjeQCWfjjzm0Q
