@@ -16,3 +16,6 @@ Larger in scope, and likely better organized than /a/'s music corps. Has release
 /v/ the Musical 2: mega:///#!mMp3iBYJ!mro6G0sdhM3sBAtbpLCypxlRStRvNmb2m9q-yddJQjY
 
 /v/ the Musical 3: mega:///#!DRpAHZZI!Hq67tJ2kn0AjuieDyxPpG-ZhobcsUdcjeQCWfjjzm0Q
+
+## /mlp/ Musical
+https://www.youtube.com/user/slashmlpmusic
