@@ -3,6 +3,7 @@ This is what happens when you musically inclined anons come together and try to 
 ## /a/ Sings
 * [Full chronological list of songs](https://docs.google.com/spreadsheets/d/18vFWtuh7gmwo5IwTg0wRBn1KIsfidsf9eCXGZcymbFU/edit#gid=0)
 * [Youtube playlist](https://www.youtube.com/playlist?list=PLcBuIbmUXy1gF9seaYxkK116oNApr0VtA) - Some of these songs are blocked on Youtube, the remaining ones should be archived as soon as possible and the remixers of the missing ones should be contacted.
+* [List of missing songs](http://pastebin.com/tqGWLRCY)
 
 ## Orchestr/a/
 * [Download links of completed works](https://docs.google.com/document/d/1AzfIJRW8pSl4odYQ_X14oNqgG9qvrrn7M4Q6EsdL4Lg/edit)
