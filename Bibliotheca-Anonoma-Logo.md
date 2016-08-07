@@ -6,7 +6,7 @@ These are the official names of the Bibliotheca Anonoma in various scripts:
 * **Arabic Script** - مكتبة الـأننما
   * **Etymology** - Modeled after Egyptian Arabic name of the Bibliotheca Alexandrina. Anonoma is transliterated.
   * **Arabic** - Maktabat al-Anonoma
-* **CJK Script** - 網檔案館
+* **CJK Script** - 網路檔案館
   * **Literal** - Internet Archival Department/Museum
   * **Mandarin** - Wǎng lù dǎng'àn guǎn
   * **Japanese** - インターネット とうあんかん
