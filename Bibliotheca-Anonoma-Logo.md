@@ -17,6 +17,8 @@ These are the official names of the Bibliotheca Anonoma in various scripts:
 
 ![](http://i.imgur.com/i2FyvDg.png)
 
+[[http://imgur.com/yjcLJum.png|alt="BA Logo"|height=200px|width=200px]] &nbsp; ![](http://i.imgur.com/dSgPpfF.png)
+
 In 2016, we drew up a new Bibliotheca Anonoma logo utilizing Classical Chinese seal script. It comes in three forms: 1x1, 2x2, and 4x4.
 
 The 1x1 logo is a designator with the character `網`, representing "network", specifically the Internet.
