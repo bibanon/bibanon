@@ -1,58 +1,37 @@
-The logo of the Bibliotheca Anonoma utilizes a square Kufic logo, a style chosen for it's resemblance to abstract art and [QR codes.](http://spacecollective.org/mslima/2882/Decoding-code) It's a design style that is more than a thousand years old, yet somehow feels very modern. It is easy to draw, but difficult to master, and it encodes meaning within it's maze-like square pixels.
+These are the official names of the Bibliotheca Anonoma in various scripts:
 
-Square Kufic is a calligraphic artform designed to encode Arabic words in geometrically-patterned architecture. Square Kufic likely found influence from the Phags-pa Seals of the Mongols, which attempted to emulate Chinese Seal Script square forms. (In fact, it might be interesting to put together a pixel-art Chinese Seal Script logo as well.)
+* **Latin Script** - Bibliotheca Anonoma
+  * **Definition** - Archival Library, with some focus on anonymous/psuedo-anonymous internet communities.
+  * **Etymology** - Modeled after the name of the Bibliotheca Alexandrina, a modern national library of Egypt. "Anonoma" is a constructed word alluding to the organization's origins in the group Anonymous. It was likely concieved via false cognate to a variant spelling of the Spanish term for corporation, Sociedad Anónoma.
+* **Arabic Script** - مكتبة الـأننما
+  * **Etymology** - Modeled after Egyptian Arabic name of the Bibliotheca Alexandrina. Anonoma is transliterated.
+  * **Arabic** - Maktabat al-Anonoma
+* **CJK Script** - 成存館
+  * **Literal** - Achievement Archival Place
+  * **Mandarin** - Chéng cún guan
+  * **Japanese** - せいぞんかん
+* **Cyrillic Script** - Библиотека Анонома
+  * **Etymology** - Direct transliteration of Bibliotheca Anonoma to Cyrillic.
 
-This logo was inspired by the [Arabic programming language, "Alb"](http://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script), where the author depicted the beauty of it's code by making square kufic inscriptions of computer algorithms (a term derived from the work of mathematician Al-Khwarizmi).
+## 2016: Great Seal of the Bibliotheca Anonoma
 
-[This design guide](http://design.tutsplus.com/tutorials/creative-arabic-calligraphy-square-kufic--cms-23012) is immensely helpful if you feel like making your own square kufic design.
-
-All these logos were first designed on graph paper. Then, it was drawn using the [the Kufi Murabba Tool](http://qcalligraphy.com/inside/kufi_murabba/) by Bahraini designer Qassim Haider. It really helps to have a Wacom tablet, or just a cell phone touchscreen to draw in the lines.
-
-## Arabic Transliteration
-
-Square Kufic utilizes Arabic script as a basis for it's calligraphy. Thus, the name of the Bibliotheca Anonoma was first transliterated into Arabic. 
-
-Since the Bibliotheca Alexandrina calls itself the "Maktabat Al-Alexandrina", The Bibliotheca Anonoma's name in Arabic is thus "Maktabat Al-Anonoma":
-
-مكتبة الـأننما
+In 2016, we drew up a new Bibliotheca Anonoma logo. It comes in three forms: 1x1, 2x2, and 4x4.
 
 
-1. miim kaaf ta ba ta-marbutah ("Maktabat", Library)
-2. alef lam alef-hamza-above noon noon meem alef ("Al-Anonoma"  - of Anonoma)
 
-## Bibliotheca Anonoma (First Square Kufic Logo)
+The 4x4 provides us a canvas for larger declarations, which define our intents for the organization. We composed a short 16 character poem Classical Chinese to carve, which is no small feat for a millenia old language with no accepted pronunciation.
 
-![First Design](http://i.imgur.com/KaOsgph.png)
+* **1x1** `網` - Internet
+  * Alt. Favicon Logo
+* **3x1** `檔案館` (dang an guan, せいぞん) - Archival Department/Museum
+* **2x2**（wang [lu] dang an guan, インターネット とうあんかん）網檔案館 - Internet Archival Department/Museum
+  * Official CJK name.
+* **4x4** `習, 存, 網史, 詩, 術, 廣記, 傳，賦，真鑒， 史記檔案` - Learning, Saving, Internet History, Poem, Tech, Folklore, Tell,  Library for the Archival of Internet Folklife and Study of Internet Anthropology,
+* **2x2** `成, 史, 詩, 術` - Achievements, History, Poetry/Stories, Technology
+  * Alt. Logo
+  * **8x4** `有收集, 不讓消失, 有長壽存` (unfinished, expand to 16) - Such that the achievements, history, lessons, and technology of our effective ancestors shall not perish from this earth
 
-In the logo, "Al-Anonoma", in light blue, is centered and wrapped around by "Maktabat", in typical blue. Both are surrounded by a navy blue box.
-
-The empty corner in the top-right could contain a standard square kufic inscription of the plain Arabic name.
-
-The logo takes a lot of liberties with square kufic design rules. In order to fill all empty space, it breaks with Square Kufic Design tradition, lacks symmetry, and contains an excessive amount of vertical lines.
-
-It wasn't long before we created the second version below:
-
-## Bibliotheca Anonoma (Traditionalist Square Kufic Design)
-
-![Traditional Design](http://i.imgur.com/UkgBKok.png)
-
-![Traditional Design, with original arabic text](http://i.imgur.com/uLyW9e3.png)
-
-This is the more traditional Square Kufic logo that we currently use. 
-
-It is diagonally symmetrical; both the top and right sides, and the bottom and left sides spell out "Maktabat Al-Anonoma", and the long, vertically extended lines of "Al Anonoma" lock together with each other.
-
-(append graph paper draft of logo)
-
-## Bibliotheca Anonoma (Small Square Kufic Logo)
-
-An alternate logo design suitable for smaller icons can be used.
-
-### Logo Design
-
-This design stacks "Maktabat" upside down on top of "Al-Anonoma".
-
-## Seal Script Logos
+## 2015: First Seal Script Logos
 
 For the BASLQC and BA Compendium logos, we wanted to try something different, and somewhat more challenging. We wanted to use Classical Chinese seal script to draw our logo, but with a twist: we would draw them as pixel art.
 
@@ -132,37 +111,62 @@ Finally, after the logo was drawn and colored, it had to be scaled up to a viewa
 * **Designer** - Antonizoon (Antonizoon Overtwater)
 * **Tools** Piskel was used to draw this logo, on a Thinkpad X230 tablet.
 
-A compact logo was also created for the BASLQC
+A compact logo was also created for the BASLQC.
 
 ![BASLQC Compact logo](https://imgur.com/PP0WokC.png)
-### Extra Large Bibliotheca Anonoma Logo
 
-An alternate set of logos based upon Seal Script could possibly be used as a Large Bibliotheca Anonoma logo.
+## 2012 - 2016: Traditional Square Kufic Logo
 
-This allows us to draw larger declarations stating our intents for the organization. It would have to be written in psuedo Classical Chinese, which is no small feat for anyone.
+The logo of the Bibliotheca Anonoma from 2012-2016 utilizes a square Kufic logo, a style chosen for it's resemblance to abstract art and [QR codes.](http://spacecollective.org/mslima/2882/Decoding-code) It's a design style that is more than a thousand years old, yet somehow feels very modern. It is easy to draw, but difficult to master, and it encodes meaning within it's maze-like square pixels.
 
-* **1x1** `存` - Archival
-  * Alt. Favicon Logo
-* **2x1** `成存` (Chéng cún, せいぞん) - Achievement Archive,
-* **3x1** `成存館` ((Chéng cún guan, せいぞんかん))
-*　（dang an guan）檔案館 - Archive Department/Museum
-  * Official Chinese/Japanese name.
-* **2x2** `成, 史, 詩, 術` - Achievements, History, Poetry/Stories, Technology
-  * Alt. Logo
-* **4x4** `習, 存, 網史, 詩, 術, 廣記, 傳，賦，真鑒， 史記檔案` - Learning, Saving, Internet History, Poem, Tech, Folklore, Tell,  Library for the Archival of Internet Folklife and Study of Internet Anthropology,
-  * **8x4** `有收集, 不讓消失, 有長壽存` (unfinished, expand to 16) - Such that the achievements, history, lessons, and technology of our effective ancestors shall not perish from this earth
+Square Kufic is a calligraphic artform designed to encode Arabic words in geometrically-patterned architecture. Square Kufic likely found influence from the Phags-pa Seals of the Mongols, which attempted to emulate Chinese Seal Script square forms. (In fact, it might be interesting to put together a pixel-art Chinese Seal Script logo as well.)
 
-## Names of the Bibliotheca Anonoma
+This logo was inspired by the [Arabic programming language, "Alb"](http://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script), where the author depicted the beauty of it's code by making square kufic inscriptions of computer algorithms (a term derived from the work of mathematician Al-Khwarizmi).
 
-* **Latin Script** - Bibliotheca Anonoma
-  * **Definition** - Archival Library, with some focus on anonymous/psuedo-anonymous internet communities.
-  * **Etymology** - Modeled after the name of the Bibliotheca Alexandrina, a modern national library of Egypt. "Anonoma" is a constructed word alluding to the organization's origins in the group Anonymous. It was likely concieved via false cognate to a variant spelling of the Spanish term for corporation, Sociedad Anónoma.
-* **Arabic Script** - مكتبة الـأننما
-  * **Etymology** - Modeled after Egyptian Arabic name of the Bibliotheca Alexandrina. Anonoma is transliterated.
-  * **Arabic** - Maktabat al-Anonoma
-* **CJK Script** - 成存館
-  * **Literal** - Achievement Archival Place
-  * **Mandarin** - Chéng cún guan
-  * **Japanese** - せいぞんかん
-* **Cyrillic Script** - Библиотека Анонома
-  * **Etymology** - Direct transliteration of Bibliotheca Anonoma to Cyrillic.
+[This design guide](http://design.tutsplus.com/tutorials/creative-arabic-calligraphy-square-kufic--cms-23012) is immensely helpful if you feel like making your own square kufic design.
+
+All these logos were first designed on graph paper. Then, it was drawn using the [the Kufi Murabba Tool](http://qcalligraphy.com/inside/kufi_murabba/) by Bahraini designer Qassim Haider. It really helps to have a Wacom tablet, or just a cell phone touchscreen to draw in the lines.
+
+### Arabic Transliteration
+
+Square Kufic utilizes Arabic script as a basis for it's calligraphy. Thus, the name of the Bibliotheca Anonoma was first transliterated into Arabic. 
+
+Since the Bibliotheca Alexandrina calls itself the "Maktabat Al-Alexandrina", The Bibliotheca Anonoma's name in Arabic is thus "Maktabat Al-Anonoma":
+
+مكتبة الـأننما
+
+
+1. miim kaaf ta ba ta-marbutah ("Maktabat", Library)
+2. alef lam alef-hamza-above noon noon meem alef ("Al-Anonoma"  - of Anonoma)
+
+### Bibliotheca Anonoma (First Square Kufic Logo)
+
+![First Design](http://i.imgur.com/KaOsgph.png)
+
+In the logo, "Al-Anonoma", in light blue, is centered and wrapped around by "Maktabat", in typical blue. Both are surrounded by a navy blue box.
+
+The empty corner in the top-right could contain a standard square kufic inscription of the plain Arabic name.
+
+The logo takes a lot of liberties with square kufic design rules. In order to fill all empty space, it breaks with Square Kufic Design tradition, lacks symmetry, and contains an excessive amount of vertical lines.
+
+It wasn't long before we created the second version below:
+
+## Bibliotheca Anonoma (Traditionalist Square Kufic Design)
+
+![Traditional Design](http://i.imgur.com/UkgBKok.png)
+
+![Traditional Design, with original arabic text](http://i.imgur.com/uLyW9e3.png)
+
+This is the more traditional Square Kufic logo that we currently use. 
+
+It is diagonally symmetrical; both the top and right sides, and the bottom and left sides spell out "Maktabat Al-Anonoma", and the long, vertically extended lines of "Al Anonoma" lock together with each other.
+
+(append graph paper draft of logo)
+
+### Bibliotheca Anonoma (Small Square Kufic Logo)
+
+An alternate logo design suitable for smaller icons can be used.
+
+#### Logo Design
+
+This design stacks "Maktabat" upside down on top of "Al-Anonoma".
