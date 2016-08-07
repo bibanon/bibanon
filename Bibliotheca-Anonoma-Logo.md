@@ -15,18 +15,20 @@ These are the official names of the Bibliotheca Anonoma in various scripts:
 
 ## 2016: Great Seal of the Bibliotheca Anonoma
 
-In 2016, we drew up a new Bibliotheca Anonoma logo. It comes in three forms: 1x1, 2x2, and 4x4.
+In 2016, we drew up a new Bibliotheca Anonoma logo utilizing Classical Chinese seal script. It comes in three forms: 1x1, 2x2, and 4x4.
 
+The 1x1 logo is a designator with the character `網`, representing "network", specifically the Internet.
 
+The 2x2 logo is a simple transliteration of the name into CJK script, `網檔案館`.
 
 The 4x4 provides us a canvas for larger declarations, which define our intents for the organization. We composed a short 16 character poem Classical Chinese to carve, which is no small feat for a millenia old language with no accepted pronunciation.
 
-* **1x1** `網` - Internet
+* **1x1** `網` (インターネット, wang [lu]) - Internet
   * Alt. Favicon Logo
-* **3x1** `檔案館` (dang an guan, せいぞん) - Archival Department/Museum
-* **2x2**（wang [lu] dang an guan, インターネット とうあんかん）網檔案館 - Internet Archival Department/Museum
+* **3x1** `檔案館` (とうあんかん, dang an guan) - Archival Department/Museum
+* **2x2**（インターネット とうあんかん, wang [lu] dang an guan）網檔案館 - Internet Archival Department/Museum
   * Official CJK name.
-* **4x4** `習, 存, 網史, 詩, 術, 廣記, 傳，賦，真鑒， 史記檔案` - Learning, Saving, Internet History, Poem, Tech, Folklore, Tell,  Library for the Archival of Internet Folklife and Study of Internet Anthropology,
+* **4x4** `習, 存, 網史, 詩, 術, 廣記, 傳，賦，真鑒， 史記檔案` - Learning [and] Saving the data of Internet History, Poetry, Technology, Folklore, Tales.
 * **2x2** `成, 史, 詩, 術` - Achievements, History, Poetry/Stories, Technology
   * Alt. Logo
   * **8x4** `有收集, 不讓消失, 有長壽存` (unfinished, expand to 16) - Such that the achievements, history, lessons, and technology of our effective ancestors shall not perish from this earth
