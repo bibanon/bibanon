@@ -14,6 +14,7 @@ Larger in scope, and likely better organized than /a/'s music corps. Has release
 
 /v/ the Musical: mega:#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E
 * Disc 1: https://archive.org/details/vTheMusicalDisc1
+* Disc 2: https://archive.org/details/vTheMusicalDisc2
 * Disc 3: https://archive.org/details/vTheMusical1Disc3
 * Disc 4: https://archive.org/details/vTheMusicalDisc4_201512
 * Disc 5: https://archive.org/details/vTheMusicalDisc5
