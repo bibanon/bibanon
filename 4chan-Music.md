@@ -1,4 +1,4 @@
-This is what happens when you musically inclined anons come together and try to make or to recreate their favorite songs. They aren't perfect, or even all that good, but that's part of their charm. There have been two similar projects on /a/: /a/ Sings and Orchestr/a/. /v/ creates albums of songs, usually new lyrics to the tune of familiar songs.
+This is what happens when you musically inclined anons come together and try to make or to recreate their favorite songs. They aren't perfect, or even all that good, but that's part of their charm. There have been two similar projects on /a/: /a/ Sings and Orchestr/a/. /v/ creates albums of songs, usually new lyrics to the tune of familiar songs. Other boards such as /mu/ and [s4s] opt to craft tunes of their own
 
 ## /a/ Sings
 * [Full chronological list of songs](https://docs.google.com/spreadsheets/d/18vFWtuh7gmwo5IwTg0wRBn1KIsfidsf9eCXGZcymbFU/edit#gid=0)
@@ -39,3 +39,36 @@ Larger in scope, and likely better organized than /a/'s music corps. Has release
 
 ## /mlp/ Musical
 https://www.youtube.com/user/slashmlpmusic
+
+## /mu/ Projects
+
+Hanging Dong
+* An Actual Photograph of Shaggy Rogers From Scooby-Doo: https://archive.org/details/hd-actualshaggy
+* Death by Memes: https://archive.org/details/hd-deathbymemes
+* Requiem For a Meme: https://archive.org/details/hd-requiemforameme
+* Poseidon in flames https://archive.org/details/hd-posiedoninflames
+* The Powers That D: https://archive.org/details/hd-thepowersthatd
+* Hanging Dong: https://archive.org/details/hd-hangingdong
+* The Very Best of Hanging Dong - Volume 1: https://archive.org/details/hd-bestof
+
+The Dicklick Brigade: https://archive.org/details/4chan-mu-dlb
+
+## Esfores
+[s4s]' very own group, running three years strong. While not as prolific compared to /mu/ or /v/'s sheer numbers, Esfores is praised for their consistently high quality albums containing even more intricate references and memes than /v/'s musicals, (if such a thing is possible).
+
+* For Dubs or Money: https://archive.org/details/esfores-fordubsormoney
+* Greatest Gets - Topkek: https://archive.org/details/esfores-greatestgetsd1
+* Greatest Gets - Toplel: https://archive.org/details/esfores-greatestgetsd2
+* The Return of Our S4viorS: https://archive.org/details/esfores-thereturnofours4viors
+* Songs to Pork it to - Disc 1: https://archive.org/details/esfores-songstoporkittod1
+* Songs to Pork it to - Disc 2: https://archive.org/details/esfores-songstoporkittodisc2
+* The Spooky EP: https://archive.org/details/esfores-thespookyep
+* Le ebin lel lels XDDD: https://archive.org/details/esfores-leebinlellelsxddd
+* FORE! (Only Oldfigs Remember): https://archive.org/details/esfores-foreonlyoldfigsremember
+* New Maymay Alert!™: https://archive.org/details/esfores-newmaymayalert
+* [untitled tbh]: https://archive.org/details/esfores-untitledtbh
+* The Christmas EP - Disc 1: https://archive.org/details/esfores-christmasepdisc1
+* The Christmas EP - Disc 2: https://archive.org/details/esfores-christmasepdisc2
+* Le Valentine's EP: https://archive.org/details/esfores-levalentinesep
+* Deleted by Nintendo: https://archive.org/details/esfores-deletedbynintendo
+* when there is no more room online, the memes will walk the earth: https://archive.org/details/esfores-nomoreroom
