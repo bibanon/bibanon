@@ -53,6 +53,10 @@ Hanging Dong
 
 The Dicklick Brigade: https://archive.org/details/4chan-mu-dlb
 
+One-offs
+* Acaoru Stanza - A Night at the Opera: https://archive.org/details/AcaoruStanzaANightAtTheOpera
+* Dubs Market: https://archive.org/details/dubsmarket
+
 ## Esfores
 [s4s]' very own group, running three years strong. While not as prolific compared to /mu/ or /v/'s sheer numbers, Esfores is praised for their consistently high quality albums containing even more intricate references and memes than /v/'s musicals, (if such a thing is possible).
 
