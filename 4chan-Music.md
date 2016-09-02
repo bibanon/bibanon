@@ -13,10 +13,28 @@ This is what happens when you musically inclined anons come together and try to 
 Larger in scope, and likely better organized than /a/'s music corps. Has released three sets of four albums to date.
 
 /v/ the Musical: mega:#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E
+* Disc 1: https://archive.org/details/vTheMusicalDisc1
+* Disc 3: https://archive.org/details/vTheMusical1Disc3
+* Disc 4: https://archive.org/details/vTheMusicalDisc4_201512
+* Disc 5: https://archive.org/details/vTheMusicalDisc5
 
 /v/ the Musical 2: mega:///#!mMp3iBYJ!mro6G0sdhM3sBAtbpLCypxlRStRvNmb2m9q-yddJQjY
+* Disc 1: https://archive.org/details/vTheMusical2Disc1
+* Disc 2: https://archive.org/details/vTheMusical2Disc2
+* Disc 3: https://archive.org/details/vTheMusical2Disc3
+* Disc 4: https://archive.org/details/vTheMusical2Disc4
+* Disc 5: https://archive.org/details/vTheMusical2Disc5
+* Disc 6: https://archive.org/details/vTheMusical2Disc6
 
 /v/ the Musical 3: mega:///#!DRpAHZZI!Hq67tJ2kn0AjuieDyxPpG-ZhobcsUdcjeQCWfjjzm0Q
+* Disc 1: https://archive.org/details/vTheMusical3Disc1
+* Disc 2: https://archive.org/details/vTheMusical3Disc2
+* Disc 3: https://archive.org/details/vTheMusical3Disc3
+* Disc 4: https://archive.org/details/vTheMusicalDisc4
+* Disc 5: https://archive.org/details/vTheMusical3Disc5
+* Disc 6: https://archive.org/details/vTheMusical3Disc6
+* Album Art: https://archive.org/details/VTheMusical3Art
+
 
 ## /mlp/ Musical
 https://www.youtube.com/user/slashmlpmusic
