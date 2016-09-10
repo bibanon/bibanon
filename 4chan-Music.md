@@ -1,4 +1,4 @@
-This is what happens when you musically inclined anons come together and try to make or to recreate their favorite songs. They aren't perfect, or even all that good, but that's part of their charm. There have been two similar projects on /a/: /a/ Sings and Orchestr/a/. /v/ creates albums of songs, usually new lyrics to the tune of familiar songs. Other boards such as /mu/ and [s4s] opt to craft tunes of their own
+This is what happens when you musically inclined anons come together and try to make or to recreate their favorite songs. They aren't perfect, or even all that good, but that's part of their charm. There have been two similar projects on /a/: /a/ Sings and Orchestr/a/. /v/ creates albums of songs, usually new lyrics to the tune of familiar songs. Other boards such as /mu/ and [s4s] opt to craft tunes of their own.
 
 ## /a/ Sings
 * [Full chronological list of songs](https://docs.google.com/spreadsheets/d/18vFWtuh7gmwo5IwTg0wRBn1KIsfidsf9eCXGZcymbFU/edit#gid=0)
