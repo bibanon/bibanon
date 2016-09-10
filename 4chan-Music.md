@@ -58,7 +58,7 @@ One-offs
 * Dubs Market: https://archive.org/details/dubsmarket
 
 ## Esfores
-[s4s]' very own group, running three years strong. While not as prolific compared to /mu/ or /v/'s sheer numbers, Esfores is praised for their consistently high quality albums containing even more intricate references and memes than /v/'s musicals, (if such a thing is possible).
+[s4s]' very own group, running three years strong. While not as prolific compared to /mu/ or /v/'s sheer numbers, Esfores is praised for their consistently high quality albums containing even more intricate references and memes than /v/'s musicals, if such a thing is possible.
 
 * For Dubs or Money: https://archive.org/details/esfores-fordubsormoney
 * Greatest Gets - Topkek: https://archive.org/details/esfores-greatestgetsd1
