@@ -11,6 +11,7 @@ This is what happens when you musically inclined anons come together and try to 
 
 ## /v/ Musicals
 Larger in scope, and likely better organized than /a/'s music corps. Has released three sets of four albums to date.
+* [Meta Song List] (https://docs.google.com/spreadsheets/d/1W2b2Rct6g6gZB74HolXL2_o_HvtUgBZyuZRDalzHJC0/edit?usp=sharing)
 
 /v/ the Musical: mega:#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E
 * Disc 1: https://archive.org/details/vTheMusicalDisc1
@@ -35,6 +36,10 @@ Larger in scope, and likely better organized than /a/'s music corps. Has release
 * Disc 5: https://archive.org/details/vTheMusical3Disc5
 * Disc 6: https://archive.org/details/vTheMusical3Disc6
 * Album Art: https://archive.org/details/VTheMusical3Art
+
+/v/ the Musical 4: TBD
+* [Album Art] (https://drive.google.com/drive/folders/0B-I-CxtRO4_5WDUyR1BvOU9aeVU)
+* [Song Spreadsheet] (https://docs.google.com/spreadsheets/d/10c7KvjtiJX93A38pnBQ2BX5pZtx5pu4b8tPYr52HmyE/edit?usp=sharing)
 
 
 ## /mlp/ Musical
