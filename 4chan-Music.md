@@ -8,6 +8,7 @@ This is what happens when you musically inclined anons come together and try to 
 ## Orchestr/a/
 * [Download links of completed works](https://docs.google.com/document/d/1AzfIJRW8pSl4odYQ_X14oNqgG9qvrrn7M4Q6EsdL4Lg/edit)
 * [First album, on Youtube](https://www.youtube.com/watch?v=Dq6yF7Kh4DY)
+* [Second album, on Youtube](https://www.youtube.com/watch?v=ynux46-MhSY)
 
 ## /v/ Musicals
 Larger in scope, and likely better organized than /a/'s music corps. Has released three sets of four albums to date.
