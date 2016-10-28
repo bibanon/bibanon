@@ -2,7 +2,7 @@ Copypasta taken from an old [[CHANSLUTS]] [[CHANCHAN#/b/|/b/]] thread.
 :* ''See: [[3D PIG DISGUSTING]]''
 
 
-== Original Copypasta ==
+## Original Copypasta
 
     I'M A KOREAN 
     SON OF A BITCH AMERICAN 
