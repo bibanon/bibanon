@@ -11,7 +11,7 @@ This is what happens when you musically inclined anons come together and try to 
 * [Second album, on Youtube](https://www.youtube.com/watch?v=ynux46-MhSY)
 
 ## /v/ Musicals
-Larger in scope, and likely better organized than /a/'s music corps. Born out of the complaints and controversies in the video game industry frequently discussed on /v/ Has released four albums to date.
+Larger in scope, and likely better organized than /a/'s music corps. Born out of the complaints and controversies in the video game industry frequently discussed on /v/, the series of musicals lampoons figures and franchises alongside taking jabs at their imageboard's culture. Has released four albums to date.
 * [Meta Song List] (https://docs.google.com/spreadsheets/d/1W2b2Rct6g6gZB74HolXL2_o_HvtUgBZyuZRDalzHJC0/edit?usp=sharing)
 
 [/v/ the Musical] (https://mega.nz/#!XwEmxabB!agEJrzEjG8NUtPPP3v2MyNtBPOp0LNi5-qMqa41uA5E)
