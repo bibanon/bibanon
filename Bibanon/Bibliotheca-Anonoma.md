@@ -1,4 +1,4 @@
-> _The Bibliotheca Anonoma is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of mankind in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare._
+> _The Bibliotheca Anonoma is a research library tasked with collecting, documenting, and safeguarding the grand legacy of *Internet Folklife*: The shared experiences of humanity in a limitless digital network, a virtual universe which has engendered civilizations, culture, trade... and warfare._
 
 The **Bibliotheca Anonoma** was founded in 2010 by a small, closely knit task force focused on saving the Internet Folklife we've enjoyed. Since then, it has grown significantly as we've adopted content from Shii's Wiki, rescued significant amounts of data for the [Internet Archive](http://archiveteam.org/index.php?title=Bibliotheca_Anonoma#Saved_Websites), and carried on the legendary legacy of [[Wikichan]] and its monitors. We can't do this alone, though: [[contribution is how we grow.|Home#Contribute]]
 
