@@ -1,9 +1,9 @@
 [[http://imgur.com/yjcLJum.png|alt="BA Logo"|height=200px|width=200px]]
 
-Bibliotheca Anonoma
+[Bibliotheca Anonoma](https://wiki.bibanon.org) 
 ===================
 
-> **Note:** This content is migrating to [a new wiki.](https://wiki.bibanon.org) 
+> **Note:** This wiki is gradually migrating to [a new website.](https://wiki.bibanon.org) 
 
 * [[Home]]
 * [[Contribute|Home#Contribute]]
