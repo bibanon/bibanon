@@ -3,6 +3,8 @@
 Bibliotheca Anonoma
 ===================
 
+> **Note:** This content is migrating to [a new wiki.](https://wiki.bibanon.org) 
+
 * [[Home]]
 * [[Contribute|Home#Contribute]]
 * [[About this Wiki|Bibliotheca Anonoma]]
