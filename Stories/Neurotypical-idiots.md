@@ -1,4 +1,4 @@
-**Original thread: [bbs.progrider.org/lounge/read/1429497540](http://bbs.progrider.org/lounge/read/1429497540)**
+**Original thread: [bbs.progrider.org/lounge/read/1429497540](https://dis.tinychan.org/read/lounge/1429497540)**
 
 I hope !PjnbLbtYFM-kun pardon me, because Markdown kind of sucks and didn't allowed me to preserve things like proper line breaks and small text.
 
