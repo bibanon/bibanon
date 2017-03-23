@@ -276,6 +276,7 @@ However, this page does have the only up-to-date list of board addition dates:
   * /n/ - TRAINZ – Early test board for trains, later moved to 1chan
   * /yg/ - Yogurt and something about danimals.
   * /j/ - Janitors. Later Janitor & Moderator Discussion. Secret HQ where all the world domination plans are schemed.
+  * /trash/ - unlisted Trash board. implemented by hiroshimoot in 2016
 
 ## Timeline
 
