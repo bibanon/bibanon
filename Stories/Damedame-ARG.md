@@ -1,3 +1,5 @@
+> **Note:** Check out and edit the section on [our new wiki.](https://wiki.bibanon.org/Damedame_ARG)
+
 DameDame is a trollsub group whose subs have terrible grammar and jokes directed towards /a/nons. 
 
 The trollsub group has created an alternate reality game (ARG) involving a dystopian future 12 years from now, caused somehow or another by the "cartel" of subgroups (mostly Daiz). Yotsumoe, Maddie, and Sam are here from that future to try to save humanity, while BKITNY, Sam's tulpa, was created afterwards. 
