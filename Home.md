@@ -1,5 +1,5 @@
 > **Note:** The Bibliotheca Anonoma is gradually migrating to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there: https://wiki.bibanon.org  
-> **Note:** On 6/17 emergency maintenance will occur from 15:00-20:00 UTC+0 for SSD replacement, affecting desuarchive.org, rbt.asia, and wiki.bibanon.org. Backups have been made up to 6/16 nighttime.
+> **Note:** On <s>6/17</s> 6/18 emergency maintenance will occur for for SSD replacement and RAM upgrade, affecting desuarchive.org, rbt.asia, and wiki.bibanon.org. Backups have been made up to 6/16 nighttime. Desustorage will remain running, rbt.asia is still archiving with asagi non publicly until then.
 
 The **Bibliotheca Anonoma** is a research task force archiving, documenting, and safeguarding *Internet Folklife*.
 
