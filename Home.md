@@ -1,4 +1,4 @@
-> **Note:** The Bibliotheca Anonoma is gradually migrating to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there: https://wiki.bibanon.org  
+> **Note:** The Bibliotheca Anonoma has mostly migrated to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there: https://wiki.bibanon.org  
 
 The **Bibliotheca Anonoma** is a research task force archiving, documenting, and safeguarding *Internet Folklife*.
 
