@@ -1,5 +1,4 @@
 > **Note:** The Bibliotheca Anonoma is gradually migrating to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there: https://wiki.bibanon.org  
-> **Note:** 6/18: Wiki and Desuarchive fully restored. Restoration of public access for rbt.asia in progress.
 
 The **Bibliotheca Anonoma** is a research task force archiving, documenting, and safeguarding *Internet Folklife*.
 
