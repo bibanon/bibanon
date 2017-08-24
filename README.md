@@ -3,7 +3,7 @@
 The **Bibliotheca Anonoma** is a wiki designed to collect,
 document, and safeguard the products and history of internet culture;
 which constitutes
-**the shared experience of mankind on a network that definesour lives**. 
+**the shared experience of humanity on a network that defines our lives**. 
 
 ## The Wiki
 
