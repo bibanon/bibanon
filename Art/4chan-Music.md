@@ -31,11 +31,11 @@ Larger in scope, and likely better organized than /a/'s music corps. Born out of
 
 [/v/ the Musical 3](https://mega.nz/#!DRpAHZZI!Hq67tJ2kn0AjuieDyxPpG-ZhobcsUdcjeQCWfjjzm0Q)
 * [Disc 1 - More Music For The Meme Generation](https://archive.org/details/vTheMusical3Disc1)
-* [Disc 2 - The Vidya Playground & Amiibo] (https://archive.org/details/vTheMusical3Disc2)
-* [Disc 3 - Damage Control to Major Todd] (https://archive.org/details/vTheMusical3Disc3)
-* [Disc 4 - Master of Inputs] (https://archive.org/details/vTheMusicalDisc4)
-* [Disc 5 - Shitposting in Stereo] (https://archive.org/details/vTheMusical3Disc5)
-* [Disc 6 - Season Pass] (https://archive.org/details/vTheMusical3Disc6)
+* [Disc 2 - The Vidya Playground & Amiibo](https://archive.org/details/vTheMusical3Disc2)
+* [Disc 3 - Damage Control to Major Todd](https://archive.org/details/vTheMusical3Disc3)
+* [Disc 4 - Master of Inputs](https://archive.org/details/vTheMusicalDisc4)
+* [Disc 5 - Shitposting in Stereo](https://archive.org/details/vTheMusical3Disc5)
+* [Disc 6 - Season Pass](https://archive.org/details/vTheMusical3Disc6)
 * [Album Art](https://archive.org/details/VTheMusical3Art)
 
 [/v/ the Musical 4](https://mega.nz/#!DEoDFK7I!shvLa16KsIqZCBxMN2g9xJRSiFTkG69JnR_Rd9mthHU)
