@@ -47,7 +47,17 @@ Larger in scope, and likely better organized than /a/'s music corps. Born out of
 * [Disc 4 - Just Ship It] (https://archive.org/details/VTheMusical4Disc4)
 * [Disc 5 - Bad Delivery] (https://archive.org/details/VTheMusical4Disc5)
 * [Disc 6 - Anonymous Idort] (https://archive.org/details/VTheMusical4Disc6)
-* [Disc 7 - DLC VR Compatible] (https://archive.org/details/VTheMusical4Disc7)
+* [Disc 7 - VR Compatible] (https://archive.org/details/VTheMusical4Disc7)
+
+[/v/ the Musical 5] (https://mega.nz/#!208HxLaT!ADS4jb_EqjrXDPPNWIl6ZfPRTVIeDkzu0U0u9GtSSHE)
+* [Album Art] (https://archive.org/details/VTheMusical5Art)
+* [Disc 1 - The Vidyamen] (https://archive.org/details/VTheMusical5Disc1)
+* [Disc 2 - Less Than Done (https://archive.org/details/VTheMusical5Disc2)
+* [Disc 3 - Amadesu] (https://archive.org/details/VTheMusical5Disc3)
+* [Disc 4 - Remakes and Microtransactions] (https://archive.org/details/VTheMusical5Disc4)
+* [Disc 5 - Platform Wars] (https://archive.org/details/VTheMusical5Disc5)
+* [Disc 6 - The Benis] (https://archive.org/details/VTheMusical5Disc6)
+* [Disc 7 - Creation Club] (https://archive.org/details/VTheMusical5Disc7)
 
 
 ## /mlp/ Musical
