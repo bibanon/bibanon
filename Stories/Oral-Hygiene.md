@@ -10,6 +10,8 @@ The anon's tripcode was [OHB !!5jOMMVk3LQU](http://desuarchive.org/a/search/trip
 
 ## Background
 
+**[PSA: Maintain good Oral Hygiene. Brush your teeth for at least two minutes each day. Don't forget to floss.](http://hestia.dance)**
+
 One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series is the ["toothbrush scene".](http://www.youtube.com/watch?v=YlBvZ-GJqjc) It really proves the adage that *"metaphors can be dirtier than 'the act' itself."*
 
 > Araragi, in a last ditch attempt to dissuade his little sister Karen from visiting his friend (the deviant Kanbaru); challenges her to *survive 15 minutes while he brushes her teeth.*  
@@ -495,9 +497,7 @@ You are, sadly, quite right. However, we've become so accustomed to blithely sho
 
 ---
 
-**[PSA: Maintain good Oral Hygiene. Brush your teeth for at least two minutes each day. Don't forget to floss.](http://hestia.dance)**
-
-> Don't forget to smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, [which creates a physical barrier over the tubules](https://www.youtube.com/watch?v=9iZeJ77yaTI) much like the original enamel.  
+> **Protip**: Smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, [which creates a physical barrier over the tubules](https://www.youtube.com/watch?v=9iZeJ77yaTI) much like the original enamel.  
 > Thus, you could brush with toothpaste that literally rebuilds your teeth.
 
 ## 2 Years Later (new tripcode)
