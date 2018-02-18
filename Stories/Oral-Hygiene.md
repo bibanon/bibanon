@@ -4,9 +4,9 @@ While hugging was the most common, there were also "tooth-brushing" threads, whe
 
 So one day, an /a/non decided to try it out for himself. And soon, he became dubbed **The Oral Hygiene Bro**: *He who brushes his imouto's teeth*. 
 
-The anon's tripcode was [OHB !!5jOMMVk3LQU](http://archive.moe/a/search/tripcode/%21%215jOMMVk3LQU/), and later, [OHB !!dQ+KUKcTx4n.](https://archive.moe/a/search/tripcode/!!dQ%2BKUKcTx4n/)
+The anon's tripcode was [OHB !!5jOMMVk3LQU](http://desuarchive.org/a/search/tripcode/%21%215jOMMVk3LQU/), and later, [OHB !!dQ+KUKcTx4n.](https://desuarchive.org/a/search/tripcode/!!dQ%2BKUKcTx4n/)
 
-> **Note:** It is a BASC tradition to archive the comments and Q&A discussions of a story, so try and grab those from the tripcodes above.
+> **Note:** The tripcodes above linked to Desuarchive contain additional components of the story (that will be migrated over eventually). We also aim to archive the comments and Q&A discussions of a story.
 
 ## Background
 
@@ -472,6 +472,13 @@ That is one solution. Another would be to spend the extra money and get her a do
 I will stay with my sister for as long as she'll have me. I have mentioned this before, but I'm certain that she's the only woman I'll ever love.
 
 You are, sadly, quite right. However, we've become so accustomed to blithely showing a higher degree of affection that siblings strictly should in public that it's second nature now. We really should curb that, but it's more difficult said than done.
+
+---
+
+**[PSA: Maintain good Oral Hygiene. Brush your teeth for at least two minutes each day. Don't forget to floss.](http://hestia.dance)**
+
+> Don't forget to smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, which creates a physical barrier over the tubules much like the original enamel.  
+> Thus, you could brush with toothpaste that literally rebuilds your teeth.
 
 ## Sources
 
