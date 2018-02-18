@@ -477,7 +477,7 @@ You are, sadly, quite right. However, we've become so accustomed to blithely sho
 
 **[PSA: Maintain good Oral Hygiene. Brush your teeth for at least two minutes each day. Don't forget to floss.](http://hestia.dance)**
 
-> Don't forget to smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, which creates a physical barrier over the tubules much like the original enamel.  
+> Don't forget to smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, [which creates a physical barrier over the tubules](https://www.youtube.com/watch?v=9iZeJ77yaTI) much like the original enamel.  
 > Thus, you could brush with toothpaste that literally rebuilds your teeth.
 
 ## Sources
