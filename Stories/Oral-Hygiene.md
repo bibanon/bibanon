@@ -917,3 +917,4 @@ I'll actually be signing off here in a moment, /a/, as my wife tells me I'm need
 
 * [Pastebin](http://pastebin.com/Gt47E4Nr)
 * [Newer Pastebin](http://pastebin.com/90nWJGPt)
+* [4chan /a/26073663/](https://desuarchive.org/a/thread/26073663/)
