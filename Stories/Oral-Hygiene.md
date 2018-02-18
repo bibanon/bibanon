@@ -6,7 +6,7 @@ So one day, an /a/non decided to try it out for himself. And soon, he became dub
 
 The anon's tripcode was [OHB !!5jOMMVk3LQU](http://desuarchive.org/a/search/tripcode/%21%215jOMMVk3LQU/), and later, [OHB !!dQ+KUKcTx4n.](https://desuarchive.org/a/search/tripcode/!!dQ%2BKUKcTx4n/)
 
-> **Note:** The tripcodes above linked to Desuarchive contain additional components of the story (that will be migrated over eventually). We also aim to archive the comments and Q&A discussions of a story.
+> **Note:** The tripcodes above linked to Desuarchive contain additional Q&A discussions, which are now included below. We are including the original archived threads for context.
 
 ## Background
 
@@ -503,6 +503,8 @@ You are, sadly, quite right. However, we've become so accustomed to blithely sho
 ## 2 Years Later (new tripcode)
  
 ### June 07, 2013  
+
+https://desuarchive.org/a/thread/87181017/#q87183169
  
 \>\>87119736  
 Well now; that was certainly one possibility that I'm glad didn't come to pass.
@@ -625,6 +627,8 @@ She never liked that anime, actually. I think the last anime we watched together
  
 ### June 8, 2013  
  
+https://desuarchive.org/a/thread/87181017/#q87183169
+
 \>\>87182549  
 Fair enough; our child's future may very well be a stressful one. We knew that might be the case when we decided that we would pursue the pregnancy through to delivery. However, many situations allow us to refer to ourselves as husband/wife or, when documents require verification, fiances. No one has ever questioned our stated relationship; for example, I was able to be present at my son's birth because I had stated that I was his father, and when a woman in labor confirms that relationship, the nurses don't ask for ID.
  
@@ -649,8 +653,10 @@ From what I understand, the author's hands are tied by Japanese law preventing h
 \>\>87259280  
 I'm reasonably certain a secret wedding, complete with a passionate kiss, combined with Kyousuke using his valuable wish to kiss Kirino is a clear enough indicator that you've got your incest end. I'm guessing you'd prefer lascivious details of body fluid exchange to be completely satisfied, though.
  
-### Mon June 10, 2013  
+### June 10, 2013  
  
+https://desuarchive.org/a/thread/87284719/#87288185
+
 \>\>87288011  
 It would certainly be more convenient to demonstrate my authenticity if my tripcode still worked. But then, the tripcode in the picture in \>\>87287725, which was posted after my hiatus and is from an archive, shows my original trip. Either someone doctored the photo or that archive maintains the original tripcode algorithms.
  
@@ -727,6 +733,8 @@ Nothing you say can take away from what I have.
  
 ### Tue June 11, 2013  
  
+https://desuarchive.org/a/thread/87311107/#87314057
+
 \>\>87313849  
 It's a clever way to avoid saying that she's still involved romantically with Kyousuke. The 'secret that she can't tell anyone' is sufficiently ambiguous in that, if you're against incest, she's talking about her otaku life, but if you've followed the story, you'll understand that she's talking about her love for Kyousuke. It really warms my heart to see 'it's not something I can do without', since that means she can't live without her brother.
  
@@ -793,6 +801,8 @@ Er, no, I don't believe I can. Again, I have no idea how long it will take me to
  
 ### Fri June 14, 2013  
  
+https://desuarchive.org/a/thread/87505436/#87513333
+
 \>\>87512865  
 Couples that aren't technically married cannot check the 'married' box on their medical, tax, insurance, social security, and other official forms that would otherwise afford them benefits, financial or otherwise. This can, for example, be problematic for medical visitation rights. It requires an extra layer of care by the couple to avoid problems with the authorities.
  
@@ -833,6 +843,8 @@ I had a request for a full update, but due to time constraints (and frequent bon
 Such is the plan. There's no timetable yet, but I'll make an effort to move forward when possible.
  
 ### Sun Aug 04, 2013  
+
+https://desuarchive.org/a/thread/90812101/#90830795
  
 \>\>90814346  
 If it's any consolation, I'm in the process of writing an unnecessarily detailed account of what transpired prior to, during, and after our son's birth. At this point, I'd guess the finished text will be about ten posts long, but I won't know for sure until it's done.
@@ -842,6 +854,8 @@ Of course he is. We've already procured a laser-proof visor for when he hits pub
  
 ### Sat Aug 10, 2013  
  
+https://desuarchive.org/a/thread/91201109/#91217799
+
 \>\>91201109  
 Forgive me; I'm not quite finished recounting the last few years. I'm still fleshing out a general outline that I've prepared, but I find myself adding details that I expect /a/ would like to know to what I've already decided to write as I go. I am also putting moderate effort into avoiding potentially identifying information about my family while staying accurate to events as they unfolded. As I've been doing this while teaching the last few days of summer classes and then spending my evenings out in the sandbox with my son and whatnot, the actual time that I have to devote creative energy to this lengthy endeavor is limited. Now, with that said, you might justifiably ask why I still have time to browse /a/, to which I could only reply that reading tends to be less intensive than writing. Again, apologies to those still waiting.
  
