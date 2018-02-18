@@ -22,7 +22,7 @@ One of the most infamous and scandalous moments in SHAFT's Nisemonogatari series
 
 Unsurprisingly, this outlandish theory enticed /a/nons to [peer review it's credibility.](https://commandoanime.wordpress.com/2012/05/14/my-high-school-psychology-teacher-on-nisemonogataris-toothbrush-scene/)
 
-## October 3
+## October 3, 2010
 
 I have a tale for you, /a/.
 
@@ -36,7 +36,8 @@ In the end, she thanked me for brushing her teeth for her. I felt a little awkwa
 
 Since this chain of events was initated here, I thought I might post this in hopes that the OP of that thread see that his request did not fall on deaf ears. 
 
-## October 5
+## October 5, 2010
+
 I have a new story for you, /a/.
 
 Last I posted, I had brushed my sister's teeth for the second time. Unlike the first time, the second brushing felt more deliberate and awkward. I thought that we wouldn't have a third performance. I was wrong.
@@ -47,12 +48,14 @@ Since she stands a full head shorter than myself, conventional brushing was diff
 
 Thank you, /a/. This was a most worthwhile endeavour you recommended.
 
-## October 9
+## October 9, 2010
+
 I have posted in the past on this topic. My sister and I have developed an occasionally problematic and somewhat needy nightly ritual because of these threads. After brushing her teeth at the behest of /a/, she decided that in addition to my brushing her teeth, she should brush mine. As of this week, we're brushing our own teeth only once a day; the nightly brushing is done by the other. The odd thing about this, though, is that I don't really want to stop it. It's both endearing and affirming that my sister and I are close - something of which I am most glad.
 
 I'm in graduate school. She's in high school. I approached the subject with curiousity and interest - offering to brush her teeth only as a passing fancy - and while she initially declined the offer, after we talked about other subjects for a while she decided she did, in fact, want to give it a try. This has been... hmm, three weeks ago? It was only awkward after the second brushing. Before that was fun, and everything afterwards has been great. It was the second time that really made me think we wouldn't be doing it again.
 
-## October 22
+## October 22, 2010
+
 Hello again, /a/, from he who brushes his sister's teeth. I have an update to my curious tale for you.
 
 A quick recap of events thus far: Roughly a month ago, /a/ suggested we should brush our sister's teeth for them. Intrigued by this concept, I did so. My sister and I so enjoyed the experience that not long afterward, she hinted that she wanted me to offer to brush them again - and I did so. From that point on, I have brushed her teeth every night, and she occasionally brushed mine. This odd arrangement has continued - until last night.
@@ -69,7 +72,8 @@ This was yesterday evening. She has been cordial but skittish every time I see h
 
 I find myself hoping she does.
 
-## October 26
+## October 26, 2010
+
 Oral Hygiene Brother here, with an update.
 
 Thanks to /a/, I am quite content to brush my sister's teeth for her, and she mine - but after what can best be described as an awkward, aborted, post-brushing kiss attempt on her part earlier, I was concerned that our toothbrushing days were numbered. However, the next night indicated that the status quo had returned again.
@@ -82,7 +86,8 @@ Shortly before going to bed, she inquired as to why I originally wanted to brush
 
 Ah, yes. In short, after I had brushed her teeth, she demanded to brush mine. She spent a great deal of time on that. Afterward, she wanted to look at my teeth, and eventually put a finger in my mouth - on which I gently sucked, causing her some degree of consternation. After that, she leaned in close, and I suspected what she wanted to do. I closed my eyes and waited for soft lips to brush over my upper lip only. She must have significantly embarrassed herself, though, because she stopped. I hugged and thanked her and I wasn't sure what to make of that at the time.
 
-## October 30
+## October 30, 2010
+
 I didn't brush my sister's teeth tonight. She is feeling ill.
 
 Despite the possibility that she has the dreaded swine flu, I have been taking care of her. If I get sick as well, then so be it; it will have been for a good cause. For most of the day I have sat with her and kept her hydrated; I also served as a nurse for any requests she might have had. She has taken medicine for her fever, and I have been monitoring her health: Tiredness, chills, fever, dizziness, and cough. For my part, I find myself distracted by her pain; at the risk of sounding cliche, I would take it upon myself if I could. I don't tell her that, of course. She has enough to cope with as it stands.
@@ -91,7 +96,8 @@ In lieu of describing a nightly brushing, I'll instead mention that serving as a
 
 She's resting now; I would not be on /a/ were it otherwise. I write these updates for /a/ because you inspired me to become closer with my sister; times such as these remind me that we were always close, however.
 
-## November 2
+## November 2, 2010
+
 I have an update for you, /a/.
 
 My sister brushed my teeth tonight. Naturally, I brushed hers as well, but the events that transpired afterward will likely perk your interest.
@@ -104,7 +110,8 @@ When she finished, we cleaned up the area and ourselves. During a break in the l
 
 It seems I was taken off-guard, tonight.
 
-## November 7
+## November 7, 2010
+
 While I am my sister's oral hygienist, my story won't focus on that topic tonight.
 
 We continue brushing the other's teeth, though our grooming habits have spilled over into other areas as well; these days I brush her hair as well as her teeth, for example. That said, I thought I'd provide an update which is not restricted to the bathroom, so to speak.
@@ -117,7 +124,7 @@ Due to her ankles being unaccustomed to skates, she needed to rest periodically 
 
 We spent most of today together, and we spent the evening in proximity to each other. I am quite happy with this arrangement, /a/, and I suspect my sister feels the same.
 
-## November 28
+## November 28, 2010
 
 My sister and I traveled to our parent's house for Thanksgiving. We see them frequently, so this wasn't a momentous homecoming occasion. However, this holiday proved rather telling about where my relationship with my sister is heading.
 
@@ -131,7 +138,8 @@ I offered to let her get her shower first, but she insisted I go first. After I 
 
 I'll be taking a short break before writing the following day's segment; I prefer to write more concisely than this, and I do have someone who occasionally interrupts me...
 
-## November 29
+## November 29, 2010
+
 Hello again, /a/. Here is the continuation that I had hoped to give you yesterday.
 
 My sister asked me to take her shopping on Black Friday. For those of you who have never experienced this glut of consumerism, it involves most large retail chains offering particularly good deals early in the morning, which means that if you want to procure these bargains, you'll be required to wait outside the stores until they open for business. Never one to say no to my sister, we woke up at three-thirty AM and set out to the stores.
@@ -144,7 +152,8 @@ When we returned home, the time was scarcely past eleven AM. After a lunch of le
 
 I awoke to my sister squirming beside me. She apologized for waking me up, but her smile shined as she told me that was the best nap she'd had in ages. She then headed off to the bathroom. We spent the rest of the day oblivious to the passing of time: we watched some Bakemonogatari, we played on the Wii, and we prepared dinner as chef and sous-chef. I half expected - or perhaps hoped - after brushing her teeth again that night, that she would ask for us to sleep together on the sofa. She did not, however. For my part, I am unsure of how far our relationship can safely progress; I am unwilling - or unable - to draw any sort of line.
 
-## November 30
+## November 30, 2010
+
 Thank you for your suggestions. Well, on with the update, then, as apparently unsolicited as it may be.
 
 Some of my classmates invited me out for drinks on Saturday. When my sister asked where I was going, I told her that I had a hot date. I hadn't expected the rush of emotions that her face showed; she seemed quite shocked, and upset as well, though her only response was, "oh." I quickly revealed that it wasn't really a date and it was just drinks with friends, but she didn't seem to think my joke was particularly amusing. She wasn't sure she believed me, either, so my advice to her was that since this event wasn't a date, she should come along and make it one. She accepted.
@@ -157,7 +166,8 @@ One last point of interest: she didn't ask that I brush her teeth that night, bu
 
 How am I to know if she's a virgin? I don't recall her having any boyfriends, but her life is her own. I spent several years during my undergraduate studies separated from her. Only recently - in the last year - have we been living together again.
 
-## December 4
+## December 4, 2010
+
 My apologies, I'm having some formatting issues. This is a rather long post.
 
 Earlier this week, my sister and I went on our planned dinner date. We got to the restaurant late, in part due to my not expecting my sister to take as long as she did to doll herself up for the occasion. When she first came out of the bathroom with a face full of eyeliner, makeup, and lipstick, I couldn't help but laugh. She was rather cross with me until I mentioned how lucky she was that her natural cuteness didn't require her to apply makeup. She decided to wash her face and start over.
@@ -178,7 +188,8 @@ And there you have it. The following day I brought the subject up again, and she
 
 After dinner this evening we watched more episodes of Chobits together. She's enjoying that series much more than Bakemonogatari; she says all the characters are adorable. At the risk of sounding banal, I find the series has a whole new life when you watch it with someone you love.
 
-## December 9
+## December 9, 2010
+
 On with the update, then.
 
 As you know, I recently informed my sister of my love for her, and she reciprocated that love. I suppose I'd thought our lives would be different once we had expressed our feelings. Instead, daily life is largely unchanged; so much of our free time was spent with the other that romantic intimacy seems merely an extension of what we already felt. One dangerous effect of our esoteric relationship is how comfortable we've become with physical contact between us; kisses before and after I take her to school, warm embraces, and hand holding in stores would be difficult to explain to those aware of our kinship.
@@ -201,7 +212,8 @@ The following morning was certainly better than average; while I am not a mornin
 
 It also is worth mentioning that tonight is the first night that we haven't got to bed together since then. My sister was a little disappointed when I said I wanted to stay up and take care of a few things on the internet. She said that was okay, but that I should hurry up and come keep her warm.
 
-## December 14
+## December 14, 2010
+
 Oral Hygiene Brother here.
 
 I have another update. Before that, however, I should mention that my sister and I have finished Chobits. She told me that she liked Chii and Sumomo, enjoyed watching Hideki and Chii fall in love, and thought the end was really sweet. She also said she wants Sumomo for a cellphone. When I asked if she wanted to watch another anime, she responded that she did. I asked her what kind of show she wanted to see next, and after offering her a few genre and style options, she settled on an "adventure" featuring a "love story", and plot advancement may involve "a little violence, but not too much" and, if possible, "no big robots." I told her I'd try to find something she'd like.
@@ -220,7 +232,8 @@ At the mall, my sister stopped and lingered as we were walking by a certain popu
 
 In the end, she chose three sets: two for Christmas presents, and one that she promised not to wear until Christmas. She also perused jewelry and accessories while we were there, but she did not make any purchases. On the drive home I asked her if she was serious about what she'd mentioned in the store. She told me that she had given that a lot of thought, and she knew how much I loved her. She held my arm as she expressed that she loved me with all her heart, and though she knew it was corny, but she wanted our first time to be special. Momentarily speechless, when I found my voice I told her I didn't think it was corny at all, and I reaffirmed that I did love her. I also added that she should never feel that she needed to do anything she didn't want to do. She said she knew I'd say that. She told me she wanted to do it. We had to wait for Christmas, though.
 
-## December 21
+## December 21, 2010
+
 Oral Hygiene Brother here.
 
 Thank you for all the anime suggestions in my previous thread; the suggestions that came after I left the thread were not discounted. I also found the "impostor" accusations interesting; I wonder what it was that so set that update apart from previous ones.
@@ -232,7 +245,8 @@ I don't have an update to present tonight. Apart from our spending inordinate am
 Not to be insensitive to those who would like to hear more about our personal time together, I will also mention that I have seriously considered opening my Christmas present early these past few nights. My sister insists on nestling her body as closely against mine as possible when we sleep, and my hands seem to invariably find their way to her breasts during this time. A few nights ago our petting became so heavy that she abruptly ended the session and scooted to the bathroom, saying that she had to pee. I found it particularly difficult to sleep for some time after she returned.
 
 
-## January 1
+## January 1, 2011
+
 Do you know my name, /a/?
 
 For reasons which will be made clear, I haven't visited /a/ for several days. I would like to provide an update for the story of my sister and myself, though I will admit that, while the story is somewhat lengthy, it has precious little to do with anime or manga. That said, /a/ is the medium of this story, and I would like to post it here regardless.
@@ -263,7 +277,8 @@ We finished our sleeping arrangements and retired to separate rooms, which is no
 
 There is one last point I will mention in this overly long-winded update. Tonight, I gave her a present I had intended to give her on the first hour of the new year, though I should have given it to her at Christmas. We had been talking about living together after she finishes high school, and I had asked her if she really wanted to stay with me, long-term. She had responded that she did, without question. Now, I cannot honestly say that I feel no remorse whatsoever over what we've done; to be accurate, I feel I'm depriving my sister. If she stays with me, she'll never be able to show our parents how she looks in a wedding gown. She won't be able to give our parents a grandchild. She'll never have the luxury of what society deems a normal relationship. So when she told me she wanted to stay with me forever, I told her I felt the same way, and that I had something I wanted to give her. I knew I was rushing into this commitment, and that it could never technically "count", but I knelt in front of her and offered her a platinum engagement band. As she stretched out her hand and asked me to put the ring on her finger, I thought about how that might be the first time I was happy to have made her cry; mainly, though, I thought about how that was a moment my little sister deserved to have.
 
-## January 13
+## January 13, 2011
+
 Oral Hygiene Brother here. I have an update for /a/, though I'm not sure it contains anything of merit.
 
 My sister and I finished Outlaw Star. She considers it top shelf anime, though she was quite upset that Hilda didn't survive the early episodes. She also thought it was interesting watching the series in its original Japanese, which might or might not have been said just to please me; she was acting too kittenish at the time for me to hope to receive a straight answer. While I am reasonably sure she possesses a moderate interest in anime, it seems she watches it mostly as an excuse for us to snuggle together on the sofa for long stretches at a time.
@@ -274,7 +289,8 @@ I've talked to her about the possible negative results of spending time only wit
 
 I can't help mentioning that our nights together have been, and continue to be, exceedingly intense; our connection far exceeds any of my previous relationships. While I know that my sister is still young, I am certain that falling asleep in her arms and waking up beside her for the rest of my days is a gift of which I am not worthy, though I desire it nonetheless. I treasure every morning kiss as we start our daily routines, just as I cherish every embrace as I drop her off and pick her up at school. I understand that time will not stand still for us, but no matter what the future holds, I'll stay with her, in whatever manner she wishes.
 
-## March 22
+## March 22, 2011
+
 Greetings from Oral Hygiene Brother, [a/.
 
 Seeing as I've not posted for some time, I expect few of you will remember me. Nevertheless, as I currently have a bit more time than usual to gather my thoughts, I would like to offer an update about myself and my sister. As always, the subject matter of my updates is only parenthetically related to anime or manga; however, as my story has been told only on this board, I would like to post here again, if there are those who would care to listen present.
@@ -321,7 +337,8 @@ While I'm not advocating my relationship with my sister for anyone else, I do ad
 
 While I am aware that incest is legal in several European nations - France and Netherlands, off the top of my head - I doubt it is legal where I live.
 
-## March 24
+## March 24, 2011
+
 Oral Hygiene Brother here. That is, the genuine Oral Hygiene Brother.
 
 I have nothing to report since the Monday update, but I am somewhat grieved to see that yesterday evening I had an imitator post under my name and declare all the updates about myself and my sister up to this point a social experiment. While such slander over an anonymous medium should not upset me - despite the fact that said anonymous medium is being used to convey some of the more profound secrets of my life - it nonetheless was a shock to me to see the name Oral Hygiene Brother reviled as a liar and a charlatan. If you wish to believe that my tale is a work of falsehood, then by all means do so; however, I ask that you separate my words from those of the crude facsimile posted yesterday, as they are certainly not one and the same.
@@ -340,7 +357,8 @@ If you choose to undertake anything more than a close sibling bond with your sis
 
 Oh, and I'd rather not make a blogspot. The archives here are quite a large enough Internet footprint for me.
 
-## May 28
+## May 28, 2011
+
 Greetings from He-who-fails-to-attend-most-of-the-end-of-the-year-social-events-and-those-that-he-does-attend-he-br
 ings-his-sister-with-him, as I'm most likely known by my classmates at this point.
 
@@ -362,8 +380,8 @@ Yes, we do, rarely, brush each other's teeth these days. For the most part, thou
 
 While it's true that pills can have harmful side effects, we need them for a purpose other than her cramps. Ahem. 
 
+## June 3, 2011
 
-## June 3
 Hello, /a/.
 
 Tonight's update involves a curious case of life imitating art. My apologies in advance, but this update will be somewhat more brief than previous installments.
@@ -400,7 +418,8 @@ Sorry you feel that way. In part, I agree with you: I'd very much prefer to rema
 
 Thank you. I'll make an effort to provide short updates in a slightly more timely manner than once every two months or so.
 
-## June 13
+## June 13, 2011
+
 Oral Hygiene Brother here.
 
 I have an update for those of you who are curious about how our parents are dealing with what I suspect is a wariness about exactly what sort of relationship my sister and I have. It's not what I would call good news.
@@ -433,7 +452,8 @@ We've discussed the possibility of her moving back for a year, and we may opt fo
 
 Ah, we don't brush each others' teeth regularly, but if we've showered together, we occasionally brush together as well.
 
-## June 21
+## June 21, 2011
+
 Greetings, /a/.
 
 I have an update to the issue I mentioned last time concerning my sister's and my parent's demands that she stop living with me and return home. While we did not procure an ideal resolution during negotiations, we have plans to improve the situation.
@@ -479,6 +499,405 @@ You are, sadly, quite right. However, we've become so accustomed to blithely sho
 
 > Don't forget to smuggle [Sensodyne Repair & Protect from Canada or Europe with Novamin(tm)](http://ceramics.org/ceramic-tech-today/biomaterials/gsk-drops-ball-with-puzzling-us-release-of-sensodyne-repair-protect-sans-45s5-glass). Upon contact with saliva, the glass releases calcium and phosphate ions that form a calcium phosphate layer. The body then converts this to hydroxyapatite, [which creates a physical barrier over the tubules](https://www.youtube.com/watch?v=9iZeJ77yaTI) much like the original enamel.  
 > Thus, you could brush with toothpaste that literally rebuilds your teeth.
+
+## 2 Years Later (new tripcode)
+ 
+### June 07, 2013  
+ 
+\>\>87119736  
+Well now; that was certainly one possibility that I'm glad didn't come to pass.
+ 
+Thanks for still thinking of us, though. We're doing well... all - ahem - three of us.
+
+---
+
+\>\>87120213  
+Er, in fact, it's not my trip, which is odd. But, if it's any consolation, it's me. Let me check to make sure this is the right trip, though, just to be safe.
+
+---
+
+\>\>87120307  
+Life had a way of interfering with my /a/-browsing, but things are rather more settled at this point.
+
+---
+
+\>\>87120400  
+I thought the trip looked odd. Let me go back to what I have saved from earlier posts and see if I'm misremembering the tripcode. To be fair: I never expected to use it again.
+
+---
+
+\>\>87120599  
+Ah - well, unfortunately, it would seem that while my trip hasn't changed, the resulting tripcode has. I suppose at this point I have no method of proving who I am.
+ 
+\>\>87120581  
+If you mean you wonder if I'm the OHB who, quite some time ago, found the love of my life through good brushing practices, then yes.
+
+---
+
+\>\>87121008  
+While he certainly wasn't expected, and managed to, as an embryo, implant despite some fairly powerful birth control, our son is the inevitable result of two loving partners spending a great deal of time together.
+ 
+\>\>87121013  
+Well - actually, I didn't prepare anything. I had decided that my days of providing updates were over, and, with as much time has passed and how different our lives now are, I'm not even sure where to begin.
+ 
+\>\>87121057  
+No, I'm quite sure I used to have two ##.
+
+---
+
+\>\>87121503  
+It was quite by coincidence that I decided to check /a/ last night. I hadn't really been following Oreimo that closely - at least, not since volume 7, or whichever one it was that ended with the cliffhanger in which Kirino asks Kyousuke to be her boyfriend. Seeing the furor over this ending brought a certain satisfaction and nostalgia, and I considered posting at that time, but didn't. For whatever reason, though, here I am, posting with a trip that isn't even my old one.
+ 
+\>\>87121680  
+My sister asked me to get her a "birth detector" one night. After a quick trip, I returned with a pregnancy test, and when it returned positive, we both had a few choice expletives to shout. While a great deal of adjustment was required by all since that night, to answer your question, 'grandma' takes care of our son nearly every day while we work and go to school, respectively.
+ 
+\>\>87121698  
+Thank you.
+
+---
+
+\>\>87122025  
+Really? I seem to remember a final line of a novel that featured Kirino asking her brother to be her boyfriend, and the next novel picking up that it was a 'pretend boyfriend only' situation.
+ 
+\>\>87122039  
+He's my sister's son. I'm his uncle, and I'm taking care of both of them.
+ 
+\>\>87122106  
+Our mother, yes. While she knows the truth and was initially upset enough that I very nearly did spend time incarcerated, she has since decided that grandchildren make everything better.
+ 
+\>\>87122117  
+Better than leaving our son in the hands of any other daycare worker - not that he is impaired in any way, if that's what you're thinking. He's incredibly intelligent for such a young lad, but then, as his father, I'm quite biased.
+ 
+\>\>87122045  
+Thank you.
+
+---
+
+\>\>87122396  
+Coming back for good? I'm not sure. I will say that when you have a loving wife and a child, especially when said family violates a rather serious social taboo, one's motivation to tell a life story to the internet diminishes. I just thought that, since someone bothered to mention me in a thread some three and a half years after I had stopped posting, I might just resurface for a short while.
+
+---
+
+\>\>87122628  
+We considered abortion, and in the end, neither of us was willing to throw away the product of our love, especially when he had gone against all odds by implanting despite my sister's birth control (for your reference; mirena do NOT work!) When we heard that he was healthy, we to make our family work. That aside, my sister had already told me that she wanted kids.
+ 
+\>\>87122672  
+I suppose I am.
+
+---
+
+\>\>87123089  
+You're free to believe whatever you like. A few anons wanted to know if I was in jail, and I'm not. That's all I really needed to say, really.
+
+---
+
+\>\>87123192  
+Omit one of those, 'really's.
+ 
+I really ought to have prepared something in advance.
+
+---
+
+\>\>87123230  
+It depends on whether or not you're laughing. For my part, I do occasionally laugh at my situation; it's a funny world we live in.
+
+---
+
+\>\>87123357  
+Indeed I am. I never really wrote for fame, but to work through my own feelings. I suppose that's also why I don't write anymore: I know what I want, and I'm happy to say that I have it.
+
+---
+
+\>\>87123458  
+An on-topic post, eh!
+ 
+I enjoyed it. While I had definitely seen the writing on the wall back in chapter 7, I had decided to sit the rest of the adventure out and see what happened in the end. I'm glad to see a happy ending for siblings in such a well-known work of fiction.
+
+---
+
+\>\>87123461  
+Not to be the pessimist, but I think that, were I to simply post an update about our situation in the current /a/ climate, I'd probably find my thread deleted and myself banned in fairly short order.
+
+---
+
+\>\>87123746  
+She never liked that anime, actually. I think the last anime we watched together was Spice and Wolf - which indicates just how behind the times we are, I suppose.
+ 
+### June 8, 2013  
+ 
+\>\>87182549  
+Fair enough; our child's future may very well be a stressful one. We knew that might be the case when we decided that we would pursue the pregnancy through to delivery. However, many situations allow us to refer to ourselves as husband/wife or, when documents require verification, fiances. No one has ever questioned our stated relationship; for example, I was able to be present at my son's birth because I had stated that I was his father, and when a woman in labor confirms that relationship, the nurses don't ask for ID.
+ 
+Our son has inherited his mother's sharp intelligence and, while probably not necessarily appropriate to say, her beautiful features. He's a very good-looking child, and has received countless compliments from other parents when we take him to public play areas. Based on his ability to quickly grasp new concepts at a young age, we think that he'll be able to adapt to any future difficulties, just as we've adapted to our own challenges.
+ 
+I suppose what I'm asking is for you not to pity someone who has no cause for such.
+ 
+### June 9, 2013  
+ 
+\>\>87257981  
+Based on some early translations of the second kiss, it's reasonably obvious the wish encompassed more than a kiss; it was a declaration that Kyousuke wasn't giving up. Kirino's response, while in character, suggests she hoped he would feel that way.
+ 
+But yes, let's wait for the timeskip and see who's right.
+
+---
+
+\>\>87258675  
+From what I understand, the author's hands are tied by Japanese law preventing him from giving a positive spin to a full-incest end, so I'm expecting some ambiguity. However, from what I've already read, I have no doubt he's asking his audience to read between the lines and recognize that the siblings continue their relationship. At least, that's my somewhat subjective interpretation.
+
+---
+
+\>\>87259280  
+I'm reasonably certain a secret wedding, complete with a passionate kiss, combined with Kyousuke using his valuable wish to kiss Kirino is a clear enough indicator that you've got your incest end. I'm guessing you'd prefer lascivious details of body fluid exchange to be completely satisfied, though.
+ 
+### Mon June 10, 2013  
+ 
+\>\>87288011  
+It would certainly be more convenient to demonstrate my authenticity if my tripcode still worked. But then, the tripcode in the picture in \>\>87287725, which was posted after my hiatus and is from an archive, shows my original trip. Either someone doctored the photo or that archive maintains the original tripcode algorithms.
+ 
+In any case, I'm the same OHB that posted his and his sister's story several years ago.
+
+---
+
+\>\>87288214  
+No, I'm quite sure this is the original tripcode, with the correct number of ##'s. I suspect that the algorithm changed since I last posted, but that doesn't explain why my original tripcode would be found in that picture.
+
+---
+
+\>\>87288328  
+Well, we had an exchange of rings already, and while we never participated in any formal celebration, it's perhaps just as well; we consider ourselves bound to each other for life, and that's close enough. Besides, we don't really want too much extra attention to the fact that we aren't, in fact, married, as we've already explained ourselves as such in a few occasions.
+ 
+\>\>87288355  
+\>\>87288380  
+Thank you!
+ 
+\>\>87288413  
+Well, seeing as my sister had started college before our son was conceived, we briefly toyed with the notion of passing it off as a one-night-stand; I couldn't let my sister bear that shame by herself, though, and during the pregnancy we told them the truth - and things nearly went very badly. However, it's worked out, and our mother is very happy to help take care of her grandson while we're working or going to college.
+
+---
+
+\>\>87288498  
+I thought the ending was rather thoughtful, with both the beginning and ending involving siblings keeping a secret to protect each other. The secret just changed from otaku lifestyle to sibling romance.
+ 
+\>\>87288641  
+Ah, no, thank you.
+ 
+\>\>87288690  
+We're both really glad that our secret need not exclude our closest supporters, especially when said support is willing and free childcare!
+
+---
+
+\>\>87289004  
+Love isn't dead, anon. While it's true that I found my love in an unconventional place and regard myself as incredibly lucky to have found it with such a beautiful and amazing girl, I honestly believe that my story plays out more often than people realize: not the fact that we're siblings, but that we've found a soulmate with whom we can spend the rest of our lives. Don't despair; if you keep love as a goal in your heart, you may yet find someone in this unpredictable life who keeps their own hope locked away, ready to give it to you.
+
+---
+
+\>\>87289319  
+Ah, yes. Well, looking into the /pol/antir long enough might do that to even the bravest soul. Well - try to hold on to a string of hope, then. Even the most unexpected change in your life can bring happiness, but I also know that any change can be difficult.
+
+---
+
+\>\>87289682  
+I'll probably tell him the other way round, but yes. We currently aren't consistent when we introduce ourselves; if we think we can get away with it, we're husband and wife along with our son, or occasionally fiances with their child. Otherwise, we're an unconventional family comprising a single mother and son with an uncle 'to help them through the rough patch in their lives.' As you can imagine, I hate using the latter explanation.
+ 
+But to answer your question, I will tell him when it's appropriate. He deserves to know the truth. Then again, with the difficulty of the subject, I'm glad he can't talk yet.
+
+---
+
+\>\>87289952  
+Both our parents were upset and disappointed at first, though our dad came around first, I think. This is speculation, since we had been living apart from them for over a year at that point, but I suspect that our dad had a hand in preventing my incarceration. Again, purely speculative.
+ 
+And yes, we are in touch with our folks every day. Our mom watches our son during the day, except on weekends. It's a real boon.
+
+---
+
+\>\>87290128  
+Must I recount my sins? Suffice to say \>\>87290169 is right on both counts.
+
+---
+
+\>\>87290238  
+Without being too specific, I can tell you she wasn't a child in the eyes of the state when she gave birth to our son. I'd rather not say more than that, though.
+
+---
+
+\>\>87290381  
+Please. I'm not the monster you wish I was, I'm afraid, and with even a modicum of research you wouldn't be so off on your ages. My sister is taking college classes now, and since she's a brilliant and hardworking young woman, she's demonstrating nothing but excellence in them. Our son is weaned and has a loving grandmother who lets him get away with anything. For my part, I'm supporting my young family and giving the love of my life as secure a future as I know how. She sometimes worries that we didn't have enough time before the baby to enjoy with each other; I always tell her that I love her every bit as much now as I ever have, and I'm telling her the truth.
+ 
+Nothing you say can take away from what I have.
+ 
+### Tue June 11, 2013  
+ 
+\>\>87313849  
+It's a clever way to avoid saying that she's still involved romantically with Kyousuke. The 'secret that she can't tell anyone' is sufficiently ambiguous in that, if you're against incest, she's talking about her otaku life, but if you've followed the story, you'll understand that she's talking about her love for Kyousuke. It really warms my heart to see 'it's not something I can do without', since that means she can't live without her brother.
+ 
+But then again, maybe those spoilers aren't real. We'll have to wait and see.
+
+---
+
+\>\>87314240  
+Heh. You're certainly talking to the right guy if you want to posit that wedding vows 'stick' even if they aren't legally recognized. I agree with everything you said, of course.
+
+---
+
+\>\>87314457  
+Well, now that you mention it... there was this one rather plain girl that took a shining to me a while back. She mentioned something about trying to be more normal and~~
+ 
+Er, no. Apart from a co-worker (no glasses) who was rather forward with me (and who became rather displeased when I didn't reciprocate her advances), there's no Manami in our lives.
+
+---
+
+\>\>87314686  
+We've discussed the possibility of moving, but that would mean a lot less support for us and our child, since our extended family loves to buy presents and clothes for our son, and our mother helps out by providing childcare. We know we're walking a dangerous path - and more than once I've assuaged my sister's concerns while knowing that if the law does become involved, it'll be me, and not her, who suffers the worst of it. That said, she's told me many times I'm "not allowed to go to jail," because she can't bear to lose me. What can I say? I've never been able to tell her 'no'.
+ 
+I'll try to stay under the radar, though.
+
+---
+
+\>\>87314762  
+Hrm. I suppose your sentiment is echoed by others. I'll consider writing one last update, I suppose.
+ 
+It might take a while, though. I don't have the time and creative energy I used to have for putting our situation into words; it's mostly spent on our son these days.
+
+---
+
+\>\>87314789  
+No worries. She's out of the picture. Never the diplomat, she managed to upset quite a few people in the department prior to her interactions with me. When I rejected her, she was a bit of a pain to deal with for the month afterward, but she ended up transferring out, much to everyone's relief.
+ 
+To illustrate the kind of person she was, before coming on strong, she told me she wanted a husband who would pay for her to go scuba diving in Europe - with no mention of whether the husband could come along, too.
+ 
+\>\>87314941  
+I have literally no fear of being turned in by our mother. She's very happy with her grandchild.
+ 
+\>\>87314954  
+All life has risk. One reason I won't post too much about us is precisely because of your worry for us.
+
+---
+
+\>\>87315329  
+While I appreciate your sentiment, packing up a family and moving to a new state isn't likely to be an immediate endeavor. Try not to worry for us: it's surprisingly easy to avoid scrutiny when no one has cause for suspicion.
+
+---
+
+\>\>87315737  
+No, I doubt I could. Still, I'm not going to uproot my family for a risk that we both knew was real from the beginning.
+ 
+I'd rather not speak more on this.
+ 
+\>\>87315747  
+I believe you can google my moniker, "Oral Hygiene Brother" to find a pastebin that a kind anon set up.
+
+---
+
+\>\>87315955  
+Er, no, I don't believe I can. Again, I have no idea how long it will take me to summarize 3 years.
+ 
+### Fri June 14, 2013  
+ 
+\>\>87512865  
+Couples that aren't technically married cannot check the 'married' box on their medical, tax, insurance, social security, and other official forms that would otherwise afford them benefits, financial or otherwise. This can, for example, be problematic for medical visitation rights. It requires an extra layer of care by the couple to avoid problems with the authorities.
+ 
+The biggest problem we've run across is the estate, or death, taxes on unmarried couples. I won't bore you with unnecessary details, but it's a long-term concern.
+
+---
+
+\>\>87513572  
+Apologies, but due to the nature of the information I've already discussed about my family, I'm afraid my paranoia over the uncannily effective tracking methods of Anon to give any personally identifiable information, even if it's as benign as our son's name. But as for the tax situation: you couldn't be more right.
+ 
+\>\>87513629  
+As cliched as it may seem, my sister and I sometimes joke that it can be our turn after gay marriage catches on.
+
+---
+
+\>\>87513938  
+Oh dear - forgive those grammar issues. I'm being attacked at the moment by tiny paws that want attention.
+
+---
+
+\>\>87514097  
+Thank you! We appreciate your kind words.
+
+---
+
+\>\>87514547  
+You can make all the estate contracts you like; you still end up losing an obscene amount of money to taxes if you aren't married.
+ 
+\>\>87514635  
+Well - it happened much sooner than we had expected, but in retrospect, we wouldn't change a thing. Our chief concern about our future child turned out to be completely unfounded, and he's as healthy and intelligent (or moreso, in my opinion) than any of the other children we see when we visit parks and play areas as a family.
+ 
+\>\>87514975  
+I had a request for a full update, but due to time constraints (and frequent bonzai attacks on daddy while he's at his boring monitor that sometimes shows Winnie the Pooh or Spirited Away) I'm not sure when I'll be able to post. Three years is a long time to summarize.
+
+---
+
+\>\>87515517  
+Such is the plan. There's no timetable yet, but I'll make an effort to move forward when possible.
+ 
+### Sun Aug 04, 2013  
+ 
+\>\>90814346  
+If it's any consolation, I'm in the process of writing an unnecessarily detailed account of what transpired prior to, during, and after our son's birth. At this point, I'd guess the finished text will be about ten posts long, but I won't know for sure until it's done.
+ 
+\>\>90821130  
+Of course he is. We've already procured a laser-proof visor for when he hits puberty.
+ 
+### Sat Aug 10, 2013  
+ 
+\>\>91201109  
+Forgive me; I'm not quite finished recounting the last few years. I'm still fleshing out a general outline that I've prepared, but I find myself adding details that I expect /a/ would like to know to what I've already decided to write as I go. I am also putting moderate effort into avoiding potentially identifying information about my family while staying accurate to events as they unfolded. As I've been doing this while teaching the last few days of summer classes and then spending my evenings out in the sandbox with my son and whatnot, the actual time that I have to devote creative energy to this lengthy endeavor is limited. Now, with that said, you might justifiably ask why I still have time to browse /a/, to which I could only reply that reading tends to be less intensive than writing. Again, apologies to those still waiting.
+ 
+\>\>91213377  
+As I've mentioned in previous threads, my sister and I joke that seeing as we have legislation that legalizes gay marriage, perhaps our love will be next on the docket for legalization. That said, I'm not sure that we'd want to broadcast our relationship, if for no other reason than our son deserves a degree of privacy in that regard.
+ 
+\>\>91214051  
+Thank you. That's a kind thing for you to say.
+
+---
+
+\>\>91216188  
+Ah, yes. I'm afraid whoever recorded our story in the OP's pastebin didn't notice (or didn't care to act on) my recent activity here on /a/ - with recent being the last few months. Suffice to say, yes, we have a son, and by popular request I'm writing quite a lengthy set of posts about his birth.
+ 
+\>\>91216323  
+Thank you; I appreciate your good wishes.
+
+---
+
+\>\>91216372  
+\>\>91216374  
+Gracious; I'm not used to so many well-wishers! Thank you both, and anyone else I've missed in this thread. While I worry that I'm including a surplus of detail about trivialities, for example, relating to my sister's and my time at the hospital, I'll make an effort not to disappoint.
+ 
+\>\>91216588  
+Honestly, our son doesn't give us a lot of time to watch lengthy seasons of anime these days. We've managed to get through a few episodes of, off the top of my head, Darker than Black, Toaru no Index, and (naturally) Oreimo, though.
+ 
+\>\>91216714  
+Thank you! I'm glad our tale is still well-received by some /a/nons.
+
+---
+
+\>\>91216918  
+Thank you; I'll try to keep things interesting.
+ 
+\>\>91216996  
+While I'm probably being overly paranoid, I'd rather not give any specifics about my work; that said, I'm not currently working toward a doctorate, no. I've got a solid teaching position currently, however; one which mercifully spares me from being required to perform actual research for my department. For now, I'm content to wait on further education.
+ 
+\>\>91217130  
+Thank you!
+ 
+\>\>91217254  
+We're doing quite well now, in fact. Your interest in our well-being is greatly appreciated, and I'll try to have the update done within a few weeks, if possible. Seeing as we're near the end of the summer, things get a little hectic in my department.
+ 
+\>\>91217295  
+You're too kind! Thank you for your warm encouragement.
+
+---
+
+\>\>91217438  
+I can't deny it; that favorable reference makes me smile.
+ 
+\>\>91217480  
+\>\>91217447  
+I certainly hope that my family's precautions, combined with a modicum of optimism, will be enough to avoid such a fate.
+ 
+I'll actually be signing off here in a moment, /a/, as my wife tells me I'm needed elsewhere. It was pleasant to hear well-wishes from so many; thank you all.
 
 ## Sources
 
