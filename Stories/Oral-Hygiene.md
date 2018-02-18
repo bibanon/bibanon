@@ -341,6 +341,8 @@ While I am aware that incest is legal in several European nations - France and N
 
 ## March 24, 2011
 
+https://desuarchive.org/a/thread/32522913/
+
 Oral Hygiene Brother here. That is, the genuine Oral Hygiene Brother.
 
 I have nothing to report since the Monday update, but I am somewhat grieved to see that yesterday evening I had an imitator post under my name and declare all the updates about myself and my sister up to this point a social experiment. While such slander over an anonymous medium should not upset me - despite the fact that said anonymous medium is being used to convey some of the more profound secrets of my life - it nonetheless was a shock to me to see the name Oral Hygiene Brother reviled as a liar and a charlatan. If you wish to believe that my tale is a work of falsehood, then by all means do so; however, I ask that you separate my words from those of the crude facsimile posted yesterday, as they are certainly not one and the same.
