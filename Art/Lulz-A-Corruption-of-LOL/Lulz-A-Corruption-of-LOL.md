@@ -261,7 +261,7 @@ _Meme songs that don't get old_
 1. Alien Sex Fiend - Now I'm Feeling Zombiefied (7:57) [MP3 128kbps](http://anonym.to/http://thisisfil.com/music/Alien%20Sex%20Fiend%20-%20Now%20Im%20Feeling%20Zombiefied.mp3) Link is dead, requesting new onethe website checks refers, fixed link
 1. Boards of Canada - Beware the Friendly Stranger [MP3 128kbps](http://ziemniak91.wrzuta.pl/aud/file/pVvdh9Es8A/boards_of_canada_-_beware_the_friendly_stranger.mp3)
 1. Skinny Puppy - Ugli [MP3 128kbps](http://dl.nin.ru/public/muzak/sp/mythmaker/10.%20Skinny%20Puppy%20-%20ugLi.mp3)
-1. Aphex Twin - Rubber Johnny [MP3 128kbps](http://www.wrzuta.pl/aud/file/1WsrQV30ix/rubber_johnny.mp3)
+1. Aphex Twin - Afx273 v.7 [MP3 128kbps](http://www.wrzuta.pl/aud/file/1WsrQV30ix/rubber_johnny.mp3)
 1. VOLSUPA- THE END IS NEAR. [Youtube](http://www.youtube.com/watch?v=xYp_op6GTT0) Audio Tracks available [here](http://keepvid.com/?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxYp_op6GTT0). what do the creepyfags think?
 1. ??? - Zalgo Invocation [MP3](http://www.megaupload.com/?d=36V5J7O6) [YouTube Link](http://www.youtube.com/watch?v=4TFp71j7UjQ)
 1. Michael Jackson - Thriller
