@@ -1,4 +1,4 @@
-> **Note:** The Bibliotheca Anonoma has mostly migrated to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there: https://wiki.bibanon.org  
+> **Note:** The Bibliotheca Anonoma has mostly migrated to [a new wiki.](https://wiki.bibanon.org) Further developments will occur there and make all further edits there: https://wiki.bibanon.org  
 
 The **Bibliotheca Anonoma** is a research task force archiving, documenting, and safeguarding *Internet Folklife*.
 
@@ -16,7 +16,7 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 ### Contribute
 
-* Just create a Github account to edit this wiki.
+* <s>Just create a Github account to edit this wiki.</s> The Github wiki is defunct. Further developments will occur at our new wiki: https://wiki.bibanon.org  
 * If you just need to **drop off new stories/content**, visit our [Discord chat](https://discord.gg/0kPf8xuFPFa3iihT), we can help research and put it together as a wikipage.
 * The Bibliotheca Anonoma uses a [Kanban Board system](http://trello.com/bibanon), to coordinate our projects. It's publicly viewable (and commentable), so monitor our [progress there.](http://trello.com/bibanon)
   * We're trying to migrate to [Libreboard](http://libreboard.com) to replace Trello. That way, we can modify it to work as an anonymous dropbox for effortless contribution or community collaboration. Stay tuned.
