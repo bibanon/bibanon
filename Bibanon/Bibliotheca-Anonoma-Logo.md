@@ -70,7 +70,7 @@ That way, four characters can pack quite a lot of meaning, as shown from these b
 
 ![BA Compendium Logo](http://i.imgur.com/yJsMc3V.png)
 
-* **Designer** - Amersel (Amersel Overtwater)
+* **Designer** - Amersel Overtwater
 * **Application** - BA Compendium
 * **CJK Script** - 虛擬書架
 * **Meaning** - Virtual Bookshelf
@@ -114,7 +114,7 @@ Finally, after the logo was drawn and colored, it had to be scaled up to a viewa
 
 ![BASLQC Logo](http://i.imgur.com/1RFJhJ8.png)
 
-* **Designer** - Antonizoon (Antonizoon Overtwater)
+* **Designer** - Antonizoon Overtwater
 * **Tools** Piskel was used to draw this logo, on a Thinkpad X230 tablet.
 
 A compact logo was also created for the BASLQC.
@@ -163,7 +163,7 @@ It wasn't long before we created the second version below:
 
 ![Traditional Design, with original arabic text](http://i.imgur.com/uLyW9e3.png)
 
-This is the more traditional Square Kufic logo that we currently use. 
+This is the more traditional Square Kufic logo that we used in the past. It was designed in light of the Arab Spring protests which our predecessors had a hand in.
 
 It is diagonally symmetrical; both the top and right sides, and the bottom and left sides spell out "Maktabat Al-Anonoma", and the long, vertically extended lines of "Al Anonoma" lock together with each other.
 

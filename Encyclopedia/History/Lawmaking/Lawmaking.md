@@ -17,10 +17,6 @@ There have been many bills, passed or forgotten, that have caused major changes 
 
 * [[SOPA]]/PIPA (PROTECT IP) - 2011-12: Two bills that would take down websites instantly as soon as it was accused of a single count of copyright infringement. Was not passed due to severe opposition from internet communities of the time, but is still up for debate.
 
-## People
-
-* [[Tim Couch]] - A US Representative who led a crusade against Anonymous, and 
-
 ## Important topics and Events
 
 * [[Copywrong]] - The abuse of copyright law to restrict innovation and dampen competition.

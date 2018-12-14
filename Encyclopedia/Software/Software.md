@@ -69,7 +69,7 @@ This section lists important and useful software, mostly for the work of Anonymo
 |   |-- [[Earthquake-in-a-Box]]  
 |   |-- [[HackerPackage]]  
 |   |-- [[Net-Tools]]  
-|   |-- [[Nigra-Pack]]  
+|   |-- [[Pools-Closed-Pack]]  
 |-- [[Software]]  
 |-- Tips  
 |-- [[Windows-xp-performance]]  
