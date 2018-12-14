@@ -3,7 +3,7 @@
 [Bibliotheca Anonoma](https://wiki.bibanon.org) 
 ===================
 
-> **Note:** This wiki is gradually migrating to [a new website.](https://wiki.bibanon.org) 
+> **Note:** This wiki has moved to [a new website.](https://wiki.bibanon.org) Please update your links.
 
 * [[Home]]
 * [[Contribute|Home#Contribute]]
