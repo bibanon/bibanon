@@ -1,1 +1,1 @@
-Yes f*** my neighbor's wife  men f*** their daughter stole the money out of their dresser  I got some dope  now I'm high as f***  I'm ready for a shower  hi Provided by the Bibliotheca Anonoma. https://wiki.bibanon.org https://desuarchive.org https://rbt.asia , IRC: irc.rizon.net #bibanon, riot.im: #bibanon-chat:matrix.org
+Provided by the Bibliotheca Anonoma. https://wiki.bibanon.org https://desuarchive.org https://rbt.asia , IRC: irc.rizon.net #bibanon, riot.im: #bibanon-chat:matrix.org
