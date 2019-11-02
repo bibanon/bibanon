@@ -17,8 +17,7 @@ _Concrete_ may have obtained it from [Carlos Umazor's Google Site.](https://site
 The original source is unknown. It's likely that it came from Something Awful. (If you have further information, please get a Github account, and add to this wiki).
 
 ***
-Hey, I read this back in the day and sent it to friends; checking my email I find that it is "Escalation" by M Keacker.  It was originally found at http://web.ics.purdue.edu/~keackerm/Escalation.html which the waybackmachine has a copy of at http://web.archive.org/web/20041110220552/http://web.ics.purdue.edu/~keackerm/Escalation.html - from Nov 2004
-
+Hey, I read this back in the day and sent it to friends; checking my email I find that it is "Escalation" by Erik Ackermann.  It was originally found at http://web.ics.purdue.edu/~keackerm/Escalation.html which the waybackmachine has a copy of at http://web.archive.org/web/20041110220552/http://web.ics.purdue.edu/~keackerm/Escalation.html - from Nov 2004
 
 ***
 
