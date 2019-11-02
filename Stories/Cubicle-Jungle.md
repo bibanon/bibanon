@@ -16,6 +16,11 @@ _Concrete_ may have obtained it from [Carlos Umazor's Google Site.](https://site
 
 The original source is unknown. It's likely that it came from Something Awful. (If you have further information, please get a Github account, and add to this wiki).
 
+```
+Hey, I read this back in the day and sent it to friends; checking my email I find that it is "Escalation" by M Keacker.  It was originally found at http://web.ics.purdue.edu/~keackerm/Escalation.html which the waybackmachine has a copy of at http://web.archive.org/web/20041110220552/http://web.ics.purdue.edu/~keackerm/Escalation.html```
+
+***
+
 ## Escalation
 
 I know I should actively dread work, but I don’t. I feel sort of calm about work these days. I know it’s going to be awful, but somehow that knowledge allows me to shut off the part of me that would otherwise find it intolerable. So I arrived at work today and headed to my cubicle just like always.
