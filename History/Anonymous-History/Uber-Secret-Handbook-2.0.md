@@ -1,1 +1,0 @@
-http://zinelibrary.info/files/AnonymousSecurityStarterHandbook.pdf
