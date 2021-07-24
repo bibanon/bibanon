@@ -1,2 +1,0 @@
-## Meme
-a unit of cultural knowledge that is repeated and passed on many times. Examples of memes range from catchphrases and songs, to fashion trends and activities. Online, it has come to symbolize any popular media online that is, at least initially, user‐created. 

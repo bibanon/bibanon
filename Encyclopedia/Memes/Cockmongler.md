@@ -1,3 +1,0 @@
-## It's fucking Grinman ##
-
-For fuck's sake... Alright, Word Of Power time. It's Grinman. Always has been, always will be. Not Cockmongler. I'm not saying this towards the trolls who've flooded this thread with Cockmongler shit - they've no hope already. I'm saying this for your benefit - the Anonymous onlooker. You may be new and know nothing about this yet, or you may be old and just plain ignorant. But it's not Cockmongler. It started a few months ago, and it's everywhere. Take it from me. It's Grinman. You don't have to believe me, but I recommend that you do. If you don't, just keep it in the back of your head...the last flickering candle of truth. He's the Grinman. Not Cockmongler. Have some Whitecat too (not Longcat).
