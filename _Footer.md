@@ -1,1 +1,0 @@
-Provided by the Bibliotheca Anonoma. https://wiki.bibanon.org https://desuarchive.org https://rbt.asia , IRC: irc.rizon.net #bibanon, riot.im: #bibanon-chat:matrix.org
