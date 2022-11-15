@@ -543,7 +543,7 @@ The old man still lurks in the abyss.
 
 If you were a fan of The [[American Dream]], boy, do we have a story for you: The [[Cubicle Jungle]].
 
-* Original thread on Something Awful (If you know the link, please put it here)
+* Original thread on Something Awful: Note that Parts 1 and 2 are lost. Parts 3-5 are still avalable. [Part 1](https://forums.somethingawful.com/showthread.php?threadid=186744), [Part 2](https://forums.somethingawful.com/showthread.php?threadid=209856) [Part 3](https://forums.somethingawful.com/showthread.php?threadid=260220), [Part 4](https://forums.somethingawful.com/showthread.php?threadid=306921), [Part 5](https://forums.somethingawful.com/showthread.php?threadid=332580)
 * [Shii's archive of American Dream](http://shii.org/knows/American_Dream)
 * [The Forgotten Employee](https://sites.google.com/site/forgottenemployee/)
 * [Fohguild Thread](http://www.fohguild.org/forums/screenshots/40557-story-time-children.html)
