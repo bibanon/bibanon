@@ -23,20 +23,6 @@ Stories gleaned right out of SA's paywall.
 
 * [Bob Anderson's 4chan Story Collection](https://drive.google.com/folderview?id=0B49M2OVcxxc9dl9pYjBPaVN1YUE#) - An anon known as Bob Anderson has been archiving original literature and greentext from 4chan since 2013.
 
-### The Father and his Daughter
-
-Tales about anons who discovered an orphan in a terrible situation, and with the unexpected encouragement of the legions of Anonymous, helped them back up to their feet. Two anons, inspired by the first, repeated that kindness again in their own lives.
-
-Those anons became more than kind strangers; they became their child's mentors and adopted fathers.
-
-These stories are also of significant historical importance for their immersive depiction of 4chan culture during the Civil War Era (2006-2008).
-
-* **[[Damaged Goods]]** (2006-2007) - What happens when [[Anonymous]] decides to grow a heart and help a literally broken girl smile again? This is the story of a registered male nurse who posted to [[4chan]] about his newest patient, a triple amputee orphan. 
-  * Believing that there was no way he could help her, he posted his story on /b/, hoping for some lulzy responses. Unexpectedly, Anonymous showed empathy in epic proportions, pressing the man to give the girl a shoulder to cry on and maybe even give her a home.
-* **[[Blindmute Loli]]** (2007-2008) - A spiritual sequel to Damaged Goods, Blindmute Loli is about an American everyman who finds his life turned upside down after he saves, and later adopts an orphan from the street. 
-  * The injustice he suffers and the struggles he goes though just to see his adopted daughter will make you laugh, and will make you cry. Nobody knows if it's real or not, but it's a good story nevertheless.
-* **[[Romeo-san and Juliette]]** (2008) - Story taken from 4chan's /b/. Romeo-san, as he's called, has taken in a little girl that ran away from an abusive house. He decides that it is in his best interest that he adopt Juliette (sleepy-chan) 
-
 ### Feels Bad Man
 
 Stories that will leave you crying.
@@ -53,27 +39,6 @@ Stories that will leave you crying.
 ### Rage
 
 * **[[The Tale of Fionn]]** 
-
-
-### The Forbidden Fruit
-
-> The views expressed in these stories are solely those of the original author on 4chan, and do not necessarily represent the views of, and should not be attributed to, the archivists of the Bibliotheca Anonoma.
-
-Stories told of trials and tribulations, faced by those anons whose love is not only socially forbidden, but could result in the end of their lives.
-
-* **[[Uncle Anon]]** - It's a sad, yet touching story of the forbidden fruit of incest. Some have called it the modern-day Lolita.
-* **[[Uncle Anon 2]]** - A new story in the vein of the first, told by another uncle about his own lovestruck niece. 
-* **[[The Liliad]]** - Basement-dweller gets catfished by a loli.  Eventually he is cool with it.  Feels everywhere.
-* **[[Tasha's Brother]]** - A /b/tard, his sister, and his sister's friend. Lots of romance (read: sex), as well as his attempts to move out of his parents' house and become an adult.
-* **[[Oral Hygiene]]** - What happens when an /a/non, at the encouragement of his fellows, takes an interest in his younger sister's teeth.
-* **[[Amy-&-Cam]]** - A /b/tard ends up humoring his little sister's crush on him, fending off her jealousy and his own cheesy remarks to build a rather cuddly relationship. 
-
-### Little Bit of Everything
-
-Feel like fapping, laughing and crying at the same time? These are for you.
-
-* **[[Storybro's Magically Lewd Sleepover Adventure]]** - An anon tells a tale of a sleepover he was lucky enough to attend with five teenage women. 
-    * Instead of it becoming a flat-out harem fest as anons would expect, the anon relays a true epic tale of pain, feels, lewd and laughter. (Very Long)
 
 
 ### WTF
@@ -110,11 +75,6 @@ These stories will make you hurl.
 * **[[The Automator]]** - A story akin to the [[American Dream]], where a redditor, hired to manually type numbers into a computer, decides to create a program to do it for him. And thus, he manages to rake in bonuses while doing no work at all for 8 hours a day.
 * **[[Sweet Home 1985]]** - A story of what happens when a man from 2011 wakes up in the year 1984, and is forced to seek help at his own childhood home. Due to a similar inception to RomeSweetRome, it was put into the subreddit [/r/1985Sweet1985](http://www.reddit.com/r/1985sweet1985/).
   * We were unable to find the original Reddit threads of this story on our own, but a user named [Vestrideus](https://github.com/vestrideus) discovered that we had mistitled it 1984, rather than 1985. Many thanks, bro.
-
-## [[Wikichan]]
-
-* **[[Itoko Otoko]]** - Literally, "Cousin Man", in the same style as [[Densha Otoko]]. The first major story put on 4chan, his thread was stickied for his push to elope with his cousin.
-* **[[Jenny Jones]]**
 
 ## Hackers
 
