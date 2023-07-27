@@ -26,8 +26,6 @@
 * [[Tramp Anon]]
 * [[Sweet Home 1985]]
 * [[Horrible Monster]]
-* [[The Liliad]]
-* [[Damaged Goods]]
 * [[Denko]] - (´･ω･`)
 * [[A Tsundere Christmas Carol]]
 * [[The Bridgekeeper]]
